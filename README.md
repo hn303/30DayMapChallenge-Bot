@@ -2,4 +2,4 @@
 Monitoring #30DayMapChallenge on Twitter
 
 
-![images](./graphs/maps_count.jpg)
+![images](./graphs/maps_count.png)
