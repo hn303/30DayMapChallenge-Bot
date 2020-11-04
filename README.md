@@ -13,7 +13,7 @@ Twitter REST API with hashtag `#30mapchallenges`
 
 ### Maps
 
-As [Topi Tjukanov](https://twitter.com/tjukanov) mentioned in [30DayMapChallenge](https://github.com/tjukanovt/30DayMapChallenge) page, this map challenge is not a competation. Although this repo sorts maps by their favoriate count and retweet count. This repo never intend to compare all the wonderful maps but create a altas of inspiring maps for a reference. I am also interested in exploring the topic of reply in those maps with more attention (if i have time).
+As [Topi Tjukanov](https://twitter.com/tjukanov) mentioned in [30DayMapChallenge](https://github.com/tjukanovt/30DayMapChallenge) page, this map challenge is NOT a competation. Although this repo sorts maps by their favoriate count and retweet count. This repo never intend to compare all the wonderful maps but create a altas of inspiring maps for a reference. I am also interested in exploring topis in replies in those maps with more attention (if i have time).
 
 - **[Maps for Day 1 `#30mapchallenges (Points)`](day1.md)**
 
