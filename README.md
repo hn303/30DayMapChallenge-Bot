@@ -21,6 +21,7 @@ As [Topi Tjukanov](https://twitter.com/tjukanov) mentioned in [30DayMapChallenge
 
 - **[Maps for Day 3 `#30mapchallenges (Polygons)`](day3.md)**
 
+- **[Maps for Day 3 `#30mapchallenges (Hexagons)`](day4.md)**
 
 
 
