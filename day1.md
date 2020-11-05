@@ -50,6 +50,6 @@
 |----|-------------------------------------------------|-----------|------------|-----------------------------------------------------|
 | 50 | **[@gonzalotalavera](https://t.co/I6UNoGYVOx)** |        22 |         60 | ![](http://pbs.twimg.com/media/ElyMGZFWkAA7Fx2.jpg) |
 | 24 | **[@neocartocnrs](https://t.co/1GcTGraT9T)**    |         8 |         14 | ![](http://pbs.twimg.com/media/Elz2OvNXEAAItfe.jpg) |
-|  2 | **[@tomasral](https://t.co/khysneCwjM))**       |         5 |         35 | ![](http://pbs.twimg.com/media/El2FR9gXUAAU3Uf.jpg) |
+|  2 | **[@tomasral](https://t.co/khysneCwjM)**       |         5 |         35 | ![](http://pbs.twimg.com/media/El2FR9gXUAAU3Uf.jpg) |
 | 57 | **[@nurussadad](https://t.co/z4HaIfQMBi)**      |         4 |          7 | ![](http://pbs.twimg.com/media/ElxuzgpU0AEIbdT.png) |
 |  7 | **[@geologyjesse](https://t.co/dR68mE4zhD)**    |         4 |         14 | ![](http://pbs.twimg.com/media/El1vroKWoAEozEk.jpg) |
