@@ -9,6 +9,7 @@ Twitter REST API with hashtag `#30mapchallenges`
 - cleanning process for late entry tweets is only conducted in first two days
 
 ### Summary
+(Bar plot of daily tweets count for `1#30DayMapChallenge 2020` now has been updated. Previous version wrongly count duplicate files in data folder.)
 ![images](./graphs/maps_count.png)
 
 ### Maps
