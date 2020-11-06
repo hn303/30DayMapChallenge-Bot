@@ -2,14 +2,14 @@
 Monitoring [#30DayMapChallenge 2020](https://github.com/tjukanovt/30DayMapChallenge) launched by [Topi Tjukanov](https://twitter.com/tjukanov) on Twitter. Trying to engage this wonderful event in a special way. 
 
 ### Data
-Twitter REST API with hashtag `#30mapchallenges`
+Twitter REST API with hashtag `#30DayMapChallenge`
 
--  `#30mapchallenges` with image attached
-- data search only by date
+-  `#30DayMapChallenge` with image attached
+- search tweets by date since everyone has diffferent map theme
 - cleanning process for late entry tweets is only conducted in first two days
 
 ### Summary
-(Bar plot of daily tweets count for `1#30DayMapChallenge 2020` now has been updated. Previous version wrongly count duplicate files in data folder.)
+(Bar plot of daily tweets count for `#30DayMapChallenge 2020` now has been updated. Previous version wrongly count duplicate files in data folder.)
 ![images](./graphs/maps_count.png)
 
 ### Maps
