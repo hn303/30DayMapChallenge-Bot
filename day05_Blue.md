@@ -1,7 +1,6 @@
 ### Top favorited post for day 05 `#30mapchallenges (Blue)`
 | user                                           |   retweet |   favorite | media                                                                                        |
 |------------------------------------------------|-----------|------------|----------------------------------------------------------------------------------------------|
-| **[@ChekosWH](https://t.co/C5hHKUs4C9)**       |        13 |        131 | ![](http://pbs.twimg.com/media/EmBjEshU8AE0gNp.jpg)                                          |
 | **[@quorumetrix](https://t.co/FaZ30jCQtX)**    |        20 |        114 | ![](http://pbs.twimg.com/ext_tw_video_thumb/1324335093205250049/pu/img/qlRhi4aN71SBNJQr.jpg) |
 | **[@owenjpowell](https://t.co/x2Sy3NHYkQ)**    |        22 |        104 | ![](http://pbs.twimg.com/ext_tw_video_thumb/1324265182307246080/pu/img/gc_PIghoqgNO8Zp1.jpg) |
 | **[@rajbhagatt](https://t.co/HK1vbA3Iur)**     |        12 |         99 | ![](http://pbs.twimg.com/media/EmEOj-uU4AIyv3a.jpg)                                          |
@@ -20,7 +19,6 @@
 ### Top retweeted post for day 05 `#30mapchallenges (Blue)`
 | user                                           |   retweet |   favorite | media                                                                                        |
 |------------------------------------------------|-----------|------------|----------------------------------------------------------------------------------------------|
-| **[@ChekosWH](https://t.co/C5hHKUs4C9)**       |        13 |        131 | ![](http://pbs.twimg.com/media/EmBjEshU8AE0gNp.jpg)                                          |
 | **[@quorumetrix](https://t.co/FaZ30jCQtX)**    |        20 |        114 | ![](http://pbs.twimg.com/ext_tw_video_thumb/1324335093205250049/pu/img/qlRhi4aN71SBNJQr.jpg) |
 | **[@owenjpowell](https://t.co/x2Sy3NHYkQ)**    |        22 |        104 | ![](http://pbs.twimg.com/ext_tw_video_thumb/1324265182307246080/pu/img/gc_PIghoqgNO8Zp1.jpg) |
 | **[@rajbhagatt](https://t.co/HK1vbA3Iur)**     |        12 |         99 | ![](http://pbs.twimg.com/media/EmEOj-uU4AIyv3a.jpg)                                          |
