@@ -23,6 +23,6 @@ As [Topi Tjukanov](https://twitter.com/tjukanov) mentioned in [30DayMapChallenge
 
 - **[Maps for Day 4 `#30mapchallenges (Hexagons)`](day4.md)**
 
-
+- **[Maps for Day 5 `#30mapchallenges (Blue)`](day05_Blue.md)**
 
 Inspiration for the repo came from [Kalle Hallden](https://www.youtube.com/channel/UCWr0mx597DnSGLFk1WfvSkQ).
