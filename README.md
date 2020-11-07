@@ -41,6 +41,5 @@ As [Topi Tjukanov](https://twitter.com/tjukanov) mentioned in [30DayMapChallenge
 | **[@JulesGrandin](https://t.co/dvvR62ognx)**   |         6 |         41 | ![](http://pbs.twimg.com/media/Elvi4LMXUAA_D25.jpg)                                          |
 | **[@undertheraedar](https://t.co/DDQteTftnW)** |         5 |         38 | ![](http://pbs.twimg.com/media/EmIlVsbWoAAKeRN.jpg)                                          |
 | **[@IGNSpain](https://t.co/EOcrKg2Rtl)**       |         6 |         36 | ![](http://pbs.twimg.com/media/EmImIhRX0AYL13Q.png)                                          |
-                                    |
 
 Inspiration for the repo came from [Kalle Hallden](https://www.youtube.com/channel/UCWr0mx597DnSGLFk1WfvSkQ).
