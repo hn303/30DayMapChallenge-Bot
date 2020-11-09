@@ -4,7 +4,6 @@
 | **[@rajbhagatt](https://t.co/ZZ4JtYYcQN)**     |        57 |        425 | ![](http://pbs.twimg.com/media/EmT4eMxU8AAseGS.jpg)             |
 | **[@tjukanov](https://t.co/FI7OJKkYVD)**       |        47 |        291 | ![](http://pbs.twimg.com/media/EmIJ9jSXEAUkRpU.jpg)             |
 | **[@ShijiaWendy](https://t.co/wonAvjof5E)**    |         2 |        101 | ![](http://pbs.twimg.com/media/EmUXVwyVoAAXy0U.jpg)             |
-| **[@dr_xeo](https://t.co/O5hVm2fFYz)**         |        26 |         80 | ![](http://pbs.twimg.com/media/EmS0zfVWMAAi2hX.jpg)             |
 | **[@MapNav_Tom](https://t.co/NFCetTXTVb)**     |         6 |         70 | ![](http://pbs.twimg.com/media/EmQnqG7W4AIGzR4.jpg)             |
 | **[@Helenmckmck](https://t.co/Dbn79VWCkJ)**    |         7 |         67 | ![](http://pbs.twimg.com/media/EmUOhRfXEAAhlEI.jpg)             |
 | **[@JoeWDavies](https://t.co/mwHzmibvom)**     |        11 |         65 | ![](http://pbs.twimg.com/media/EmUe9iqXEAM9sIB.jpg)             |

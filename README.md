@@ -38,7 +38,6 @@ As [Topi Tjukanov](https://twitter.com/tjukanov) mentioned in [30DayMapChallenge
 | **[@rajbhagatt](https://t.co/ZZ4JtYYcQN)**     |        57 |        425 | ![](http://pbs.twimg.com/media/EmT4eMxU8AAseGS.jpg)             |
 | **[@tjukanov](https://t.co/FI7OJKkYVD)**       |        47 |        291 | ![](http://pbs.twimg.com/media/EmIJ9jSXEAUkRpU.jpg)             |
 | **[@ShijiaWendy](https://t.co/wonAvjof5E)**    |         2 |        101 | ![](http://pbs.twimg.com/media/EmUXVwyVoAAXy0U.jpg)             |
-| **[@dr_xeo](https://t.co/O5hVm2fFYz)**         |        26 |         80 | ![](http://pbs.twimg.com/media/EmS0zfVWMAAi2hX.jpg)             |
 | **[@MapNav_Tom](https://t.co/NFCetTXTVb)**     |         6 |         70 | ![](http://pbs.twimg.com/media/EmQnqG7W4AIGzR4.jpg)             |
 | **[@Helenmckmck](https://t.co/Dbn79VWCkJ)**    |         7 |         67 | ![](http://pbs.twimg.com/media/EmUOhRfXEAAhlEI.jpg)             |
 | **[@JoeWDavies](https://t.co/mwHzmibvom)**     |        11 |         65 | ![](http://pbs.twimg.com/media/EmUe9iqXEAM9sIB.jpg)             |
@@ -48,6 +47,7 @@ As [Topi Tjukanov](https://twitter.com/tjukanov) mentioned in [30DayMapChallenge
 | **[@evelynuuemaa](https://t.co/vKSohWb5Jb)**   |         9 |         57 | ![](http://pbs.twimg.com/media/EmSkJokW4AYLHCh.jpg)             |
 | **[@lacxrx](https://t.co/AEf0MIIMTQ)**         |         8 |         50 | ![](http://pbs.twimg.com/media/EmSWtEoW4AEECi2.jpg)             |
  
+
 
 
 Inspiration for the repo came from [Kalle Hallden](https://www.youtube.com/channel/UCWr0mx597DnSGLFk1WfvSkQ).
