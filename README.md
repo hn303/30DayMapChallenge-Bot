@@ -16,25 +16,25 @@ Twitter REST API with hashtag `#30DayMapChallenge`
 
 As [Topi Tjukanov](https://twitter.com/tjukanov) mentioned in [30DayMapChallenge](https://github.com/tjukanovt/30DayMapChallenge) page, this map challenge is NOT a competation. Although this repo sorts maps by their favoriate count and retweet count. This repo never intend to compare all the wonderful maps but create a altas of inspiring maps for a reference. I am also interested in exploring topis in replies in those maps with more attention (if i have time).
 
-- **[Maps for Day 1 `#30mapchallenges (Points)`](day1.md)** (include late entry)
+- **[Maps for Day 1 `#30DayMapChallenge (Points)`](day1.md)** (include late entry)
 
-- **[Maps for Day 2 `#30mapchallenges (Lines)`](day2.md)** (exclude late entry)
+- **[Maps for Day 2 `#30DayMapChallenge (Lines)`](day2.md)** (exclude late entry)
 
-- **[Maps for Day 3 `#30mapchallenges (Polygons)`](day3.md)**
+- **[Maps for Day 3 `#30DayMapChallenge (Polygons)`](day3.md)**
 
-- **[Maps for Day 4 `#30mapchallenges (Hexagons)`](day4.md)**
+- **[Maps for Day 4 `#30DayMapChallenge (Hexagons)`](day4.md)**
 
-- **[Maps for Day 5 `#30mapchallenges (Blue)`](day05_Blue.md)**
+- **[Maps for Day 5 `#30DayMapChallenge (Blue)`](day05_Blue.md)**
 
-- **[Maps for Day 6 `#30mapchallenges (Red)`](day06_Red.md)**
+- **[Maps for Day 6 `#30DayMapChallenge (Red)`](day06_Red.md)**
 
-- **[Maps for Day 7 `#30mapchallenges (Green)`](day07_Green.md)**
+- **[Maps for Day 7 `#30DayMapChallenge (Green)`](day07_Green.md)**
 
-- **[Maps for Day 8 `#30mapchallenges (Yellow)`](day08_Yellow.md)**
+- **[Maps for Day 8 `#30DayMapChallenge (Yellow)`](day08_Yellow.md)**
 
-- **[Maps for Day 9 `#30mapchallenges (Monochrome)`](day09_Monochrome.md)**
+- **[Maps for Day 9 `#30DayMapChallenge (Monochrome)`](day09_Monochrome.md)**
 
-#### Top favorited post for day 09 `#30mapchallenges (Monochrome)`
+#### Top favorited post for day 09 `#30DayMapChallenge (Monochrome)`
 | user                                           |   retweet |   favorite | media                                               |
 |------------------------------------------------|-----------|------------|-----------------------------------------------------|
 | **[@rajbhagatt](https://t.co/o7RzU2X45o)**     |        14 |        156 | ![](http://pbs.twimg.com/media/EmZNF7TVkAgxCIz.jpg) |
