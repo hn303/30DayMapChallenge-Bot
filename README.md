@@ -36,23 +36,24 @@ As [Topi Tjukanov](https://twitter.com/tjukanov) mentioned in [30DayMapChallenge
 
 - **[Maps for Day 10 `#30DayMapChallenge (Grid)`](day10_Grid.md)**
 
-#### Top favorited post for day 10 `#30DayMapChallenge (Grid)`
-| user                                           |   retweet |   favorite | media                                                           |
-|------------------------------------------------|-----------|------------|-----------------------------------------------------------------|
-| **[@tjukanov](https://t.co/ZlsGkCKlHW)**       |        16 |         96 | ![](http://pbs.twimg.com/tweet_video_thumb/EmcULMoXEAA21Gi.jpg) |
-| **[@JulesGrandin](https://t.co/XQ9wgm7bxS)**   |        14 |         95 | ![](http://pbs.twimg.com/media/ElvpDAzXgAAGud2.jpg)             |
-| **[@undertheraedar](https://t.co/dBkzTRnKmz)** |        11 |         93 | ![](http://pbs.twimg.com/tweet_video_thumb/EmcjdCaW8AEGz2W.jpg) |
-| **[@rajbhagatt](https://t.co/hWt9kEyaNs)**     |         9 |         82 | ![](http://pbs.twimg.com/media/Emd8rTHVgAEr5Iq.jpg)             |
-| **[@gontsa](https://t.co/3JPqrglKD8)**         |        10 |         77 | ![](http://pbs.twimg.com/media/EmfXU30XYAYMI97.jpg)             |
-| **[@dickoah](https://t.co/JBhjgOZadL)**        |        11 |         76 | ![](http://pbs.twimg.com/media/EmdNfbuW4AAX_eK.jpg)             |
-| **[@Helenmckmck](https://t.co/Frrsvyk7ML)**    |         6 |         71 | ![](http://pbs.twimg.com/media/Eme7NvTW8AEZ3Rj.jpg)             |
-| **[@kennethfield](https://t.co/TjNKcBYvn0)**   |        16 |         63 | ![](http://pbs.twimg.com/media/EmbrQLYU8AACuXJ.jpg)             |
-| **[@neocartocnrs](https://t.co/5G3WcvRqeH)**   |        10 |         59 | ![](http://pbs.twimg.com/media/EmckKPJW8AI_gYz.jpg)             |
-| **[@hansakwast](https://t.co/lF5iFWa22o)**     |         5 |         54 | ![](http://pbs.twimg.com/media/EmcgaBMW8AAJIB3.jpg)             |
-| **[@katiejolly6](https://t.co/xq7LdTbDLv)**    |        11 |         53 | ![](http://pbs.twimg.com/media/Eme40WDVoAECsPN.jpg)             |
-| **[@dr_xeo](https://t.co/ljmd9fLwhL)**         |         8 |         53 | ![](http://pbs.twimg.com/media/Eme1-yjWMAMHcCw.png)             |
-| **[@lacxrx](https://t.co/jNTRK0BT3i)**         |         6 |         43 | ![](http://pbs.twimg.com/media/EmcXmQFWMAEXSZF.jpg)             |
-| **[@burdGIS](https://t.co/ZJFJRpICXn)**        |         8 |         41 | ![](http://pbs.twimg.com/media/Emc5DZXXYAY1qk2.jpg)             |
+- **[Maps for Day 11 `#30DayMapChallenge (3D)`](day11_3D.md)**
+
+
+#### Top favorited post for day 11 `#30DayMapChallenge (3D)`
+| user                                            |   retweet |   favorite | media                                                           |
+|-------------------------------------------------|-----------|------------|-----------------------------------------------------------------|
+| **[@Cchurchili](https://t.co/evrRSUUfDx)**      |        39 |        241 | ![](http://pbs.twimg.com/media/EmjSGNKU8AIDWkt.jpg)             |
+| **[@MattiJKokkonen](https://t.co/NtQVKAqQ58)**  |        30 |        187 | ![](http://pbs.twimg.com/media/Emg-c_yW4AAtoJ4.jpg)             |
+| **[@cstats1](https://t.co/7WSXARPTYj)**         |        32 |        175 | ![](http://pbs.twimg.com/media/EmjtyLAXIAgu4Ay.jpg)             |
+| **[@theklaneh](https://t.co/zJZj3T7qlv)**       |        49 |        154 | ![](http://pbs.twimg.com/media/EmhxqqFW4AAMDbK.jpg)             |
+| **[@owenjpowell](https://t.co/T9omPyxTZZ)**     |        10 |        138 | ![](http://pbs.twimg.com/media/EmiSx05XIAAZ-Mk.jpg)             |
+| **[@stevefaeembra](https://t.co/BAynwNFHZk)**   |        11 |        119 | ![](http://pbs.twimg.com/media/Emii80MW4AE3JOP.png)             |
+| **[@rajbhagatt](https://t.co/TuWHkc4QY8)**      |         7 |        116 | ![](http://pbs.twimg.com/media/EmjW0JUUYAUMRn1.jpg)             |
+| **[@ShijiaWendy](https://t.co/8BsiAB0OIi)**     |         4 |        114 | ![](http://pbs.twimg.com/media/EmijAj2U0AIOJy_.png)             |
+| **[@dickoah](https://t.co/UIFny2tsdz)**         |        18 |         78 | ![](http://pbs.twimg.com/tweet_video_thumb/EmkzMkhXcAA_r8F.jpg) |
+| **[@DiasporaDan](https://t.co/QMFNhZ6uTe)**     |        14 |         75 | ![](http://pbs.twimg.com/media/EmjBNeXXIAAh2zF.jpg)             |
+| **[@SavoirsEnBulles](https://t.co/cA8Kgbp6r2)** |        15 |         72 | ![](http://pbs.twimg.com/media/Emij-lVXIAM33gm.jpg)             |
+| **[@adamdsteer](https://t.co/pfYLG0zbOd)**      |         6 |         70 | ![](http://pbs.twimg.com/media/EmkDZe9XMAEYOK3.jpg)             |
  
 
  
