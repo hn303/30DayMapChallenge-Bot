@@ -38,7 +38,7 @@ As [Topi Tjukanov](https://twitter.com/tjukanov) mentioned in [30DayMapChallenge
 
 - **[Maps for Day 11 `#30DayMapChallenge (3D)`](day11_3D.md)**
 
-- **[Maps for Day 12 `#30DayMapChallenge (Map not made with GIS software)`](day12_Map not made with GIS software.md)**
+- **[Maps for Day 12 `#30DayMapChallenge (Map not made with GIS software)`](day12_Map%20not%20made%20with%20GIS%20software.md)**
 
 
 #### Top favorited post for day 12 `#30DayMapChallenge (Map not made with GIS software)`
