@@ -2,10 +2,9 @@
 Monitoring [#30DayMapChallenge 2020](https://github.com/tjukanovt/30DayMapChallenge) launched by [Topi Tjukanov](https://twitter.com/tjukanov) on Twitter. Trying to engage this wonderful event in a special way. 
 
 ### Data
-Twitter REST API with hashtag `#30DayMapChallenge`
-
+#30DayMapChallenge related tweets are collected via Twitter REST API with the hashtag `#30DayMapChallenge`. All tweets are saved in `.\data` folder.
 -  `#30DayMapChallenge` with image attached
-- search tweets by date since everyone has diffferent map theme
+- search tweets by date since everyday has diffferent map theme
 - cleanning process for late entry tweets is only conducted in first two days
 
 ### Summary
