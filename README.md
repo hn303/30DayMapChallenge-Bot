@@ -9,6 +9,7 @@ Monitoring [#30DayMapChallenge 2020](https://github.com/tjukanovt/30DayMapChalle
 
 ### Summary
 (Bar plot of daily tweets count for `#30DayMapChallenge 2020` now has been updated. Previous version wrongly count duplicate files in data folder.)
+
 ![images](./graphs/maps_count.png)
 
 ### Maps
