@@ -1,0 +1,772 @@
+,tweet_id,tweet_text,language,tweet_created_at,retweet,favorite,hashtags,user_id,user_name,user,user_loc,user_follower,friends_count,media,tweet_url
+73,1327400700129779713,"Dumfries has early forms in Dron/Drun/Drum-, from Gaelic dronn 'hump' / druim 'ridge'. Plenty of ridges and humps to choose from on the map.
+#30DayMapChallenge #Day13 #Raster #QGIS #Blender #GIMP
+More on the name Dumfries here: https://t.co/goMfXSNCvA https://t.co/5L8EId5Qiq",en,2020-11-13 23:59:23,2,10,"[{'text': '30DayMapChallenge', 'indices': [141, 159]}, {'text': 'Day13', 'indices': [160, 166]}, {'text': 'Raster', 'indices': [167, 174]}, {'text': 'QGIS', 'indices': [175, 180]}, {'text': 'Blender', 'indices': [181, 189]}, {'text': 'GIMP', 'indices': [190, 195]}]",1081900377853829120,D&G place-names,dgplacenames,,577,299,http://pbs.twimg.com/media/Emveo4fW4AADVC6.jpg,https://t.co/goMfXSNCvA
+74,1327398086231150592,"Day 14 - Climate Change #30DayMapChallenge Cagayan River -longest river system in Luzon 20 yr. animated river inundation map @googleearth #RiverGIF 
+
+#TyphoonUlysses is not done in the Philippines. People are trying to survive this! Who else missed this on the briefing? https://t.co/euulDzithu",en,2020-11-13 23:49:00,1,0,"[{'text': '30DayMapChallenge', 'indices': [24, 42]}, {'text': 'RiverGIF', 'indices': [138, 147]}, {'text': 'TyphoonUlysses', 'indices': [150, 165]}]",2599428001,Francis Gasgonia,seateazen,Philippines,73,301,http://pbs.twimg.com/ext_tw_video_thumb/1327270948232282117/pu/img/HjJ9eRZk9iWwO4h_.jpg,https://t.co/euulDzithu
+75,1327397421282861058,"#30DayMapChallenge Day 13 - Raster
+Data from Missouri State's Ozarks Environmental and Water Resources Institute https://t.co/AOiqP4dJfe",en,2020-11-13 23:46:21,1,6,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",886193556,Allison Cully,AllisonCully,,229,108,http://pbs.twimg.com/media/Emvc6MzVcAAq9F5.jpg,https://t.co/AOiqP4dJfe
+76,1327395936092516352,"Day 13 of #30DayMapChallenge - Raster
+Tectonic map, made with R using the packages raster, rasterViz and rgdal. https://t.co/ueakQx1Ci8",en,2020-11-13 23:40:27,1,1,"[{'text': '30DayMapChallenge', 'indices': [10, 28]}]",2593554955,Kapazitätsdiode,varaktor,,28,182,http://pbs.twimg.com/media/EmvbiBbXcAADwiY.jpg,https://t.co/ueakQx1Ci8
+77,1327392899890257921,"#30DayMapChallenge Día 13: ráster. Humedad de suelo superficial, octubre de 2020, Sudamérica.
+
+A los ráster les tengo un cariño especial, debido a ellos aprendí a programar. 🖤
+
+#RStats #rspatial 
+
+Código: https://t.co/u3JPWAA8ZI https://t.co/gGmwx82EQv",es,2020-11-13 23:28:23,4,14,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'RStats', 'indices': [177, 184]}, {'text': 'rspatial', 'indices': [185, 194]}]",30381129,Steph Orellana Bello,sporella,Chile,315,193,http://pbs.twimg.com/media/EmvYxjmW8AAQjkq.png,https://t.co/u3JPWAA8ZI
+78,1327391892686958593,"#30DayMapChallenge Day 12: Map not made with GIS
+
+US Presidential Election 2020 projected Electoral College votes using Blender #b3d, #Python and #Gimp. Source: https://t.co/hIUEy9glVu https://t.co/akMU6PN1mJ",en,2020-11-13 23:24:23,3,16,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'b3d', 'indices': [128, 132]}, {'text': 'Python', 'indices': [134, 141]}, {'text': 'Gimp', 'indices': [146, 151]}]",159574073,Michael Legg,mjlegg,,159,107,http://pbs.twimg.com/tweet_video_thumb/EmvXvJ-WMAM1Y3u.jpg,https://t.co/hIUEy9glVu
+79,1327391879210610698,#30DayMapChallenge day 13: raster https://t.co/mLT11DH3CT,en,2020-11-13 23:24:20,1,4,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",275677658,Keith Jenkins,kgjenkins,Ithaca,1145,187,http://pbs.twimg.com/media/EmvX2w1W8AEPYbG.png,https://t.co/mLT11DH3CT
+80,1327389937059192832,"#30DayMapChallenge #Day13 #Raster 
+'Swiss' hillshade of Mars from @NASAMars 460 m MOLA data. Larger version: https://t.co/Sy1z6yjUsW https://t.co/7sJiyZheVd",en,2020-11-13 23:16:37,2,1,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'Day13', 'indices': [19, 25]}, {'text': 'Raster', 'indices': [26, 33]}]",1272146417323294721,Euan Mitchell,MindOverMagma,"Edinburgh, Scotland",36,100,http://pbs.twimg.com/media/EmvVl9cXEAAer8M.jpg,https://t.co/Sy1z6yjUsW
+81,1327385033578065923,Work wiped me out this week so I've named my #30DayMapChallenge accurately to the 10 minutes I felt like working on it. Just a simple hillshade added to the data I used as my basemap for my first map. Day 13: (Lazy) Raster https://t.co/WSCTsLs3zd,en,2020-11-13 22:57:08,1,2,"[{'text': '30DayMapChallenge', 'indices': [45, 63]}]",579246246,Cas,cas_maps,,184,1039,http://pbs.twimg.com/media/EmvRZh3WMAM0f1j.jpg,https://t.co/WSCTsLs3zd
+82,1327383241762881537,"#30DayMapChallenge 3D
+
+China Population Distribution in 2020
+
+Thanks to @undertheraedar clear tutorial, I finished the map in 10 minutes. Such a cool experience.
+
+Tutorial link: https://t.co/fUgQvxJnKo https://t.co/P6NCaNilWN",en,2020-11-13 22:50:01,0,7,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",1217864131883216899,Tu,tu_yukun,"Longmont, Colorado, US",15,118,http://pbs.twimg.com/media/EmvPsGXUYAETn4B.jpg,https://t.co/fUgQvxJnKo
+83,1327382233691394049,"Day 13 (Raster) of #30DayMapChallenge 
+
+Showing a map of #light #pollution on the British Islands by @culture_geographique (Instagram)
+
+#NovemberMapChallenge 
+#Maps
+#Raster
+#theGISgirl https://t.co/Ko8KPhTxuE",en,2020-11-13 22:46:00,2,5,"[{'text': '30DayMapChallenge', 'indices': [19, 37]}, {'text': 'light', 'indices': [57, 63]}, {'text': 'pollution', 'indices': [64, 74]}, {'text': 'NovemberMapChallenge', 'indices': [136, 157]}, {'text': 'Maps', 'indices': [159, 164]}, {'text': 'Raster', 'indices': [165, 172]}, {'text': 'theGISgirl', 'indices': [173, 184]}]",1269335161335959552,the GIS girl,TheGISGirl,,44,114,http://pbs.twimg.com/media/EmvPGx7XIAYkzl-.jpg,https://t.co/Ko8KPhTxuE
+84,1327381884456886272,"#30DayMapChallenge Day 13: Raster
+
+GB Terrain. Using #QGIS and #Aerialod.
+Source: Ordnance Survey Terrain 50 https://t.co/vhesVLSIP4 https://t.co/8feNOgGRyv",en,2020-11-13 22:44:37,2,8,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'QGIS', 'indices': [53, 58]}, {'text': 'Aerialod', 'indices': [63, 72]}]",159574073,Michael Legg,mjlegg,,159,107,http://pbs.twimg.com/media/EmvOrwMXcAAwaX4.png,https://t.co/vhesVLSIP4
+85,1327377701041266691,"What do you think of when you think ""#raster?"" We think about our high res scans of the maps in our collection! These are geographic data, stored in a matrix, which in this case is a matrix of pixels. For today's #30DayMapChallenge... 1/3 https://t.co/W9izNRIazl",en,2020-11-13 22:28:00,1,13,"[{'text': 'raster', 'indices': [37, 44]}, {'text': '30DayMapChallenge', 'indices': [213, 231]}]",65125461,Leventhal Map & Education Center at the BPL,bplmaps,"Copley Square, Boston, MA",4984,677,http://pbs.twimg.com/media/EmvKaMZWMAEIwPL.jpg,https://t.co/W9izNRIazl
+86,1327371760556240896,"This should have been my entry to yesterday's #30DayMapChallenge but I was off. So here it is: a map made with non GIS software. Well, it sort of is GIS software, since I made it with FME. But FME does more than GIS, plus this isn't your usual type of map! https://t.co/0fjQo6Mlac",en,2020-11-13 22:04:23,2,18,"[{'text': '30DayMapChallenge', 'indices': [46, 64]}]",94454747,FME Evangelist,FMEEvangelist,"Vancouver, Canada",1949,382,http://pbs.twimg.com/media/EmvFlPjWMAA_BxL.jpg,https://t.co/0fjQo6Mlac
+87,1327369852974211073,#30DayMapChallenge Day 13 | Playing around with Aerialod. Made a little render of Malta with ASTER 30m DEM data. https://t.co/asgxsFrz2z,en,2020-11-13 21:56:48,1,3,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",138810115,Pieter,PieterCappon,,13,150,http://pbs.twimg.com/media/EmvD0ChW8AA-dW3.jpg,https://t.co/asgxsFrz2z
+88,1327369833122582529,"#30DayMapChallenge Day 13 - Raster
+A slope map of a protected indigenous land in my home state. This community is surrounded by mining projects and they're still fighting to protect the river that gaves it a name ""Cateté"", sadly they have been quite affected by the pandemic. https://t.co/ZOMCBX4LcP",en,2020-11-13 21:56:44,2,0,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",180939408,torts,tgsousa_,,893,1013,http://pbs.twimg.com/media/EmvDkicXEAASMQI.jpg,https://t.co/ZOMCBX4LcP
+89,1327369566406791168,"#Day13 of #30DayMapChallenge #Raster: Map of Blandford, UK from 1800's. This is for a friend who isn't on Twitter, but she asked if one of the maps could be of where she lives. So there you go!👇 #blandfordforum #oldmaps #os #ordnancesurvey #historicalmaps (Source @EDINADigital) https://t.co/hCFIGOVB0I",en,2020-11-13 21:55:40,0,1,"[{'text': 'Day13', 'indices': [0, 6]}, {'text': '30DayMapChallenge', 'indices': [10, 28]}, {'text': 'Raster', 'indices': [29, 36]}, {'text': 'blandfordforum', 'indices': [195, 210]}, {'text': 'oldmaps', 'indices': [211, 219]}, {'text': 'os', 'indices': [220, 223]}, {'text': 'ordnancesurvey', 'indices': [224, 239]}, {'text': 'historicalmaps', 'indices': [240, 255]}]",1322438051533066240,Emma Hall,elmalovestrees,Germany,31,110,http://pbs.twimg.com/media/EmvDPHBXYAMGX63.jpg,https://t.co/hCFIGOVB0I
+90,1327368759192018944,Day 13 of the #30DayMapChallenge (Raster). Wrigley Field and Fenway Park using QGIS and public LIDAR data. Amazing the detail you can see. https://t.co/iJCjNdTntt,en,2020-11-13 21:52:28,2,12,"[{'text': '30DayMapChallenge', 'indices': [14, 32]}]",14344140,Daren Willman,darenw,"Houston, TX",80363,761,http://pbs.twimg.com/media/EmvCgPlXIAAX4WD.jpg,https://t.co/iJCjNdTntt
+91,1327368559945601024,"#30DayMapChallenge #Day13 Raster.
+
+DEM of Iceland and the Iberian Peninsula, visualized with QGIS.
+
+Data provided by Copernicus: the European Union's Earth Observation Programme.
+
+Source: https://t.co/ozqgrrkwLK https://t.co/e9m3viCY7I",en,2020-11-13 21:51:40,1,7,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'Day13', 'indices': [19, 25]}]",314881866,Joe Davies,JoeWDavies,Cardiff / Madrid / Luxembourg,194,160,http://pbs.twimg.com/media/EmvBw8YWEAA54ct.jpg,https://t.co/ozqgrrkwLK
+94,1327364362370215937,"#30DayMapChallenge Day 13 Raster
+
+Heatmap of #SubstanceAbuse Treatment Facilities in Los Angeles County, California, USA
+
+Data from @samhsagov w/ @qgis https://t.co/NDpjwaCXYx",en,2020-11-13 21:34:59,1,0,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'SubstanceAbuse', 'indices': [45, 60]}]",910889225448439808,Dennis Kao,professorkao,,116,226,http://pbs.twimg.com/media/Emu9J5qXUAQ9LfM.jpg,https://t.co/NDpjwaCXYx
+95,1327361335907262464,Fooling around with interpolation. Height of high buildings. #30DayMapChallenge   Day 13 Raster https://t.co/zQPuCey5iN,en,2020-11-13 21:22:58,1,4,"[{'text': '30DayMapChallenge', 'indices': [61, 79]}]",40151250,Tõnu Oja,tonuoja,,22,29,http://pbs.twimg.com/media/Emu77xuW8AE_oh0.jpg,https://t.co/zQPuCey5iN
+96,1327360709068546054,Open Water Raster Supervised Classification for Lake Champlain in Winter and Spring of 2017! #30daysmapchallenge #30DayMapChallenge https://t.co/TXmO0ytKqZ,en,2020-11-13 21:20:28,1,1,"[{'text': '30daysmapchallenge', 'indices': [93, 112]}, {'text': '30DayMapChallenge', 'indices': [113, 131]}]",18584005,gconant,gconant,Colorado,3,7,http://pbs.twimg.com/media/Emu7P7pXUAQUWy7.jpg,https://t.co/TXmO0ytKqZ
+97,1327359097893773315,"#30DayMapChallenge - Day 13: Raster
+
+NH64 Topography
+
+Today, I decided to do something really silly and write a NetPBM  P3 format image writer in Python.
+
+https://t.co/2zLFjnZM5Z
+
+This map was loaded from the ASC format @OrdnanceSurvey OS Terrain50 data for the NH64 grid square. https://t.co/YVn18up2zC",en,2020-11-13 21:14:04,1,0,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",12620762,Mike Coats,MikeCoatsDotCom,"Inverness, Scotland",293,1180,http://pbs.twimg.com/media/Emu6EA5XcAA9-eG.jpg,https://t.co/2zLFjnZM5Z
+98,1327358122608869376,"#30DayMapChallenge with #EarthEngine day 13: raster
+ 
+#HYCOM global sea surface temperature for July 1st, 2020. 🌐🌊🌡️
+ 
+Script: https://t.co/SRkmtxOxpF https://t.co/g99EY8g0PH",en,2020-11-13 21:10:12,9,23,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'EarthEngine', 'indices': [24, 36]}, {'text': 'HYCOM', 'indices': [54, 60]}]",831942603931127809,Justin Braaten,jstnbraaten,"Santa Cruz, CA",2405,1244,http://pbs.twimg.com/media/Emu5E4aUUAEd19t.jpg,https://t.co/SRkmtxOxpF
+99,1327357232665796615,"Día 13. #Map Ráster
+Mapa de Temperaturas Medias Anuales calculadas a partir de los datos de la red de Estaciones meteorológicas y Modelo Digital Elevaciones, mediante correlación, regresión e interpolación.  
+#30DayMapChallenge #geography #geografía #sig #gis https://t.co/VqmQdDj6Kg",es,2020-11-13 21:06:40,1,1,"[{'text': 'Map', 'indices': [8, 12]}, {'text': '30DayMapChallenge', 'indices': [209, 227]}, {'text': 'geography', 'indices': [228, 238]}, {'text': 'geografía', 'indices': [239, 249]}, {'text': 'sig', 'indices': [250, 254]}, {'text': 'gis', 'indices': [255, 259]}]",1294723270932156419,Francisco Pareja,FranParejaLopez,Córdoba,281,175,http://pbs.twimg.com/media/Emu4UsDW8AEb5Ej.jpg,https://t.co/VqmQdDj6Kg
+100,1327355726889693189,"#30DayMapChallenge 
+
+Day 13: Raster
+
+The #PeritoMoreno #Glacier is located in #Argentina, between 47º and 51º south latitude, and originates from the South Patagonian Ice Field, shared by Argentina and Chile. 
+Data source: Sentinel Hub Eo Browser https://t.co/Pobeea6cBL",en,2020-11-13 21:00:41,1,1,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'PeritoMoreno', 'indices': [41, 54]}, {'text': 'Glacier', 'indices': [55, 63]}, {'text': 'Argentina', 'indices': [78, 88]}]",1132056770,Riesgos Naturales & Medio Ambiente,arriskeus,International,754,1889,http://pbs.twimg.com/media/Emu2oK2XYAQALdF.jpg,https://t.co/Pobeea6cBL
+101,1327355593334484992,"Day 13, rasters, of the #30DayMapChallenge. This one took me forever.  Hill shaded vegetation around my house from USGS Landfire data - https://t.co/cQ3vLNt70O https://t.co/mHIcotjVXb",en,2020-11-13 21:00:09,1,5,"[{'text': '30DayMapChallenge', 'indices': [24, 42]}]",2184556843,Mike Schmidt,mikejschmidty,"Dolores, Colorado",115,1268,http://pbs.twimg.com/media/Emu233UVgAATmsG.jpg,https://t.co/cQ3vLNt70O
+102,1327355556361883653,"#30DayMapChallenge Día 13: Raster
+Esta es una ortofoto del Parque Mirador Independencia, un espacio público para la recreación a la orilla de la Barranca de Huentitán en Guadalajara, Jalisco. https://t.co/nyGTmBSUuH",es,2020-11-13 21:00:00,3,4,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",2239825712,IIEG Jalisco,IIEGJ,"Calzada de los Pirules #71, Ciudad Granja, Zapopan, Jalisco",4766,0,http://pbs.twimg.com/media/EmuxfTpW8AE9CHv.jpg,https://t.co/nyGTmBSUuH
+103,1327355382747058176,#30DayMapChallenge day 13. Fun with raster graphics and WebGL. Point data converted to raster for efficient WebGL filtering. Millions of data points queried at 60+fps. https://t.co/GE8nikMFir,en,2020-11-13 20:59:18,1,0,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",746464149094416384,Ken Goulding,ken_goulding,,7,82,http://pbs.twimg.com/ext_tw_video_thumb/1327355293890654208/pu/img/FKokOZJTKXtserS3.jpg,https://t.co/GE8nikMFir
+104,1327353446715039746,"#30DayMapChallenge Day 13
+🖼 Monkey Island II⏳1991
+🎨 Rob Gilbert 
+🏛 @LucasfilmGames 
+Estos mapas #ráster utilizaban gráficos en VGA que movían las imágenes con el motor de aventuras gráficas SCUMM. Los utilizaba Guybrush Threepwood para moverse entre los escenarios del juego https://t.co/fIrfnJgToM",es,2020-11-13 20:51:37,2,3,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'ráster', 'indices': [96, 103]}]",92787154,Esteban Escolano Molin,e2molin,"Madrid, Spain, Europe",454,1048,http://pbs.twimg.com/media/Emu07AFXIAUYpmF.jpg,https://t.co/fIrfnJgToM
+105,1327353264472547329,"Day 13: Raster
+#30DayMapChallenge https://t.co/OKpjeD4lev",en,2020-11-13 20:50:53,1,5,"[{'text': '30DayMapChallenge', 'indices': [15, 33]}]",1233423602948694017,Nic,DrNicNacks,,10,32,http://pbs.twimg.com/media/Emu0u9UXUAA3R4u.jpg,https://t.co/OKpjeD4lev
+106,1327352704809758721,"#30DayMapChallenge Raster , Détection des Bâtiments et  Arbres ,  Nuage de points #LiDAR  2015 de la Métropole de Lyon; https://t.co/qIFOVEshK7",fr,2020-11-13 20:48:40,1,0,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'LiDAR', 'indices': [82, 88]}]",2493409233,Africa & Geomatique,geocarta,,286,167,http://pbs.twimg.com/media/Emu0L5JXcAADpVO.png,https://t.co/qIFOVEshK7
+107,1327350492708663296,"Let's see what I can make out of these
+
+It has been a long day, but look forward to the weekend! 
+
+Keep moving while having some fun makes me happy🐙😎
+
+#30DayCookingChallenge
+instead of the proposed #30DayMapChallenge https://t.co/Suq8e8hGUi",en,2020-11-13 20:39:53,1,0,"[{'text': '30DayCookingChallenge', 'indices': [151, 173]}, {'text': '30DayMapChallenge', 'indices': [198, 216]}]",2686735688,Yu(Steven) ZHANG 张宇,steven4320555,"England, United Kingdom",882,728,http://pbs.twimg.com/media/EmuyPN5XUAYVjSn.jpg,https://t.co/Suq8e8hGUi
+108,1327346283930071047,Asfar Lake is the largest waterfall in the Gulf region #30DayMapChallenge #gis #alhasa https://t.co/qRgSI1p1NO,en,2020-11-13 20:23:09,3,6,"[{'text': '30DayMapChallenge', 'indices': [55, 73]}, {'text': 'gis', 'indices': [74, 78]}, {'text': 'alhasa', 'indices': [79, 86]}]",600827679,مـحمّد,iMohamedlil,"الشرقية, السعودية ",1222,406,http://pbs.twimg.com/media/Emulrk5W4AAWS5J.jpg,https://t.co/qRgSI1p1NO
+110,1327345097009225729,"#30DayMapChallenge Day 12: Raster
+#Dartmoor Hillshade - Grimspound and Challacombe Down. Created from Tellus SW Data: Copyright: NERC Environmental Information Data Centre https://t.co/I258Tl3yyc https://t.co/FZINHw2rz5",en,2020-11-13 20:18:26,6,9,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'Dartmoor', 'indices': [34, 43]}]",18795658,Matt Travis,Yakus,"Ivybridge, Devon",516,738,http://pbs.twimg.com/media/EmuskCuXMAMqBMi.png,https://t.co/I258Tl3yyc
+111,1327341244071211010,"Day 12 (Map not made with GIS software) Top favourited tweets #30DayMapChallenge 
+https://t.co/qPaklnnzCe https://t.co/7gCUW71uEs",en,2020-11-13 20:03:08,2,8,"[{'text': '30DayMapChallenge', 'indices': [62, 80]}]",528087151,Haifeng Niu,niu_haifeng,"Cambridge, England",33,403,http://pbs.twimg.com/media/EmupwLZXYAA_rAa.jpg,https://t.co/qPaklnnzCe
+113,1327340236049944579,"Day 13 of #30daymapchallenge￼, raster. Normalized Difference Vegetative Index (NDVI) and Normalized Difference Red Edge Index( NDRE). These two indices are commonly used to determine the health of plants. Imagery was collected using a @MicaSense RedEdge-MX. https://t.co/1BW6vKP6H8",en,2020-11-13 19:59:07,1,2,"[{'text': '30daymapchallenge', 'indices': [10, 28]}]",1280909342745800710,Chris Lyons,ChrisLyons26,"Shelbyville, KY",209,2602,http://pbs.twimg.com/media/Emuo6CxW8AQpksw.jpg,https://t.co/1BW6vKP6H8
+114,1327338252085436423,"Mount Rainier, WA is in for nearly 100"" of snow over the next 3 days as two winter storms slam into the Pacific Northwest. To the delight of skiers and snowboarders, this pattern looks to continue through the next 10 days #30DayMapChallenge #WAwx https://t.co/8YwQWlx8yL",en,2020-11-13 19:51:14,6,37,"[{'text': '30DayMapChallenge', 'indices': [222, 240]}, {'text': 'WAwx', 'indices': [241, 246]}]",769611811641491456,Evan Fisher,EFisherWX,"Asheville, NC, USA",1203,658,http://pbs.twimg.com/tweet_video_thumb/EmultfLXcAE7a_E.jpg,https://t.co/8YwQWlx8yL
+116,1327337734290231296,"#30DayMapChallenge Day 13 - Raster
+
+Forest Canopy Height calculation (using a drone) https://t.co/tjJCjFmZ7w",en,2020-11-13 19:49:11,1,6,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",62926974,Tomasral,tomasral,Asturies,84,430,http://pbs.twimg.com/media/Emume_NXcAA-2DK.jpg,https://t.co/tjJCjFmZ7w
+117,1327331414392664066,#30DayMapChallenge theme of the day: Raster. Tree cover density change. https://t.co/8AodRpjLFe,en,2020-11-13 19:24:04,1,4,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",283952850,Nikolaj G,Nikolaj_gr,Copenhagen,67,302,http://pbs.twimg.com/media/EmugJwfXcAYQxbv.jpg,https://t.co/8AodRpjLFe
+119,1327327325592104961,"#30DayMapChallenge #day13 Raster, Modelo digital de elevación de Marte, particularmente de la región entre la cuenca de Argire y la Cryse planitia https://t.co/nGD0jBvztK",es,2020-11-13 19:07:49,2,10,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'day13', 'indices': [19, 25]}]",28714934,Alonso Cortés,aloCrts,Mexico DF,130,425,http://pbs.twimg.com/media/EmucNpyW8AEI8BO.jpg,https://t.co/nGD0jBvztK
+120,1327327184579678210,"#30DayMapChallenge day 13, raster. SF districts image on top of stamen watercolor raster tiles.
+#rspatial #mapboxgl4r https://t.co/DaaP632eLx",en,2020-11-13 19:07:16,2,2,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'rspatial', 'indices': [96, 105]}, {'text': 'mapboxgl4r', 'indices': [106, 117]}]",1321515174214410240,_sk,_skuethe,,3,4,http://pbs.twimg.com/media/EmubvMWW8AAt-Dw.jpg,https://t.co/DaaP632eLx
+121,1327326741392617473,"🏞️Bathymetry of Lake Michigan
+
+#30DayMapChallenge Day 13 #Raster
+Made with #QGIS #Maps #Michigan 
+#Bathymetry https://t.co/1H4ziUUWbv",en,2020-11-13 19:05:30,3,6,"[{'text': '30DayMapChallenge', 'indices': [31, 49]}, {'text': 'Raster', 'indices': [57, 64]}, {'text': 'QGIS', 'indices': [75, 80]}, {'text': 'Maps', 'indices': [81, 86]}, {'text': 'Michigan', 'indices': [87, 96]}, {'text': 'Bathymetry', 'indices': [98, 109]}]",1154257288158298112,geoscéntricos,geoscentricos,Ciudad de México,207,185,http://pbs.twimg.com/media/Emucm-_UcAA75rl.jpg,https://t.co/1H4ziUUWbv
+123,1327323625662328832,#30DayMapChallenge I spend most of the day as chief witness at a public inquiry into a wind farm proposal. #GIS models of visual impact on wild land areas. The QC didn't understand this map. Can you? 31 million viewshed calculations!!! https://t.co/1FZsr6hsX6,en,2020-11-13 18:53:07,1,13,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'GIS', 'indices': [107, 111]}]",734297005846081536,Steve Carver,LandEthics,"Yorkshire, England",2035,443,http://pbs.twimg.com/media/EmuZwgxW8AAqX3Z.jpg,https://t.co/1FZsr6hsX6
+124,1327322894871965698,"The middle reaches of the Dniester River, Ukraine.
+#30DayMapChallenge Day 13: Raster
+Tools: SAGA GIS, QGIS. Data: Sentinel-2, SRTM https://t.co/DosI3yRezh",en,2020-11-13 18:50:13,5,32,"[{'text': '30DayMapChallenge', 'indices': [51, 69]}]",14992557,gontsa,gontsa,"Cherkasy, Ukraine",4532,1415,http://pbs.twimg.com/media/EmuYeagW8AAbKfI.jpg,https://t.co/DosI3yRezh
+125,1327321267192688645,"#30DayMapChallenge Day 13: Raster
+Average monthly daytime land surface temperature, November 2019 to October 2020 https://t.co/gM5jdMuNhY",en,2020-11-13 18:43:45,2,2,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",759988092,Matthew Law,Iawmatthew,,20,48,http://pbs.twimg.com/tweet_video_thumb/EmuWi85XYAAcy9x.jpg,https://t.co/gM5jdMuNhY
+126,1327321167015923712,Today's #30DayMapChallenge theme was raster data. So I created a prediction map of #MountainHare distribution/climate suitability using a GLM in #RStats https://t.co/2iMsyyuCya,en,2020-11-13 18:43:21,6,15,"[{'text': '30DayMapChallenge', 'indices': [8, 26]}, {'text': 'MountainHare', 'indices': [83, 96]}, {'text': 'RStats', 'indices': [145, 152]}]",46426450,Joshua Copping,JoshCopping,United Kingdom,97,167,http://pbs.twimg.com/media/EmuW88ZXEAAuwLK.jpg,https://t.co/2iMsyyuCya
+127,1327320043806449664,"#30DayMapChallenge
+ #Day12 Not made with GIS software
+
+Nombre d'habitants au Km² par département au Bénin
+
+1 petit pois pour 10 habitants.
+
+Pour le littoral je n'avais pas assez de petits pois du coup j'ai mis une rondelle d'oignons 😂
+C'est l'exercice le plus dur depuis le Day1. https://t.co/fM6VXa9OJs",fr,2020-11-13 18:38:53,1,4,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'Day12', 'indices': [20, 26]}]",1076222694,Lionel,lioneltodome,,55,192,http://pbs.twimg.com/media/EmuWi4VXYAE759I.jpg,https://t.co/fM6VXa9OJs
+128,1327318555969400833,"#30DayMapChallenge Día 9 - Monocroma!!
+
+Malla Vial Integral de Bogotá. Hablemos de planificación y emergencia....
+
+https://t.co/xbtSYEwRwF https://t.co/2CN8H57TKM",es,2020-11-13 18:32:58,1,2,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",56802420,Juanco,JCamilOrt,"Bogotá, D.C., Colombia",392,933,http://pbs.twimg.com/media/EmuT5T2XIAUNRAJ.jpg,https://t.co/xbtSYEwRwF
+129,1327315480537862144,"Day 13: Raster #30DayMapChallenge 
+My first try at making bivariate choropleth maps using wonderful instructions by @grssnbchr and @jakub_nowosad. Tried to map the relationship between population and #GDP of Indian states.
+#rspatial #rgeomatic #r4ds #RStats #RStudio https://t.co/mDu7QmgOB0",en,2020-11-13 18:20:45,2,5,"[{'text': '30DayMapChallenge', 'indices': [15, 33]}, {'text': 'GDP', 'indices': [200, 204]}, {'text': 'rspatial', 'indices': [223, 232]}, {'text': 'rgeomatic', 'indices': [233, 243]}, {'text': 'r4ds', 'indices': [244, 249]}, {'text': 'RStats', 'indices': [250, 257]}, {'text': 'RStudio', 'indices': [258, 266]}]",28133471,Nilanjan Chatterjee,footloose_nil,"Dehradun, India",266,261,http://pbs.twimg.com/media/EmuQeFXWEAEZaH6.jpg,https://t.co/mDu7QmgOB0
+130,1327315479006908416,"Today (Day 13) I made a quick population map of #Bangalore using raster data from @WorldPopProject. Appears to underestimate Bangalore's population; especially in the east and south. Not sure why.
+#30DayMapChallenge #Bengaluru #bloremapped #maps #rspatial https://t.co/QsqRZYBfw4",en,2020-11-13 18:20:45,2,2,"[{'text': 'Bangalore', 'indices': [48, 58]}, {'text': '30DayMapChallenge', 'indices': [197, 215]}, {'text': 'Bengaluru', 'indices': [216, 226]}, {'text': 'bloremapped', 'indices': [227, 239]}, {'text': 'maps', 'indices': [240, 245]}, {'text': 'rspatial', 'indices': [246, 255]}]",1222519447165886465,Anirudh,_anirudhgovind,India,136,1571,http://pbs.twimg.com/media/EmuSGhyVgAE6vfx.png,https://t.co/QsqRZYBfw4
+131,1327314546525155330,"#30DayMapChallenge 
+
+Day 14 Suggestion (November 14) - Climate Change
+
+Data
+https://t.co/vrvi6nd8NG https://t.co/8UDMsO6SIP",en,2020-11-13 18:17:02,1,2,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",3160198320,Dr Chris #GIS #Success,DrChrisGeoSci,"Calgary, Alberta",722,659,http://pbs.twimg.com/media/EmuRi8-WEAQOXF4.png,https://t.co/vrvi6nd8NG
+132,1327312908443918339,#30DayMapChallenge Day 13: #Raster #ERDAS #HexagonGeospatial #DEM https://t.co/oBd9CzIAES,und,2020-11-13 18:10:32,1,0,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'Raster', 'indices': [27, 34]}, {'text': 'ERDAS', 'indices': [35, 41]}, {'text': 'HexagonGeospatial', 'indices': [42, 60]}, {'text': 'DEM', 'indices': [61, 65]}]",424357259,Richard Goodman,dbgoody,Inside too much,257,1273,http://pbs.twimg.com/media/EmuP7MxWEAAuJ0f.jpg,https://t.co/oBd9CzIAES
+133,1327311865307951105,"#30DayMapChallenge Day 12: Raster
+Not the most innovative, but I learned so much about manipulating raster files while making it. Night lights, 2013, using the VIIRS+DMSP dLIGHT dataset https://t.co/UpGVZKP5da https://t.co/wmlSttHTIE",en,2020-11-13 18:06:23,1,8,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",13844282,Ana Lucía González,anlugonz,London,2132,3627,http://pbs.twimg.com/media/EmuPFvDWEAA64iE.png,https://t.co/UpGVZKP5da
+134,1327310870574231552,Land cover around Newcastle. Data from  @UK_CEH #30DayMapChallenge #day13 #rasters #greencity https://t.co/mn9CjzRLfT,en,2020-11-13 18:02:26,4,8,"[{'text': '30DayMapChallenge', 'indices': [48, 66]}, {'text': 'day13', 'indices': [67, 73]}, {'text': 'rasters', 'indices': [74, 82]}, {'text': 'greencity', 'indices': [83, 93]}]",318026127,Craig Robson,CaRobson,Newcastle,168,201,http://pbs.twimg.com/media/EmuN73MXYAIlMQy.png,https://t.co/mn9CjzRLfT
+135,1327310073316610050,"Hi #datafam, this is day 2 of playing with Blender. I wanted to create a 3D map, but I got this instead when I rendered it. This is Day 30 of #30DayMapChallenge, a map.😂 https://t.co/dxWPIFgvpr",en,2020-11-13 17:59:16,1,14,"[{'text': 'datafam', 'indices': [3, 11]}, {'text': '30DayMapChallenge', 'indices': [142, 160]}]",1184143605679542272,DataLoy,_DataLoy,,443,895,http://pbs.twimg.com/media/EmuNFfFVQAIsmL4.jpg,https://t.co/dxWPIFgvpr
+136,1327309443802034176,"#30DayMapChallenge Day 13: #Raster
+ms. copy on #rasterpaper (#squaredpaper, #graphpaper) in Dutch of a Javanese plan of the royal tombs at #Kotagede, c. 1890. @ubleiden @AsianLibraryNL #KITLV #Jogjakarta #Java #Mataram #Indonesia
+https://t.co/K9Ojcjxv8X
+https://t.co/sz2VJLvRqr https://t.co/g2BHcKYlei",en,2020-11-13 17:56:46,0,1,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'Raster', 'indices': [27, 34]}, {'text': 'rasterpaper', 'indices': [47, 59]}, {'text': 'squaredpaper', 'indices': [61, 74]}, {'text': 'graphpaper', 'indices': [76, 87]}, {'text': 'Kotagede', 'indices': [139, 148]}, {'text': 'KITLV', 'indices': [185, 191]}, {'text': 'Jogjakarta', 'indices': [192, 203]}, {'text': 'Java', 'indices': [204, 209]}, {'text': 'Mataram', 'indices': [210, 218]}, {'text': 'Indonesia', 'indices': [219, 229]}]",889150492751925250,Martijn Storms,MapStorms,,865,375,http://pbs.twimg.com/media/EmuM5vWXUAAKIpO.jpg,https://t.co/K9Ojcjxv8X
+137,1327306734294077440,#30DayMapChallenge Day 13 is rasters. The coolest rasters I have seen this year were made by a team of my undergraduate summer fellows. The team spent the summer training GANs to make geologic maps from satellite images. Here are some of their results https://t.co/oCxIhFo6KB,en,2020-11-13 17:46:00,2,10,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",2719547953,Jesse Pisel,geologyjesse,,600,472,http://pbs.twimg.com/media/EmuDpHQWEAAA12v.jpg,https://t.co/oCxIhFo6KB
+138,1327305884750540800,"Sticking with Port Eynon, from beach profiles to bathymetry.  #30DayMapChallenge Day 13 - Raster map. Made using bathymetry data from UKHO Admiralty https://t.co/br4vRKq8lU",en,2020-11-13 17:42:37,1,0,"[{'text': '30DayMapChallenge', 'indices': [62, 80]}]",1318518242080661504,Christoph Er,dataisawesomeo,,9,101,http://pbs.twimg.com/media/EmuJpqiXYAAF-vd.jpg,https://t.co/br4vRKq8lU
+140,1327303714437214208,"#30DayMapChallenge #Day13 still in the desert for the raster theme- this time looking into the auxiliary information @CopernicusEU DEM - luckily we have these Metainfo 
+- Data: at ESA via https://t.co/F43qP5LfgV and @EU_Eurostat #GISCO https://t.co/H4pw86U02o 
+-17days2go (1/2) https://t.co/itJtIjN5gM",en,2020-11-13 17:34:00,1,6,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'Day13', 'indices': [19, 25]}, {'text': 'GISCO', 'indices': [229, 235]}]",2574612668,hannes reuter,hireuter,,208,419,http://pbs.twimg.com/media/EmtHwwjXUAIe5Am.jpg,https://t.co/F43qP5LfgV
+141,1327303138987094016,"For #raster day of the #30DayMapChallenge two super cool #maps of income, topography, and faults in the Bay Area that our digital mapping whiz did for a class session. https://t.co/4y3XYGSkrF",en,2020-11-13 17:31:43,1,11,"[{'text': 'raster', 'indices': [4, 11]}, {'text': '30DayMapChallenge', 'indices': [23, 41]}, {'text': 'maps', 'indices': [57, 62]}]",281545406,HarvardMapCollection,HarvardMapColl,"Cambridge, Massachusetts, USA",6422,902,http://pbs.twimg.com/media/EmuHKD2XYAIluKN.jpg,https://t.co/4y3XYGSkrF
+142,1327301331833528320,"Day 13: Raster
+
+This one was a bit tricky having never really used raster data, so I played around with different contextily to plot raster tile base maps for my Strava data.
+#30DayMapChallenge https://t.co/V5gADdnLkd",en,2020-11-13 17:24:32,1,10,"[{'text': '30DayMapChallenge', 'indices': [175, 193]}]",925667303777325056,Francesca Pontin,FrancescaPontin,"Leeds, England",231,342,http://pbs.twimg.com/media/EmuFarpXYAARk7s.jpg,https://t.co/V5gADdnLkd
+143,1327301311524524032,"#30daymapchallenge 13/30: Raster. I rasterize most of my maps already, so indulge me with another off-prompt tangent: album art for live recordings of my second band @HoneyWhiteRocks, featuring maps of cities we played (shown: Goleta, Santa Barbara, UCSB, Ventura) circa 2002-2006 https://t.co/WJayHs88Mu",en,2020-11-13 17:24:27,1,4,"[{'text': '30daymapchallenge', 'indices': [0, 18]}]",1224107513131327488,keirtography,keirtography,"Ventura, CA",61,195,http://pbs.twimg.com/media/EmuAndYVoAEynrp.jpg,https://t.co/WJayHs88Mu
+144,1327300952102203400,"Day 13 of #30DayMapChallenge: Raster.
+
+...It's a Friday...
+
+Don't learn more: https://t.co/bhkCPF5piz https://t.co/UVcRL4EmqL",en,2020-11-13 17:23:01,3,37,"[{'text': '30DayMapChallenge', 'indices': [10, 28]}]",741653561314922496,ᵐᵃᵖᵗᵃˢᵗⁱᶜ🗺ₖₐₜₑ,pokateo_,"Ann Arbor, Michigan",2179,2372,http://pbs.twimg.com/media/EmuFBqkXMAAk9I_.jpg,https://t.co/bhkCPF5piz
+146,1327297740649488384,"#30DayMapChallenge Day 13... Raster
+
+Svalbard Sunpath during the summer solitude🌞
+
+made in Qgis using the DEM by https://t.co/cNlb7JcoGv https://t.co/qxoFUy8oqH",en,2020-11-13 17:10:16,1,11,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",1200892211996635139,Danae Kontou,DanaeKontou,,27,95,http://pbs.twimg.com/tweet_video_thumb/EmuB0-cW8AAwWBZ.jpg,https://t.co/cNlb7JcoGv
+147,1327297022257475584,"A labour of love over a few evenings for #30DayMapChallenge on the red theme. It shows the birthplace of every player to play for @LFC, created using #Tableau.
+
+Interactive version available here:
+https://t.co/x259fjeth2 https://t.co/yaIjDTgKn4",en,2020-11-13 17:07:24,2,4,"[{'text': '30DayMapChallenge', 'indices': [41, 59]}, {'text': 'Tableau', 'indices': [150, 158]}]",202227790,David Leather,david_leather,Sheffield,166,293,http://pbs.twimg.com/media/Emt_y1xWMAM_pLy.jpg,https://t.co/x259fjeth2
+148,1327296228791627778,"#30DayMapChallenge I rarely map Central or Western #Asia, so today I want to showcase some terrain from #Iran. The Alborz mountains are covered in lush forests, a stark contrast with our media image of this part of the world. Labels in #Farsi (hopefully they're right :P) https://t.co/sgLqdB7Avz",en,2020-11-13 17:04:15,1,26,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'Asia', 'indices': [51, 56]}, {'text': 'Iran', 'indices': [104, 109]}, {'text': 'Farsi', 'indices': [236, 242]}]",822048926081712128,Carl Churchill,Cchurchili,CO / Tabeguache Ute Land,1533,712,http://pbs.twimg.com/media/EmuAZkdXcAAv_Yn.jpg,https://t.co/sgLqdB7Avz
+149,1327296099523186688,"If it seems like I'm leaving out a major step for each of my entries in the #30DayMapChallenge, that's because I AM.
+
+I'm using the @postgis connector for @qgis - it makes the [admittedly basic] cartography a snap once I've prepped the data. Many thanks to the team that built it! https://t.co/USIJ9eDgeq https://t.co/aAsdLiAR6K",en,2020-11-13 17:03:44,1,5,"[{'text': '30DayMapChallenge', 'indices': [76, 94]}]",278873782,Map/,vtcraghead,"Burlington, VT",3652,860,http://pbs.twimg.com/media/EmuActTXIAAY16c.jpg,https://t.co/USIJ9eDgeq
+150,1327295160414191616,"#30DayMapChallenge Day 13 - Raster  
+Solar resource: global solar radiation (Wh/m2/year) - Mapa del recurs solar: radiació solar global (Wh/m2/any)
+https://t.co/POS1cSvbsn 
+#IDEAndorra #Andorra https://t.co/PcUkb4D2QM",ca,2020-11-13 17:00:00,2,7,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'IDEAndorra', 'indices': [173, 184]}, {'text': 'Andorra', 'indices': [185, 193]}]",2342154006,Àrea de cartografia,areacartografia,Govern d'Andorra,319,700,http://pbs.twimg.com/media/EmtNujXXcAAheBQ.jpg,https://t.co/POS1cSvbsn
+151,1327294776614539265,"#30DayMapChallenge day 13 - raster.
+
+A false-color composite of the Bristol channel. 
+
+Tools: R
+Data: https://t.co/NIwZd3EHuG
+Code: https://t.co/d5vVSdGCRa https://t.co/CHcQqhqOmw",en,2020-11-13 16:58:29,1,6,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",61612315,Nathanael Sheehan,MrNSheehan,"Falmouth, England",8919,594,http://pbs.twimg.com/media/Emt-odAXMAIfGRc.jpg,https://t.co/NIwZd3EHuG
+152,1327294523114807299,Mount Rainier elevation painted; #30DayMapChallenge Day 13 Raster https://t.co/yMZYhzSOdu,en,2020-11-13 16:57:28,1,9,"[{'text': '30DayMapChallenge', 'indices': [33, 51]}]",44530833,Andrew French,andrewrfrench,"Wisconsin, USA",439,1824,http://pbs.twimg.com/media/Emt_FaXUUAAWa-V.jpg,https://t.co/yMZYhzSOdu
+153,1327294459181223936,"Guadalajara en 1961
+#30DayMapChallenge 2020
+Día 13: Ráster https://t.co/BbvBUAtwds",es,2020-11-13 16:57:13,2,5,"[{'text': '30DayMapChallenge', 'indices': [20, 38]}]",890753654822588417,Yaireth Ortiz,Yaireth_Ortiz,,10,347,http://pbs.twimg.com/media/Emt_RLWWEAMc5T3.jpg,https://t.co/BbvBUAtwds
+154,1327293836331200512,"#30DayMapChallenge 
+Day 13 - Raster
+
+Atractivos turísticos de Pachuca, Hidalgo
+
+Data: Elaboración propia con información de https://t.co/CZisSM3CwL https://t.co/L3t6G49HAB",es,2020-11-13 16:54:45,1,1,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",894755514571046915,The White Rabbit Science,whiterabbit_sci,,26,72,http://pbs.twimg.com/media/Emt-tXNWEAIzs54.jpg,https://t.co/CZisSM3CwL
+155,1327293742739578882,The river after last night’s rain.  #dumfries #whitesand #scotland #nature #rivers. #riverlife  #30DayMapChallenge #johnlewischristmasadvert https://t.co/qXpLOpCMJ0,en,2020-11-13 16:54:22,1,0,"[{'text': 'dumfries', 'indices': [36, 45]}, {'text': 'whitesand', 'indices': [46, 56]}, {'text': 'scotland', 'indices': [57, 66]}, {'text': 'nature', 'indices': [67, 74]}, {'text': 'rivers', 'indices': [75, 82]}, {'text': 'riverlife', 'indices': [84, 94]}, {'text': '30DayMapChallenge', 'indices': [96, 114]}, {'text': 'johnlewischristmasadvert', 'indices': [115, 140]}]",1307811075254030337,Catherineanne Graham,Catheri94452625,,193,632,http://pbs.twimg.com/ext_tw_video_thumb/1327293698942627842/pu/img/-UnXiHrXJHB9oxCq.jpg,https://t.co/qXpLOpCMJ0
+156,1327292459647320065,"#30DayMapChallenge Day 13 - Raster
+
+Well, I've been doing raster processing all month, so here are some figures I made for work. https://t.co/85ES561C4o",en,2020-11-13 16:49:16,3,23,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",851149914725916672,ksituan northland,ksituan,Val Marie / Treaty 4,1197,157,http://pbs.twimg.com/media/Emt81FcVEAEIkyv.jpg,https://t.co/85ES561C4o
+157,1327292092146651139,"Day 13 of the #30daymapchallenge - Raster 
+
+Not very familiar with using raster or lidar data but I gave it a go anyway! DSM showing areas of forest and building estates and a DTM showing the surface underneath from the NE part of Lough Neagh, N.I
+
+#LIDAR #Loughneagh #GIS https://t.co/iVcrwApnvc",en,2020-11-13 16:47:49,1,3,"[{'text': '30daymapchallenge', 'indices': [14, 32]}, {'text': 'LIDAR', 'indices': [249, 255]}, {'text': 'Loughneagh', 'indices': [256, 267]}, {'text': 'GIS', 'indices': [268, 272]}]",179094335,sarah☻,sarah_wilson7,"Dublin City, Ireland",142,326,http://pbs.twimg.com/media/Emt9H0uW8AAxmzN.jpg,https://t.co/iVcrwApnvc
+158,1327291174407852032,"#30DayMapChallenge
+Day13: Raster 
+
+Title: #Kuwait False-color Image
+
+Software used: @qgis, @Illustrator, &amp; @Blender 
+
+The image was obtained from #GEE #Copernicus sentinel-2 in Jan-2020
+
+ I used #Blender3d to add terrain effects
+
+#cartography #geography https://t.co/YcPI5Xoe7Q",en,2020-11-13 16:44:10,0,8,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'Kuwait', 'indices': [42, 49]}, {'text': 'GEE', 'indices': [150, 154]}, {'text': 'Copernicus', 'indices': [155, 166]}, {'text': 'Blender3d', 'indices': [199, 209]}, {'text': 'cartography', 'indices': [234, 246]}, {'text': 'geography', 'indices': [247, 257]}]",908818700660236288,عبداللطيف الياقوت,geo_alyaqout,Kuwait (Ex Texan),208,191,http://pbs.twimg.com/media/Emt7jceXMAEcwSn.jpg,https://t.co/YcPI5Xoe7Q
+159,1327290558570778624,"I suppose yesterday also satisfies the Day 13 #GIS #30DayMapChallenge (big, color pixels!), but I haven't worked with rasters before, so I learned to find various views of where I live (same lat/long settings, different detail zooms). https://t.co/U1XhntvCO5 https://t.co/LAi5buPvLo",en,2020-11-13 16:41:43,1,1,"[{'text': 'GIS', 'indices': [46, 50]}, {'text': '30DayMapChallenge', 'indices': [51, 69]}]",25813395,Paul I 🇺🇸🇩🇪,pivanputs,Southeastern MA,141,402,http://pbs.twimg.com/media/Emt7LBbWEAEbtwe.png,https://t.co/U1XhntvCO5
+160,1327290134014930944,Rocking the raster on day 13 of the #30DayMapChallenge with @OrdnanceSurvey - this ones from an Urban Demonstrator project assessing the impacts of roads on rivers #mapping #rivermaps https://t.co/Eb05jmJthy,en,2020-11-13 16:40:02,2,6,"[{'text': '30DayMapChallenge', 'indices': [36, 54]}, {'text': 'mapping', 'indices': [164, 172]}, {'text': 'rivermaps', 'indices': [173, 183]}]",454007980,Westcountry Rivers Trust,WestcountryRT,Cornwall.Devon.Dorset.Somerset,4572,3610,http://pbs.twimg.com/media/Emt7V-QXUAAtML3.jpg,https://t.co/Eb05jmJthy
+161,1327289298396340226,"Today's map shows a DTM of the Isle of Portland, Dorset. This uses LIDAR data from the Environment Agency. The Isle of Portland is part of the world famous Jurassic Coast and is tethered to the mainland by Chesil Beach. 
+
+https://t.co/Ci7eL1xOvf 
+
+#30DayMapChallenge #Raster https://t.co/bJSgv5qTn2",en,2020-11-13 16:36:43,2,3,"[{'text': '30DayMapChallenge', 'indices': [248, 266]}, {'text': 'Raster', 'indices': [267, 274]}]",2756004123,Emu Analytics,emu_info,"London, England",1416,2056,http://pbs.twimg.com/media/Emt6iYeWMAUbCUL.jpg,https://t.co/Ci7eL1xOvf
+162,1327288731628396546,"#30DayMapChallenge Day 13, raster.  Temperature anomalies of the contiguous U.S. Nov 1-10.  It's been a scorcher. 🔥 https://t.co/2smvV1FfaY",en,2020-11-13 16:34:28,5,36,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",60300190,Greg Fiske,g_fiske,Woods Hole,2944,1363,http://pbs.twimg.com/media/Emt5VBmW8AIeii6.jpg,https://t.co/2smvV1FfaY
+164,1327287996769558531,"#30DayMapChallenge Day 13
+
+Haven't had much time today so posting the one i nearly used for monochrome day. 
+
+Smithfield Market, London.
+
+Based on defra lidar data. https://t.co/f4XlrAELi4",en,2020-11-13 16:31:32,1,17,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",309734801,Sam J,samwise_v,"London, UK",135,496,http://pbs.twimg.com/media/Emt5BsHW4AEWKSO.jpg,https://t.co/f4XlrAELi4
+166,1327285150456098817,Day 13 of the #30DayMapChallenge was always facing up to be my Achilles heel. Raster. And an important family birthday.  So I have scraped together six maps on one screen to show a pattern of ‘global’ elite sport venue distributions. https://t.co/A1fCza45n6,en,2020-11-13 16:20:14,1,3,"[{'text': '30DayMapChallenge', 'indices': [14, 32]}]",176337766,Danny Cullinane,timbertopper400,NW England,387,763,http://pbs.twimg.com/media/Emt2zcuWMAAHs-x.jpg,https://t.co/A1fCza45n6
+168,1327282457918509058,#30DayMapChallenge Day 13 : raster https://t.co/fzzWowl6MN,en,2020-11-13 16:09:32,1,2,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",233525664,Julien,JulienQuotidien,Le Havre,467,185,http://pbs.twimg.com/media/Emt0SKoXUAQA-WW.jpg,https://t.co/fzzWowl6MN
+171,1327277533201514496,"🗺️#30DayMapChallenge Raster. for today's map challenge, I've updated my collection with a couple of new circles. Many thanks to everyone who has contributed ideas!!
+Unfortunately, some locations look perfect on google but look very different on the satellite map in tableau. https://t.co/fSYONveDYh https://t.co/LlYff8P4SF",en,2020-11-13 15:49:58,2,19,"[{'text': '30DayMapChallenge', 'indices': [2, 20]}]",1160963883860762624,Wendy Shijia,ShijiaWendy,,1113,661,http://pbs.twimg.com/media/Emts-N4UwAATR_5.jpg,https://t.co/fSYONveDYh
+172,1327277467174899713,"Le Trou - The Hole. Rouen, France. 2nde guerre mondiale, world war 2.
+Un jour, une carte. Day 13 : Raster
+#30DayMapChallenge #HandMadeMap #NoMoreWar
+Pour l'histoire de ce trou, déroulez ⬇️
+1/4 https://t.co/XPo9IV6Ioc",fr,2020-11-13 15:49:42,1,5,"[{'text': '30DayMapChallenge', 'indices': [106, 124]}, {'text': 'HandMadeMap', 'indices': [125, 137]}, {'text': 'NoMoreWar', 'indices': [138, 148]}]",442982795,odile,odile_p,France,124,183,http://pbs.twimg.com/media/EmtsXQvXMAAxEbk.jpg,https://t.co/XPo9IV6Ioc
+173,1327276435933945857,"#30DayMapChallenge day 13 - Raster
+
+The construction of Cisumdawu Motorway, 1999, and 2018. The manifestation of a PPP implementation in Indonesia.
+
+False Coloring Technique to enhance vegetation, barren lands, and the built environment. https://t.co/JEh0SHDSot",en,2020-11-13 15:45:36,1,2,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",219609015,sutan mufti,uvfns,"London, England",231,761,http://pbs.twimg.com/ext_tw_video_thumb/1327275642291953672/pu/img/PNrGgT493G-EjHij.jpg,https://t.co/JEh0SHDSot
+174,1327275762873995266,"#30DayMapChallenge #Day13 #Raster
+#Carte des Risques de mortalité liée aux aléas naturels
+(Cyclones, séismes, inondations et glissements de terrain)
+#LeCartographe #RiskMap https://t.co/IgGzRocO7z",fr,2020-11-13 15:42:56,6,19,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'Day13', 'indices': [19, 25]}, {'text': 'Raster', 'indices': [26, 33]}, {'text': 'Carte', 'indices': [34, 40]}, {'text': 'LeCartographe', 'indices': [149, 163]}, {'text': 'RiskMap', 'indices': [164, 172]}]",751148918,Le Cartographe,lecartographe,"Châteauroux-les-Alpes, France",5865,758,http://pbs.twimg.com/media/Emtti9lW8AAnm48.jpg,https://t.co/IgGzRocO7z
+175,1327274786729418752,"Made everything a little bit crisper 😇
+
+#30DayMapChallenge https://t.co/fUGxdwI75I",en,2020-11-13 15:39:03,1,11,"[{'text': '30DayMapChallenge', 'indices': [40, 58]}]",1413024271,Koen Van den Eeckhout,Koen_VdE,"Gent, België",1827,1460,http://pbs.twimg.com/media/EmttN_mXMAgqZ3F.jpg,https://t.co/fUGxdwI75I
+176,1327274541035425792,"Day 13 - Raster
+#30DayMapChallenge 
+Location - CA, USA
+Data - #Landsat
+Tools - #EarthEngine #geemap #jupyter
+Description - Vandenberg Air Force Base 1985-2020, false colour composite. Landsat 1 was launched from here on July 23rd, 1972
+#GIS #gischat #QGIS https://t.co/nHal0xI42M",en,2020-11-13 15:38:04,5,12,"[{'text': '30DayMapChallenge', 'indices': [16, 34]}, {'text': 'Landsat', 'indices': [62, 70]}, {'text': 'EarthEngine', 'indices': [79, 91]}, {'text': 'geemap', 'indices': [92, 99]}, {'text': 'jupyter', 'indices': [100, 108]}, {'text': 'GIS', 'indices': [236, 240]}, {'text': 'gischat', 'indices': [241, 249]}, {'text': 'QGIS', 'indices': [250, 255]}]",52190652,Oliver Burdekin,burdGIS,"Wakefield, England",1375,2925,http://pbs.twimg.com/tweet_video_thumb/Emts4GKXIAAfotm.jpg,https://t.co/nHal0xI42M
+177,1327273557009854465,"day 13. raster
+
+#30DayMapChallenge https://t.co/IQZ60WKV99",en,2020-11-13 15:34:10,1,6,"[{'text': '30DayMapChallenge', 'indices': [16, 34]}]",48334577,santihpuig,santihpuig,"Valencia, España",615,1074,http://pbs.twimg.com/media/EmtsONFXIAMLZYX.jpg,https://t.co/IQZ60WKV99
+178,1327272779964616706,"Day 13 - Raster
+
+#30DayMapChallenge 
+
+#ArcGISPro #Illustrator #Photoshop
+
+Another application of #GIS in #Geoscience
+
+Further analysis would include ground-truthing, ecological survey, statistical analysis, time-lapse analysis, hydrology &amp; more
+
+#Science #Mapping #Map #geospatial https://t.co/6YM8z2pnaP",en,2020-11-13 15:31:04,1,8,"[{'text': '30DayMapChallenge', 'indices': [17, 35]}, {'text': 'ArcGISPro', 'indices': [38, 48]}, {'text': 'Illustrator', 'indices': [49, 61]}, {'text': 'Photoshop', 'indices': [62, 72]}, {'text': 'GIS', 'indices': [97, 101]}, {'text': 'Geoscience', 'indices': [105, 116]}, {'text': 'Science', 'indices': [250, 258]}, {'text': 'Mapping', 'indices': [259, 267]}, {'text': 'Map', 'indices': [268, 272]}, {'text': 'geospatial', 'indices': [273, 284]}]",3160198320,Dr Chris #GIS #Success,DrChrisGeoSci,"Calgary, Alberta",722,659,http://pbs.twimg.com/media/Emtrjs1XIAAH-n_.jpg,https://t.co/6YM8z2pnaP
+179,1327272078853234688,"#30DayMapChallenge Day 13: Raster.
+
+Lisbon metro area, including Cabo da Roca (the westernmost point of Eurasia), and Setúbal Peninsula with exaggerated terrain. Made with QGIS + Affinity Designer for labels. https://t.co/Zq8gsTcItQ",en,2020-11-13 15:28:17,1,4,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",963423777135759360,Ilya Ilyankou,ilyankou,London,56,118,http://pbs.twimg.com/media/EmtoXVKXMAEEEBT.jpg,https://t.co/Zq8gsTcItQ
+180,1327270441149489152,"Quick one for #30DayMapChallenge: Raster. The Lake District in Google Earth, with overlaid elevation shading and contour lines. https://t.co/D5PbRE7Uv6",en,2020-11-13 15:21:47,1,3,"[{'text': '30DayMapChallenge', 'indices': [14, 32]}]",21752435,Neil Charles,neilcharles_uk,Leeds,4422,1419,http://pbs.twimg.com/media/EmtoyMMXMAAHWQG.jpg,https://t.co/D5PbRE7Uv6
+181,1327267916635574272,"#30DayMapChallenge Day 12 - Map not made with GIS software
+
+2019 Holidays https://t.co/B9h2TlxV1T",en,2020-11-13 15:11:45,1,5,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",62926974,Tomasral,tomasral,Asturies,84,430,http://pbs.twimg.com/media/EmtnIg5W8AUvlTA.jpg,https://t.co/B9h2TlxV1T
+182,1327267623697084417,"So for today's #30DayMapChallenge:  Raster, decided to check out #GoogleEarthStudio and make an animation of #HooverDam. Pretty impressed by how easy it is to make such awesome animations.
+Additional tools: DaVinci Resolve. Music: Pink Floyd - Interstellar Overdrive. https://t.co/BcP39weLnp",en,2020-11-13 15:10:35,3,8,"[{'text': '30DayMapChallenge', 'indices': [15, 33]}, {'text': 'GoogleEarthStudio', 'indices': [65, 83]}, {'text': 'HooverDam', 'indices': [109, 119]}]",1000055398697709569,Eliav S-T,est987,Israel,315,1681,http://pbs.twimg.com/ext_tw_video_thumb/1327267183366377474/pu/img/lHHJDOvz3iiHZnBs.jpg,https://t.co/BcP39weLnp
+183,1327267525550354435,"#30DayMapChallenge
+#Day13 Raster
+
+Oleron island
+
+Data : @ESA_EO
+
+#QGIS
+#ProfilePicture https://t.co/52HLb5oCMw",et,2020-11-13 15:10:12,1,17,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'Day13', 'indices': [19, 25]}, {'text': 'QGIS', 'indices': [65, 70]}, {'text': 'ProfilePicture', 'indices': [71, 86]}]",938055192221765634,Aurelien Chaumet,AurelienChaumet,Ile d'Oléron,493,1204,http://pbs.twimg.com/media/EmtmxoRXIAYtCRj.jpg,https://t.co/52HLb5oCMw
+184,1327266769443045377,"Day 11 of the #30DayMapChallenge was a #3D map. Although this is not actually a 3D map, I used #DEM data to show elevation in the Netherlands (and Apeldoorn) in #GoogleEarthEngine. I'm always amazed and excited by the large number of datasets that are available to use in #GEE! https://t.co/xyPsQjxkjR",en,2020-11-13 15:07:11,2,3,"[{'text': '30DayMapChallenge', 'indices': [14, 32]}, {'text': '3D', 'indices': [39, 42]}, {'text': 'DEM', 'indices': [95, 99]}, {'text': 'GoogleEarthEngine', 'indices': [161, 179]}, {'text': 'GEE', 'indices': [272, 276]}]",1311526141983772673,Rachel Finerman,RFinerman,,28,72,http://pbs.twimg.com/media/EmtmEz_UcAA_dRA.jpg,https://t.co/xyPsQjxkjR
+186,1327264971722547205,"#30DayMapChallenge - Day 13 - Raster
+Used #python + #plotly to plot a map of the US and mark the top 998 cities by population. Wanted to zoom in on the mainland, so excluded Anchorage (Alaska) and Honolulu (Hawaii) even though they are in the list. https://t.co/EUG2MxyRUP",en,2020-11-13 15:00:03,3,4,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'python', 'indices': [42, 49]}, {'text': 'plotly', 'indices': [52, 59]}]",867502710131752960,Vivek Parashar,vivekparasharr,,13,22,http://pbs.twimg.com/media/EmtkdDSWEAANweP.jpg,https://t.co/EUG2MxyRUP
+187,1327264574060556294,"Visible sky map of the City of London, created using @EnvAgencyGeomat LiDAR data
+
+#30DayMapChallenge #Day13 #Raster #QGIS https://t.co/X4SzSipFnn",en,2020-11-13 14:58:28,28,253,"[{'text': '30DayMapChallenge', 'indices': [82, 100]}, {'text': 'Day13', 'indices': [101, 107]}, {'text': 'Raster', 'indices': [108, 115]}, {'text': 'QGIS', 'indices': [116, 121]}]",1101617286,Helen McKenzie,Helenmckmck,London,1441,569,http://pbs.twimg.com/media/EmtkCU-XIAU7wHd.jpg,https://t.co/X4SzSipFnn
+188,1327261628669149185,"#30DayMapChallenge Day 13: RASTERS
+#Tornado #Risk Analysis
+
+#gis #geography #geographyteacher #cartography #maps #map #mapping #archaeology #Bible #Biblicalarchaeology #Israel #Egypt #Landsat #USGS #QGIS #ArcGIS #Science #RemoteSensing https://t.co/ztlcZeCXs0",en,2020-11-13 14:46:46,0,3,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'Tornado', 'indices': [35, 43]}, {'text': 'Risk', 'indices': [44, 49]}, {'text': 'gis', 'indices': [60, 64]}, {'text': 'geography', 'indices': [65, 75]}, {'text': 'geographyteacher', 'indices': [76, 93]}, {'text': 'cartography', 'indices': [94, 106]}, {'text': 'maps', 'indices': [107, 112]}, {'text': 'map', 'indices': [113, 117]}, {'text': 'mapping', 'indices': [118, 126]}, {'text': 'archaeology', 'indices': [127, 139]}, {'text': 'Bible', 'indices': [140, 146]}, {'text': 'Biblicalarchaeology', 'indices': [147, 167]}, {'text': 'Israel', 'indices': [168, 175]}, {'text': 'Egypt', 'indices': [176, 182]}, {'text': 'Landsat', 'indices': [183, 191]}, {'text': 'USGS', 'indices': [192, 197]}, {'text': 'QGIS', 'indices': [198, 203]}, {'text': 'ArcGIS', 'indices': [204, 211]}, {'text': 'Science', 'indices': [212, 220]}, {'text': 'RemoteSensing', 'indices': [221, 235]}]",1137139989744144390,MyPhysicalWorld,my_physical,,42,64,http://pbs.twimg.com/media/EmthVgwVgAAr8hp.jpg,https://t.co/ztlcZeCXs0
+189,1327260429010268160,"Following the letter of the law, if not the intent, for today's #30DayMapChallenge theme (""raster""). {terrainr} downloads raster images of data you'd normally expect to be vectors; here's orthoimage, watershed boundaries, hydrography &amp; elevation for Mt. Washington. https://t.co/dSeZ0vQ6GX",en,2020-11-13 14:42:00,1,10,"[{'text': '30DayMapChallenge', 'indices': [64, 82]}]",942194832491122688,Mike Mahoney,MikeMahoney218,"Syracuse, NY",440,306,http://pbs.twimg.com/media/EkuMCOiXgAEYgDA.jpg,https://t.co/dSeZ0vQ6GX
+190,1327259252172394499,#30DayMapChallenge day 13. Raster data and WebGL. Dynamically filtering parcels to show the distressing relationship between race and socioeconomic challenges in Boston. https://t.co/0AfnrFL6Qv,en,2020-11-13 14:37:19,1,3,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",746464149094416384,Ken Goulding,ken_goulding,,7,82,http://pbs.twimg.com/ext_tw_video_thumb/1327258797816107010/pu/img/VESzoJukYND-QJpa.jpg,https://t.co/0AfnrFL6Qv
+191,1327258594220384256,"#30DayMapChallenge, day 13: Raster - #Belize's 2020 #forest cover, extracted in #EarthEngine from the recently published @ClimateForest @PlanetLabs mosaics.
+
+Have other countries have done similar [national] wall-to-wall mapping w/ the Planet data? https://t.co/m7lveNngCq https://t.co/cVoMVHWU4Q",en,2020-11-13 14:34:42,3,8,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'Belize', 'indices': [37, 44]}, {'text': 'forest', 'indices': [52, 59]}, {'text': 'EarthEngine', 'indices': [80, 92]}]",731808469301493760,🇧🇿 Belize GEO 🛰️,BZgeo,Belize,4210,3837,http://pbs.twimg.com/media/EmtdDPvW4AEJlYJ.jpg,https://t.co/m7lveNngCq
+192,1327257824875995136,"#30DayMapChallenge #day13 : Raster.
+La Corse en lego. Encore des expérimentations avec @qgis aujourd'hui ! 
+
+Source : SRTM.
+
+[ENG] Corsica in Lego. More experiments with @qgis today! https://t.co/KrsCceAe2m",fr,2020-11-13 14:31:39,3,19,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'day13', 'indices': [19, 25]}]",163493843,maelle am,MaelleAMM,Paris,203,387,http://pbs.twimg.com/media/Emtd8q9XYAYw5EM.jpg,https://t.co/KrsCceAe2m
+193,1327257339959848961,#30DayMapChallenge day 13. Fun with raster graphics and WebGL. Changing elevation color ramp range and hillshade dynamically. Data from MapZen terraintiles. https://t.co/Fdyg6rZxbA https://t.co/zj9AzyvNvi,en,2020-11-13 14:29:43,2,2,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",746464149094416384,Ken Goulding,ken_goulding,,7,82,http://pbs.twimg.com/ext_tw_video_thumb/1327256588705538048/pu/img/N1rvsk6fC_eL-Nm0.jpg,https://t.co/Fdyg6rZxbA
+194,1327256955447087105,"Europe's maritime traffic in 2019. You can see shipping routes, fishing and recreational boats in incredible detail
+
+#30DayMapChallenge Day 13: Raster https://t.co/4Sph9egEfg",en,2020-11-13 14:28:12,47,225,"[{'text': '30DayMapChallenge', 'indices': [117, 135]}]",258267932,Martín González,martgnz,"London, England",4345,454,http://pbs.twimg.com/media/EmtVywHW8AA75wr.jpg,https://t.co/4Sph9egEfg
+195,1327256933187932162,"Today for the #30DayMapChallenge  I had a play around creating a #raster map, seeing as they remind me of old school computer graphics I decided to embrace the theme! Using data from @Natures_Voice to show what areas of the UK are classed as uplands 🐦 🗺 👩‍💻 https://t.co/MiUU0LMoAx",en,2020-11-13 14:28:06,1,13,"[{'text': '30DayMapChallenge', 'indices': [14, 32]}, {'text': 'raster', 'indices': [65, 72]}]",1148686446536155137,Jess Hepburn,JessWhoMaps,"Newcastle Upon Tyne, England",111,185,http://pbs.twimg.com/media/EmtdJQgW4AcHpCA.jpg,https://t.co/MiUU0LMoAx
+196,1327256860563562497,"@napo #30DayMapChallenge 13th - raster
+
+#Oristano, #Sardinia. 1940, 1954, 1968, 1977, 1998, 2006
+
+source: 
+SardegnaFotoAeree
+https://t.co/o4QFN8jpKV https://t.co/iZ36ZS1zc8",et,2020-11-13 14:27:49,1,0,"[{'text': '30DayMapChallenge', 'indices': [6, 24]}, {'text': 'Oristano', 'indices': [40, 49]}, {'text': 'Sardinia', 'indices': [51, 60]}]",16029245,Giambattista,giambattistam,"Sedilo, Sardegna, Italia",309,524,http://pbs.twimg.com/tweet_video_thumb/Emtch7jWMAYPflX.jpg,https://t.co/o4QFN8jpKV
+197,1327256358006165508,"#30DayMapChallenge - Day 13 - Raster
+
+Precipitation in Germany throughout 2019.
+
+Created using R (and {gganimate}). https://t.co/connmGFF4s",en,2020-11-13 14:25:49,1,7,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",733390000809730049,Richard Vogg,richard_vogg,Deutschland,75,156,http://pbs.twimg.com/tweet_video_thumb/EmtbkZNXEAY8IrJ.jpg,https://t.co/connmGFF4s
+198,1327254696894095366,"#30DayMapChallenge day 13 Raster. Arable (yellow) versus Pasture (blue) in the UK and Ireland. Shows the ""rain shadow"" in GB - seems to coincide with an Isohyet - compare with https://t.co/y6MWwTjyoV #qgis and CORINE data https://t.co/ojbHSUdsmd",en,2020-11-13 14:19:13,5,18,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'qgis', 'indices': [200, 205]}]",363276700,Steven Kay,stevefaeembra,Edinburgh,842,329,http://pbs.twimg.com/media/EmtaCjgXMAEYvqn.jpg,https://t.co/y6MWwTjyoV
+199,1327254568187670529,#30DayMapChallenge day 12 (late) Not made with GIS. Inspired by @dickoah. Baked beans on coast. https://t.co/s90jZx3tq0,en,2020-11-13 14:18:42,4,58,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",1127867966,@southmapr,southmapr,Norwich,932,629,http://pbs.twimg.com/media/Emta_rMWMAEcaiN.jpg,https://t.co/s90jZx3tq0
+200,1327252585972068352,"#30DayMapChallenge
+Map 13: Raster
+
+No! It's not a convoluted rainbow..
+
+#Viz shows the lower course of Kosi River in #Bihar where different colours indicate the course of the river in different years. The river is one of the most dynamic! https://t.co/4GItIXM19M",en,2020-11-13 14:10:50,24,148,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'Viz', 'indices': [72, 76]}, {'text': 'Bihar', 'indices': [117, 123]}]",272936200,Raj Bhagat P #Mapper4Life,rajbhagatt,"Nagercoil, Tamil Nadu",17247,1704,http://pbs.twimg.com/media/EmtY1IUUUAAeA50.jpg,https://t.co/4GItIXM19M
+201,1327251763397849091,"#30DayMapChallenge Day 12 Raster
+Potrerillos  - Santiago by bike
+En julio del 2014, decidimos (con Riky) cruzar la cordillera. La distancia no era tanta, pero si la pendientes y cuestas. Sorteamos vientos en contra de 50km/h y temperaturas de -15. En amarillo el track del gps https://t.co/Ai16SdsRgr",es,2020-11-13 14:07:34,4,15,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",253102706,Martin,martinfernandoo,Buenos Aires,393,1164,http://pbs.twimg.com/media/EmtW4HQWMAAWOhM.jpg,https://t.co/Ai16SdsRgr
+202,1327251713078734848,"Today I chose the island Mayotte for the #30DayMapChallenge! 
+#maps https://t.co/dpNzhppNG5",en,2020-11-13 14:07:22,1,18,"[{'text': '30DayMapChallenge', 'indices': [41, 59]}, {'text': 'maps', 'indices': [62, 67]}]",1237751233039020032,Inge,IngeTolenaars,,64,89,http://pbs.twimg.com/media/EmtXNLGXMAI1hur.jpg,https://t.co/dpNzhppNG5
+203,1327251370622251014,A false colour composite of the St. Lawrence River near Montréal for Day 13 (raster) of the #30DayMapChallenge 🛰️ https://t.co/zuYnfNUWHB,en,2020-11-13 14:06:00,1,14,"[{'text': '30DayMapChallenge', 'indices': [92, 110]}]",820835432686637056,Hannah Ker,hannahker11,,236,396,http://pbs.twimg.com/media/EmtXWRNW4AEOQp3.jpg,https://t.co/zuYnfNUWHB
+204,1327250560324575234,#30DayMapChallenge Day 13 = “raster”. #Colorado @ArcGISPro https://t.co/IbGgXcvlKd,en,2020-11-13 14:02:47,8,63,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'Colorado', 'indices': [38, 47]}]",1491031412,J Peter Squared,JPeterPeters,"Westminster, CO",459,1037,http://pbs.twimg.com/media/EmtXWAPVgAA__iR.jpg,https://t.co/IbGgXcvlKd
+205,1327249991547621383,"#30DayMapChallenge Day 13: Raster 
+
+September 2020 ~5m NICFI @PlanetLabs basemap data near Palangka Raya, Central Kalimantan, Indonesia. The infrared anomaly is actually striping in the data &amp; not a #fire in this tropical #peat system. https://t.co/n9M8KYFTsI",en,2020-11-13 14:00:31,2,11,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'fire', 'indices': [203, 208]}, {'text': 'peat', 'indices': [226, 231]}]",65064975,Jessica McCarty,jmccarty_geo,Myaamia land & The World,2680,4026,http://pbs.twimg.com/media/EmtWwtYXIAI58Tr.jpg,https://t.co/n9M8KYFTsI
+206,1327249098521653248,"Frankly, I should be disqualified for sharing this for #30DayMapChallenge, but here's my entry for Raster -
+
+What projection do I look best in?
+Mercator, Gall-Peters, Azimuthal Orthographic or Goobe Homolosine? https://t.co/tWmChalfTQ",en,2020-11-13 13:56:58,1,11,"[{'text': '30DayMapChallenge', 'indices': [55, 73]}]",1327229478175727617,Chris Jennings,geochrsphr,United Kingdom,22,110,http://pbs.twimg.com/media/EmtWAPIXEAASP7G.jpg,https://t.co/tWmChalfTQ
+207,1327249097095573505,"#30DayMapChallenge Day 13: Raster
+
+Raster maps impose some restrictions.
+In this case, we had to stick to 14 x 9 resolution.
+
+(@CopernicusEU Global Land Cover raster has a resolution of 362 880 x 141 120. Thanks for the hard work building it!) https://t.co/ahFyW6uYXu",en,2020-11-13 13:56:58,4,10,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",1024584556110852096,Kontur,KonturInc,"1305 N. Holopono Street, Suite 2
+Kihei HI 96753 
+USA",213,265,http://pbs.twimg.com/media/EmtVy3IXMAUnMJS.jpg,https://t.co/ahFyW6uYXu
+208,1327246982071652353,"For my #30DayMapChallenge Day 13: Raster, I have a shot of one of my favorite Minnesota places: Lutsen mountain. You can get this via WMS with this request: https://t.co/gat1SQxKIT https://t.co/Od4xPA5KsT",en,2020-11-13 13:48:34,1,2,"[{'text': '30DayMapChallenge', 'indices': [7, 25]}]",222228205,Mike Dolbow,mmdolbow,"St. Paul, MN",1285,100,http://pbs.twimg.com/media/EmtUENNXYAI09ZM.png,https://t.co/gat1SQxKIT
+209,1327244811028541440,"#30DayMapChallenge
+
+Day 13: Rasters
+
+Seems that growing up I was never more than 3km (Euclidean distance) from the sea. https://t.co/JD0qsa4rmY",en,2020-11-13 13:39:56,1,5,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",283445478,philbartie 🇬🇬,philbartie,"Edinburgh, Scotland",240,375,http://pbs.twimg.com/media/EmtRwwYXMAcVwhN.jpg,https://t.co/JD0qsa4rmY
+210,1327244543515906049,"""Aut viam inveniam, aut faciam.""
+
+#30DayMapChallenge day 13: Raster https://t.co/065IfTvTPN",en,2020-11-13 13:38:52,2,6,"[{'text': '30DayMapChallenge', 'indices': [34, 52]}]",1413024271,Koen Van den Eeckhout,Koen_VdE,"Gent, België",1827,1460,http://pbs.twimg.com/media/EmtR1-3XYAIqicL.jpg,https://t.co/065IfTvTPN
+211,1327243486308012034,"#30DayMapChallenge 
+
+Day 13: Raster
+
+@OrdnanceSurvey DTM data of the Ardnamurchan ring complex in Western Scotland.
+
+Which I noticed also looks strangely like a hypnotic Westie.
+
+Made with #Aerialod https://t.co/ffaJq2RTGc",en,2020-11-13 13:34:40,2,13,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'Aerialod', 'indices': [189, 198]}]",2213909976,Colin Angus,VictimOfMaths,,4924,599,http://pbs.twimg.com/media/EmtQcf7XcAEstnc.jpg,https://t.co/ffaJq2RTGc
+212,1327242898035785730,Pillars of Creation; data-NASA #30DayMapChallenge Day 12: non-GIS software https://t.co/xgyfQRMhtn,en,2020-11-13 13:32:20,1,1,"[{'text': '30DayMapChallenge', 'indices': [31, 49]}]",44530833,Andrew French,andrewrfrench,"Wisconsin, USA",439,1824,http://pbs.twimg.com/media/EmtQF_AUcAAsVhJ.jpg,https://t.co/xgyfQRMhtn
+213,1327242837029744640,#30DayMapChallenge Day 13: Raster. Observable area was calculated by using a digital surface model and  #QGIS visibility analysis plugin. https://t.co/cy1KGEV4rX,en,2020-11-13 13:32:05,2,13,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'QGIS', 'indices': [104, 109]}]",1322101266793857026,Mobility Lab of University of Tartu,UT_moblab,Tartu,68,50,http://pbs.twimg.com/media/EmtQSjYXUAAaJAj.jpg,https://t.co/cy1KGEV4rX
+214,1327242186556059648,#30DayMapChallenge Day 13: Raster. Mashing parts of @JohnNelson 'How-to' [Smashing Vintage Hillshade &amp; Globe-ify thingie] to create this shade relief map from artist Ellen Kuzdro. Shout out to @MtnMapper for these scanned manual shaded relief masterpieces https://t.co/3d71fgZOPM https://t.co/542TCQy8Gs,en,2020-11-13 13:29:30,1,27,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",333524694,Christopher Pollard,CRVanPollard,"Philadelphia,PA",997,1209,http://pbs.twimg.com/media/EmtPrTSXIAEGRwR.jpg,https://t.co/3d71fgZOPM
+215,1327239053582815233,"Day13: Raster
+SDG Goal 6 Clean water and sanitation
+#30DayMapChallenge
+#SDGs
+West Asian nations are facing similar environmental challenges to those seen in Saudi Arabia, including air pollution, water scarcity, waste management and climate change.https://t.co/GjKzBvvMfx https://t.co/oMhK0Ntwi9",en,2020-11-13 13:17:03,1,2,"[{'text': '30DayMapChallenge', 'indices': [52, 70]}, {'text': 'SDGs', 'indices': [71, 76]}]",187171010,I.K.D,IKEDA_02,"Brisbane, Queensland 🇦🇺🇯🇵",103,476,http://pbs.twimg.com/media/EmtMxtVVkAAQrY5.jpg,https://t.co/GjKzBvvMfx
+216,1327235767966568449,"#30DayMapChallenge Creating heatmap using #FME 
+@SafeSoftware @solutial_br #ETL https://t.co/DmW2GgjA8g",en,2020-11-13 13:04:00,1,7,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'FME', 'indices': [42, 46]}, {'text': 'ETL', 'indices': [75, 79]}]",725727452174114816,Danilo_Solutial,FmeDaniloat,"São Paulo, Brasil",358,739,http://pbs.twimg.com/media/EmtJ2l1WMAAvnTs.jpg,https://t.co/DmW2GgjA8g
+217,1327235671577260035,"#30DayMapChallenge Day 13: Raster.
+Urbanization.
+Data source: @USGS and @GMapsPlatform
+Software: #ArcGIS @qgis https://t.co/5mwJkboAjT",en,2020-11-13 13:03:37,1,2,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'ArcGIS', 'indices': [97, 104]}]",374459093,Jannah_A,zinnie__A,"Kaduna, Nigeria.",203,230,http://pbs.twimg.com/media/EmtJyU8WEAQ_EvG.jpg,https://t.co/5mwJkboAjT
+218,1327234783169171461,"#30DayMapChallenge 
+
+Day 13: Raster
+
+A raster hillshade from the Parc National des Pyrenees. One of my favourite areas of France which contains the famous Col Du Tourmalet, synonymous with @LeTour https://t.co/QScVfx1oDK",en,2020-11-13 13:00:05,1,5,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",191950318,Conor Gleeson,ConorGleeson12,Meath,262,112,http://pbs.twimg.com/media/EmtItd6W4AAZSvD.jpg,https://t.co/QScVfx1oDK
+219,1327233876289318912,"#30DayMapChallenge 13. diena. Rastrs. Sentinel-2. Turpinot @atdodkonfektes iesākto-dabas stihijas. Otrā pusē zāle ir zaļāka, viss ir atkarīgs tikai no tā, kurā pusē stāvi. LV-RUS robeža, pie viņiem deg daudz intensīvāk, brūnie laukumi izdegušās platības. 
+
+https://t.co/B07Xv9MQ13 https://t.co/71YdzyXUS4",lv,2020-11-13 12:56:29,1,3,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",461965493,Kristīne,kriksine,,328,369,http://pbs.twimg.com/media/EmtHqeyW4AART3E.jpg,https://t.co/B07Xv9MQ13
+220,1327233254714265600,"#30DayMapChallenge 
+
+Day 13: Raster
+
+For this one, I am combining previous raster layers together with Global Landforms from ALOS PALSAR. 
+
+Enclosing the App link so you can explore and find some interesting patterns between different rasters!
+
+https://t.co/tp63voQihZ https://t.co/8GBiZh0VAB",en,2020-11-13 12:54:01,1,1,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",1179290044655235072,Rishi,Geo__Nerd__Rish,Earth,37,259,http://pbs.twimg.com/media/EmtHgnmVQAEa3-H.jpg,https://t.co/tp63voQihZ
+221,1327232959045373953,"#30dayMapChallenge - Day 13 - Raster
+
+Definitely raster // Absolument raster 
+
+See the 12 previous maps // voir les 12 cartes précédentes : https://t.co/jNyBfUefcu https://t.co/J8hvUOBEUB",fr,2020-11-13 12:52:50,2,20,"[{'text': '30dayMapChallenge', 'indices': [0, 18]}]",1201838008359620609,Les Savoirs Ambulants,SavoirsEnBulles,Rennes,295,91,http://pbs.twimg.com/media/EmtGMl2XYAUOGpQ.jpg,https://t.co/jNyBfUefcu
+222,1327232343686275073,"#30DayMapChallenge 
+
+Day 12: Map not made with GIS software
+
+It's just for fun and I am not sure that you will get a treasure ;) https://t.co/nWMrxOL0Ey",en,2020-11-13 12:50:24,1,4,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",1179290044655235072,Rishi,Geo__Nerd__Rish,Earth,37,259,http://pbs.twimg.com/media/EmtGYVAVoAULjSd.jpg,https://t.co/nWMrxOL0Ey
+223,1327231739974930432,"@pinakographos @ftdata @qgis Day 13: Raster
+
+I've long been itching to try out the raster functions in @postgis, and this is my chance. Using a great tutorial by @pwramsey, I find that loading data is . . . 1 command. Really, appallingly easy. 
+
+https://t.co/L3SNUSHixf
+
+#30DayMapChallenge https://t.co/1w7mnAkNIT",en,2020-11-13 12:48:00,1,7,"[{'text': '30DayMapChallenge', 'indices': [271, 289]}]",278873782,Map/,vtcraghead,"Burlington, VT",3652,860,http://pbs.twimg.com/media/EmpcjT7XUAAeMxc.jpg,https://t.co/L3SNUSHixf
+224,1327231353889308673,"#30DayMapChallenge 
+Day 11: 3D
+
+The map shows National Parks, Wildlife Sanctuaries of India, and its nearest Airport.  
+
+Enjoy the interactive version and explore the content in the tooltip function
+
+https://t.co/njnVwRyPD9 https://t.co/RKREufW6fh",en,2020-11-13 12:46:28,2,3,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",1179290044655235072,Rishi,Geo__Nerd__Rish,Earth,37,259,http://pbs.twimg.com/media/EmtFzxDVkAEKc6h.jpg,https://t.co/njnVwRyPD9
+225,1327230951018156032,"#30DayMapChallenge: Raster
+
+This is a map of annual cloudiness, as the percentage of the days that are cloudy. Taken from MODIS cloud mask data. A bit dodgy around the coasts, but you can see the difference between the UK and the Med! https://t.co/iKMGqdlRMe",en,2020-11-13 12:44:52,2,22,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",809066605,Robin Wilson,sciremotesense,"Southampton, England",906,504,http://pbs.twimg.com/media/EmtFfdZW8AEvY8V.jpg,https://t.co/iKMGqdlRMe
+227,1327229998697222145,"It's day 13 of the #30DayMapChallenge &amp; today's theme 'Raster'. So here's Strava activity on and around Britain's highest mountain, the mighty Ben Nevis. 🏔️⛷️🧗‍♂️🚴‍♀️ https://t.co/PLKD010oAj",en,2020-11-13 12:41:05,3,25,"[{'text': '30DayMapChallenge', 'indices': [19, 37]}]",798523409286266880,Dan Harris,DiasporaDan,"Nethy Bridge, Scotland",924,1517,http://pbs.twimg.com/media/EmtEJ1lWEAA32QD.jpg,https://t.co/PLKD010oAj
+228,1327229770250280970,"#30DayMapChallenge - Day 13 (Raster). Taking me back to my @LondonAir days, I've used PM2.5 @DefraUKAir data to visualise high (over 10 ug/m3) areas of PM2.5 concentrations, and how they have changed between 2010 and 2019. #gis #rstats #rspatial #airquality https://t.co/KcFH0ZGFUp",en,2020-11-13 12:40:10,3,4,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'gis', 'indices': [223, 227]}, {'text': 'rstats', 'indices': [228, 235]}, {'text': 'rspatial', 'indices': [236, 245]}, {'text': 'airquality', 'indices': [246, 257]}]",21287004,𝗝ames D Smith,TheRealJimShady,"London, England",582,1069,http://pbs.twimg.com/tweet_video_thumb/EmtEH3BXYAAUAY_.jpg,https://t.co/KcFH0ZGFUp
+229,1327227994281275392,Day 13: Raster #30DayMapChallenge #Lidar data in #QGIS of #London #MillenniumBridge #StPaulsCathedral Thanks this time to @_penguin_runner for teaching me the skills! https://t.co/0K41UcPGet,en,2020-11-13 12:33:07,1,10,"[{'text': '30DayMapChallenge', 'indices': [15, 33]}, {'text': 'Lidar', 'indices': [34, 40]}, {'text': 'QGIS', 'indices': [49, 54]}, {'text': 'London', 'indices': [58, 65]}, {'text': 'MillenniumBridge', 'indices': [66, 83]}, {'text': 'StPaulsCathedral', 'indices': [84, 101]}]",54696312,Heather Malloch,Hevski17,Scotland ,199,469,http://pbs.twimg.com/media/EmtBkzZWEAYJmf2.jpg,https://t.co/0K41UcPGet
+230,1327227153881198593,"DAY13 #30DayMapChallenge 🙌 For today's theme 'Raster', Lecturer Les Dolega (@Lesmian) has given us an insight into what some of our MSc students get up to in (ENVS609) Geographic Information Science - mapping PopChange data (1991-2001) from @UKDataService #census #GIS 🔥 https://t.co/gSlhWqJLLN",en,2020-11-13 12:29:46,7,16,"[{'text': '30DayMapChallenge', 'indices': [6, 24]}, {'text': 'census', 'indices': [256, 263]}, {'text': 'GIS', 'indices': [264, 268]}]",2280343142,GeoDataScience,geodatascience,Liverpool,3620,1723,http://pbs.twimg.com/media/EmtB3jPWMAExaey.jpg,https://t.co/gSlhWqJLLN
+232,1327224206623465474,"#30DayMapChallenge Day 13: Raster.
+
+HydroSheds flow direction with ETOPO1 hillshade. For no reason. https://t.co/gsrAi6Tlbb",en,2020-11-13 12:18:04,4,68,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",2198358416,Topi Tjukanov,tjukanov,"Helsinki, Suomi",11925,2524,http://pbs.twimg.com/media/Ems_BB6XIAAl9av.jpg,https://t.co/gsrAi6Tlbb
+233,1327221979762593794,"#30DayMapChallenge - 13 - Raster
+
+Le glacier Snæfellsjökull dans l'ouest de l'Islande, qui a inspiré J. Verne pour son Voyage au centre de la terre
+
+données : https://t.co/Von641ligQ 
+
+des cartes anciennes ici : https://t.co/OaAQB842J6 https://t.co/zOeifbotZ4",fr,2020-11-13 12:09:13,2,17,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",2367649759,Gaëlle Sutton,Gaelle_Sutton,,1667,1790,http://pbs.twimg.com/media/Ems8vfiXYAE38hD.jpg,https://t.co/Von641ligQ
+234,1327221693413289984,Make a data science company create maps using no GIS software what so ever? For day 12 of #30DayMapChallenge we asked the team to draw a world map in under 1 minute. Here are the attempts: (I think we will stick to data science and software😅) https://t.co/rCAp9SYDuk,en,2020-11-13 12:08:04,3,8,"[{'text': '30DayMapChallenge', 'indices': [90, 108]}]",2756004123,Emu Analytics,emu_info,"London, England",1416,2056,http://pbs.twimg.com/media/Ems4PYaW8AI2OJr.jpg,https://t.co/rCAp9SYDuk
+236,1327219767636353026,Flying pixels or how to convert temperature into precipitation. (Self inflicted) code challenge for the day 13 of the #30DayMapChallenge with #rstats. https://t.co/oZdLoW3tXY,en,2020-11-13 12:00:25,4,19,"[{'text': '30DayMapChallenge', 'indices': [118, 136]}, {'text': 'rstats', 'indices': [142, 149]}]",1125320137853341696,PedroTarroso,ptarroso,,137,66,http://pbs.twimg.com/ext_tw_video_thumb/1327219430242258944/pu/img/UBlOLFkvWzwFgsrq.jpg,https://t.co/oZdLoW3tXY
+237,1327219452170133504,Day 9 - Monochrome of #30DayMapChallenge. This one is for a laugh - the world map through the eyes of a dog 👀 https://t.co/wXnpqDFQaf,en,2020-11-13 11:59:10,1,2,"[{'text': '30DayMapChallenge', 'indices': [22, 40]}]",850469658679496705,Cameron Green,Camerongreen_96,"Pretoria, South Africa",97,339,http://pbs.twimg.com/media/Ems6pOvXIAAePy1.jpg,https://t.co/wXnpqDFQaf
+238,1327218919967494147,Day 8 of the #30DayMapChallenge is yellow. Mapped lighthouses of Southern Africa. Data from @openstreetmap. Few more than I thought... https://t.co/H59LN2ajzZ,en,2020-11-13 11:57:03,1,4,"[{'text': '30DayMapChallenge', 'indices': [13, 31]}]",850469658679496705,Cameron Green,Camerongreen_96,"Pretoria, South Africa",97,339,http://pbs.twimg.com/media/Ems6gT_XEAEUUUo.jpg,https://t.co/H59LN2ajzZ
+239,1327218715532865536,"#30DayMapChallenge Day 13: Rasters. Thanks to the great book ""QGIS for hydrological Applications"" by Hans van der Kwast I made this map of the Tay Basin. The SRTM DEM tiles I used can be found at https://t.co/JiGMVzVqZH
+#Scotland #mapping #maps #gis #qgis #osgeo https://t.co/c6J7w4KHgD",en,2020-11-13 11:56:14,1,13,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'Scotland', 'indices': [220, 229]}, {'text': 'mapping', 'indices': [230, 238]}, {'text': 'maps', 'indices': [239, 244]}, {'text': 'gis', 'indices': [245, 249]}, {'text': 'qgis', 'indices': [250, 255]}, {'text': 'osgeo', 'indices': [256, 262]}]",1270037817750630404,Mariëlle Geers-Plasmans,geojuffie,Steenbergen,60,58,http://pbs.twimg.com/media/Ems6LIUXIAEsDlb.jpg,https://t.co/JiGMVzVqZH
+240,1327218574621085704,"Day 5 - Blue and Day 6 - Red of the #30DayMapChallenge. When I think of Blue and Red, I think of the #PremierLeague. Mapped all the teams who's home kit for the 20/21 season is either blue or red. Made using @Datawrapper https://t.co/T9Bk8wMz97",en,2020-11-13 11:55:41,1,4,"[{'text': '30DayMapChallenge', 'indices': [36, 54]}, {'text': 'PremierLeague', 'indices': [101, 115]}]",850469658679496705,Cameron Green,Camerongreen_96,"Pretoria, South Africa",97,339,http://pbs.twimg.com/media/Ems6NFMXEAMTFRC.jpg,https://t.co/T9Bk8wMz97
+241,1327218066032300032,"Fell a bit behind with the #30DayMapChallenge, trying to catch up. Here is Day 4 - Hexagons and Day 7 - Green combined. Mapped the tree density of Central(ish) London. Data from @openstreetmap https://t.co/zsqKr9XBmw",en,2020-11-13 11:53:40,1,1,"[{'text': '30DayMapChallenge', 'indices': [27, 45]}]",850469658679496705,Cameron Green,Camerongreen_96,"Pretoria, South Africa",97,339,http://pbs.twimg.com/media/Ems46V_XYAE6330.jpg,https://t.co/zsqKr9XBmw
+242,1327217915997814786,"#30DayMapChallenge 
+No Python based Raster diagrams today!
+Map 13: Raster
+
+Data source: @googleearth 
+Mapping software: @Photoshop 
+
+An urban design plan for the site https://t.co/U28cXk5CeD",en,2020-11-13 11:53:04,2,6,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",798151553009860609,Scott,CaptainWenwei,,5,114,http://pbs.twimg.com/media/Ems5o48UwAARBpf.jpg,https://t.co/U28cXk5CeD
+243,1327217863921455105,"Isle of Stronsay, Orkney, Scotland. Made with the FME MapnikRasterizer #30DayMapChallenge 13 - Raster https://t.co/QP0n3M6fi5",en,2020-11-13 11:52:51,3,21,"[{'text': '30DayMapChallenge', 'indices': [71, 89]}]",2809999793,Owen Powell,owenjpowell,Leamington Spa,1833,284,http://pbs.twimg.com/media/Ems5Gy1XYAAW03O.jpg,https://t.co/QP0n3M6fi5
+244,1327214910632304640,"#30DayMapChallenge 13th - raster
+
+how the area of Albere (Trento) has changed in the years 1973, 1994, 2009, 2015, 2016, 2019
+
+source: 
+wms of the Province Autonomus of Trento and the muncipality of Trento
+tools:
+python&amp;ffmpeg https://t.co/7TRG2HHOb6",en,2020-11-13 11:41:07,1,15,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",5159271,Maurizio Napolitano,napo,"Trento, Italy, Europe",5051,1799,http://pbs.twimg.com/tweet_video_thumb/Ems2CetW4AAf60W.jpg,https://t.co/7TRG2HHOb6
+246,1327213387701514240,"We're sharing a 1:25k OS Maps screenshot for today's #30DayMapChallenge raster theme. Can you spot our head office?👇
+https://t.co/yzqZ1HdKdt https://t.co/D03QoIOXwe",en,2020-11-13 11:35:04,3,21,"[{'text': '30DayMapChallenge', 'indices': [53, 71]}]",22614266,Ordnance Survey,OrdnanceSurvey,"Southampton, UK",60520,3731,http://pbs.twimg.com/media/Ems1iskWMAEq6ht.jpg,https://t.co/yzqZ1HdKdt
+247,1327212535594979328,A #python mashup of #EarthEngine and @OpenDataCube https://t.co/9yAOYG8MT6 for #30DayMapChallenge . So happy together. https://t.co/30AuUdklyU,en,2020-11-13 11:31:41,2,3,"[{'text': 'python', 'indices': [2, 9]}, {'text': 'EarthEngine', 'indices': [20, 32]}, {'text': '30DayMapChallenge', 'indices': [79, 97]}]",73311976,Tisham Dhar,whatnick,"Canberra, Australian Capital T",789,307,http://pbs.twimg.com/media/Ems0lArVgAA2lyz.png,https://t.co/9yAOYG8MT6
+248,1327211549245771777,#30DayMapChallenge Day 13 Raster #History #Romans #StAlbans #Geographyteacher https://t.co/IXI4FwDSZ5,en,2020-11-13 11:27:46,1,1,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'History', 'indices': [33, 41]}, {'text': 'Romans', 'indices': [42, 49]}, {'text': 'StAlbans', 'indices': [50, 59]}, {'text': 'Geographyteacher', 'indices': [60, 77]}]",853862934233141248,Captain Alice,MiniMapMakers,"Bedford, England",1493,3788,http://pbs.twimg.com/media/Emszq-rWMAIkf74.jpg,https://t.co/IXI4FwDSZ5
+249,1327211330906988544,Day 13: raster. Soil electric conductivity in Tasmania #R #ggplot2 #slga https://t.co/RLTUc9joCL #30DayMapChallenge https://t.co/inGuBU7Mbe,en,2020-11-13 11:26:54,1,1,"[{'text': 'R', 'indices': [55, 57]}, {'text': 'ggplot2', 'indices': [58, 66]}, {'text': 'slga', 'indices': [67, 72]}, {'text': '30DayMapChallenge', 'indices': [97, 115]}]",801318008912232449,Nick,nwbort,,5,258,http://pbs.twimg.com/media/Emszm8kUcAADKJS.jpg,https://t.co/RLTUc9joCL
+250,1327210552947593216,#30DayMapChallenge Day 7 Green https://t.co/6ElcmQeSly,en,2020-11-13 11:23:48,2,4,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",853862934233141248,Captain Alice,MiniMapMakers,"Bedford, England",1493,3788,http://pbs.twimg.com/media/Emsy7jhWEAA9n0E.jpg,https://t.co/6ElcmQeSly
+252,1327207675227156481,"#30DayMapChallenge 
+
+13 - Ráster. Monte Paektu, frontera entre China y Corea del Norte.
+
+13 - Raster. Paektu Mountain, Chinese-North Korean border. https://t.co/bCAGcuGAJG",es,2020-11-13 11:12:22,5,8,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",769592708,Valentín Sastre,valen_ibiza,IBIZA / Barcelona,325,870,http://pbs.twimg.com/media/EmswUxyXEAAutgC.jpg,https://t.co/bCAGcuGAJG
+253,1327207314047209473,The Eye of Africa. My lazy effort for the #30DayMapChallenge. This was captured by Sentinel-2A on the 12th of November and is one of around 1200 scenes like it captured each day over the entire African continent and made available as part of @DEarthAfrica. https://t.co/hKVJAr2bsR,en,2020-11-13 11:10:56,3,13,"[{'text': '30DayMapChallenge', 'indices': [42, 60]}]",48219656,Alex Leith,alexgleith,Tasmania,1205,713,http://pbs.twimg.com/media/EmsvcCOUcAAV-Zj.jpg,https://t.co/hKVJAr2bsR
+254,1327207233227169792,"#30DayMapChallenge day 13 Raster : Romain highways connecties Germany, France,and the Netherlands throughout Belgium. https://t.co/IcPKpixett",en,2020-11-13 11:10:37,1,0,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",919806358328958976,Vicky Verscheijden,gis3700,"Tongeren, België",79,132,http://pbs.twimg.com/media/Emsv8TWWEAELaFD.jpg,https://t.co/IcPKpixett
+255,1327206283943047169,"#30DayMapChallenge Day 13: Raster
+DTM of the 10 ha forest research plot of @naturwald_WSL in the primeval beech forest of Uholka. 
+Data from  https://t.co/1K94RWTMze
+Made with #RStats #rspatial and #rayshader https://t.co/N86oz69U4H",en,2020-11-13 11:06:51,3,5,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'RStats', 'indices': [176, 183]}, {'text': 'rspatial', 'indices': [184, 193]}, {'text': 'rayshader', 'indices': [198, 208]}]",993008496152064001,Jonas Stillhard,JonasStillhard,,109,243,http://pbs.twimg.com/media/EmsvCtWXYAQ3Q9y.jpg,https://t.co/1K94RWTMze
+257,1327202561003311107,"Day 13 of #30DayMapChallenge : Raster 
+
+Today I will add two satellite images of F1™ circuits that are so clearly visible from space that no additional sketching or editing is needed.
+
+L - Portimão - Autódromo Internacional do Algarve
+R -Sepang - Sepang International Circuit https://t.co/2GOWyhPooX",en,2020-11-13 10:52:03,1,5,"[{'text': '30DayMapChallenge', 'indices': [10, 28]}]",191797663,Tomo 🐽,tomodraco,"0,13",525,210,http://pbs.twimg.com/media/EmsrqPlW4AAlLcI.jpg,https://t.co/2GOWyhPooX
+258,1327200838012579844,"#30daymapchallenge #day13 #raster #QGIS 
+
+I don't usually do rasters, but here's a pretty map of night lights. https://t.co/Yn3qcKeouo",en,2020-11-13 10:45:12,1,7,"[{'text': '30daymapchallenge', 'indices': [0, 18]}, {'text': 'day13', 'indices': [19, 25]}, {'text': 'raster', 'indices': [26, 33]}, {'text': 'QGIS', 'indices': [34, 39]}]",77265423,Ian Turton,ijturton,"Worthing, UK",1075,892,http://pbs.twimg.com/media/EmsqHMkW4AE8yss.png,https://t.co/Yn3qcKeouo
+259,1327198552204963840,"#30DayMapChallenge 
+
+Day 13 - Raster
+
+Central Myanmar
+
+Tools - @Photoshop 
+
+@bcsweb https://t.co/SVToIEck3A",en,2020-11-13 10:36:07,2,8,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",238730325,David McCutcheon,DVDMaps,"Shrewsbury, England",196,196,http://pbs.twimg.com/media/Emsn9gbXMAU0EP1.jpg,https://t.co/SVToIEck3A
+260,1327198269647237121,Raster is master in today’s #30DayMapChallenge and of course that makes me think of beautiful satellite imagery (one of the things that got me into this field of work). So here’s the Gulf of Carpentaria https://t.co/VH4MceIrH3,en,2020-11-13 10:35:00,1,11,"[{'text': '30DayMapChallenge', 'indices': [28, 46]}]",109054515,Hans van der Maarel,redgeographics,The Netherlands,1937,605,http://pbs.twimg.com/media/Emn1kgNXIAAwLlk.jpg,https://t.co/VH4MceIrH3
+263,1327195469622161410,"#30DayMapChallenge Day 13. Raster. They say you can't zoom in on a raster more than its resolution. But your screen is a raster device. Zoom in on that with a camera, load that image into your PC, zoom in on that image, repeat. https://t.co/Y9iRXHns11",en,2020-11-13 10:23:52,1,17,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",88731801,Barry Rowlingson🐺,geospacedman,"Lancaster, UK",1658,475,http://pbs.twimg.com/media/Emsk5t_XUAATLo-.jpg,https://t.co/Y9iRXHns11
+264,1327194930775805952,"#30DayMapChallenge day 13 - raster 
+Heatmap technically is raster, so here is map of public transport stops density 
+#rstats #rspatial https://t.co/NkKPkd3YAA",en,2020-11-13 10:21:44,4,10,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'rstats', 'indices': [117, 124]}, {'text': 'rspatial', 'indices': [125, 134]}]",1273667699374260224,Tatiana,balt_ti,"Санкт-Петербург, Россия",98,182,http://pbs.twimg.com/media/EmskmkKW4AABGp2.jpg,https://t.co/NkKPkd3YAA
+265,1327194425458626560,"#30DayMapChallenge Day 12: Raster
+
+I don't usually mess around with raster data, but I think this one turned out well!
+
+Ireland has some pretty stunning mountains. 🗻 https://t.co/WYbXfUagDo",en,2020-11-13 10:19:43,4,30,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",437801734,Antonia Blankenberg,MapsByAntonia,"Dublin City, Ireland",230,458,http://pbs.twimg.com/media/EmskS6tXMAAvcyh.jpg,https://t.co/WYbXfUagDo
+266,1327193938973876224,"#30DayMapChallenge - Day 13 - Raster
+
+Satellite image of Mount Etna from the 3rd of November.
+Fall colors 🍂 Snow ❄️ Volcanic ash  🌋 https://t.co/ybA7x0B2R2",en,2020-11-13 10:17:47,1,12,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",1171647271928307712,Erwan Rivault,ErwanRivault,,456,802,http://pbs.twimg.com/media/EmsiZxWXIAYn24p.jpg,https://t.co/ybA7x0B2R2
+268,1327189333804257282,"#30DayMapChallenge - raster
+region: Baltic Sea
+data: Copernicus Sentinel
+tool: Corel https://t.co/7quuMIUeTc",en,2020-11-13 09:59:29,3,14,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",2902589494,Patrycja Krajczyńska,mapsbyp,Poland,993,1156,http://pbs.twimg.com/media/EmsfqeCW8AEOrOy.jpg,https://t.co/7quuMIUeTc
+270,1327187926996963328,#30DayMapChallenge Day 13 #Raster. The beauty of small things - LIDAR revealing field patterns near Bryanston village. #QGIS https://t.co/i4mJe5AORQ,en,2020-11-13 09:53:54,2,12,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'Raster', 'indices': [26, 33]}, {'text': 'QGIS', 'indices': [119, 124]}]",1074378707438055426,Blandford Bread,BlandfordBread,"South West, England",447,804,http://pbs.twimg.com/media/EmseXbxW4AACKEA.png,https://t.co/i4mJe5AORQ
+271,1327186944711749634,"🌍🇻🇳🖼️ Jour 13 du #30DayMapChallenge : raster.
+
+Alors un peu comme la 3D, les rasters c'est pas ma spécialité mais en fouillant un peu j'ai retrouvé cette carte réalisée pour le Dictionnaire du Communisme aux @Ed_Vendemiaire en 2013 https://t.co/pESvmOCuO6",fr,2020-11-13 09:50:00,1,6,"[{'text': '30DayMapChallenge', 'indices': [17, 35]}]",138790830,Jules Grandin,JulesGrandin,Paris,22281,1007,http://pbs.twimg.com/media/ElzeE8wXEAAFqTt.jpg,https://t.co/pESvmOCuO6
+272,1327186743859306497,"Do you like my new #painting #Map of Mull? It shows settlements, features &amp; tons of wildlife. I dream of visiting again! 
+A2 prints: https://t.co/7lad0b5zIi #isleofmull #wildaboutargyll #VisitMullandIona #VisitScotland #MullEagleWatch #30DayMapChallenge #cartography #handpainted https://t.co/LH5YGFgmZ9",en,2020-11-13 09:49:12,13,64,"[{'text': 'painting', 'indices': [19, 28]}, {'text': 'Map', 'indices': [29, 33]}, {'text': 'isleofmull', 'indices': [161, 172]}, {'text': 'wildaboutargyll', 'indices': [173, 189]}, {'text': 'VisitMullandIona', 'indices': [190, 207]}, {'text': 'VisitScotland', 'indices': [208, 222]}, {'text': 'MullEagleWatch', 'indices': [223, 238]}, {'text': '30DayMapChallenge', 'indices': [239, 257]}, {'text': 'cartography', 'indices': [258, 270]}, {'text': 'handpainted', 'indices': [271, 283]}]",49047093,Jane Tomlinson,JaneSunflower,"The Land of the Free, near Oxford, UK",2812,2764,http://pbs.twimg.com/media/EmscSmAWMAAVvg7.jpg,https://t.co/7lad0b5zIi
+274,1327183937005883392,"Jour 13 du #30DayMapChallenge - Raster
+
+#Bergen (point jaune) : entrée des fjords de #Norvège
+Données : ESA https://t.co/PZNRJ1bIV1",fr,2020-11-13 09:38:03,1,8,"[{'text': '30DayMapChallenge', 'indices': [11, 29]}, {'text': 'Bergen', 'indices': [40, 47]}, {'text': 'Norvège', 'indices': [85, 93]}]",3195365733,Justine Vignat,Junevgt,Paris ,763,249,http://pbs.twimg.com/media/EmsaMk5XMAA7EZF.jpg,https://t.co/PZNRJ1bIV1
+275,1327183509744738304,"#30DayMapChallenge
+Day 13: Raster
+
+Here is an ice thickness raster I helped produce for our paper 'Surface and geometry changes during the first documented
+surge of Kverkjökull, central Iceland'. With @ProfFionaTweed, Jonathan Carrivick et al. 
+
+https://t.co/skK6ZNfMcu https://t.co/nHrNdwfHmc",en,2020-11-13 09:36:21,1,2,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",1242400749864304640,William James,GeogWillJ,,46,139,http://pbs.twimg.com/media/EmsZ4IIXcAENWlp.png,https://t.co/skK6ZNfMcu
+276,1327182363022012417,13. Raster: #landscape diversity calculated with moving window 🪟👀Landscape diversity is estimated using Simpson’s Diversity index calculated in #Fragstats. I did my whole PhD in that program 🤓😝 but I haven’t used it for several years😁  #30DayMapChallenge #QGIS https://t.co/U5viRIpWPn,en,2020-11-13 09:31:47,2,23,"[{'text': 'landscape', 'indices': [12, 22]}, {'text': 'Fragstats', 'indices': [144, 154]}, {'text': '30DayMapChallenge', 'indices': [236, 254]}, {'text': 'QGIS', 'indices': [255, 260]}]",47698876,Evelyn,evelynuuemaa,Estonia,425,284,http://pbs.twimg.com/media/EmsYiFvXIAAWp3-.jpg,https://t.co/U5viRIpWPn
+277,1327180670666493953,"And we are on #day13 of the #30daymapchallenge : #raster
+
+For this we are looking at the walking maps we made to show who lives within a 10-minute walking distance of Moorgate Primary Academy
+
+https://t.co/R0XgqsxYb1
+
+#walking #map #primaryschool #school https://t.co/ojKjTdGWQc",en,2020-11-13 09:25:04,0,0,"[{'text': 'day13', 'indices': [14, 20]}, {'text': '30daymapchallenge', 'indices': [28, 46]}, {'text': 'raster', 'indices': [49, 56]}, {'text': 'walking', 'indices': [218, 226]}, {'text': 'map', 'indices': [227, 231]}, {'text': 'primaryschool', 'indices': [232, 246]}, {'text': 'school', 'indices': [247, 254]}]",49592380,Basemap,basemap,"Guildford, Surrey",1685,1644,http://pbs.twimg.com/media/EmsXyYcWEAExnqX.jpg,https://t.co/R0XgqsxYb1
+278,1327180540798242816,"#30DayMapChallenge Day 13: Raster #rstats #ggplot2
+
+I use high-resolution raster data of ethnic group populations to calculate polarization at the third administrative level in the DRC and overlay one-sided violence event data from @ACLEDINFO https://t.co/XOSOZVPci0",en,2020-11-13 09:24:33,8,8,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'rstats', 'indices': [34, 41]}, {'text': 'ggplot2', 'indices': [42, 50]}]",1031429616668430336,A. Jordan Nafa,adamjnafa,"Denton, TX",85,118,http://pbs.twimg.com/media/EmsXqjfXIAEEkIg.jpg,https://t.co/XOSOZVPci0
+279,1327180317195644928,#30DayMapChallenge it's not new but this is my version for the 12th: not made with a GIS software. https://t.co/CpHaaoCZr8,en,2020-11-13 09:23:40,2,40,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",379176102,D.,daniel_isita,"Guadalajara, México.",1805,1179,http://pbs.twimg.com/media/EmsXdsxXcAInNmj.jpg,https://t.co/CpHaaoCZr8
+280,1327180310220509186,"#30DayMapChallenge Day 13. Raster
+
+Climatic classification of meteorological droughts around the world:  low (L), medium (M), or high (H) number of consecutive dry days, alternating with longer (ℓ) or shorter (s) wet days.
+
+#dataviz #rspatial #rstats https://t.co/i81XDxA7Yh",en,2020-11-13 09:23:38,12,30,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'dataviz', 'indices': [224, 232]}, {'text': 'rspatial', 'indices': [233, 242]}, {'text': 'rstats', 'indices': [243, 250]}]",895213223724666880,Dominic Royé,dr_xeo,"Santiago de Compostela, España",2433,995,http://pbs.twimg.com/media/EmsWNCaXUAEq_tR.png,https://t.co/i81XDxA7Yh
+281,1327179667334434816,"One truly map made without #GIS is this Mapa Sertanista of Serro do Frio, Minas Gerais. Part of a huge and unknown map collection at @FBN #30DayMapChallenge https://t.co/ijaggUyGBA",en,2020-11-13 09:21:05,1,0,"[{'text': 'GIS', 'indices': [27, 31]}, {'text': '30DayMapChallenge', 'indices': [138, 156]}]",3290545829,Carmem Rodrigues 🏡😷🇧🇷🌍,CarmemMarx,"Belo Horizonte, Minas Gerais",186,634,http://pbs.twimg.com/media/EmsW3v9XMAAe91e.jpg,https://t.co/ijaggUyGBA
+282,1327178350994010112,#30DayMapChallenge Sans GIS. Juste parce que j'aime bien cette map :D https://t.co/CeY0kKWXtG,fr,2020-11-13 09:15:51,2,3,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",96221583,Matthieu Totet - 大龙猫,Totetmatt,München,524,698,http://pbs.twimg.com/media/EmsVeGqXIAERQgI.jpg,https://t.co/CeY0kKWXtG
+283,1327178171461099522,"Day 13 #30DayMapChallenge Raster
+
+Explaining what a raster is using #Lego #LakeDistrict 
+
+Made in #QGIS https://t.co/LYPmAl2WfN",en,2020-11-13 09:15:08,5,22,"[{'text': '30DayMapChallenge', 'indices': [7, 25]}, {'text': 'Lego', 'indices': [68, 73]}, {'text': 'LakeDistrict', 'indices': [74, 87]}, {'text': 'QGIS', 'indices': [98, 103]}]",223959960,Kirsten Reilly,_penguin_runner,"Stirling, Scotland",361,1211,http://pbs.twimg.com/media/EmsVJAPWMAAS-MG.jpg,https://t.co/LYPmAl2WfN
+284,1327176876872314880,"Day 13 - Raster #30DayMapChallenge 
+
+Ever wondered where the elusive Scottish Wildcats are seen in the wild? I have... so I made a heatmap of their sightings from the last 20 years! https://t.co/yOCkNvZYNN",en,2020-11-13 09:09:59,3,11,"[{'text': '30DayMapChallenge', 'indices': [16, 34]}]",996835888813494272,Catherine Schroder,cj_maps,"Scotland, United Kingdom",39,44,http://pbs.twimg.com/media/EmsUVd0XEAE2V_N.jpg,https://t.co/yOCkNvZYNN
+285,1327175221841965057,"#30DayMapChallenge day 13: Raster
+𝗣𝗿𝗼𝗯𝗮𝗯𝗹𝘆 𝘁𝗵𝗲 𝗺𝗼𝘀𝘁 𝗯𝗲𝗮𝘂𝘁𝗶𝗳𝘂𝗹 𝗼𝗿𝘁𝗵𝗼𝗽𝗵𝗼𝘁𝗼 𝗶𝗻 𝘁𝗵𝗲 𝘄𝗼𝗿𝗹𝗱…
+Aerial image mosaic of the #Sognefjord, #Jostedalsbreen glacier and highest mountain #Galdhøpiggen. 50cm resolution
+@MapsNorway #aerialphotography https://t.co/xmw765VpzL",en,2020-11-13 09:03:25,3,18,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'Sognefjord', 'indices': [114, 125]}, {'text': 'Jostedalsbreen', 'indices': [127, 142]}, {'text': 'Galdhøpiggen', 'indices': [172, 185]}, {'text': 'aerialphotography', 'indices': [215, 233]}]",741266268,Floris Groesz,SirJanosFroglez,,19,75,http://pbs.twimg.com/media/EmsSKa0W4AIehZO.jpg,https://t.co/xmw765VpzL
+286,1327174633200775169,"L’Antarctique de Jules Verne dans le roman ""Le Sphinx des glaces"" (1897). Illustration de G. Roux. L'hypothèse de 2 continents distincts. #30DayMapChallenge https://t.co/oRTdZaZ6kc",fr,2020-11-13 09:01:04,1,1,"[{'text': '30DayMapChallenge', 'indices': [138, 156]}]",1325086092417175552,Nicolas Bollot,BollotN,,7,27,http://pbs.twimg.com/media/EmsR4obXMAAD5h8.jpg,https://t.co/oRTdZaZ6kc
+287,1327174048044859392,"Day 13 of #30DayMapChallenge: Raster
+Eastern North Island
+Created using the @LINZLDS 10m Cloudfree imagery layer for #NewZealand https://t.co/k100Dt8dT4",en,2020-11-13 08:58:45,3,22,"[{'text': '30DayMapChallenge', 'indices': [10, 28]}, {'text': 'NewZealand', 'indices': [117, 128]}]",93839237,Andrew DC,andrewdc_nz,"Christchurch City, New Zealand",426,165,http://pbs.twimg.com/media/EmsRf9NVEAEe4lx.jpg,https://t.co/k100Dt8dT4
+288,1327173779290775552,"A late entry again for the #30DayMapChallenge, from day 10 (grids). This one shows the percentage of land given to terrestrial protected areas per country. Created using #RStats https://t.co/zdO021k6Kp",en,2020-11-13 08:57:41,3,2,"[{'text': '30DayMapChallenge', 'indices': [27, 45]}, {'text': 'RStats', 'indices': [170, 177]}]",46426450,Joshua Copping,JoshCopping,United Kingdom,97,167,http://pbs.twimg.com/media/EmsQcOZXUAApASi.jpg,https://t.co/zdO021k6Kp
+289,1327173700303675392,"Rasters for Day13 of the #30DayMapChallenge . I work with rasters quite a bit, especially with #bathymetry data. This bathymetry comes from our #multibeam surveys, Marine Scotland, and the #UKHO data portal. #NAFCResearch #ThinkUHI #GIS https://t.co/ItEVCXIhgQ",en,2020-11-13 08:57:22,0,2,"[{'text': '30DayMapChallenge', 'indices': [25, 43]}, {'text': 'bathymetry', 'indices': [95, 106]}, {'text': 'multibeam', 'indices': [144, 154]}, {'text': 'UKHO', 'indices': [189, 194]}, {'text': 'NAFCResearch', 'indices': [208, 221]}, {'text': 'ThinkUHI', 'indices': [222, 231]}, {'text': 'GIS', 'indices': [232, 236]}]",1106525318553182209,Richard Shelmerdine,RLShelmerdine,"Scotland, United Kingdom",76,118,http://pbs.twimg.com/media/EmsRXOmXUAATuUp.jpg,https://t.co/ItEVCXIhgQ
+290,1327171642217402368,"Day 13 #30DayMapChallenge
+
+The standard formats WMS/WFS arent widely known, but sometimes all thats offered,eg. Geodatenportal Berlin.
+For the ""raster"" challenge I queried the WMS on noise levels in Berlin with #rstats.
+
+Map: https://t.co/1zxYhdAnr2
+Code: https://t.co/cHhBF8tWWM https://t.co/hgVTqUg5Nd",en,2020-11-13 08:49:11,5,10,"[{'text': '30DayMapChallenge', 'indices': [7, 25]}, {'text': 'rstats', 'indices': [211, 218]}]",3011804639,Alexandra Kapp,lxndrkp,"Berlin, Deutschland",620,484,http://pbs.twimg.com/media/EmsNwjBXIAAuKc4.jpg,https://t.co/1zxYhdAnr2
+291,1327168177533571072,"#30DayMapChallenge Day 13: Raster
+
+@CopernicusLand High spatial Resolution Layers (HRLs), raster representations of basic surface properties.
+↖️Imperviousness ↗️ Tree cover density ↙️ Grassland occurrence↘️Surface water &amp; wetland presence. 
+
+Free &amp; open access under @CopernicusEU https://t.co/00FCcHDYoL",en,2020-11-13 08:35:25,3,6,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",145683389,Geoff Smith,DrGeoffSmith,"Cambridge, UK",843,468,http://pbs.twimg.com/media/EmsLFEbXcAEKtU-.jpg,https://t.co/00FCcHDYoL
+292,1327167967495385088,"#30DayMapChallenge 13. diena. Rastrs. Sentinel-1 radara satelīts iegūst attēlu arī naktī un caur mākoņiem, tāpēc 2017. gadā pirmo iespaidu par plūdiem varēja gūt jau pirmajā lietavu dienā. Kombinējot attēlus pirms plūdiem un to laikā, applūdušās platības tiek attēlotas sarkanas. https://t.co/vxm1ofrq4P",lv,2020-11-13 08:34:35,2,7,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",137107982,Zane,atdodkonfektes,,133,119,http://pbs.twimg.com/media/EmsI2wcXcAAmBT0.jpg,https://t.co/vxm1ofrq4P
+294,1327166708407263232,"#30DayMapChallenge Day 13: Raster: Estonia elevation data in random, inconsistent with cell values, psychedelic colours. https://t.co/5hxJpXQLEJ",en,2020-11-13 08:29:35,1,16,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",2679909391,Zlata Popelnuh,popelnuhh,,96,154,http://pbs.twimg.com/media/EmsKwX0XMAAJaAu.jpg,https://t.co/5hxJpXQLEJ
+295,1327166506627641344,"#30DayMapChallenge - 13 Raster
+
+Snow coverage in and around Switzerland on January 1 2020 https://t.co/jmh73RkPjz",en,2020-11-13 08:28:47,1,5,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",1320623996249976832,Raphaël Bz,1cartogRaph,Switzerland,14,2,http://pbs.twimg.com/media/EmsJsk_XcAAlCRC.jpg,https://t.co/jmh73RkPjz
+296,1327165767264178176,"#30DayMapChallenge #raster 
+
+Looking at the distribution of both football pitches and theatre's challenging MP Jake Berry's remarks about the north not caring about arts. https://t.co/kVUuNCdx8T",en,2020-11-13 08:25:51,1,6,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'raster', 'indices': [19, 26]}]",782161298,Neil Harris 'UO web',Neil_py_harris,Newcastle-upon-Tyne,257,291,http://pbs.twimg.com/media/EmsKOzKWEAE3Rlh.png,https://t.co/kVUuNCdx8T
+297,1327165455233007616,"#30DayMapChallenge Day 12: Not GIS.
+By Rhino, Grasshopper. Actually, I am thinking about whether they were strictly not GIS software.😅 https://t.co/Xcq79rvoic",en,2020-11-13 08:24:36,1,3,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",815911984788951040,Jingrong Zhang,Jingrong_Zhang,China,7,29,http://pbs.twimg.com/media/EmsJ229VkAAhYWq.jpg,https://t.co/Xcq79rvoic
+298,1327165404352040960,Day 13 of the #30DayMapChallenge: Raster. Playing around with hypsometric tinting in #Blender3d  to add a bit of a photorealistic element to a generic hillshade. Didn't quite come out as intended but still a fun experiment. https://t.co/MDLe0kJeEa,en,2020-11-13 08:24:24,2,8,"[{'text': '30DayMapChallenge', 'indices': [14, 32]}, {'text': 'Blender3d', 'indices': [85, 95]}]",1033774266880282624,Strath Slater,StrathSlater,"Edinburgh, Scotland",80,101,http://pbs.twimg.com/media/EmsJrUpXYAAN_v1.jpg,https://t.co/MDLe0kJeEa
+299,1327164015278174208,"#30DayMapChallenge Day 13: Raster
+London infrastructure volume map created from @GeomniUK #UKMap data. Raster classification of Water, Vegetation, Residential, Man-made with calculated volume. Darker colours = greater volume. https://t.co/gF9cAEw16r",en,2020-11-13 08:18:53,2,5,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'UKMap', 'indices': [90, 96]}]",1268236531,Tom Timms,TomTheMap,"Cambridgeshire, UK",420,633,http://pbs.twimg.com/media/EmsIciDW4AADZmV.jpg,https://t.co/gF9cAEw16r
+300,1327163566093381633,Day 13: raster. Air temperature 15 minutes ago (kriging)  #30DayMapChallenge https://t.co/I4LZ4yIk3c,en,2020-11-13 08:17:06,2,16,"[{'text': '30DayMapChallenge', 'indices': [58, 76]}]",113729499,Anto Aasa,antoaasa,"Tartu, Eesti",82,67,http://pbs.twimg.com/media/EmsIIHvWMAACufX.png,https://t.co/I4LZ4yIk3c
+301,1327162278123249664,"Day 13 raster #30DayMapChallenge Scenic hiking in west Tokyo. I’ll have to stop being so fussy with these maps, they’re taking ages. I would of loved to play with the colours to make it prettier, learn some better styling methods. 5m DEM from https://t.co/OIEKebSobI https://t.co/Ju2XEnXNK9",en,2020-11-13 08:11:59,1,2,"[{'text': '30DayMapChallenge', 'indices': [14, 32]}]",14851579,Kylie Wilson,_kyliejane,Sydney or Tokyo,512,162,http://pbs.twimg.com/media/EmsHDBEUcAAL7jb.jpg,https://t.co/OIEKebSobI
+303,1327161174526365696,"#30DayMapChallenge Day 13 is Raster! Celebrate pixely data visualization! Here are biodiversity richness in Southeast Asia and Australia, the greener the better. https://t.co/InOH24g2d9",en,2020-11-13 08:07:36,2,4,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",950010366779564043,alvirl,alv_irl,,186,430,http://pbs.twimg.com/media/EmsF3AxUYAAZuNp.png,https://t.co/InOH24g2d9
+304,1327160395325386752,"Day 13 of #30DayMapChallenge. Raster. Four @stamen styles of base map tiles to map London. Made with #rstats, grid, sf, ggplot and ggmap. https://t.co/jF36OrmczB",en,2020-11-13 08:04:30,4,5,"[{'text': '30DayMapChallenge', 'indices': [10, 28]}, {'text': 'rstats', 'indices': [101, 108]}]",230856587,Ivo Wengraf,iwengraf,"Higham, Kent",365,920,http://pbs.twimg.com/media/EmsFV6FXIAABEyu.jpg,https://t.co/jF36OrmczB
+305,1327159990201831424,"#30DayMapChallenge Day 13 | Raster
+
+Back to GIS software with a raster map showing the Italian DEM at 75m grid size, available as a Web Coverage Service from the Italian National Geoportal managed by @minambienteIT. Map created in #QGIS. https://t.co/AE621pK2iF",en,2020-11-13 08:02:53,2,14,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'QGIS', 'indices': [231, 236]}]",1669906789,Marco Minghini,MarcoMinghini,"Como, Italy",1046,671,http://pbs.twimg.com/media/EmsD7n2W8AI2UGC.jpg,https://t.co/AE621pK2iF
+306,1327159980366053376,"Un poco tarde  #30DayMapChallenge grid
+
+Número de razas de maíz por celda en el estado de Oaxaca. https://t.co/Plj3quZBp4",es,2020-11-13 08:02:51,1,3,"[{'text': '30DayMapChallenge', 'indices': [15, 33]}]",358606269,El Diego,Kantzakata,"Fonetitlán, Distrito Federal",111,243,http://pbs.twimg.com/media/EmsEKhJVkAEBhjy.jpg,https://t.co/Plj3quZBp4
+307,1327159514206912513,"#30DayMapChallenge Day 13: raster
+
+#sneakpeek of forthcoming #thematicmapping book: 101 ways to map same data
+
+2016 presidential election as an interpolated rasterised draped 2.5D surface. Gives a view of the peaks of support and the valleys in between. https://t.co/H2vjfV6qFo",en,2020-11-13 08:01:00,2,29,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'sneakpeek', 'indices': [35, 45]}, {'text': 'thematicmapping', 'indices': [61, 77]}]",20668314,Kenneth Field,kennethfield,"Redlands, CA & global",12384,103,http://pbs.twimg.com/media/EmlDvL0UYAAdmHe.jpg,https://t.co/H2vjfV6qFo
+308,1327158964543496193,"Day 13 (raster): Subjective delineations of Europe
+(in collaboration with C. Didelon, 2011)
+#30DayMapChallenge https://t.co/syYUTunN4Y",en,2020-11-13 07:58:49,7,38,"[{'text': '30DayMapChallenge', 'indices': [92, 110]}]",1035417413586694144,neocarto,neocartocnrs,Paris,1310,376,http://pbs.twimg.com/media/EmsDzfFXUAAgw-J.jpg,https://t.co/syYUTunN4Y
+309,1327156611291471872,"Day 13 of #30DayMapChallenge: Raster
+
+The pixelized map of #Toulouse @VisitToulouse @Occitanie https://t.co/wOIt0ZKi5j",en,2020-11-13 07:49:28,2,8,"[{'text': '30DayMapChallenge', 'indices': [10, 28]}, {'text': 'Toulouse', 'indices': [59, 68]}]",1226081200214814721,me & maps,meandmaps,paris,213,1067,http://pbs.twimg.com/media/EmsBfiYW8AI7ey-.png,https://t.co/wOIt0ZKi5j
+310,1327156135770681344,"#30DayMapChallenge (Day 13 - 13/11/2020)
+#mgug
+""Raster""
+
+DEM and it's extractions... https://t.co/E5tQRVm04l",en,2020-11-13 07:47:34,0,0,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'mgug', 'indices': [41, 46]}]",1320970592439259136,MAHESH KUMAR,MAHESHK92842090,,0,28,http://pbs.twimg.com/media/EmsA6OkXEAUykH6.jpg,https://t.co/E5tQRVm04l
+311,1327155462756855808,Day 13 of #30DayMapChallenge : Raster. One of my favourite aerial/satellite imagery are infrared images. They provide information about vegetation (darker red) but also make earth look like a weird alien planet. Code: https://t.co/Tc7N0Iculf https://t.co/janNyD6GgX,en,2020-11-13 07:44:54,1,12,"[{'text': '30DayMapChallenge', 'indices': [10, 28]}]",7541002,Sebastian Meier,seb_meier,,1270,141,http://pbs.twimg.com/media/Emr--19XcAIYHul.jpg,https://t.co/Tc7N0Iculf
+312,1327151713590112257,"#30DayMapChallenge Day 13 | Raster
+
+US average temperature through a conversion of a raster image into a shapefile by #qgis. https://t.co/FoBhOsITmB",en,2020-11-13 07:30:00,1,32,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'qgis', 'indices': [118, 123]}]",2614024302,Rob Radburn,robradburn,"Leicester, UK",3179,748,http://pbs.twimg.com/media/EmpJ7lmXEAIQD29.jpg,https://t.co/FoBhOsITmB
+313,1327149963416055808,#30DayMapChallenge Day 13: Raster. Evapotranspiration of the Wonji sugar plantations in Ethiopia in October 2020. #OpenData: 30 m monthly AETI from #FAO #WaPOR https://t.co/kTPCHaKatT. Designed with #QGIS 3.16. https://t.co/6A4HaUA5gb,en,2020-11-13 07:23:03,3,13,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'OpenData', 'indices': [114, 123]}, {'text': 'FAO', 'indices': [148, 152]}, {'text': 'WaPOR', 'indices': [153, 159]}, {'text': 'QGIS', 'indices': [199, 204]}]",760094405369946112,Hans van der Kwast,hansakwast,The Netherlands,2779,1171,http://pbs.twimg.com/media/Emr56YhXMAARD8d.jpg,https://t.co/kTPCHaKatT.
+314,1327147083544072193,"Joir 13 du #30DayMapChallenge 
+Raster
+Direction : Noirmoutier https://t.co/jv7VIGfXhP",fr,2020-11-13 07:11:36,2,4,"[{'text': '30DayMapChallenge', 'indices': [11, 29]}]",1026155967480844291,Anne L.,AlandcoC,Versailles ,768,768,http://pbs.twimg.com/media/Emr5PSEWEAAYlWi.jpg,https://t.co/jv7VIGfXhP
+315,1327142968122281985,"#30DayMapChallenge 13. Raster
+
+Rhône Delta (Camargue)
+
+Made with #QGIS https://t.co/Y2OuvrN6Xw",fr,2020-11-13 06:55:15,3,28,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'QGIS', 'indices': [65, 70]}]",892006500,Romain Lx,lacxrx,Vaucluse,628,249,http://pbs.twimg.com/media/Emr1OmKWEAIRYA6.jpg,https://t.co/Y2OuvrN6Xw
+317,1327141565828096000,"Mohni is small island off the Northern coast of Estonia, little known for a place called Keskmaa (Middle-Earth) - in the middle of the island.
+
+Done using open data 1:10K orthophoto tile from the Estonian Land Board.
+
+#30DayMapChallenge Day 13, Raster. https://t.co/lhL9k2E71X",en,2020-11-13 06:49:41,2,3,"[{'text': '30DayMapChallenge', 'indices': [218, 236]}]",2629383321,Tõnis Kärdi,tkardi,"Tartu, Estonia",208,237,http://pbs.twimg.com/media/EmrymEfXIAAsWLl.jpg,https://t.co/lhL9k2E71X
+318,1327137517775314944,"Day 13 of #30DayMapChallenge - Raster
+A simple map showing the bottom of the oceans
+tools: R https://t.co/LQtt4nonVC",en,2020-11-13 06:33:35,1,6,"[{'text': '30DayMapChallenge', 'indices': [10, 28]}]",950089955753250816,Jose Maria Echave Sanz,assesslife,Helsinki,191,390,http://pbs.twimg.com/media/EmrwgDwXMAAt4Rc.jpg,https://t.co/LQtt4nonVC
+319,1327137359209619456,"Day 13. Raster. Orthophotos from @cityofturku: 1939 (there was nothing), 1973 (mom&amp;dad built their house), 1986 (I was 5 and the field was yielding crops), 2002 (started to study geography a year before), 2018 (garden 4 years old) Created with #QGIS #30dayMapChallenge https://t.co/xCUU94u2Y2",en,2020-11-13 06:32:58,1,23,"[{'text': 'QGIS', 'indices': [248, 253]}, {'text': '30dayMapChallenge', 'indices': [254, 272]}]",3552542476,Sanna Jokela,SannaJokela1,"Turku, Suomi",530,405,http://pbs.twimg.com/media/EmrwXPUW8AEAaPv.jpg,https://t.co/xCUU94u2Y2
+320,1327134208872034306,"#30DayMapChallenge: Day 13 (raster). Timelapse of agricultural landscape with #Sentinel 2 true color composite rasters. 
+Tool: #GoogleEarthEngine https://t.co/cT85knQHKV",en,2020-11-13 06:20:27,5,14,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'Sentinel', 'indices': [78, 87]}, {'text': 'GoogleEarthEngine', 'indices': [127, 145]}]",1237617707106873344,Benjamin Nowak,BjnNowak,"Clermont-Ferrand, France",387,481,http://pbs.twimg.com/tweet_video_thumb/EmrsrmiXYAATMZm.jpg,https://t.co/cT85knQHKV
+321,1327134037090193418,"Day 13: raster
+
+Horomaka (Banks Peninsula) elevation, rounded every 5 metres. 
+
+#rstats (rayshader package) + NASA DTM (tiles S44E172 &amp; S44E173). #30DayMapChallenge https://t.co/4A82VJ4K1F",en,2020-11-13 06:19:46,4,15,"[{'text': 'rstats', 'indices': [80, 87]}, {'text': '30DayMapChallenge', 'indices': [150, 168]}]",12306,Luis Apiolaza 🧮🍃📷⏚,zentree,"Ōtautahi, Aotearoa",1288,278,http://pbs.twimg.com/media/EmrswlvWEAEGZyc.jpg,https://t.co/4A82VJ4K1F
+322,1327133958686052353,Day 13: Raster. Somewhere along the Colorado River in AZ. #30DayMapChallenge #contours #arizona https://t.co/HkFpVwNmSO,en,2020-11-13 06:19:27,1,7,"[{'text': '30DayMapChallenge', 'indices': [58, 76]}, {'text': 'contours', 'indices': [77, 86]}, {'text': 'arizona', 'indices': [87, 95]}]",28102639,Phoebe L.,pheebely,"Austin, TX",233,156,http://pbs.twimg.com/media/EmrtP7YXYAM1PQ_.jpg,https://t.co/HkFpVwNmSO
+324,1327132508018921478,Day 13 Raster: Magnetometry measurements showing a Roman Fort with defensive ditch and internal structures.  In the eastern part a modern gas pipeline crosses. The raw data was processed with QGIS and finally presented as raster data (1 channel black to white). #30DayMapChallenge https://t.co/qHlJaH5Qv7,en,2020-11-13 06:13:41,3,16,"[{'text': '30DayMapChallenge', 'indices': [262, 280]}]",2778216364,eurojam,27aea577f17d4c4,Freiburg im Breisgau,145,246,http://pbs.twimg.com/tweet_video_thumb/EmrrfIwXcAA5rug.jpg,https://t.co/qHlJaH5Qv7
+325,1327131659779641345,"#30DayMapChallenge day 13 : raster
+ Je triche, réduisant le raster au petit pion carré d'un jeu de plateau dystopique - 1492, Christophe Colomb décide de rester aux Bahamas). 
+Les verts attaquent le Kwazulu Val d'Aoste avec la Pô-Rhenanie
+#jeudeplateau #dystopie #civilizations https://t.co/by7o9tulyx",fr,2020-11-13 06:10:19,1,9,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'jeudeplateau', 'indices': [239, 252]}, {'text': 'dystopie', 'indices': [253, 262]}, {'text': 'civilizations', 'indices': [263, 277]}]",1189967197730430977,Julien Dupont Kobri,Kartokobri,,229,129,http://pbs.twimg.com/media/EmrpcUTW4AEaRtC.jpg,https://t.co/by7o9tulyx
+326,1327129064365195264,"Jour 13 du #30DayMapChallenge 
+Thème du jour : Raster
+Petit traitement à partir des données raster de la couverture du réseau mobile en suisse. Encore quelques zone blanches dans le Tessin et les Grisons.
+Avec #QGIS https://t.co/g6xYVvEX6v",fr,2020-11-13 06:00:00,1,4,"[{'text': '30DayMapChallenge', 'indices': [11, 29]}, {'text': 'QGIS', 'indices': [210, 215]}]",1311399091,Lubin Picard,Lubin_Picard,,63,105,http://pbs.twimg.com/media/Emp5EtvXYAALeB_.jpg,https://t.co/g6xYVvEX6v
+327,1327128511665106944,"I'm catching up in the #30DayMapChallenge! This map is for day 10 (grid). This is a 1 degree x 1 degree grid of public transit stations (fixed rail stations) in the US, which reveals the lack of railway access throughout the US. #Geospatial #GIS https://t.co/edKjWyy6T6",en,2020-11-13 05:57:48,2,4,"[{'text': '30DayMapChallenge', 'indices': [23, 41]}, {'text': 'Geospatial', 'indices': [229, 240]}, {'text': 'GIS', 'indices': [241, 245]}]",1311526141983772673,Rachel Finerman,RFinerman,,28,72,http://pbs.twimg.com/media/EmroVAHXcAMLL5R.jpg,https://t.co/edKjWyy6T6
+330,1327122690214387715,"Day 13 of #30DayMapChallenge. Raster.
+
+NZ Automobile Association's ""Centennial map of Waitakere Ranges and Scenic Drive"" was published in 1945 to encourage recreational car use.
+
+@Auckland_Libs NZ map 2070, Sir George Grey Special Collections
+
+Created using #b3d, DEM via @LINZLDS https://t.co/HTzRmYb5gS",en,2020-11-13 05:34:40,1,7,"[{'text': '30DayMapChallenge', 'indices': [10, 28]}, {'text': 'b3d', 'indices': [258, 262]}]",29162437,Kerrin Sime,kjsime," NZ, most of the time.",54,125,http://pbs.twimg.com/media/EmrjDTPXUAAFH2V.jpg,https://t.co/HTzRmYb5gS
+331,1327122514070417412,"#30DayMapChallenge @tjukanov Day 13:Raster
+India: State and UT wise #COVID19 deaths (12-Nov-20)
+Data Source: @MoHFW_INDIA 
+Vector analysis &amp; rasterization using MapnikRasterizer #FME @SafeSoftware
+Thanks @PixelSoftek 
+Note: Map is not accurate and for visualization purposes only https://t.co/1UQzz9MsPe",en,2020-11-13 05:33:58,0,1,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'COVID19', 'indices': [68, 76]}, {'text': 'FME', 'indices': [182, 186]}]",105407287,SRG,Saint_GIS,"Chennai, India",133,86,http://pbs.twimg.com/media/EmrhnGcXUAAnqFc.jpg,https://t.co/1UQzz9MsPe
+332,1327118997003747329,"Day 13 - Raster Boracay Island 2013-20 Landsat. Google Earth Engine Time Lapse. Doing the #30DayMapChallenge is pushing oneself to learn new Mappy stuff in GEE. They closed Boracay for rehabilitation, only to build something else. https://t.co/3uDeYFwZna",en,2020-11-13 05:20:00,2,2,"[{'text': '30DayMapChallenge', 'indices': [90, 108]}]",2599428001,Francis Gasgonia,seateazen,Philippines,73,301,http://pbs.twimg.com/ext_tw_video_thumb/1326984889774690304/pu/img/mqpL8KAeMypM5Vgb.jpg,https://t.co/3uDeYFwZna
+333,1327115910100946945,#30DayMapChallenge Day 12: No GIS. A hand drawn map of a happy little junction. https://t.co/lIGhtlf9AJ,en,2020-11-13 05:07:44,1,7,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",215404498,Ariel Kadouri,akadouri,,140,385,http://pbs.twimg.com/media/Emrc4Y3WEAAZ1qd.jpg,https://t.co/lIGhtlf9AJ
+336,1327113504239751168,"Day 12
+Maps Not Made With GIS software
+#30DayMapChallenge https://t.co/gyQpXDJLOI",en,2020-11-13 04:58:10,1,2,"[{'text': '30DayMapChallenge', 'indices': [39, 57]}]",1851147889,Simon,iamSimon_A,NZ,226,1314,http://pbs.twimg.com/media/EmrasdTUYAAeNK-.jpg,https://t.co/gyQpXDJLOI
+337,1327101968423251969,"#30DayMapChallenge Mapa Sin Programa de SIG.
+
+Mapa de ubicación de Culiacán, Sinaloa en Excel. https://t.co/XCj6hWCTkC",es,2020-11-13 04:12:20,3,11,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",1058153682905296896,Emmanuel Espinoza,EI_Manny,"Culiacán, Sinaloa",49,44,http://pbs.twimg.com/media/EmrP9K0W8AIBXiX.png,https://t.co/XCj6hWCTkC
+338,1327096863925923840,#30DayMapChallenge Día 12: map not made with GIS. Avistamientos de la gaviota sombría. Mapa hecho con Python https://t.co/SBrKzaVUKr,es,2020-11-13 03:52:03,2,1,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",393806279,Karla,_piedelimon_,,166,547,http://pbs.twimg.com/ext_tw_video_thumb/1327096853863817216/pu/img/RxcGY2VeKMPg_ObN.jpg,https://t.co/SBrKzaVUKr
+339,1327089928933543937,"So, turns out I've been too busy to participate in the #30DayMapChallenge ☹️
+
+But that doesn't mean I haven't made any maps . . .
+
+Data courtesy of @LINZLDS https://t.co/JwhL3EgT3B",en,2020-11-13 03:24:29,1,5,"[{'text': '30DayMapChallenge', 'indices': [55, 73]}]",1224816596822003712,James Ford,JamesFiord,,11,97,http://pbs.twimg.com/media/EmrFOeIVkAYIwNR.jpg,https://t.co/JwhL3EgT3B
+340,1327089464221585408,"Delayed post is not GIS
+#30DayMapChallenge #Photoshop #GIF https://t.co/nMmWTTWMD5",en,2020-11-13 03:22:39,6,13,"[{'text': '30DayMapChallenge', 'indices': [24, 42]}, {'text': 'Photoshop', 'indices': [43, 53]}, {'text': 'GIF', 'indices': [54, 58]}]",600827679,مـحمّد,iMohamedlil,"الشرقية, السعودية ",1222,406,http://pbs.twimg.com/tweet_video_thumb/EmrE0egXMAAiLC1.jpg,https://t.co/nMmWTTWMD5
+341,1327089425399091200,#30DayMapChallenge day 12 (not GIS software) I am leaving #rstats and going back to Microsoft excel for my #rspatial work because I've missed my paperclip friend https://t.co/UC1eyyl4Pr,en,2020-11-13 03:22:29,5,29,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'rstats', 'indices': [58, 65]}, {'text': 'rspatial', 'indices': [107, 116]}]",840369042632396800,newishtodc,cstats1,"Washington, DC",384,51,http://pbs.twimg.com/media/EmrEs2tXMAURxo4.jpg,https://t.co/UC1eyyl4Pr
+342,1327087839251664897,A clearer photo. #30DayMapChallenge https://t.co/90MOf2fS4r,en,2020-11-13 03:16:11,1,6,"[{'text': '30DayMapChallenge', 'indices': [17, 35]}]",867502710131752960,Vivek Parashar,vivekparasharr,,13,22,http://pbs.twimg.com/media/EmrDSjTWEAEc6lU.jpg,https://t.co/90MOf2fS4r
+343,1327086713261367296,"Day 12 of #30DayMapChallenge - non GIS software
+Is there one? Even #Excel has a map, and a 3D map.
+It felt like cheating, especially since the data magically appeared using the geographic fields.
+
+I did build a hex map based on @Biff_Bruise's post - https://t.co/B0RUYAi04h. https://t.co/hkGRwCrHOA",en,2020-11-13 03:11:43,1,1,"[{'text': '30DayMapChallenge', 'indices': [10, 28]}, {'text': 'Excel', 'indices': [67, 73]}]",1322740260422385665,Anat Zohar,AnatZohar4,,1,14,http://pbs.twimg.com/media/Emq564aVQAAhooR.jpg,https://t.co/B0RUYAi04h.
+344,1327080321037205506,"#30DayMapChallenge Day 13 a #Hillsahde depicting the landscape of #Delhi of 1912 #Aravallis, the rivulets and #Yamuna... https://t.co/X0hVBj03JL",en,2020-11-13 02:46:19,2,5,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'Hillsahde', 'indices': [28, 38]}, {'text': 'Delhi', 'indices': [66, 72]}, {'text': 'Aravallis', 'indices': [81, 91]}, {'text': 'Yamuna', 'indices': [110, 117]}]",724082540412198914,Shubham Mishra,NarrativesUrban,"New Delhi, India",357,191,http://pbs.twimg.com/media/Emq8hIwVoAEiwO2.jpg,https://t.co/X0hVBj03JL
+345,1327078203115016192,"Dia 12 del #30DayMapChallenge 
+Mapa hecho sin software de GIS
+Para hoy, dibujé el mapa de #Morelos en el 
+ #AnimalCrossing #ACNH https://t.co/cIenW71Ir7",es,2020-11-13 02:37:54,4,41,"[{'text': '30DayMapChallenge', 'indices': [11, 29]}, {'text': 'Morelos', 'indices': [90, 98]}, {'text': 'AnimalCrossing', 'indices': [107, 122]}, {'text': 'ACNH', 'indices': [123, 128]}]",260088313,Juvenal,JuvenalCamposF,"Ocuituco, Morelos",866,803,http://pbs.twimg.com/media/Emq6l8qUcAABnTo.jpg,https://t.co/cIenW71Ir7
+346,1327073885196603393,#30DayMapChallenge Day 13: map not made with GIS software. This beauty was made with Paint. https://t.co/7WbVZmeaFo,en,2020-11-13 02:20:44,1,4,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",1328467646,Joel M,j_masselink,"colonized Piscataway land, MD ",647,1088,http://pbs.twimg.com/media/Emq2f-yXEAE7H2o.jpg,https://t.co/7WbVZmeaFo
+347,1327071390340702208,"#30DayMapChallenge Day 12 @tjukanov  Here we go, free hand your home country from memory, bonus points if it’s done in a single continuous stroke https://t.co/UsQcdU03Tt",en,2020-11-13 02:10:49,1,5,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",317955918,Dylan Ledbetter,_dylanledbetter,,192,1603,http://pbs.twimg.com/media/Emq0Y_HXEAMb54X.jpg,https://t.co/UsQcdU03Tt
+348,1327064729215524864,"Día 12: Mapa no realizado con software GIS #30DayMapChallenge 
+
+Mapa en una terminal basado en @nodejs 
+
+Software: #mapscii #nodejs #tmux https://t.co/Xa0t6LQYGN",es,2020-11-13 01:44:21,5,20,"[{'text': '30DayMapChallenge', 'indices': [43, 61]}, {'text': 'mapscii', 'indices': [115, 123]}, {'text': 'nodejs', 'indices': [124, 131]}, {'text': 'tmux', 'indices': [132, 137]}]",72170599,Mario Hernández,armiok,Ecatepec de Morelos,560,145,http://pbs.twimg.com/media/EmquGM2W4AAeISJ.jpg,https://t.co/Xa0t6LQYGN
+349,1327061459680055304,"Can you create editable #Maps in @PowerPoint?
+
+Visualizing rainfall patterns in India with PowerPoint. Slides and objects are auto-generated from data.😃
+
+#30DayMapChallenge Day 12: Map not made with GIS software
+Made with @Gramener SlideSense 🖼️, data @Indiametdept #gischat #GIS https://t.co/0TZTYM0juR",en,2020-11-13 01:31:22,6,18,"[{'text': 'Maps', 'indices': [24, 29]}, {'text': '30DayMapChallenge', 'indices': [154, 172]}, {'text': 'gischat', 'indices': [266, 274]}, {'text': 'GIS', 'indices': [275, 279]}]",1234136874,Pratap Vardhan,PratapVardhan,"Princeton, NJ",813,144,http://pbs.twimg.com/ext_tw_video_thumb/1327061110525136896/pu/img/qwEY7JiHBG2ZFV68.jpg,https://t.co/0TZTYM0juR
+350,1327058369073405952,Tried a few things for the Grid/Monochrome/Not GIS software #30DayMapChallenge days - overlay my photos of the PNW as a grid in their respective geolocation. I'm sure without the map the pics will give an idea of the location https://t.co/255fjsSBZc,en,2020-11-13 01:19:05,1,5,"[{'text': '30DayMapChallenge', 'indices': [60, 78]}]",3007214442,AliceCarol,pnwgeogeek,"Portland, OR",140,361,http://pbs.twimg.com/media/Emqn49TVQAA1goD.jpg,https://t.co/255fjsSBZc
+351,1327055049026138113,"I made a map out of cheese puffs. The United States of Cheese Puff. Day 12: Map most definitely not made with GIS software (sorry, Maine. Sorry, Louisiana) #30DayMapChallenge https://t.co/di3AprhIlp",en,2020-11-13 01:05:53,2,70,"[{'text': '30DayMapChallenge', 'indices': [156, 174]}]",36932521,Rachel Franklin🦚,rsfrankl,Home,1975,1715,http://pbs.twimg.com/media/EmqlhSdXUAAGkGN.jpg,https://t.co/di3AprhIlp
+352,1327048106488328192,"#30DayMapChallenge 2020 Día 12 Mapa elaborado con software no geográfico: Los Estados más cuadrados de los Estados Unidos de América, en México no tenemos ningún estado o municipio así de cuadrado. 
+ @IIEGJ @tjukanov https://t.co/LdRBxheq5j",es,2020-11-13 00:38:18,1,6,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",7630312,Yúum-K'aak-Náab,jdeltoro1973,Guadalajara México,533,1968,http://pbs.twimg.com/media/EmqfNF5XEAEbIeb.png,https://t.co/LdRBxheq5j
+353,1327046487293902848,#30DayMapChallenge #BlackLivesMatter https://t.co/Amphh4Plxp,und,2020-11-13 00:31:52,0,1,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'BlackLivesMatter', 'indices': [19, 36]}]",3171679118,Gulrez Khan,DataVizzdom,,447,774,http://pbs.twimg.com/ext_tw_video_thumb/1272251628922392576/pu/img/IsmstAB1a33Hg0Sl.jpg,https://t.co/Amphh4Plxp
+355,1327044242800316417,"🇪🇺 European Urban Morphological Zones 🌍
+
+Urban morphological zones are land cover classes that contribute to urban tissue and function.
+
+These maps (all same dataset) show these 130,932 zones across Europe in 2006.
+
+Which is your favorite color scheme?
+
+#30DayMapChallenge https://t.co/jNc2MUOYGq",en,2020-11-13 00:22:57,1,7,"[{'text': '30DayMapChallenge', 'indices': [254, 272]}]",153532438,Dylan Babbs,dbabbs,"Seattle, WA",1204,1195,http://pbs.twimg.com/media/EmqWoweXcAECFyy.jpg,https://t.co/jNc2MUOYGq
+356,1327039156334235648,Day 12: Not made with GIS. Notes from a hike made for a future map project.   #30DayMapChallenge https://t.co/vopCun4JMh,en,2020-11-13 00:02:44,1,1,"[{'text': '30DayMapChallenge', 'indices': [78, 96]}]",721829381207887872,David Fox,ReynardSubtil,"Vermont, USA",67,165,http://pbs.twimg.com/media/EmqW9zwWMAIUGnr.jpg,https://t.co/vopCun4JMh
+357,1327038572029947907,"grabbed all the coords from a geojson, separated them by state into tabs, wrote this dumb formula lmfao and used conditional formatting
+
+#30DayMapChallenge don’t kill me. https://t.co/2FV5BSvtyv",en,2020-11-13 00:00:25,1,13,"[{'text': '30DayMapChallenge', 'indices': [137, 155]}]",237889929,ಠ_ಠ,DeniseDSLu,New York,3487,997,http://pbs.twimg.com/media/EmqWNqoWMAInnvr.jpg,https://t.co/2FV5BSvtyv
+358,1327038515113324545,"Lemme rectify this with hillshade map. 291x332 rows and columns and Excel hardly handle zooming out further!
+
+#30dayMapChallenge - day 12 https://t.co/r5DGyrA6UR https://t.co/CGuCwKGKrB",en,2020-11-13 00:00:11,1,1,"[{'text': '30dayMapChallenge', 'indices': [110, 128]}]",219609015,sutan mufti,uvfns,"London, England",231,761,http://pbs.twimg.com/media/EmqWEJhXYAA4OmA.jpg,https://t.co/r5DGyrA6UR
