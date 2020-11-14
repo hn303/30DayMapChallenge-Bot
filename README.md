@@ -16,7 +16,7 @@ Monitoring [#30DayMapChallenge 2020](https://github.com/tjukanovt/30DayMapChalle
 
 As [Topi Tjukanov](https://twitter.com/tjukanov) mentioned in [30DayMapChallenge](https://github.com/tjukanovt/30DayMapChallenge) page, this map challenge is NOT a competation. Although this repo sorts maps by their favorite count and retweet count, this repo never intend to compare all the wonderful maps but create a altas of inspiring maps for a reference. I am also interested in exploring topis in replies in those maps with more attention (if i have time).
 
-Top favorited tweets refers to the tweets get top `liked`/`thumbs-up`/emoji:heart: tweets. The faviorite count is extract from `favorite_count` value in tweet metadata.
+Top favorited tweets refers to the tweets get top `liked`/`thumbs-up`/:heart: tweets. The faviorite count is extract from `favorite_count` value in tweet metadata.
 
 
 - **[Maps for Day 1 `#30DayMapChallenge (Points)`](day1.md)** (include late entry)
