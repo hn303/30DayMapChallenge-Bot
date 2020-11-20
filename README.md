@@ -29,7 +29,7 @@ Top favorited tweets refers to the tweets get many `liked`/:heart:. The faviorit
 |     |     |     |     |     |     | **1** <br/>**[Points](day1.md)**|
 | **2** <br/>**[Lines](day2.md)**   |**3** <br/>**[Polygons](day3.md)**   |**4** <br/>**[Hexagons](day4.md)**    | **5** <br/>**[Blue](day05_Blue.md)**   | **6** <br/>**[Red](day06_Red.md)**   | **7** <br/>**[Green](day07_Green.md)**  | **8** <br/>**[Yellow](day08_Yellow.md)**  |
 | **9** <br/>**[Monochrome](day09_Monochrome.md)** | **10** <br/>**[Grid](day10_Grid.md)**  | **11** <br/>**[3D](day11_3D.md)**  | **12** <br/>**[No GIS](day12_Map%20not%20made%20with%20GIS%20software.md)**  | **13** <br/>**[Raster](day13_Raster.md)**  | **14** <br/>**[Climate change](day14_Climate%20change.md)**  |  **15** <br/>**[Connections](day15_Connections.md)**  |
-|  **16** <br/>**[Island(s)](day16_Island(s).md)**  |   **17** <br/>**[Historical map](day17_Historical%20map.md)**   |  **18** <br/>**[Landuse](day18_Landuse.md)**    |   **19** <br/>   |   **20** <br/>   |   **21** <br/>   |  **22** <br/>    |
+|  **16** <br/>**[Island(s)](day16_Island(s).md)**  |   **17** <br/>**[Historical map](day17_Historical%20map.md)**   |  **18** <br/>**[Landuse](day18_Landuse.md)**    |   **19** <br/>**[NULL](day19_NULL.md)**   |   **20** <br/>   |   **21** <br/>   |  **22** <br/>    |
 |   **23** <br/>   |   **24** <br/>   |   **25** <br/>   |   **26** <br/>   |   **27** <br/>   |   **28** <br/>   |  **29** <br/>    |
 |  **30** <br/>    |     |     |     |     |     |     |
 
@@ -64,25 +64,22 @@ Top favorited tweets refers to the tweets get many `liked`/:heart:. The faviorit
 - **[Maps for Day 15 `#30DayMapChallenge (Connections)`](day15_Connections.md)**
  -->
 
-#### Top favorited post for day 18 `#30DayMapChallenge (Landuse)`
-| media                                                           | user                                            |   retweet |   favorite |
-|-----------------------------------------------------------------|-------------------------------------------------|-----------|------------|
-| ![](http://pbs.twimg.com/media/EmYmI7XWMAA-DZP.jpg)             | **[@JulesGrandin](https://t.co/bnNo75YafK)**    |        52 |        214 |
-| ![](http://pbs.twimg.com/media/EnHgR8_VoAE7oBZ.jpg)             | **[@rajbhagatt](https://t.co/PG1Sc5G59Z)**      |        37 |        163 |
-| ![](http://pbs.twimg.com/media/EnGJBAmVcAEiRh5.jpg)             | **[@andrewdc_nz](https://t.co/tw6JMTUzwL)**     |        48 |        129 |
-| ![](http://pbs.twimg.com/media/EnH8zHlVgAEVc_u.jpg)             | **[@ShijiaWendy](https://t.co/v6nEIyOeuW)**     |         6 |        118 |
-| ![](http://pbs.twimg.com/media/EnFzItrXEAAiib3.jpg)             | **[@neocartocnrs](https://t.co/ejYvGRaL5E)**    |         8 |         78 |
-| ![](http://pbs.twimg.com/media/EnH-z16WMA4ja6P.jpg)             | **[@Cchurchili](https://t.co/iNlPEJInNI)**      |         7 |         71 |
-| ![](http://pbs.twimg.com/media/EnFoGQOXMAUrxwW.jpg)             | **[@lacxrx](https://t.co/we4al3pf8Z)**          |         8 |         65 |
-| ![](http://pbs.twimg.com/media/EnHmJolXcAE4uup.jpg)             | **[@helenmakesmaps](https://t.co/V7HY2nEfif)**  |        11 |         63 |
-| ![](http://pbs.twimg.com/media/EnIlihTVQAAAlwl.png)             | **[@jstnbraaten](https://t.co/gZ6DdtWS7P)**     |         8 |         60 |
-| ![](http://pbs.twimg.com/media/EnFzj8aXcAE1wK4.jpg)             | **[@evelynuuemaa](https://t.co/Edbmb5xoKa)**    |         5 |         60 |
-| ![](http://pbs.twimg.com/media/EnGXMQsXEAA7u89.jpg)             | **[@dr_xeo](https://t.co/s9yut8wDPo)**          |        10 |         60 |
-| ![](http://pbs.twimg.com/media/EnHG6UbXEAIJjAO.jpg)             | **[@CRVanPollard](https://t.co/xlVZTjgur5)**    |         6 |         56 |
-| ![](http://pbs.twimg.com/tweet_video_thumb/EnBnDVZW8AIJY88.jpg) | **[@tjukanov](https://t.co/H0jIjLN6dn)**        |         4 |         51 |
-| ![](http://pbs.twimg.com/media/EnGep6sXcAAKe2m.jpg)             | **[@IGNSpain](https://t.co/3SobxSrQwI)**        |         8 |         49 |
-| ![](http://pbs.twimg.com/media/EnF8r8qWMAItPca.jpg)             | **[@SavoirsEnBulles](https://t.co/M674z8OdHC)** |         5 |         48 |
+#### Top favorited post for day 19 `#30DayMapChallenge (NULL)`
+| media                                                           | user                                           |   retweet |   favorite |
+|-----------------------------------------------------------------|------------------------------------------------|-----------|------------|
+| ![](http://pbs.twimg.com/media/EnBodPeW8AAg6ia.jpg)             | **[@tjukanov](https://t.co/9htMJ80eXL)**       |        27 |        259 |
+| ![](http://pbs.twimg.com/media/EnMLdoIUUAAHm36.jpg)             | **[@rajbhagatt](https://t.co/uDfH6t2xo7)**     |        55 |        211 |
+| ![](http://pbs.twimg.com/media/EnNA6ffVQAET7vh.jpg)             | **[@sarahbellmaps](https://t.co/EEBBTc2wrj)**  |         4 |        114 |
+| ![](http://pbs.twimg.com/media/EnMaK9FWMAEgw9p.jpg)             | **[@Cchurchili](https://t.co/SoYbVlAgOV)**     |        13 |         99 |
+| ![](http://pbs.twimg.com/media/EnK73TeXIAYJw0D.jpg)             | **[@ErwanRivault](https://t.co/rxeNzhfsml)**   |         6 |         83 |
+| ![](http://pbs.twimg.com/media/EnN3KURXUAMHARL.png)             | **[@gontsa](https://t.co/6zwopPw9Sr)**         |        14 |         70 |
+| ![](http://pbs.twimg.com/media/EnMo81ZW4AI0xh2.jpg)             | **[@MapNav_Tom](https://t.co/gtMoGhthFJ)**     |         1 |         63 |
+| ![](http://pbs.twimg.com/media/EnLe4BeXUAAM1G7.jpg)             | **[@dataisawesomeo](https://t.co/vOvRplDDPC)** |         7 |         54 |
+| ![](http://pbs.twimg.com/media/EnMyR8nXUAsiPed.jpg)             | **[@jerry_shannon](https://t.co/vqIZrYrins)**  |         8 |         52 |
+| ![](http://pbs.twimg.com/media/EnL6Y79XYAcAa8m.jpg)             | **[@DiasporaDan](https://t.co/0EYmvxjUjW)**    |         9 |         51 |
+| ![](http://pbs.twimg.com/media/EnMfLabW8AAP3_5.jpg)             | **[@CRVanPollard](https://t.co/z2OGTEcdL5)**   |         1 |         44 |
+| ![](http://pbs.twimg.com/media/EnMz_kwXUAAgmaQ.jpg)             | **[@darenw](https://t.co/8hWTGLbbZ3)**         |         5 |         44 |
+| ![](http://pbs.twimg.com/media/EnLl-U8WEAAQCxv.jpg)             | **[@stevefaeembra](https://t.co/n8lBzJT47d)**  |         3 |         43 |
  
-
 
 Inspiration for the repo came from [Kalle Hallden](https://www.youtube.com/channel/UCWr0mx597DnSGLFk1WfvSkQ).
