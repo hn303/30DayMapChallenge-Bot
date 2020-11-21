@@ -4,7 +4,6 @@
 | ![](http://pbs.twimg.com/media/EnQzzKKW4AE3nKv.jpg) | **[@DiasporaDan](https://t.co/yrRrjJ6U7k)**    |        62 |        313 |
 | ![](http://pbs.twimg.com/media/EnRcFWqWMAIpqOg.jpg) | **[@LandEthics](https://t.co/rqhTtJmGDs)**     |        59 |        294 |
 | ![](http://pbs.twimg.com/media/EnRuQ-GVQAY40hn.jpg) | **[@Kenneth_KHW](https://t.co/AWwboLGp7M)**    |        20 |        145 |
-| ![](http://pbs.twimg.com/media/EnQjYK1WMAAiIru.jpg) | **[@sdbernard](https://t.co/WZCDxqqCeh)**      |        32 |        116 |
 | ![](http://pbs.twimg.com/media/EnRswBNVEAEqBmu.jpg) | **[@rajbhagatt](https://t.co/exlUo0wIFm)**     |        14 |        101 |
 | ![](http://pbs.twimg.com/media/EnP4SPoXEAAP3J4.jpg) | **[@lacxrx](https://t.co/psnswDbCnh)**         |        15 |         87 |
 | ![](http://pbs.twimg.com/media/EnSAwb5XEAgOG2u.jpg) | **[@Cchurchili](https://t.co/uUpLrf468n)**     |        15 |         75 |
