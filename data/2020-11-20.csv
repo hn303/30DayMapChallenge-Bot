@@ -1,0 +1,753 @@
+,tweet_id,tweet_text,language,tweet_created_at,retweet,favorite,hashtags,user_id,user_name,user,user_loc,user_follower,friends_count,media,tweet_url
+94,1329932882467459072,"For day 19 of the #30DayMapChallenge (null), I came across the #NullIsland in the data I had been given for a project at work on the same day as this task of the challenge, so in honor of this synchronicity, I'm adding to the numerous null island #maps out there. #GIS #Geospatial https://t.co/VHygZn8qbI",en,2020-11-20 23:41:22,2,2,"[{'text': '30DayMapChallenge', 'indices': [18, 36]}, {'text': 'NullIsland', 'indices': [63, 74]}, {'text': 'maps', 'indices': [247, 252]}, {'text': 'GIS', 'indices': [264, 268]}, {'text': 'Geospatial', 'indices': [269, 280]}]",1311526141983772673,Rachel Finerman,RFinerman,,30,77,http://pbs.twimg.com/media/EnTe5s8UYAEMVZa.jpg,https://t.co/VHygZn8qbI
+95,1329930289800503299,"Day 20 (#Population) of #30DayMapChallenge
+
+Pic 1: Map: Lines653 via @reddit. Edited by @coolmapseveryday Culled from @culture_geographique
+
+Pic 2: Map credit: @map_chart
+Culled from: @mapcentral
+
+#NovemberMapChallenge 
+
+20|1 https://t.co/V81xeEBaN0",en,2020-11-20 23:31:04,1,0,"[{'text': 'Population', 'indices': [8, 19]}, {'text': '30DayMapChallenge', 'indices': [24, 42]}, {'text': 'NovemberMapChallenge', 'indices': [197, 218]}]",1269335161335959552,the GIS girl,TheGISGirl,,51,117,http://pbs.twimg.com/media/EnTcic7XEAAgBM8.jpg,https://t.co/V81xeEBaN0
+96,1329930164554362884,"Day 21 #30DayMapChallenge: Population 
+Took a while, mainly because I couldn't stop looking at the #data. Youngest populations are in #Liminka and #Tyrnävä (+30%). I wonder what's so special there.
+
+#maps #geoweek #gisday #qgis #population #youth #creativity #statistics #finland https://t.co/JAXQ7RbDPY",en,2020-11-20 23:30:34,0,1,"[{'text': '30DayMapChallenge', 'indices': [7, 25]}, {'text': 'data', 'indices': [99, 104]}, {'text': 'Liminka', 'indices': [134, 142]}, {'text': 'Tyrnävä', 'indices': [147, 155]}, {'text': 'maps', 'indices': [199, 204]}, {'text': 'geoweek', 'indices': [205, 213]}, {'text': 'gisday', 'indices': [214, 221]}, {'text': 'qgis', 'indices': [222, 227]}, {'text': 'population', 'indices': [228, 239]}, {'text': 'youth', 'indices': [240, 246]}, {'text': 'creativity', 'indices': [247, 258]}, {'text': 'statistics', 'indices': [259, 270]}, {'text': 'finland', 'indices': [271, 279]}]",1073135168989351937,Jaka,CosicJaka,"Keski-Suomi, Suomi",11,85,http://pbs.twimg.com/media/EnTcbziWEAIuows.jpg,https://t.co/JAXQ7RbDPY
+97,1329929947796783104,"#30DayMapChallenge Day 20: Population
+
+2020 Population Density per Sq Km, and % Change from 2000 to 2020, in @OmniSci.  
+
+Source: Gridded Population of the World (https://t.co/oIUa63ixBU) @ciesin https://t.co/Aw5a8XqnaY",en,2020-11-20 23:29:43,3,3,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",265817210,Todd Mostak,ToddMostak,"San Francisco, CA",1837,561,http://pbs.twimg.com/media/EnTb96CVoAAzSD9.jpg,https://t.co/oIUa63ixBU)
+98,1329929464990601219,Population change between 2000 and 2012  (census data) in Estonia.  #30DayMapChallenge  Day 20 https://t.co/TmEhsV0Zwb,en,2020-11-20 23:27:48,1,3,"[{'text': '30DayMapChallenge', 'indices': [68, 86]}]",40151250,Tõnu Oja,tonuoja,,31,35,http://pbs.twimg.com/media/EnTbwYhXcAAZdYY.jpg,https://t.co/TmEhsV0Zwb
+99,1329927827303649284,One of the narrowest channels in the world. #Greece #Ships #Australia #30DayMapChallenge #auspol #Adelaide #ScottyFromMarketing #COVIDSA #7NEWS #9News #Origin #AFL #China #2020Election https://t.co/dHSnuFsSiy,en,2020-11-20 23:21:17,0,0,"[{'text': 'Greece', 'indices': [44, 51]}, {'text': 'Ships', 'indices': [52, 58]}, {'text': 'Australia', 'indices': [59, 69]}, {'text': '30DayMapChallenge', 'indices': [70, 88]}, {'text': 'auspol', 'indices': [89, 96]}, {'text': 'Adelaide', 'indices': [97, 106]}, {'text': 'ScottyFromMarketing', 'indices': [107, 127]}, {'text': 'COVIDSA', 'indices': [128, 136]}, {'text': '7NEWS', 'indices': [137, 143]}, {'text': '9News', 'indices': [144, 150]}, {'text': 'Origin', 'indices': [151, 158]}, {'text': 'AFL', 'indices': [159, 163]}, {'text': 'China', 'indices': [164, 170]}, {'text': '2020Election', 'indices': [171, 184]}]",1251248986469601286,Amazing World Pictures,AmazingPicszz,United Kingdom,1,114,http://pbs.twimg.com/media/EnTaTibXUAEglrd.jpg,https://t.co/dHSnuFsSiy
+100,1329927525770829824,"Another #30DayMapChallenge post, because I feel guilty about re-using Day 4.
+
+When it comes to Indigenous peoples, the Government of Canada recognizes three broad categories. Here are their populations in each province. https://t.co/gHJNrWrwTt",en,2020-11-20 23:20:05,1,14,"[{'text': '30DayMapChallenge', 'indices': [8, 26]}]",851149914725916672,ksituan northland,ksituan,Val Marie / Treaty 4,1222,159,http://pbs.twimg.com/media/EnTZnYjVEAAohmC.jpg,https://t.co/gHJNrWrwTt
+101,1329926499047272459,TGIF - time to work on a fun map project 🤓  Two weekends left in the Election Mapping Challenge... that's plenty of time! Entries due Nov 30: https://t.co/vVH9FeyYkD #electionmapping #dataviz #mapping #30DayMapChallenge https://t.co/sokQ85bOlY,en,2020-11-20 23:16:00,3,12,"[{'text': 'electionmapping', 'indices': [166, 182]}, {'text': 'dataviz', 'indices': [183, 191]}, {'text': 'mapping', 'indices': [192, 200]}, {'text': '30DayMapChallenge', 'indices': [201, 219]}]",55236002,Mapbox,Mapbox,,71126,2066,http://pbs.twimg.com/tweet_video_thumb/EnTZGKtXIAAeSEH.jpg,https://t.co/vVH9FeyYkD
+102,1329924769110765572,"#30DayMapChallenge Día 20: Población. Expectativa de vida en el mundo en 2019 (solo como excusa para usar la proyección azimutal equidistante) 🌐
+
+#RStats #rspatial 
+
+Código: https://t.co/YWRPoj746K https://t.co/K224J5TvO2",es,2020-11-20 23:09:08,2,9,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'RStats', 'indices': [146, 153]}, {'text': 'rspatial', 'indices': [154, 163]}]",30381129,Steph Orellana Bello,sporella,Chile,326,202,http://pbs.twimg.com/media/EnTW6seW8AQlItK.png,https://t.co/YWRPoj746K
+103,1329924646452432896,#30DayMapChallenge - Water.  Melbourne's growth by water main construction date. #RStats https://t.co/Z3MYCUeOIe,en,2020-11-20 23:08:39,4,11,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'RStats', 'indices': [81, 88]}]",45536151,David White,Makeo88,,21,101,http://pbs.twimg.com/tweet_video_thumb/EnTXHMOVEAIeMqt.jpg,https://t.co/Z3MYCUeOIe
+104,1329922999223525377,"#30DayMapChallenge - Population. The Danish population follows the pattern that you would expect. Relocation towards the cities, away from the rural areas. https://t.co/K6jnwoHzNV",en,2020-11-20 23:02:06,3,9,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",283952850,Nikolaj G,Nikolaj_gr,Copenhagen,69,303,http://pbs.twimg.com/media/EnTV6IyW8AEtzzC.jpg,https://t.co/K6jnwoHzNV
+105,1329921049316691969,"#30DayMapChallenge day 20: population.
+
+Dog population of #Vienna
+
+Data on 9 of the most popular breeds + unknown breeds of dog from https://t.co/Y0f6aw0JUb
+Tools: QGIS + Illustrator https://t.co/B6rxdZjAjq",en,2020-11-20 22:54:21,3,7,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'Vienna', 'indices': [58, 65]}]",14707170,Unnecessarily sesquipedalian 🚡,MartinBangratz,Cologne/Aachen/Innsbruck,1161,1171,http://pbs.twimg.com/media/EnTSys2XEAAIOhb.jpg,https://t.co/Y0f6aw0JUb
+106,1329920326650785794,"Population by regions of Ukraine. The ratio of births and deaths, immigrants and emigrants by regions
+#30DayMapChallenge Day 20: Population
+#QGIS #OpenStreetMap contributors Source: https://t.co/oErVM0S7d1 https://t.co/ofNHrjBZ6a",en,2020-11-20 22:51:29,3,14,"[{'text': '30DayMapChallenge', 'indices': [102, 120]}, {'text': 'QGIS', 'indices': [140, 145]}, {'text': 'OpenStreetMap', 'indices': [146, 160]}]",14992557,gontsa,gontsa,"Cherkasy, Ukraine",4569,1416,http://pbs.twimg.com/media/EnTS534XUAA8iZj.jpg,https://t.co/oErVM0S7d1
+107,1329919993610444808,"#30DayMapChallenge - Day 20: Population
+
+Birds of Prey in Scotland.
+
+Today, I’ve been playing with the @NBNAtlas API, pulling down records for various birds of prey. This map shows the distribution of Red Kites across Scotland. https://t.co/bqKzPEwNaw",en,2020-11-20 22:50:09,2,5,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",12620762,Mike Coats,MikeCoatsDotCom,"Inverness, Scotland",298,1186,http://pbs.twimg.com/media/EnTTLrEW4AI9rZ8.jpg,https://t.co/bqKzPEwNaw
+108,1329913699398787073,"#30DayMapChallenge 
+
+Day 20: Population
+
+Jumped on the wagon. Not made with aerialod tho.
+
+Data from https://t.co/VdHdvI15J1
+
+#rstats #rayshader #rspatial https://t.co/7xehSJKaE8",en,2020-11-20 22:25:09,3,15,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'rstats', 'indices': [126, 133]}, {'text': 'rayshader', 'indices': [134, 144]}, {'text': 'rspatial', 'indices': [145, 154]}]",45565875,Emil Malta ❄️,emilmalta,Nuuk,196,954,http://pbs.twimg.com/media/EnTLutBXYAA8ekc.jpg,https://t.co/VdHdvI15J1
+109,1329910457566687232,"Just managed to find time for today's #30DayMapChallenge: population.
+
+This map shows the area around southern Hampshire, and where there are more older people or more younger people (&gt; 60, &lt; 30).  Some pretty obvious patterns. Data from ONS at LSOA level. https://t.co/sGqtnoFY7y",en,2020-11-20 22:12:16,6,21,"[{'text': '30DayMapChallenge', 'indices': [38, 56]}]",809066605,Robin Wilson,sciremotesense,"Southampton, England",915,505,http://pbs.twimg.com/media/EnTKepRXEAA_Qyv.jpg,https://t.co/sGqtnoFY7y
+110,1329910250586181635,I was way too busy of late for #30DayMapChallenge. But shamelessly plugging into day 20 on population with this animation of the growth of urban agglomerations between 1950 and 2035 https://t.co/ka4KWlLDHu https://t.co/Y8Wh0LCmGc,en,2020-11-20 22:11:26,4,26,"[{'text': '30DayMapChallenge', 'indices': [31, 49]}]",17242884,Maarten Lambrechts,maartenzam,,17599,1639,http://pbs.twimg.com/ext_tw_video_thumb/1329910134240325632/pu/img/1f9LsvNgZaoi0Xlk.jpg,https://t.co/ka4KWlLDHu
+111,1329910022638350336,"Today's #30DayMapChallenge is population, the perfect prompt to share one of the most striking maps from our current exhibition, ""Bending Lines: Maps and Data from Distortion to Deception."" Read more: https://t.co/DfNR4VyYNJ https://t.co/s4PqGDFhXU",en,2020-11-20 22:10:32,2,6,"[{'text': '30DayMapChallenge', 'indices': [8, 26]}]",65125461,Leventhal Map & Education Center at the BPL,bplmaps,"Copley Square, Boston, MA",4993,677,http://pbs.twimg.com/media/EnTJ-WTXUAATt5F.jpg,https://t.co/DfNR4VyYNJ
+112,1329910010751705088,#30DayMapChallenge day 19: null map https://t.co/jHVqPfKBeW,en,2020-11-20 22:10:29,1,0,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",785495148193050624,Joan Quintana,joanillomaker,"Barcelona, Cataluña",84,82,http://pbs.twimg.com/media/EnTKGy2W8AACMMg.jpg,https://t.co/jHVqPfKBeW
+113,1329907773891555329,Day 20 of the #30DayMapChallenge: Population. Which city will be first to hit 100 million residents? Several African cities could be facing this challenge by the end of the century. https://t.co/J7wgkT2Day,en,2020-11-20 22:01:36,1,7,"[{'text': '30DayMapChallenge', 'indices': [14, 32]}]",1033774266880282624,Strath Slater,StrathSlater,"Edinburgh, Scotland",112,110,http://pbs.twimg.com/media/EnTH-j7W8AQviph.jpg,https://t.co/J7wgkT2Day
+114,1329906775907311618,"Bit late in the day for my #30DayMapChallenge effort today but here it is. It shows the percentage of 65+ population at local authority level in Britain, comparing 1991 with 2019 @CRESR_SHU. https://t.co/sZhGR5hCKq",en,2020-11-20 21:57:38,1,3,"[{'text': '30DayMapChallenge', 'indices': [27, 45]}]",202227790,David Leather,david_leather,Sheffield,167,293,http://pbs.twimg.com/media/EnTF3hNXcAIUajG.png,https://t.co/sZhGR5hCKq
+115,1329904427155685376,"Finally getting on the #30DayMapChallenge bandwagon.  Day 20: population.  Rough attempt at a dasymetric dot density map of Denver, Colorado. https://t.co/xwSuOe4iff",en,2020-11-20 21:48:18,1,1,"[{'text': '30DayMapChallenge', 'indices': [23, 41]}]",895835407,Jared Fischer,somethinsfischy,,28,72,http://pbs.twimg.com/media/EnTEsJWVgAAooXV.jpg,https://t.co/xwSuOe4iff
+116,1329900798025850884,"Day 20 of #30DayMapChallenge - Population
+Anamorphic map aka cartogram, where the geographic size of each country correlates with its population. Tool: R incl. the packages maptool, rgdal, ggplot2, cartogram and viridis. https://t.co/AvANG24I8R",en,2020-11-20 21:33:53,1,1,"[{'text': '30DayMapChallenge', 'indices': [10, 28]}]",2593554955,Kapazitätsdiode,varaktor,,30,181,http://pbs.twimg.com/media/EnTBKXdXEAAm3SF.jpg,https://t.co/AvANG24I8R
+118,1329899542632919042,The #30DayMapChallenge features population. My UK map is from the mid-70s &amp; shows both local authority pop. size (circle diameter) &amp; % change (colour). Looks like people were leaving the North &amp; NW cities &amp; heading to the SE. My fave map in this atlas for my 9yo self. https://t.co/g1XpVrJaHE,en,2020-11-20 21:28:53,1,2,"[{'text': '30DayMapChallenge', 'indices': [4, 22]}]",176337766,Danny Cullinane,timbertopper400,NW England,392,776,http://pbs.twimg.com/media/EnTAkdMXEAAJ9G2.jpg,https://t.co/g1XpVrJaHE
+119,1329895792073641986,"For #30DayMapChallenge day 20: population - I went to my go-to tool for demographic maps: the good folks at @CensusReporter ...here's MN metro area, percentage work from home, 2018 ACS. Have a feeling this will change in near future ACS's ... https://t.co/okUlbJmKmL",en,2020-11-20 21:13:59,1,1,"[{'text': '30DayMapChallenge', 'indices': [4, 22]}]",222228205,Mike Dolbow,mmdolbow,"St. Paul, MN",1298,100,http://pbs.twimg.com/media/EnS8Vm5XMAA7sfL.jpg,https://t.co/okUlbJmKmL
+120,1329895732002906119,"2/3rds of the way through November for #30DayMapChallenge now and no sign of you lot flagging yet 👍👍
+Great to have @cartocraftsman on board again to pick 6 favourites for today, Day 20: Population. 
+
+See our Twitter thread for full maps, links and credit to authors. #geoshare https://t.co/c11ohnuqRk",en,2020-11-20 21:13:45,2,10,"[{'text': '30DayMapChallenge', 'indices': [39, 57]}, {'text': 'geoshare', 'indices': [267, 276]}]",190644064,British Cartographic Society,bcsweb,UK,3400,270,http://pbs.twimg.com/media/EnS9HoeXEAIN_Gk.jpg,https://t.co/c11ohnuqRk
+121,1329895115226296321,"#30DayMapChallenge Day 20 - Population
+Population density in #Portugal (mainland), 3D rendered. My very very first attempt in 6 years!
+Thanks @undertheraedar for the great tutorial, the GIS world is praising you today 🤣
+
+Densidade populacional em Portugal continental, 3D! https://t.co/TKL8i6CWV4",en,2020-11-20 21:11:18,2,12,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'Portugal', 'indices': [61, 70]}]",180939408,torts,tgsousa_,,903,1014,http://pbs.twimg.com/media/EnS8iHzW8AEitmQ.jpg,https://t.co/TKL8i6CWV4
+122,1329895072729608217,"Day 20 #30DayMapChallenge Population
+
+Penguin population distribution in Antarctica 
+
+#QGIS #MAPPPD #BAS https://t.co/RM5W5lKbG2",en,2020-11-20 21:11:08,4,37,"[{'text': '30DayMapChallenge', 'indices': [7, 25]}, {'text': 'QGIS', 'indices': [86, 91]}, {'text': 'MAPPPD', 'indices': [92, 99]}, {'text': 'BAS', 'indices': [100, 104]}]",223959960,Kirsten Reilly,_penguin_runner,"Stirling, Scotland",376,1212,http://pbs.twimg.com/media/EnS8dqaWMAUCnDr.jpg,https://t.co/RM5W5lKbG2
+123,1329894290735181824,#30DayMapChallenge - Day 20: Population via #Aerialod - Abstracting the idea of a #map somewhat 🙄 - this is the same surviving (+) &amp; lost (-) orchards of #SouthDevon w/river &amp; stream valleys as topography (&amp; math) &amp; a bonus BR2049 inspired view of the same data via #GIMP. https://t.co/IS5Wx42t5s,en,2020-11-20 21:08:01,1,6,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'Aerialod', 'indices': [44, 53]}, {'text': 'map', 'indices': [82, 86]}, {'text': 'SouthDevon', 'indices': [158, 169]}, {'text': 'GIMP', 'indices': [282, 287]}]",2224550306,MonkeyOnTheMountainⓋ,Monk_Po,Rainbow Unicorn Mountain-SWUK,362,544,http://pbs.twimg.com/media/EnS7bqOWEAESh3d.jpg,https://t.co/IS5Wx42t5s
+124,1329894284225482752,"#30DayMapChallenge Day 20 and the population of cities in Texas, along with the density of cities in Texas. DFW has a large population and lots of cities, west Texas has fewer cities with lower population, RGV has a mix, ATX and Houston somewhere in the middle. From 2010 Census https://t.co/WF2mBatDuF",en,2020-11-20 21:08:00,1,0,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",2719547953,Jesse Pisel,geologyjesse,,600,471,http://pbs.twimg.com/media/EnSgiURWMAAcv_o.jpg,https://t.co/WF2mBatDuF
+125,1329892439914655747,"لخارطة الوبائية لانتشار فيروس كورونا في قطاع غزة
+#الزم_بيتك #إلزم_بيتك_حفاظا_على_صحتك
+#GAZA
+#GISDay
+#COVID19 #30DayMapChallenge https://t.co/jJoBfg1GTP",ar,2020-11-20 21:00:40,1,2,"[{'text': 'الزم_بيتك', 'indices': [49, 59]}, {'text': 'إلزم_بيتك_حفاظا_على_صحتك', 'indices': [60, 85]}, {'text': 'GAZA', 'indices': [86, 91]}, {'text': 'GISDay', 'indices': [92, 99]}, {'text': 'COVID19', 'indices': [100, 108]}, {'text': '30DayMapChallenge', 'indices': [109, 127]}]",390701058,ishaq,eshakss,"Iowa, USA",172,354,http://pbs.twimg.com/media/EnS6AZxXYAA4TSa.jpg,https://t.co/jJoBfg1GTP
+126,1329892128722481153,#30DayMapChallenge Here's some nice views of the total population (green - upside down) and population per skm of coastal cities (purple) via #aeriolod. https://t.co/IwhDYV1IHB,en,2020-11-20 20:59:26,1,1,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'aeriolod', 'indices': [142, 151]}]",1000055398697709569,Eliav S-T,est987,Israel,318,1693,http://pbs.twimg.com/media/EnS5mBMXUAE22QX.jpg,https://t.co/IwhDYV1IHB
+127,1329891045866418178,"Day 20  - Population of the #30DayMapChallenge 
+As a funali if I have to pick one population to map, it has to be cattle. Africa cattle distribution in 2010
+#rstats #rspatial https://t.co/6tILBYY95V",en,2020-11-20 20:55:08,4,45,"[{'text': '30DayMapChallenge', 'indices': [28, 46]}, {'text': 'rstats', 'indices': [157, 164]}, {'text': 'rspatial', 'indices': [165, 174]}]",633596180,Ahmadou Dicko,dickoah,Senegal,1636,1399,http://pbs.twimg.com/media/EnS42XCXcAQFGek.jpg,https://t.co/6tILBYY95V
+128,1329890438845788160,"Day 18 - Land use of the #30DayMapChallenge
+Late submission of the tree cover in Africa between 2014-2019
+#rstats #rspatial https://t.co/AeYkuFTHHB",en,2020-11-20 20:52:43,3,13,"[{'text': '30DayMapChallenge', 'indices': [25, 43]}, {'text': 'rstats', 'indices': [106, 113]}, {'text': 'rspatial', 'indices': [114, 123]}]",633596180,Ahmadou Dicko,dickoah,Senegal,1636,1399,http://pbs.twimg.com/media/EnS4J0uW4AAC7v1.jpg,https://t.co/AeYkuFTHHB
+129,1329888792283582466,"#30DayMapChallenge
+#Day_17
+#HistoricalMap
+#Roman_roads https://t.co/T6bU5plyin",und,2020-11-20 20:46:10,1,2,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'Day_17', 'indices': [19, 26]}, {'text': 'HistoricalMap', 'indices': [27, 41]}, {'text': 'Roman_roads', 'indices': [42, 54]}]",605417877,Daniel Ibáñez Campos,dic1991,Barcelona,61,579,http://pbs.twimg.com/media/EnS2yRWWMAAw5uq.jpg,https://t.co/T6bU5plyin
+131,1329886452235313152,"#30DayMapChallenge
+#Day_16
+#Islands 
+#Tabarca https://t.co/747R8LtTMf",und,2020-11-20 20:36:52,1,0,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'Day_16', 'indices': [19, 26]}, {'text': 'Islands', 'indices': [27, 35]}, {'text': 'Tabarca', 'indices': [37, 45]}]",605417877,Daniel Ibáñez Campos,dic1991,Barcelona,61,579,http://pbs.twimg.com/media/EnS0nfNXEAQEvlB.jpg,https://t.co/747R8LtTMf
+132,1329882102452658178,"#30DayMapChallenge Day 20 Population
+
+Quick map of the Asian American population (by census tract)
+
+@ArcGISOnline https://t.co/QJXsnNBc9O",en,2020-11-20 20:19:35,2,3,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",910889225448439808,Dennis Kao,professorkao,,123,237,http://pbs.twimg.com/media/EnSwaHmXUAUZZqr.jpg,https://t.co/QJXsnNBc9O
+133,1329879596767043589,"Non-working dogs per parish, Dumfries &amp; Galloway
+Data from @scotlandsplaces' ""Dog tax rolls, 1797-1798"".
+Parishes warped by dog-count using the cartogram3 plugin.
+Very much a I've-been-making-a-map-a-day-for-20-days sort of a map.
+#30DayMapChallenge #Day20 #Population #QGIS https://t.co/l7Rf4loRMD",en,2020-11-20 20:09:38,5,9,"[{'text': '30DayMapChallenge', 'indices': [235, 253]}, {'text': 'Day20', 'indices': [254, 260]}, {'text': 'Population', 'indices': [261, 272]}, {'text': 'QGIS', 'indices': [273, 278]}]",1081900377853829120,D&G place-names,dgplacenames,,586,301,http://pbs.twimg.com/media/EnSsM8rXEAMlo_s.jpg,https://t.co/l7Rf4loRMD
+134,1329878832787181571,"#30DayMapChallenge Población.
+
+Mapa de Distribución de Población en México
+
+Fuente: Información sobre cantidad de población en localidades urbanas y rurales del SCINCE 2010, INEGI. https://t.co/VO3kSb4zZB",es,2020-11-20 20:06:36,2,3,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",1058153682905296896,Emmanuel Espinoza,EI_Manny,"Culiacán, Sinaloa",49,44,http://pbs.twimg.com/media/EnStjJoXIAQ5rEg.jpg,https://t.co/VO3kSb4zZB
+135,1329877061054369794,"#30DayMapChallenge Day 20: Population
+Recycling day 1 (but now with 100% more labels): population in England and Wales, with a point for every ~10 people https://t.co/PpucMJ8nJk",en,2020-11-20 19:59:33,1,2,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",759988092,Matthew Law,Iawmatthew,,22,48,http://pbs.twimg.com/media/EnSrtqoXcAQNQVc.jpg,https://t.co/PpucMJ8nJk
+136,1329876012184825857,"#30DayMapChallenge population, Densité de population en 2020 Wordpop https://t.co/15y8Acwlds",fr,2020-11-20 19:55:23,1,7,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",2493409233,Africa & Geomatique,geocarta,,305,172,http://pbs.twimg.com/media/EnSrEP8WMAAxncP.jpg,https://t.co/15y8Acwlds
+137,1329873928475582466,"Area and #population of countries in Europe, 1785. #30DayMapChallenge #maps https://t.co/iTO7FmRwV9",en,2020-11-20 19:47:07,18,44,"[{'text': 'population', 'indices': [9, 20]}, {'text': '30DayMapChallenge', 'indices': [51, 69]}, {'text': 'maps', 'indices': [70, 75]}]",281545406,HarvardMapCollection,HarvardMapColl,"Cambridge, Massachusetts, USA",6433,903,http://pbs.twimg.com/media/EnSpSCGXIAE2yFI.jpg,https://t.co/iTO7FmRwV9
+138,1329872732536901632,"Number of Greggs per 100,000 residents (England) 🥧
+
+I would like to dedicate this map to the sausage bean cheese melt @GreggsOfficial
+
+This is based on crowdsourced OSM data, so if you think your Greggs isn't represented - contribute!
+
+#30DayMapChallenge #Day20 #illustrator https://t.co/x2fVA6okzQ",en,2020-11-20 19:42:21,7,45,"[{'text': '30DayMapChallenge', 'indices': [236, 254]}, {'text': 'Day20', 'indices': [255, 261]}, {'text': 'illustrator', 'indices': [262, 274]}]",1101617286,Helen McKenzie,helenmakesmaps,London,1501,577,http://pbs.twimg.com/media/EnSoL4uXYAQdJGL.jpg,https://t.co/x2fVA6okzQ
+139,1329872075268313088,"Gg voy atrasadísimo con el #30DayMapChallenge. Pero a vers, unos mapitas rápidos chsm.
+
+09) Monocromático: las calles de las ciudades donde he vivido (más de 6 meses corridos). https://t.co/zMDip6hbjX",es,2020-11-20 19:39:45,1,2,"[{'text': '30DayMapChallenge', 'indices': [27, 45]}]",277435470,Pablo,_egbg_,Ciudad de México,2620,742,http://pbs.twimg.com/media/EnSkhyqUwAArQz2.jpg,https://t.co/zMDip6hbjX
+140,1329871877360279560,"#30DayMapChallenge - 20 Population
+
+Populated hectares in Switzerland https://t.co/KduVkGgWZk",en,2020-11-20 19:38:58,1,10,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",1320623996249976832,Raphaël Bz,1cartogRaph,Switzerland,21,2,http://pbs.twimg.com/media/EnSnVoPXMAAIyzi.jpg,https://t.co/KduVkGgWZk
+141,1329870239056576514,"#30DayMapChallenge with #EarthEngine day 20: population
+
+Gridded Population of the World dataset used to calc ratio of ""old"" (&gt;=65) 🧓 to ""young"" (20-49) 🧑 (should've standardized by regional life expectancy ⚰️)
+
+GPW data: https://t.co/88ZHT1VVrf
+IPYNB: https://t.co/UGiGT5WS9q https://t.co/6n5dNCEmWH",en,2020-11-20 19:32:27,12,41,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'EarthEngine', 'indices': [24, 36]}]",831942603931127809,Justin Braaten,jstnbraaten,"Santa Cruz, CA",2432,1263,http://pbs.twimg.com/media/EnSjTQjVEAAqt9z.png,https://t.co/88ZHT1VVrf
+142,1329869102094147588,"Day 20 of the #30DayMapChallenge - population 
+
+Map of sockeye salmon numbers in BC, Canada with their conservation status 
+
+#GIS #canada #salmon #population https://t.co/XS1UZdFtQA",en,2020-11-20 19:27:56,1,1,"[{'text': '30DayMapChallenge', 'indices': [14, 32]}, {'text': 'GIS', 'indices': [125, 129]}, {'text': 'canada', 'indices': [130, 137]}, {'text': 'salmon', 'indices': [138, 145]}, {'text': 'population', 'indices': [146, 157]}]",179094335,sarah☻,sarah_wilson7,"Dublin City, Ireland",144,332,http://pbs.twimg.com/media/EnSk5iMXUAMnpjP.jpg,https://t.co/XS1UZdFtQA
+143,1329866312361848834,"Day 20 of #30DayMapChallenge : #Population 👥
+Population distribution by governorates in Tunisia 2012 https://t.co/eilueQKhyw",en,2020-11-20 19:16:51,1,0,"[{'text': '30DayMapChallenge', 'indices': [10, 28]}, {'text': 'Population', 'indices': [31, 42]}]",590472140,MeMeRaz.,meme_raz,SA,251,340,http://pbs.twimg.com/media/EnSiXBHXEAAo_WY.jpg,https://t.co/eilueQKhyw
+144,1329865377178849281,Northern Ireland Population Census 2011. 1km Pop Grids @NISRA #30DayMapChallenge #Day20 #Population #Demographics #GIS #Geography #OpenData 👩👨‍🦰🗺️ https://t.co/00Cl7eFAAh,en,2020-11-20 19:13:08,0,7,"[{'text': '30DayMapChallenge', 'indices': [62, 80]}, {'text': 'Day20', 'indices': [81, 87]}, {'text': 'Population', 'indices': [88, 99]}, {'text': 'Demographics', 'indices': [100, 113]}, {'text': 'GIS', 'indices': [114, 118]}, {'text': 'Geography', 'indices': [119, 129]}, {'text': 'OpenData', 'indices': [130, 139]}]",3308382005,Conor Graham - Geography Jedi 🏞️🛰️⛰️🌋🌎🌏🌍,GeoConor,Northern Ireland,2380,5002,http://pbs.twimg.com/media/EnSfQJeXYAA3E5n.jpg,https://t.co/00Cl7eFAAh
+145,1329864076458070018,"#30DayMapChallenge Day 20: Population
+
+Belarusians stand for each other. One person on this map stands for 10 000 Belarusians.
+
+Get Kontur Population to know the estimates for any area of your interest: https://t.co/iQezCUWfAB https://t.co/JTwnwlmBz1",en,2020-11-20 19:07:58,1,5,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",1024584556110852096,Kontur,KonturInc,"1305 N. Holopono Street, Suite 2
+Kihei HI 96753 
+USA",223,288,http://pbs.twimg.com/media/EnSgUyEXIAY5pVH.jpg,https://t.co/iQezCUWfAB
+146,1329863968089890817,#30DayMapChallenge https://t.co/BFOZVAZI5B,und,2020-11-20 19:07:32,1,0,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",233135248,Jrombf,jrombf,"Besançon, France",92,413,http://pbs.twimg.com/media/EnSgOfiXIAMp3CB.png,https://t.co/BFOZVAZI5B
+147,1329862273955991559,"Day 20 - Population
+
+#30DayMapChallenge 
+
+#ArcGISPro
+
+This... took... way... too... long.
+
+PS... The population of WA will increase by 6 on January 7th
+
+#Australia #WesternAustralia
+
+#Map #Mapping #Geospatial #Spatial https://t.co/uZhklMfODI",en,2020-11-20 19:00:48,1,2,"[{'text': '30DayMapChallenge', 'indices': [21, 39]}, {'text': 'ArcGISPro', 'indices': [42, 52]}, {'text': 'Australia', 'indices': [153, 163]}, {'text': 'WesternAustralia', 'indices': [164, 181]}, {'text': 'Map', 'indices': [183, 187]}, {'text': 'Mapping', 'indices': [188, 196]}, {'text': 'Geospatial', 'indices': [197, 208]}, {'text': 'Spatial', 'indices': [209, 217]}]",3160198320,Dr Chris #GIS #Success,DrChrisGeoSci,"Calgary, Alberta",731,659,http://pbs.twimg.com/media/EnSer5jXcAsIZxI.png,https://t.co/uZhklMfODI
+149,1329861088066891777,"#30DayMapChallenge Day 20 (Phew, 2/3 done): Population. Population in Scotland on datazone level. https://t.co/webRW5AuJ1",en,2020-11-20 18:56:05,1,7,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",2679909391,Zlata Popelnuh,popelnuhh,,109,162,http://pbs.twimg.com/media/EnSdWGSW4AAfSAA.jpg,https://t.co/webRW5AuJ1
+150,1329860268860596227,"#30DayMapChallenge Day 20: Population
+Israel Population Map
+Data: Ministry of Interior, Central Bureau of Statistics (compiled by @zomer_g)
+Joined in the trend and used #Aeriolod by @ephtracy, data wrangling in @geopandas.
+Green: total pop; Purple: pop per skm. https://t.co/8i1AtSogxM",en,2020-11-20 18:52:50,1,6,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'Aeriolod', 'indices': [169, 178]}]",1000055398697709569,Eliav S-T,est987,Israel,318,1693,http://pbs.twimg.com/media/EnScvNeW4Ag-J8E.png,https://t.co/8i1AtSogxM
+151,1329859436492558338,"#30DayMapChallenge 
+Day 20 - Population
+
+Hidalgo, México: Población en 2010
+
+Data: Censo de población y vivienda 2010 https://t.co/Becd6teuoF",es,2020-11-20 18:49:31,2,0,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",894755514571046915,The White Rabbit Science,whiterabbit_sci,,32,78,http://pbs.twimg.com/media/EnScG9eXcAQ0fMd.jpg,https://t.co/Becd6teuoF
+152,1329857988769837060,"Another simple one for tonight: #30DayMapChallenge No. 20: Population in Vienna, by districts. What, that's too little for Vienna? Well, maybe it's not the human population...🐶 @ogdwien https://t.co/x3po6cDZQE",en,2020-11-20 18:43:46,1,0,"[{'text': '30DayMapChallenge', 'indices': [32, 50]}]",281177027,Isaak,fleischkas,Wien,148,987,http://pbs.twimg.com/media/EnSamdMWEAIMqNG.jpg,https://t.co/x3po6cDZQE
+153,1329857467422027782,"Day 20 population #30DayMapChallenge. The population of Seville, Spain is 690K which is almost identical to my hometown Boston. Enjoy this beautiful image of the agricultural landscape just to the south of the city! Almost looks inspired by Picasso. #agasart #indigoag https://t.co/OP0zBlOHFU",en,2020-11-20 18:41:42,1,3,"[{'text': '30DayMapChallenge', 'indices': [18, 36]}, {'text': 'agasart', 'indices': [250, 258]}, {'text': 'indigoag', 'indices': [259, 268]}]",966880357902528512,Damien Sulla-Menashe,damienMaps,,37,138,http://pbs.twimg.com/media/EnSaUYiXEAcsT1F.jpg,https://t.co/OP0zBlOHFU
+154,1329856710937354240,"#30DayMapChallenge Day 20: Population
+
+#Wolves and current wolf (spp. Canis lupus) population on Isle Royale National Park in Lake Superior. 
+
+14 wolves were verified in 2019, with some pups born (yet to be verified) in 2020. 
+
+Data source: https://t.co/e1zzkayFyj https://t.co/8KKQZsJtDa",en,2020-11-20 18:38:42,1,2,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'Wolves', 'indices': [39, 46]}]",65064975,Jessica McCarty,jmccarty_geo,Myaamia land & The World,2688,4001,http://pbs.twimg.com/media/EnSY1mdW8AESBVf.jpg,https://t.co/e1zzkayFyj
+156,1329855910836133890,"#30DayMapChallenge
+Day 20: Population. A quick lunch break map idea, take a Choropleth map I made for work and turn it into a Dot Density map. Plenty of tweaking to do and I may not like it come next week but content with the idea. https://t.co/CtedSELx1c",en,2020-11-20 18:35:31,2,13,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",333524694,Christopher Pollard,CRVanPollard,"Philadelphia,PA",1062,1212,http://pbs.twimg.com/media/EnSY1jTXcAEVn1s.jpg,https://t.co/CtedSELx1c
+157,1329855015062790146,Kittiwake (Rissa tridactyla) population in GB #30DayMapChallenge #day20 #population https://t.co/o4kXzBKNFI,ro,2020-11-20 18:31:57,3,8,"[{'text': '30DayMapChallenge', 'indices': [46, 64]}, {'text': 'day20', 'indices': [65, 71]}, {'text': 'population', 'indices': [72, 83]}]",318026127,Craig Robson,CaRobson,Newcastle,185,201,http://pbs.twimg.com/media/EnSYEg5WMAMS6eT.png,https://t.co/o4kXzBKNFI
+159,1329852263217721344,"#30DayMapChallenge 
+
+Day 21 Suggestion (November 21) - Water
+
+Data
+https://t.co/vrvi6nd8NG https://t.co/YZHhQnogxj",en,2020-11-20 18:21:01,1,0,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",3160198320,Dr Chris #GIS #Success,DrChrisGeoSci,"Calgary, Alberta",731,659,http://pbs.twimg.com/media/EnSVlfxXIAMdAMG.png,https://t.co/vrvi6nd8NG
+161,1329849025684795398,"#30DayMapChallenge Day 20: #population
+
+#Kolkata in the #nationalatlas of #India #thematicmapping
+@UBLeiden #KIT https://t.co/1u6bkKanIb",en,2020-11-20 18:08:09,0,2,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'population', 'indices': [27, 38]}, {'text': 'Kolkata', 'indices': [40, 48]}, {'text': 'nationalatlas', 'indices': [56, 70]}, {'text': 'India', 'indices': [74, 80]}, {'text': 'thematicmapping', 'indices': [81, 97]}, {'text': 'KIT', 'indices': [108, 112]}]",889150492751925250,Martijn Storms,MapStorms,,870,377,http://pbs.twimg.com/media/EnSSoycXIAETqO3.jpg,https://t.co/1u6bkKanIb
+162,1329847371556118530,Using MapTiler for your #30DayMapChallenge 🗺️? Don't hesitate to tag us or add #MapTiler in your post. We love to see all the great maps and #GIS projects! https://t.co/R85SgJHonV,en,2020-11-20 18:01:35,1,5,"[{'text': '30DayMapChallenge', 'indices': [24, 42]}, {'text': 'MapTiler', 'indices': [79, 88]}, {'text': 'GIS', 'indices': [141, 145]}]",46369870,MapTiler,MapTiler,AT HOME 🏠,2179,690,http://pbs.twimg.com/media/EnSRIwbXMAImjSZ.jpg,https://t.co/R85SgJHonV
+163,1329847142031241216,"Day 20 of the #30DayMapChallenge and the theme is population. I had a look at my favourite seabird, the Northern Gannet, and mapped their breeding population in the British Isles. Created using #RStats https://t.co/wqBnbojpKe",en,2020-11-20 18:00:40,3,13,"[{'text': '30DayMapChallenge', 'indices': [14, 32]}, {'text': 'RStats', 'indices': [194, 201]}]",46426450,Joshua Copping,JoshCopping,United Kingdom,97,167,http://pbs.twimg.com/media/EnSP7EeXYAMKYjQ.jpg,https://t.co/wqBnbojpKe
+164,1329847106983649286,"Day 19 (Null) of the #30DayMapChallenge 
+
+Our creativity seems to be stuck through the past day, but thankfully, we came across this interesting entry to the #NULL map approach by @popelnuhh showing all the areas in GB 🇬🇧 with 0 train stations.
+
+Really cool map, don't you agree? https://t.co/HUbmY9TsC9",en,2020-11-20 18:00:32,1,1,"[{'text': '30DayMapChallenge', 'indices': [21, 39]}, {'text': 'NULL', 'indices': [158, 163]}]",1269335161335959552,the GIS girl,TheGISGirl,,51,117,http://pbs.twimg.com/media/EnSQ5PTW8AExszG.jpg,https://t.co/HUbmY9TsC9
+165,1329846702388473858,"Day 20: Population
+#30DayMapChallenge https://t.co/j7RK0gB6kh",en,2020-11-20 17:58:55,1,2,"[{'text': '30DayMapChallenge', 'indices': [19, 37]}]",1233423602948694017,Nic,DrNicNacks,,10,32,http://pbs.twimg.com/media/EnSQRu4XcAEO_sM.jpg,https://t.co/j7RK0gB6kh
+167,1329842975128555521,"Day 20, #30DayMapChallenge, Population - very basic, part of a WIP on Massachusetts pop growth - I live in Foxboro, which was incorporated in 1778, this is pop growth from 1790 to 2019 (est). 
+
+Still a lot of work to go on this. #rstats #gganimate https://t.co/1cOzBQ8IPu",en,2020-11-20 17:44:07,3,3,"[{'text': '30DayMapChallenge', 'indices': [8, 26]}, {'text': 'rstats', 'indices': [229, 236]}, {'text': 'gganimate', 'indices': [237, 247]}]",25813395,Paul I 🇺🇸🇩🇪,pivanputs,Southeastern MA,140,406,http://pbs.twimg.com/tweet_video_thumb/EnSMymUXUAYJRUy.jpg,https://t.co/1cOzBQ8IPu
+168,1329842054214676482,"#30DayMapChallenge Day 20: Population.
+Graduate symbols for total population, Female and Male literacy rates. Made with #ArcGISpro with data from #GRID3_NG https://t.co/LKNCIbiuKE",en,2020-11-20 17:40:27,1,4,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'ArcGISpro', 'indices': [120, 130]}, {'text': 'GRID3_NG', 'indices': [146, 155]}]",374459093,Jannah_A,zinnie__A,"Kaduna, Nigeria.",207,235,http://pbs.twimg.com/media/EnSMSdtXIAUVUu5.jpg,https://t.co/LKNCIbiuKE
+169,1329841939244589056,"#30DayMapChallenge Day 19: Population
+Very limited time this week so variation on day 6. Sadly showing decline in distribution (and population) of Corn Buntings. I see quite a few but they are rare elsewhere. Data from @_BTO https://t.co/p2blW8LTW2",en,2020-11-20 17:40:00,3,10,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",1268236531,Tom Timms,TomTheMap,"Cambridgeshire, UK",427,634,http://pbs.twimg.com/media/EnSMBr-XUAEM-rX.jpg,https://t.co/p2blW8LTW2
+170,1329841800840945664,"Jour 20, POPULATION #30DayMapChallenge 
+Si les départements se dessinaient sous l'influence de la population, on aurai une trentaine de départements en Île-de-France🙃 https://t.co/XMqzGXeTkh",fr,2020-11-20 17:39:27,1,6,"[{'text': '30DayMapChallenge', 'indices': [20, 38]}]",4026779141,Rem,Remykiwi78,Dans le Dauphiné,24,61,http://pbs.twimg.com/media/EnSLpTSW8AA_2e-.jpg,https://t.co/XMqzGXeTkh
+171,1329837868618051588,Too much time debugging to have much time left for #30DayMapChallenge so here's a map from the service I was fixing GeoServer to handle.  @LINZLDS Topo50 maps. I don't think I ever realised that Auckland is essentially an island - no idea why no one lives on the conical island? https://t.co/J2Wc6qyE8r,en,2020-11-20 17:23:49,3,6,"[{'text': '30DayMapChallenge', 'indices': [51, 69]}]",77265423,Ian Turton,ijturton,"Worthing, UK",1076,893,http://pbs.twimg.com/media/EnSHv1WXEAIMnR4.jpg,https://t.co/J2Wc6qyE8r
+172,1329837401926201356,"#30DayMapChallenge Day 20: Population
+UK Badger population per 100km grid square.
+Made using brilliant @FSCBioLinks #qgis plugin
+https://t.co/OJKNIXF7X2 https://t.co/HAXEMD476T",en,2020-11-20 17:21:58,2,4,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'qgis', 'indices': [116, 121]}]",18795658,Matt Travis,Yakus,"Ivybridge, Devon",523,742,http://pbs.twimg.com/media/EnSID2gWMAAd99f.jpg,https://t.co/OJKNIXF7X2
+173,1329836672968699904,Day 20 of the #30DayMapChallenge.  Population.  Still playing about with rayshader and ggplot2.... https://t.co/GwVanavgYn,en,2020-11-20 17:19:04,1,5,"[{'text': '30DayMapChallenge', 'indices': [14, 32]}]",230856587,Ivo Wengraf,iwengraf,"Higham, Kent",366,925,http://pbs.twimg.com/ext_tw_video_thumb/1329836581805559810/pu/img/QhIpdYZaAK4AMpKz.jpg,https://t.co/GwVanavgYn
+174,1329835953062600711,"Day 20: Population #30DayMapChallenge 
+Made another bivariate map with population density and urban population for #Indian states...
+#RStats #rspatial #rgeomatic #r4ds #cartography https://t.co/MVrJMApwDf",en,2020-11-20 17:16:13,1,8,"[{'text': '30DayMapChallenge', 'indices': [19, 37]}, {'text': 'Indian', 'indices': [115, 122]}, {'text': 'RStats', 'indices': [133, 140]}, {'text': 'rspatial', 'indices': [141, 150]}, {'text': 'rgeomatic', 'indices': [151, 161]}, {'text': 'r4ds', 'indices': [162, 167]}, {'text': 'cartography', 'indices': [168, 180]}]",28133471,Nilanjan Chatterjee,footloose_nil,"Dehradun, India",269,264,http://pbs.twimg.com/media/EnSFX_xXYAgDEzH.jpg,https://t.co/MVrJMApwDf
+175,1329834987189923840,"#30DayMapChallenge day 20 (population): Another world population map
+-
+#rayshader #rspatial #rstats https://t.co/FS7jfAYN6F",en,2020-11-20 17:12:22,2,6,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'rayshader', 'indices': [71, 81]}, {'text': 'rspatial', 'indices': [82, 91]}, {'text': 'rstats', 'indices': [92, 99]}]",840369042632396800,newishtodc,cstats1,"Washington, DC",453,57,http://pbs.twimg.com/ext_tw_video_thumb/1329834751906156548/pu/img/Ryz-8ToC1kNIPYVG.jpg,https://t.co/FS7jfAYN6F
+176,1329833908494622722,Day 20 Population #30DayMapChallenge Two maps from last years challenge: places where nobody lives and inhabitants per square kilometer per neighborhood https://t.co/C5Rhl3Fh2g,en,2020-11-20 17:08:05,1,3,"[{'text': '30DayMapChallenge', 'indices': [18, 36]}]",261631571,Leo,hendrikxleo,Nederland,65,254,http://pbs.twimg.com/media/EnSEvfCXUAcBhjn.jpg,https://t.co/C5Rhl3Fh2g
+178,1329832559841185792,"Okay. Starting to think South and East #Bangalore aren't as dense as I think they are. Or data is missing. For Day 20 of the #30DayMapChallenge I have a pop density raster map.
+#Bengaluru #bloremapped #maps #rspatial https://t.co/zBMAPctavL",en,2020-11-20 17:02:44,2,5,"[{'text': 'Bangalore', 'indices': [39, 49]}, {'text': '30DayMapChallenge', 'indices': [125, 143]}, {'text': 'Bengaluru', 'indices': [177, 187]}, {'text': 'bloremapped', 'indices': [188, 200]}, {'text': 'maps', 'indices': [201, 206]}, {'text': 'rspatial', 'indices': [207, 216]}]",1222519447165886465,Anirudh,_anirudhgovind,India,146,1622,http://pbs.twimg.com/media/EnSDbD5VoAEUcq0.png,https://t.co/zBMAPctavL
+180,1329832045091151879,"Répartition de la population de mon immeuble par statut, une belle analyse de géographie sociale... Population of my building by status.
+Day 20 : population
+#30DayMapChallenge #handmademap #carteconfinee
+Merci à @SDuroudier pour l'idée de stratification verticale https://t.co/05yVX301Ec",fr,2020-11-20 17:00:41,4,25,"[{'text': '30DayMapChallenge', 'indices': [157, 175]}, {'text': 'handmademap', 'indices': [176, 188]}, {'text': 'carteconfinee', 'indices': [189, 203]}]",442982795,odile,odile_p,France,133,187,http://pbs.twimg.com/media/EnSCzjMXIA4-517.jpg,https://t.co/05yVX301Ec
+181,1329831883065217025,"#30DayMapChallenge - Day 18 (late, soz) - Land use
+Land classification, field-to-market routing model, SE-most Kazakhstan, AGI/USGS Global GIS 2003
+(DVD c/w runtime ArcView 3.2.1 #nostalgia) https://t.co/7mAnwhq3EI",en,2020-11-20 17:00:02,1,3,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'nostalgia', 'indices': [179, 189]}]",25663399,Andrew Zolnai,azolnai,"Cambridge, UK",707,991,http://pbs.twimg.com/media/EnSCvf1W8AkRHyo.png,https://t.co/7mAnwhq3EI
+182,1329830705535225856,"#30DayMapChallenge 20/30: Population. Unearthed this Google Maps screenshot of Southern California freeway traffic from July 8, 2015. Draw your own conclusions. https://t.co/BWwTXZIRpf",en,2020-11-20 16:55:21,1,0,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",1224107513131327488,keirtography,keirtography,"Ventura, CA",62,200,http://pbs.twimg.com/media/EnSBrIGUUAEFE1C.jpg,https://t.co/BWwTXZIRpf
+183,1329829544434524161,"#30DayMapChallenge #Maya populations before colonization were concentrated in the northern Yucatan, central #Guatemala and the Peten. https://t.co/uUpLrf468n",en,2020-11-20 16:50:45,15,75,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'Maya', 'indices': [19, 24]}, {'text': 'Guatemala', 'indices': [108, 118]}]",822048926081712128,Carl Churchill,Cchurchili,CO / Tabeguache Ute Land,1586,728,http://pbs.twimg.com/media/EnSAwb5XEAgOG2u.jpg,https://t.co/uUpLrf468n
+185,1329822804708036609,"#30DayMapChallenge #Day20  Population (aged 15-19) of functional urban areas (FUA) - contribution by
+@mgiannopoulos Vis: https://t.co/x4I2W7k0Y9  Data:
+@EU_Eurostat https://t.co/ZOp52DEpbb Geometries:https://t.co/BSP1WzTGmK #GISCO -10 days2go https://t.co/CBnrOUvSlz",en,2020-11-20 16:23:58,1,3,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'Day20', 'indices': [19, 25]}, {'text': 'GISCO', 'indices': [224, 230]}]",2574612668,hannes reuter,hireuter,,215,432,http://pbs.twimg.com/media/EnR57i5XcAsJl-f.jpg,https://t.co/x4I2W7k0Y9
+187,1329820562055704581,#30DayMapChallenge Day 20 : Population https://t.co/NsbYrhHEBJ,en,2020-11-20 16:15:03,1,1,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",233525664,Julien,JulienQuotidien,Le Havre,465,185,http://pbs.twimg.com/media/EnR4q-IXIAUyBvm.jpg,https://t.co/NsbYrhHEBJ
+188,1329820463737004038,"#30DayMapChallenge, day 20 (population): Population in northern #CentralAmerica + #Belize, from the perspective of nighttime lights courtesy of the Suomi NPP's VIIRS instrument. Visible via @NASAEarthData's EOSDIS WorldView: https://t.co/bFcfpVdrrT.
+https://t.co/9XYVIRjJgT https://t.co/q1LL6fgpuD",en,2020-11-20 16:14:40,1,3,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'CentralAmerica', 'indices': [64, 79]}, {'text': 'Belize', 'indices': [82, 89]}]",731808469301493760,🇧🇿 Belize GEO 🛰️,BZgeo,Belize,4292,3927,http://pbs.twimg.com/media/EnR39DrXUAAmnwA.jpg,https://t.co/bFcfpVdrrT.
+189,1329818671565377548,"#30DayMapChallenge #Day20 : Population.
+Hong Kong, la ville verticale. Des expérimentations sur https://t.co/wjx0x1olDO aujourd'hui !
+
+[ENG] Hong Kong, the vertical city. Experiments on https://t.co/wjx0x1olDO today! https://t.co/yjDcnofnXn",fr,2020-11-20 16:07:32,3,7,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'Day20', 'indices': [19, 25]}]",163493843,maelle am,MaelleAMM,Paris,207,393,http://pbs.twimg.com/media/EnR3BCjWEAMrDzY.jpg,https://t.co/wjx0x1olDO
+191,1329815977941479426,"Catching up with the #30DayMapChallenge and cheating on days 16 and 17: Historical maps of Vormsi Island, Estonia 😁🧭🐍🇪🇪🌍 #Landboard Estonia hosts a #WMS with historical maps @maaamet  Scripted download and join with #owslib #imageio #python https://t.co/SJNSiPtkpo https://t.co/6xhIqHDoEe",en,2020-11-20 15:56:50,2,5,"[{'text': '30DayMapChallenge', 'indices': [21, 39]}, {'text': 'Landboard', 'indices': [121, 131]}, {'text': 'WMS', 'indices': [148, 152]}, {'text': 'owslib', 'indices': [216, 223]}, {'text': 'imageio', 'indices': [224, 232]}, {'text': 'python', 'indices': [233, 240]}]",409168655,Alexander Kmoch,allixender,"Tartu, Eesti",257,213,http://pbs.twimg.com/tweet_video_thumb/EnR0FirXEAMUXop.jpg,https://t.co/SJNSiPtkpo
+192,1329814512321654793,"Day 20- Population
+#30DayMapChallenge 
+Location- Global
+Data- European Commission, JRC https://t.co/HiRctq10NX
+Tools- @qgis 
+Description- An attempt to visualize global lived density. See thread for more info. 
+#GIS #gischat https://t.co/rCfLvKBX6L",en,2020-11-20 15:51:01,3,10,"[{'text': '30DayMapChallenge', 'indices': [19, 37]}, {'text': 'GIS', 'indices': [211, 215]}, {'text': 'gischat', 'indices': [216, 224]}]",52190652,Oliver Burdekin,burdGIS,"Wakefield, England",1396,2949,http://pbs.twimg.com/media/EnRy1H8WEAE6fT6.jpg,https://t.co/HiRctq10NX
+193,1329813914171871233,"Pas le temps pour le #30DayMapChallenge 😞
+alors petite bivariée réalisée récemment dans le cadre des cours #unpeucompliqué https://t.co/FApa1YMsln",fr,2020-11-20 15:48:38,2,12,"[{'text': '30DayMapChallenge', 'indices': [21, 39]}, {'text': 'unpeucompliqué', 'indices': [107, 122]}]",754998655,ilianitev,ilianitev,,185,478,http://pbs.twimg.com/media/EnRytL0XcAAGGzz.jpg,https://t.co/FApa1YMsln
+194,1329810038286733319,"#30DayMapChallenge Day 20 - Population
+
+I am a proud resident of Canada's least populated watershed.
+
+No, it's not in the Arctic... https://t.co/9CdnGHfSFH",en,2020-11-20 15:33:14,11,62,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",851149914725916672,ksituan northland,ksituan,Val Marie / Treaty 4,1222,159,http://pbs.twimg.com/media/EnQIytqUcAEqCn9.jpg,https://t.co/9CdnGHfSFH
+195,1329809034807939073,"#30DayMapChallenge Day 20 - Population
+
+Population distribution (in 0.04-degree chunks) and metropolitan regions in Japan
+
+Rendered with #aerialod. My greatest gratitude to @undertheraedar for writing a bunch of tutorials for this tremendous software. https://t.co/AWwboLGp7M",en,2020-11-20 15:29:15,20,145,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'aerialod', 'indices': [137, 146]}]",985921631439568896,Kenneth Wong,Kenneth_KHW,Hong Kong,76,147,http://pbs.twimg.com/media/EnRuQ-GVQAY40hn.jpg,https://t.co/AWwboLGp7M
+196,1329807453110763520,"#30DayMapChallenge
+Map 20: Population
+
+During COVID lockdown &amp; crisis, we had prepared a population density estimate for #Delhi based on satellite data and multiple other sources. Map shows a 3D representation of the same (200m x 200m grid) https://t.co/exlUo0wIFm",en,2020-11-20 15:22:58,14,101,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'Delhi', 'indices': [125, 131]}]",272936200,Raj Bhagat P #Mapper4Life,rajbhagatt,"Nagercoil, Tamil Nadu",17541,1714,http://pbs.twimg.com/media/EnRswBNVEAEqBmu.jpg,https://t.co/exlUo0wIFm
+197,1329805197292437504,"#30DayMapChallenge Day 20 - Population
+
+Depopulation in Asturias. Changes between 2010 and 2018 (Data: @es_INE) https://t.co/oBsaJWIRYd",en,2020-11-20 15:14:00,1,4,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",62926974,Tomasral,tomasral,Asturies,87,430,http://pbs.twimg.com/media/EnNz8o7XUAIXlQv.jpg,https://t.co/oBsaJWIRYd
+198,1329803775578697728,"A quick and crude attempt to map UK population growth for #30daymapchallenge day 20. (Achieved mainly thanks to @undertheraedar's recent tutorial on method which saved lots of time!).  
+
+There's plenty of oddities, like projection, so don't take it too seriously! https://t.co/uL3C6ZUDB4",en,2020-11-20 15:08:21,3,27,"[{'text': '30daymapchallenge', 'indices': [58, 76]}]",134939026,JonoPatterson,JonoPatterson,Lancashire,235,579,http://pbs.twimg.com/media/EnRpBRlW8AIwJfM.jpg,https://t.co/uL3C6ZUDB4
+199,1329802770707324928,"#30DayMapChallenge
+Day20: Population 
+
+Title: Percentage of Population with University or Higher Education Level in #Kuwait
+
+Software used: @qgis &amp; @Blender
+ 
+The data were from @CSBkw
+2011 census 
+
+#cartography #Geography https://t.co/S9o0QBlV7p",en,2020-11-20 15:04:21,2,16,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'Kuwait', 'indices': [116, 123]}, {'text': 'cartography', 'indices': [203, 215]}, {'text': 'Geography', 'indices': [216, 226]}]",908818700660236288,عبداللطيف الياقوت,geo_alyaqout,Kuwait (Ex Texan),220,199,http://pbs.twimg.com/media/EnRokOHXIAMAH-L.jpg,https://t.co/S9o0QBlV7p
+200,1329802732362887169,"#30DayMapChallenge #GoogleEarthEngine #EarthEngine 
+Day #20 - #population 
+Dataset from - NASA SEDAC at CIESIN
+
+In map,
+Orange - Population &lt;=4500 per 1 https://t.co/fVBzj6suzk
+Red       - Population   &gt;4500 per 1 https://t.co/fVBzj6suzk
+
+#GEE code - https://t.co/mI1mutc8Ke https://t.co/EbBh71CM36",en,2020-11-20 15:04:12,4,6,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'GoogleEarthEngine', 'indices': [19, 37]}, {'text': 'EarthEngine', 'indices': [38, 50]}, {'text': 'population', 'indices': [62, 73]}, {'text': 'GEE', 'indices': [245, 249]}]",929981776834863104,BOOM,bhupathi_boom,milky way,60,225,http://pbs.twimg.com/media/EnRobg3VEAEkM4u.jpg,https://t.co/fVBzj6suzk
+201,1329802357035708425,"⚔️#30DayMapChallenge Carte réalisée sans SIG avec l'outils #Macarte de l'@IGNFrance. 
+#TutoCarto apprendre en s'amusant: une carte de #GameOfThrones #FantasyMap #imaginaire
+🗺️Macarte: https://t.co/tWfM61cxzc
+▶️les explications: https://t.co/RLM54Nk1NY https://t.co/Vm1HHI1Ct9",fr,2020-11-20 15:02:43,3,6,"[{'text': '30DayMapChallenge', 'indices': [2, 20]}, {'text': 'Macarte', 'indices': [59, 67]}, {'text': 'TutoCarto', 'indices': [86, 96]}, {'text': 'GameOfThrones', 'indices': [134, 148]}, {'text': 'FantasyMap', 'indices': [149, 160]}, {'text': 'imaginaire', 'indices': [161, 172]}]",2247167180,Jean-Marc Viglino,jmviglino,FR-94160 Saint-Mandé,90,4,http://pbs.twimg.com/media/EnRlkyhXUAABP-P.jpg,https://t.co/tWfM61cxzc
+202,1329801788489420800,"We're already 2/3 of the way through #30DayMapChallenge! 
+
+Today's theme is population - my dot density map shows 1 dot per person in #Dublin based on 2016 @CSOIreland data https://t.co/aSNOk2htMb",en,2020-11-20 15:00:27,3,20,"[{'text': '30DayMapChallenge', 'indices': [37, 55]}, {'text': 'Dublin', 'indices': [134, 141]}]",437801734,Antonia Blankenberg,MapsByAntonia,"Dublin City, Ireland",250,461,http://pbs.twimg.com/media/EnRnrW7WEAEDQH_.jpg,https://t.co/aSNOk2htMb
+203,1329800459612196869,"#throwback to our April visualisation blog, looking at the accessibility of #green spaces in #birmingham
+
+#30daymapchallenge #parks #walking 
+https://t.co/Fv4y1SYqKL https://t.co/mJFQ51pHvD",en,2020-11-20 14:55:10,0,2,"[{'text': 'throwback', 'indices': [0, 10]}, {'text': 'green', 'indices': [76, 82]}, {'text': 'birmingham', 'indices': [93, 104]}, {'text': '30daymapchallenge', 'indices': [106, 124]}, {'text': 'parks', 'indices': [125, 131]}, {'text': 'walking', 'indices': [132, 140]}]",49592380,Basemap,basemap,"Guildford, Surrey",1685,1645,http://pbs.twimg.com/media/EnRmeCuWEAAucMO.png,https://t.co/Fv4y1SYqKL
+204,1329797082828386305,"Made a gif transitioning between a regular &lt;-&gt; cartogram map with Israel's population for the #30DayMapChallenge day 20 (population).
+
+#rstats Code:
+https://t.co/K4ODsnqXo6
+
+Great tutorial by @R_Graph_Gallery for making the gif:
+https://t.co/VNjaSRhlGq https://t.co/BipYNb6gBj",en,2020-11-20 14:41:45,2,12,"[{'text': '30DayMapChallenge', 'indices': [100, 118]}, {'text': 'rstats', 'indices': [141, 148]}]",2167201254,Amit Levinson,Amit_Levinson,Israel,393,1584,http://pbs.twimg.com/tweet_video_thumb/EnRieiDW8AY3pg2.jpg,https://t.co/K4ODsnqXo6
+205,1329796745224728579,"#30DayMapChallenge 2020: #rspatial edition 
+
+Day 19: Today's theme is NULL. Therefore, there are no new maps today.
+
+Just joking - all new links can be found at https://t.co/oB9JtacZ1o.
+
+#rstats #cartography https://t.co/CdLzqCCrjb",en,2020-11-20 14:40:25,4,7,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'rspatial', 'indices': [25, 34]}, {'text': 'rstats', 'indices': [187, 194]}, {'text': 'cartography', 'indices': [195, 207]}]",2810559039,Jakub Nowosad,jakub_nowosad,,3933,216,http://pbs.twimg.com/media/EnRi4AtWEAAihhx.png,https://t.co/oB9JtacZ1o.
+206,1329796604732248069,"#30DayMapChallenge  Day 20 - #Population
+Dorling cartogram from Andorra 2019 population by parishes - Cartograma de Dorling de la població d'Andorra 2019 distribuïda per parròquies. La mida dels cercles representa el nº d'habitants i els colors la densitat (hab/km2). Made #GeoDA https://t.co/QGTDpdyz8x",ca,2020-11-20 14:39:51,3,2,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'Population', 'indices': [29, 40]}, {'text': 'GeoDA', 'indices': [273, 279]}]",2342154006,Cartografia Oficial d'Andorra,areacartografia,Govern d'Andorra,325,711,http://pbs.twimg.com/media/EnRhV7EWMAAJ1sK.jpg,https://t.co/QGTDpdyz8x
+207,1329795774171983876,"Just re-discovered this absolute blast-from-the-past, map very much #NotMadeWithGIS software! Instead, made with paper, pen, and pencil at 10,000 ft in SW Colorado in 2006! Very late entry to #30DayMapChallenge #Day12. In geological time it’s hardly late at all though! https://t.co/cQyQIPxxpi",en,2020-11-20 14:36:33,1,4,"[{'text': 'NotMadeWithGIS', 'indices': [68, 83]}, {'text': '30DayMapChallenge', 'indices': [192, 210]}, {'text': 'Day12', 'indices': [211, 217]}]",1272146417323294721,Euan Mitchell,MindOverMagma,"Edinburgh, Scotland",37,101,http://pbs.twimg.com/media/EnRiM60XEAEFGte.jpg,https://t.co/cQyQIPxxpi
+209,1329792665223917569,"#30DayMapChallenge: #Population
+And now, for @tjukanov, the same as before but in southern #Finland. https://t.co/ZptXkJUafE",en,2020-11-20 14:24:12,1,1,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'Population', 'indices': [20, 31]}, {'text': 'Finland', 'indices': [91, 99]}]",920204440606593024,FBS 🇵🇹 🇮🇹 🇪🇺,filipebatsilv,Italy,778,397,http://pbs.twimg.com/media/EnRfRTCXUAEYlsf.jpg,https://t.co/ZptXkJUafE
+210,1329792614221172747,"@sarahbellmaps @NullIsland Day 20: Population
+
+As a kid I was taught that Vermont had no native population, that it was a neutral hunting ground. The Abenaki would beg to differ; they lived here before the French and English arrived, and they're still here.
+
+https://t.co/bIXHmyOXGg
+
+#30DayMapChallenge https://t.co/rxVw3i9SNX",en,2020-11-20 14:24:00,1,6,"[{'text': '30DayMapChallenge', 'indices': [284, 302]}]",278873782,Map/,vtcraghead,"Burlington, VT",3655,863,http://pbs.twimg.com/media/EnPXnaGXMAIBdaK.jpg,https://t.co/bIXHmyOXGg
+211,1329792212356521999,"Day 20 - Population #30DayMapChallenge A diferent take on population here, instead looking at biodiversity intactness and loss The bigger the hole, the less intact ... https://t.co/7a4X5XxhQM",en,2020-11-20 14:22:24,2,7,"[{'text': '30DayMapChallenge', 'indices': [20, 38]}]",1318518242080661504,Christoph Er,dataisawesomeo,,23,144,http://pbs.twimg.com/media/EnRe47vXUAUqPmq.png,https://t.co/7a4X5XxhQM
+212,1329791917677285377,"#30DayMapChallenge: #Population
+
+Diff. between 2011 &amp; 2018 per 1 km2 cells in #Poland:
+Brown: higher pop in 2018
+Blue: lower pop in 2018
+Yellow: stable
+White: no pop
+Black line: main urban centres
+
+Based on @EU_Eurostat @EU_ScienceHub @EUinmyRegion #geospatial data &amp; methods. https://t.co/9mSZWWGOmx",en,2020-11-20 14:21:14,3,4,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'Population', 'indices': [20, 31]}, {'text': 'Poland', 'indices': [82, 89]}, {'text': 'geospatial', 'indices': [253, 264]}]",920204440606593024,FBS 🇵🇹 🇮🇹 🇪🇺,filipebatsilv,Italy,778,397,http://pbs.twimg.com/media/EnReo9BXcAQpCpH.jpg,https://t.co/9mSZWWGOmx
+213,1329791525853786114,"#30DayMapChallenge: #Population
+
+Diff. between 2011 &amp; 2018 per 1 km2 cells in #Italy:
+Brown: higher pop in 2018
+Blue: lower pop in 2018
+Yellow: stable
+White: no pop
+Black line: main urban centres
+
+Based on @EU_Eurostat @EU_ScienceHub @EUinmyRegion #geospatial data &amp; methods. https://t.co/4qN6BlngpF",en,2020-11-20 14:19:40,2,2,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'Population', 'indices': [20, 31]}, {'text': 'Italy', 'indices': [82, 88]}, {'text': 'geospatial', 'indices': [252, 263]}]",920204440606593024,FBS 🇵🇹 🇮🇹 🇪🇺,filipebatsilv,Italy,778,397,http://pbs.twimg.com/media/EnReRJQWMAAE5Of.jpg,https://t.co/4qN6BlngpF
+214,1329791104510697477,"Day 20 of #30DayMapChallenge is focused on Population. This is Delhi, one of the fastest growing cities in the past few decades. https://t.co/HR5SeVKMnE https://t.co/SP183zFYl9",en,2020-11-20 14:18:00,1,3,"[{'text': '30DayMapChallenge', 'indices': [10, 28]}]",4017972017,Resource Watch,resource_watch,,2539,1645,http://pbs.twimg.com/tweet_video_thumb/EmFhEXqX0AAq1yO.jpg,https://t.co/HR5SeVKMnE
+215,1329791104179445765,"Day 20 of the #30DayMapChallenge and the theme is ""population"". I put together this county-level population density map using census data for the USA in #rstats -- brighter counties are more densely populated than darker ones.
+
+See the code: https://t.co/QSRnXcsIy7 https://t.co/DnZDP9jGdE",en,2020-11-20 14:18:00,2,7,"[{'text': '30DayMapChallenge', 'indices': [14, 32]}, {'text': 'rstats', 'indices': [153, 160]}]",942194832491122688,Mike Mahoney,MikeMahoney218,"Syracuse, NY",456,319,http://pbs.twimg.com/media/Em5Xqn7W8AE5Ot4.jpg,https://t.co/QSRnXcsIy7
+216,1329791029571104771,"#30DayMapChallenge: #Population
+
+Diff. between 2011 &amp; 2018 per 1 km2 cells in #France:
+Brown: higher pop in 2018
+Blue: lower pop in 2018
+Yellow: stable
+White: no pop
+Black line: main urban centres
+
+Based on @EU_Eurostat @EU_ScienceHub @EUinmyRegion #geospatial data &amp; methods. https://t.co/oYJwGlD8DZ",en,2020-11-20 14:17:42,2,2,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'Population', 'indices': [20, 31]}, {'text': 'France', 'indices': [82, 89]}, {'text': 'geospatial', 'indices': [253, 264]}]",920204440606593024,FBS 🇵🇹 🇮🇹 🇪🇺,filipebatsilv,Italy,778,397,http://pbs.twimg.com/media/EnRdcl_XcAI2mb0.jpg,https://t.co/oYJwGlD8DZ
+217,1329789974070353926,#30DayMapChallenge Population. Where the Wild Things Are: a tour to the top 5 most animal diverse US National Parks (aka the parks with the highest number of different animal species). https://t.co/HEXgu7T55A,en,2020-11-20 14:13:30,2,12,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",741653561314922496,ᵐᵃᵖᵗᵃˢᵗⁱᶜ🥔ₖₐₜₑ,pokateo_,"Ann Arbor, Michigan",2266,2377,http://pbs.twimg.com/tweet_video_thumb/EnRbqqoWEAEsXeI.jpg,https://t.co/HEXgu7T55A
+218,1329789895079055362,"#30daymapchallenge day 19 - Null = 0. Population in the Netherlands (left), grids with zero population (right). data: https://t.co/XEEX4Z1S2E. Compare with https://t.co/tvyNV6Uwav, if you like empty spaces go to Finland.🙂 #rspatial #rstats #sf #stars https://t.co/nBBDSVy2ss",en,2020-11-20 14:13:11,4,20,"[{'text': '30daymapchallenge', 'indices': [0, 18]}, {'text': 'rspatial', 'indices': [222, 231]}, {'text': 'rstats', 'indices': [232, 239]}, {'text': 'sf', 'indices': [240, 243]}, {'text': 'stars', 'indices': [244, 250]}]",1127542168078495745,peter,vanhorssenpeter,,2,5,http://pbs.twimg.com/media/EnRbkFFWMAAR_QM.png,https://t.co/XEEX4Z1S2E.
+219,1329789239555465218,#30DayMapChallenge Today is #population. When my TweedyTweeps tell me Britain is too crowded an island for #rewilding I usually show them this... https://t.co/rqhTtJmGDs,en,2020-11-20 14:10:35,59,294,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'population', 'indices': [28, 39]}, {'text': 'rewilding', 'indices': [107, 117]}]",734297005846081536,Steve Carver,LandEthics,"Yorkshire, England",2083,443,http://pbs.twimg.com/media/EnRcFWqWMAIpqOg.jpg,https://t.co/rqhTtJmGDs
+220,1329788151511060481,"Relación entre PEA contra unidades económicas (DENUE) 
+#30DayMapChallenge 2020
+Día 20: Población https://t.co/NiRjP7bKJ6",es,2020-11-20 14:06:16,1,0,"[{'text': '30DayMapChallenge', 'indices': [55, 73]}]",890753654822588417,Yaireth Ortiz,Yaireth_Ortiz,,12,349,http://pbs.twimg.com/media/EnRbRjaXUAEJyf0.jpg,https://t.co/NiRjP7bKJ6
+221,1329788035832098817,"#30DayMapChallenge: #Population
+
+Diff. btw 2011 &amp; 2018 per 1 km2 cells in #Germany:
+Brown: areas that gained pop
+Blue: areas that lost
+Yellow: stable
+White: no pop
+Black line: main urban centres.
+
+Based on @EU_Eurostat @EU_ScienceHub @EUinmyRegion #geospatial data&amp;methods. https://t.co/QVS3X3TR9O",en,2020-11-20 14:05:48,2,7,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'Population', 'indices': [20, 31]}, {'text': 'Germany', 'indices': [78, 86]}, {'text': 'geospatial', 'indices': [252, 263]}]",920204440606593024,FBS 🇵🇹 🇮🇹 🇪🇺,filipebatsilv,Italy,778,397,http://pbs.twimg.com/media/EnRZUGpW4AAKm-h.jpg,https://t.co/QVS3X3TR9O
+222,1329787033297022977,"Day 20 of #30DayMapChallenge with #EarthEngine - Population
+
+#nighttime lights 💡🔦 from cities 🌆, towns, and other sites with persistent lighting in #Germany 🇩🇪
+
+Data: DMSP OLS: Nighttime Lights Time Series Version 4
+Skript: https://t.co/LlH9knaDUH https://t.co/Bq2JO8xG7P",en,2020-11-20 14:01:49,6,19,"[{'text': '30DayMapChallenge', 'indices': [10, 28]}, {'text': 'EarthEngine', 'indices': [34, 46]}, {'text': 'nighttime', 'indices': [61, 71]}, {'text': 'Germany', 'indices': [148, 156]}]",1585404372,Philipp Gärtner,gartn001,"Berlin, Germany",1498,839,http://pbs.twimg.com/media/EnRaHGXXIAEXkS4.png,https://t.co/LlH9knaDUH
+223,1329786737548288002,"Whats this #30daymapchallenge am I supposed to make a map every day? Or just grab stuff I like? 
+
+I see both. 
+
+But here's a map I made of election violence in Kenya with data from @ACLEDINFO https://t.co/murEv3f7FA",en,2020-11-20 14:00:39,1,0,"[{'text': '30daymapchallenge', 'indices': [11, 29]}]",77623399,Dr. Peter Larson,pslarson2,"Ann Arbor, MI",722,1219,http://pbs.twimg.com/media/EnRZ5e2W8AMbhLr.png,https://t.co/murEv3f7FA
+224,1329786322668679173,"We're sorry we're late to the party but we are going to have a good go at this CHALLENGE! 💪🏼
+
+So let’s get POINTY! 📌 
+
+Look at how UK CRIME data can be represented as pins 
+
+#Mapsimise #geospatial #30DayMapChallenge #Points https://t.co/KnA6jaVVYL",en,2020-11-20 13:59:00,2,2,"[{'text': 'Mapsimise', 'indices': [174, 184]}, {'text': 'geospatial', 'indices': [185, 196]}, {'text': '30DayMapChallenge', 'indices': [197, 215]}, {'text': 'Points', 'indices': [216, 223]}]",1093125802076655617,Mapsimise,mapsimise,,346,709,http://pbs.twimg.com/media/EnRU5FuW4AQh0nr.png,https://t.co/KnA6jaVVYL
+225,1329786249834500097,"Day20: Population
+SDG Goal 8 Decent work and economic growth
+#30DayMapChallenge
+#SDGs
+Preserving the environment is key to support sustainable economic growth as the natural environment plays an important role in supporting economic activities.https://t.co/3apjQw8oyZ https://t.co/7QlkP5BGwX",en,2020-11-20 13:58:42,1,1,"[{'text': '30DayMapChallenge', 'indices': [61, 79]}, {'text': 'SDGs', 'indices': [80, 85]}]",187171010,I.K.D,IKEDA_02,"Brisbane, Queensland 🇦🇺🇯🇵",104,478,http://pbs.twimg.com/media/EnRZhbqUUAIafQz.jpg,https://t.co/3apjQw8oyZ
+227,1329783174327627782,"Entry into ""pile-everything-together-and-see-what-happens"".
+
+Stat Office 1km population grid recalculated to hex and then iso-arearised; calculated sites for 3rd cat plant+funghi species (from Env Agency) per 10 inhabitants in hex.
+
+#30DayMapChallenge Day 20, Population. https://t.co/YlHYec9WuW",en,2020-11-20 13:46:29,1,4,"[{'text': '30DayMapChallenge', 'indices': [233, 251]}]",2629383321,Tõnis Kärdi,tkardi,"Tartu, Estonia",214,238,http://pbs.twimg.com/media/EnRUc_7XYAEdkAl.jpg,https://t.co/YlHYec9WuW
+228,1329780930400186374,"Day 20. Population. The only population living in my garden are ticks and deer and they are hard to map. So I just tested how to visualize my tree ""population"" with different point visualization methods with #QGIS  #30dayMapChallenge. Never really use the point displacement tool https://t.co/VdKEKSpkkZ",en,2020-11-20 13:37:34,2,17,"[{'text': 'QGIS', 'indices': [208, 213]}, {'text': '30dayMapChallenge', 'indices': [215, 233]}]",3552542476,Sanna Jokela,SannaJokela1,"Turku, Suomi",534,407,http://pbs.twimg.com/media/EnRUeouXUAAZhOw.jpg,https://t.co/VdKEKSpkkZ
+229,1329779867605463040,"Day 20 of #30DayMapChallenge : Population 
+
+The Autódromo Hermanos Rodríguez circuit is built in Mexico City’s Magdalena Mixiuhca sports park using the existing internal roads. Mexico City is the fifth largest city in the world. https://t.co/RBEwOHP1KV",en,2020-11-20 13:33:21,1,1,"[{'text': '30DayMapChallenge', 'indices': [10, 28]}]",191797663,Tomo 🐽,tomodraco,"0,13",526,211,http://pbs.twimg.com/media/EnRTjD2XMAATf73.jpg,https://t.co/RBEwOHP1KV
+230,1329779025611419653,#30DayMapChallenge day 20 #population #dotdensity #animation #majorityminority https://t.co/zbjFfpb3AU https://t.co/rzn2MbR2JP,und,2020-11-20 13:30:00,2,13,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'population', 'indices': [26, 37]}, {'text': 'dotdensity', 'indices': [38, 49]}, {'text': 'animation', 'indices': [50, 60]}, {'text': 'majorityminority', 'indices': [61, 78]}]",746464149094416384,Ken Goulding,ken_goulding,,8,82,http://pbs.twimg.com/ext_tw_video_thumb/1329631354586353665/pu/img/y0tmXfO_WG8Djpwi.jpg,https://t.co/zbjFfpb3AU
+231,1329775834153050115,"What say you, should I finally break into my 2020 Shoe Census data for the #30DayMapChallenge? It was a full count, after all, and today is “population” day
+
+(like the @uscensusbureau, I have struggled to digest my census results during this unprecedented pandemic situation) https://t.co/IlaQlcWVgC",en,2020-11-20 13:17:19,1,19,"[{'text': '30DayMapChallenge', 'indices': [75, 93]}]",36932521,Rachel Franklin🦚,rsfrankl,Home,2008,1739,http://pbs.twimg.com/media/EnRQD-UXUAE_iQc.jpg,https://t.co/IlaQlcWVgC
+232,1329775527448731650,"#30DayMapChallenge Day 20: Population 
+
+Too busy with work today so no time to play around with Aerialod. Instead cheating a little and just reposting something I did earlier this year - also based around an @undertheraedar tutorial. Made in #qgis https://t.co/sjPwuV537b",en,2020-11-20 13:16:06,1,20,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'qgis', 'indices': [242, 247]}]",309734801,Sam J,samwise_v,"London, UK",153,501,http://pbs.twimg.com/tweet_video_thumb/EnRPuqwW8AAzYf7.jpg,https://t.co/sjPwuV537b
+234,1329773501859966976,"Mapping population on day 20 of @OrdnanceSurvey #30DayMapChallenge - this is one from 2018 of population density across Manchester, created for the Local Action Project. #mapping #peoplemaps #mapstars #datamaps https://t.co/q02VFOpBLJ",en,2020-11-20 13:08:03,1,2,"[{'text': '30DayMapChallenge', 'indices': [48, 66]}, {'text': 'mapping', 'indices': [170, 178]}, {'text': 'peoplemaps', 'indices': [179, 190]}, {'text': 'mapstars', 'indices': [191, 200]}, {'text': 'datamaps', 'indices': [201, 210]}]",454007980,Westcountry Rivers Trust,WestcountryRT,Cornwall.Devon.Dorset.Somerset,4575,3616,http://pbs.twimg.com/media/EnRN844W4AIPkhk.jpg,https://t.co/q02VFOpBLJ
+235,1329773027236712450,"#30DayMapChallenge day 20: Population.
+Population density gets increasingly more interesting with more detail. Here in 100 x 100 m squares, and 3D. https://t.co/lnOyV8DClM",en,2020-11-20 13:06:10,0,0,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",1143779197107806208,Jonas Nelson,JonasNelson19,Sweden,0,5,http://pbs.twimg.com/media/EnRNOJsXIAA_kAK.jpg,https://t.co/lnOyV8DClM
+236,1329771041472847872,"#30DayMapChallenge Day 20: Population
+
+#gis #Geography #GeographyTeacher #Cartography #Maps #Map #Mapping #Landsat #USGS #Bible #Archaeology #Science #Israel #Egyptology #RemoteSensing https://t.co/ucuZlRfSbt",en,2020-11-20 12:58:16,0,3,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'gis', 'indices': [39, 43]}, {'text': 'Geography', 'indices': [44, 54]}, {'text': 'GeographyTeacher', 'indices': [55, 72]}, {'text': 'Cartography', 'indices': [73, 85]}, {'text': 'Maps', 'indices': [86, 91]}, {'text': 'Map', 'indices': [92, 96]}, {'text': 'Mapping', 'indices': [97, 105]}, {'text': 'Landsat', 'indices': [106, 114]}, {'text': 'USGS', 'indices': [115, 120]}, {'text': 'Bible', 'indices': [121, 127]}, {'text': 'Archaeology', 'indices': [128, 140]}, {'text': 'Science', 'indices': [141, 149]}, {'text': 'Israel', 'indices': [150, 157]}, {'text': 'Egyptology', 'indices': [158, 169]}, {'text': 'RemoteSensing', 'indices': [170, 184]}]",1137139989744144390,MyPhysicalWorld,my_physical,,45,65,http://pbs.twimg.com/media/EnRLtfWXUAAt0rM.jpg,https://t.co/ucuZlRfSbt
+237,1329769911342731265,#30DayMapChallenge: Population of Unicode characters https://t.co/UDvKLTV294,fr,2020-11-20 12:53:47,2,6,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",1226081200214814721,me & maps,meandmaps,paris,242,1124,http://pbs.twimg.com/media/EnRKmbsXEAUr_He.jpg,https://t.co/UDvKLTV294
+239,1329764839363899392,"#30DayMapChallenge 20 Population
+
+The non-native grey squirrel has displaced the native red squirrel in much of the British Isles. Couldn't find any up-to-date information. Hope the efforts to reverse the decline of the native species will succeed
+
+See https://t.co/V7QsjIwIR8 https://t.co/ncrrG2sr7L",en,2020-11-20 12:33:38,1,4,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",1033206985,Phil Tarr (BBMC),BBMountClub,United Kingdom,264,322,http://pbs.twimg.com/media/EnRFkJXXMAIRWKf.jpg,https://t.co/V7QsjIwIR8
+240,1329764088193441792,"#30DayMapChallenge Day 20: Population
+England 2018 population by County from ONS
+(to compare with COVID-19 stats https://t.co/Y5MzjXQtVq) https://t.co/fCUJyb3zfR",en,2020-11-20 12:30:39,1,2,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",25663399,Andrew Zolnai,azolnai,"Cambridge, UK",707,991,http://pbs.twimg.com/media/EnRET5BXMAIXfHc.jpg,https://t.co/Y5MzjXQtVq)
+241,1329762245937680387,"Lets play 'guess the European city from its population grid'
+
+Starting with an easy one...
+
+#population #30DayMapChallenge #gis #map https://t.co/adnuL7Ntlp",en,2020-11-20 12:23:19,1,5,"[{'text': 'population', 'indices': [92, 103]}, {'text': '30DayMapChallenge', 'indices': [104, 122]}, {'text': 'gis', 'indices': [123, 127]}, {'text': 'map', 'indices': [128, 132]}]",314881866,Joe Davies,JoeWDavies,Cardiff / Madrid / Luxembourg,209,193,http://pbs.twimg.com/media/EnRCGMUW8AADI3H.png,https://t.co/adnuL7Ntlp
+242,1329761395001487363,"Day 20 - Population #30DayMapChallenge
+
+Jumping on the 'Population and Aerialod' bandwagon today with a look at the geographical distribution of Scotland's population
+
+Thanks @undertheraedar for the easy to follow tutorial! https://t.co/G1v8eivXVe",en,2020-11-20 12:19:56,17,62,"[{'text': '30DayMapChallenge', 'indices': [20, 38]}]",996835888813494272,Catherine Schroder,cj_maps,"Scotland, United Kingdom",59,72,http://pbs.twimg.com/media/EnRCk1cW8AAEetH.jpg,https://t.co/G1v8eivXVe
+243,1329760259636916227,Day 19 (NULL) Daily Tweets Statistics and Top Favourited/❤️ Maps. #30DayMapChallenge tweets dataset: https://t.co/qPaklnnzCe https://t.co/lYp9l9hVFC,en,2020-11-20 12:15:26,1,2,"[{'text': '30DayMapChallenge', 'indices': [66, 84]}]",528087151,Haifeng Niu,niu_haifeng,"Cambridge, England",37,403,http://pbs.twimg.com/media/EnRBlRjXYAEdnHV.png,https://t.co/qPaklnnzCe
+244,1329759107625136135,"#30DayMapChallenge - Day 20 - Population
+London population density by borough.
+Data: ONS and Wikipedia
+#Tableau and #Mapbox
+Interactive: https://t.co/8IObpPP2zI https://t.co/aTNnnDxhbP",en,2020-11-20 12:10:51,2,13,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'Tableau', 'indices': [103, 111]}, {'text': 'Mapbox', 'indices': [116, 123]}]",826131117417910272,Marc Reid,marcreid,"London, England",1670,1014,http://pbs.twimg.com/media/EnRA0FYWEAAZ38h.jpg,https://t.co/8IObpPP2zI
+245,1329754231692267521,"DAY20 #30DayMapChallenge 🙌 For today's theme 'Population', PhD Student Niall Newsham (@nnewsh_) has mapped a 'Typology of European Population Decline', from a working paper using #sequenceanalysis and @EU_Eurostat data.  More info at: https://t.co/BwmRGooL9p https://t.co/FW8pTQ46tQ",en,2020-11-20 11:51:29,5,14,"[{'text': '30DayMapChallenge', 'indices': [6, 24]}, {'text': 'sequenceanalysis', 'indices': [179, 196]}]",2280343142,GeoDataScience,geodatascience,Liverpool,3681,1743,http://pbs.twimg.com/media/EnQ8UjlXUAITKyp.jpg,https://t.co/BwmRGooL9p
+246,1329753957841989634,#30DayMapChallenge #Population https://t.co/Z4Esaw9nJN,und,2020-11-20 11:50:23,1,4,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'Population', 'indices': [19, 30]}]",782161298,Neil Harris 'UO web',Neil_py_harris,Newcastle-upon-Tyne,269,293,http://pbs.twimg.com/tweet_video_thumb/EnQ8IPcWEAAUQrU.jpg,https://t.co/Z4Esaw9nJN
+248,1329751366928113664,#FlashbackFriday for today's #30DayMapChallenge theme population. Heikki Vesanto won the @bcsweb OS Award with his entry Every Person in Scotland Mapped👇 https://t.co/uRZ9jAIdXa https://t.co/kOKh2e2W5c,en,2020-11-20 11:40:06,2,9,"[{'text': 'FlashbackFriday', 'indices': [0, 16]}, {'text': '30DayMapChallenge', 'indices': [29, 47]}]",22614266,Ordnance Survey,OrdnanceSurvey,"Southampton, UK",60603,3734,http://pbs.twimg.com/media/EnQ50kCXMAA99JS.jpg,https://t.co/uRZ9jAIdXa
+249,1329750968037216256,"#30DayMapChallenge - Day 20 - Population
+
+I am a big fan of the 16personalities website. Apart from hosting the great survey they publish country specific results. If you like this map, check https://t.co/BO6srJYBav for more.
+
+Created with R. https://t.co/gnJz3bLPVh",en,2020-11-20 11:38:31,2,7,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",733390000809730049,Richard Vogg,richard_vogg,Deutschland,84,161,http://pbs.twimg.com/media/EnQ4jEPXMAAw-5A.png,https://t.co/BO6srJYBav
+250,1329749725034254336,"#30DayMapChallenge
+Population for Day20. Households in #Shetland are pretty spread out in places but there is still a lot of space with no buildings. This map shows buildings in Shetland and gives an indication of where the population live. #NAFCResearch #ThinkUHI #GIS https://t.co/UpXuDczQok",en,2020-11-20 11:33:34,1,12,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'Shetland', 'indices': [55, 64]}, {'text': 'NAFCResearch', 'indices': [241, 254]}, {'text': 'ThinkUHI', 'indices': [255, 264]}, {'text': 'GIS', 'indices': [265, 269]}]",1106525318553182209,Richard Shelmerdine,RLShelmerdine,"Scotland, United Kingdom",78,119,http://pbs.twimg.com/media/EnQ4P0BWEAQuWVn.png,https://t.co/UpXuDczQok
+251,1329745224646742018,"The population of the UK's National Parks. 
+#30DayMapChallenge Day 20 - Population. Thanks to @undertheraedar's blog for the pointers! https://t.co/yrRrjJ6U7k",en,2020-11-20 11:15:41,62,313,"[{'text': '30DayMapChallenge', 'indices': [44, 62]}]",798523409286266880,Dan Harris,DiasporaDan,"Nethy Bridge, Scotland",982,1541,http://pbs.twimg.com/media/EnQzzKKW4AE3nKv.jpg,https://t.co/yrRrjJ6U7k
+252,1329744352235712513,"Unser heutiger Beitrag zur #30dayMapchallenge dreht sich um das Thema ""population"". 
+Der #Atlas der #Sterbefälle zeigt in wöchentlich aktualisierten Karten und Grafiken die Entwicklung der Sterbefälle und der alterstandardisierten Sterberaten: https://t.co/7wlBanKxsb https://t.co/lZLop3Fmo8",de,2020-11-20 11:12:13,1,6,"[{'text': '30dayMapchallenge', 'indices': [27, 45]}, {'text': 'Atlas', 'indices': [89, 95]}, {'text': 'Sterbefälle', 'indices': [100, 112]}]",2483418230,Statistik Austria,STATISTIK_AT,Wien,9113,47,http://pbs.twimg.com/ext_tw_video_thumb/1329744284065681413/pu/img/yPYnOfdMluOZNYTN.jpg,https://t.co/7wlBanKxsb
+253,1329743194104492032,"#Day20 of #30DayMapChallenge: Population.
+
+1 km² population grid of Southern Europe, using d3's scales and colour schemes. 
+
+The gif alternates between sequential scales using logarithmic and square-root transforms.
+
+Rendered in the browser using gridviz: https://t.co/Q7m3aoGv6G https://t.co/2XeFLpuUEZ",en,2020-11-20 11:07:37,2,8,"[{'text': 'Day20', 'indices': [0, 6]}, {'text': '30DayMapChallenge', 'indices': [10, 28]}]",314881866,Joe Davies,JoeWDavies,Cardiff / Madrid / Luxembourg,209,193,http://pbs.twimg.com/tweet_video_thumb/EnQu8x9XUAEAasQ.jpg,https://t.co/Q7m3aoGv6G
+254,1329740335736565764,"What share of country population in Europe are international migrants? #30DayMapChallenge
+
+Wealthy Switzerland (30%), Austria (20), and Sweden (20) have higher shares of int'l migrants than Poland, Bulgaria or Romania (all ~2%). Data by @UNDESA (2019), made with #QGIS https://t.co/LHvdORIs3z",en,2020-11-20 10:56:16,3,29,"[{'text': '30DayMapChallenge', 'indices': [71, 89]}, {'text': 'QGIS', 'indices': [263, 268]}]",963423777135759360,Ilya Ilyankou,ilyankou,🇬🇧,85,160,http://pbs.twimg.com/media/EnQsoLuWEAM85BQ.jpg,https://t.co/LHvdORIs3z
+255,1329739627851358210,Animating weekly #COVID19 case rates in Greater Manchester | &lt;/&gt; https://t.co/KJuk7tjZlu | #ggplot2 #sf #gganimate #rstats #30DayMapChallenge https://t.co/4O8Ja5G0Ew,en,2020-11-20 10:53:27,7,4,"[{'text': 'COVID19', 'indices': [17, 25]}, {'text': 'ggplot2', 'indices': [97, 105]}, {'text': 'sf', 'indices': [106, 109]}, {'text': 'gganimate', 'indices': [110, 120]}, {'text': 'rstats', 'indices': [121, 128]}, {'text': '30DayMapChallenge', 'indices': [129, 147]}]",361784881,Trafford Data Lab,traffordDataLab,"Trafford, Greater Manchester",2225,315,http://pbs.twimg.com/tweet_video_thumb/EnQvDc6W4AE3fqK.jpg,https://t.co/KJuk7tjZlu
+256,1329738325083758592,"20 - Population
+#30DayMapChallenge https://t.co/eQmAMIHgcq",en,2020-11-20 10:48:16,5,39,"[{'text': '30DayMapChallenge', 'indices': [16, 34]}]",2809999793,Owen Powell,owenjpowell,Leamington Spa,1858,287,http://pbs.twimg.com/media/EnQt5v1XEAEeiRy.jpg,https://t.co/eQmAMIHgcq
+257,1329736441421651968,"Happy International Men's Day
+#30DayMapChallenge #InternationalMensDay2020 #InternationalMensDay #vijaygupta #quoteoftheday #quotestoliveby https://t.co/P9btJmV6zq",en,2020-11-20 10:40:47,1,1,"[{'text': '30DayMapChallenge', 'indices': [30, 48]}, {'text': 'InternationalMensDay2020', 'indices': [49, 74]}, {'text': 'InternationalMensDay', 'indices': [75, 96]}, {'text': 'vijaygupta', 'indices': [97, 108]}, {'text': 'quoteoftheday', 'indices': [109, 123]}, {'text': 'quotestoliveby', 'indices': [124, 139]}]",781746933761277952,Vijay Gupta Official,vijayguptaoffic,Pune,35,85,http://pbs.twimg.com/media/EnQsPpKUwAIt792.jpg,https://t.co/P9btJmV6zq
+259,1329728940227719168,"#30DayMapChallenge
+
+20. Población. Ibiza y Formentera: 1 punto 1 persona. [Puntos aleatorios sobre polígonos de edificios]
+
+20. Population. Ibiza and Formentera: 1 point 1 person. [Random points inside building polygons] https://t.co/TfnBJJgqTU",ca,2020-11-20 10:10:59,5,6,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",769592708,Valentín Sastre,valen_ibiza,IBIZA / Barcelona,326,859,http://pbs.twimg.com/media/EnQlZlDWMAIcvcO.jpg,https://t.co/TfnBJJgqTU
+260,1329727874040008711,"a tribute to my home region @RegioneER and it multicultural society for #30DayMapChallenge, inspired by the amazing work of @karim_douieb 
+
+Non-EU Citizens in Emilia Romagna, 10 largest communities in 2020, 1 dot=1 person
+
+@RERBruxelles @ellyesse https://t.co/0vTFcokedb",en,2020-11-20 10:06:44,4,10,"[{'text': '30DayMapChallenge', 'indices': [72, 90]}]",1152647359559602177,Jacopo Fochi,jacopofochi,,62,623,http://pbs.twimg.com/tweet_video_thumb/EnQkVfMXYAElgOY.jpg,https://t.co/0vTFcokedb
+261,1329727752497471488,"#30DayMapChallenge Day 20. Pawpulation. A catographic exploration of cats per person with Rob, plus GDPR compliance checking from Blake.🐈‍⬛🐈 https://t.co/71EXIJMAEk",en,2020-11-20 10:06:15,4,12,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",88731801,Barry Rowlingson🐺,geospacedman,"Lancaster, UK",1676,475,http://pbs.twimg.com/media/EnQj9K5WMAA6Koh.png,https://t.co/71EXIJMAEk
+262,1329727357134004225,"Happy Friday! Today’s map looks at the UK population from the 2011 census, aggregated by a 1km grid. We chose layers that highlight the more populous areas of the UK. Looks good, doesn’t it?
+
+https://t.co/LEeXb2UIZo
+
+#30DayMapChallenge #Population
+Data supplied by @NERCscience https://t.co/U1rtAo6iVI",en,2020-11-20 10:04:41,3,8,"[{'text': '30DayMapChallenge', 'indices': [217, 235]}, {'text': 'Population', 'indices': [236, 247]}]",2756004123,Emu Analytics,emu_info,"London, England",1416,2055,http://pbs.twimg.com/media/EnQjIyrXIAAbSba.jpg,https://t.co/LEeXb2UIZo
+263,1329727109535834112,"#30DayMapChallenge I know 3D population density maps are everywhere at the moment. But I wanted to take you back almost 3 years to my first time using #Blender3d in anger on a production job.
+
+This map shows the great rural to urban migration in China
+#gistribe #dataviz https://t.co/WZCDxqqCeh",en,2020-11-20 10:03:42,32,116,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'Blender3d', 'indices': [151, 161]}, {'text': 'gistribe', 'indices': [252, 261]}, {'text': 'dataviz', 'indices': [262, 270]}]",40458914,Steven Bernard,sdbernard,London,7059,276,http://pbs.twimg.com/media/EnQjYK1WMAAiIru.jpg,https://t.co/WZCDxqqCeh
+264,1329727011653181440,"From: NEURATH, Otto, 1930, Gesellschaft und Wirtschaft. Bildstatistisches Elementarwerk. Between 1930 and 2020 the world population quadrupled, so the updated map would contain four times more elements. #30DayMapChallenge #Population https://t.co/T3kLDwrpGA",en,2020-11-20 10:03:19,1,0,"[{'text': '30DayMapChallenge', 'indices': [203, 221]}, {'text': 'Population', 'indices': [222, 233]}]",213282642,eric losang,elosang,Leipzig,15,62,http://pbs.twimg.com/media/EnQjnyyXUAA4S3a.jpg,https://t.co/T3kLDwrpGA
+265,1329726945173663746,"#30DayMapChallenge Dia 2
+
+Una de las razones por las que Etiopía es tan poco estable, y tienen siempre jaleos, guerras y conflictos.
+
+Porqué coordinar un país tan diverso es dificil.
+
+La ultima imagen es como estan divididas politicamente las regiones en la actualidad. https://t.co/4SAEJoDv7V",es,2020-11-20 10:03:03,1,9,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",739571508457185280,Patobola,ElXapla11,"Cataluña, España",469,1146,http://pbs.twimg.com/media/EnQjkPEWEAE1pgp.png,https://t.co/4SAEJoDv7V
+266,1329726815942942720,"#30DayMapChallenge - population
+Finally I tried Aerialod!
+Thanks for tutorial @undertheraedar https://t.co/LN6Oqv8sqI",en,2020-11-20 10:02:32,3,64,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",2902589494,Patrycja Krajczyńska,mapsbyp,Poland,1040,1177,http://pbs.twimg.com/media/EnQjfXGXYAEcCoM.jpg,https://t.co/LN6Oqv8sqI
+267,1329726281404002306,"#30DayMapChallenge 
+
+Day 20: Population
+
+The distribution of people across Ireland.
+
+Data from GHSL
+
+Visualised in #aerialod https://t.co/Biwzbt6dPU",en,2020-11-20 10:00:25,2,16,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'aerialod', 'indices': [115, 124]}]",2213909976,Colin Angus,VictimOfMaths,,5134,600,http://pbs.twimg.com/media/EnQi3wbXEAIRl4K.jpg,https://t.co/Biwzbt6dPU
+268,1329726183735431170,"Day 20- #30DayMapChallenge 
+Theme: Population, visualised using https://t.co/VeoY8RNC9j. Mapped 3D population density in Community Districts in New York, using https://t.co/c8pIXkFgxE data. https://t.co/7lVfeUbPxa",en,2020-11-20 10:00:01,2,6,"[{'text': '30DayMapChallenge', 'indices': [8, 26]}]",636238090,Simon Leech,simonmleech,,41,137,http://pbs.twimg.com/media/Emdj2jYWEAE6PhV.jpg,https://t.co/VeoY8RNC9j.
+269,1329721092236251137,"#30DayMapChallenge day 20 Population, Recursive binary subdividsion of Earth into 256 equal population sections of about 24 million people each. Did this back in 2015, using Python. Data from SEDAC gridded population 2000. https://t.co/vQhDDZtfqB",en,2020-11-20 09:39:48,10,60,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",363276700,Steven Kay,stevefaeembra,Edinburgh,856,334,http://pbs.twimg.com/media/EnQd-PMW4AIoZkN.jpg,https://t.co/vQhDDZtfqB
+270,1329720773876084736,#30DayMapChallenge Day 20: Population. Human population: missing and dead migrants of 2020 from @MissingMigrants #qgis2threejs map shows numbers and month; Stamen toner background shows numbers. #qgis @lcgeography https://t.co/8ZN41iiAAo,en,2020-11-20 09:38:32,2,11,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'qgis2threejs', 'indices': [113, 126]}, {'text': 'qgis', 'indices': [195, 200]}]",1074378707438055426,Blandford Bread,BlandfordBread,"South West, England",456,819,http://pbs.twimg.com/media/EnQdh_lXEAARVaS.jpg,https://t.co/8ZN41iiAAo
+271,1329719885069479941,"🌍💺🗼 Jour 20 du #30DayMapChallenge : population.
+
+Cartographie des bancs publics à Paris, réalisée en 2011 pour le mémoire de Stéphane Malek « Banc Public, un prisme d’interprétation de la composition de la rue parisienne » https://t.co/eAfdn5Hic0",fr,2020-11-20 09:35:00,10,70,"[{'text': '30DayMapChallenge', 'indices': [15, 33]}]",138790830,Jules Grandin,JulesGrandin,Paris,22458,1009,http://pbs.twimg.com/media/Em7m0Q0XcAEJky9.png,https://t.co/eAfdn5Hic0
+272,1329718766306004993,"Day 20 #30DayMapChallenge- Population
+Direction la côte ouest et les îles de l'Atlantique (visiblement, la mer me manque 🤔) https://t.co/CFkPl6UNqL",fr,2020-11-20 09:30:33,1,23,"[{'text': '30DayMapChallenge', 'indices': [7, 25]}]",1026155967480844291,Anne L.,AlandcoC,Versailles ,791,785,http://pbs.twimg.com/media/EnQcK7gXUAEnlfK.jpg,https://t.co/CFkPl6UNqL
+273,1329718443248119808,"#30DayMapChallenge 
+Day 20: Population
+
+Here are the intermediate maps showing how we used @WorldPopProject population data to generate estimates of births and pregnancies.
+
+https://t.co/vuY9mYnuKG https://t.co/3lNfvAXKZo",en,2020-11-20 09:29:16,2,9,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",1242400749864304640,William James,GeogWillJ,,52,141,http://pbs.twimg.com/media/EnQbQkEW4AEalSg.png,https://t.co/vuY9mYnuKG
+274,1329717741041967104,"#30DayMapChallenge Day 20: Population
+
+I don't have any population data, but here is the @CopernicusLand High spatial Resolution Layer (HRL) for Imperviousness (soil sealing) which must has some relationship to the amount of people! 😉
+
+https://t.co/GIQjM8FtQ3 https://t.co/b9Oby77TVZ",en,2020-11-20 09:26:29,2,3,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",145683389,Geoff Smith,DrGeoffSmith,"Cambridge, UK",855,477,http://pbs.twimg.com/media/EnQacTnXEAAm0AT.jpg,https://t.co/GIQjM8FtQ3
+275,1329716926831071239,"#30DayMapChallenge Day 20 | Population
+
+Yesterday i created an animated Map about the population density in the world. Today i discovered this nice challenge and wanted to share it with you. It's not your typical map and also not the best, but i hope you like it. 
+Tools: #python https://t.co/BNgPqJZZ3Z",en,2020-11-20 09:23:14,2,4,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'python', 'indices': [272, 279]}]",1233728310674366464,ChartBear,chartbearx,,22,45,http://pbs.twimg.com/ext_tw_video_thumb/1329716402744385536/pu/img/NoCB6avNAMZIh7LC.jpg,https://t.co/BNgPqJZZ3Z
+276,1329716256962981889,"#30DayMapChallenge day 20: population, Flanders, Belgium. Mountains-at-sunrise visualization based on population data.
+Who says that Flanders has no mountains? 
+Made with Qgis. https://t.co/kkKeMNXwxY",en,2020-11-20 09:20:35,0,2,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",919806358328958976,Vicky Verscheijden,gis3700,"Tongeren, België",81,140,http://pbs.twimg.com/media/EnQY-S3XYAUpMfn.jpg,https://t.co/kkKeMNXwxY
+278,1329715487308193792,"#30DayMapChallenge 
+
+Day 20 - Population
+
+@bcsweb https://t.co/D1LjOqVKwc",en,2020-11-20 09:17:31,2,5,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",238730325,David McCutcheon,DVDMaps,"Shrewsbury, England",201,196,http://pbs.twimg.com/media/EnQZGsHW4AEfFv7.jpg,https://t.co/D1LjOqVKwc
+279,1329713247965089792,"#30DayMapChallenge Day 20 | Population
+
+Take 2…Thought I’d include all the boroughs this time…A unit chart within a tile map of the London Ethnic population in 2050...also notable for me using an Arial font instead of Georgia for a change. https://t.co/l8JcCYfCRA",en,2020-11-20 09:08:37,3,16,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",2614024302,Rob Radburn,robradburn,"Leicester, UK",3186,749,http://pbs.twimg.com/media/EnQXJPTXEAAVuqc.jpg,https://t.co/l8JcCYfCRA
+280,1329709681871302657,"#30DayMapChallenge Day 20 | Population
+
+Where do people live in Italy? A map-to-map comparison between population and population density in the 80 Italian provinces.
+
+Data from @istat_it, map from #QGIS. https://t.co/xfTGlkNbyA",en,2020-11-20 08:54:27,1,7,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'QGIS', 'indices': [197, 202]}]",1669906789,Marco Minghini,MarcoMinghini,"Como, Italy",1062,683,http://pbs.twimg.com/media/EnQTq1EXcAEdMSj.jpg,https://t.co/xfTGlkNbyA
+281,1329707728311365634,"I'm not doing the #30DayMapChallenge but I've been working for a while on demographic data in Denmark with @carstenkessler. Here an animation of the population change since 2008. 
+Data from @DSTdk.
+Code: https://t.co/KAYscs4Uxa
+
+#rstats  #rspatial https://t.co/XTdBF4uuyc",en,2020-11-20 08:46:41,3,7,"[{'text': '30DayMapChallenge', 'indices': [18, 36]}, {'text': 'rstats', 'indices': [229, 236]}, {'text': 'rspatial', 'indices': [238, 247]}]",836653702182207492,Javier Elío,Elio_Javi,"Haugesund, NO | Copenhage, DK",182,320,http://pbs.twimg.com/tweet_video_thumb/EnQOiyXXEAA0_j0.jpg,https://t.co/KAYscs4Uxa
+282,1329706994836631554,#30DayMapChallenge day 20 #population in The Netherlands. Made in #R with tutorial by @maartenzam in @flowingdata https://t.co/JxWD8rwiJd https://t.co/lVkD6vGVyE,en,2020-11-20 08:43:46,1,7,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'population', 'indices': [26, 37]}, {'text': 'R', 'indices': [66, 68]}]",510774054,Marcel Dekker,marcel__dekker,Meppel,80,155,http://pbs.twimg.com/media/EnQRdlCXEAETtlU.jpg,https://t.co/JxWD8rwiJd
+283,1329706477536342016,"Day 20 #30DayMapChallenge
+movement within Berlin -""Binnenwanderung""
+
+Once in Berlin, people rather move from the center to the outskirts. Migration happens mostly from neighbouring districts.
+
+#rstats {leaflet} &amp; {shiny}
+
+Map: https://t.co/ZFQjmZtkA0
+Code: https://t.co/yQ1ETJZ3I2 https://t.co/KGgD5YgeO9",en,2020-11-20 08:41:43,7,34,"[{'text': '30DayMapChallenge', 'indices': [7, 25]}, {'text': 'rstats', 'indices': [193, 200]}]",3011804639,Alexandra Kapp,lxndrkp,"Berlin, Deutschland",649,494,http://pbs.twimg.com/media/EnQPdHwW4AAcxYM.jpg,https://t.co/ZFQjmZtkA0
+285,1329704515587682304,"#30DayMapChallenge  20: Population. Since 1960 the Black Rhino population decreased from 100000 to 5475 due to poaching. Data from https://t.co/CK9EwpPAqL map made in #QGIS. 
+#gis #maps #mapping #osgeo #blackrhino #africa #wildlife #savetheplanet #Rhino #30DayMapChallenge https://t.co/3KNLHB1z1r",en,2020-11-20 08:33:55,1,3,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'QGIS', 'indices': [167, 172]}, {'text': 'gis', 'indices': [175, 179]}, {'text': 'maps', 'indices': [180, 185]}, {'text': 'mapping', 'indices': [186, 194]}, {'text': 'osgeo', 'indices': [195, 201]}, {'text': 'blackrhino', 'indices': [202, 213]}, {'text': 'africa', 'indices': [214, 221]}, {'text': 'wildlife', 'indices': [222, 231]}, {'text': 'savetheplanet', 'indices': [232, 246]}, {'text': 'Rhino', 'indices': [247, 253]}, {'text': '30DayMapChallenge', 'indices': [254, 272]}]",1270037817750630404,Mariëlle Geers-Plasmans,geojuffie,Steenbergen,62,60,http://pbs.twimg.com/media/EnQO-dAXIAACo4v.jpg,https://t.co/CK9EwpPAqL
+286,1329704455563071495,"Day 20 of #30DayMapChallenge / Population
+
+Population of Czech republic in hybrid version of joy plot.
+
+Estimated population as of November 2020 is 10,708,981, which is 0.14 % of the total world population. https://t.co/yxPEW78MVP",en,2020-11-20 08:33:41,2,27,"[{'text': '30DayMapChallenge', 'indices': [10, 28]}]",3494716935,Eliška Vlčková,vlckel,Česká republika,174,149,http://pbs.twimg.com/media/EnQOfadWEAIZxRp.jpg,https://t.co/yxPEW78MVP
+287,1329703088039538688,"#30DayMapChallenge
+
+Day 19 : NULL 
+
+Population : 0 
+
+Near Verdun, in northeast France, 6 villages were totally destroyed by fightings during WWI. It was decided to keep their name administratively, either they are inhabited since, to preserve their memory. https://t.co/0w10UNBK73",en,2020-11-20 08:28:15,2,9,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",14848469,Dario Ingiusto,darioingiusto,"Paris, France",1945,4480,http://pbs.twimg.com/media/EnQN2owXYAEep1e.jpg,https://t.co/0w10UNBK73
+288,1329701060299157504,"20.Population of #Estonia as its flag colors - each color has approx. the same population 🇪🇪🇪🇪🇪🇪 I used administrative units to identify the iso-population areas. Simple but very cool idea from https://t.co/JYOXSNyrsU 
+#30DayMapChallenge https://t.co/MusbSK9jnO",en,2020-11-20 08:20:12,1,30,"[{'text': 'Estonia', 'indices': [17, 25]}, {'text': '30DayMapChallenge', 'indices': [219, 237]}]",47698876,Evelyn,evelynuuemaa,Estonia,478,294,http://pbs.twimg.com/media/EnQLV9cXYAAsLrL.jpg,https://t.co/JYOXSNyrsU
+289,1329701024303558658,"#30DayMapChallenge - Day 20 - Population
+
+A simple one. But... // Une carte toute simple. Mais... 
+
+See previous maps : https://t.co/M674z8OdHC https://t.co/ij7elUo8eL",en,2020-11-20 08:20:03,2,6,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",1201838008359620609,Les Savoirs Ambulants,SavoirsEnBulles,Rennes,339,91,http://pbs.twimg.com/media/EnQLsktXYAIQhnM.jpg,https://t.co/M674z8OdHC
+290,1329699462877487105,"Jour 20 du #30DayMapChallenge - Population
+
+Carte des populations animales qui ont disparu 
+#stinarto #lagéoçasedessine https://t.co/Zv8XL0EOi5",fr,2020-11-20 08:13:51,11,46,"[{'text': '30DayMapChallenge', 'indices': [11, 29]}, {'text': 'stinarto', 'indices': [92, 101]}, {'text': 'lagéoçasedessine', 'indices': [102, 119]}]",3195365733,Justine Vignat,Junevgt,Paris ,796,253,http://pbs.twimg.com/media/EnQKQJAXUAE0lIo.jpg,https://t.co/Zv8XL0EOi5
+291,1329698940460085248,"#30DayMapChallenge Day 20: Population map, where each person is shown as a random point in a residential building. We used 2011 census data to differentiate between ethnical Estonians and Russians. It is amazing how easily you can get interesting cartographic effects in #QGIS! https://t.co/2PkEpW6q7q",en,2020-11-20 08:11:46,2,24,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'QGIS', 'indices': [271, 276]}]",1322101266793857026,Mobility Lab of University of Tartu,UT_moblab,Tartu,77,53,http://pbs.twimg.com/media/EnQJ-q3W4AcnRa9.jpg,https://t.co/2PkEpW6q7q
+292,1329698407485747205,Day 20 (population):  7.7 billion people #30DayMapChallenge https://t.co/PDxp1iLuoJ,en,2020-11-20 08:09:39,16,51,"[{'text': '30DayMapChallenge', 'indices': [41, 59]}]",1035417413586694144,neocarto,neocartocnrs,Paris,1473,380,http://pbs.twimg.com/media/EnQJewXW8AIBc7K.png,https://t.co/PDxp1iLuoJ
+293,1329696229337358336,"#30DayMapChallenge Day 20: population
+
+#sneakpeek of forthcoming #thematicmapping book: 101 ways to map same data
+
+Only half the eligible population voted in the 2016 presidential election. These maps show where more people didn't vote than the two main candidates. Apathy won. https://t.co/rzCtYXACy2",en,2020-11-20 08:01:00,2,20,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'sneakpeek', 'indices': [39, 49]}, {'text': 'thematicmapping', 'indices': [65, 81]}]",20668314,Kenneth Field,kennethfield,"Redlands, CA & global",12423,104,http://pbs.twimg.com/media/EnJQQcLVoAAf9vy.jpg,https://t.co/rzCtYXACy2
+294,1329695666231275520,"so how #population density in Poland might look like visualised in Aerialod
+#30DayMapChallenge #day20
+
+not that perfect though I think🙃need to play more with this program
+
+tutorial: https://t.co/VUsC1xj6TV https://t.co/VdH6YpmKD0",en,2020-11-20 07:58:46,1,1,"[{'text': 'population', 'indices': [7, 18]}, {'text': '30DayMapChallenge', 'indices': [76, 94]}, {'text': 'day20', 'indices': [95, 101]}]",1311757794417283072,mjeż.wysoko,mjezwysoko,,2,10,http://pbs.twimg.com/media/EnQHCdbXYAI_6ux.png,https://t.co/VUsC1xj6TV
+295,1329694897255964673,"#30DayMapChallenge Day 20: Population
+One of our students finished in 2020 his bachelor thesis. Analysing  multispetral UAV images to automatic finding coniferous species in test areas. https://t.co/rgP0G4NzR7",en,2020-11-20 07:55:42,1,1,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",509794262,Lene Fischer,Lene_Fischer,Nødebo,1931,227,http://pbs.twimg.com/media/EnQFTBSXMAEKJuE.png,https://t.co/rgP0G4NzR7
+296,1329692102238855168,Day 20 #30DayMapChallenge Population #Cartogram of Estonian municipalities using the very practical #geoplot #python library by @ResidentMario #geopython #jupyter #notebook https://t.co/OuPehxLN5k https://t.co/n1rtiXniYZ,en,2020-11-20 07:44:36,3,18,"[{'text': '30DayMapChallenge', 'indices': [7, 25]}, {'text': 'Cartogram', 'indices': [37, 47]}, {'text': 'geoplot', 'indices': [100, 108]}, {'text': 'python', 'indices': [109, 116]}, {'text': 'geopython', 'indices': [143, 153]}, {'text': 'jupyter', 'indices': [154, 162]}, {'text': 'notebook', 'indices': [163, 172]}]",409168655,Alexander Kmoch,allixender,"Tartu, Eesti",257,213,http://pbs.twimg.com/media/EnQBk-VWEAIL2I0.png,https://t.co/OuPehxLN5k
+297,1329692038422523904,Day 20 of #30DayMapChallenge : Population. I used building types and floors to model population on a building level and then represent each individual person as a dot (random points in polygon) using @qgis &amp; @PostgreSQL + @postgis Code: https://t.co/JQ9mD4oD4z https://t.co/7qJal1cWAy,en,2020-11-20 07:44:21,2,16,"[{'text': '30DayMapChallenge', 'indices': [10, 28]}]",7541002,Sebastian Meier,seb_meier,,1278,141,http://pbs.twimg.com/media/EnQC7SEW8AAP8Cg.jpg,https://t.co/JQ9mD4oD4z
+298,1329689033056903173,Day 20: Population. There are various ...  #30DayMapChallenge https://t.co/SPsHtC5o1E,en,2020-11-20 07:32:24,4,19,"[{'text': '30DayMapChallenge', 'indices': [43, 61]}]",113729499,Anto Aasa,antoaasa,"Tartu, Eesti",90,67,http://pbs.twimg.com/media/EnQA-ufXUAMfs3i.png,https://t.co/SPsHtC5o1E
+299,1329688740646760454,"#30DayMapChallenge
+#Day20 Population 
+
+French metropolitan population spikes render
+
+The first presents all the population
+The second vizualises 200m side square with more than 100 people
+
+Data : INSEE
+
+#Aerialod #Gimp https://t.co/36ifnrB9dW",en,2020-11-20 07:31:14,3,21,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'Day20', 'indices': [19, 25]}, {'text': 'Aerialod', 'indices': [203, 212]}, {'text': 'Gimp', 'indices': [213, 218]}]",938055192221765634,Aurelien Chaumet,AurelienChaumet,Ile d'Oléron,535,1254,http://pbs.twimg.com/media/EnQA0t0XIAEjT1k.jpg,https://t.co/36ifnrB9dW
+300,1329687081606656002,"#30DayMapChallenge Day 20 
+🖼 #Población de osos en Finlandia ⌛️2010
+🎨Annukka Mäkijärvi
+🏛 https://t.co/V4kOiqMZC7
+El reto para hoy es un mapa de población. No especifica de qué tipo, así que elijo este de osos de Finlandia. Parece difícil cruzar a Rusia sin encontrarte con uno https://t.co/MEBOOhnUFD",ca,2020-11-20 07:24:39,6,34,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'Población', 'indices': [29, 39]}]",92787154,Esteban Escolano Molin,e2molin,"Madrid, Spain, Europe",461,1053,http://pbs.twimg.com/media/EnP975BW4AAPNwc.jpg,https://t.co/V4kOiqMZC7
+301,1329685831519514624,"#30DayMapChallenge Day 20: Population
+
+Women/Men ratio by Basque municipality. 
+
+Euskal Herriko udalerrien biztanleria, gehiengoa emakumezko (gorri) edo gizonezko (urdin) den begiratuta. Hirietan, emakumeak nagusi.
+
+Azpeitia da emakume/gizon kopuru bera duen herririk handiena. https://t.co/o2WapFwlZr",eu,2020-11-20 07:19:41,2,7,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",19770809,Galder Gonzalez🔻,theklaneh,Euskal Herria,9397,1195,http://pbs.twimg.com/media/EnP89J1XUAAtLRa.jpg,https://t.co/o2WapFwlZr
+302,1329684456794415110,"#30DayMapChallenge Day 20: #Population
+Extreme population mapping
+#perspective #PaleBlueDot #GIS https://t.co/d006lNtbqM",en,2020-11-20 07:14:13,1,6,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'Population', 'indices': [27, 38]}, {'text': 'perspective', 'indices': [66, 78]}, {'text': 'PaleBlueDot', 'indices': [79, 91]}, {'text': 'GIS', 'indices': [92, 96]}]",741266268,Floris Groesz,SirJanosFroglez,,27,81,http://pbs.twimg.com/media/EnP8043XUAAXMSD.jpg,https://t.co/d006lNtbqM
+303,1329683390262620160,"#30DayMapChallenge #Day20
+Distance topologique jusqu'aux bords, nb. de communes à survoler/enjamber pour rejoindre la mer, ou un autre pays.
+19 pour ce qui me concerne...
+Sur un modèle de @mbostock 
+https://t.co/K2bLQJQd4a https://t.co/7SUR0eFZVc",fr,2020-11-20 07:09:59,8,34,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'Day20', 'indices': [19, 25]}]",451440133,Éric Mauvière,ericMauviere,Toulouse,220,200,http://pbs.twimg.com/media/EnP7ttKWMAAoAri.png,https://t.co/K2bLQJQd4a
+304,1329682857808293889,"#30DayMapChallenge Day 20: Population. 
+Tree population density on the 10 ha #forestresearch plot of @naturwald_WSL in the primeval beech forest of Uholka based on a spatial smooth of the number of trees/ha. 
+Data from https://t.co/1K94RWTMze
+Made with #RStats #rspatial https://t.co/emVQlY5W14",en,2020-11-20 07:07:52,2,8,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'forestresearch', 'indices': [77, 92]}, {'text': 'RStats', 'indices': [253, 260]}, {'text': 'rspatial', 'indices': [261, 270]}]",993008496152064001,Jonas Stillhard,JonasStillhard,,112,248,http://pbs.twimg.com/media/EnP7KjKXMAAnLZa.png,https://t.co/1K94RWTMze
+305,1329680794139447296,"#30DayMapChallenge Day 20: Population. 
+The most isolated municipalities in Finland. When a circle with a radius of 20 km is drawn around each municipal center, these 22 circles don't intersect the others. https://t.co/wrlhYTSOVU",en,2020-11-20 06:59:40,1,6,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",3720386117,Teemu Saloriutta,TeemuSaloriutta,"Järvenpää, Suomi",473,581,http://pbs.twimg.com/media/EnP5AUSWMAAEo-t.jpg,https://t.co/wrlhYTSOVU
+306,1329680394552283138,"#30DayMapChallenge  20. Population
+
+Some socioprofessional categories with lines à la WEB du Bois
+
+Made with #QGIS https://t.co/psnswDbCnh",fr,2020-11-20 06:58:04,15,87,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'QGIS', 'indices': [109, 114]}]",892006500,Romain Lx,lacxrx,Vaucluse,683,257,http://pbs.twimg.com/media/EnP4SPoXEAAP3J4.jpg,https://t.co/psnswDbCnh
+307,1329678654989766657,"#30DayMapChallenge Day 20: Population
+Ho Chi Minh city (Saigon) is a large urban areas which grows dramatically for years
+My first attempt to use Blender for visualizing data
+Source: GHSL Population Count
+Access: Google Earth Engine
+Stylize:QGIS, Blender and Inkscape https://t.co/skSddMN7i8",en,2020-11-20 06:51:10,2,10,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",810141913248649216,Nguyễn Quang Huy,NguynQu59656951,,31,373,http://pbs.twimg.com/media/EnP24XpUYAII9O7.jpg,https://t.co/skSddMN7i8
+308,1329673831489867779,"Livestock population vs. human population in Finland. 
+
+#30DayMapChallenge day 20: population https://t.co/rw6R3YX5rs",en,2020-11-20 06:32:00,2,37,"[{'text': '30DayMapChallenge', 'indices': [56, 74]}]",2198358416,Topi Tjukanov,tjukanov,"Helsinki, Suomi",12057,2529,http://pbs.twimg.com/media/EnBo4V0W4AUj4fa.jpg,https://t.co/rw6R3YX5rs
+309,1329673329167331328,"#30DayMapChallenge 20. diena. Iedzīvotāji. Mājsaimniecības ietvaros to, mājsaimniecības ietvaros šo... Latvijā vidējā mājsaimniecība ir tikai 2,28 cilvēki. Teju visos novados tie ir mazliet vairāk nekā 2 vai nepilni 3. Baigās izklaides nesanāk. https://t.co/y06EjNRAzS",lv,2020-11-20 06:30:00,2,11,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",137107982,Zane,atdodkonfektes,,134,120,http://pbs.twimg.com/media/EnM7yQgW4AEsHy8.jpg,https://t.co/y06EjNRAzS
+310,1329663213584179200,"#30DayMapChallenge day 20, population. Recensement de la population de ma bibliothèque et métissages de titres (à l’origine un jeu initié par l’ami Buko pour passer le temps en période de confinement) https://t.co/Vp2HIRthKR",fr,2020-11-20 05:49:48,1,8,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",1189967197730430977,Julien Dupont Kobri,Kartokobri,,236,139,http://pbs.twimg.com/media/EnPplEgXMBUFORS.jpg,https://t.co/Vp2HIRthKR
+311,1329662442419478529,"Day 20 of #30DayMapChallenge - Population
+
+Just for fun I scrapped the major food stores in #Finland and mix it with the population.
+No one lives in white areas or is just water.
+Tool: R https://t.co/ZkCrmr3mpB",en,2020-11-20 05:46:44,1,7,"[{'text': '30DayMapChallenge', 'indices': [10, 28]}, {'text': 'Finland', 'indices': [92, 100]}]",950089955753250816,Jose Maria Echave Sanz,assesslife,Helsinki,195,392,http://pbs.twimg.com/media/EnPo02jXYAAjK0F.jpg,https://t.co/ZkCrmr3mpB
+312,1329661769585893378,"Day 19 of #30DayMapChallenge  Null representation
+Not happy with either one but showing my work. https://t.co/1SKq8KUTVG",en,2020-11-20 05:44:04,1,3,"[{'text': '30DayMapChallenge', 'indices': [10, 28]}]",1322740260422385665,Anat Zohar,AnatZohar4,,1,18,http://pbs.twimg.com/media/EnPoSEYVgAAOrac.jpg,https://t.co/1SKq8KUTVG
+313,1329661158295367686,"Day 20 of #30DayMapChallenge. Population.
+
+A ridgeline plot in the style of Joy Division's famous album cover, made in #ArcPro using guide by @kennethfield 
+
+Data from NZ Coronial Information matched at postcode level. https://t.co/PKZ6VJJseV",en,2020-11-20 05:41:38,1,8,"[{'text': '30DayMapChallenge', 'indices': [10, 28]}, {'text': 'ArcPro', 'indices': [119, 126]}]",29162437,Kerrin Sime,kjsime," NZ, most of the time.",66,126,http://pbs.twimg.com/media/EnPnxplUUAAOUzH.jpg,https://t.co/PKZ6VJJseV
+314,1329654511275749376,"#30DayMapChallenge: Day 20 (population). Rural-to-urban migration. More than half of the world already live in cities.
+Tool: #rstats / #rspatial https://t.co/XycjLJuWLK",en,2020-11-20 05:15:13,3,12,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'rstats', 'indices': [125, 132]}, {'text': 'rspatial', 'indices': [135, 144]}]",1237617707106873344,Benjamin Nowak,BjnNowak,"Clermont-Ferrand, France",402,501,http://pbs.twimg.com/tweet_video_thumb/EnPhfIRW8AQq2Zt.jpg,https://t.co/XycjLJuWLK
+315,1329652951510446080,"#30DayMapChallenge @tjukanov Day 20: Population
+#India comparison #2019 #2020 population of select places
+Data Source:@UN World Population Prospects 2019, Online Edition. Rev. 1 Coordinates 
+@simplemaps
+Map generated using #FME @SafeSoftware @googleearth
+Thank You @PixelSoftek https://t.co/GuViwKS6Uf",en,2020-11-20 05:09:02,1,7,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'India', 'indices': [48, 54]}, {'text': 'FME', 'indices': [223, 227]}]",105407287,SRG,Saint_GIS,"Chennai, India",133,86,http://pbs.twimg.com/media/EnPgR9NVgAACcaY.jpg,https://t.co/GuViwKS6Uf
+317,1329639982399676417,#30DayMapChallenge Day 19: NULL. Restaurants without phone numbers or websites on OpenStreetMap. https://t.co/FJ4Tr17JX3,en,2020-11-20 04:17:29,2,17,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",215404498,Ariel Kadouri,akadouri,,141,388,http://pbs.twimg.com/media/EnPUXELXIAAeHdg.jpg,https://t.co/FJ4Tr17JX3
+318,1329633640649781254,"#30DayMapChallenge 
+
+Not what I initially wanted to do for today but there's a pandemic so I'm trying to be kind to myself.
+
+Day 19, NULL: Major cases of potential jury nullification https://t.co/z5zG01wxXk",en,2020-11-20 03:52:17,1,5,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",579246246,Cas,cas_maps,,184,1044,http://pbs.twimg.com/media/EnPOqTOW4AEg6Lw.jpg,https://t.co/z5zG01wxXk
+319,1329630513536004097,"#30DayMapChallenge 19: NaN.
+When you have to frame all of your LiDAR shots to avoid the gaping hole where there's a corrupt tile, and it falls right in the middle of the downtown area. https://t.co/6AEWYRAjc8",en,2020-11-20 03:39:52,1,9,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",2339659308,Tyler Sloan,quorumetrix,"Montréal, Québec",458,707,http://pbs.twimg.com/media/EnNZahWUUAA1Hwb.jpg,https://t.co/6AEWYRAjc8
+320,1329630258484670466,"Areas without Train Stations: These are 30x30 km grid areas in India without a train station.
+
+#30DayMapChallenge Day 19: NULL
+Data: #openstreetmap Made: @Matplotlib #python #gis https://t.co/S3A9kyQfSi",en,2020-11-20 03:38:51,8,25,"[{'text': '30DayMapChallenge', 'indices': [95, 113]}, {'text': 'openstreetmap', 'indices': [133, 147]}, {'text': 'python', 'indices': [166, 173]}, {'text': 'gis', 'indices': [174, 178]}]",1234136874,Pratap Vardhan,PratapVardhan,"Princeton, NJ",860,146,http://pbs.twimg.com/media/EnPLMX_WEAAnr2-.jpg,https://t.co/S3A9kyQfSi
+321,1329627348535308288,"Day 20 : population 
+population density map for #SaudiArabia 
+the Data from https://t.co/AMZCBq5BvP  
+big thanks for @undertheraedar 
+#gis 
+#30DayMapChallenge https://t.co/hKwkOKiUcR",en,2020-11-20 03:27:17,5,25,"[{'text': 'SaudiArabia', 'indices': [48, 60]}, {'text': 'gis', 'indices': [134, 138]}, {'text': '30DayMapChallenge', 'indices': [140, 158]}]",398047935,FOD,F00o00d,"Riyadh, Kingdom of Saudi Arabia",363,714,http://pbs.twimg.com/media/EnPIvVKW4AAQ7Nf.jpg,https://t.co/AMZCBq5BvP
+322,1329626314223939585,"#30DayMapChallenge Day 19. Theme ""NULL"". New Zealand 2020 General Election polling sites at which (provisionally) there were NULL (zero) votes for particular parties at the polling site (A3 150ppi png) https://t.co/GNgt0olVP0",en,2020-11-20 03:23:11,2,3,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",2606576396,David Hood,Thoughtfulnz,New Zealand,1618,92,http://pbs.twimg.com/media/EnPIDxrVcAUUMKk.png,https://t.co/GNgt0olVP0
+323,1329623517051179010,"#30DayMapChallenge day 20 - population
+data https://t.co/WektIRXFCs
+#RStats #rspatial https://t.co/vMworXkIGB",tl,2020-11-20 03:12:04,3,8,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'RStats', 'indices': [68, 75]}, {'text': 'rspatial', 'indices': [76, 85]}]",1273667699374260224,Tatiana,balt_ti,"Санкт-Петербург, Россия",123,190,http://pbs.twimg.com/media/EnPFZ9eXIAAKmrO.jpg,https://t.co/WektIRXFCs
+324,1329620981065818112,"Day 19: null. Unincorporated areas in Australia (ie, LOCAL_GOVERNMENT IS NULL) #R #Leaflet https://t.co/HWn4in1CdH #30DayMapChallenge https://t.co/KRh98KdZeU",en,2020-11-20 03:01:59,1,2,"[{'text': 'R', 'indices': [79, 81]}, {'text': 'Leaflet', 'indices': [82, 90]}, {'text': '30DayMapChallenge', 'indices': [115, 133]}]",801318008912232449,Nick,nwbort,,7,262,http://pbs.twimg.com/media/EnPDNYKUUAAlKOY.jpg,https://t.co/HWn4in1CdH
+326,1329618011662278659,Day 19: NULL. Map number two. There's hope! Being in a #ldr during covid ain't fun. I haven't seen my partner @antoninmiklas in 317 days and I'm reading forums almost everyday about how to reunite. #LoveIsNotTourism  Thankful that #30daymapchallenge has kept me busy and sane. https://t.co/yWXAgHUdGg,en,2020-11-20 02:50:11,1,8,"[{'text': 'ldr', 'indices': [55, 59]}, {'text': 'LoveIsNotTourism', 'indices': [198, 215]}, {'text': '30daymapchallenge', 'indices': [231, 249]}]",28102639,Phoebe L.,pheebely,"Austin, TX",244,159,http://pbs.twimg.com/media/EnO_bLRXUAgbB1y.jpg,https://t.co/yWXAgHUdGg
+327,1329616589302468608,"Day 19: NULL. Woohoo, actually made two maps today before midnight. Here is map number one. If you don't want to be reached, you know where to moved to... #30DayMapChallenge #QGIS https://t.co/9fqqrl7V05",en,2020-11-20 02:44:32,1,4,"[{'text': '30DayMapChallenge', 'indices': [155, 173]}, {'text': 'QGIS', 'indices': [174, 179]}]",28102639,Phoebe L.,pheebely,"Austin, TX",244,159,http://pbs.twimg.com/media/EnO-tuoXcAI9oGo.jpg,https://t.co/9fqqrl7V05
+329,1329608652068507649,Day 20 - Population #30DayMapChallenge Population density map data sourced from HDEX. The least densely populated areas are in the boondocks where ancestral domain of Indigenous People are threatened by different state and non-state forces. ps color palette reminds of Zerg creep. https://t.co/xLxhKFQGc5,en,2020-11-20 02:13:00,2,4,"[{'text': '30DayMapChallenge', 'indices': [20, 38]}]",2599428001,Francis Gasgonia,seateazen,Philippines,78,308,http://pbs.twimg.com/media/EmiCeo7UYAAeMjj.jpg,https://t.co/xLxhKFQGc5
+330,1329605844594462726,"of course for null day of #30daymapchallenge it's another DC theme, as null basically means nonexistent, just like our voting representatives &amp; senators https://t.co/C1PAoOTWuu",en,2020-11-20 02:01:50,7,34,"[{'text': '30daymapchallenge', 'indices': [26, 44]}]",14913762,vicky johnson-dahl,hurricanevicky,"Washington, DC",994,858,http://pbs.twimg.com/media/EnO1A1zXYAMw7e0.jpg,https://t.co/C1PAoOTWuu
+331,1329599821599170561,"#30DayMapChallenge - Day 19 - NULL
+
+Noticed that the data for river Brahmaputra was missing when I posted the Day 2 map. Added that. 
+
+Created using #Python + #matplotlib https://t.co/8KD47Lru7N https://t.co/02MXAVng1Q",en,2020-11-20 01:37:54,2,7,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'Python', 'indices': [149, 156]}, {'text': 'matplotlib', 'indices': [159, 170]}]",867502710131752960,Vivek Parashar,vivekparasharr,,14,24,http://pbs.twimg.com/media/EnOv_PEW4AExDVX.jpg,https://t.co/8KD47Lru7N
+332,1329599592615317512,"#30DayMapChallenge 2020 Día 19 Nulos: Porcentaje de votos nulos por sección electoral en las elecciones para Presidente de México del 2 de julio de 2018, elaborado con datos del @INEMexico @IIEGJ  @tjukanov https://t.co/FAXbHVCYpd",es,2020-11-20 01:37:00,1,5,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",7630312,Yúum-K'aak-Náab,jdeltoro1973,Guadalajara México,537,1997,http://pbs.twimg.com/media/EnOvunYXcAAYUGb.jpg,https://t.co/FAXbHVCYpd
+334,1329596340859326464,#30DayMapChallenge https://t.co/Vl8oT1pb2T,und,2020-11-20 01:24:05,1,2,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",2617594364,rick debbout,raisingDingus,,12,126,http://pbs.twimg.com/media/EnOsvZ7VcAUerJj.jpg,https://t.co/Vl8oT1pb2T
+335,1329594777835278338,"Día 19: Null (Nulo - sin datos) #30DayMapChallenge 
+
+Cuando en un archivo KML no existe la imagen a georreferenciar, ella es representada con cuadro blanco con un ""X"" roja en el lugar donde debiese existir la imagen.
+
+https://t.co/dV1e3MlvP3 del @IFT_MX 
+
+#GoogleEarth #Python https://t.co/drH2BjnNPI",es,2020-11-20 01:17:52,2,2,"[{'text': '30DayMapChallenge', 'indices': [32, 50]}, {'text': 'GoogleEarth', 'indices': [256, 268]}, {'text': 'Python', 'indices': [269, 276]}]",72170599,Mario Hernández,armiok,Ecatepec de Morelos,561,147,http://pbs.twimg.com/ext_tw_video_thumb/1329594047963537410/pu/img/8lhw2KNFuHn68mhp.jpg,https://t.co/dV1e3MlvP3
+336,1329582732595195904,"#30DayMapChallenge
+Día 19. NULL. Aquí no vive nadie. https://t.co/5lqlBjAKyh",es,2020-11-20 00:30:00,6,15,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",2239825712,IIEG Jalisco,IIEGJ,"Calzada de los Pirules #71, Ciudad Granja, Zapopan, Jalisco",4769,0,http://pbs.twimg.com/media/EnN8cHgW4AIK9PO.jpg,https://t.co/5lqlBjAKyh
+337,1329575700630822915,"#30DayMapChallenge Day 19: NULL
+Surprising amount (4%) of zero wind speed readings in tall ships... https://t.co/Xp3PsWSHvy",en,2020-11-20 00:02:04,1,4,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",25663399,Andrew Zolnai,azolnai,"Cambridge, UK",707,991,http://pbs.twimg.com/media/EnOZYcIXYAALo-w.jpg,https://t.co/Xp3PsWSHvy
