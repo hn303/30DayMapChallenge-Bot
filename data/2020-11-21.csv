@@ -1,0 +1,807 @@
+,tweet_id,tweet_text,language,tweet_created_at,retweet,favorite,hashtags,user_id,user_name,user,user_loc,user_follower,friends_count,media,tweet_url
+163,1330299521742540803,"#30DayMapChallenge Day 21: Water
+
+A little late in the day, experienced a few data issues along the way, but finally got to do my @undertheraedar-style population map with this time with a #water theme https://t.co/5VBai3hDjx",en,2020-11-21 23:58:16,1,9,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'water', 'indices': [189, 195]}]",309734801,Sam J,samwise_v,"London, UK",155,501,http://pbs.twimg.com/media/EnYsICSXcAE1qPb.jpg,https://twitter.com/twitter/statuses/1330299521742540803
+165,1330294228564455424,"Day 20: population. Voronoi map of 'significant urban areas' for each point in Australia, showing how much denser the east coast is #R https://t.co/SuJjkPvjhZ #30DayMapChallenge https://t.co/CdNhqp4uUa",en,2020-11-21 23:37:14,1,2,"[{'text': 'R', 'indices': [132, 134]}, {'text': '30DayMapChallenge', 'indices': [159, 177]}]",801318008912232449,Nick,nwbort,,7,261,http://pbs.twimg.com/media/EnYncxDW4AA_prm.png,https://twitter.com/twitter/statuses/1330294228564455424
+166,1330291035130486784,"#30DayMapChallenge
+#Day_18
+#SimplifiedLandUse
+#ValencianCountry https://t.co/F6597786Mj",und,2020-11-21 23:24:33,1,4,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'Day_18', 'indices': [19, 26]}, {'text': 'SimplifiedLandUse', 'indices': [27, 45]}, {'text': 'ValencianCountry', 'indices': [46, 63]}]",605417877,Daniel Ibáñez Campos,dic1991,Barcelona,62,582,http://pbs.twimg.com/media/EnYkmkQXYAIe8Cc.jpg,https://twitter.com/twitter/statuses/1330291035130486784
+167,1330289711592640513,"OK, a morning update with #30DayMapChallenge Day 21 maps (total now 5262). @zentree leads with 22 maps. I've also updated some map countries (20%). NZ still leads - yes I'm biased in my focus but you can be biased in crowdsourcing too 😀
+QGIS &amp; R still lead the hashtag game https://t.co/32fcOZs9lA",en,2020-11-21 23:19:17,1,4,"[{'text': '30DayMapChallenge', 'indices': [26, 44]}]",33788841,suǝbbıɹɟ pıʌɐp,dakvid,"Wellington, New Zealand",382,453,http://pbs.twimg.com/media/EnYjFAEXUAAKued.png,https://twitter.com/twitter/statuses/1330289711592640513
+168,1330285310966632456,"Day 21- Water
+#30DayMapChallenge 
+Location- Hawaii, USA
+Data- The excellent @planningHIgov https://t.co/FUKtlOOLoB
+Tools- @ArcGISPro 
+Description- Hard to get a decent animation but here's the bodysurfing sites of Hawaii
+#GIS #gischat https://t.co/weUbt3XTrs",en,2020-11-21 23:01:48,6,17,"[{'text': '30DayMapChallenge', 'indices': [14, 32]}, {'text': 'GIS', 'indices': [221, 225]}, {'text': 'gischat', 'indices': [226, 234]}]",52190652,Oliver Burdekin,burdGIS,"Wakefield, England",1400,2953,http://pbs.twimg.com/ext_tw_video_thumb/1330285093865336833/pu/img/_AhhQZ4YrO5Vu9ZG.jpg,https://twitter.com/twitter/statuses/1330285310966632456
+169,1330283611988381698,"As the crow flies don't take #water into consideration, TRACC shows what the true #accessibility looks like...
+
+#30daymapchallenge #newyork #centralpark https://t.co/Er0yVnIcNt",en,2020-11-21 22:55:03,0,2,"[{'text': 'water', 'indices': [29, 35]}, {'text': 'accessibility', 'indices': [82, 96]}, {'text': '30daymapchallenge', 'indices': [112, 130]}, {'text': 'newyork', 'indices': [131, 139]}, {'text': 'centralpark', 'indices': [140, 152]}]",49592380,Basemap,basemap,"Guildford, Surrey",1685,1645,http://pbs.twimg.com/media/EnYd5R0WEAE1p5G.jpg,https://twitter.com/twitter/statuses/1330283611988381698
+170,1330282584455208966,"Day 22 of #30DayMapChallenge: Movement
+
+International Flights to and from New Zealand, 2018 (from the archives)
+Despite our isolation, New Zealand is well connected to the rest of the world through air travel - it will be interesting to see how Covid will change this pattern. https://t.co/Qkk3YR7QRS",en,2020-11-21 22:50:58,7,71,"[{'text': '30DayMapChallenge', 'indices': [10, 28]}]",93839237,Andrew DC,andrewdc_nz,"Christchurch City, New Zealand",608,167,http://pbs.twimg.com/media/EnYczVjXUAURlz_.jpg,https://twitter.com/twitter/statuses/1330282584455208966
+171,1330281432929988610,"Day 21 (Water) of #30DayMapChallenge 
+
+We cannot get over how aesthetically pleasing this is.
+
+San Juan River, Utah - USA
+Created by: @DOverview
+Imagery source: @Maxar
+Culled from: @thinkaboutmaps (Instagram)
+
+#NovemberMapChallenge 
+#River
+#Imagery
+#theGISgirl https://t.co/8NsvIhEujK",en,2020-11-21 22:46:23,1,2,"[{'text': '30DayMapChallenge', 'indices': [18, 36]}, {'text': 'NovemberMapChallenge', 'indices': [210, 231]}, {'text': 'River', 'indices': [233, 239]}, {'text': 'Imagery', 'indices': [240, 248]}, {'text': 'theGISgirl', 'indices': [249, 260]}]",1269335161335959552,the GIS girl,TheGISGirl,,52,117,http://pbs.twimg.com/media/EnYb6IJWEAMX9Xl.jpg,https://twitter.com/twitter/statuses/1330281432929988610
+172,1330281322657550336,"Going with simplicity once again for #30DayMapChallenge.  Focused on some new, subtle design techniques, instead of GIS work today. https://t.co/TojRy3rNOq",en,2020-11-21 22:45:57,1,7,"[{'text': '30DayMapChallenge', 'indices': [37, 55]}]",283952850,Nikolaj G,Nikolaj_gr,Copenhagen,72,302,http://pbs.twimg.com/media/EnYbwX5XYAA1Xv1.jpg,https://twitter.com/twitter/statuses/1330281322657550336
+173,1330280353672597505,"#30DayMapChallenge 
+
+Day 21: Water
+
+Every mapped lake of Greenland.
+
+Color is mapped to area in the second one.
+
+Data: ASIAQ https://t.co/P6TDZaE1pR",en,2020-11-21 22:42:06,1,4,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",45565875,Emil Malta ❄️,emilmalta,Nuuk,195,955,http://pbs.twimg.com/media/EnYaypYXYAMvoQw.jpg,https://twitter.com/twitter/statuses/1330280353672597505
+174,1330279654591246337,"#30DayMapChallenge - Day 21: Water
+
+Since today’s theme is Water, I decided to revisit my work from day 11 and digitise some more of @natlibscotmaps’ Bathymetrical Survey of Loch Ness.
+
+https://t.co/ghpIqelZUm https://t.co/e6JWKDsnFN https://t.co/qxoyOCfjrD",en,2020-11-21 22:39:19,1,1,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",12620762,Mike Coats,MikeCoatsDotCom,"Inverness, Scotland",301,1188,http://pbs.twimg.com/media/EnYaSxEW8AkaP62.jpg,https://twitter.com/twitter/statuses/1330279654591246337
+175,1330278753235308544,"#30DayMapChallenge Day 21
+🖼 Río Nilo⌛️s.IX
+🎨al Khwārizmī
+🏛 @BNUStrasbourg 
+Las #aguas del Nilo protagonizan este esquema cartográfico. Sin elementos típicos de un mapa como la escala, describe el río desde su origen en las 🏔 de la Luna hasta el Mediterráneo.División en climas https://t.co/nt6IufJijJ",es,2020-11-21 22:35:44,2,1,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'aguas', 'indices': [79, 85]}]",92787154,Esteban Escolano Molin,e2molin,"Madrid, Spain, Europe",465,1055,http://pbs.twimg.com/media/EnYZeR8XYAI14RB.jpg,https://twitter.com/twitter/statuses/1330278753235308544
+176,1330276426151555076,"Día 21: Agua #30DayMapChallenge 
+
+Cobertura de #television canal 27 si colocásemos el transmisor en el agua. En las direcciones hacia el mar la atenuación de la señal se debe a pérdidas por espacio libre. En dirección a las islas comienzan otros efectos por el terreno.
+
+#SPLAT https://t.co/Z8mHEwkwx1",es,2020-11-21 22:26:29,1,4,"[{'text': '30DayMapChallenge', 'indices': [13, 31]}, {'text': 'television', 'indices': [47, 58]}, {'text': 'SPLAT', 'indices': [271, 277]}]",72170599,Mario Hernández,armiok,Ecatepec de Morelos,560,147,http://pbs.twimg.com/media/EnYVcNhWEAA0bRi.jpg,https://twitter.com/twitter/statuses/1330276426151555076
+177,1330273874827751425,"#30DayMapChallenge Day 21: water
+
+Drinking fountains in Rome. Area in blue is within 100 meters of a drinking fountain.
+
+Data © OpenStreetMap contributors https://t.co/wSpJ84fzWG",en,2020-11-21 22:16:21,2,16,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",14707170,Unnecessarily sesquipedalian 🚡,MartinBangratz,Cologne/Aachen/Innsbruck,1161,1170,http://pbs.twimg.com/media/EnYTsVnWEAYQQ1u.jpg,https://twitter.com/twitter/statuses/1330273874827751425
+178,1330271869161836548,"Day 20 #30DayMapChallenge Population 
+
+🐪 Camels in Australia
+
+Yes, Aus has camels. 1M+ @ 40% land cover. Just roaming. So many camels my laptop almost blew up mapping them #rspatial  
+
+Made w/ #rstats + mapdeck + @Mapbox
+
+⬇️ + code
+https://t.co/Twvg3FNjDk https://t.co/2yRTHzg7Js",en,2020-11-21 22:08:23,5,10,"[{'text': '30DayMapChallenge', 'indices': [7, 25]}, {'text': 'rspatial', 'indices': [172, 181]}, {'text': 'rstats', 'indices': [193, 200]}]",2905624932,Matt Malishev,darwinanddavis,"Atlanta, GA",200,298,http://pbs.twimg.com/media/EnYTG7tW4AIe0gq.jpg,https://twitter.com/twitter/statuses/1330271869161836548
+180,1330266400145993728,"Day 21 of #30DayMapChallenge: Water.
+
+#Map of Inland waterbodies and waterways in the #Netherlands. 💧🌊🇳🇱
+
+Tools: #QGIS, #Illustrator.
+#water #gis #gischat https://t.co/obpvWrhjtC",en,2020-11-21 21:46:39,2,12,"[{'text': '30DayMapChallenge', 'indices': [10, 28]}, {'text': 'Map', 'indices': [38, 42]}, {'text': 'Netherlands', 'indices': [86, 98]}, {'text': 'QGIS', 'indices': [113, 118]}, {'text': 'Illustrator', 'indices': [120, 132]}, {'text': 'water', 'indices': [134, 140]}, {'text': 'gis', 'indices': [141, 145]}, {'text': 'gischat', 'indices': [146, 154]}]",1196527997613940736,Maria Ruehringer,MRuehringer,Netherlands,41,103,http://pbs.twimg.com/media/EnYOEibWMAAUIQJ.jpg,https://twitter.com/twitter/statuses/1330266400145993728
+181,1330265651081056260,"#30DayMapChallenge day 21 Water #2. Island of Rum, overlaid with SAGA wetness index. Blender, QGIS, SAGA https://t.co/5ViY5IxpEu",en,2020-11-21 21:43:41,4,29,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",363276700,Steven Kay,stevefaeembra,Edinburgh,861,335,http://pbs.twimg.com/ext_tw_video_thumb/1330265401704525824/pu/img/LQo4U87TcmPL8lg1.jpg,https://twitter.com/twitter/statuses/1330265651081056260
+182,1330264751583219717,"#30DayMapChallenge 21/30: Water. ""Berry Juice Islands"" (via @jenniejacobs) and their surrounding Paper Plate Sea, done in my ""Found Islands"" style. Thanks Jennie! More found islands here: https://t.co/wX5bXwFFP2 https://t.co/xCqKSPZ99J",en,2020-11-21 21:40:06,1,1,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",1224107513131327488,keirtography,keirtography,"Ventura, CA",62,200,http://pbs.twimg.com/media/EnYMiIXXIAQgiZv.jpg,https://twitter.com/twitter/statuses/1330264751583219717
+184,1330260277724672006,The Rivers and Lakes of the Island of Ireland. #30DayMapChallenge: Water. Day 21 #Ireland  may be green buts its also very blue! @opendatani @GovDataIE https://t.co/WcvjdsEH3s,en,2020-11-21 21:22:19,16,72,"[{'text': '30DayMapChallenge', 'indices': [47, 65]}, {'text': 'Ireland', 'indices': [81, 89]}]",3308382005,Conor Graham - Geography Jedi 🏞️🛰️⛰️🌋🌎🌏🌍,GeoConor,Northern Ireland,2389,5001,http://pbs.twimg.com/media/EnYH3EbXYAQvuCE.jpg,https://twitter.com/twitter/statuses/1330260277724672006
+186,1330256937238343685,"Here are 5 great maps from Day 21: Water 💦 (not just blue!) for #30DayMapChallenge - see our twitter thread for original authors and links
+
+#geoshare #GISchat #maps #water https://t.co/x8hYwgEdaI",en,2020-11-21 21:09:03,5,17,"[{'text': '30DayMapChallenge', 'indices': [64, 82]}, {'text': 'geoshare', 'indices': [140, 149]}, {'text': 'GISchat', 'indices': [150, 158]}, {'text': 'maps', 'indices': [159, 164]}, {'text': 'water', 'indices': [165, 171]}]",190644064,British Cartographic Society,bcsweb,UK,3407,270,http://pbs.twimg.com/media/EnYFoi-XYAMVz0J.jpg,https://twitter.com/twitter/statuses/1330256937238343685
+187,1330256688272830470,"#30DayMapChallenge, theme ""water"": some ocean centric projection maps, with coral reef distributions and human impact on oceans https://t.co/JwGlfYo4Sl Made with some help by @recifs https://t.co/LVv013LzLx, @qgis and #ai2html https://t.co/xAd2Cu7AFp",en,2020-11-21 21:08:04,6,51,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'ai2html', 'indices': [218, 226]}]",17242884,Maarten Lambrechts,maartenzam,,17605,1639,http://pbs.twimg.com/media/EnYDmnwXEAMggu1.jpg,https://twitter.com/twitter/statuses/1330256688272830470
+188,1330256411763290112,"#30DayMapChallenge 
+Day 21: Water
+
+Western part of Oum Er-Rabia River #Morocco
+
+#water #river #stream https://t.co/PszfIyztRI",en,2020-11-21 21:06:58,1,5,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'Morocco', 'indices': [70, 78]}, {'text': 'water', 'indices': [80, 86]}, {'text': 'river', 'indices': [87, 93]}, {'text': 'stream', 'indices': [94, 101]}]",1235881627684921344,EL JARMOUNI Mohamed,EljarmouniMed,"Casablanca, Grand Casablanca",128,501,http://pbs.twimg.com/media/EnYFJr8W8AIApWJ.jpg,https://twitter.com/twitter/statuses/1330256411763290112
+189,1330256376707346437,"#30DayMapChallenge Day 21 | Water
+
+I couldn't decide which map I liked more, so you get both. The first map shows the major rivers in the EU by catchment area (Source: EEA https://t.co/MWLFMLy4Ii). In the second map you can see the major rivers in Europe. #water 
+
+Tools: #python https://t.co/Ol2VXJCvOZ",en,2020-11-21 21:06:49,1,0,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'water', 'indices': [256, 262]}, {'text': 'python', 'indices': [272, 279]}]",1233728310674366464,ChartBear,chartbearx,,23,45,http://pbs.twimg.com/media/EnYESnrXEAACa83.jpg,https://twitter.com/twitter/statuses/1330256376707346437
+190,1330254309112606727,"#30DayMapChallenge, day 21 (water): #Belize's major watersheds (+ transboundary parts in 🇲🇽🇬🇹), all draining to the Belize Barrier Reef System - part of the larger #MesoamericanReef - and partial focus of the ongoing @NASA-funded #BZSDG project.
+https://t.co/rRLfA6ewny https://t.co/M3VMH2reFb",en,2020-11-21 20:58:36,1,6,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'Belize', 'indices': [36, 43]}, {'text': 'MesoamericanReef', 'indices': [164, 181]}, {'text': 'BZSDG', 'indices': [230, 236]}]",731808469301493760,🇧🇿 Belize GEO 🛰️,BZgeo,Belize,4302,3939,http://pbs.twimg.com/media/EnYCVdyXEAE-AVV.jpg,https://twitter.com/twitter/statuses/1330254309112606727
+191,1330253374537785345,"Beautiful and dangerous lower reaches of the river Pripyat, Ukraine
+#30DayMapChallenge Day 21: Water
+#QGIS, #GDAL, #OpenStreetMap, #Sentinel-2 https://t.co/NfJp3uWnv9",en,2020-11-21 20:54:54,4,37,"[{'text': '30DayMapChallenge', 'indices': [68, 86]}, {'text': 'QGIS', 'indices': [101, 106]}, {'text': 'GDAL', 'indices': [108, 113]}, {'text': 'OpenStreetMap', 'indices': [115, 129]}, {'text': 'Sentinel', 'indices': [131, 140]}]",14992557,gontsa,gontsa,"Cherkasy, Ukraine",4573,1418,http://pbs.twimg.com/media/EnYCQUdWEAo0V_W.jpg,https://twitter.com/twitter/statuses/1330253374537785345
+192,1330252551967694849,"#30DayMapChallenge 
+Day 21 - Water
+
+Hidalgo, México: Regiones hidrológicas prioritarias
+
+Data: CONABIO https://t.co/xGvxGjiohz",es,2020-11-21 20:51:37,2,2,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",894755514571046915,The White Rabbit Science,whiterabbit_sci,,32,78,http://pbs.twimg.com/media/EnYBpRzXcAMhXai.jpg,https://twitter.com/twitter/statuses/1330252551967694849
+193,1330251678889676801,"Day 21 of #30DayMapChallenge / Water
+
+Access to water.
+Higher values indicate areas where people have less access to safe drinking water, and consequently higher reputational risks to those not using water in an equitable way.
+
+Data from Aqueduct https://t.co/BHtePQv3qr",en,2020-11-21 20:48:09,2,7,"[{'text': '30DayMapChallenge', 'indices': [10, 28]}]",3494716935,Eliška Vlčková,vlckel,Česká republika,176,150,http://pbs.twimg.com/media/EnYAs_BXcAUw2eE.jpg,https://twitter.com/twitter/statuses/1330251678889676801
+194,1330250766284677123,"Day 22: movement
+
+NZGD2000 land deformation model following the 2010-2011 Christchurch earthquakes, Aotearoa/New Zealand.
+  
+@qgis + @LINZLDS (boundaries + building outlines + deformation model).. #30DayMapChallenge https://t.co/c4vnPfJJMa",en,2020-11-21 20:44:32,1,1,"[{'text': '30DayMapChallenge', 'indices': [197, 215]}]",12306,Luis Apiolaza 🧮🍃📷⏚,zentree,"Ōtautahi, Aotearoa",1306,280,http://pbs.twimg.com/media/EnX_-V6WMAIolQ0.jpg,https://twitter.com/twitter/statuses/1330250766284677123
+195,1330248611263885323,#30daymapchallenge day 21 - water. #Openstreetmap search with #rstats package osmplotr with key=natural and value=water for Saarland. #rspatial https://t.co/czg4TeexhC,en,2020-11-21 20:35:58,2,4,"[{'text': '30daymapchallenge', 'indices': [0, 18]}, {'text': 'Openstreetmap', 'indices': [35, 49]}, {'text': 'rstats', 'indices': [62, 69]}, {'text': 'rspatial', 'indices': [134, 143]}]",3331095159,Jan-Philipp Kolb,JanPhilippKolb,,102,340,http://pbs.twimg.com/media/EnX-DNFXMAYaBld.png,https://twitter.com/twitter/statuses/1330248611263885323
+196,1330246363087581185,"Sediment flow around Banks peninsula, New Zealand
+
+Steep streams deliver loess clay and volcanic mineral sediments into the ocean. Circular shape of the peninsula is a reminder of ancient volcanic activity that formed the land
+
+#30DayMapChallenge #Water #Sentinel2 #EarthArt https://t.co/bAuLtgyGr6",en,2020-11-21 20:27:02,14,45,"[{'text': '30DayMapChallenge', 'indices': [228, 246]}, {'text': 'Water', 'indices': [247, 253]}, {'text': 'Sentinel2', 'indices': [254, 264]}, {'text': 'EarthArt', 'indices': [265, 274]}]",87239058,Valt Ze,Valtzen,"Riga, Latvia",477,554,http://pbs.twimg.com/media/EnX33irWMAQSkXm.jpg,https://twitter.com/twitter/statuses/1330246363087581185
+197,1330246144954392582,"Day 21 : water 
+I had DEM for west of Riyadh and tried to do something on water day for this map challenge 😁
+#gis #Riyadh  #SaudiArabia 
+
+#30DayMapChallenge https://t.co/tK9bilGuNk",en,2020-11-21 20:26:10,2,7,"[{'text': 'gis', 'indices': [109, 113]}, {'text': 'Riyadh', 'indices': [114, 121]}, {'text': 'SaudiArabia', 'indices': [123, 135]}, {'text': '30DayMapChallenge', 'indices': [138, 156]}]",398047935,FOD,EngFod,Riyadh,365,717,http://pbs.twimg.com/media/EnX7yDwXMAE3GQC.jpg,https://twitter.com/twitter/statuses/1330246144954392582
+198,1330245814053195779,"Day 18- #30DayMapChallenge
+Theme: Land Use.
+
+Different land uses displayed across Amsterdam by filtering @openstreetmap data in @qgis . It was great to be able to explore different OpenStreetMap datasets and try out different projections while creating this map. https://t.co/BrxxTGMniJ",en,2020-11-21 20:24:51,1,0,"[{'text': '30DayMapChallenge', 'indices': [8, 26]}]",2149588681,Claire Powell,Pow__C,,88,297,http://pbs.twimg.com/media/EnX7hDOXMAE_Xbi.jpg,https://twitter.com/twitter/statuses/1330245814053195779
+199,1330245640530644997,"Day 18- #30DayMapChallenge
+Theme: Land Use.
+
+Different land uses displayed across Amsterdam by filtering @openstreetmap data in @qgis . It was great to be able to explore different OpenStreetMap datasets and try out different projections while creating this map. https://t.co/nxsQOyTZxP",en,2020-11-21 20:24:10,1,2,"[{'text': '30DayMapChallenge', 'indices': [8, 26]}]",2149588681,Claire Powell,Pow__C,,88,297,http://pbs.twimg.com/media/EnX7W84XMAE-3Qz.jpg,https://twitter.com/twitter/statuses/1330245640530644997
+200,1330245191962415112,#30daymapchallenge - day 20 a map of population of municipalities in the Netherlands. Made with tmap package. #rstata #rspatial https://t.co/jfRYa5MKEs,en,2020-11-21 20:22:23,3,1,"[{'text': '30daymapchallenge', 'indices': [0, 18]}, {'text': 'rstata', 'indices': [110, 117]}, {'text': 'rspatial', 'indices': [118, 127]}]",3331095159,Jan-Philipp Kolb,JanPhilippKolb,,102,340,http://pbs.twimg.com/media/EnX68NBW8AIuzEz.png,https://twitter.com/twitter/statuses/1330245191962415112
+201,1330244818493181956,"#30DayMapChallenge
+Day21: Water 
+
+Title: Streams as Terrain in #Kuwait 
+
+Software used: @qgis &amp; @Blender
+ 
+The data were from #SRTM
+
+The heights are proximity distance to streams
+
+#cartography #Geography https://t.co/BOJsK8KBtE",en,2020-11-21 20:20:54,2,14,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'Kuwait', 'indices': [63, 70]}, {'text': 'SRTM', 'indices': [130, 135]}, {'text': 'cartography', 'indices': [184, 196]}, {'text': 'Geography', 'indices': [197, 207]}]",908818700660236288,عبداللطيف الياقوت,geo_alyaqout,Kuwait (Ex Texan),224,199,http://pbs.twimg.com/media/EnX6lnDWEAI1XdH.jpg,https://twitter.com/twitter/statuses/1330244818493181956
+202,1330241154177265664,#30DayMapChallenge “Water”. I’ve fallen a bit under the weather so a slight rework of a previous creation. @ArcGISPro #Tahoe https://t.co/9Nj06TZw4E,en,2020-11-21 20:06:20,11,111,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'Tahoe', 'indices': [118, 124]}]",1491031412,J Peter Squared,JPeterPeters,"Westminster, CO",469,1043,http://pbs.twimg.com/media/EnX3RVdWEAAIEy6.jpg,https://twitter.com/twitter/statuses/1330241154177265664
+203,1330239565089501184,"#30DayMapChallenge
+Día 21. Agua. Los Humedales y sitios ramsar tienen la característica de ser sitios predominantemente cubiertos de agua y son uno de los ecosistemas más importantes por la cantidad de funciones ecológicas y por proveer de servicios ecosistémicos a los humanos. https://t.co/lfh3PZT5js",es,2020-11-21 20:00:01,2,5,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",2239825712,IIEG Jalisco,IIEGJ,"Calzada de los Pirules #71, Ciudad Granja, Zapopan, Jalisco",4769,0,http://pbs.twimg.com/media/EnTOt8SWEAMsBos.jpg,https://twitter.com/twitter/statuses/1330239565089501184
+205,1330237972353060872,"Day 17- #30DayMapChallenge
+Theme: Historical Map.
+
+All Battlefields in England from the latest release of the MAGIC Datasets (@HistoricEngland). Map created in @qgis . https://t.co/z70xzVKtin",en,2020-11-21 19:53:41,1,0,"[{'text': '30DayMapChallenge', 'indices': [8, 26]}]",2149588681,Claire Powell,Pow__C,,88,297,http://pbs.twimg.com/media/EnX0YqiXMAUJCK4.jpg,https://twitter.com/twitter/statuses/1330237972353060872
+206,1330237663673200644,"Day 17- #30DayMapChallenge
+Theme: Historical Map.
+
+All Battlefields in England from the latest release of the MAGIC Datasets (@HistoricEngland). Map created in @qgis . https://t.co/W9WVMiwTMP",en,2020-11-21 19:52:28,1,4,"[{'text': '30DayMapChallenge', 'indices': [8, 26]}]",2149588681,Claire Powell,Pow__C,,88,297,http://pbs.twimg.com/media/EnX0GuSWEAI12Tn.jpg,https://twitter.com/twitter/statuses/1330237663673200644
+207,1330236910401417225,"Day 21: Water
+#30DayMapChallenge https://t.co/kG8SX5oBAi",en,2020-11-21 19:49:28,1,4,"[{'text': '30DayMapChallenge', 'indices': [14, 32]}]",1233423602948694017,Nic,DrNicNacks,,10,32,http://pbs.twimg.com/media/EnXzY2zW8AcPwR_.jpg,https://twitter.com/twitter/statuses/1330236910401417225
+208,1330234094517690374,"#30DayMapChallenge 
+Here's another version of #water map, this time only showing wells with concentrations above Israel's Cl/NO3 drinking water standard(400/70 ppm). It will be interesting to see if green areas coincide with agricultural irrigation https://t.co/a9R8r1TQDl",en,2020-11-21 19:38:17,2,1,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'water', 'indices': [46, 52]}]",1000055398697709569,Eliav S-T,est987,Israel,320,1695,http://pbs.twimg.com/media/EnXwYXcXEAQRfkS.jpg,https://twitter.com/twitter/statuses/1330234094517690374
+209,1330233567901835264,"#30DayMapChallenge Day 21: Water... I was almost giving up, but I decide to show The Confluence of Rivers Benue and Niger in Nigeria. Created with #QGIS, SRTM data sourced from #USGS https://t.co/rA2ad4qEqG",en,2020-11-21 19:36:11,1,3,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'QGIS', 'indices': [147, 152]}, {'text': 'USGS', 'indices': [177, 182]}]",374459093,Jannah_A,zinnie__A,"Kaduna, Nigeria.",209,235,http://pbs.twimg.com/media/EnXwSXbWEAUtezz.jpg,https://twitter.com/twitter/statuses/1330233567901835264
+210,1330231816121364482,"Day 16- #30DayMapChallenge
+Theme: Island(s).
+
+Here US Traffic Circles, similar to UK Roundabout Islands, are mapped across the City of Seattle, Washington State. The City of Seattle has a great array of open source data available. https://t.co/zj1DLQx2Va",en,2020-11-21 19:29:14,1,0,"[{'text': '30DayMapChallenge', 'indices': [8, 26]}]",2149588681,Claire Powell,Pow__C,,88,297,http://pbs.twimg.com/media/EnXuyUnXcAEmtqa.jpg,https://twitter.com/twitter/statuses/1330231816121364482
+211,1330231684747440129,"Day 16- #30DayMapChallenge
+Theme: Island(s).
+
+Here US Traffic Circles, similar to UK Roundabout Islands, are mapped across the City of Seattle, Washington State. The City of Seattle has a great array of open source data available. https://t.co/mkXMmGlM7A",en,2020-11-21 19:28:42,1,1,"[{'text': '30DayMapChallenge', 'indices': [8, 26]}]",2149588681,Claire Powell,Pow__C,,88,297,http://pbs.twimg.com/media/EnXuqlMXUAI24VV.jpg,https://twitter.com/twitter/statuses/1330231684747440129
+212,1330230356600033281,"Day 21 of the #30DayMapChallenge - Water. 
+
+Locations of Known Shipwrecks in the Area of Boston Harbor. 
+
+I've included depths - there are likely even more out there, they're just harder to spot the deeper it gets. https://t.co/OxpypPbh6h",en,2020-11-21 19:23:26,1,1,"[{'text': '30DayMapChallenge', 'indices': [14, 32]}]",25813395,Paul I 🇺🇸🇩🇪,pivanputs,Southeastern MA,142,407,http://pbs.twimg.com/media/EnXtW2jW8AU71Rl.png,https://twitter.com/twitter/statuses/1330230356600033281
+213,1330229963677724672,"Day 15- #30DayMapChallenge
+Theme: Connections.
+
+Back to the challenge, here US Census Bureau data was used to display all bridges that exist in Nevada State, USA. Great to explore some new datasets. https://t.co/Vqe7Q6zg5F",en,2020-11-21 19:21:52,1,0,"[{'text': '30DayMapChallenge', 'indices': [8, 26]}]",2149588681,Claire Powell,Pow__C,,88,297,http://pbs.twimg.com/media/EnXtGexXcAU47rk.jpg,https://twitter.com/twitter/statuses/1330229963677724672
+214,1330229930009964544,"Jour 21 du #30DayMapChallenge - Water 
+Surpêche dans les eaux africaines 😡 https://t.co/Jwfu30pHOc",fr,2020-11-21 19:21:44,25,49,"[{'text': '30DayMapChallenge', 'indices': [11, 29]}]",252009888,Agnès Stienne,odilon72,Le Mans,791,489,http://pbs.twimg.com/media/EnXtBZVXIAIMOpZ.jpg,https://twitter.com/twitter/statuses/1330229930009964544
+215,1330229822463889411,"Day 15- #30DayMapChallenge
+Theme: Connections.
+
+Back to the challenge, here US Census Bureau data was used to display all bridges that exist in Nevada State, USA. Great to explore some new datasets. https://t.co/FTsEZRTh7b",en,2020-11-21 19:21:18,1,1,"[{'text': '30DayMapChallenge', 'indices': [8, 26]}]",2149588681,Claire Powell,Pow__C,,88,297,http://pbs.twimg.com/media/EnXs-PnXEAIcSSV.jpg,https://twitter.com/twitter/statuses/1330229822463889411
+216,1330229740792328195,"#30DayMapChallenge Day 21... Water
+
+Lena Delta... 
+
+Data: Arctic DEM https://t.co/cNlb7JcoGv
+Made in: Qgis https://t.co/pUgiTdUCd2",pt,2020-11-21 19:20:59,5,37,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",1200892211996635139,Danae Kontou,DanaeKontou,,31,98,http://pbs.twimg.com/media/EnXsSg2XcAcRzlf.jpg,https://twitter.com/twitter/statuses/1330229740792328195
+217,1330228351823458307,"#30DayMapChallenge Day 20... Population
+
+The Cree (Nehiyawak in the Cree language) are the most populous and widely distributed Indigenous peoples in Canada.
+
+Data: https://t.co/K1k8KaoWAW, https://t.co/W5RLT9b0Oq, https://t.co/RHqscxps7x
+Text and brainstorming: Giuseppe Amatulli https://t.co/cImFJYLThT",en,2020-11-21 19:15:28,1,1,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",1200892211996635139,Danae Kontou,DanaeKontou,,31,98,http://pbs.twimg.com/media/EnXqhpsW4AQww1b.jpg,https://twitter.com/twitter/statuses/1330228351823458307
+218,1330227320997761027,"#30DayMapChallenge Day 21 - Water
+
+Surface runoff on the streets of Brussels city center https://t.co/KCv0YYFukr",en,2020-11-21 19:11:22,6,27,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",1152647359559602177,Jacopo Fochi,jacopofochi,,66,624,http://pbs.twimg.com/media/EnXlD1IXMAEitMH.jpg,https://twitter.com/twitter/statuses/1330227320997761027
+219,1330225097639161867,"#Day21 of the #30DayMapChallenge: water.
+
+Map showing the rivers (in blue) and water bodies (in yellow) of Wales.
+
+Data: @openstreetmap 
+Made with https://t.co/Ql1DW48ReJ https://t.co/sVxpdIISlc",en,2020-11-21 19:02:32,1,5,"[{'text': 'Day21', 'indices': [0, 6]}, {'text': '30DayMapChallenge', 'indices': [14, 32]}]",314881866,Joe Davies,JoeWDavies,Cardiff / Madrid / Luxembourg,231,195,http://pbs.twimg.com/media/EnXoOK0XYAAzWxq.jpg,https://twitter.com/twitter/statuses/1330225097639161867
+220,1330224540526522368,"#30DayMapChallenge No. 21: Water. Usually altitudes are stated ""above sea level"". But to which sea are they referring? Throughout Europe, that differs. And if you have a look on the map, historic boundaries can be recognized... https://t.co/pUsl72T6uA",en,2020-11-21 19:00:19,1,6,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",281177027,Isaak,fleischkas,Wien,149,995,http://pbs.twimg.com/media/EnXoJ52XUAI7wgA.jpg,https://twitter.com/twitter/statuses/1330224540526522368
+221,1330224465700139013,"River Tyne catchment
+#30DayMapChallenge #day21 #water https://t.co/1KvoivpmXi",en,2020-11-21 19:00:01,1,6,"[{'text': '30DayMapChallenge', 'indices': [21, 39]}, {'text': 'day21', 'indices': [40, 46]}, {'text': 'water', 'indices': [47, 53]}]",318026127,Craig Robson,CaRobson,Newcastle,184,202,http://pbs.twimg.com/media/EnXn948WMAISWCF.png,https://twitter.com/twitter/statuses/1330224465700139013
+222,1330221491426824192,"#30DayMapChallenge 
+Day 20: Population
+
+The spatial distribution of population in #Morocco
+
+#Population #Geography https://t.co/WlOMgVTr50",en,2020-11-21 18:48:12,1,3,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'Morocco', 'indices': [82, 90]}, {'text': 'Population', 'indices': [92, 103]}, {'text': 'Geography', 'indices': [104, 114]}]",1235881627684921344,EL JARMOUNI Mohamed,EljarmouniMed,"Casablanca, Grand Casablanca",128,501,http://pbs.twimg.com/media/EnXlZS5XYAE-f9Y.jpg,https://twitter.com/twitter/statuses/1330221491426824192
+223,1330221212161683461,Badenoch - The Drowned Land. Here's a GIF of how it becomes 'drowned' according to a SEPA's 200-year river flood data. My entry to day 21 of the #30DayMapChallenge. Made in Adobe Premier Pro and ArcGIS Pro using styles courtesy of @John_M_Nelson https://t.co/bZrtVrDaUz,en,2020-11-21 18:47:05,2,9,"[{'text': '30DayMapChallenge', 'indices': [145, 163]}]",798523409286266880,Dan Harris,DiasporaDan,"Nethy Bridge, Scotland",988,1547,http://pbs.twimg.com/tweet_video_thumb/EnXkBHtXEAQuZFr.jpg,https://twitter.com/twitter/statuses/1330221212161683461
+225,1330218900164927497,"#30DayMapChallenge
+
+21 - Agua. Cuenca hidrográfica del Ebro.
+
+21 - Water. Ebro River basin. https://t.co/kqWOTsctX4",es,2020-11-21 18:37:54,3,8,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",769592708,Valentín Sastre,valen_ibiza,IBIZA / Barcelona,328,859,http://pbs.twimg.com/media/EnXjA2SXcAUGBz7.jpg,https://twitter.com/twitter/statuses/1330218900164927497
+226,1330218878270574593,"Come on in, the water's warm! Water is today's #30DayMapChallenge theme, and is also one of the four elements. Air, fire, earth, and water are a common decorative motif on 17th c. maps. So are map monsters, like these two water-dwelling creatures! Map @ https://t.co/7kmahcXOxS https://t.co/IYFmlFfb69",en,2020-11-21 18:37:49,1,5,"[{'text': '30DayMapChallenge', 'indices': [47, 65]}]",65125461,Leventhal Map & Education Center at the BPL,bplmaps,"Copley Square, Boston, MA",4996,677,http://pbs.twimg.com/media/EnXi5kmXEAMQClj.jpg,https://twitter.com/twitter/statuses/1330218878270574593
+227,1330216625023365121,"Today (Day 21) I'm looking at the difference in the billed and collected water taxes by admin ward in #Bangalore over a 4 year period. Data from https://t.co/QTPm2NX3V0
+#30DayMapChallenge #Bengaluru #bloremapped #maps #rspatial https://t.co/8JRWiLQzie",en,2020-11-21 18:28:52,2,4,"[{'text': 'Bangalore', 'indices': [102, 112]}, {'text': '30DayMapChallenge', 'indices': [169, 187]}, {'text': 'Bengaluru', 'indices': [188, 198]}, {'text': 'bloremapped', 'indices': [199, 211]}, {'text': 'maps', 'indices': [212, 217]}, {'text': 'rspatial', 'indices': [218, 227]}]",1222519447165886465,Anirudh,_anirudhgovind,India,151,1630,http://pbs.twimg.com/media/EnXg6jdXIAEp33v.png,https://twitter.com/twitter/statuses/1330216625023365121
+228,1330214066120437761,"Jour 21, WATER #30DayMapChallenge
+Toponymes aqueux basés sur les affluents rhodaniens.
+Inspiré par la cartographie d'@Armire sur sa chaîne yt https://t.co/cavTNPHUls",fr,2020-11-21 18:18:42,1,2,"[{'text': '30DayMapChallenge', 'indices': [15, 33]}]",4026779141,Rem,Remykiwi78,Dans le Dauphiné,24,62,http://pbs.twimg.com/media/EnXd0xJXIAQNMf3.jpg,https://twitter.com/twitter/statuses/1330214066120437761
+229,1330212546012393474,"#30DayMapChallenge Day 21: Water
+
+Here's recent flood that affected island of Crete.
+Get the latest flood info with Kontur Event Feed.
+
+https://t.co/my2bILJjO6 https://t.co/bhwvah2bFE",en,2020-11-21 18:12:39,1,4,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",1024584556110852096,Kontur,KonturInc,"1305 N. Holopono Street, Suite 2
+Kihei HI 96753 
+USA",225,288,http://pbs.twimg.com/media/EnXdQfKWEAMRQyP.jpg,https://twitter.com/twitter/statuses/1330212546012393474
+230,1330212246849548293,"At the 2/3 mark of #30DayMapChallenge we've passed 5,000 maps! 🏆 At least 79 people have somehow made 20 maps 🤯
+https://t.co/P8S7r6yMQf
+Thanks to crowdsourcing we have countries for 63% of people - almost enough to make a map! But only 13% of maps https://t.co/koOZ4KIuqW",en,2020-11-21 18:11:28,8,24,"[{'text': '30DayMapChallenge', 'indices': [19, 37]}]",33788841,suǝbbıɹɟ pıʌɐp,dakvid,"Wellington, New Zealand",382,453,http://pbs.twimg.com/media/EnWQkyDXMAkvRjb.jpg,https://twitter.com/twitter/statuses/1330212246849548293
+231,1330211159484608512,"Have been struggling a lot with today's map, but here it is! The 6 300 000 km² Amazon Basin.
+
+#30DayMapChallenge day 21: Water
+
+#dataviz #maps https://t.co/Sgz74GKekB",en,2020-11-21 18:07:09,1,9,"[{'text': '30DayMapChallenge', 'indices': [94, 112]}, {'text': 'dataviz', 'indices': [128, 136]}, {'text': 'maps', 'indices': [137, 142]}]",1413024271,Koen Van den Eeckhout,Koen_VdE,"Gent, België",2149,1492,http://pbs.twimg.com/media/EnXbqdvWEAECyR8.jpg,https://twitter.com/twitter/statuses/1330211159484608512
+232,1330209746280976384,"Day 21: Water #30dayMapChallenge
+The #Brahmaputra river is notorious in #Assam floodplains. The animation shows how the river changes its seasonal extent over the years.
+Data: https://t.co/AHA62h8xin
+#rspatial #rgeomatic #r4ds #RStats #earthengine #cartography #floods https://t.co/uLcgim3ZIW",en,2020-11-21 18:01:32,4,10,"[{'text': '30dayMapChallenge', 'indices': [14, 32]}, {'text': 'Brahmaputra', 'indices': [37, 49]}, {'text': 'Assam', 'indices': [72, 78]}, {'text': 'rspatial', 'indices': [200, 209]}, {'text': 'rgeomatic', 'indices': [210, 220]}, {'text': 'r4ds', 'indices': [221, 226]}, {'text': 'RStats', 'indices': [227, 234]}, {'text': 'earthengine', 'indices': [235, 247]}, {'text': 'cartography', 'indices': [248, 260]}, {'text': 'floods', 'indices': [261, 268]}]",28133471,Nilanjan Chatterjee,footloose_nil,"Dehradun, India",270,264,http://pbs.twimg.com/tweet_video_thumb/EnXZUDZXIAALrgV.jpg,https://twitter.com/twitter/statuses/1330209746280976384
+233,1330209365048102912,"#30DayMapChallenge Day 21: Water
+
+For some reason, you can give ratings to natural features on Google Maps. So here's how reviewers scored some lakes and rivers. https://t.co/uBYltf5ULH",en,2020-11-21 18:00:01,9,64,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",243497005,Daniel P. Huffman,pinakographos,"Madison, WI",7944,90,http://pbs.twimg.com/media/EnSLMYlXYAI-nD9.jpg,https://twitter.com/twitter/statuses/1330209365048102912
+234,1330208113329377282,"#30daymapchallenge Day 21 Water 
+
+The Los Angeles Sewer System https://t.co/EjZOWMmSl0",en,2020-11-21 17:55:02,3,15,"[{'text': '30daymapchallenge', 'indices': [0, 18]}]",910889225448439808,Dennis Kao,professorkao,,123,243,http://pbs.twimg.com/tweet_video_thumb/EnXZKFeXMAENdWe.jpg,https://twitter.com/twitter/statuses/1330208113329377282
+235,1330207133560950784,Network of waterways in UK #30daymapchallenge Day 21: water #GIS https://t.co/ufnVs8Q8wx,en,2020-11-21 17:51:09,2,4,"[{'text': '30daymapchallenge', 'indices': [27, 45]}, {'text': 'GIS', 'indices': [60, 64]}]",895799822,Hannah Alred,HannahAlred,Suffolk,37,348,http://pbs.twimg.com/media/EnXYVeRXUAM0AXV.jpg,https://twitter.com/twitter/statuses/1330207133560950784
+236,1330207053764243458,Day 21 of the #30DayMapChallenge (Water)... Here's a 3D model based on LiDAR data of PNC Park with the Allegheny River visible. https://t.co/xfkTM87c5R,en,2020-11-21 17:50:50,3,24,"[{'text': '30DayMapChallenge', 'indices': [14, 32]}]",14344140,Daren Willman,darenw,"Houston, TX",80312,759,http://pbs.twimg.com/media/EnXYJ4HXMAAvDPC.jpg,https://twitter.com/twitter/statuses/1330207053764243458
+237,1330206643813044233,"Day 21 (we can do this!) - Water 🐳 Top-down, bottom-up bathymetry maps of the world
+
+#30DayMapChallenge #Day21 #Water #QGIS https://t.co/YaeqrBjHTF",en,2020-11-21 17:49:12,5,42,"[{'text': '30DayMapChallenge', 'indices': [85, 103]}, {'text': 'Day21', 'indices': [104, 110]}, {'text': 'Water', 'indices': [111, 117]}, {'text': 'QGIS', 'indices': [118, 123]}]",1101617286,Helen McKenzie,helenmakesmaps,London,1508,579,http://pbs.twimg.com/media/EnXXj7zWMAMEYDw.jpg,https://twitter.com/twitter/statuses/1330206643813044233
+239,1330204059027038210,"7 barrages sur le Drac en amont de Grenoble, métropole vulnérable dans le contexte de privatisation des barrages. The 7 dams upon the Drac upstream of Grenoble. 
+Day 21 : water
+#30DayMapChallenge #handmademap #mygrenoble #barrages@villedegrenoble https://t.co/OMYkoJQhC1",fr,2020-11-21 17:38:56,3,6,"[{'text': '30DayMapChallenge', 'indices': [177, 195]}, {'text': 'handmademap', 'indices': [196, 208]}, {'text': 'mygrenoble', 'indices': [209, 220]}, {'text': 'barrages', 'indices': [221, 230]}]",442982795,odile,odile_p,France,137,189,http://pbs.twimg.com/media/EnXTOjZXYAQkQ7M.jpg,https://twitter.com/twitter/statuses/1330204059027038210
+240,1330203818458492935,"#30DayMapChallenge day 21 Water. Danube watershed from HydroSHEDS and NaturalEarth data, done in QGIS. 18 countries drain some water into the Danube https://t.co/liLuppD962",en,2020-11-21 17:37:58,4,29,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",363276700,Steven Kay,stevefaeembra,Edinburgh,861,335,http://pbs.twimg.com/media/EnXVOloXUAcisl4.jpg,https://twitter.com/twitter/statuses/1330203818458492935
+241,1330203598689628170,"#30DayMapChallenge #Day21 : Water.
+Carte du bassin versant de la Seine inspirée de la carte du métro londonien d'Harry Beck et des cartes de 
+@pinakographos !
+
+[ENG] Map of the Seine river system inspired by Harry Beck's London Underground map and maps from 
+@pinakographos! https://t.co/PbvtQ67oEq",fr,2020-11-21 17:37:06,8,38,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'Day21', 'indices': [19, 25]}]",163493843,maelle am,MaelleAMM,Paris,211,394,http://pbs.twimg.com/media/EnXVFMtXEAo5V9u.jpg,https://twitter.com/twitter/statuses/1330203598689628170
+242,1330202329660977158,"#30DayMapChallenge Day 21: Water
+
+New Zealand bathymetric data using #Aerialod. Source: GEBCO 2020 Gridded Bathymetry Data https://t.co/gW2P0cOEAh https://t.co/CP6s5roMsl",en,2020-11-21 17:32:04,2,6,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'Aerialod', 'indices': [69, 78]}]",159574073,Michael Legg,mjlegg,,159,105,http://pbs.twimg.com/media/EnXT9aRW4AMn5n4.jpg,https://twitter.com/twitter/statuses/1330202329660977158
+243,1330199892904583168,"Day 21 #30DayMapChallenge Water
+
+Major Rivers and Lakes of the World
+
+Data from #NaturalEarth 
+
+#QGIS https://t.co/ZvJnehqrVA",en,2020-11-21 17:22:23,2,16,"[{'text': '30DayMapChallenge', 'indices': [7, 25]}, {'text': 'NaturalEarth', 'indices': [80, 93]}, {'text': 'QGIS', 'indices': [96, 101]}]",223959960,Kirsten Reilly,_penguin_runner,"Stirling, Scotland",378,1211,http://pbs.twimg.com/media/EnXRtqaXIAI51XX.jpg,https://twitter.com/twitter/statuses/1330199892904583168
+244,1330199803230347275,"#30DayMapChallenge 
+
+Day 22 Suggestion (November 22) - Movement
+
+Data
+https://t.co/vrvi6nd8NG https://t.co/G6b3MSzPTq",en,2020-11-21 17:22:01,1,1,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",3160198320,Dr Chris #GIS #Success,DrChrisGeoSci,"Calgary, Alberta",732,659,http://pbs.twimg.com/media/EnXRq_LWEAEAtOL.png,https://twitter.com/twitter/statuses/1330199803230347275
+245,1330198030675537923,"#30DayMapChallenge Day 21: Water
+Cambridge UK under 12 m. sea level rise, est.  in over 100 yrs. if climate change left unabated. Magdalene Bridge at bottom, where the Roman Road originally crossed the River Cam to become the Cam Estuary. Castle Hill at top original Iron Age fort https://t.co/DhgpQrLtgO",en,2020-11-21 17:14:59,1,4,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",25663399,Andrew Zolnai,azolnai,"Cambridge, UK",709,994,http://pbs.twimg.com/media/EnXP9rOXIA4OWCu.jpg,https://twitter.com/twitter/statuses/1330198030675537923
+246,1330197531385597954,Day 21 of the #30DayMapChallenge is ‘water’. The Canal du Nivernais runs through Burgundy. Different things matter when you travel by boat inland and the locks are closed for lunch! The canal side 24hr baguette vending machine is recommended. https://t.co/4QW6L5ZRuy,en,2020-11-21 17:13:00,1,3,"[{'text': '30DayMapChallenge', 'indices': [14, 32]}]",176337766,Danny Cullinane,timbertopper400,NW England,392,776,http://pbs.twimg.com/media/EnXPmNFW4AQkYty.jpg,https://twitter.com/twitter/statuses/1330197531385597954
+248,1330196604905811970,"#30DayMapChallenge Day 21 - Water
+
+Here's some bathymetry for the area around Southampton, Portsmouth and the Isle of Wight - with a zoom of Soton Water and the central Solent. You can easily see the shipping lanes. https://t.co/UD4IFsBwxR",en,2020-11-21 17:09:19,2,17,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",809066605,Robin Wilson,sciremotesense,"Southampton, England",920,505,http://pbs.twimg.com/media/EnXOum-WEAorvHc.jpg,https://twitter.com/twitter/statuses/1330196604905811970
+250,1330196017640316936,"#30daymapchallenge Day 21 - Water
+The tributaries of the Columbia River
+My tiny violin story: I had the opportunity to show my work at a local coffee shop pre-COVID. I was going to do prints of a variety of local geographies, including river watersheds. Then COVID hit and... yeah https://t.co/1omDijXeD8",en,2020-11-21 17:06:59,1,18,"[{'text': '30daymapchallenge', 'indices': [0, 18]}]",2784943856,Erin,erindataviz,"Portland, OR",210,190,http://pbs.twimg.com/media/EnXNk44XMAQfkQH.png,https://twitter.com/twitter/statuses/1330196017640316936
+251,1330195851256471554,network of waterways in the Kingdom of Saudi Arabia #30DayMapChallenge #GIS https://t.co/kFjzCn1lcc,en,2020-11-21 17:06:19,5,15,"[{'text': '30DayMapChallenge', 'indices': [52, 70]}, {'text': 'GIS', 'indices': [71, 75]}]",600827679,مـحمّد,iMohamedlil,"الشرقية, السعودية ",1251,431,http://pbs.twimg.com/media/EnXOAJCXUAE4Lyg.jpg,https://twitter.com/twitter/statuses/1330195851256471554
+252,1330195205061013506,"#30DayMapChallenge Day 21 - Water
+
+Water bodies of the world, in watercolour style. Also time to have some Spilhaus projections. https://t.co/JS4EbKh0C1",en,2020-11-21 17:03:45,1,5,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",985921631439568896,Kenneth Wong,Kenneth_KHW,Hong Kong,80,150,http://pbs.twimg.com/media/EnXNetPWMAUt2iZ.jpg,https://twitter.com/twitter/statuses/1330195205061013506
+253,1330194115133378562,Day 21. Water: One can never have too many water features. Created with #QGIS  #30dayMapChallenge. Don't tell my husband. https://t.co/O1M8SDX66C,en,2020-11-21 16:59:25,1,10,"[{'text': 'QGIS', 'indices': [72, 77]}, {'text': '30dayMapChallenge', 'indices': [79, 97]}]",3552542476,Sanna Jokela,SannaJokela1,"Turku, Suomi",534,407,http://pbs.twimg.com/media/EnXMdQmXUAEUXK5.jpg,https://twitter.com/twitter/statuses/1330194115133378562
+254,1330192393606410243,#30DayMapChallenge Day 21 - Water. Here's a choropleth of average annual water consumption per capita around the world between 2005 &amp; 2015. Created using #RStats https://t.co/i2cWLYNQBi,en,2020-11-21 16:52:35,2,12,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'RStats', 'indices': [158, 165]}]",46426450,Joshua Copping,JoshCopping,United Kingdom,97,167,http://pbs.twimg.com/media/EnXKadTXIAk8MPh.jpg,https://twitter.com/twitter/statuses/1330192393606410243
+255,1330192346990915585,#30DayMapChallenge Day 21: Water. Pohjois-Lapin kosket - The rapids of Northern Lapland. And #QGIS glow effect testing. https://t.co/kAAn8YfY33,en,2020-11-21 16:52:23,3,15,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'QGIS', 'indices': [93, 98]}]",3720386117,Teemu Saloriutta,TeemuSaloriutta,"Järvenpää, Suomi",474,581,http://pbs.twimg.com/media/EnXKjb3WEAARpBg.jpg,https://twitter.com/twitter/statuses/1330192346990915585
+256,1330192148340346883,"#30DayMapChallenge
+
+Day 21: Water
+
+A post-apocalyptic view of Sheffield, if sea levels rose by ~ 100m
+
+LiDAR data from DEFRA
+
+Visualised in #Aerialod https://t.co/gkfTI9duyn",en,2020-11-21 16:51:36,1,4,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'Aerialod', 'indices': [140, 149]}]",2213909976,Colin Angus,VictimOfMaths,,5145,600,http://pbs.twimg.com/media/EnXKQsWW8AQ1vbg.jpg,https://twitter.com/twitter/statuses/1330192148340346883
+257,1330191366756896769,"#30DayMapChallenge Day 21: Water. 6 years of the Menindee Lakes Storage in Aus; filled from the Darling River to the northeast which drains 20% of the continent. 2019 was one of the worst droughts on record. Red = vegetation &amp; algae.
+Map is 65km wide.
+#Landsat #googleEarthEngine https://t.co/Hg073BQVMQ",en,2020-11-21 16:48:30,2,9,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'Landsat', 'indices': [256, 264]}, {'text': 'googleEarthEngine', 'indices': [265, 283]}]",172323510,Andrew Styan,atstyan,"Newcastle, Australia",182,963,http://pbs.twimg.com/ext_tw_video_thumb/1330189316547604482/pu/img/_7Nfmcg_pxKH1YBX.jpg,https://twitter.com/twitter/statuses/1330191366756896769
+258,1330189325305262087,Where the water goes? #30DayMapChallenge #Day21 #Water #QGIS #affinitypublisher #Gressoney #Italy https://t.co/EVUOiVgevV,en,2020-11-21 16:40:23,2,10,"[{'text': '30DayMapChallenge', 'indices': [22, 40]}, {'text': 'Day21', 'indices': [41, 47]}, {'text': 'Water', 'indices': [48, 54]}, {'text': 'QGIS', 'indices': [55, 60]}, {'text': 'affinitypublisher', 'indices': [61, 79]}, {'text': 'Gressoney', 'indices': [80, 90]}, {'text': 'Italy', 'indices': [91, 97]}]",1225029150433579010,Ivan D.,ivanziogeo,"Oricola, Abruzzo",56,289,http://pbs.twimg.com/media/EnXHBaAXIAMn_-v.jpg,https://twitter.com/twitter/statuses/1330189325305262087
+259,1330189243977699331,Day 21 @OrdnanceSurvey #30DayMapChallenge This map from 2016 shows some of the different ways water is protected across the Westcountry. Drinking water Protected Zones guide our work under #UpstreamThinking. #mapping #rivermaps #waterdata #waterquality @SouthWestWater https://t.co/Sg4qDf2JfH,en,2020-11-21 16:40:04,1,2,"[{'text': '30DayMapChallenge', 'indices': [23, 41]}, {'text': 'UpstreamThinking', 'indices': [189, 206]}, {'text': 'mapping', 'indices': [208, 216]}, {'text': 'rivermaps', 'indices': [217, 227]}, {'text': 'waterdata', 'indices': [228, 238]}, {'text': 'waterquality', 'indices': [239, 252]}]",454007980,Westcountry Rivers Trust,WestcountryRT,Cornwall.Devon.Dorset.Somerset,4574,3616,http://pbs.twimg.com/media/EnXIEU3XYAQeow1.jpg,https://twitter.com/twitter/statuses/1330189243977699331
+260,1330188678757560322,"Day 21 - Water of the #30DayMapChallenge 
+Water supply facilities in Mali with a highlight of two wells from my villages in Tenenkou and Gao circles.
+More info on the data from @akvo blog 
+https://t.co/ETMxmQ4jTv 
+#rstats #rspatial https://t.co/vQajMMHwDF",en,2020-11-21 16:37:49,6,27,"[{'text': '30DayMapChallenge', 'indices': [22, 40]}, {'text': 'rstats', 'indices': [214, 221]}, {'text': 'rspatial', 'indices': [222, 231]}]",633596180,Ahmadou Dicko,dickoah,Senegal,1648,1403,http://pbs.twimg.com/media/EnXHLBzXEAksGH9.jpg,https://twitter.com/twitter/statuses/1330188678757560322
+261,1330187726449160192,#30DayMapChallenge Day 21: Water. Waterbodies in Scotland - based on water body centroids derived from OSM. https://t.co/UbW1ObvXlS,en,2020-11-21 16:34:02,1,16,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",2679909391,Zlata Popelnuh,popelnuhh,,113,162,http://pbs.twimg.com/media/EnXGrdFXUAUM0rG.jpg,https://twitter.com/twitter/statuses/1330187726449160192
+262,1330185284412186628,"Dumfries and Galloway place-names associated with drownings
+#30DayMapChallenge #Day21 #Water #QGIS https://t.co/uAWEtdGC5F",en,2020-11-21 16:24:20,6,13,"[{'text': '30DayMapChallenge', 'indices': [60, 78]}, {'text': 'Day21', 'indices': [79, 85]}, {'text': 'Water', 'indices': [86, 92]}, {'text': 'QGIS', 'indices': [93, 98]}]",1081900377853829120,D&G place-names,dgplacenames,,590,303,http://pbs.twimg.com/media/EnXEG9uXMAQp14u.jpg,https://twitter.com/twitter/statuses/1330185284412186628
+263,1330185147879133188,"Humedales potenciales
+#30DayMapChallenge 2020
+Día 21:Agua https://t.co/SUifSLrWJ6",es,2020-11-21 16:23:47,2,2,"[{'text': '30DayMapChallenge', 'indices': [22, 40]}]",890753654822588417,Yaireth Ortiz,Yaireth_Ortiz,,12,349,http://pbs.twimg.com/media/EnXEV0QWMAEtUOy.jpg,https://twitter.com/twitter/statuses/1330185147879133188
+264,1330182887258386433,"#30DayMapChallenge - Day 21 - Water
+
+A map showing rivers of our planet. Rivers longer than a 1,000 Km are named. 
+
+Created using #Python + #MatPlotLib https://t.co/xJ9H2cAuYR",en,2020-11-21 16:14:48,2,11,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'Python', 'indices': [130, 137]}, {'text': 'MatPlotLib', 'indices': [140, 151]}]",867502710131752960,Vivek Parashar,vivekparasharr,,14,24,http://pbs.twimg.com/media/EnXCSBCW4AkEBfz.jpg,https://twitter.com/twitter/statuses/1330182887258386433
+265,1330181711741808649,"Today's #30DayMapChallenge theme is water🌊
+Using QGIS, we experimented using bathymetric data from @gebcobathymetry👇
+https://t.co/PA8ouIltR8 https://t.co/4yxhcUwoUY",en,2020-11-21 16:10:08,14,60,"[{'text': '30DayMapChallenge', 'indices': [8, 26]}]",22614266,Ordnance Survey,OrdnanceSurvey,"Southampton, UK",60625,3733,http://pbs.twimg.com/media/EnXBN4YXEAQ1UXY.jpg,https://twitter.com/twitter/statuses/1330181711741808649
+266,1330181594905276421,"#30DayMapChallenge  Water. 
+A watercolor style earth surrounded by facts about water. https://t.co/wIElSMHLKG",en,2020-11-21 16:09:40,2,15,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",404240734,Barbara Kent,SDGeoGirl,,136,297,http://pbs.twimg.com/media/EnXBHG-XMAASEEN.jpg,https://twitter.com/twitter/statuses/1330181594905276421
+267,1330180152794476549,"#30DayMapChallenge
+Map 21: Water
+
+Animation shows #rainfall accumulation across #India in 2020 till October
+
+நீரின்றி அமையாது உலகு! https://t.co/JVkRThgtPt",en,2020-11-21 16:03:56,27,197,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'rainfall', 'indices': [50, 59]}, {'text': 'India', 'indices': [80, 86]}]",272936200,Raj Bhagat P #Mapper4Life,rajbhagatt,"Nagercoil, Tamil Nadu",17565,1715,http://pbs.twimg.com/ext_tw_video_thumb/1330179531383189520/pu/img/yXY8-dM46fF7Mfpa.jpg,https://twitter.com/twitter/statuses/1330180152794476549
+268,1330177137542828036,"Day 21 - Water
+
+#30DayMapChallenge 
+
+#ArcGISPro #Illustrator
+
+More #sentinel2 imagery for supervised classification.
+
+#Map #Mapping #Geospatial #Spatial https://t.co/mzU8zKyagX",en,2020-11-21 15:51:57,1,14,"[{'text': '30DayMapChallenge', 'indices': [16, 34]}, {'text': 'ArcGISPro', 'indices': [37, 47]}, {'text': 'Illustrator', 'indices': [48, 60]}, {'text': 'sentinel2', 'indices': [67, 77]}, {'text': 'Map', 'indices': [118, 122]}, {'text': 'Mapping', 'indices': [123, 131]}, {'text': 'Geospatial', 'indices': [132, 143]}, {'text': 'Spatial', 'indices': [144, 152]}]",3160198320,Dr Chris #GIS #Success,DrChrisGeoSci,"Calgary, Alberta",732,659,http://pbs.twimg.com/media/EnW9Dh2WMAEAIf6.jpg,https://twitter.com/twitter/statuses/1330177137542828036
+269,1330176521840054275,"#30DayMapChallenge Día 21: Agua
+Evolución del meandro del Ventorrillo, en la desembocadura del río Segura, al norte de Guardamar del Segura (Alicante). @GeografiaUa https://t.co/xjembT3XHl",es,2020-11-21 15:49:30,11,31,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",599255985,un moquito mas,SabinaFn,,140,319,http://pbs.twimg.com/media/EnW8frPXUActp1t.jpg,https://twitter.com/twitter/statuses/1330176521840054275
+270,1330176304004689922,"#30DayMapChallenge Day 21: Water
+Topographic Wetness Index on the 10 ha #forestresearch plot of @naturwald_WSL in Uholka. 
+Data from https://t.co/1K94RWTMze
+Made with #RStats #rspatial https://t.co/gbPGuyIG8M",en,2020-11-21 15:48:39,2,5,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'forestresearch', 'indices': [72, 87]}, {'text': 'RStats', 'indices': [167, 174]}, {'text': 'rspatial', 'indices': [175, 184]}]",993008496152064001,Jonas Stillhard,JonasStillhard,,113,248,http://pbs.twimg.com/media/EnW8SQ6W4AY8qib.png,https://twitter.com/twitter/statuses/1330176304004689922
+271,1330174761465417742,"NEW VIZ: USA Presidential vote 2020 - county level hex tile map, with (1) equal size tiles and (2) tiles sized by population. 
+
+On @tableaupublic at https://t.co/39lpDVO2di (toggle using tabs)
+
+(Just missed #30DayMapChallenge day 20 - Population) https://t.co/6oZcM5j76u",en,2020-11-21 15:42:31,2,33,"[{'text': '30DayMapChallenge', 'indices': [207, 225]}]",2665174622,Neil Richards,theneilrichards,"Derbyshire, UK",6014,1229,http://pbs.twimg.com/media/EnW6V0wXMAALYj7.png,https://twitter.com/twitter/statuses/1330174761465417742
+272,1330174574391128072,"🗺️ #30DayMapChallenge Day 21: Water 🗺️
+
+🌐 ""The world according to fish"" aka the Spilhaus projection 🌐
+
+Data: https://t.co/Cql2HfvrBN
+
+Code: https://t.co/7CH6HmLlHe https://t.co/URJtJHf1bQ",en,2020-11-21 15:41:46,1,9,"[{'text': '30DayMapChallenge', 'indices': [3, 21]}]",61612315,Nathanael Sheehan,MrNSheehan,"Falmouth, England",8936,674,http://pbs.twimg.com/media/EnW6SN4XUAEF5_e.jpg,https://twitter.com/twitter/statuses/1330174574391128072
+273,1330172155443744768,"#30DayMapChallenge Day 21 - Water
+
+In the rapidly changing Peace-Athabasca Delta, ""coastlines"" are more like... probability distributions.
+
+Luckily, modern satellite data products can visualize uncertainty! https://t.co/S6vDUIwFuh",en,2020-11-21 15:32:09,5,25,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",851149914725916672,ksituan northland,ksituan,Val Marie / Treaty 4,1228,159,http://pbs.twimg.com/media/EnVIuPTXYAE4BWo.jpg,https://twitter.com/twitter/statuses/1330172155443744768
+274,1330171613745090560,"#30DayMapChallenge Day 21 - Water
+
+Nautical chart @Mapbox map style using Blue Earth Bathymetry data. It's nicely smoothed compared to original GEBCO data. https://t.co/B8rYnP1lYR",en,2020-11-21 15:30:00,1,5,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",15788807,Jan Žák,zakjan,"Prague, Czech Republic",574,528,http://pbs.twimg.com/media/EnWHY69W4AArF9E.jpg,https://twitter.com/twitter/statuses/1330171613745090560
+275,1330170529085607946,#30DayMapChallenge #Day20  Water from CORINE on Hexagons. DO NOT FORGET to create a spatial index on zonalstats - 3 visualisation attempts - which is your favourite? NR3 is a fail ? Data: @CopernicusEU @EUEnvironment  https://t.co/kX9cJQSPrq #GISCO -9 days2go https://t.co/jest6IA7u7,en,2020-11-21 15:25:42,2,24,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'Day20', 'indices': [19, 25]}, {'text': 'GISCO', 'indices': [242, 248]}]",2574612668,hannes reuter,hireuter,,218,437,http://pbs.twimg.com/media/EnW1PxxW8AAFie7.jpg,https://twitter.com/twitter/statuses/1330170529085607946
+276,1330167375270965248,Forgot to post yesterday. Day 20 (Population) of #30daymapchallenge⁠￼⁠. US Population Density Estimate categorized by rural or urban areas. Data from @Esri Living Atlas. https://t.co/ZVX34DnQDJ,en,2020-11-21 15:13:10,1,1,"[{'text': '30daymapchallenge', 'indices': [49, 67]}]",1280909342745800710,Chris Lyons,ChrisLyons26,"Shelbyville, KY",215,2623,http://pbs.twimg.com/media/EnW0LOKWEAkV_5c.jpg,https://twitter.com/twitter/statuses/1330167375270965248
+277,1330167161378181120,Day 21 (Water) of #30daymapchallenge. Green River Lake displayed using @Esri Firefly style. Data obtained from the USFWS Wetland Mapper data portal. Thanks to @John_M_Nelson for making cartography videos on how to use this style. https://t.co/C8BiA3YrfN,en,2020-11-21 15:12:19,1,3,"[{'text': '30daymapchallenge', 'indices': [18, 36]}]",1280909342745800710,Chris Lyons,ChrisLyons26,"Shelbyville, KY",215,2623,http://pbs.twimg.com/media/EnWz-36WEAAubd2.jpg,https://twitter.com/twitter/statuses/1330167161378181120
+278,1330166548166815745,#30DayMapChallenge #Water https://t.co/ZomBQS426e,und,2020-11-21 15:09:53,7,35,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'Water', 'indices': [19, 25]}]",782161298,Neil Harris 'UO web',Neil_py_harris,Newcastle-upon-Tyne,271,293,http://pbs.twimg.com/media/EnWza1iXMAEz4w3.jpg,https://twitter.com/twitter/statuses/1330166548166815745
+279,1330164897364250626,"Bathymetric map of the Dutch Wadden Sea, made in #Blender3d using EMODnet-data. #30DayMapChallenge day 21: water. https://t.co/yMZeelSro2",en,2020-11-21 15:03:19,2,11,"[{'text': 'Blender3d', 'indices': [49, 59]}, {'text': '30DayMapChallenge', 'indices': [80, 98]}]",271326430,Anton van Tetering 🌍,AvTetering,"Utrecht, the Netherlands",205,506,http://pbs.twimg.com/media/EnWx7KsWMAIIacS.jpg,https://twitter.com/twitter/statuses/1330164897364250626
+280,1330163357047992320,"RNLI Returns of Service for 2019
+
+Data from @RNLI
+
+Created in #keplergl (very quick and easy, but would be nice to be able to add titles!)
+
+#30DayMapChallenge #Day21 #Water https://t.co/Po5KUnVSik",en,2020-11-21 14:57:12,1,8,"[{'text': 'keplergl', 'indices': [62, 71]}, {'text': '30DayMapChallenge', 'indices': [140, 158]}, {'text': 'Day21', 'indices': [159, 165]}, {'text': 'Water', 'indices': [166, 172]}]",299559781,Neil Southall,neilcfd1,,14,139,http://pbs.twimg.com/media/EnWwccRWMAIK53c.jpg,https://twitter.com/twitter/statuses/1330163357047992320
+281,1330162201991258116,"#30DayMapChallenge Day 21: Water.
+
+A species distribution map of the American Flamingo by @DakotaBirder. 
+
+The world would be way less 😎 cool without water birds, especially flamingos. 
+
+Source: https://t.co/MHtszya8co https://t.co/xiUkfzyNmX",en,2020-11-21 14:52:36,1,3,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",65064975,Jessica McCarty,jmccarty_geo,Myaamia land & The World,2687,3993,http://pbs.twimg.com/media/EnWveNJXYAcJneJ.jpg,https://twitter.com/twitter/statuses/1330162201991258116
+282,1330161363809923076,"A very late submission to #rspatial  #30DayMapChallenge.
+
+Day 18: Land Use https://t.co/i3W9moyrxP",en,2020-11-21 14:49:16,6,30,"[{'text': 'rspatial', 'indices': [26, 35]}, {'text': '30DayMapChallenge', 'indices': [37, 55]}]",390722263,Shel 🇰🇪,Shel_Kariuki,"Nairobi, Kenya",2740,1443,http://pbs.twimg.com/media/EnWuou5XEAY7iWI.jpg,https://twitter.com/twitter/statuses/1330161363809923076
+284,1330160753253474313,"#30DayMapChallenge #Day21 #Water
+
+Aujourd'hui, je vous présente une BD des toponymes des fonds marins. (ici au large des côtes Françaises)
+
+A -4000m, il y a aussi des collines, des canyons, et des plateaux. 
+
+A découvrir sur le site de la @NOAA ➡️ https://t.co/0231P2guUp https://t.co/JeIXrrjgvC",fr,2020-11-21 14:46:51,1,6,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'Day21', 'indices': [19, 25]}, {'text': 'Water', 'indices': [26, 32]}]",732695379288961026,ArtisansCartographes,Artisans_Cartos,www.cartapaname.fr,2117,924,http://pbs.twimg.com/media/EnWr6ZKXIAEEklN.jpg,https://twitter.com/twitter/statuses/1330160753253474313
+285,1330159448153841666,"#30DayMapChallenge Day 21: Water
+
+As water is a transparent and nearly colourless substance I prefer mine with a little suspended sediment. There is an inexhaustible supply of unique images being collection by #EO for coastal waters! 😍
+
+@CopernicusEU #Sentinel-2 Thames Estuary! https://t.co/MTaXuvxSIS",en,2020-11-21 14:41:40,3,11,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'EO', 'indices': [210, 213]}, {'text': 'Sentinel', 'indices': [251, 260]}]",145683389,Geoff Smith,DrGeoffSmith,"Cambridge, UK",858,478,http://pbs.twimg.com/media/EnWrnW8WEAMSYLx.jpg,https://twitter.com/twitter/statuses/1330159448153841666
+286,1330158764364849155,"#30DayMapChallenge #GoogleEarthEngine #EarthEngine 
+Day -21 #water 
+Using NDWI(Normalized Difference Water Index) to find the inundation area 
+Data from - @NASA_Landsat 
+#GEE code - https://t.co/FW97BARkR6 https://t.co/39Z4JHMQcW",en,2020-11-21 14:38:57,3,12,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'GoogleEarthEngine', 'indices': [19, 37]}, {'text': 'EarthEngine', 'indices': [38, 50]}, {'text': 'water', 'indices': [60, 66]}, {'text': 'GEE', 'indices': [170, 174]}]",929981776834863104,BOOM,bhupathi_boom,milky way,62,226,http://pbs.twimg.com/media/EnWrwL2WEAEXSSF.jpg,https://twitter.com/twitter/statuses/1330158764364849155
+287,1330158057993760770,"On this day in 1620 the Mayflower dropped anchor in what is now know as Provincetown Harbour. Here's a LEGO map I designed to mark the occasion. Not sure I've time for the #30DayMapChallenge today but the bathymetry here is based on data from @MassGov, that counts as water right? https://t.co/SolvNoQx9A",en,2020-11-21 14:36:08,2,14,"[{'text': '30DayMapChallenge', 'indices': [172, 190]}]",798523409286266880,Dan Harris,DiasporaDan,"Nethy Bridge, Scotland",988,1547,http://pbs.twimg.com/media/EnWq-kZW8AApXxb.jpg,https://twitter.com/twitter/statuses/1330158057993760770
+288,1330156360546344962,"#30DayMapChallenge Day 21: Water.
+Had planned something slightly more extravagant, but it didn't work out.
+The map cannot tell all, as this is a highly engineered environment. LIDAR could add value. This https://t.co/pale4gjOKY add some details and has references. https://t.co/DqqrV7HtrG",en,2020-11-21 14:29:24,2,2,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",1074378707438055426,Blandford Bread,BlandfordBread,"South West, England",460,824,http://pbs.twimg.com/media/EnWqIdBXIAIIp4G.jpg,https://twitter.com/twitter/statuses/1330156360546344962
+289,1330154689183281154,I'm a bit late to the party but finally contributing to the #30DayMapChallenge and so for the theme of water here are some flood modelling results from my MSc dissertation 7 years ago. Thanks to @OrdnanceSurvey for the base mapping and @EnvAgency for the 1D model inputs! https://t.co/m9Ub7jOlmP,en,2020-11-21 14:22:45,1,2,"[{'text': '30DayMapChallenge', 'indices': [60, 78]}]",293148878,William Ray,WillRay3,"Oxford, England",430,773,http://pbs.twimg.com/media/EnWoeW9W8AIX8bJ.jpg,https://twitter.com/twitter/statuses/1330154689183281154
+290,1330154664491442183,"#30DayMapChallenge
+Day 21: Water
+#gis #Geography #GeographyTeacher #Cartography #Maps #Map #Mapping #Landsat #USGS #Bible #Archaeology #Science #Israel #Egyptology #RemoteSensing https://t.co/qLYDzuj7JM",en,2020-11-21 14:22:39,0,0,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'gis', 'indices': [33, 37]}, {'text': 'Geography', 'indices': [38, 48]}, {'text': 'GeographyTeacher', 'indices': [49, 66]}, {'text': 'Cartography', 'indices': [67, 79]}, {'text': 'Maps', 'indices': [80, 85]}, {'text': 'Map', 'indices': [86, 90]}, {'text': 'Mapping', 'indices': [91, 99]}, {'text': 'Landsat', 'indices': [100, 108]}, {'text': 'USGS', 'indices': [109, 114]}, {'text': 'Bible', 'indices': [115, 121]}, {'text': 'Archaeology', 'indices': [122, 134]}, {'text': 'Science', 'indices': [135, 143]}, {'text': 'Israel', 'indices': [144, 151]}, {'text': 'Egyptology', 'indices': [152, 163]}, {'text': 'RemoteSensing', 'indices': [164, 178]}]",1137139989744144390,MyPhysicalWorld,my_physical,,45,65,http://pbs.twimg.com/media/EnWonicWMAAJhYB.jpg,https://twitter.com/twitter/statuses/1330154664491442183
+291,1330152774076653569,"Day 21 of #30DayMapChallenge : Water
+
+The Albert Park Circuit uses everyday sections of road around Albert Park Lake in Melbourne. Each year, all the F1 infrastructure is erected two months before the GP weekend, and for the rest of the year, ordinary vehicles can use the track. https://t.co/OjapY0SVQL",en,2020-11-21 14:15:09,1,3,"[{'text': '30DayMapChallenge', 'indices': [10, 28]}]",191797663,Tomo 🐽,tomodraco,"0,13",526,212,http://pbs.twimg.com/media/EnWm2WVWEAAzvfh.jpg,https://twitter.com/twitter/statuses/1330152774076653569
+292,1330151982091427842,"Today's #30DayMapChallenge theme is ""water"". To celebrate, I made a map of the major rivers and coastlines of the USA, then printed it via pen plotter.
+
+#plottertwitter https://t.co/s3WReAh4df",en,2020-11-21 14:12:00,3,15,"[{'text': '30DayMapChallenge', 'indices': [8, 26]}, {'text': 'plottertwitter', 'indices': [153, 168]}]",942194832491122688,Mike Mahoney,MikeMahoney218,"Syracuse, NY",460,319,http://pbs.twimg.com/media/Ekt3mbAX0AAiT1g.jpg,https://twitter.com/twitter/statuses/1330151982091427842
+293,1330149777791721473,"#30DayMapChallenge Day 21: Water
+
+Absolutely love how this hydrological map of Ireland turned out! https://t.co/uxsMHFUNHX",en,2020-11-21 14:03:14,2,49,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",437801734,Antonia Blankenberg,MapsByAntonia,"Dublin City, Ireland",253,461,http://pbs.twimg.com/media/EnWkLBvXIAEN7Vg.jpg,https://twitter.com/twitter/statuses/1330149777791721473
+294,1330148967204663299,"Back to school districts for my #30DayMapChallenge day 21 - water. Here's one of the ""lakes regions"" of MN, where some really interesting school district boundaries show up. Lakes don't pay property taxes, so how would you draw the boundaries - through them, like us, or around? https://t.co/sGi3kketBf",en,2020-11-21 14:00:01,1,2,"[{'text': '30DayMapChallenge', 'indices': [32, 50]}]",222228205,Mike Dolbow,mmdolbow,"St. Paul, MN",1299,100,http://pbs.twimg.com/media/EnS953IXcAAoKAB.jpg,https://twitter.com/twitter/statuses/1330148967204663299
+295,1330146891464630280,"#30DayMapChallenge Day 21: Water
+Cl and NO3 Water Quality in Boreholes/Wells in Israel
+Data: Water Authority | Made in #QGIS + @geopandas https://t.co/l3B0AwxchN",en,2020-11-21 13:51:46,3,5,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'QGIS', 'indices': [119, 124]}]",1000055398697709569,Eliav S-T,est987,Israel,320,1695,http://pbs.twimg.com/media/EnWhboMW4AA6qmW.jpg,https://twitter.com/twitter/statuses/1330146891464630280
+296,1330146520667205636,Day 21 of the #30DayMapChallenge: Water. The draining of the Aral Sea. https://t.co/wIoQjfcWR6,en,2020-11-21 13:50:18,20,57,"[{'text': '30DayMapChallenge', 'indices': [14, 32]}]",1033774266880282624,Strath Slater,StrathSlater,"Edinburgh, Scotland",116,110,http://pbs.twimg.com/tweet_video_thumb/EnWg0NAXIAIdd_j.jpg,https://twitter.com/twitter/statuses/1330146520667205636
+297,1330141214188953604,#30DayMapChallenge https://t.co/VE5pU9UiXi,und,2020-11-21 13:29:12,1,1,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",233135248,Jrombf,jrombf,"Besançon, France",93,414,http://pbs.twimg.com/media/EnWcX54XIAQJpdl.jpg,https://twitter.com/twitter/statuses/1330141214188953604
+298,1330139651080933378,"@sarahbellmaps @NullIsland Day 21: Water
+
+I just love looking at Vermont's watersheds. That's all.
+
+https://t.co/l0y3h0VLF6
+
+#30DayMapChallenge https://t.co/uhbRp4QEnl",en,2020-11-21 13:23:00,1,10,"[{'text': '30DayMapChallenge', 'indices': [125, 143]}]",278873782,Map/,vtcraghead,"Burlington, VT",3655,863,http://pbs.twimg.com/media/EnT9WORW8AA1xia.jpg,https://twitter.com/twitter/statuses/1330139651080933378
+299,1330138134680580098,"Day 21 #30DayMapChallenge -  Water.
+Version eau salée pour moi !
+Les marais salants et leurs paysages si particuliers : géométrie des oeillets, bassins, étangs, écluses...
+Exemple d'un petit coin de @Ile2Noirmoutier https://t.co/ipUnHCvLEJ",fr,2020-11-21 13:16:58,1,14,"[{'text': '30DayMapChallenge', 'indices': [7, 25]}]",1026155967480844291,Anne L.,AlandcoC,Versailles ,795,785,http://pbs.twimg.com/media/EnWZlT8W8AELJm-.jpg,https://twitter.com/twitter/statuses/1330138134680580098
+300,1330137895156543494,#30DayMapChallenge - Water.  Watch the launch of the @CopernicusEU #Sentinel6 Michael Freilich ocean-monitoring satellite on @esa Web TV on Saturday 21 November from 17:45 CET (08:45 PST). #palebluedot https://t.co/Le449izFeR,en,2020-11-21 13:16:01,1,2,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'Sentinel6', 'indices': [67, 77]}, {'text': 'palebluedot', 'indices': [189, 201]}]",1318518242080661504,Christoph Er,dataisawesomeo,,24,147,http://pbs.twimg.com/media/EnWZKV1XcAQmJgU.jpg,https://twitter.com/twitter/statuses/1330137895156543494
+301,1330136577612320768,"#30DayMapChallenge
+Day 21: Water
+One of my favorite books growing up was Watership Down by Richard Adams. I used to stare at the worn &amp; scratched map that my paperback was cured with. I never knew this place existed in the real world. Such an epic tale of adventure &amp; survival https://t.co/gvbgVY7Gp9",en,2020-11-21 13:10:47,3,28,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",333524694,Christopher Pollard,CRVanPollard,"Philadelphia,PA",1063,1212,http://pbs.twimg.com/media/EnWYCzbXMAAjg2E.jpg,https://twitter.com/twitter/statuses/1330136577612320768
+302,1330136127848607744,"We're drawing a LINE under this or maybe round it...
+
+Using polylines is a great way to filter data and understand it by location.
+
+Today we look at UK Crime Data with a 0.5 Km distance of the River Thames, London 💂🏼‍♀️
+
+#Mapsimise #30DayMapChallenge #Lines https://t.co/iW4mvBngcd",en,2020-11-21 13:09:00,1,1,"[{'text': 'Mapsimise', 'indices': [221, 231]}, {'text': '30DayMapChallenge', 'indices': [232, 250]}, {'text': 'Lines', 'indices': [251, 257]}]",1093125802076655617,Mapsimise,mapsimise,,347,709,http://pbs.twimg.com/media/EnRWkmZW8AwxiNq.png,https://twitter.com/twitter/statuses/1330136127848607744
+303,1330136034810728451,"#30daymapchallenge 
+
+A version of the Murdock ethnic map I made ages ago. https://t.co/gqHZPFxfWq",en,2020-11-21 13:08:38,1,2,"[{'text': '30daymapchallenge', 'indices': [0, 18]}]",77623399,Dr. Peter Larson,pslarson2,"Ann Arbor, MI",723,1219,http://pbs.twimg.com/media/EnWXgSvXcAEhpvz.png,https://twitter.com/twitter/statuses/1330136034810728451
+306,1330126575136890880,"#30DayMapChallenge #Day10 #Grid #Tableau
+#electionmapping
+
+@tableaupublic https://t.co/lQ2JEC2RNy",und,2020-11-21 12:31:02,1,5,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'Day10', 'indices': [19, 25]}, {'text': 'Grid', 'indices': [26, 31]}, {'text': 'Tableau', 'indices': [32, 40]}, {'text': 'electionmapping', 'indices': [41, 57]}]",849475725342199816,Yang Yu,aptx4869yuyang,,96,338,http://pbs.twimg.com/media/EnWNVXZXcAUBHsZ.png,https://twitter.com/twitter/statuses/1330126575136890880
+307,1330125120132800513,"#30DayMapChallenge - water
+river rendering with qgis
+based on @cartocalypse blog
+
+https://t.co/F4PdHG1vl0 https://t.co/Langhj7Jlr",en,2020-11-21 12:25:15,4,44,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",2902589494,Patrycja Krajczyńska,mapsbyp,Poland,1048,1182,http://pbs.twimg.com/media/EnWNvidWMAAhRKR.jpg,https://twitter.com/twitter/statuses/1330125120132800513
+308,1330121876643979274,"#30DayMapChallenge - 21 Water
+
+Main watersheds in Switzerland and their destinations https://t.co/WPC8puwiBe",en,2020-11-21 12:12:22,1,17,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",1320623996249976832,Raphaël Bz,1cartogRaph,Switzerland,22,2,http://pbs.twimg.com/media/EnWKkGUXIAAmlkT.jpg,https://twitter.com/twitter/statuses/1330121876643979274
+309,1330121641003724803,"Historical maps for #30DayMapChallenge - Water. In 1965 the Welsh village of Capel Celwyn was flooded to develop a water reservoir. This actually went ahead without Welsh consent to the plans! 
+Map from the absolutely brilliant @natlibscot https://t.co/NAgf3oqKk8 tool. https://t.co/vDNAER6GkD",en,2020-11-21 12:11:26,1,2,"[{'text': '30DayMapChallenge', 'indices': [20, 38]}]",134939026,JonoPatterson,JonoPatterson,Lancashire,236,580,http://pbs.twimg.com/media/EnWJl3HXEAEGvyn.jpg,https://twitter.com/twitter/statuses/1330121641003724803
+310,1330121636348039168,"#30DayMapChallenge - Day 21 - Water
+
+I made first steps with satellite images and geotiff today.
+
+The Aral Sea was once the 4th largest lake in the world. Now it holds less than 10% of its original water volume. Check @ilyankou's map showing the bigger picture.
+
+Created with R. https://t.co/Jsb2SNWtXI",en,2020-11-21 12:11:25,1,6,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",733390000809730049,Richard Vogg,richard_vogg,Deutschland,85,160,http://pbs.twimg.com/media/EnWJpQJW4AEm8kc.png,https://twitter.com/twitter/statuses/1330121636348039168
+311,1330121363332472833,"DAY21 #30DayMapChallenge 🙌 For today's theme 'Water', Dan (@DanialOwenCDT) has mapped the rivers of Wales #water #river #wales 🔥 https://t.co/AemCYtbFzJ",en,2020-11-21 12:10:20,5,23,"[{'text': '30DayMapChallenge', 'indices': [6, 24]}, {'text': 'water', 'indices': [106, 112]}, {'text': 'river', 'indices': [113, 119]}, {'text': 'wales', 'indices': [120, 126]}]",2280343142,GeoDataScience,geodatascience,Liverpool,3691,1746,http://pbs.twimg.com/media/EnWKP4UXUAMwJnZ.jpg,https://twitter.com/twitter/statuses/1330121363332472833
+312,1330120317809926145,"#30DayMapChallenge #day21 #water #qgis 
+Organised people probably planned out all their maps at the start of the month, so they wouldn't use rivers to do the lines map and be left stuck on water day. So here are ""wet"" roads in GB from the @OrdnanceSurvey open roads data. https://t.co/FbOVfSxZio",en,2020-11-21 12:06:10,2,12,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'day21', 'indices': [19, 25]}, {'text': 'water', 'indices': [26, 32]}, {'text': 'qgis', 'indices': [33, 38]}]",77265423,Ian Turton,ijturton,"Worthing, UK",1079,893,http://pbs.twimg.com/media/EnWJTeLXcAMSqPs.jpg,https://twitter.com/twitter/statuses/1330120317809926145
+313,1330119662793842693,"#30DayMapChallenge Day 21: #water
+
+This map of 1575 (ed. 1608) shows the lakes in #Holland before the land reclamation from the 17thC onwards.
+
+Joost Jansz #Beeldsnijder, Caerte van Noorthollant. Amsterdam: Herman Allertsz., 1608 @UBLeiden
+
+https://t.co/idef32BveU https://t.co/EoXqIl7Iq2",en,2020-11-21 12:03:34,2,13,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'water', 'indices': [27, 33]}, {'text': 'Holland', 'indices': [82, 90]}, {'text': 'Beeldsnijder', 'indices': [156, 169]}]",889150492751925250,Martijn Storms,MapStorms,,870,377,http://pbs.twimg.com/media/EnWIxmbXUAItaZR.jpg,https://twitter.com/twitter/statuses/1330119662793842693
+314,1330119591465537538,"#30DayMapChallenge Day 21 - Water
+#Cascais, Portugal Bathymetry!
+Really loved making bathymetry maps, maybe I'll start studying a little more about it? (making bathymetry maps I mean)
+Batimetria de Cascais, em Portugal! https://t.co/HpFN3VbydC",en,2020-11-21 12:03:17,1,5,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'Cascais', 'indices': [34, 42]}]",180939408,torts,tgsousa_,,902,1014,http://pbs.twimg.com/media/EnWIq_nWEAEd2xk.jpg,https://twitter.com/twitter/statuses/1330119591465537538
+315,1330119062526054405,"Jour 21 du #30DayMapChallenge - Water 
+
+Carte de l'or bleu : les richesses de l'océan 
+
+#stinarto #lagéoçasedessine https://t.co/XHu78879J3",fr,2020-11-21 12:01:11,18,64,"[{'text': '30DayMapChallenge', 'indices': [11, 29]}, {'text': 'stinarto', 'indices': [88, 97]}, {'text': 'lagéoçasedessine', 'indices': [98, 115]}]",3195365733,Justine Vignat,Junevgt,Paris ,818,253,http://pbs.twimg.com/media/EnWIIh6W4AMDjOq.jpg,https://twitter.com/twitter/statuses/1330119062526054405
+316,1330119038685618182,"#30DayMapChallenge dia 3
+
+1-Mapa lingüístico de Sud América antes de la colonización.
+2- Mapa político de Sud América en 1794. 
+3-Mapa lingüístico de Sud América en la actualidad. https://t.co/b65etsXeFL",es,2020-11-21 12:01:05,1,9,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",739571508457185280,Patobola,ElXapla11,"Cataluña, España",469,1144,http://pbs.twimg.com/media/EnWINcHXIAMnXd8.png,https://twitter.com/twitter/statuses/1330119038685618182
+317,1330116697286729735,"#30DayMapChallenge Day 21 - Water
+
+Ocean currents as animated @Mapbox layer, including full camera control. Color represents speed. Ocean waves and other videos in HQ are available at my YT channel https://t.co/DHq2xVR9kA https://t.co/5MhL0JqEIZ",en,2020-11-21 11:51:47,2,2,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",15788807,Jan Žák,zakjan,"Prague, Czech Republic",574,528,http://pbs.twimg.com/ext_tw_video_thumb/1330116211011620867/pu/img/XeWI95zaVlaOrEMH.jpg,https://twitter.com/twitter/statuses/1330116697286729735
+318,1330114609181757444,"#30DayMapChallenge 
+21: Water
+
+I digitised bathymetry data of lakes in the #NewZealand South Island for use in GIS and to estimate their volume. Whilst Te Anau is the largest by area (344 km²) and Hauroko is the deepest (462 m), by volume the largest is Wakatipu (64.2 km³). https://t.co/5BWPclLJok",en,2020-11-21 11:43:29,1,2,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'NewZealand', 'indices': [75, 86]}]",1242400749864304640,William James,GeogWillJ,,56,146,http://pbs.twimg.com/media/EnWD5SxXcAQdGd1.png,https://twitter.com/twitter/statuses/1330114609181757444
+319,1330112778774917121,Day 20 (Population) Daily Tweets Statistics and Top Favourited/❤️ Maps. #30DayMapChallenge tweets dataset: https://t.co/qPaklnnzCe https://t.co/rVuR1sbErl,en,2020-11-21 11:36:13,1,4,"[{'text': '30DayMapChallenge', 'indices': [72, 90]}]",528087151,Haifeng Niu,niu_haifeng,"Cambridge, England",37,403,http://pbs.twimg.com/media/EnWCU7MXYAEo5rK.png,https://twitter.com/twitter/statuses/1330112778774917121
+321,1330111730966466560,"#30DayMapChallenge Day 21: Water
+My daughter's birthday today so not a lot of time. 
+Basking Shark recordings in UK and Irish Waters (and beyond) https://t.co/XyoQzAx5Ea",en,2020-11-21 11:32:03,5,43,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",18795658,Matt Travis,Yakus,"Ivybridge, Devon",527,743,http://pbs.twimg.com/media/EnWBi9TXYAM2l56.jpg,https://twitter.com/twitter/statuses/1330111730966466560
+322,1330109090983522307,"The Emajõe-Suursoo is the fifth biggest bog in Estonia. Around snow-melt time up to 25% of its area might get flooded.
+
+https://t.co/7SOhLL8DZY
+
+Here we have it's watercourses and lakes on a 1:10K CIR orthophoto from the Estonian Land Board.
+
+#30DayMapChallenge Day 21, Water. https://t.co/giY01V4Tfh",en,2020-11-21 11:21:34,2,2,"[{'text': '30DayMapChallenge', 'indices': [243, 261]}]",2629383321,Tõnis Kärdi,tkardi,"Tartu, Estonia",216,238,http://pbs.twimg.com/media/EnV9tcGWMAI5c9q.jpg,https://twitter.com/twitter/statuses/1330109090983522307
+323,1330108604314226688,Worshippers believe that by drinking good healing spring water our bodies are charged with positive energy and good spirit  #30DayMapChallenge Day 21  Water https://t.co/zoEQtBmOt8,en,2020-11-21 11:19:38,1,1,"[{'text': '30DayMapChallenge', 'indices': [124, 142]}]",40151250,Tõnu Oja,tonuoja,,32,35,http://pbs.twimg.com/media/EnV-LcpXMAA-55e.jpg,https://twitter.com/twitter/statuses/1330108604314226688
+324,1330107906365263881,#30DayMapChallenge #Water effects created in @Mapbox https://t.co/SKew23FpfO,en,2020-11-21 11:16:51,6,42,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'Water', 'indices': [19, 25]}]",4003306397,Jonni Walker,jonni_walker,United Kingdom,6328,5524,http://pbs.twimg.com/media/EnV-FnfW8AMVSwG.jpg,https://twitter.com/twitter/statuses/1330107906365263881
+325,1330103937173762049,"🗺️ #30DayMapChallenge Population. https://t.co/98Rh5o6Sch
+Datasets are a bit outdated but that's the best I've collected so far🤷‍♀️. Would update it when new census data is available! 
+
+Thanks to @pallavinaik_'s tutorial on bivariate map: https://t.co/KZneosQPhX 
+
+@tableaupublic https://t.co/DRu7bhSptr",en,2020-11-21 11:01:05,8,146,"[{'text': '30DayMapChallenge', 'indices': [3, 21]}]",1160963883860762624,Wendy Shijia,ShijiaWendy,"Shanghai, China",1166,690,http://pbs.twimg.com/tweet_video_thumb/EnV58ncW4AEyQvX.jpg,https://twitter.com/twitter/statuses/1330103937173762049
+326,1330103667727478784,"#30DayMapChallenge  Day 21 - #Water
+Andorra hydrographic network: Andorra means water, lakes (more than 70), streams and rivers make up a territory where water is a main element of the landscape - La xarxa hidrogràfica d'Andorra configura el seu paisatge. #qgis https://t.co/cfbOsy5Pe1",ca,2020-11-21 11:00:01,5,13,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'Water', 'indices': [29, 35]}, {'text': 'qgis', 'indices': [256, 261]}]",2342154006,Cartografia Oficial d'Andorra,areacartografia,Govern d'Andorra,327,714,http://pbs.twimg.com/media/EnS9H1GWEAAHLQI.jpg,https://twitter.com/twitter/statuses/1330103667727478784
+327,1330103663696572419,"➡️#30DayMapChallenge Day 21: Water.
+It’s the first time that we map the sea floor of the northern Barcelona metropolitan coast.
+
+High resolution multibeam bathymetry was used and the result was a high-density 3D point cloud that will be soon available at #GeoportalCartografiaAMB. https://t.co/dSioY7RBn7",en,2020-11-21 11:00:00,6,11,"[{'text': '30DayMapChallenge', 'indices': [2, 20]}, {'text': 'GeoportalCartografiaAMB', 'indices': [255, 279]}]",1257977119528935426,Cartografia AMB 🗺️,Cartografia_AMB,"C. Número 62, 16-18, Barcelona",191,113,http://pbs.twimg.com/ext_tw_video_thumb/1329705765750378496/pu/img/mkCmQHjSML1YCguU.jpg,https://twitter.com/twitter/statuses/1330103663696572419
+328,1330103218416783360,"#30DayMapChallenge 
+Day 21: #Water
+UK Rainfall December 2015; the wettest month on record.
+
+#rain #gis #map https://t.co/EBY457gMIN",en,2020-11-21 10:58:14,1,19,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'Water', 'indices': [28, 34]}, {'text': 'rain', 'indices': [92, 97]}, {'text': 'gis', 'indices': [98, 102]}, {'text': 'map', 'indices': [103, 107]}]",426008860,James Goodyear,jgoodyear9,Newcastle ,50,177,http://pbs.twimg.com/media/EnV506FXYAM_ZiZ.jpg,https://twitter.com/twitter/statuses/1330103218416783360
+329,1330102557570691072,"Day21: Water
+SDG Goal 6 Clean water and sanitation
+#30DayMapChallenge
+#SDGs
+Around 35 per cent of microplastics in the oceans are believed to originate from the washing of synthetic textiles.https://t.co/stxmYeB5w8 https://t.co/1hKpcPNDIm",en,2020-11-21 10:55:36,1,2,"[{'text': '30DayMapChallenge', 'indices': [51, 69]}, {'text': 'SDGs', 'indices': [70, 75]}]",187171010,I.K.D,IKEDA_02,"Brisbane, Queensland 🇦🇺🇯🇵",104,478,http://pbs.twimg.com/media/EnV5IInXEAAeP1W.jpg,https://twitter.com/twitter/statuses/1330102557570691072
+330,1330101914244173824,"#30DayMapChallenge day 21 - Water
+Preliminary research for the sports department: ""Can we kayak 🛶 on the Jeker. "" ( river in Tongeren, Belgium) Made with Qgis2web, links to google streetview? Answer: It will be difficult. https://t.co/hyPRh8TFX3 https://t.co/VNAc5s1Zas",en,2020-11-21 10:53:03,1,1,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",919806358328958976,Vicky Verscheijden,gis3700,"Tongeren, België",81,141,http://pbs.twimg.com/media/EnV3_CKXIAAnTeK.jpg,https://twitter.com/twitter/statuses/1330101914244173824
+331,1330101855788085249,#30DayMapChallenge Today is #water so here's a map showing where you can see a lake in the @lakedistrictnpa based on the Viewshed Explorer and @OrdnanceSurvey Terrain 5 DEM and 17million viewshed calculations (with distance decay and area effects) 😳 https://t.co/KtCGivUUyW,en,2020-11-21 10:52:49,5,27,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'water', 'indices': [28, 34]}]",734297005846081536,Steve Carver,LandEthics,"Yorkshire, England",2094,444,http://pbs.twimg.com/media/EnV4kkrWEAED0x5.jpg,https://twitter.com/twitter/statuses/1330101855788085249
+332,1330100626735443970,#30DayMapChallenge Day 21 Water - I promised more sea otters a few days ago and here they are. The annual CA sea otter surveys from 1985-2019 (2011 cancelled) as a grid with indicators to the location along the coast. #seaotters https://t.co/45IXRgEPTH,en,2020-11-21 10:47:56,2,18,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'seaotters', 'indices': [218, 228]}]",88731801,Barry Rowlingson🐺,geospacedman,"Lancaster, UK",1678,475,http://pbs.twimg.com/media/EnV29WlXMAIB3-S.png,https://twitter.com/twitter/statuses/1330100626735443970
+333,1330099021747277825,"Surface water of Sweden for #30DayMapChallenge day 21, Water. The map was originally made for the Island day and is similar (but not as good 😊) to @kinotus map: https://t.co/QYG1nCKgBL
+
+#RStats code: https://t.co/5HbC1dppMZ
+
+Data: @SMHI https://t.co/3KGKVeBkxp",en,2020-11-21 10:41:33,2,16,"[{'text': '30DayMapChallenge', 'indices': [28, 46]}, {'text': 'RStats', 'indices': [186, 193]}]",1002212251,Georgios Karamanis,geokaramanis,"Uppsala, Sweden",1740,196,http://pbs.twimg.com/media/EnV1NaHXIAI-RgW.jpg,https://twitter.com/twitter/statuses/1330099021747277825
+334,1330096553399382017,"Day 21: Water #30DayMapChallenge  
+Water occurrence of the Sundarbans mangrove forest https://t.co/F8OyugQxEI",en,2020-11-21 10:31:44,1,11,"[{'text': '30DayMapChallenge', 'indices': [14, 32]}]",927084766482042880,Mona Bartling,monabartling,,63,108,http://pbs.twimg.com/media/EnVyCm4WEAAQmOL.jpg,https://twitter.com/twitter/statuses/1330096553399382017
+335,1330096050196148225,#30DayMapChallenge Day 21 : Water https://t.co/cBJQfVMEWs,en,2020-11-21 10:29:45,1,0,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",233525664,Julien,JulienQuotidien,Le Havre,465,185,http://pbs.twimg.com/media/EnVzIaUW4AUJjAu.jpg,https://twitter.com/twitter/statuses/1330096050196148225
+336,1330094533351190533,"The victim of the Soviet irrigation projects, the Aral Sea that sits on the border between Kazakhstan and Uzbekistan has nearly disappeared. Map for #30DayMapChallenge, water loss in red.
+
+Global surface water dataset by EC JRC/Google, available from https://t.co/B1Mn9py7oI https://t.co/zLubxvRl1X",en,2020-11-21 10:23:43,1,13,"[{'text': '30DayMapChallenge', 'indices': [149, 167]}]",963423777135759360,Ilya Ilyankou,ilyankou,🇬🇧,90,160,http://pbs.twimg.com/media/EnVxohCXMAAOeLD.jpg,https://twitter.com/twitter/statuses/1330094533351190533
+337,1330094073391288321,"Foulness Island, Essex, England. The Broomway is an ancient public right of way used before the bridge was built in 1922. Thanks to my brother @powellds for the idea
+#30DayMapChallenge 
+21 - Water https://t.co/UUycpFla9a",en,2020-11-21 10:21:53,4,68,"[{'text': '30DayMapChallenge', 'indices': [166, 184]}]",2809999793,Owen Powell,owenjpowell,Leamington Spa,1864,287,http://pbs.twimg.com/media/EnVxbdcXIAgjQuL.jpg,https://twitter.com/twitter/statuses/1330094073391288321
+338,1330092450212352010,"Day 21 of #30DayMapChallenge. Water.
+
+In New Zealand you are never more than 120km / 75m from the ocean.
+
+Made with #ArcPro https://t.co/L5P564F1zk",en,2020-11-21 10:15:26,1,2,"[{'text': '30DayMapChallenge', 'indices': [10, 28]}, {'text': 'ArcPro', 'indices': [116, 123]}]",29162437,Kerrin Sime,kjsime," NZ, most of the time.",68,126,http://pbs.twimg.com/media/EnVwCH2XEAISOw1.jpg,https://twitter.com/twitter/statuses/1330092450212352010
+339,1330091080956559360,"Day 21 - Water #30DayMapChallenge Too much water or not enough water? we're getting too much water from typhoons and sea level rise, and not enough fresh water from drought and deforested watersheds. El niño last year, La Niña this year. We must have a clear water policy now RP https://t.co/cRKxSGrQ5P",en,2020-11-21 10:10:00,1,2,"[{'text': '30DayMapChallenge', 'indices': [15, 33]}]",2599428001,Francis Gasgonia,seateazen,Philippines,82,309,http://pbs.twimg.com/media/EnVrbsKXYAAe85p.jpg,https://twitter.com/twitter/statuses/1330091080956559360
+340,1330090816442871814,"🚰 *Waterworld* 🚰
+Reservoirs SW of London, all constructed since publication of @OrdnanceSurvey 
+One inch 1885-1900
+🔎 'Spy' 🔎 window to the past by @natlibscotmaps
+Day 21 - Water #ThirstyCities
+#30DayMapChallenge @tjukanov
+https://t.co/w8snxE8C8N https://t.co/awK0UFxgFL",en,2020-11-21 10:08:57,9,22,"[{'text': 'ThirstyCities', 'indices': [178, 192]}, {'text': '30DayMapChallenge', 'indices': [193, 211]}]",2787878432,BC,mildthing99,"England, United Kingdom",2224,2014,http://pbs.twimg.com/ext_tw_video_thumb/1330090778832539650/pu/img/eSO19VygBAug-bfY.jpg,https://twitter.com/twitter/statuses/1330090816442871814
+342,1330090601946165250,"#30DayMapChallenge Day 21: Water. The Netherlands=Waterland
+#QGIS #water #maps #osgeo https://t.co/rTqQJdp2pp",en,2020-11-21 10:08:06,1,8,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'QGIS', 'indices': [60, 65]}, {'text': 'water', 'indices': [66, 72]}, {'text': 'maps', 'indices': [73, 78]}, {'text': 'osgeo', 'indices': [79, 85]}]",1270037817750630404,Mariëlle Geers-Plasmans,geojuffie,Steenbergen,65,62,http://pbs.twimg.com/media/EnVuFfnWEAMky54.jpg,https://twitter.com/twitter/statuses/1330090601946165250
+343,1330090304540733441,"#30DayMapChallenge 2020: #rspatial edition 
+
+Day 20: Population. 
+
+All new links can be found at https://t.co/umuV8k5wnS.
+
+#rstats #cartography https://t.co/RxuihMV9kr",en,2020-11-21 10:06:55,5,24,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'rspatial', 'indices': [25, 34]}, {'text': 'rstats', 'indices': [123, 130]}, {'text': 'cartography', 'indices': [131, 143]}]",2810559039,Jakub Nowosad,jakub_nowosad,,3937,216,http://pbs.twimg.com/media/EnVt2WmWEAMfuD3.jpg,https://twitter.com/twitter/statuses/1330090304540733441
+344,1330090157710729216,"My #30DayMapChallenge #water for today is a Map of Barranco Hondo watershed (Granada, Spain), made in #qgis for professional purpose. https://t.co/Pb2UROUzAr",en,2020-11-21 10:06:20,1,2,"[{'text': '30DayMapChallenge', 'indices': [3, 21]}, {'text': 'water', 'indices': [22, 28]}, {'text': 'qgis', 'indices': [102, 107]}]",1905096798,Juan Esteller,JuanEstellerR,,37,318,http://pbs.twimg.com/media/EnVsE90W8AA5jys.jpg,https://twitter.com/twitter/statuses/1330090157710729216
+345,1330089907721809921,"#30DayMapChallenge day 21 - water
+Simple map of main rivers and canals of St Petersburg with some lighthouses along the coast of Finnish gulf
+#RStats #rspatial https://t.co/HYkLs66I86",en,2020-11-21 10:05:20,2,6,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'RStats', 'indices': [142, 149]}, {'text': 'rspatial', 'indices': [150, 159]}]",1273667699374260224,Tatiana,balt_ti,"Санкт-Петербург, Россия",130,192,http://pbs.twimg.com/media/EnVtuCoXIAA11dR.jpg,https://twitter.com/twitter/statuses/1330089907721809921
+346,1330088816200192000,"🌍💧🌊 Jour 21 du #30DayMapChallenge : l'eau.
+
+Le Rhin cartographié dans le sens de la page : il coule du haut (sa source) vers le bas (son embouchure), et le nord n'est pas en haut !
+
+Issu de la série d'été « Au fil de l'eau »,  à retrouver sur @LesEchos
+
+https://t.co/mGDK9aALKL https://t.co/1DySAA1Qch",fr,2020-11-21 10:01:00,12,92,"[{'text': '30DayMapChallenge', 'indices': [15, 33]}]",138790830,Jules Grandin,JulesGrandin,Paris,22475,1009,http://pbs.twimg.com/media/EnA6MM0W8AArstA.jpg,https://twitter.com/twitter/statuses/1330088816200192000
+347,1330088568534958080,"Day 21- #30DayMapChallenge 
+Theme: Water, visualised using ArcMap. Simple map showing the water bodies classified from the UK Land Cover 2015 raster, and the @OrdnanceSurvey OS Open Rivers Network in Devon. https://t.co/r6cxXtgroh",en,2020-11-21 10:00:01,1,3,"[{'text': '30DayMapChallenge', 'indices': [8, 26]}]",636238090,Simon Leech,simonmleech,,41,138,http://pbs.twimg.com/media/Em7u8qvXUAkm8Al.jpg,https://twitter.com/twitter/statuses/1330088568534958080
+348,1330086624223432706,"#30DayMapChallenge 
+
+Day 21 - Water
+
+Flood risk in the London Olympic Park.
+
+Data - @OrdnanceSurvey, @EnvAgency 
+ 
+Tools - @Avenza MaPublisher
+ 
+@bcsweb https://t.co/zIAHw7H615",en,2020-11-21 09:52:17,2,6,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",238730325,David McCutcheon,DVDMaps,"Shrewsbury, England",202,197,http://pbs.twimg.com/media/EnVqmRQXYAcU7ya.jpg,https://twitter.com/twitter/statuses/1330086624223432706
+349,1330085302992515075,"#30DayMapChallenge Day 21 - #Water. We developed #vectortiles as open data to manage all of water supply systems in #Rwanda and some utilities of #Kenya. You can see an example of Rwanda's water map: https://t.co/xO1pCBiQ98 
+#Narok #Nakuru #Nanyuki #WASAC https://t.co/wtbElXUSmy",en,2020-11-21 09:47:02,4,12,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'Water', 'indices': [28, 34]}, {'text': 'vectortiles', 'indices': [49, 61]}, {'text': 'Rwanda', 'indices': [116, 123]}, {'text': 'Kenya', 'indices': [146, 152]}, {'text': 'Narok', 'indices': [225, 231]}, {'text': 'Nakuru', 'indices': [232, 239]}, {'text': 'Nanyuki', 'indices': [240, 248]}, {'text': 'WASAC', 'indices': [249, 255]}]",1265379221691486208,Jin Igarashi,j_igarashi,Japan,38,73,http://pbs.twimg.com/media/EnVpYvrXYAAUbfY.jpg,https://twitter.com/twitter/statuses/1330085302992515075
+351,1330083353685610498,"Day 21 (water):  Athelstan Spilhaus, obviously #30DayMapChallenge (in collaboration with @lecartographe) https://t.co/raYfGvNc1W",en,2020-11-21 09:39:17,6,25,"[{'text': '30DayMapChallenge', 'indices': [47, 65]}]",1035417413586694144,neocarto,neocartocnrs,Paris,1495,381,http://pbs.twimg.com/media/EnVno_TXUAAShY8.jpg,https://twitter.com/twitter/statuses/1330083353685610498
+353,1330080432684232704,"#30DayMapChallenge - Day 21 : Water
+ 
+Une carte figurant dans le fanzine Mercator des @ArtisansCartographes, illustrant les Mirror Lakes en Nouvelle-Zélande 🇳🇿
+
+PS : vous aurez besoin d’un accessoire pour la lire correctement ! 🪞 https://t.co/IbEPE7dWCk",fr,2020-11-21 09:27:41,1,10,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",577363985,Arthur Beaubois-Jude,Tabularthur,,338,235,http://pbs.twimg.com/media/EnVkp-pXMAEbWwc.jpg,https://twitter.com/twitter/statuses/1330080432684232704
+354,1330079534121676803,"#30DayMapChallenge
+Water for Day21. So far, most of my maps have been about water in this challenge! I am a Marine Scientist after all! Here is #bathymetry derived from @EMODnet bathymetry data, EEZ from #MarineRegions. #NAFCResearch #ThinkUHI #GIS https://t.co/oFtz8Dzr8z",en,2020-11-21 09:24:07,1,5,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'bathymetry', 'indices': [144, 155]}, {'text': 'MarineRegions', 'indices': [204, 218]}, {'text': 'NAFCResearch', 'indices': [220, 233]}, {'text': 'ThinkUHI', 'indices': [234, 243]}, {'text': 'GIS', 'indices': [244, 248]}]",1106525318553182209,Richard Shelmerdine,RLShelmerdine,"Scotland, United Kingdom",78,119,http://pbs.twimg.com/media/EnVj7KIXYAA7ORk.jpg,https://twitter.com/twitter/statuses/1330079534121676803
+355,1330078463571734534,"#30DayMapChallenge - Day - 21 - Water // Eau
+
+The 40th meridian East, meridian of coloured waters // Le 40ème méridien Est, méridien des eaux colorées 😀
+
+See previous maps : https://t.co/M674z8OdHC https://t.co/NtujVoh9Zx",fr,2020-11-21 09:19:52,3,24,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",1201838008359620609,Les Savoirs Ambulants,SavoirsEnBulles,Rennes,344,91,http://pbs.twimg.com/media/EnVjOWrXcAESxlQ.jpg,https://twitter.com/twitter/statuses/1330078463571734534
+357,1330076456655970306,"#30DayMapChallenge Day 21 Water
+
+1.3 million Australian rivers and streams
+
+Made with @tableaupublic 
+
+https://t.co/2QN77lzp5F https://t.co/fKerSO9DrC",en,2020-11-21 09:11:53,2,19,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",755185543281946624,Frederic Fery,fredffery,Meanjin Brisbane Australia,1642,3268,http://pbs.twimg.com/media/EnVhVB0XcAcsV3_.jpg,https://twitter.com/twitter/statuses/1330076456655970306
+358,1330075049727041539,21. Water: the main watersheds of Estonia  💦💦💦#30DayMapChallenge #water #hydrology https://t.co/L9oUOJqmoJ,en,2020-11-21 09:06:18,4,28,"[{'text': '30DayMapChallenge', 'indices': [46, 64]}, {'text': 'water', 'indices': [65, 71]}, {'text': 'hydrology', 'indices': [72, 82]}]",47698876,Evelyn,evelynuuemaa,Estonia,483,296,http://pbs.twimg.com/media/EnVf-aQWMAABwEt.jpg,https://twitter.com/twitter/statuses/1330075049727041539
+360,1330073353567264771,"Day 21 of #30DayMapChallenge : Water
+
+Probably in the coming days... https://t.co/TDwNiWty7N",en,2020-11-21 08:59:33,1,5,"[{'text': '30DayMapChallenge', 'indices': [10, 28]}]",1226081200214814721,me & maps,meandmaps,paris,245,1130,http://pbs.twimg.com/media/EnVebjqXUAIse_Z.jpg,https://twitter.com/twitter/statuses/1330073353567264771
+361,1330072679215411207,"#30DayMapChallenge Day 21: Water. Surface water bodies in Finland.
+
+Surface water and land cover data from Suomen ympäristökeskus @syke, national border line and sea areas from @openstreetmap, made in @qgis. https://t.co/CsaWtbUGsw",de,2020-11-21 08:56:52,2,37,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",76912257,Jukka Alander,kinotus,"Helsinki, Finland",270,865,http://pbs.twimg.com/media/EnVdiKYXIAQ6gbB.jpg,https://twitter.com/twitter/statuses/1330072679215411207
+362,1330072678645047296,"#30DayMapChallenge Day 21 | Water
+
+Today we give our tribute to Lake Maggiore, intersecting two countries &amp; located only a few steps from the place where we work - the European Commission JRC.
+
+Map designed in #QGIS &amp; Illustrator. https://t.co/4HDUfp0Hu1",en,2020-11-21 08:56:52,3,12,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'QGIS', 'indices': [214, 219]}]",1669906789,Marco Minghini,MarcoMinghini,"Como, Italy",1066,701,http://pbs.twimg.com/media/EnVbmr0W4AMgwhM.jpg,https://twitter.com/twitter/statuses/1330072678645047296
+363,1330072611418755072,"#30DayMapChallenge #water #connecting countries - the path of the Danube through Europe. #geopython #geopandas #shapely Curiously, Moldova is about 1.6 km away from Danube river in this #NaturalEarth dataset https://t.co/Lj1yNv9Pxu https://t.co/6TqNYqltuq",en,2020-11-21 08:56:36,0,10,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'water', 'indices': [19, 25]}, {'text': 'connecting', 'indices': [26, 37]}, {'text': 'geopython', 'indices': [89, 99]}, {'text': 'geopandas', 'indices': [100, 110]}, {'text': 'shapely', 'indices': [111, 119]}, {'text': 'NaturalEarth', 'indices': [186, 199]}]",409168655,Alexander Kmoch,allixender,"Tartu, Eesti",259,213,http://pbs.twimg.com/media/EnVdTqBXEAEXQXp.jpg,https://twitter.com/twitter/statuses/1330072611418755072
+364,1330072407277776896,"Day 21 - Water #30DayMapChallenge 
+
+The water (and ice) of the world according to Natural Earth (with some bathymetry added for good measure) https://t.co/ifzssd3Vp9",en,2020-11-21 08:55:48,4,17,"[{'text': '30DayMapChallenge', 'indices': [15, 33]}]",996835888813494272,Catherine Schroder,cj_maps,"Scotland, United Kingdom",63,77,http://pbs.twimg.com/media/EnVdzKwXUAAhTsN.jpg,https://twitter.com/twitter/statuses/1330072407277776896
+365,1330071950635511809,"#30DayMapChallenge Day 21.  Water
+
+The fishing activity reflects water, right? So, here is the total hours for 2016 in the Mediterranean Sea. 
+
+#dataviz #rspatial #rstats https://t.co/wu8cdxqMvW",en,2020-11-21 08:53:59,44,262,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'dataviz', 'indices': [144, 152]}, {'text': 'rspatial', 'indices': [153, 162]}, {'text': 'rstats', 'indices': [163, 170]}]",895213223724666880,Dominic Royé,dr_xeo,"Santiago de Compostela, España",2504,999,http://pbs.twimg.com/media/EnVcwSsXUAIeGVJ.jpg,https://twitter.com/twitter/statuses/1330071950635511809
+366,1330069742099554304,"#30DayMapChallenge day 21 ""Water"". A hand drawn map (in Inkscape) of maritime boundaries highlighting New Zealand's nearby (187 km away) neighbour, the United States. Because I wanted to share an interesting quirk of geopolitics. https://t.co/GGweF742bQ",en,2020-11-21 08:45:12,3,13,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",2606576396,David Hood,Thoughtfulnz,New Zealand,1618,91,http://pbs.twimg.com/media/EnVbHRjXEAQzYLM.png,https://twitter.com/twitter/statuses/1330069742099554304
+367,1330068966048485376,"#30DayMapChallenge - 21 - Water
+
+Naufrages au large de l'Irlande (1797 - 2015)
+
+Données : INFOMAR @followtheboats https://t.co/hl1AsiwBE8",fr,2020-11-21 08:42:07,3,17,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",2367649759,Gaëlle Sutton,Gaelle_Sutton,,1670,1797,http://pbs.twimg.com/media/EnVamhJWMAA-M1R.jpg,https://twitter.com/twitter/statuses/1330068966048485376
+368,1330066415429316611,"#30DayMapChallenge The map is in development for a #watermuseum project about @ClimateHeritage at DasKlärwerk in #krefeld. It shows the historical impact of industrialisation on open waters. More maps on 
+https://t.co/17rxC5VPkF https://t.co/uBKV5Sf2ee",en,2020-11-21 08:31:59,4,8,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'watermuseum', 'indices': [51, 63]}, {'text': 'krefeld', 'indices': [113, 121]}]",1170948529747111938,dasKlärwerk,dasklaerwerk,"Krefeld, NRW, Germany, Europe",24,66,http://pbs.twimg.com/media/EnVUg_eXUAEGNwp.jpg,https://twitter.com/twitter/statuses/1330066415429316611
+369,1330063779099529220,"#30DayMapChallenge Day 20: Water
+More ancient history and state of the art from 1984 at @UCLgeography. A digitised river network (day 2) overlain on two Landsat image bands. Image is a photograph (film) taken from the screen – the only possible output mechanism at the time. https://t.co/iwzBnzDMJV",en,2020-11-21 08:21:30,2,1,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",1268236531,Tom Timms,TomTheMap,"Cambridgeshire, UK",427,633,http://pbs.twimg.com/media/EnVVqC7XEAgN2C4.jpg,https://twitter.com/twitter/statuses/1330063779099529220
+370,1330061184393994244,"On a roll now.  I used actual levels first (see thread) but it wasn't as dramatic as this simulated data. #rayshader, #30DayMapChallenge, #rstats, #waterviz. https://t.co/4LczQUVoUB",en,2020-11-21 08:11:12,2,10,"[{'text': 'rayshader', 'indices': [106, 116]}, {'text': '30DayMapChallenge', 'indices': [118, 136]}, {'text': 'rstats', 'indices': [138, 145]}, {'text': 'waterviz', 'indices': [147, 156]}]",45536151,David White,Makeo88,,22,101,http://pbs.twimg.com/tweet_video_thumb/EnVTBCkXYAA1S9i.jpg,https://twitter.com/twitter/statuses/1330061184393994244
+371,1330058891380580352,day 21: water. Heavy flood in Tartu. Don't ask...  #30DayMapChallenge https://t.co/unMd6ejF4g,en,2020-11-21 08:02:05,1,1,"[{'text': '30DayMapChallenge', 'indices': [51, 69]}]",113729499,Anto Aasa,antoaasa,"Tartu, Eesti",90,67,http://pbs.twimg.com/media/EnVRQfIXMAAOD19.png,https://twitter.com/twitter/statuses/1330058891380580352
+372,1330058617190551559,"#30DayMapChallenge Day 21: water
+
+#sneakpeek of forthcoming #thematicmapping book: 101 ways to map same data
+
+Tenuously, stars and stripes of the 2016 presidential election from sea to shining sea with ripple effect waterlining. https://t.co/of8dDTAo8p",en,2020-11-21 08:01:00,2,27,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'sneakpeek', 'indices': [34, 44]}, {'text': 'thematicmapping', 'indices': [60, 76]}]",20668314,Kenneth Field,kennethfield,"Redlands, CA & global",12427,104,http://pbs.twimg.com/media/EnSmCxYUcAAjLS_.jpg,https://twitter.com/twitter/statuses/1330058617190551559
+373,1330057441598468099,"#30dayMapChallenge Day 21: Water
+
+Oria ibaiaren arroa, Gipuzkoako arrorik handiena.
+
+Basin of river Oria.
+
+Data: @gaindegia, Copernicus, Sentinel, @euwikipedia 
+Software: QGis, Qgis2threejs, Photoshop https://t.co/LvHYp62RZn",tl,2020-11-21 07:56:20,4,14,"[{'text': '30dayMapChallenge', 'indices': [0, 18]}]",19770809,Galder Gonzalez🔻,theklaneh,Euskal Herria,9399,1195,http://pbs.twimg.com/media/EnVQKmEXUAcep2t.jpg,https://twitter.com/twitter/statuses/1330057441598468099
+374,1330056980422123523,"Day 21 of #30DayMapChallenge - Water
+🌊Water is part of everyday life in the Basque country, with lots of rain, rivers, and sea.
+Also home of my favorite mineral waters.
+Tools: R https://t.co/DfqYFMDuBz",en,2020-11-21 07:54:30,2,7,"[{'text': '30DayMapChallenge', 'indices': [10, 28]}]",950089955753250816,Jose Maria Echave Sanz,assesslife,Helsinki,196,393,http://pbs.twimg.com/media/EnVPq1fXUAAtO7n.jpg,https://twitter.com/twitter/statuses/1330056980422123523
+375,1330055392173453314,"#30DayMapChallenge day 17 -Historical map (kinda late)
+
+Recreated an old map - The Emigrants of the World, 1858. By Charles Joseph Minard
+
+Created a few months ago, tweaked again 
+
+Done with #mapbox and #tableau
+
+https://t.co/ZfcdAaV275
+
+@Mapbox @tableaupublic https://t.co/d0tXwirXmu",en,2020-11-21 07:48:11,3,18,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'mapbox', 'indices': [191, 198]}, {'text': 'tableau', 'indices': [203, 211]}]",755185543281946624,Frederic Fery,fredffery,Meanjin Brisbane Australia,1642,3268,http://pbs.twimg.com/media/EnVMvDSW4AEkLFi.jpg,https://twitter.com/twitter/statuses/1330055392173453314
+377,1330052824953188353,"#30DayMapChallenge day 21, water. 2120. La montée des eaux dans le sud est de la France et en detail le nord du 5eme arrondissement de Lyon, avec ses ruines mystérieuses, ses flaises abruptes et sa station de métro engloutie https://t.co/oeKItH9SP1",fr,2020-11-21 07:37:59,1,6,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",1189967197730430977,Julien Dupont Kobri,Kartokobri,,235,141,http://pbs.twimg.com/media/EnVL9UoWEAAwH_k.jpg,https://twitter.com/twitter/statuses/1330052824953188353
+378,1330052186680778753,"#30DayMapChallenge 21. Water
+
+The Shape of Water... Topographic Wetness index in northern Drôme &amp; Chambaran Plateau
+
+Made with #QGIS https://t.co/izEqWxWMXz",en,2020-11-21 07:35:27,2,31,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'QGIS', 'indices': [131, 136]}]",892006500,Romain Lx,lacxrx,Vaucluse,692,257,http://pbs.twimg.com/media/EnVKxtrW4AA8Nf5.jpg,https://twitter.com/twitter/statuses/1330052186680778753
+379,1330052094410289156,#30DayMapChallenge Day 21: #Water. Flow accumulation in part of the Rur catchment near #Roermond. Calculated with #PCRaster accuflux in #QGIS on #conda and visualised with #Aerialod. #QGISHydro #Roer. More about PCRaster in QGIS: https://t.co/YyIqCEMnw4 https://t.co/IoQ4q3Cn1r,en,2020-11-21 07:35:05,16,92,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'Water', 'indices': [27, 33]}, {'text': 'Roermond', 'indices': [87, 96]}, {'text': 'PCRaster', 'indices': [114, 123]}, {'text': 'QGIS', 'indices': [136, 141]}, {'text': 'conda', 'indices': [145, 151]}, {'text': 'Aerialod', 'indices': [172, 181]}, {'text': 'QGISHydro', 'indices': [183, 193]}, {'text': 'Roer', 'indices': [194, 199]}]",760094405369946112,Hans van der Kwast,hansakwast,The Netherlands,2829,1175,http://pbs.twimg.com/media/EnVKMO1XMAAOJZd.jpg,https://twitter.com/twitter/statuses/1330052094410289156
+380,1330052073891667968,"#30DayMapChallenge day 21: water. 
+
+There is a small artificial lake in Finland shaped like Finland: https://t.co/N3eFjp1i3O https://t.co/Ju7DPnsvcR",en,2020-11-21 07:35:00,18,186,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",2198358416,Topi Tjukanov,tjukanov,"Helsinki, Suomi",12072,2520,http://pbs.twimg.com/media/EnBpYPBW8AIGt6s.png,https://twitter.com/twitter/statuses/1330052073891667968
+381,1330050959314194434,"🗺️ Day 20 (belated) - ""Population""
+#30DayMapChallenge
+
+""Diversity in 🇷🇴 Romania in 3 maps""
+
+🎎 Ethnic diversity
+📿 Religious diversity
+👅 Linguistic diversity
+
+Made in 2015 based on the Romanian census made 4 years earlier.
+
+Based on this calculation:
+https://t.co/FgpRWLxIVY https://t.co/B6WaBwEWQ1",en,2020-11-21 07:30:34,3,16,"[{'text': '30DayMapChallenge', 'indices': [35, 53]}]",800277926348324864,Arnold Platon,Arnold_Platon,"Nice, France",2042,1480,http://pbs.twimg.com/media/EnVKSiNWMAAM8Py.jpg,https://twitter.com/twitter/statuses/1330050959314194434
+382,1330050816774955008,"#30DayMapChallenge Day 21 | Water
+
+A origin/destination map #xerographic a favourite of mine &amp; alternative to the hairball mess you usually see with flow data. But only works well with certain geographies. Another of my #ironviz entries.
+
+https://t.co/ngShNy5MdB https://t.co/pOaNoZQSt0",en,2020-11-21 07:30:00,2,23,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'xerographic', 'indices': [60, 72]}, {'text': 'ironviz', 'indices': [224, 232]}]",2614024302,Rob Radburn,robradburn,"Leicester, UK",3185,748,http://pbs.twimg.com/media/EnShNO8XEAMgqCq.png,https://twitter.com/twitter/statuses/1330050816774955008
+383,1330050061544415232,Day 20: Population. Failed miserably at making a population density line map so just resorted to a simple one... Still got got much to learn 😔 #30daymapchallenge #malaysia #QGIS https://t.co/qysMvPq6uB,en,2020-11-21 07:27:00,1,4,"[{'text': '30daymapchallenge', 'indices': [143, 161]}, {'text': 'malaysia', 'indices': [162, 171]}, {'text': 'QGIS', 'indices': [172, 177]}]",28102639,Phoebe L.,pheebely,"Austin, TX",245,159,http://pbs.twimg.com/media/EnVJUT6WMAAk5YB.jpg,https://twitter.com/twitter/statuses/1330050061544415232
+384,1330048444052987905,"Día 20 #30DayMapChallenge 
+
+Porcentaje de población hablante de cuicateco por localidad y variante lingüística https://t.co/7A6diGTcAD",es,2020-11-21 07:20:34,3,5,"[{'text': '30DayMapChallenge', 'indices': [7, 25]}]",358606269,El Diego,Kantzakata,"Fonetitlán, Distrito Federal",113,245,http://pbs.twimg.com/media/EnVG9FiW4AA0bQd.jpg,https://twitter.com/twitter/statuses/1330048444052987905
+385,1330047055037870084,#30DayMapChallenge Day 21: water. Can you recognize what place is on the map?🤔 https://t.co/zwy5hiwwHc,en,2020-11-21 07:15:03,1,6,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",1322101266793857026,Mobility Lab of University of Tartu,UT_moblab,Tartu,77,53,http://pbs.twimg.com/media/EnVGeopXIAELVaG.jpg,https://twitter.com/twitter/statuses/1330047055037870084
+386,1330045548263591938,Day 21 of #30DayMapChallenge : Water. Berlin has a lot of Water and a lot of public bathing spots within its rivers and lakes. There is an app by @TSBBerlin where you can see daily water quality predictions: https://t.co/qBvXjyKvWi Code: https://t.co/1AlxePuVeF https://t.co/CGMSRsqmcG,en,2020-11-21 07:09:04,6,13,"[{'text': '30DayMapChallenge', 'indices': [10, 28]}]",7541002,Sebastian Meier,seb_meier,,1280,141,http://pbs.twimg.com/media/EnVEshDXMAI3ZCb.jpg,https://twitter.com/twitter/statuses/1330045548263591938
+387,1330043769245327360,"#30DayMapChallenge 21. diena. Ūdens. Veltījums foršākajam ūdenssportam. Usmas regate ir viena no tradīcijām bagātākajām vindsērfinga sacensībām Latvijā, kas 1988. gadā pulcēja teju 300 sērfotājus. Kartē viens no maniem braucieniem 28. Usmas regatē šovasar. https://t.co/J11bOi0PHN https://t.co/ElW6QB7xeo",lv,2020-11-21 07:02:00,3,5,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",137107982,Zane,atdodkonfektes,,134,120,http://pbs.twimg.com/media/EnR10LXXYAgyAnw.jpg,https://twitter.com/twitter/statuses/1330043769245327360
+388,1330042285573230592,"Karttahaasteessa esillä vastuullamme olevat Saaristomeren meriväylät ja turvalaitteet. Rannikon sirpaleisuuden vuoksi turvalaitteita on Suomen merialueilla toiseksi eniten maailmassa. 
+Lisää aineistoja https://t.co/2RMVwE1Hpw #30DayMapChallenge #vayladata #avoindata #suomenvaylat https://t.co/5Fvb2fsx8w",fi,2020-11-21 06:56:06,4,15,"[{'text': '30DayMapChallenge', 'indices': [226, 244]}, {'text': 'vayladata', 'indices': [245, 255]}, {'text': 'avoindata', 'indices': [256, 266]}, {'text': 'suomenvaylat', 'indices': [267, 280]}]",1250961517,Väylävirasto,vaylafi,,13509,459,http://pbs.twimg.com/ext_tw_video_thumb/1330042261992857600/pu/img/yLEuCppTOsQ1J8Dq.jpg,https://twitter.com/twitter/statuses/1330042285573230592
+389,1330039003844898819,"Day 21: water
+
+Rivers around Mount Taranaki, Aotearoa/New Zealand.
+  
+@qgis + @LINZLDS
+ (elevation raster + rivers). #30DayMapChallenge https://t.co/LOkUWIkPy6",en,2020-11-21 06:43:04,1,2,"[{'text': '30DayMapChallenge', 'indices': [117, 135]}]",12306,Luis Apiolaza 🧮🍃📷⏚,zentree,"Ōtautahi, Aotearoa",1306,280,http://pbs.twimg.com/media/EnU_ZuiXEAAp_bt.jpg,https://twitter.com/twitter/statuses/1330039003844898819
+390,1330037221035040768,"#30DayMapChallenge for the #water theme. It my third maritime themed map so far, and it shows the location of visible shipwrecks across the world, according to a @googleearth layer I found. https://t.co/MO0BKSkmt9",en,2020-11-21 06:35:59,1,7,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'water', 'indices': [27, 33]}]",202227790,David Leather,david_leather,Sheffield,167,294,http://pbs.twimg.com/media/EnU9zVsXcAQlHIK.jpg,https://twitter.com/twitter/statuses/1330037221035040768
+391,1330033146054774790,"Small trip to #damanfort yesterday! 
+Out of house after 8-9months :) with mask on, of course. 
+#beach #weekendvibes #SaturdayThoughts #SaturdayMorning #30DayMapChallenge #happy https://t.co/YQBT9DBgE2",en,2020-11-21 06:19:47,1,0,"[{'text': 'damanfort', 'indices': [14, 24]}, {'text': 'beach', 'indices': [95, 101]}, {'text': 'weekendvibes', 'indices': [102, 115]}, {'text': 'SaturdayThoughts', 'indices': [116, 133]}, {'text': 'SaturdayMorning', 'indices': [134, 150]}, {'text': '30DayMapChallenge', 'indices': [151, 169]}, {'text': 'happy', 'indices': [170, 176]}]",2514816614,Aprajita Singh,tweet_zooni,India,185,269,http://pbs.twimg.com/media/EnU6Fx6XYAAU4it.jpg,https://twitter.com/twitter/statuses/1330033146054774790
+392,1330033144733573121,"#30DayMapChallenge 2020 Día 20 Población: Densidad de población (Habitantes por Km2) a nivel mundial, elaborado con datos del @ciesin @IIEGJ @tjukanov https://t.co/9JtkRrFGNJ",es,2020-11-21 06:19:47,1,2,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",7630312,Yúum-K'aak-Náab,jdeltoro1973,Guadalajara México,537,1998,http://pbs.twimg.com/media/EnU6EwNXEAAlN3v.jpg,https://twitter.com/twitter/statuses/1330033144733573121
+393,1330032752289308679,"Day 21 of #30DayMapChallenge: Water
+
+A simple map of Rangaunu Harbour (Northland, New Zealand) https://t.co/r4nLo9iKFY",en,2020-11-21 06:18:13,2,34,"[{'text': '30DayMapChallenge', 'indices': [10, 28]}]",93839237,Andrew DC,andrewdc_nz,"Christchurch City, New Zealand",608,167,http://pbs.twimg.com/media/EnU5OvwXUAIyeZl.jpg,https://twitter.com/twitter/statuses/1330032752289308679
+394,1330029518564827138,#30DayMapChallenge https://t.co/nbg0Mfo4f9,und,2020-11-21 06:05:22,1,0,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",1309032084707725314,Stephen Westwood,StephenWestwo15,,1,23,http://pbs.twimg.com/media/EnU2zC6XYAAOeid.jpg,https://twitter.com/twitter/statuses/1330029518564827138
+395,1330029255690883072,"#30DayMapChallenge @tjukanov Day 21: Water
+#India Dams by Storage Capacity 2011
+Data Source: GRanD 2011 @ciesin https://t.co/RTEqOixuj4
+Map generated using #FME @SafeSoftware @googleearth
+Thank You @PixelSoftek https://t.co/hgPrfER7Ho",en,2020-11-21 06:04:19,1,4,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'India', 'indices': [43, 49]}, {'text': 'FME', 'indices': [156, 160]}]",105407287,SRG,Saint_GIS,"Chennai, India",134,86,http://pbs.twimg.com/media/EnU2Zn5XUAImYXL.jpg,https://twitter.com/twitter/statuses/1330029255690883072
+397,1330011063828541447,"#30DayMapChallenge - Day 20 - Population
+
+Somehow we always focus on the most populated countries, so thought to shift the focus and look at one of the least populated. Plotted a map showing population spread of Monaco. 
+
+Created using #python + #keplergl https://t.co/pg0huVqz91",en,2020-11-21 04:52:02,2,1,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'python', 'indices': [236, 243]}, {'text': 'keplergl', 'indices': [246, 255]}]",867502710131752960,Vivek Parashar,vivekparasharr,,14,24,http://pbs.twimg.com/media/EnUmAqmWEAErxJp.jpg,https://twitter.com/twitter/statuses/1330011063828541447
+398,1330010838091124736,"#30DayMapChallenge day 21 (water): Puerto Rico Trench
+-
+Made in #rayshader #rstats #rspatial https://t.co/ecQpbqGRie",en,2020-11-21 04:51:08,4,9,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'rayshader', 'indices': [64, 74]}, {'text': 'rstats', 'indices': [75, 82]}, {'text': 'rspatial', 'indices': [83, 92]}]",840369042632396800,newishtodc,cstats1,"Washington, DC",452,57,http://pbs.twimg.com/media/EnUlwcDXMAA7PYt.jpg,https://twitter.com/twitter/statuses/1330010838091124736
+399,1330009424577110016,"Population density of India: Pretty conspicuous that northern India across the fertile plains of river Ganges is much more densely packed than the rest of India.
+
+#30DayMapChallenge Day 20: Population
+Made with #rstats #rayshader Data from GHSL 2015 estimate. #rspatial #QGIS https://t.co/UPnsNcat1X",en,2020-11-21 04:45:31,7,27,"[{'text': '30DayMapChallenge', 'indices': [163, 181]}, {'text': 'rstats', 'indices': [211, 218]}, {'text': 'rayshader', 'indices': [219, 229]}, {'text': 'rspatial', 'indices': [260, 269]}, {'text': 'QGIS', 'indices': [270, 275]}]",1234136874,Pratap Vardhan,PratapVardhan,"Princeton, NJ",870,147,http://pbs.twimg.com/media/EnUjsGcXIAAs4oG.jpg,https://twitter.com/twitter/statuses/1330009424577110016
+400,1330007988652937217,#30DayMapChallenge Theme: water. Posting early because I have to travel tomorrow. Made it real quickly but I wanted to highlight the massive #Hohokam canal network of the city I went to for grad school #Phoenix #Arizona. https://t.co/UpdWTUkahx,en,2020-11-21 04:39:49,2,20,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'Hohokam', 'indices': [141, 149]}, {'text': 'Phoenix', 'indices': [202, 210]}, {'text': 'Arizona', 'indices': [211, 219]}]",822048926081712128,Carl Churchill,Cchurchili,CO / Tabeguache Ute Land,1591,728,http://pbs.twimg.com/media/EnUi8nSXIAAGmfC.jpg,https://twitter.com/twitter/statuses/1330007988652937217
+401,1329998643785560067,"#30DayMapChallenge 
+😷😷😷
+(day 20 -- population) https://t.co/MDj7SKqt0o",en,2020-11-21 04:02:41,3,14,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",485140041,Matt Dzugan,MattDzugan,"Chicago, IL",101,718,http://pbs.twimg.com/media/EnUac7JXIAMN_Of.jpg,https://twitter.com/twitter/statuses/1329998643785560067
+402,1329997093574905856,"Day 20 of #30DayMapChallenge Population
+Really liked https://t.co/JyTpynvwg2 (where the data came from). Will study more. https://t.co/kt6F4JtMOU",en,2020-11-21 03:56:31,1,2,"[{'text': '30DayMapChallenge', 'indices': [10, 28]}]",1322740260422385665,Anat Zohar,AnatZohar4,,1,18,http://pbs.twimg.com/media/EnUZTAAVkAA5bHf.jpg,https://twitter.com/twitter/statuses/1329997093574905856
+403,1329996269692088321,#30DayMapChallenge Day 20: Population. NYC Community Boards with their 2010 populations. Sometimes you need to make a drag and drop choropleth with outdated data to remember where you started. https://t.co/oOw6E1fGpm,en,2020-11-21 03:53:15,1,2,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",215404498,Ariel Kadouri,akadouri,,141,388,http://pbs.twimg.com/media/EnUXydjWMAIOkEI.jpg,https://twitter.com/twitter/statuses/1329996269692088321
+404,1329994706760163330,"Dia 17 y día 18 del #30DayMapChallenge Historical Map / Landuse. 
+Tocan dos mapas de la #cdmx en este caso, uno histórico topográfico de 1902 y su comparación con la actualidad y  otro del uso suelo actual.
+#QGIS https://t.co/j6Z9Bee6WO",es,2020-11-21 03:47:02,1,0,"[{'text': '30DayMapChallenge', 'indices': [20, 38]}, {'text': 'cdmx', 'indices': [88, 93]}, {'text': 'QGIS', 'indices': [207, 212]}]",2372331457,Carlos Ramirez,carlosrpz_,🇲🇽,216,592,http://pbs.twimg.com/media/EnUWuA7XEAAihyb.jpg,https://twitter.com/twitter/statuses/1329994706760163330
+405,1329994615034929158,"Día 20: Población #30DayMapChallenge 
+
+Concentración de Población de la cobertura de la estación de FM 107.5 XHQRO en #Cortazar, GTO.
+
+Habitantes
+Rojo - Más
+Amarillo - Menos
+
+#Qgis https://t.co/RBij1tgoyR https://t.co/GQwtZY0DR7",es,2020-11-21 03:46:40,1,0,"[{'text': '30DayMapChallenge', 'indices': [18, 36]}, {'text': 'Cortazar', 'indices': [118, 127]}, {'text': 'Qgis', 'indices': [175, 180]}]",72170599,Mario Hernández,armiok,Ecatepec de Morelos,560,147,http://pbs.twimg.com/media/EnUWoClXUAEKQr-.jpg,https://twitter.com/twitter/statuses/1329994615034929158
+406,1329993408891547649,Day 20 of the #30DayMapChallenge (Population)... Here's a map showing every current &amp; historic US born MLB and MiLB players city of birth. Bigger circle = more players. https://t.co/qFgSHfAJjw,en,2020-11-21 03:41:53,8,66,"[{'text': '30DayMapChallenge', 'indices': [14, 32]}]",14344140,Daren Willman,darenw,"Houston, TX",80312,759,http://pbs.twimg.com/media/EnUVC9IXIAEKhQt.jpg,https://twitter.com/twitter/statuses/1329993408891547649
+408,1329977509824303105,"#30DayMapChallenge Day 20: Population
+
+I've been really enjoying exploring different map styles this month. This one is inspired by memories of landing at O'Hare at night. Turning cities into streetlights. https://t.co/OfHwW2L8fC",en,2020-11-21 02:38:42,3,9,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",579246246,Cas,cas_maps,,188,1044,http://pbs.twimg.com/media/EnUG0CEXYAEUYx-.jpg,https://twitter.com/twitter/statuses/1329977509824303105
+409,1329961209861443587,"There are so many ways to classify what is urban, suburban, and rural populations so I took one way and put it on a map for Virginia (which is an interestingly representative state for the U.S.)! #30DayMapChallenge #rstats #rspatial Code: https://t.co/p8NhWOpEkz https://t.co/3vLwGIufpn",en,2020-11-21 01:33:56,43,218,"[{'text': '30DayMapChallenge', 'indices': [196, 214]}, {'text': 'rstats', 'indices': [215, 222]}, {'text': 'rspatial', 'indices': [223, 232]}]",2832470440,Katie Jolly,katiejolly6,"Seattle, WA",1157,1681,http://pbs.twimg.com/media/EnT4fOBXYAUreIv.jpg,https://twitter.com/twitter/statuses/1329961209861443587
+410,1329956841128927235,"Day 16:  Population. Vermont has a population of roughly 625,000. Here each point represents 10 people randomly placed within their municipality, accounting for unpopulated areas like lakes, road, and protected land. Our few urban centers are clearly visible. #30DayMapChallenge https://t.co/HoPOAtrXse",en,2020-11-21 01:16:34,1,1,"[{'text': '30DayMapChallenge', 'indices': [260, 278]}]",721829381207887872,David Fox,ReynardSubtil,"Vermont, USA",71,170,http://pbs.twimg.com/media/EnT0SUOXUAQGg52.jpg,https://twitter.com/twitter/statuses/1329956841128927235
+411,1329956088767270913,"saw so many wonderful #30DayMapChallenge population density maps using @undertheraedar's excellent tutorial, had to join the fun and make one of my own https://t.co/PRY9i4yKt6",en,2020-11-21 01:13:35,2,16,"[{'text': '30DayMapChallenge', 'indices': [22, 40]}]",14913762,vicky johnson-dahl,hurricanevicky,"Washington, DC",996,858,http://pbs.twimg.com/media/EnTz2NtXEAM8cnY.jpg,https://twitter.com/twitter/statuses/1329956088767270913
+412,1329953270899601408,Census 101: make sure you count all the things the first time around. Here's the other 10% of my population and a little shout-out to the adorable US state of Vermont #30DayMapChallenge https://t.co/8sbK1jJXlu,en,2020-11-21 01:02:23,1,7,"[{'text': '30DayMapChallenge', 'indices': [167, 185]}]",36932521,Rachel Franklin🦚,rsfrankl,Home,2009,1744,http://pbs.twimg.com/media/EnTwlCSXMAMG-BX.jpg,https://twitter.com/twitter/statuses/1329953270899601408
+413,1329944550874484739,Confidentiality-preserving (shoe) population map for Day 20 of #30DayMapChallenge https://t.co/5rZ8NApCSS,en,2020-11-21 00:27:44,2,18,"[{'text': '30DayMapChallenge', 'indices': [63, 81]}]",36932521,Rachel Franklin🦚,rsfrankl,Home,2009,1744,http://pbs.twimg.com/media/EnTo0h2W8AMXgD6.jpg,https://twitter.com/twitter/statuses/1329944550874484739
+414,1329939056021671936,Day 20 of the #30DayMapChallenge -- Population. Here is a map of population density and age distribution (%) in Boston. #QGIS https://t.co/QUbb7dTmt0,en,2020-11-21 00:05:54,1,4,"[{'text': '30DayMapChallenge', 'indices': [14, 32]}, {'text': 'QGIS', 'indices': [120, 125]}]",3261719668,Alina Ristea,Alina_Ristea,"Boston, MA",135,293,http://pbs.twimg.com/media/EnTkXcLWMAIOjDA.jpg,https://twitter.com/twitter/statuses/1329939056021671936
+415,1329937571313455104,"#30DayMapChallenge
+Día 20: Población. El mapa de relación de población femenina y masculina por manzana nos muestra dos variables simultáneamente y destaca que en el Área Metropolitana de Guadalajara hay más mujeres que hombre. https://t.co/2z83lw7xWS",es,2020-11-21 00:00:00,8,20,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",2239825712,IIEG Jalisco,IIEGJ,"Calzada de los Pirules #71, Ciudad Granja, Zapopan, Jalisco",4769,0,http://pbs.twimg.com/media/EnTPa7pXUAMjxFw.jpg,https://twitter.com/twitter/statuses/1329937571313455104
