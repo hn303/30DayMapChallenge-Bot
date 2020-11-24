@@ -71,7 +71,6 @@ Top favorited tweets refers to the tweets get many `liked`/:heart:. The faviorit
 | ![](http://pbs.twimg.com/tweet_video_thumb/EngXQ9XW4AAvMOX.jpg)                              | **[@geodatascience](https://twitter.com/twitter/statuses/1330839850463924225)** |        32 |        154 |
 | ![](http://pbs.twimg.com/media/Eng4iuhVoAEKNAM.jpg)                                          | **[@rajbhagatt](https://twitter.com/twitter/statuses/1330876003002900483)**     |        23 |        128 |
 | ![](http://pbs.twimg.com/media/EnhNfguW4AEsdIn.jpg)                                          | **[@tkardi](https://twitter.com/twitter/statuses/1330902173442519041)**         |        18 |         83 |
-| ![](http://pbs.twimg.com/tweet_video_thumb/EngK03IVQAAKrvA.jpg)                              | **[@ShijiaWendy](https://twitter.com/twitter/statuses/1330827138849599488)**    |        14 |         76 |
 | ![](http://pbs.twimg.com/media/Enim0NYXMAQpuVl.jpg)                                          | **[@cstats1](https://twitter.com/twitter/statuses/1330997182116327425)**        |        15 |         74 |
 | ![](http://pbs.twimg.com/ext_tw_video_thumb/1330797827275034624/pu/img/PSM_blhtkMdzafXo.jpg) | **[@owenjpowell](https://twitter.com/twitter/statuses/1330797904236326912)**    |         2 |         60 |
 | ![](http://pbs.twimg.com/media/Eni0AWsXUAEttyJ.jpg)                                          | **[@pokateo_](https://twitter.com/twitter/statuses/1331012288371978241)**       |         5 |         48 |
