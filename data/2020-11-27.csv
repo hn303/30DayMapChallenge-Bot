@@ -1,0 +1,537 @@
+,tweet_id,tweet_text,language,tweet_created_at,retweet,favorite,hashtags,user_id,user_name,user,user_loc,user_follower,friends_count,media,tweet_url
+63,1332472454544039937,"#30DayMapChallenge - Day 27: Big or small data
+
+Shrinking GeoJSONs.
+
+Today I came up with an approach for reducing the size of GeoJSON files used in web visualisations. A 26MB shapefile or geopackage inflates to 69MB when exported to GeoJSON. I’ve shrunk that to less than 2MB. https://t.co/lvcu0HtyFk",en,2020-11-27 23:52:43,1,4,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",12620762,Mike Coats,MikeCoatsDotCom,"Inverness, Scotland",301,1191,http://pbs.twimg.com/media/En3koN9W4AYNx8R.jpg,https://twitter.com/twitter/statuses/1332472454544039937
+65,1332461601270755336,"#30DayMapChallenge 
+Day 27: Big or Small Data
+
+A small data : Mines visited by me from 2015 to 2019
+
+#Geologist #Mining #Exploration https://t.co/eGVRwsHSnp",en,2020-11-27 23:09:36,2,9,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'Geologist', 'indices': [101, 111]}, {'text': 'Mining', 'indices': [112, 119]}, {'text': 'Exploration', 'indices': [120, 132]}]",1235881627684921344,EL JARMOUNI Mohamed,EljarmouniMed,"Casablanca, Grand Casablanca",136,543,http://pbs.twimg.com/media/En3aP8jXMAU277k.png,https://twitter.com/twitter/statuses/1332461601270755336
+67,1332459555863851010,"El Directorio Estadístico Nacional de Unidades Económicas (DENUE) ofrece los datos de identificación, ubicación, actividad económica y tamaño de más de 5 millones de unidades económicas activas en el territorio nacional 
+#30DayMapChallenge 2020
+Día 27: Big or small data? https://t.co/yIs9ddizdV",es,2020-11-27 23:01:28,1,0,"[{'text': '30DayMapChallenge', 'indices': [221, 239]}]",890753654822588417,Yaireth Ortiz,Yaireth_Ortiz,,13,352,http://pbs.twimg.com/media/En3Y5izXMAITDuL.jpg,https://twitter.com/twitter/statuses/1332459555863851010
+68,1332459394341228545,"8oz of piping hot small data for #30DayMapChallenge, featuring places I've grabbed coffee in the past year or so (I used to walk to work) https://t.co/oW3yZg525R",en,2020-11-27 23:00:50,3,44,"[{'text': '30DayMapChallenge', 'indices': [33, 51]}]",14913762,vicky johnson-dahl,hurricanevicky,"Washington, DC",1001,860,http://pbs.twimg.com/media/En3Yv6UW4AEzxVF.jpg,https://twitter.com/twitter/statuses/1332459394341228545
+69,1332459258496102406,"Big and Small names in Ukraine. Big data for all names small cells for density :)
+#30DayMapChallenge Day 27: Big or small data
+#QGIS, #OpenStreetMap https://t.co/LBOevYHN0x",en,2020-11-27 23:00:17,8,39,"[{'text': '30DayMapChallenge', 'indices': [82, 100]}, {'text': 'QGIS', 'indices': [127, 132]}, {'text': 'OpenStreetMap', 'indices': [134, 148]}]",14992557,gontsa,gontsa,"Cherkasy, Ukraine",4590,1420,http://pbs.twimg.com/media/En3XjLWWMAI6ddK.png,https://twitter.com/twitter/statuses/1332459258496102406
+70,1332457675003609088,"Day 28 of #30DayMapChallenge: Non-geographic map
+
+Auckland City Future Network, created in @MiniMetroGame
+
+One of my favourite games (created by kiwi developers @dinopoloclub!), so why not make a map with it? https://t.co/sxQacJ7Rjg",en,2020-11-27 22:54:00,7,23,"[{'text': '30DayMapChallenge', 'indices': [10, 28]}]",93839237,Andrew DC,andrewdc_nz,"Christchurch City, New Zealand",635,167,http://pbs.twimg.com/media/EnvG2InVEAEp1ei.jpg,https://twitter.com/twitter/statuses/1332457675003609088
+71,1332454103453057025,#30DayMapChallenge ...almost forgot today. Friday night = beer + pizza + wine = lazy map #BigData #SmallData #TheWorld #MyHouse 😁 night all! https://t.co/NLl1Bym2wm,en,2020-11-27 22:39:48,2,3,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'BigData', 'indices': [89, 97]}, {'text': 'SmallData', 'indices': [98, 108]}, {'text': 'TheWorld', 'indices': [109, 118]}, {'text': 'MyHouse', 'indices': [119, 127]}]",734297005846081536,Steve Carver,LandEthics,"Yorkshire, England",2108,443,http://pbs.twimg.com/media/En3Tt31W8AYv0-S.jpg,https://twitter.com/twitter/statuses/1332454103453057025
+72,1332452783161700352,"Day 28: non-geographic map
+
+My inexorable journey South since 1976. 
+
+In addition to the daily theme, it also fits map not made with GIS software and new tool (Excel). Lat and long are proportionate within country.
+
+#30DayMapChallenge https://t.co/oIiPpDDZ1S",en,2020-11-27 22:34:33,1,1,"[{'text': '30DayMapChallenge', 'indices': [216, 234]}]",12306,Luis Apiolaza 🧮🍃📷⏚,zentree,"Ōtautahi, Aotearoa",1317,285,http://pbs.twimg.com/media/En3R76ZUwAAXgqe.jpg,https://twitter.com/twitter/statuses/1332452783161700352
+73,1332452390180704258,"#30DayMapChallenge Día 27: Datos pequeños o grandes. Elegí estos datos porque muestran la poca infraestructura cultural a menos que estés en Alameda - Providencia.
+
+... en mi comuna hay solo un punto.
+
+#rstats #rspatial 
+
+Código: https://t.co/HBJScjzRg7 https://t.co/rGGLsCUwQ0",es,2020-11-27 22:33:00,4,2,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'rstats', 'indices': [202, 209]}, {'text': 'rspatial', 'indices': [210, 219]}]",30381129,Steph Orellana Bello,sporella,Chile,341,205,http://pbs.twimg.com/media/En3Iy4DW8AISYqg.jpg,https://twitter.com/twitter/statuses/1332452390180704258
+74,1332445482694680576,"Big Data: Map showing internet speeds across the world.
+
+Source: Ookla https://t.co/YdWh3n0Uet
+
+#30DayMapChallenge #Day27 #BigData #Ookla https://t.co/5WxpYJzGnp",en,2020-11-27 22:05:33,6,17,"[{'text': '30DayMapChallenge', 'indices': [96, 114]}, {'text': 'Day27', 'indices': [115, 121]}, {'text': 'BigData', 'indices': [122, 130]}, {'text': 'Ookla', 'indices': [131, 137]}]",314881866,Joe Davies,JoeWDavies,Cardiff / Madrid / Luxembourg,266,222,http://pbs.twimg.com/media/En3L7DSXIAIHlmC.jpg,https://twitter.com/twitter/statuses/1332445482694680576
+75,1332440770519961602,"#30DayMapChallenge
+Día 27: Big Data. Importaciones y exportaciones de México, mapa generado con 8,826,302 registros aduanales. https://t.co/zjmKMpnyFT",es,2020-11-27 21:46:49,6,22,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",2239825712,IIEG Jalisco,IIEGJ,"Calzada de los Pirules #71, Ciudad Granja, Zapopan, Jalisco",4777,0,http://pbs.twimg.com/tweet_video_thumb/En3HdfDW4AQ-yPn.jpg,https://twitter.com/twitter/statuses/1332440770519961602
+76,1332438892126015489,"#30DayMapChallenge - 27 Big or small data
+
+Miniature railway track of Pully, Switzerland https://t.co/AEon2krRBu",en,2020-11-27 21:39:22,1,1,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",1320623996249976832,Raphaël Bz,1cartogRaph,Switzerland,23,2,http://pbs.twimg.com/media/En3GCXAWMAEXPOd.jpg,https://twitter.com/twitter/statuses/1332438892126015489
+77,1332437515890987009,"Day 27 of #30DayMapChallenge is ‘big or small data’. It’s late, so I went small to sketch the max number of people engaged with at work at one point in time today, as appeared in both real &amp; virtual worlds. I like how symbolic hex paper is for representing carbon based life forms https://t.co/3GaG38cebg",en,2020-11-27 21:33:53,1,1,"[{'text': '30DayMapChallenge', 'indices': [10, 28]}]",176337766,Danny Cullinane,timbertopper400,NW England,393,778,http://pbs.twimg.com/media/En3E2NCXMAcBFee.jpg,https://twitter.com/twitter/statuses/1332437515890987009
+78,1332437410949570561,"#30DayMapChallenge - Day 27 - Big data
+
+Landsat 8 satellite imagery data is Big data! Used part of that and STRM data at 30 meter resolution to render a 3D view of the Mount Everest! 
+
+Data from https://t.co/gX2gImoA6z and https://t.co/yoqG24lxSq
+
+Created using #R + #rayshader https://t.co/ZxBqXfSeQK",en,2020-11-27 21:33:28,4,13,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'R', 'indices': [262, 264]}, {'text': 'rayshader', 'indices': [267, 277]}]",867502710131752960,Vivek Parashar,vivekparasharr,,15,24,http://pbs.twimg.com/ext_tw_video_thumb/1332437279315550210/pu/img/YlBrS_i8ALFUjs8E.jpg,https://twitter.com/twitter/statuses/1332437410949570561
+79,1332436963752894468,"#30DayMapChallenge day 27 - big or small data:
+A week of tweets in Europe - big data in cities and small data on the countryside.
+
+Also my first try working with @datashader in python. https://t.co/qi8iyUILHz",en,2020-11-27 21:31:42,1,4,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",1179338958758727681,Chris Stelzmüller,chrisstelz,"Linz, Austria 🇦🇹🏔",14,90,http://pbs.twimg.com/media/En3EQLIWMAAFIBQ.png,https://twitter.com/twitter/statuses/1332436963752894468
+80,1332436062308884480,"#30DayMapChallenge Big or Small data , île de Taal Volcano 9 Millions de points, https://t.co/xiX9Njl6Gf, https://t.co/50aZ03ygCw, https://t.co/UgYcMCjFXX",ro,2020-11-27 21:28:07,1,1,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",2493409233,Africa & Geomatique,geocarta,,308,172,http://pbs.twimg.com/media/En3C1HhWMAAg7So.jpg,https://twitter.com/twitter/statuses/1332436062308884480
+81,1332435837271871488,"Here’s our Day 27: Big/Small Data roundup for #30DayMapChallenge - see our twitter thread for original authors and links
+
+#geoshare #GISchat https://t.co/7JfJV88IGn",en,2020-11-27 21:27:13,1,6,"[{'text': '30DayMapChallenge', 'indices': [46, 64]}, {'text': 'geoshare', 'indices': [122, 131]}, {'text': 'GISchat', 'indices': [132, 140]}]",190644064,British Cartographic Society,bcsweb,UK,3442,271,http://pbs.twimg.com/media/En3DVQIXYAItxEu.jpg,https://twitter.com/twitter/statuses/1332435837271871488
+83,1332428991949488128,"Now for #30DayMapChallenge day 27, we have ""big or small data"". I went small. I keep this map handy - it highlights the only duplicate city names in Minnesota (not counting townships): St. Anthony. There's one in the metro, one in Stearns County. https://t.co/K5hecJZ4cR",en,2020-11-27 21:00:01,2,3,"[{'text': '30DayMapChallenge', 'indices': [8, 26]}]",222228205,Mike Dolbow,mmdolbow,"St. Paul, MN",1301,100,http://pbs.twimg.com/media/EnsxmcaXMAMsuqz.png,https://twitter.com/twitter/statuses/1332428991949488128
+84,1332428430768533505,"#30DayMapChallenge Day 27: Big Data.
+Big Data is really ""big"" and choosing the right data visualization often gets confusing for me. Here's an animation for crime count in 1997, 2007 and 2019. With data from @ACLEDINFO done with @qgis. Gif @ezgif_com https://t.co/9pNlq9s1Q4",en,2020-11-27 20:57:47,2,4,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",374459093,Jannah_A,zinnie__A,"Kaduna, Nigeria.",210,236,http://pbs.twimg.com/tweet_video_thumb/En28bgDXEAQL9QW.jpg,https://twitter.com/twitter/statuses/1332428430768533505
+86,1332428089461268491,"Long time, no picture😍😍😍
+#30DayMapChallenge #8YearsOfAAP #63notout #lagos https://t.co/Jjw0qqC4am",en,2020-11-27 20:56:26,2,2,"[{'text': '30DayMapChallenge', 'indices': [25, 43]}, {'text': '8YearsOfAAP', 'indices': [44, 56]}, {'text': '63notout', 'indices': [57, 66]}, {'text': 'lagos', 'indices': [67, 73]}]",2755869667,Oladele Bukola Mariam,mariam_Konstant,"Lagos, Nigeria",579,499,http://pbs.twimg.com/media/En28SR1WEAQqiq3.jpg,https://twitter.com/twitter/statuses/1332428089461268491
+87,1332427169168044035,"#30DayMapChallenge Day 27: Big or small data
+
+Big city of Minsk has a lot of small walkable cities inside.
+#30MinuteCity https://t.co/QigoTHwDfF",en,2020-11-27 20:52:47,1,8,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': '30MinuteCity', 'indices': [107, 120]}]",1024584556110852096,Kontur,KonturInc,"1305 N. Holopono Street, Suite 2
+Kihei HI 96753 
+USA",234,316,http://pbs.twimg.com/media/En27bwhXIAIlT4x.jpg,https://twitter.com/twitter/statuses/1332427169168044035
+89,1332425471322013698,"#30DayMapChallenge (theme: big / small data). #HydroSheds is one of the most comprehensive #water datasets available. Here is a #map of waterbodies across #Korea. 
+
+And, a reminder that nature doesn't stop at a border. #Korean labels from #naturalearth https://t.co/pnchAud0KM",en,2020-11-27 20:46:02,2,27,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'HydroSheds', 'indices': [46, 57]}, {'text': 'water', 'indices': [91, 97]}, {'text': 'map', 'indices': [128, 132]}, {'text': 'Korea', 'indices': [155, 161]}, {'text': 'Korean', 'indices': [219, 226]}, {'text': 'naturalearth', 'indices': [239, 252]}]",822048926081712128,Carl Churchill,Cchurchili,CO / Tabeguache Ute Land,1604,738,http://pbs.twimg.com/media/En251xsVEAArPXW.jpg,https://twitter.com/twitter/statuses/1332425471322013698
+90,1332425286026194946,"As #NI lockdown kicks in again, it's Friday night &amp; busting for pints with friends! Dreaming of vaccination times ahead! Here's a 'bivariate map' comparing 🚌travel times in #Belfast Small Area Geography. How far are ya from🍺+🍟Big or Small?😀 #27 - #Big/Small #30DayMapChallenge https://t.co/SN6hFXoAv2",en,2020-11-27 20:45:18,3,15,"[{'text': 'NI', 'indices': [3, 6]}, {'text': 'Belfast', 'indices': [177, 185]}, {'text': 'Big', 'indices': [251, 255]}, {'text': '30DayMapChallenge', 'indices': [262, 280]}]",3308382005,Conor Graham - Geography Jedi 🏞️🛰️⛰️🌋🌎🌏🌍,GeoConor,Northern Ireland,2411,5002,http://pbs.twimg.com/media/En25j9jWMAEewy9.jpg,https://twitter.com/twitter/statuses/1332425286026194946
+91,1332422326881824769,"#30DayMapChallenge  Day 27: Big or Small Data
+
+There are currently three ICE family detention centers in the US, which were detaining 124 children as of June 8. This practice is cruel and inhumane, especially in the midst of a global pandemic. #FreeTheFamilies https://t.co/274nXxtiT1",en,2020-11-27 20:33:32,3,2,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'FreeTheFamilies', 'indices': [244, 260]}]",579246246,Cas,cas_maps,,189,1047,http://pbs.twimg.com/media/En22wxzXcAAWNXN.jpg,https://twitter.com/twitter/statuses/1332422326881824769
+92,1332419939941052416,Principales corredores de usuarios @MiBiciPublica por género. Análisis de +10.47 millones de viajes realizados de 2018 a 2020 @to2peatones #BigData #30DayMapChallenge https://t.co/qxIFKV47pD,es,2020-11-27 20:24:03,5,7,"[{'text': 'BigData', 'indices': [139, 147]}, {'text': '30DayMapChallenge', 'indices': [148, 166]}]",97729765,Carlos Ruiz,cruizch,"Guadalajara, México",266,90,http://pbs.twimg.com/media/En20uDMVEAAsBVi.jpg,https://twitter.com/twitter/statuses/1332419939941052416
+93,1332413476120227851,"#30DayMapChallenge and here's a detail of what is happening, with country borders for reference https://t.co/8LfH3Ngars",en,2020-11-27 19:58:22,2,8,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",275677658,Keith Jenkins,kgjenkins,Ithaca,1159,187,http://pbs.twimg.com/tweet_video_thumb/En2u63kW4AMYAxG.jpg,https://twitter.com/twitter/statuses/1332413476120227851
+94,1332413250638635009,"#30DayMapChallenge I made another for Europe, just to see if I could remember the process https://t.co/StM2HvjJXE",en,2020-11-27 19:57:28,1,5,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",275677658,Keith Jenkins,kgjenkins,Ithaca,1159,187,http://pbs.twimg.com/tweet_video_thumb/En2ufoFW4AUvgKr.jpg,https://twitter.com/twitter/statuses/1332413250638635009
+95,1332412512910925825,"Day 27: Big Data
+#30DayMapChallenge 
+I worked countless hours on my original idea, however was not able to got it working in time. Quickly threw this together to upload something today and I'll continue working on my original plan. https://t.co/F4JKM6NOoa",en,2020-11-27 19:54:32,1,3,"[{'text': '30DayMapChallenge', 'indices': [17, 35]}]",1233423602948694017,Nic,DrNicNacks,,10,32,http://pbs.twimg.com/media/En2uDyDXIAAs-PN.jpg,https://twitter.com/twitter/statuses/1332412512910925825
+96,1332409222160637952,"Day 27 - Big/Small Data #30DayMapChallenge
+
+So here is a map of @BFRO_Updates BIGfoot Sightings! https://t.co/cOiSGMPyib https://t.co/glmEl9YTg6",en,2020-11-27 19:41:28,2,9,"[{'text': '30DayMapChallenge', 'indices': [24, 42]}]",996835888813494272,Catherine Schroder,cj_maps,"Scotland, United Kingdom",83,97,http://pbs.twimg.com/media/En2rH3IWMAI0sPu.jpg,https://twitter.com/twitter/statuses/1332409222160637952
+97,1332408718236000257,"#30DayMapChallenge.. Day 26 Big Data. Done in 2012 (yikes) from #osm GPX dump of billions of points, aggregated by geohash. Note the faint noise band between the tropics - can anyone explain this? https://t.co/VZzi5Aan8e",en,2020-11-27 19:39:28,2,8,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'osm', 'indices': [64, 68]}]",363276700,Steven Kay,stevefaeembra,Edinburgh,887,342,http://pbs.twimg.com/media/En2qUOZW8AIXmbT.jpg,https://twitter.com/twitter/statuses/1332408718236000257
+98,1332404051590459393,"Madness gigs in London, 1979
+
+Today's theme is big or small data, and this data is only a tiny 2.84kb so I hope that qualifies! 
+
+#30daymapchallenge #day27 #bigorsmalldata #illustrator https://t.co/PYsxMRlPUM",en,2020-11-27 19:20:55,3,34,"[{'text': '30daymapchallenge', 'indices': [130, 148]}, {'text': 'day27', 'indices': [149, 155]}, {'text': 'bigorsmalldata', 'indices': [156, 171]}, {'text': 'illustrator', 'indices': [172, 184]}]",1101617286,Helen McKenzie,helenmakesmaps,London,1700,587,http://pbs.twimg.com/media/En2lp2-XYAMn0dv.jpg,https://twitter.com/twitter/statuses/1332404051590459393
+99,1332403120585007109,Forgot about a map today. Quickly made something. The smallest and largest UK census areas #30DayMapChallenge #day27 #bigsmalldata https://t.co/xPSKXt3lBG,en,2020-11-27 19:17:13,2,12,"[{'text': '30DayMapChallenge', 'indices': [91, 109]}, {'text': 'day27', 'indices': [110, 116]}, {'text': 'bigsmalldata', 'indices': [117, 130]}]",318026127,Craig Robson,CaRobson,Newcastle,190,205,http://pbs.twimg.com/media/En2li0wXUAEVoi0.jpg,https://twitter.com/twitter/statuses/1332403120585007109
+100,1332400591755210752,"#30DayMapChallenge 
+Day 27 - Big or small data
+
+Hidalgo, México: Meteoritos
+
+Data: Meteorite landings, NASA Open Data Portal https://t.co/RtrnU5QY3Y",es,2020-11-27 19:07:10,2,3,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",894755514571046915,The White Rabbit Science,whiterabbit_sci,,33,79,http://pbs.twimg.com/media/En2jRrYXYAAEcpV.jpg,https://twitter.com/twitter/statuses/1332400591755210752
+101,1332396091871027205,"#30DayMapChallenge
+
+Day 27: Big or small data
+
+That's a lot of bacon! We used spatial microsimulation to generate some big data as part of the @Pig_Sustain project. With @NikLomax  &amp; @Mark_Birkin 
+
+https://t.co/xh8X0x3CZx https://t.co/bhD4WuoewU",en,2020-11-27 18:49:17,1,3,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",1242400749864304640,William James,GeogWillJ,,59,147,http://pbs.twimg.com/media/En2cobSXEAA4oNc.png,https://twitter.com/twitter/statuses/1332396091871027205
+102,1332394793012514818,"🕹✈ #YSFlight #30DayMapChallenge 🗺 Balearic Islands #Map — Welsh Addons Hangar WIP scenery project by 'Dan' 👋👷👉 https://t.co/J7GUujVV3u
+👨‍✈️👩‍✈️ #avgeek #flightsim #gamedev #Airplanes3D #3D https://t.co/HuYhRsUakz",en,2020-11-27 18:44:08,0,2,"[{'text': 'YSFlight', 'indices': [3, 12]}, {'text': '30DayMapChallenge', 'indices': [13, 31]}, {'text': 'Map', 'indices': [51, 55]}, {'text': 'avgeek', 'indices': [144, 151]}, {'text': 'flightsim', 'indices': [152, 162]}, {'text': 'gamedev', 'indices': [163, 171]}, {'text': 'Airplanes3D', 'indices': [172, 184]}, {'text': '3D', 'indices': [185, 188]}]",921409205080412161,app4soft 🦖☄,app4soft,,193,0,http://pbs.twimg.com/media/En2cNqOWMAEV72Z.jpg,https://twitter.com/twitter/statuses/1332394793012514818
+103,1332393068935450625,"Day 27 (Big or Small data) of #30DayMapChallenge
+
+Big data - Populated Centers
+📷:@cristianyarasca (IG)
+
+What's interesting from the map, is that it shows the coincidence that areas with the highest concentration of town centers happen to also be the poorest regions.
+#MapInsight https://t.co/1bVWrYkL44",en,2020-11-27 18:37:16,1,3,"[{'text': '30DayMapChallenge', 'indices': [30, 48]}, {'text': 'MapInsight', 'indices': [267, 278]}]",1269335161335959552,the GIS girl,TheGISGirl,,58,117,http://pbs.twimg.com/media/En2cbwlXIAwm7n1.jpg,https://twitter.com/twitter/statuses/1332393068935450625
+104,1332392298676703232,"#30DayMapChallenge #Day27 : Big or Small Data. 
+Les utilisateurs de Facebook en Afrique. Carte faite sur @Datawrapper : 20min montre en main!
+
+Facebook users in Africa. Map made on @Datawrapper: 20min exactly! https://t.co/XD5jievh5N",en,2020-11-27 18:34:13,1,5,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'Day27', 'indices': [19, 25]}]",163493843,maelle am,MaelleAMM,Paris,279,407,http://pbs.twimg.com/media/En2boT3XMAAaleo.jpg,https://twitter.com/twitter/statuses/1332392298676703232
+105,1332391239103242242,"🗺️Who doesn't love a good #map?!
+
+🧑‍💻Our Technical Assurance, Modelling and Economics (TAME) team have been showcasing their geospatial #data as part of the #30DayMapChallenge.
+
+🖱️Click to discover more: https://t.co/RRwY1sXkbj https://t.co/KHNpDVdSmT",en,2020-11-27 18:30:00,2,1,"[{'text': 'map', 'indices': [26, 30]}, {'text': 'data', 'indices': [136, 141]}, {'text': '30DayMapChallenge', 'indices': [157, 175]}]",756392792310636544,Transport for the North,Transport4North,"England, United Kingdom",9777,2305,http://pbs.twimg.com/tweet_video_thumb/En10YYnXYAA0uEa.jpg,https://twitter.com/twitter/statuses/1332391239103242242
+106,1332390757236436992,#30DayMapChallenge day 27 - Is big or small data - ALPS - SRTM https://t.co/Cd1ESEa1cr,en,2020-11-27 18:28:05,2,4,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",1225029150433579010,Ivan D.,ivanziogeo,"Oricola, Abruzzo",62,296,http://pbs.twimg.com/media/En2aTYIW8AM8JQ-.jpg,https://twitter.com/twitter/statuses/1332390757236436992
+107,1332390731827310594,"Day 26 (Map with a new tool) of #30DayMapChallenge 
+
+Seal tracks in #Antarctica by @vlckel
+Created in uDig software.
+
+#NovemberMapChallenge https://t.co/F8Zk9a7ZLT",en,2020-11-27 18:27:59,1,7,"[{'text': '30DayMapChallenge', 'indices': [32, 50]}, {'text': 'Antarctica', 'indices': [68, 79]}, {'text': 'NovemberMapChallenge', 'indices': [118, 139]}]",1269335161335959552,the GIS girl,TheGISGirl,,58,117,http://pbs.twimg.com/media/En2aTrfXMAAU5TR.jpg,https://twitter.com/twitter/statuses/1332390731827310594
+108,1332390457133969417,"Wee Portbeg
+The only Scottish place-name in the GB1900 Gazetteer that contains both Scots wee 'small, little' and Scottish Gaelic beag 'small, little'.
+Used @undertheraedar's tutorials. Aerialod is amazing!
+#30DayMapChallenge #Day27 #BigOrSmallData #Aerialod #GIMP https://t.co/7tYQSsXSja",en,2020-11-27 18:26:54,1,9,"[{'text': '30DayMapChallenge', 'indices': [207, 225]}, {'text': 'Day27', 'indices': [226, 232]}, {'text': 'BigOrSmallData', 'indices': [233, 248]}, {'text': 'Aerialod', 'indices': [249, 258]}, {'text': 'GIMP', 'indices': [259, 264]}]",1081900377853829120,D&G place-names,dgplacenames,,604,306,http://pbs.twimg.com/media/En2ZLgiXcAEFBiA.jpg,https://twitter.com/twitter/statuses/1332390457133969417
+109,1332390239508295682,"#30DayMapChallenge 
+
+Day 28 Suggestion (November 28) - Non Geographic
+
+Data
+https://t.co/vrvi6nd8NG https://t.co/5xe9VY1TXq",en,2020-11-27 18:26:02,1,0,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",3160198320,Dr Chris #GIS #Success,DrChrisGeoSci,"Calgary, Alberta",734,656,http://pbs.twimg.com/media/En2Z3I_XUAE7hRc.png,https://twitter.com/twitter/statuses/1332390239508295682
+110,1332387993986998273,"So, look up your Tool's 10K-Days album cover artwork, or simply cross your eyes. 
+
+Digital 1m DEM as open data - the Estonian Land Board.
+
+This is #30DayMapChallenge, Day 26 - map with a new tool in which I used Blender for the first time. And listened to some olden Tool records https://t.co/zr8aPmiPYM",en,2020-11-27 18:17:06,1,9,"[{'text': '30DayMapChallenge', 'indices': [147, 165]}]",2629383321,Tõnis Kärdi,tkardi,"Tartu, Estonia",228,240,http://pbs.twimg.com/media/En2WqjOXUAIXKNT.png,https://twitter.com/twitter/statuses/1332387993986998273
+111,1332387757604352003,"#30DayMapChallenge day 27 is big or small data. I am taking the easy way out with a Strava heatmap of places I have ridden a bike in North America. 1,956 rides; 21,747 miles, and a lot of gps pings along the way https://t.co/X1akLw3rNb",en,2020-11-27 18:16:10,1,1,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",2719547953,Jesse Pisel,geologyjesse,,606,470,http://pbs.twimg.com/media/En2XjLuXcAM4VEu.jpg,https://twitter.com/twitter/statuses/1332387757604352003
+112,1332387595700105217,Day 27: Big/small data: Where did Estonians go abroad to have scheduled treatment in 2013-2019?  It would be interesting to know what impact the pandemic has had to year 2020. Visualization by @AgoTominga using open data from Estonian Health Insurance Fund. #30DayMapChallenge https://t.co/NgSZfvHU0h,en,2020-11-27 18:15:32,1,4,"[{'text': '30DayMapChallenge', 'indices': [258, 276]}]",1322101266793857026,Mobility Lab of University of Tartu,UT_moblab,Tartu,83,54,http://pbs.twimg.com/tweet_video_thumb/En2WeWCXIAADvE8.jpg,https://twitter.com/twitter/statuses/1332387595700105217
+113,1332386319750742016,Apocalyptic dreams map. This map shows the locations of dreams I’ve had where everything is in total chaos. I’ve wanted to make a cohesive dreams map of every location i dream about but these dreams are the most significant and recurring. #30DayMapChallenge https://t.co/ndZu2hJIpR,en,2020-11-27 18:10:27,1,3,"[{'text': '30DayMapChallenge', 'indices': [239, 257]}]",171160494,Josh u (╯°□°）╯︵ ┻━┻,sleepyjoshua,"Tlingit Land, Alaska",288,1040,http://pbs.twimg.com/media/En2WSpYW8AAnjh4.jpg,https://twitter.com/twitter/statuses/1332386319750742016
+114,1332385244511576065,"#30DayMapChallenge 27/30: Big or small data. Since I don't work with GIS or massive amounts of data, here are ""big"" &amp; (in thread) ""small"" versions of my #KeirByBike range, including Tour DuBois 2018 &amp; #TourDuBois2019, where I drove around SoCal to bike in different locations. https://t.co/W3ahfJQ2T0",en,2020-11-27 18:06:11,1,1,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'KeirByBike', 'indices': [157, 168]}, {'text': 'TourDuBois2019', 'indices': [209, 224]}]",1224107513131327488,keirtography,keirtography,"Ventura, CA",65,203,http://pbs.twimg.com/media/En2VEXRUUAE8Ti9.jpg,https://twitter.com/twitter/statuses/1332385244511576065
+115,1332383754044780544,"#30DayMapChallenge - map with a #newtool, so we did! With our software Flo.w we are showing the orbit of the @Space_Station around the Earth plus #NASA’s @Astromaterials live HD video stream looking back down at Earth. Enjoy the view: https://t.co/2ELRM7woEh https://t.co/CTntHBqO6u",en,2020-11-27 18:00:16,3,4,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'newtool', 'indices': [32, 40]}, {'text': 'NASA', 'indices': [146, 151]}]",2756004123,Emu Analytics,emu_info,"London, England",1426,2057,http://pbs.twimg.com/media/En2T4uWXMAQalfY.jpg,https://twitter.com/twitter/statuses/1332383754044780544
+116,1332382858233700353,"Happy Friday! #30DayMapChallenge , Day 27: Big or Small data: OSM point datasets that contain 'big' or 'small' in their name. https://t.co/aAl0IJ93FJ",en,2020-11-27 17:56:42,1,7,"[{'text': '30DayMapChallenge', 'indices': [14, 32]}]",2679909391,Zlata Popelnuh,popelnuhh,,116,163,http://pbs.twimg.com/media/En2TAlDXUAAKR0x.jpg,https://twitter.com/twitter/statuses/1332382858233700353
+117,1332382815061749761,"🌎 Mapping a small dataset about big data today: Google's data centers around the world!
+
+#30DayMapChallenge day 27: Big or small data
+
+#dataviz #maps https://t.co/CKW8JvQ8ex",en,2020-11-27 17:56:32,1,16,"[{'text': '30DayMapChallenge', 'indices': [89, 107]}, {'text': 'dataviz', 'indices': [135, 143]}, {'text': 'maps', 'indices': [144, 149]}]",1413024271,Koen Van den Eeckhout,Koen_VdE,"Gent, België",2163,1497,http://pbs.twimg.com/media/En2SvhPXEAMguNp.jpg,https://twitter.com/twitter/statuses/1332382815061749761
+118,1332381170831486976,#30DayMapChallenge #Day27 How many of you watched Big and Small ? Percentage of of Youngsters versus older population - @EU_Eurostat Data: https://t.co/GPv3uHfRHT Map made with IMAGE #GISCO -3days2go https://t.co/LLFBMXQHsu,en,2020-11-27 17:50:00,1,7,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'Day27', 'indices': [19, 25]}, {'text': 'GISCO', 'indices': [183, 189]}]",2574612668,hannes reuter,hireuter,,224,448,http://pbs.twimg.com/media/Enwsb7dWEAM9z6O.jpg,https://twitter.com/twitter/statuses/1332381170831486976
+119,1332379779824234496,"Day 26 (Make a Map With a New Tool) and Day 27 (Big or Smål Data) of the #30DayMapChallenge - using OpenStreetMap for the first time, to map the historical province of Småland in southern Sweden.
+
+What? I may have misread the challenge!? Eh, I learned some stuff anyway. 😉 https://t.co/dZerHIl6KZ",en,2020-11-27 17:44:28,1,0,"[{'text': '30DayMapChallenge', 'indices': [73, 91]}]",25813395,Paul I 🇺🇸🇩🇪,pivanputs,Southeastern MA,143,407,http://pbs.twimg.com/media/En2P5bDWEAENdJ2.jpg,https://twitter.com/twitter/statuses/1332379779824234496
+120,1332379755413385219,"#30daymapchallenge day 27 - big or small data. I`ve choosen small data, because I do not have much time for this. I used #rstats package leaflet. I only need two numbers for the coordinates. This is one of my favorite places. I would love to be there those days. https://t.co/BDWVr0jI5I",en,2020-11-27 17:44:22,2,3,"[{'text': '30daymapchallenge', 'indices': [0, 18]}, {'text': 'rstats', 'indices': [121, 128]}]",3331095159,Jan-Philipp Kolb,JanPhilippKolb,,106,353,http://pbs.twimg.com/media/En2QOVcW4AA7jdU.png,https://twitter.com/twitter/statuses/1332379755413385219
+121,1332377905222078470,"Seulement un seul datacenter à Grenoble, selon googlemaps. Only one data for a lot of datas...
+Day 27 : small or big data
+#30DayMapChallenge #handmademap https://t.co/9TzbhtUcEU",fr,2020-11-27 17:37:01,1,2,"[{'text': '30DayMapChallenge', 'indices': [122, 140]}, {'text': 'handmademap', 'indices': [141, 153]}]",442982795,odile,odile_p,France,154,193,http://pbs.twimg.com/media/En2OkN5XYAklnys.jpg,https://twitter.com/twitter/statuses/1332377905222078470
+122,1332376660356771847,"#30DayMapChallenge Day 27: Big or Small Data
+UK's smallest mammal (Pygmy Shrew) recordings on England's smallest Island (and one in the water). https://t.co/U52MIesE0D",en,2020-11-27 17:32:04,4,20,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",18795658,Matt Travis,Yakus,"Ivybridge, Devon",531,745,http://pbs.twimg.com/media/En2NMvnXMAM-mJg.jpg,https://twitter.com/twitter/statuses/1332376660356771847
+123,1332374964561989632,"#30DayMapChallenge / November 2020 / Day27: Big or small data .. My personal Google Maps data! These are the 282 different locations I have been for the past three years as recorded from the GPS of my phone! 
+Data exported from Google Takeout, Map made in #ArcGISPro https://t.co/YM1aHAlt1r",en,2020-11-27 17:25:20,1,3,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'ArcGISPro', 'indices': [256, 266]}]",374984100,Staridas Geography,StaridasGeo,Greece,417,450,http://pbs.twimg.com/media/En2KpZVW8AQtxoa.jpg,https://twitter.com/twitter/statuses/1332374964561989632
+124,1332373228518576128,Day 26 of the #30DayMapChallenge I didn't make it very far in the blender tutorial before throwing in the towel. Tried a couple different approaches to making DEM's and none seemed to work well with non-canned datasets. Filed away for learning at a later date https://t.co/ZOw4qCydRT,en,2020-11-27 17:18:26,1,2,"[{'text': '30DayMapChallenge', 'indices': [14, 32]}]",2719547953,Jesse Pisel,geologyjesse,,606,470,http://pbs.twimg.com/media/En2KPH1W8AAiekk.jpg,https://twitter.com/twitter/statuses/1332373228518576128
+125,1332372608105345028,"Day 1 - Points
+
+The map shows the distribution of &gt;5M earthquakes in Indonesia. There are 60 recorded earthquakes from 8 Sept-25 November 2020. Source: BMKG, accessed on 28 Nov 2020 (https://t.co/BfvTnGknT2)
+
+#30DayMapChallenge https://t.co/KM1NxAbKUP",en,2020-11-27 17:15:58,1,2,"[{'text': '30DayMapChallenge', 'indices': [212, 230]}]",40431044,Oi,oisoetoe,"East Palu, Indonesia",513,491,http://pbs.twimg.com/media/En2JHx8UUAE5Q5g.jpg,https://twitter.com/twitter/statuses/1332372608105345028
+126,1332371852333760512,"#30DayMapChallenge
+Map 27: Big or small data
+
+#Map shows locations of 1.4 million schools in India visualized from https://t.co/ECZ8Wy3A32 
+
+Even though 1.4 million schools are mapped, there could be gaps in data hence caution should be exercised before interpreting. https://t.co/9ywic6p7Ga",en,2020-11-27 17:12:58,23,113,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'Map', 'indices': [46, 50]}]",272936200,Raj Bhagat P #Mapper4Life,rajbhagatt,"Nagercoil, Tamil Nadu",17670,1723,http://pbs.twimg.com/media/En2IVDqUwAAKKqx.jpg,https://twitter.com/twitter/statuses/1332371852333760512
+127,1332369748462497792,"For Day 27 (big or small data), I show #Bangalore's biodiversity as geotagged by people using @inaturalist's platform! Fantastic resource!
+#30DayMapChallenge #Bengaluru #bloremapped #maps #rspatial https://t.co/j6wR7ZxpbG",en,2020-11-27 17:04:36,5,12,"[{'text': 'Bangalore', 'indices': [39, 49]}, {'text': '30DayMapChallenge', 'indices': [139, 157]}, {'text': 'Bengaluru', 'indices': [158, 168]}, {'text': 'bloremapped', 'indices': [169, 181]}, {'text': 'maps', 'indices': [182, 187]}, {'text': 'rspatial', 'indices': [188, 197]}]",1222519447165886465,Anirudh,_anirudhgovind,India,160,1655,http://pbs.twimg.com/media/En2HNGoVkAAobIA.png,https://twitter.com/twitter/statuses/1332369748462497792
+129,1332362838858473474,#30DayMapChallenge https://t.co/IEn5TQt92W,und,2020-11-27 16:37:09,1,0,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",233135248,Jrombf,jrombf,"Besançon, France",93,415,http://pbs.twimg.com/media/En2A8MgW8AEA3tP.jpg,https://twitter.com/twitter/statuses/1332362838858473474
+130,1332361849795350528,"#30DayMapChallenge Day 27 - Small data
+
+I spent all night improving my grid cartogram generator, so this personal election map will have to do. https://t.co/D7WV9Fr5vx",en,2020-11-27 16:33:13,1,27,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",851149914725916672,ksituan northland,ksituan,Val Marie / Treaty 4,1311,161,http://pbs.twimg.com/media/En2ABnAVEAAYGY4.jpg,https://twitter.com/twitter/statuses/1332361849795350528
+131,1332361077162536960,"#30DayMapChallenge  Big or Small Data. Returning once again to the dog walking route &amp; our  observations (small data). Some dogs bark at us when we pass by &amp; our dogs totally ignor them, other times our dogs are really offended. https://t.co/SwHoRmvRuP",en,2020-11-27 16:30:09,0,5,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",404240734,Barbara Kent,SDGeoGirl,,151,309,http://pbs.twimg.com/media/En1_VpwUwAAD-r-.jpg,https://twitter.com/twitter/statuses/1332361077162536960
+132,1332360295264772096,@WSDAH @GratefulDead @marcmillmanpix @reonegro @thedeadblog @deadheadland @deadgirltoo @GratefulDead50 @RussoAlmostDead @deadandcompany Love you most @WSDAH 💙💚 Eyes of the World 🌏 Earth Mandala pin ➡️ https://t.co/ZlAFodomLD #30DayMapChallenge https://t.co/XnTUUu4iti,en,2020-11-27 16:27:03,0,2,"[{'text': '30DayMapChallenge', 'indices': [225, 243]}]",384940624,Nettie Ginocchetti 🌌,nettiequette,UnDefined xY,1251,2314,http://pbs.twimg.com/media/En1-oJgXEAALKpU.jpg,https://twitter.com/twitter/statuses/1332360295264772096
+133,1332359040979111938,"#30DayMapChallenge days 21, 22, 24: water, movement, elevation https://t.co/089U0kXb30",en,2020-11-27 16:22:04,2,54,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",275677658,Keith Jenkins,kgjenkins,Ithaca,1159,187,http://pbs.twimg.com/tweet_video_thumb/En19aoXW4AAjY4n.jpg,https://twitter.com/twitter/statuses/1332359040979111938
+134,1332355630930288640,#30DayMapChallenge Day 27 : Big or small data https://t.co/6EcRcXDT73,en,2020-11-27 16:08:31,1,1,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",233525664,Julien,JulienQuotidien,Le Havre,465,185,http://pbs.twimg.com/media/En16XS9W8AI1dER.jpg,https://twitter.com/twitter/statuses/1332355630930288640
+135,1332355554434400256,"#30DayMapChallenge
+Day27: Big or Small data
+
+Title: Tweets in #Kuwait between 8 and 12 of July, 2019
+
+Software used: @qgis &amp; @Photoshop 
+
+The data used were collected from @Twitter streaming API
+
+#cartography #geography https://t.co/AapZChBdsY",en,2020-11-27 16:08:12,1,19,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'Kuwait', 'indices': [62, 69]}, {'text': 'cartography', 'indices': [200, 212]}, {'text': 'geography', 'indices': [213, 223]}]",908818700660236288,عبداللطيف الياقوت,geo_alyaqout,Kuwait (Ex Texan),241,203,http://pbs.twimg.com/tweet_video_thumb/En16NucXEAIgVGx.jpg,https://twitter.com/twitter/statuses/1332355554434400256
+136,1332354361574518786,"Opinions will probably differ on what constitutes ""#BigData and #SmallData. That's why for this #30DayMapChallenge we've gone for something vaguely big in data terms but BIG in monetary and life terms. See the prices of properties purchased in 2020:
+
+https://t.co/kORUr97gN7 https://t.co/wIaksQcmjY",en,2020-11-27 16:03:28,0,0,"[{'text': 'BigData', 'indices': [51, 59]}, {'text': 'SmallData', 'indices': [64, 74]}, {'text': '30DayMapChallenge', 'indices': [96, 114]}]",2756004123,Emu Analytics,emu_info,"London, England",1426,2057,http://pbs.twimg.com/media/En14fkTXEAQWYoa.jpg,https://twitter.com/twitter/statuses/1332354361574518786
+137,1332353494884392960,"#30DayMapChallenge  Day 27 - Big or small data
+Strava heatmat:  #BigData offers macrodata of the electronic activity of tourists, thus obtaining a more real perpecption of their behavior. Tourist countries needs good big data management. - Mapa d'activitats Strava a Andorra. https://t.co/z7cKmL2HwC",en,2020-11-27 16:00:01,4,10,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'BigData', 'indices': [64, 72]}]",2342154006,Cartografia Oficial d'Andorra,areacartografia,Govern d'Andorra,343,726,http://pbs.twimg.com/media/En1W_VbWMAE8FBa.jpg,https://twitter.com/twitter/statuses/1332353494884392960
+138,1332352992243277825,"Day 27. Big or small data. When you go into details, you are small, but still this theme song is playing in my head - so big OR small but less data. This is actual part of my garden and yes. The fishes are dead. Created with #pen #inkscape  #30dayMapChallenge https://t.co/tiOXaM08Tx",en,2020-11-27 15:58:01,2,7,"[{'text': 'pen', 'indices': [225, 229]}, {'text': 'inkscape', 'indices': [230, 239]}, {'text': '30dayMapChallenge', 'indices': [241, 259]}]",3552542476,Sanna Jokela,SannaJokela1,"Turku, Suomi",543,410,http://pbs.twimg.com/media/En13tKKWEAABKGd.png,https://twitter.com/twitter/statuses/1332352992243277825
+139,1332350347122270210,"#30DayMapChallenge -Big/Small. Some of the smallest scale big data I've worked with.  An experiment trying to analyze student behavior with a motion tracking camera. 10 minutes of footage generated over 30,000 tracked movements. The data was much too noisy to analyze spatially. https://t.co/za9T6YBDtQ",en,2020-11-27 15:47:31,1,5,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",721829381207887872,David Fox,ReynardSubtil,"Vermont, USA",77,174,http://pbs.twimg.com/media/En1ztWMXMAABmgr.jpg,https://twitter.com/twitter/statuses/1332350347122270210
+140,1332346096258064388,"Day 27 - Small Data
+
+#30DayMapChallenge 
+
+#ArcGISPro #Illustrator #Photoshop
+
+In the Fall of 2020, I had the privilege of walking to the #gym to #liftheavy through a #wetland. 4 Small muskrats called this place home, it was a great walk.
+
+#Map #Mapping #Geospatial #Spatial #GIS https://t.co/UeMPalGDUi",en,2020-11-27 15:30:37,0,3,"[{'text': '30DayMapChallenge', 'indices': [21, 39]}, {'text': 'ArcGISPro', 'indices': [42, 52]}, {'text': 'Illustrator', 'indices': [53, 65]}, {'text': 'Photoshop', 'indices': [66, 76]}, {'text': 'gym', 'indices': [137, 141]}, {'text': 'liftheavy', 'indices': [145, 155]}, {'text': 'wetland', 'indices': [166, 174]}, {'text': 'Map', 'indices': [239, 243]}, {'text': 'Mapping', 'indices': [244, 252]}, {'text': 'Geospatial', 'indices': [253, 264]}, {'text': 'Spatial', 'indices': [265, 273]}, {'text': 'GIS', 'indices': [274, 278]}]",3160198320,Dr Chris #GIS #Success,DrChrisGeoSci,"Calgary, Alberta",734,656,http://pbs.twimg.com/media/En1xtoSXcAIvfIP.jpg,https://twitter.com/twitter/statuses/1332346096258064388
+141,1332346082299404291,"#30DayMapChallenge day 27 - big or small data
+My flights in the year 2019
+Made with #keplergl https://t.co/CBNpkabvXD",en,2020-11-27 15:30:34,2,14,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'keplergl', 'indices': [84, 93]}]",1273667699374260224,Tatiana,balt_ti,"Санкт-Петербург, Россия",143,200,http://pbs.twimg.com/media/En1xZycW8AEXwXT.jpg,https://twitter.com/twitter/statuses/1332346082299404291
+142,1332344807998500864,"#30DayMapChallenge Day 27: Big/Small Data
+
+I decided to stretch the theme again with this one! No matter what type of data we're using, big or small, we communicate it via the internet - so here's the world's oceanic internet cables 🗺️ https://t.co/SAjZrolQEN",en,2020-11-27 15:25:30,11,60,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",437801734,Antonia Blankenberg,MapsByAntonia,"Dublin City, Ireland",275,462,http://pbs.twimg.com/media/En1wilfW4AIzMef.jpg,https://twitter.com/twitter/statuses/1332344807998500864
+143,1332343715860451328,"Last year I tried to draw a map every day in November. I won't try that again, but I still have some maps to take part to #30DayMapChallenge. This is a half-imaginary star map inspired by 1600's maps. Star names are invented by my 3-year-old kid. (Themes: points, non-geographic). https://t.co/HsGhxA8Fty",en,2020-11-27 15:21:10,2,9,"[{'text': '30DayMapChallenge', 'indices': [122, 140]}]",1332267112459538432,Mikael Asikainen,orbigraphia,"Hämeenlinna, Suomi",5,12,http://pbs.twimg.com/media/En1vijJXUAoZzRk.jpg,https://twitter.com/twitter/statuses/1332343715860451328
+144,1332340527447027714,Day 26 (Map with a new tool) Daily Tweets Statistics and Top Favourited/❤️ Maps (https://t.co/A9ofw8rVHW). #30DayMapChallenge Github: https://t.co/xj8OX2WyXw https://t.co/lmvibycocz,en,2020-11-27 15:08:30,1,2,"[{'text': '30DayMapChallenge', 'indices': [107, 125]}]",528087151,Haifeng Niu,niu_haifeng,"Cambridge, England",38,407,http://pbs.twimg.com/media/En1sevcXMAAKEMN.png,https://twitter.com/twitter/statuses/1332340527447027714
+145,1332339185152380930,"#30DayMapChallenge ""big or small data""
+
+En la historia de #Medellín vecinos afectados (familias y comerciantes) por la intervención #metrodela80 somos ""small data"".
+
+En 20 años nadie nos va a recordar, pero nuestras vidas si cambian radicalmente si las cosas no se hacen bien. https://t.co/wAYE2iHeMt",es,2020-11-27 15:03:10,2,9,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'Medellín', 'indices': [58, 67]}, {'text': 'metrodela80', 'indices': [132, 144]}]",1193871042558730241,vecinosdela80,vecinosdela80,,1265,3991,http://pbs.twimg.com/media/En1mJWBXUAQ91U9.jpg,https://twitter.com/twitter/statuses/1332339185152380930
+151,1332335588494684167,"Day 27- big or small data
+#30DayMapChallenge 
+Location- england and wales
+Data- House of Commons Library https://t.co/M4kX9h1tGk
+Tools- @qgis
+Description- A cartogramtastrophe: 
+big areas &lt;-&gt; small areas
+All (sort of) governed by popn. Meet the non-contiguous hex-based cartogram https://t.co/xLwwX2qH7s",en,2020-11-27 14:48:52,2,13,"[{'text': '30DayMapChallenge', 'indices': [26, 44]}]",52190652,Oliver Burdekin,burdGIS,"Wakefield, England",1412,2976,http://pbs.twimg.com/tweet_video_thumb/En1nvmsXIAAlHxU.jpg,https://twitter.com/twitter/statuses/1332335588494684167
+152,1332335129046392836,"Day27: Big or small data
+SDG Goal 2 Zero hunger
+#30DayMapChallenge
+#SDGs
+In a world where we produce enough food to feed everyone, 690 million people still go to bed on an empty stomach each night.https://t.co/IorO01qQ5B https://t.co/fkX1RZsq0L",en,2020-11-27 14:47:03,1,1,"[{'text': '30DayMapChallenge', 'indices': [48, 66]}, {'text': 'SDGs', 'indices': [67, 72]}]",187171010,I.K.D,IKEDA_02,"Brisbane, Queensland 🇦🇺🇯🇵",104,482,http://pbs.twimg.com/media/En1no5OUwAA2oIh.jpg,https://twitter.com/twitter/statuses/1332335129046392836
+153,1332334397224316928,"Jour 25 du #30DayMapChallenge - Covid 19 
+
+Carte comparative du nombre et taux de décès liés à la Covid-19 (1/3)
+
+Données : data.gouv https://t.co/KTqV3A7c6e",fr,2020-11-27 14:44:08,1,5,"[{'text': '30DayMapChallenge', 'indices': [11, 29]}]",3195365733,Justine Vignat,Junevgt,Paris ,822,253,http://pbs.twimg.com/media/En1maP6XMAA0dHz.jpg,https://twitter.com/twitter/statuses/1332334397224316928
+154,1332334089895022592,"#30DayMapChallenge Day 27: Big or small data
+
+Limited on time, ideas and even disk space today. Not sure where to go so I just did a quick hillshade map of Big Sur over my lunch break. Made with #b3d and #qgis. https://t.co/wnTUAyDv4k",en,2020-11-27 14:42:55,2,4,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'b3d', 'indices': [195, 199]}, {'text': 'qgis', 'indices': [204, 209]}]",309734801,Sam J,samwise_v,"London, UK",161,506,http://pbs.twimg.com/media/En1mZ3jWEAQS4Kl.jpg,https://twitter.com/twitter/statuses/1332334089895022592
+156,1332331228658343938,"#30DayMapChallenge Day 27: Big or Small Data.
+#gis #Geography #GeographyTeacher #Cartography #Maps #Map #Mapping #Landsat #USGS #Bible #Archaeology #Science #Israel #Egyptology #RemoteSensing https://t.co/MRtbVeZHU3",en,2020-11-27 14:31:33,0,3,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'gis', 'indices': [46, 50]}, {'text': 'Geography', 'indices': [51, 61]}, {'text': 'GeographyTeacher', 'indices': [62, 79]}, {'text': 'Cartography', 'indices': [80, 92]}, {'text': 'Maps', 'indices': [93, 98]}, {'text': 'Map', 'indices': [99, 103]}, {'text': 'Mapping', 'indices': [104, 112]}, {'text': 'Landsat', 'indices': [113, 121]}, {'text': 'USGS', 'indices': [122, 127]}, {'text': 'Bible', 'indices': [128, 134]}, {'text': 'Archaeology', 'indices': [135, 147]}, {'text': 'Science', 'indices': [148, 156]}, {'text': 'Israel', 'indices': [157, 164]}, {'text': 'Egyptology', 'indices': [165, 176]}, {'text': 'RemoteSensing', 'indices': [177, 191]}]",1137139989744144390,MyPhysicalWorld,my_physical,,45,64,http://pbs.twimg.com/media/En1kMQwVoAUJGd1.jpg,https://twitter.com/twitter/statuses/1332331228658343938
+157,1332330335812677633,"It's day 27 of the #30DayMapChallenge and for today's theme ""big or small data"", I decided to choose both: here's a map of all of the building footprints in Syracuse and all the ones that I've paid rent for. https://t.co/F2R4DFczWg",en,2020-11-27 14:28:00,1,4,"[{'text': '30DayMapChallenge', 'indices': [19, 37]}]",942194832491122688,Mike Mahoney,MikeMahoney218,"Syracuse, NY",468,325,http://pbs.twimg.com/media/EntfYiNXMAAyBtI.jpg,https://twitter.com/twitter/statuses/1332330335812677633
+158,1332328899095695362,"Day 27 of #30DayMapChallenge : Big or small data
+
+Nearby each F1™ circuits, there is always a small go-kart track. However, at Suzuka International Racing Course, the smaller version has exactly the same outline as the bigger sibling. https://t.co/B54Sh4ju3E",en,2020-11-27 14:22:17,2,5,"[{'text': '30DayMapChallenge', 'indices': [10, 28]}]",191797663,Tomo 🐽,tomodraco,"0,13",528,203,http://pbs.twimg.com/media/En1huZUWMAE0zVH.jpg,https://twitter.com/twitter/statuses/1332328899095695362
+159,1332327637470113794,"Analyzed if place names in these hexagons are more like to start with the word ""Big"" or ""Small"". Big won. 
+
+#30DayMapChallenge Day 27: big or small data. Method: https://t.co/EOd1VhsYaB https://t.co/6lNgm4jbxu",en,2020-11-27 14:17:16,5,47,"[{'text': '30DayMapChallenge', 'indices': [108, 126]}]",2198358416,Topi Tjukanov,tjukanov,"Helsinki, Suomi",12126,2523,http://pbs.twimg.com/media/En1gQCMXIAUUaw9.jpg,https://twitter.com/twitter/statuses/1332327637470113794
+160,1332322414391422977,"Thinking about my household financial global Positioning setup (GPS).
+
+Setting 10x #goals for 2021
+#30DayMapChallenge 
+#1year #wealthmindset https://t.co/rxpRdvJjN6",en,2020-11-27 13:56:31,1,3,"[{'text': 'goals', 'indices': [83, 89]}, {'text': '30DayMapChallenge', 'indices': [99, 117]}, {'text': '1year', 'indices': [119, 125]}, {'text': 'wealthmindset', 'indices': [126, 140]}]",21522989,The Neighborhood Finance Guy 🇭🇹🇧🇷,GQ_Accountant,"Washington, DC",528,733,http://pbs.twimg.com/media/En1cKrpWMAQzf6W.jpg,https://twitter.com/twitter/statuses/1332322414391422977
+161,1332321413055848448,"🗺️ Day 27 - Big/Small data:
+#30DayMapChallenge
+
+🔤 Each letter of the alphabet in 🇷🇴Romania's settlement names (+numbers)
+
+An old gif. https://t.co/Rwy06PWzOx",en,2020-11-27 13:52:32,2,14,"[{'text': '30DayMapChallenge', 'indices': [28, 46]}]",800277926348324864,Arnold Platon,Arnold_Platon,"Nice, France",2062,1484,http://pbs.twimg.com/tweet_video_thumb/En1bMqxW8AMQ4Eg.jpg,https://twitter.com/twitter/statuses/1332321413055848448
+162,1332320131180007424,"Joined a bit later on the challenge, but this is my map for day 1/30 - Points on #30DayMapChallenge 
+Seems a bit of market cannibalisation 😅 https://t.co/OFLTYaFU3p",en,2020-11-27 13:47:27,1,0,"[{'text': '30DayMapChallenge', 'indices': [81, 99]}]",2987260856,Claudia Blagu,ClaudiaBlagu,"Bucharest, Romania",11,68,http://pbs.twimg.com/media/En1aGQDXYAA_V_c.jpg,https://twitter.com/twitter/statuses/1332320131180007424
+163,1332318736372666372,"Day 27 #30DayMapChallenge Big or Small data
+
+Couldn't find geomorphology maps my uni days so here is @nature_scot Cairngorms Geomorphology data
+
+#QGIS https://t.co/cC9ztpTaqP",en,2020-11-27 13:41:54,1,14,"[{'text': '30DayMapChallenge', 'indices': [7, 25]}, {'text': 'QGIS', 'indices': [145, 150]}]",223959960,Kirsten Reilly,_penguin_runner,"Stirling, Scotland",385,1215,http://pbs.twimg.com/media/En1Y0ZVXIAAfS39.jpg,https://twitter.com/twitter/statuses/1332318736372666372
+164,1332317912338673665,"How is your travel plans? Any Safari goals? Can you realize them?
+
+You should know, with @alkebulantravel Traveling to Tanzania for a safari holiday has been made easy.
+
+Book us today!
+
+#airbnb #30DayMapChallenge #Africa #ad #America #femaletraveler #greatmigration https://t.co/WJQ9MpRIqR",en,2020-11-27 13:38:38,0,1,"[{'text': 'airbnb', 'indices': [186, 193]}, {'text': '30DayMapChallenge', 'indices': [194, 212]}, {'text': 'Africa', 'indices': [213, 220]}, {'text': 'ad', 'indices': [221, 224]}, {'text': 'America', 'indices': [225, 233]}, {'text': 'femaletraveler', 'indices': [234, 249]}, {'text': 'greatmigration', 'indices': [250, 265]}]",1299963914717978625,Alkebulan Travels,alkebulantravel,"Arusha, Tanzania",256,636,http://pbs.twimg.com/media/En1YEfKXEAE9m4v.jpg,https://twitter.com/twitter/statuses/1332317912338673665
+165,1332317100078149632,Trying stplanr with road trip memories. Inspired by @lxndrkp Berlin map. Road connecting my pictures #leaflet #Rstats #rspatial #WildAtlanticWay #30DayMapChallenge  🙏@epfl_exts https://t.co/rXXn1B7WkB,en,2020-11-27 13:35:24,4,3,"[{'text': 'leaflet', 'indices': [101, 109]}, {'text': 'Rstats', 'indices': [110, 117]}, {'text': 'rspatial', 'indices': [118, 127]}, {'text': 'WildAtlanticWay', 'indices': [128, 144]}, {'text': '30DayMapChallenge', 'indices': [145, 163]}]",1331220777883066376,andymacmeister,andymacmeister1,,5,30,http://pbs.twimg.com/media/En1XVs9XUAAJM1L.jpg,https://twitter.com/twitter/statuses/1332317100078149632
+166,1332314733110833153,"A little bit of mellow #Yellow 😁
+
+Mapsimise has a range of colour themes that enable you to build and view data the way you like it. 
+
+Personalise your maps your way! 
+
+For more visit https://t.co/BZIqswG37P 
+
+#geospatial #Mapsimise #30DayMapChallenge https://t.co/ON57lJN8g4",en,2020-11-27 13:26:00,1,0,"[{'text': 'Yellow', 'indices': [23, 30]}, {'text': 'geospatial', 'indices': [210, 221]}, {'text': 'Mapsimise', 'indices': [222, 232]}, {'text': '30DayMapChallenge', 'indices': [233, 251]}]",1093125802076655617,Mapsimise,mapsimise,,346,707,http://pbs.twimg.com/media/EnRbYDjXMAYZN8Y.png,https://twitter.com/twitter/statuses/1332314733110833153
+168,1332308329406849024,#30DayMapChallenge small data. I made a map to support a campaign to lobby @coopuk to start stocking austrian processed smoked cheese in the store that was on my way home from work. They ignored me. https://t.co/yoGk5cce6Y,en,2020-11-27 13:00:33,3,15,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",14465315,Jamie Whyte,northernjamie,manchester,2798,1355,http://pbs.twimg.com/media/En1O_9gW4AIZSNO.jpg,https://twitter.com/twitter/statuses/1332308329406849024
+169,1332307733194960896,"#30DayMapChallenge Day 27: Big or small data
+Are 1/2M points big data today? Certainly was 15 yrs. ago  testing then-new File Geodatabase. Original 1/4M points ballooned to link weather &amp; lookup languages, details linked in pic, incl. lack of Portuguese despite their significance https://t.co/2K7sM1UcSF",en,2020-11-27 12:58:11,1,7,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",25663399,Andrew Zolnai,azolnai,"Cambridge, UK",712,998,http://pbs.twimg.com/media/En1N6Q8XIAAwuGl.jpg,https://twitter.com/twitter/statuses/1332307733194960896
+170,1332307068116725761,A bit of small data for #30DayMapChallenge today: UK cities I have lived in - looks weirdly like I'm following some kind of longitude/latitude rule https://t.co/XD0OqQzEAP,en,2020-11-27 12:55:32,2,14,"[{'text': '30DayMapChallenge', 'indices': [24, 42]}]",343928585,Alasdair Rae,undertheraedar,"Sheffield, England",18937,3467,http://pbs.twimg.com/media/En1OHsCXIAMqMY8.png,https://twitter.com/twitter/statuses/1332307068116725761
+171,1332304148285566984,"Jour 27 du #30DayMapChallenge
+Thème du jour : Big ou Small Data
+Plus small data que big aujourd'hui. Même si ce n'est pas vraiment des small data non plus 😃 https://t.co/1mcWHJzF78",fr,2020-11-27 12:43:56,1,5,"[{'text': '30DayMapChallenge', 'indices': [11, 29]}]",1311399091,Lubin Picard,Lubin_Picard,,74,102,http://pbs.twimg.com/media/En1LSE2XUAIvpd9.jpg,https://twitter.com/twitter/statuses/1332304148285566984
+172,1332303105392861184,"Day 27 of #30DayMapChallenge: Small plane and small boat on a Big ocean
+
+Map done with https://t.co/T8BrfWo632 https://t.co/W0oJ4MjrLZ",en,2020-11-27 12:39:47,2,8,"[{'text': '30DayMapChallenge', 'indices': [10, 28]}]",1226081200214814721,me & maps,meandmaps,paris,263,1159,http://pbs.twimg.com/media/En1KebAXcAIq67s.jpg,https://twitter.com/twitter/statuses/1332303105392861184
+173,1332296416094425088,"#30DayMapChallenge @tjukanov Day 27: Big or small data
+#Nauru World's smallest island nation 21 sq km (~8.1 sq mi)
+Data Source: @openstreetmap @NASA 1 arc sec ASTER DEM v3 Map generated using #FME @SafeSoftware @googleearth 
+Thank You @PixelSoftek https://t.co/JGZEndPoX1",en,2020-11-27 12:13:13,1,1,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'Nauru', 'indices': [55, 61]}, {'text': 'FME', 'indices': [192, 196]}]",105407287,SRG,Saint_GIS,"Chennai, India",134,89,http://pbs.twimg.com/media/En1EX7lVkAE99-C.jpg,https://twitter.com/twitter/statuses/1332296416094425088
+174,1332292760938950659,"#30DayMapChallenge Day 27: big or small data
+The #ColdWar #Soviet mapping of the entire world was a project of #bigdata. Plans of at least 20 cities in the #Netherlands 1:10,000 exist. Today, @UBLeiden was enriched with plans of #Leiden #Haarlem, #Amersfoort #Arnhem #Nijmegen https://t.co/rDBjI7ajSk",en,2020-11-27 11:58:41,4,23,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'ColdWar', 'indices': [49, 57]}, {'text': 'Soviet', 'indices': [58, 65]}, {'text': 'bigdata', 'indices': [111, 119]}, {'text': 'Netherlands', 'indices': [156, 168]}, {'text': 'Leiden', 'indices': [229, 236]}, {'text': 'Haarlem', 'indices': [237, 245]}, {'text': 'Amersfoort', 'indices': [247, 258]}, {'text': 'Arnhem', 'indices': [259, 266]}, {'text': 'Nijmegen', 'indices': [267, 276]}]",889150492751925250,Martijn Storms,MapStorms,,875,377,http://pbs.twimg.com/media/En1BMeBWEAAEeMc.jpg,https://twitter.com/twitter/statuses/1332292760938950659
+175,1332292615539224579,"#30DayMapChallenge Day 27 Big data small Data. Convict voyages. #Dorset convicts in #qgis data from https://t.co/EBFiVLR1h2
+The voyage of the Lord Melville all-female convict transport.Credits on map. @ArcGISOnline version here. https://t.co/6W2oYA3YLx https://t.co/VhmHY8iiIy",en,2020-11-27 11:58:07,3,4,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'Dorset', 'indices': [64, 71]}, {'text': 'qgis', 'indices': [84, 89]}]",1074378707438055426,Blandford Bread,BlandfordBread,"South West, England",466,834,http://pbs.twimg.com/media/En1BC7CWEAAEySy.jpg,https://twitter.com/twitter/statuses/1332292615539224579
+176,1332285692697862144,"#30DayMapChallenge - Day 27 - Small data
+
+Last week we compared several alcohol-free wheat beers with my family.
+With only 6 participants and 12 breweries, the results are far from being representative, but still interesting (at least for our future decisions).
+
+Created with R. https://t.co/9lulOMgE3Y",en,2020-11-27 11:30:36,2,4,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",733390000809730049,Richard Vogg,richard_vogg,Deutschland,90,161,http://pbs.twimg.com/media/En06mrGW8AAVKFD.png,https://twitter.com/twitter/statuses/1332285692697862144
+177,1332285384202579971,"#30DayMapChallenge - big or small data
+Bathymetry
+tool: qgis i corel https://t.co/7YrjLLy6a7",en,2020-11-27 11:29:22,3,12,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",2902589494,Patrycja Krajczyńska,mapsbyp,Poland,1073,1201,http://pbs.twimg.com/media/En06fowXUAAAnkQ.jpg,https://twitter.com/twitter/statuses/1332285384202579971
+178,1332284210430750721,#30DayMapChallenge day27 deliberately small new data package for teaching #rspatial in Africa https://t.co/BPnC2CYgBb blog: https://t.co/azJ5rlgdzP https://t.co/uyllDPg2qq,en,2020-11-27 11:24:43,31,100,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'rspatial', 'indices': [74, 83]}]",1235300640496250883,afrimapr,afrimapr,,312,0,http://pbs.twimg.com/media/En04Yz6WMAEq3oK.png,https://twitter.com/twitter/statuses/1332284210430750721
+180,1332283090908098561,"#30DayMapChallenge
+
+27. Datos grandes o pequeños. Lugares de España con ""grande"" o ""pequeño"" (o similar) en su nombre.
+
+27. Big or small data. Places in Spain with ""big"" or ""small"" (or similar) in their name.
+
+Data: @OpenStreetMap https://t.co/gKWrUTYuRn",es,2020-11-27 11:20:16,1,2,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",769592708,Valentín Sastre,valen_ibiza,IBIZA / Barcelona,331,859,http://pbs.twimg.com/media/En04YvHXIAA6HHI.jpg,https://twitter.com/twitter/statuses/1332283090908098561
+181,1332283010822123526,"#30DayMapChallenge Day 27. Big/Small Data. Into the eye of a rabbit. This is a classic spatial point pattern analysis paper from 1986. I've mapped the points in QGIS and written a processing plugin to replicate the plots in the paper, write an SVG and include in a Layout... https://t.co/PFlSBAIhmY",en,2020-11-27 11:19:57,1,0,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",88731801,Barry Rowlingson🐺,geospacedman,"Lancaster, UK",1691,476,http://pbs.twimg.com/media/En04BWPW8AEmaQT.png,https://twitter.com/twitter/statuses/1332283010822123526
+182,1332280780031201280,#30DayMapChallenge Day 27 | Big or Small Data https://t.co/BXwGIzmquc,en,2020-11-27 11:11:05,1,2,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",3042769257,place + purpose,PlaceNPurpose,,242,799,http://pbs.twimg.com/media/En017LjXYAYE-bp.jpg,https://twitter.com/twitter/statuses/1332280780031201280
+183,1332278367064887296,"Drive time accessibility to 4 hospitals in Scotland
+
+#Bigdata #scotland #data #big #30daymapchallenge #day27 https://t.co/fPvlcecrek",en,2020-11-27 11:01:29,0,2,"[{'text': 'Bigdata', 'indices': [53, 61]}, {'text': 'scotland', 'indices': [62, 71]}, {'text': 'data', 'indices': [72, 77]}, {'text': 'big', 'indices': [78, 82]}, {'text': '30daymapchallenge', 'indices': [83, 101]}, {'text': 'day27', 'indices': [102, 108]}]",49592380,Basemap,basemap,"Guildford, Surrey",1684,1645,http://pbs.twimg.com/media/En00HU3W8AYiq78.png,https://twitter.com/twitter/statuses/1332278367064887296
+185,1332274499752964096,"#30DayMapChallenge
+Day27 – big or small data. Making sense of over 2 million dots to ‘paint’ a picture. #NAFCResearch #ThinkUHI #UHIResearch #GIS #AIS #shipping #marineuse #marinespatialplan https://t.co/drhFl78qPp",en,2020-11-27 10:46:07,0,2,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'NAFCResearch', 'indices': [104, 117]}, {'text': 'ThinkUHI', 'indices': [118, 127]}, {'text': 'UHIResearch', 'indices': [128, 140]}, {'text': 'GIS', 'indices': [141, 145]}, {'text': 'AIS', 'indices': [146, 150]}, {'text': 'shipping', 'indices': [151, 160]}, {'text': 'marineuse', 'indices': [161, 171]}, {'text': 'marinespatialplan', 'indices': [172, 190]}]",1106525318553182209,Richard Shelmerdine,RLShelmerdine,"Scotland, United Kingdom",80,119,http://pbs.twimg.com/media/En0wkS9WMAA0mt6.png,https://twitter.com/twitter/statuses/1332274499752964096
+186,1332274250149990401,"#30DayMapChallenge theme = big data.
+Using OS #OpenData products, in 2013 an OS intern created a @Minecraft world representing over 224,000 km2 of GB!🗺️
+https://t.co/Vv32KniyJw https://t.co/f3KBSNocSV",en,2020-11-27 10:45:08,5,20,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'OpenData', 'indices': [46, 55]}]",22614266,Ordnance Survey,OrdnanceSurvey,"Southampton, UK",60665,3734,http://pbs.twimg.com/media/En0wXrMW4AIMHDD.jpg,https://twitter.com/twitter/statuses/1332274250149990401
+187,1332274190477635584,"#30DayMapChallenge
+
+Day 27: Big Or Small Data
+
+The very small distribution of Europe's biggest land animal, the European Bison in EU countries in 2020.
+
+Data from the European Environment Agency
+
+Created with R:
+https://t.co/cfGaIid8Xb https://t.co/CISot6Iycc",en,2020-11-27 10:44:54,4,6,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",2213909976,Colin Angus,VictimOfMaths,,5276,602,http://pbs.twimg.com/media/En0vkB6XEAEjiOX.png,https://twitter.com/twitter/statuses/1332274190477635584
+188,1332274165835984898,"Day 27: Big or small data
+
+LiDAR surface for @UCNZ campus, Christchurch, Aotearoa/New Zealand. 6 million points for one block.
+
+#Rstats  #30DayMapChallenge https://t.co/A2N8kxeTFv",en,2020-11-27 10:44:48,4,11,"[{'text': 'Rstats', 'indices': [128, 135]}, {'text': '30DayMapChallenge', 'indices': [137, 155]}]",12306,Luis Apiolaza 🧮🍃📷⏚,zentree,"Ōtautahi, Aotearoa",1317,285,http://pbs.twimg.com/media/En0wFwwUcAAxtaf.jpg,https://twitter.com/twitter/statuses/1332274165835984898
+189,1332271652323745792,"Day 27 of #30DayMapChallenge. Big or small data.
+
+Today's map illustrates a location that was very big to the smallest member of our family. https://t.co/scpnY0z8Sw",en,2020-11-27 10:34:48,1,3,"[{'text': '30DayMapChallenge', 'indices': [10, 28]}]",29162437,Kerrin Sime,kjsime," NZ, most of the time.",73,127,http://pbs.twimg.com/media/En0uAabVQAIRQZH.jpg,https://twitter.com/twitter/statuses/1332271652323745792
+190,1332271348979122179,"🗺️ #30DayMapChallenge New Tool: an experiment with #blender GIS addon. My 5-year-old laptop cannot afford more detailed rendering. Fortunately, I have this screenshot grabbed before it crashed.
+
+Followed this awesome tutorial by @CGGeeks : https://t.co/VVu3PCMbf1 https://t.co/b5gM3dXWi7",en,2020-11-27 10:33:36,5,65,"[{'text': '30DayMapChallenge', 'indices': [3, 21]}, {'text': 'blender', 'indices': [51, 59]}]",1160963883860762624,Wendy Shijia,ShijiaWendy,"Shanghai, China",1208,711,http://pbs.twimg.com/media/En0r0JUUYAAL5hQ.jpg,https://twitter.com/twitter/statuses/1332271348979122179
+191,1332269095912435712,"#30DayMapChallenge Day 27: Big or small data
+
+Is this big enough? 😉 And more to come! This a sustainable #EO-based monitoring programme for the next two decades at least and more #Sentinels in the pipe! 😎🛰️
+
+@CopernicusEU #Sentinel Data Dashboard https://t.co/vKiUUYfb3w",en,2020-11-27 10:24:39,4,3,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'EO', 'indices': [105, 108]}, {'text': 'Sentinels', 'indices': [179, 189]}, {'text': 'Sentinel', 'indices': [222, 231]}]",145683389,Geoff Smith,DrGeoffSmith,"Cambridge, UK",866,479,http://pbs.twimg.com/media/En0q2dKXEAAuZPH.jpg,https://twitter.com/twitter/statuses/1332269095912435712
+192,1332266976773861382,"#30DayMapChallenge Day 28: Small/Big Data.
+The smallest trees (DBH 6 cm) on the 10ha #forestresearch plot of @naturwald_WSL in Uholka in each inventory. All other trees in grey. 
+Data from https://t.co/1K94RWTMze
+Made with #RStats, #rspatial https://t.co/0kbdpD9H4U",en,2020-11-27 10:16:14,3,2,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'forestresearch', 'indices': [85, 100]}, {'text': 'RStats', 'indices': [223, 230]}, {'text': 'rspatial', 'indices': [232, 241]}]",993008496152064001,Jonas Stillhard,JonasStillhard,,117,256,http://pbs.twimg.com/media/En0pSBTXUAAop2Q.png,https://twitter.com/twitter/statuses/1332266976773861382
+193,1332266269400326145,"Day 27 of #30DayMapChallenge : Big or small data. Ca. 2 weeks of sea ice concentration around #Antarctica, shows a fraction of the whole picture. Same workflow for the last years would be likely #bigdata (LANCE AMSR2 Daily 25 km Sea Ice Concentration Polar Grids @NSIDC ) #python https://t.co/o0ClwVooI3",en,2020-11-27 10:13:25,2,9,"[{'text': '30DayMapChallenge', 'indices': [10, 28]}, {'text': 'Antarctica', 'indices': [94, 105]}, {'text': 'bigdata', 'indices': [195, 203]}, {'text': 'python', 'indices': [272, 279]}]",409168655,Alexander Kmoch,allixender,"Tartu, Eesti",265,215,http://pbs.twimg.com/tweet_video_thumb/En0mkOGWMAAkk2x.jpg,https://twitter.com/twitter/statuses/1332266269400326145
+194,1332265908828508160,"#30DayMapChallenge 27 Big or small data
+
+Struggled with this one!  This was the best I could do (a local walk in @googlemaps from Big Wood to Little Wood near #Chipstead in #Surrey) https://t.co/zbQ7HgSN6Y",en,2020-11-27 10:11:59,1,0,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'Chipstead', 'indices': [159, 169]}, {'text': 'Surrey', 'indices': [173, 180]}]",1033206985,Phil Tarr (BBMC),BBMountClub,United Kingdom,268,324,http://pbs.twimg.com/media/En0ocIfW8AU7BsJ.jpg,https://twitter.com/twitter/statuses/1332265908828508160
+196,1332263395190562817,"#30DayMapChallenge Día 26: Nueva 🛠️. Hoy aprendí algunas cosas de gráficos y datos espaciales con #python 🐍🐼🌐. 
+El índice de estados frágiles mide la vulnerabilidad de los países. Adivinen el que más empeoró este año. ➡️https://t.co/jGzLDyWmrY
+
+💻: https://t.co/R6ksLpRrh6 https://t.co/UAunO2RWVp",es,2020-11-27 10:02:00,3,6,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'python', 'indices': [98, 105]}]",30381129,Steph Orellana Bello,sporella,Chile,341,205,http://pbs.twimg.com/media/EnzqPTjWEAM-wO1.png,https://twitter.com/twitter/statuses/1332263395190562817
+197,1332262894189367296,"Day 27- #30DayMapChallenge 
+Theme: Big or Small Data, visualised using ArcMap. Mapped the Timeline of Microscopy, and added a background image for some colour! https://t.co/duTvnQb9IH",en,2020-11-27 10:00:00,1,2,"[{'text': '30DayMapChallenge', 'indices': [8, 26]}]",636238090,Simon Leech,simonmleech,,46,149,http://pbs.twimg.com/media/EngfVcDXMAAWHZ1.jpg,https://twitter.com/twitter/statuses/1332262894189367296
+198,1332261283530371072,"Day 27 of #30DayMapChallenge – Big (or Small) Data
+
+Lyttelton LiDAR and Imagery
+
+Not sure if this really fits the theme, but the LiDAR had millions of points, and there’s heaps of pixels in the 7.5cm GSD imagery.
+And it’s all free from @LINZLDS!
+
+Made in Blender #b3d. https://t.co/pU8zmkWvHX",en,2020-11-27 09:53:36,8,85,"[{'text': '30DayMapChallenge', 'indices': [10, 28]}, {'text': 'b3d', 'indices': [263, 267]}]",1020137956869222401,Andrew Tyrrell,SouthArrowMaps,"Christchurch, New Zealand",1121,194,http://pbs.twimg.com/media/En0kkRNVgAI6WGK.jpg,https://twitter.com/twitter/statuses/1332261283530371072
+199,1332260240675442688,"@waveshare00 Day 27 of #30DayMapChallenge : Big or small data. There is not a lot of ""big"" data available. A nice project by @DAI_Labor, an observation of traffic around Ernst-Reuter-Platz. The results are available as open data. Using @qgis temporal feature. Code: https://t.co/nDm0o1TKMv https://t.co/V3zM9nGfxL",en,2020-11-27 09:49:28,1,4,"[{'text': '30DayMapChallenge', 'indices': [23, 41]}]",7541002,Sebastian Meier,seb_meier,,1281,141,http://pbs.twimg.com/ext_tw_video_thumb/1332260197813858306/pu/img/bM3RGdAe7j3i3GsP.jpg,https://twitter.com/twitter/statuses/1332260240675442688
+201,1332257322186530816,"#30DayMapChallenge 
+
+Day 27 - Big or small data
+
+The International Criminal Tribunal for the former Yugoslavia (ICTY) Courtroom, The Hague. 1993–2017
+
+@bcsweb https://t.co/0GgtMPxLLN",en,2020-11-27 09:37:52,2,0,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",238730325,David McCutcheon,DVDMaps,"Shrewsbury, England",205,197,http://pbs.twimg.com/media/En0g2QMXYAAgZA0.png,https://twitter.com/twitter/statuses/1332257322186530816
+204,1332254965197369344,"Blue Whale GPS tracks 1993 - 2008 
+#30DayMapChallenge
+27 - Big or small data https://t.co/9tEoi4ge1t",en,2020-11-27 09:28:30,26,163,"[{'text': '30DayMapChallenge', 'indices': [35, 53]}]",2809999793,Owen Powell,owenjpowell,Leamington Spa,1894,288,http://pbs.twimg.com/ext_tw_video_thumb/1332254853062647809/pu/img/QZr-OMqyha4HIa3p.jpg,https://twitter.com/twitter/statuses/1332254965197369344
+205,1332248292617572353,"What is this, a map for ants? Oh wait, no — it's a map OF ants. Today's #30DayMapChallenge theme is big or small data, so we decided to go for both! This shows info pulled from papers about ants registered with https://t.co/MTzPU1ptKQ (we mapped a lot of papers! 4484, worldwide). https://t.co/MDdN3Wddqa",en,2020-11-27 09:01:59,1,12,"[{'text': '30DayMapChallenge', 'indices': [72, 90]}]",65125461,Leventhal Map & Education Center at the BPL,bplmaps,"Copley Square, Boston, MA",5014,679,http://pbs.twimg.com/media/En0YjuIXMAIem7E.jpg,https://twitter.com/twitter/statuses/1332248292617572353
+206,1332245185561038849,"#30DayMapChallenge Day 27: Big Data
+Big spatial data from 1893 a beautiful descriptive 80-page atlas that weighs 6.5kg. https://t.co/DA306PQZB1",en,2020-11-27 08:49:38,2,4,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",1268236531,Tom Timms,TomTheMap,"Cambridgeshire, UK",427,634,http://pbs.twimg.com/media/En0Vwp2XUAAXiMG.jpg,https://twitter.com/twitter/statuses/1332245185561038849
+207,1332243588823060480,"#30DayMapChallenge Day 27: Big Data and Small Data
+
+Known movements of Viggo Mortensens' ancestors.
+
+Data: @wikidata 
+Software: https://t.co/dp3xh7sT3S https://t.co/JSnG6ASQgR",en,2020-11-27 08:43:18,2,5,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",19770809,Galder Gonzalez🔻,theklaneh,Euskal Herria,9410,1194,http://pbs.twimg.com/media/En0UeMWW4AAuhdy.jpg,https://twitter.com/twitter/statuses/1332243588823060480
+209,1332238767202000898,"#30daymapchallenge - Day 27 - Big (or small) Data
+
+(The) Notorious B.I.G data 🎵
+
+See previous maps : https://t.co/M674z8wCj2 https://t.co/nbjq0V6Veg",en,2020-11-27 08:24:08,2,15,"[{'text': '30daymapchallenge', 'indices': [0, 18]}]",1201838008359620609,Les Savoirs Ambulants,SavoirsEnBulles,Rennes,352,92,http://pbs.twimg.com/media/En0P8MlWMAEsVGP.jpg,https://twitter.com/twitter/statuses/1332238767202000898
+210,1332237974268993536,"Day 27 of the #30DayMapChallenge: Big or small data. A map about small, the data for which ended up being big. OpenStreetMap points with 'Petit' or 'Klein' in their name. https://t.co/lbwiXArLvv",en,2020-11-27 08:20:59,2,26,"[{'text': '30DayMapChallenge', 'indices': [14, 32]}]",1033774266880282624,Strath Slater,StrathSlater,"Edinburgh, Scotland",124,114,http://pbs.twimg.com/media/En0PVO6XIAA2QCJ.jpg,https://twitter.com/twitter/statuses/1332237974268993536
+211,1332233306608427008,"#30DayMapChallenge 27. diena. Lieli vai mazi dati. Kur nu vēl mazāki dati par kāda pārvietošanos pa pagalmu. Drēgnā rudens darba dienā pa ielu maz, kurš staigā, dīķī kerstāmās vardes un zivis guļ, suņiem garlaicīgi, tāpēc arī pārsvarā guļ. Negaidīju, ka tik maz staigā. https://t.co/9uSKepnDat",lv,2020-11-27 08:02:26,1,8,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",137107982,Zane,atdodkonfektes,,136,121,http://pbs.twimg.com/media/En0JrCvWEAAK9Ei.jpg,https://twitter.com/twitter/statuses/1332233306608427008
+212,1332232944325328900,"#30DayMapChallenge Day 27: big or small data
+
+#sneakpeek of forthcoming #thematicmapping book: 101 ways to map same data
+
+When two pieces of data don't even need a map. Electoral college results for 2016 presidential election (or 2020 if you switch the colours and names) https://t.co/ja58WghlpP",en,2020-11-27 08:01:00,1,2,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'sneakpeek', 'indices': [46, 56]}, {'text': 'thematicmapping', 'indices': [72, 88]}]",20668314,Kenneth Field,kennethfield,"Redlands, CA & global",12442,104,http://pbs.twimg.com/media/EnoMYvhUwAExZ9O.jpg,https://twitter.com/twitter/statuses/1332232944325328900
+214,1332231984458969090,"#30DayMapChallenge Day 27 | Big or small data
+
+#QGIS map about OpenStreetMap nodes and ways including the strings 'big' and 'small' in their name tag.
+
+Europe wins this useless game because of many names in national languages including 'big' and 'small' by pure chance! https://t.co/YyDZoGdBSh",en,2020-11-27 07:57:11,3,5,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'QGIS', 'indices': [47, 52]}]",1669906789,Marco Minghini,MarcoMinghini,"Como, Italy",1079,709,http://pbs.twimg.com/media/En0IN3VW8AAZN1_.jpg,https://twitter.com/twitter/statuses/1332231984458969090
+215,1332231434136735744,"🌍🍼🌊 Jour 27 du #30DayMapChallenge
+
+Le thème est « Big or small data », du coup je me devais de vous mettre une carte de @LittleBigData_ !
+
+Cartographie des peurs parentales et des dangers menaçant le bébé https://t.co/HA6FgZOrBP",fr,2020-11-27 07:55:00,3,18,"[{'text': '30DayMapChallenge', 'indices': [15, 33]}]",138790830,Jules Grandin,JulesGrandin,Paris,22555,1011,http://pbs.twimg.com/media/EnwbX-dWMAAtxgK.jpg,https://twitter.com/twitter/statuses/1332231434136735744
+216,1332230617480753155,#30DayMapChallenge #Bigdata #SmallData https://t.co/nTHCjicUdG,und,2020-11-27 07:51:45,1,5,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'Bigdata', 'indices': [19, 27]}, {'text': 'SmallData', 'indices': [28, 38]}]",782161298,Neil Harris 'UO web',Neil_py_harris,Newcastle-upon-Tyne,280,293,http://pbs.twimg.com/media/En0Ir54XcAAmXGQ.jpg,https://twitter.com/twitter/statuses/1332230617480753155
+217,1332230396738723840,Day 26 (small data):  What I see under my feet #30DayMapChallenge #ThingsMaps https://t.co/pyqlChE66s,en,2020-11-27 07:50:52,1,12,"[{'text': '30DayMapChallenge', 'indices': [47, 65]}, {'text': 'ThingsMaps', 'indices': [66, 77]}]",1035417413586694144,neocarto,neocartocnrs,Paris,1538,385,http://pbs.twimg.com/media/En0IaMCW4AAUL8y.jpg,https://twitter.com/twitter/statuses/1332230396738723840
+218,1332227818571362311,"#30DayMapChallenge Day 27
+🖼Trade wind chart Atlantic Ocean ⌛️1851
+🎨Matthew Fontaine Maury
+🏛@LOCMaps #BigData 
+Los datos de miles de cuadernos de bitácora 🧭 de la @USNavy revelaron patrones de viento🌬️ y ayudaron a crear nuevas rutas. El viaje 🇬🇧🇦🇺 se redujo de 245 días a 130 https://t.co/LEWJsDMfSm",es,2020-11-27 07:40:38,1,1,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'BigData', 'indices': [100, 108]}]",92787154,Esteban Escolano Molin,e2molin,"Madrid, Spain, Europe",462,1060,http://pbs.twimg.com/media/En0ETISW4AEBk48.jpg,https://twitter.com/twitter/statuses/1332227818571362311
+219,1332226877482692608,"Day 27 Small data #30DayMapChallenge After working out the alignment of the moon rise with some nice foreground feature, I set out to find the spot on the edge of Sydney Harbour with no other obstructions to get the photo, hiked (or bush-bashed, no trails here) 200 metres 😂😁 https://t.co/97UFNOB6v6",en,2020-11-27 07:36:53,1,16,"[{'text': '30DayMapChallenge', 'indices': [18, 36]}]",14851579,Kylie Wilson,_kyliejane,Sydney or Tokyo,517,160,http://pbs.twimg.com/media/En0FRFJVEAE54QG.jpg,https://twitter.com/twitter/statuses/1332226877482692608
+220,1332226528835497985,"#30DayMapChallenge day27 Big or small data? 
+It depends from what point of view you are looking at it.
+Everything can be adjusted …  
+
+#qgis #photoshop drawing: Tom Janssen https://t.co/yhEUPislEJ",en,2020-11-27 07:35:30,1,0,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'qgis', 'indices': [135, 140]}, {'text': 'photoshop', 'indices': [141, 151]}]",919806358328958976,Vicky Verscheijden,gis3700,"Tongeren, België",81,145,http://pbs.twimg.com/media/En0DaJ3XMAE5_dy.jpg,https://twitter.com/twitter/statuses/1332226528835497985
+221,1332225045528072194,"Day 26 of #30DayMapChallenge (another) New Tool
+The past 26 days have all been new tools, new features in old tools and all new things in this new medium of maps.
+
+A quick map of food prep stations in our kitchen today, using SketchBook (look Ma, no stylus). https://t.co/yRwEaeXbCc",en,2020-11-27 07:29:37,1,0,"[{'text': '30DayMapChallenge', 'indices': [10, 28]}]",1322740260422385665,Anat Zohar,AnatZohar4,,2,19,http://pbs.twimg.com/media/En0CvstUwAEC0yl.jpg,https://twitter.com/twitter/statuses/1332225045528072194
+222,1332224459223298048,27 Small data: Hide-and-seek (kick the can) name variations and spatial distribution in Estonia. Sometimes small data is powerful😋 The original idea and data collected by @taavipae1 in the FB questionnaire😆 How is the game called at your home? #CitizenScience #30DayMapChallenge https://t.co/fsD0ciMxou,en,2020-11-27 07:27:17,11,92,"[{'text': 'CitizenScience', 'indices': [244, 259]}, {'text': '30DayMapChallenge', 'indices': [260, 278]}]",47698876,Evelyn,evelynuuemaa,Estonia,518,297,http://pbs.twimg.com/media/En0CtKzXEAIGmIS.jpg,https://twitter.com/twitter/statuses/1332224459223298048
+223,1332219908222959617,"#30dayMapChallenge Map with a new tool
+
+Agricultural lands percentage across all the countries
+
+Made with 
+@Datawrapper
+. A bar chart can better explain the ranking of agricultural lands but I really wanna try Datawrapper. The color choosing tools is AMAZING! https://t.co/smA0XPbZ9S",en,2020-11-27 07:09:12,1,11,"[{'text': '30dayMapChallenge', 'indices': [0, 18]}]",1217864131883216899,Tu,tu_yukun,"Longmont, Colorado, US",17,120,http://pbs.twimg.com/media/Enz-76oVgAAoX3w.jpg,https://twitter.com/twitter/statuses/1332219908222959617
+224,1332218348264849408,"#30DayMapChallenge Day 27 | Big Data
+
+This was a #VOTD although I've never tweeted as I didn't really like it. But it has huge amount of anonymous mobile phone data aggregated to 216,000 US Census areas. https://t.co/cjXGta3ZTr",en,2020-11-27 07:03:00,2,28,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'VOTD', 'indices': [49, 54]}]",2614024302,Rob Radburn,robradburn,"Leicester, UK",3187,756,http://pbs.twimg.com/media/EnxmDrpW4AMXKdF.jpg,https://twitter.com/twitter/statuses/1332218348264849408
+225,1332217552202723329,"#30dayMapChallenge Elevation
+
+China's Mountains
+
+Played with @anvaka peak map. https://t.co/qfl9i6cd50
+
+It is such a convienent tool to make ridgeline plots https://t.co/7AlGNkjFTI",en,2020-11-27 06:59:50,1,3,"[{'text': '30dayMapChallenge', 'indices': [0, 18]}]",1217864131883216899,Tu,tu_yukun,"Longmont, Colorado, US",17,120,http://pbs.twimg.com/media/Enz7d2RUUAIdTOE.png,https://twitter.com/twitter/statuses/1332217552202723329
+226,1332217342990946304,"#30DayMapChallenge 27. Big or Small Data
+
+Microscopic entities and ~2200 soil samplings : the soil microbian concentration
+
+#QGIS https://t.co/SYWMrnY4T3",en,2020-11-27 06:59:00,8,35,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'QGIS', 'indices': [124, 129]}]",892006500,Romain Lx,lacxrx,Vaucluse,715,259,http://pbs.twimg.com/media/Enz8Sy-XMAAJY6D.jpg,https://twitter.com/twitter/statuses/1332217342990946304
+227,1332215965858340865,"#30DayMapChallenge day 1+5+7+10+22+24
+Mount Saint Helens, with blue and white points offset based on the elevation aspect https://t.co/WbYdDrhefj",en,2020-11-27 06:53:32,1,4,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",275677658,Keith Jenkins,kgjenkins,Ithaca,1159,187,http://pbs.twimg.com/media/Enz7BF-XEAIErj7.png,https://twitter.com/twitter/statuses/1332215965858340865
+228,1332211544487202816,"Day 26 of #30daymapchallenge - map made with a new tool- I usually don’t use whiteboards to draw maps, so this is new for me. I drew a map of Hong Kong with my eyes closed by memory and it turned out soso. https://t.co/3Pi2N5XJQO",en,2020-11-27 06:35:58,1,1,"[{'text': '30daymapchallenge', 'indices': [10, 28]}]",1208855850959462400,Justin K,sugoiboi40,"Stanford, CA",252,1297,http://pbs.twimg.com/media/Enz3Vn6VEAA4XNe.jpg,https://twitter.com/twitter/statuses/1332211544487202816
+229,1332209869957394432,"#30DayMapChallenge Day 27: Big or small data. A good chance to do some social media data analysis. I made this map using the Flickr dataset, inspired by @enf Eric Fischer's ""Locals and Tourists"" seris. https://t.co/Pdq2UlM3CO",en,2020-11-27 06:29:18,2,9,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",815911984788951040,Jingrong Zhang,Jingrong_Zhang,China,10,36,http://pbs.twimg.com/media/Enz1zg4VQAMenD_.jpg,https://twitter.com/twitter/statuses/1332209869957394432
+230,1332209812738887680,"#30DayMapChallenge day 27 : big or small data
+Zero Data. Bas-relief post-historique, retrouvé sur la paroi d'un réacteur nucléaire, plaine de la Kolyma (XXIIIème siècle) https://t.co/LCObqwCS3I",fr,2020-11-27 06:29:05,1,5,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",1189967197730430977,Julien Dupont Kobri,Kartokobri,,249,145,http://pbs.twimg.com/media/Enz1siWWEAAbKI0.jpg,https://twitter.com/twitter/statuses/1332209812738887680
+231,1332187742965542913,"Monsieur &amp; Co 
+
+https://t.co/GXp05Rjz0J  #LiberteDinformer #DemainNousAppartient #1stAmendment #73 #75 #92 #237Recap #BlackLivesMatter #BlackFriday #25082020 #Concours #30DayMapChallenge #Thanksgiving2020 #GoneGirl #3T #G20ForAll #DrNO #3H https://t.co/y2Qsy7t5VA",fr,2020-11-27 05:01:23,3,0,"[{'text': 'LiberteDinformer', 'indices': [45, 62]}, {'text': 'DemainNousAppartient', 'indices': [63, 84]}, {'text': '1stAmendment', 'indices': [85, 98]}, {'text': '237Recap', 'indices': [111, 120]}, {'text': 'BlackLivesMatter', 'indices': [121, 138]}, {'text': 'BlackFriday', 'indices': [139, 151]}, {'text': 'Concours', 'indices': [162, 171]}, {'text': '30DayMapChallenge', 'indices': [172, 190]}, {'text': 'Thanksgiving2020', 'indices': [191, 208]}, {'text': 'GoneGirl', 'indices': [209, 218]}, {'text': '3T', 'indices': [219, 222]}, {'text': 'G20ForAll', 'indices': [223, 233]}, {'text': 'DrNO', 'indices': [234, 239]}, {'text': '3H', 'indices': [240, 243]}]",741307130,No Nca,farouestfarest,"Neuilly-sur-Seine, France",140,4019,http://pbs.twimg.com/media/EnzhrlkXMAc9ElL.jpg,https://twitter.com/twitter/statuses/1332187742965542913
+232,1332187121512275969,"Day 27 of #30DayMapChallenge - Big/small
+
+An abstract look at the heights of the buildings in #Helsinki 
+After failing with rayshader 3d rasters I just did the data preparation in R and the rendering with Aerialod. https://t.co/gJ6p9OrcPR",en,2020-11-27 04:58:55,1,8,"[{'text': '30DayMapChallenge', 'indices': [10, 28]}, {'text': 'Helsinki', 'indices': [94, 103]}]",950089955753250816,Jose Maria Echave Sanz,assesslife,Helsinki,200,394,http://pbs.twimg.com/media/Enzg72yXIAEa0gk.jpg,https://twitter.com/twitter/statuses/1332187121512275969
+234,1332185983199055873,"#30DayMapChallenge, day 26 (map made w/ a new tool): Since we got our previous day 26 submission wrong, can we re-submit yesterday's #COVID19 map 🗺️ since whomever at the Ministry of Health who made it probably didn't use #GIS software to generate it? 😉
+https://t.co/Qfgk9JeUlm https://t.co/UJuxVxUJaP",en,2020-11-27 04:54:23,2,2,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'COVID19', 'indices': [133, 141]}, {'text': 'GIS', 'indices': [222, 226]}]",731808469301493760,🇧🇿 Belize GEO 🛰️,BZgeo,Belize,4338,3973,http://pbs.twimg.com/media/EnzgF3qUUAA7rjT.jpg,https://twitter.com/twitter/statuses/1332185983199055873
+235,1332180409799491584,"#30daymapchallenge.
+Day 26: Map with New Tool
+#Visualization was made with @f_l_o_u_r_i_s_h,show the LSGI #election polling phases of Kerala.
+https://t.co/2FbY1OniIq
+The LSGI layer was published by @opendatakerala and #OSMKerala.
+#openstreetmap #Viz #map https://t.co/qo1bf05ac0",en,2020-11-27 04:32:15,4,5,"[{'text': '30daymapchallenge', 'indices': [0, 18]}, {'text': 'Visualization', 'indices': [46, 60]}, {'text': 'election', 'indices': [106, 115]}, {'text': 'OSMKerala', 'indices': [218, 228]}, {'text': 'openstreetmap', 'indices': [230, 244]}, {'text': 'Viz', 'indices': [245, 249]}, {'text': 'map', 'indices': [250, 254]}]",44111340,ark Arjun,arkarjun,Palakkad | gods own country,406,283,http://pbs.twimg.com/media/Enza0C9VoAEMgE2.jpg,https://twitter.com/twitter/statuses/1332180409799491584
+236,1332174615620116481,"#30DayMapChallenge Día 25 (con retraso) #COVIDー19 
+
+Mapa de casos confirmados de COVID-19, específicamente en la región Cañada del estado de Oaxaca. De los municipios de la zona, Cuicatlán y Huautla fueron los más afectados. https://t.co/NtMYz1QVrq",es,2020-11-27 04:09:13,1,4,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'COVIDー19', 'indices': [40, 49]}]",358606269,El Diego,Kantzakata,"Fonetitlán, Distrito Federal",112,244,http://pbs.twimg.com/tweet_video_thumb/EnzVhadUcAESQrV.jpg,https://twitter.com/twitter/statuses/1332174615620116481
+237,1332161010933899264,"Density of rural facilities in India: ~7 lakh facilities surveyed for PMGSY-III (Pradhan Mantri Gram Sadak Yojana)
+
+Kerala's density outshines pretty blazingly.
+
+#30DayMapChallenge Day 26: Map with a new tool
+Made with @datashader Data: https://t.co/y4FPM4nTLN
+#python #dataviz https://t.co/o3r9feryd6",en,2020-11-27 03:15:10,6,25,"[{'text': '30DayMapChallenge', 'indices': [162, 180]}, {'text': 'python', 'indices': [261, 268]}, {'text': 'dataviz', 'indices': [269, 277]}]",1234136874,Pratap Vardhan,PratapVardhan,"Princeton, NJ",1249,150,http://pbs.twimg.com/media/EnzIW45XIAM9fWB.jpg,https://twitter.com/twitter/statuses/1332161010933899264
+239,1332155911591309312,"#30DayMapChallenge 2020 Día 26 Mapa con herramienta nueva: El proyecto GMT de la Universidad de Hawaii es un generador de mapas muy versátil funciona a través de comandos en Unix, Linux y Windows.
+https://t.co/u91tqYgVMg @SOESTnews
+@IIEGJ @tjukanov https://t.co/Yw6isFXXEQ",es,2020-11-27 02:54:54,2,1,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",7630312,Yúum-K'aak-Náab,jdeltoro1973,Guadalajara México,538,2008,http://pbs.twimg.com/media/EnzEk46XMAYLG27.jpg,https://twitter.com/twitter/statuses/1332155911591309312
+240,1332138211980750848,"#30DayMapChallenge 
+Day 26: New Tool
+
+N'fiss Valley, High Atlas, #Morocco
+
+Using #blender 
+
+#AtlasMountains #HighAtlas https://t.co/W8KHnXqvIA",en,2020-11-27 01:44:34,2,7,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'Morocco', 'indices': [65, 73]}, {'text': 'blender', 'indices': [81, 89]}, {'text': 'AtlasMountains', 'indices': [92, 107]}, {'text': 'HighAtlas', 'indices': [108, 118]}]",1235881627684921344,EL JARMOUNI Mohamed,EljarmouniMed,"Casablanca, Grand Casablanca",136,543,http://pbs.twimg.com/media/Enyz7XrXcAEV8Xf.jpg,https://twitter.com/twitter/statuses/1332138211980750848
+241,1332137514329645059,"Día 26: Mapa con Nueva Herramienta  #30DayMapChallenge 
+
+Estación de radio FM XHGTO con la librería de #python #folium, que utiliza @LeafletJS #javaScript para los mapas todo en @ProjectJupyter #notebook 
+
+mega combo!
+
+Tutorial para definir bounds: https://t.co/53bFw6Ft0h https://t.co/rBFlRrBfzd",es,2020-11-27 01:41:47,4,5,"[{'text': '30DayMapChallenge', 'indices': [36, 54]}, {'text': 'python', 'indices': [103, 110]}, {'text': 'folium', 'indices': [111, 118]}, {'text': 'javaScript', 'indices': [143, 154]}, {'text': 'notebook', 'indices': [194, 203]}]",72170599,Mario Hernández,armiok,Ecatepec de Morelos,562,148,http://pbs.twimg.com/media/Enyx0L1W4AAR9gR.jpg,https://twitter.com/twitter/statuses/1332137514329645059
+242,1332129362112434176,"#30DayMapChallenge 26/30: New Tool. Tried to make a Found Island with torn paper and cloth, then running it through PS Express and Instagram like for Homeworlds. So, not 100% new tools, but maybe new media? https://t.co/FE8tw1pdW4",en,2020-11-27 01:09:24,1,2,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",1224107513131327488,keirtography,keirtography,"Ventura, CA",65,203,http://pbs.twimg.com/media/EnysleLVQAE18IE.jpg,https://twitter.com/twitter/statuses/1332129362112434176
+243,1332126230880116738,"#30DayMapChallenge Day 26 New Tool
+
+First time using Tableau to create a map: 
+
+Map of Asian Americans in the US
+
+https://t.co/YgQt6tEM4c https://t.co/1hY1FjuMLx",en,2020-11-27 00:56:57,1,3,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",910889225448439808,Dennis Kao,professorkao,,130,249,http://pbs.twimg.com/media/Enyo5zBWEAQnFt8.jpg,https://twitter.com/twitter/statuses/1332126230880116738
+244,1332117923029278721,"refuse to turn my computer on today so for #30DayMapChallenge's new tool day, here is a watercolor Madagascar (and a cranberry negroni) https://t.co/uLgIO4TjmS",en,2020-11-27 00:23:57,2,30,"[{'text': '30DayMapChallenge', 'indices': [43, 61]}]",14913762,vicky johnson-dahl,hurricanevicky,"Washington, DC",1001,860,http://pbs.twimg.com/media/EnyiMHNXYAAjvsS.jpg,https://twitter.com/twitter/statuses/1332117923029278721
+245,1332117439421837312,"Day 26 of #30DayMapChallenge I used #TableauPublic to show which county in #Croatia has a shelter for women. Check out #maps at
+https://t.co/JC6QI0S9tx 
+#geoweek #gis #women #ViolenceAgainstWomen #OrangeTheWorld #BeTheChange #GenerationEquality https://t.co/ZY1T0YfZ8Q",en,2020-11-27 00:22:01,0,3,"[{'text': '30DayMapChallenge', 'indices': [10, 28]}, {'text': 'TableauPublic', 'indices': [36, 50]}, {'text': 'Croatia', 'indices': [75, 83]}, {'text': 'maps', 'indices': [119, 124]}, {'text': 'geoweek', 'indices': [153, 161]}, {'text': 'gis', 'indices': [162, 166]}, {'text': 'women', 'indices': [167, 173]}, {'text': 'ViolenceAgainstWomen', 'indices': [174, 195]}, {'text': 'OrangeTheWorld', 'indices': [196, 211]}, {'text': 'BeTheChange', 'indices': [212, 224]}, {'text': 'GenerationEquality', 'indices': [225, 244]}]",1073135168989351937,Jaka,CosicJaka,"Keski-Suomi, Suomi",13,87,http://pbs.twimg.com/media/EnyhwC3XEAIH8QJ.jpg,https://twitter.com/twitter/statuses/1332117439421837312
