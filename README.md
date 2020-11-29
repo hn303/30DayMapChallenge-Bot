@@ -30,7 +30,7 @@ Top favorited tweets refers to the tweets get many `liked`/:heart:. The faviorit
 | **2** <br/>**[Lines](day2.md)**   |**3** <br/>**[Polygons](day3.md)**   |**4** <br/>**[Hexagons](day4.md)**    | **5** <br/>**[Blue](day05_Blue.md)**   | **6** <br/>**[Red](day06_Red.md)**   | **7** <br/>**[Green](day07_Green.md)**  | **8** <br/>**[Yellow](day08_Yellow.md)**  |
 | **9** <br/>**[Monochrome](day09_Monochrome.md)** | **10** <br/>**[Grid](day10_Grid.md)**  | **11** <br/>**[3D](day11_3D.md)**  | **12** <br/>**[No GIS](day12_Map%20not%20made%20with%20GIS%20software.md)**  | **13** <br/>**[Raster](day13_Raster.md)**  | **14** <br/>**[Climate change](day14_Climate%20change.md)**  |  **15** <br/>**[Connections](day15_Connections.md)**  |
 |  **16** <br/>**[Island(s)](day16_Island(s).md)**  |   **17** <br/>**[Historical map](day17_Historical%20map.md)**   |  **18** <br/>**[Landuse](day18_Landuse.md)**    |   **19** <br/>**[NULL](day19_NULL.md)**   |   **20** <br/> **[Population](day20_Population.md)**  |   **21** <br/> **[Water](day21_Water.md)**  |  **22** <br/>**[Movement](day22_Movement.md)**    |
-|   **23** <br/>**[Boundaries](day23_Boundaries.md)**   |   **24** <br/>**[Elevation](day24_Elevation.md)**   |   **25** <br/>**[COVID-19](day25_COVID-19.md)**   |   **26** <br/>**[Map with a new tool](day26_Map%20with%20a%20new%20tool.md)**   |   **27** <br/>**[Big or small data](day27_Big%20or%20small%20data.md)**   |   **28** <br/>   |  **29** <br/>    |
+|   **23** <br/>**[Boundaries](day23_Boundaries.md)**   |   **24** <br/>**[Elevation](day24_Elevation.md)**   |   **25** <br/>**[COVID-19](day25_COVID-19.md)**   |   **26** <br/>**[Map with a new tool](day26_Map%20with%20a%20new%20tool.md)**   |   **27** <br/>**[Big or small data](day27_Big%20or%20small%20data.md)**   |   **28** <br/>**[Non-geographic map](day28_Non-geographic%20map.md)**   |  **29** <br/>    |
 |  **30** <br/>    |     |     |     |     |     |     |
 
 <!-- - **[Maps for Day 1 `#30DayMapChallenge (Points)`](day1.md)** (include late entry)
@@ -64,22 +64,24 @@ Top favorited tweets refers to the tweets get many `liked`/:heart:. The faviorit
 - **[Maps for Day 15 `#30DayMapChallenge (Connections)`](day15_Connections.md)**
  -->
 
-#### Top favorited post for day 27 `#30DayMapChallenge (Big or small data)`
-| media                                                                                        | user                                                                            |   retweet |   favorite |
-|----------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------|-----------|------------|
-| ![](http://pbs.twimg.com/ext_tw_video_thumb/1332254853062647809/pu/img/QZr-OMqyha4HIa3p.jpg) | **[@owenjpowell](https://twitter.com/twitter/statuses/1332254965197369344)**    |        26 |        163 |
-| ![](http://pbs.twimg.com/media/En2IVDqUwAAKKqx.jpg)                                          | **[@rajbhagatt](https://twitter.com/twitter/statuses/1332371852333760512)**     |        23 |        113 |
-| ![](http://pbs.twimg.com/media/En04Yz6WMAEq3oK.png)                                          | **[@afrimapr](https://twitter.com/twitter/statuses/1332284210430750721)**       |        31 |        100 |
-| ![](http://pbs.twimg.com/media/En0CtKzXEAIGmIS.jpg)                                          | **[@evelynuuemaa](https://twitter.com/twitter/statuses/1332224459223298048)**   |        11 |         92 |
-| ![](http://pbs.twimg.com/media/En0kkRNVgAI6WGK.jpg)                                          | **[@SouthArrowMaps](https://twitter.com/twitter/statuses/1332261283530371072)** |         8 |         85 |
-| ![](http://pbs.twimg.com/media/En1wilfW4AIzMef.jpg)                                          | **[@MapsByAntonia](https://twitter.com/twitter/statuses/1332344807998500864)**  |        11 |         60 |
-| ![](http://pbs.twimg.com/media/En1gQCMXIAUUaw9.jpg)                                          | **[@tjukanov](https://twitter.com/twitter/statuses/1332327637470113794)**       |         5 |         47 |
-| ![](http://pbs.twimg.com/media/En3Yv6UW4AEzxVF.jpg)                                          | **[@hurricanevicky](https://twitter.com/twitter/statuses/1332459394341228545)** |         3 |         44 |
-| ![](http://pbs.twimg.com/media/En3XjLWWMAI6ddK.png)                                          | **[@gontsa](https://twitter.com/twitter/statuses/1332459258496102406)**         |         8 |         39 |
-| ![](http://pbs.twimg.com/media/Enz8Sy-XMAAJY6D.jpg)                                          | **[@lacxrx](https://twitter.com/twitter/statuses/1332217342990946304)**         |         8 |         35 |
-| ![](http://pbs.twimg.com/media/En2lp2-XYAMn0dv.jpg)                                          | **[@helenmakesmaps](https://twitter.com/twitter/statuses/1332404051590459393)** |         3 |         34 |
-| ![](http://pbs.twimg.com/media/EnxmDrpW4AMXKdF.jpg)                                          | **[@robradburn](https://twitter.com/twitter/statuses/1332218348264849408)**     |         2 |         28 |
+#### Top favorited post for day 28 `#30DayMapChallenge (Non-geographic map)`
+| media                                                                                        | user                                                                             |   retweet |   favorite |
+|----------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------|-----------|------------|
+| ![](http://pbs.twimg.com/media/En6ycsoXMAAppQm.jpg)                                          | **[@tjukanov](https://twitter.com/twitter/statuses/1332698975925833733)**        |        45 |        246 |
+| ![](http://pbs.twimg.com/media/Env4HoxWMAQuCxk.jpg)                                          | **[@JulesGrandin](https://twitter.com/twitter/statuses/1332615464711835648)**    |        15 |        128 |
+| ![](http://pbs.twimg.com/media/En62hpjUwAAUMa-.jpg)                                          | **[@rajbhagatt](https://twitter.com/twitter/statuses/1332703936478806017)**      |         7 |         90 |
+| ![](http://pbs.twimg.com/media/En4x9YVVEAEHx-4.jpg)                                          | **[@ShijiaWendy](https://twitter.com/twitter/statuses/1332557499929559040)**     |         5 |         83 |
+| ![](http://pbs.twimg.com/media/En64N0tXYAEugMt.jpg)                                          | **[@_penguin_runner](https://twitter.com/twitter/statuses/1332705092345208832)** |         5 |         77 |
+| ![](http://pbs.twimg.com/media/En6jc_yWMAIXehH.jpg)                                          | **[@Junevgt](https://twitter.com/twitter/statuses/1332683001206108160)**         |        19 |         73 |
+| ![](http://pbs.twimg.com/media/En7B19pXIAIu-bA.jpg)                                          | **[@Koen_VdE](https://twitter.com/twitter/statuses/1332716801726222339)**        |         6 |         71 |
+| ![](http://pbs.twimg.com/media/En5jVn9WMAA5B_d.jpg)                                          | **[@DVDMaps](https://twitter.com/twitter/statuses/1332611780837863425)**         |         4 |         57 |
+| ![](http://pbs.twimg.com/media/En7T7c9W8AEWyI6.png)                                          | **[@geo_alyaqout](https://twitter.com/twitter/statuses/1332736024225722372)**    |         3 |         52 |
+| ![](http://pbs.twimg.com/ext_tw_video_thumb/1332818501434675200/pu/img/2FzZ2GDqrZETla7y.jpg) | **[@Cchurchili](https://twitter.com/twitter/statuses/1332818857199763459)**      |         8 |         45 |
+| ![](http://pbs.twimg.com/media/En5lkopXYAU_VAU.jpg)                                          | **[@AlandcoC](https://twitter.com/twitter/statuses/1332614223432740867)**        |         4 |         34 |
+| ![](http://pbs.twimg.com/ext_tw_video_thumb/1332605077199212544/pu/img/UKoHOA2vMS1xI9Hk.jpg) | **[@AurelienChaumet](https://twitter.com/twitter/statuses/1332605791749222403)** |         3 |         33 |
+| ![](http://pbs.twimg.com/media/En7hRFXW8AMAWUF.jpg)                                          | **[@helenmakesmaps](https://twitter.com/twitter/statuses/1332750471698722819)**  |         3 |         31 |
  
+
 
 
 
