@@ -1,0 +1,691 @@
+,tweet_id,tweet_text,language,tweet_created_at,retweet,favorite,hashtags,user_id,user_name,user,user_loc,user_follower,friends_count,media,tweet_url
+61,1333196895737397248,"#30DayMapChallenge final day.  Translation of 2d water supply map to 3d using #rayrender, #rstats.  2d in thread. https://t.co/fu9gUgNZPF",en,2020-11-29 23:51:24,3,10,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'rayrender', 'indices': [78, 88]}, {'text': 'rstats', 'indices': [90, 97]}]",45536151,David White,Makeo88,,25,103,http://pbs.twimg.com/ext_tw_video_thumb/1333195677103312896/pu/img/mFNACPMryiqUUak3.jpg,https://twitter.com/twitter/statuses/1333196895737397248
+62,1333195875099811841,"AA route map from 1950s:
+Great geographical detail!
+Such tailored planners were part of the AA routes service introduced c1912. 
+An automated service now available to all online @TheAA_UK https://t.co/hIyTCOvhZV
+Day 30 - A map @tjukanov
+#30DayMapChallenge #GeographyTeacher https://t.co/V4G7jjeg3J",en,2020-11-29 23:47:20,3,5,"[{'text': '30DayMapChallenge', 'indices': [237, 255]}, {'text': 'GeographyTeacher', 'indices': [256, 273]}]",2787878432,BC,mildthing99,"England, United Kingdom",2237,2015,http://pbs.twimg.com/media/EoB2lSCWEAMkTYO.jpg,https://twitter.com/twitter/statuses/1333195875099811841
+64,1333192342598164481,"Day 30: a map
+
+Urban forest in Christchurch, Aotearoa/New Zealand. Inspired by old CRT terminal.
+
+@qgis + remote sensing data processed by @jamorgenroth.
+
+30th map, mission accomplished. See you next year.
+
+#30DayMapChallenge https://t.co/dGBsJDS7Ei",en,2020-11-29 23:33:18,4,11,"[{'text': '30DayMapChallenge', 'indices': [207, 225]}]",12306,Luis Apiolaza 🧮🍃📷⏚,zentree,"Ōtautahi, Aotearoa",1322,286,http://pbs.twimg.com/media/EoBzJwfUwAANiy6.jpg,https://twitter.com/twitter/statuses/1333192342598164481
+65,1333192226571231239,"#30DayMapChallenge
+Día 29: Globo. Un simple globo terráqueo girando en el vacío del espacio. https://t.co/6DFEbStPL2 https://t.co/OElDxciQqb",es,2020-11-29 23:32:50,4,5,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",2239825712,IIEG Jalisco,IIEGJ,"Calzada de los Pirules #71, Ciudad Granja, Zapopan, Jalisco",4792,0,http://pbs.twimg.com/media/EoBzI3GXIAYtAZP.jpg,https://twitter.com/twitter/statuses/1333192226571231239
+66,1333187422734086145,"For #30DayMapChallenge day 19 (Null) I thought of the doctrine of terra nullias in Australia. It was pretty quick to map the current indigenous population in @Datawrapper. Data from @ABSStats tidied in R.
+Interactive: https://t.co/iKXyX0TplC https://t.co/BpA6d1EGcb",en,2020-11-29 23:13:45,1,3,"[{'text': '30DayMapChallenge', 'indices': [4, 22]}]",33788841,suǝbbıɹɟ pıʌɐp,dakvid,"Wellington, New Zealand",387,454,http://pbs.twimg.com/media/EoBuIRiVQAIPFv4.jpg,https://twitter.com/twitter/statuses/1333187422734086145
+67,1333183102747815943,"a quick one for #30DayMapChallenge's globe day: I have a globe made in 1965, here are the differences, borderwise, on that one vs one made today. Data collected by looking at mine, so I likely missed a few 😬 https://t.co/pY1JsRW9nc",en,2020-11-29 22:56:35,1,8,"[{'text': '30DayMapChallenge', 'indices': [16, 34]}]",14913762,vicky johnson-dahl,hurricanevicky,"Washington, DC",1008,840,http://pbs.twimg.com/media/EoBqzwpXIAcOSpw.jpg,https://twitter.com/twitter/statuses/1333183102747815943
+68,1333177530107392003,"Day 28 of the #30DayMapChallenge was a non-geographic map. I created a ""life map"" of the milestones in my #geospatial journey so far. This was a great way to reflect on my career path and look forward to what is to come in the future! #GIS https://t.co/TO1X4cH6g8",en,2020-11-29 22:34:27,1,2,"[{'text': '30DayMapChallenge', 'indices': [14, 32]}, {'text': 'geospatial', 'indices': [106, 117]}, {'text': 'GIS', 'indices': [235, 239]}]",1311526141983772673,Rachel Finerman,RFinerman,,38,81,http://pbs.twimg.com/media/EoBl48kVkAIGEox.jpg,https://twitter.com/twitter/statuses/1333177530107392003
+69,1333173581459537920,"Here's one for #30DayMapChallenge day 16 (islands). I imagined New Zealand as an archipelago of even more islands, by taking StatsNZ's Statistical Area 2 small areas and applying random resizing and rotations in #rstats https://t.co/5uUTcSGQ68",en,2020-11-29 22:18:45,3,1,"[{'text': '30DayMapChallenge', 'indices': [15, 33]}, {'text': 'rstats', 'indices': [212, 219]}]",33788841,suǝbbıɹɟ pıʌɐp,dakvid,"Wellington, New Zealand",387,454,http://pbs.twimg.com/media/EoBiJWYVkAImlVs.jpg,https://twitter.com/twitter/statuses/1333173581459537920
+70,1333168471337820160,"#30DayMapChallenge Day 29
+🖼Globos del Rey Sol ⌛️1681
+🎨Vincenzo Coronelli
+🏛@GallicaBnF #Globes
+
+Los Globos del Rey Sol, miden 3.84 metros de diámetro y pesan más de dos toneladas. Se encuentran en el nuevo edificio de la Bibliothéque François-Mitterrand, en París https://t.co/TSXYL373NG",es,2020-11-29 21:58:27,1,2,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'Globes', 'indices': [86, 93]}]",92787154,Esteban Escolano Molin,e2molin,"Madrid, Spain, Europe",463,1061,http://pbs.twimg.com/media/EoBdp97XUAE4Z36.jpg,https://twitter.com/twitter/statuses/1333168471337820160
+71,1333168060409077760,"Day 27 of the #30DayMapChallenge called for using big or small #data. This #map shows #EV charge points in Cork City and suburbs in Ireland, clearly small data with only a small number of points. My great grandparents were from Cork County, so I had fun exploring this data. #GIS https://t.co/7IzVVz5rfq",en,2020-11-29 21:56:49,1,0,"[{'text': '30DayMapChallenge', 'indices': [14, 32]}, {'text': 'data', 'indices': [63, 68]}, {'text': 'map', 'indices': [75, 79]}, {'text': 'EV', 'indices': [86, 89]}, {'text': 'GIS', 'indices': [275, 279]}]",1311526141983772673,Rachel Finerman,RFinerman,,38,81,http://pbs.twimg.com/media/EoBdRWVVkAI4Ql2.jpg,https://twitter.com/twitter/statuses/1333168060409077760
+72,1333167985373097986,"Top story: @geo_alyaqout: '#30DayMapChallenge
+Day29: Globe
+
+Title: Planet Earth 
+
+Software used: @Blender &amp; @illustrator
+ 
+The data were from @NASA blue marble and heightmap 
+
+Not sure why the sphere was not smoothed en… https://t.co/e53au2EpBb, see more https://t.co/vM2VfP1azs",en,2020-11-29 21:56:31,0,2,"[{'text': '30DayMapChallenge', 'indices': [27, 45]}]",166348278,Richard Petry,TheMapAddict,"51.071363,-4.126697",6563,1537,http://pbs.twimg.com/media/EoAUCIgXMAIiY76.jpg,https://twitter.com/twitter/statuses/1333167985373097986
+74,1333165164972085248,"Penultimate day on #30DayMapChallenge here’s our summary from Day 29: #Globe
+
+Please check out our full Twitter thread for links and authors and full video for the amazing tribute globe at the top! Sound on 🔊 
+
+#geoshare https://t.co/qvZGlwxD0e",en,2020-11-29 21:45:18,1,9,"[{'text': '30DayMapChallenge', 'indices': [19, 37]}, {'text': 'Globe', 'indices': [70, 76]}, {'text': 'geoshare', 'indices': [211, 220]}]",190644064,British Cartographic Society,bcsweb,UK,3452,272,http://pbs.twimg.com/media/EoBapuqWMAcTtAc.jpg,https://twitter.com/twitter/statuses/1333165164972085248
+75,1333164471653691397,"#30DayMapChallenge - Day 29: Globe
+
+Crystal Ball
+
+I had to dredge the depths of my memory banks for today’s map. I used Povray to render a glass sphere refracting a flat map of the world to give the appearance(-ish) of a globe. https://t.co/mu0NP7tOPU",en,2020-11-29 21:42:33,1,3,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",12620762,Mike Coats,MikeCoatsDotCom,"Inverness, Scotland",304,1192,http://pbs.twimg.com/media/EoBaBMfW8AAhL4_.jpg,https://twitter.com/twitter/statuses/1333164471653691397
+78,1333162390255505413,"Hijacking #30DayMapChallenge one last time: use this globe to compare the nightlights of two 150 km radius areas with similar population to see the difference in electrification https://t.co/qW7SDSRGX3 Built for #SDGAtlas2020, with @EconAndrew https://t.co/xhWEqQF7Yv",en,2020-11-29 21:34:17,9,32,"[{'text': '30DayMapChallenge', 'indices': [10, 28]}, {'text': 'SDGAtlas2020', 'indices': [212, 225]}]",17242884,Maarten Lambrechts,maartenzam,,17666,1640,http://pbs.twimg.com/media/EoBXlWyW4AIRkhS.jpg,https://twitter.com/twitter/statuses/1333162390255505413
+79,1333158609421815815,"Reproducible code to create a world map using orthographic projection in #RStats #30DayMapChallenge Day 29: Globe
+👉https://t.co/xdXL4qmjLX https://t.co/sqkwpbV6zo",en,2020-11-29 21:19:16,4,37,"[{'text': 'RStats', 'indices': [73, 80]}, {'text': '30DayMapChallenge', 'indices': [81, 99]}]",423847851,Rafael H.M. Pereira 🚡 Urban Demographics,UrbanDemog,at home,12687,2447,http://pbs.twimg.com/media/EoBUWlcWEAA1I0A.png,https://twitter.com/twitter/statuses/1333158609421815815
+80,1333157225846640640,"This map for the #30DayMapChallenge combines day 25 (COVID-19) and day 26 (map with a new tool). These maps show test data throughout the U.S. both since the start of COVID-19 and within the last 30 days, as of November 25th. #GIS #Geospatial https://t.co/Vib0BdHzag",en,2020-11-29 21:13:46,1,1,"[{'text': '30DayMapChallenge', 'indices': [17, 35]}, {'text': 'GIS', 'indices': [226, 230]}, {'text': 'Geospatial', 'indices': [231, 242]}]",1311526141983772673,Rachel Finerman,RFinerman,,38,81,http://pbs.twimg.com/media/EoBTaHGVoAA8CkD.jpg,https://twitter.com/twitter/statuses/1333157225846640640
+81,1333154624962965505,"Hello, I'm here.
+#30DayMapChallenge Day 29: Globe
+#QGIS, Natural Earth Data https://t.co/nJW2nvbNxu",en,2020-11-29 21:03:26,3,42,"[{'text': '30DayMapChallenge', 'indices': [17, 35]}, {'text': 'QGIS', 'indices': [50, 55]}]",14992557,gontsa,gontsa,"Cherkasy, Ukraine",4600,1420,http://pbs.twimg.com/media/EoBQ-t5XYAc6du2.jpg,https://twitter.com/twitter/statuses/1333154624962965505
+82,1333154013555015680,"🌐Our Technical Assurance, Modelling and Economics (TAME) team love to produce #maps.
+
+💻This November, they've been showcasing their some of our geospatial #data by taking part in the #30DayMapChallenge.
+
+👉See more: https://t.co/RRwY1teV2R https://t.co/SWvpIAZkq8",en,2020-11-29 21:01:00,2,6,"[{'text': 'maps', 'indices': [78, 83]}, {'text': 'data', 'indices': [155, 160]}, {'text': '30DayMapChallenge', 'indices': [183, 201]}]",756392792310636544,Transport for the North,Transport4North,"England, United Kingdom",9780,2305,http://pbs.twimg.com/media/En11532XYAAznMt.png,https://twitter.com/twitter/statuses/1333154013555015680
+83,1333153468383698944,"The globe perspective reveals how blue our planet is. #30DayMapChallenge day 29, “globe”
+
+Source code for rotating globe with https://t.co/OtuHfTCATI included 🤓 https://t.co/2bVGSks3n7",en,2020-11-29 20:58:50,1,1,"[{'text': '30DayMapChallenge', 'indices': [54, 72]}]",1325113858520993793,Fredrik Moeschlin,imfremoe,,5,18,http://pbs.twimg.com/media/EoBQArWXUAIhIuV.jpg,https://twitter.com/twitter/statuses/1333153468383698944
+85,1333151611544350720,"#30DayMapChallenge 
+Day 29 - Globe
+
+Hidalgo, México: Población nacida en otros países
+
+Data: Censo de población y vivienda, INEGI 2010 https://t.co/sU6BUNbHNF",es,2020-11-29 20:51:27,1,0,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",894755514571046915,The White Rabbit Science,whiterabbit_sci,,34,80,http://pbs.twimg.com/media/EoBOUw8W8Acnpou.jpg,https://twitter.com/twitter/statuses/1333151611544350720
+87,1333145259413532672,"Top story: @juanluistv_: '#30DayMapChallenge day 29, globe. Destination of international flights from South American capitals. Made with #QGIS, #GIMP, information from wikipedia and instructions from @underdarkGIS and @… https://t.co/vu0o2D7bTs, see more https://t.co/ZWTi27AmCw",en,2020-11-29 20:26:13,0,1,"[{'text': '30DayMapChallenge', 'indices': [26, 44]}, {'text': 'QGIS', 'indices': [137, 142]}, {'text': 'GIMP', 'indices': [144, 149]}]",15429684,Pablo Leautaud,pleautaud,"Distrito Federal, México",528,1033,http://pbs.twimg.com/tweet_video_thumb/En-ZP37UcAE-nGy.jpg,https://twitter.com/twitter/statuses/1333145259413532672
+88,1333144514031136775,"My delayed map for day 28 of #30DayMapChallenge: Non-geographic map.
+
+This is a graph (in the mathematical sense) showing adjacency between wards in Southampton. Some interesting patterns: /2 https://t.co/eCW0WuIJwo",en,2020-11-29 20:23:15,1,4,"[{'text': '30DayMapChallenge', 'indices': [29, 47]}]",809066605,Robin Wilson,sciremotesense,"Southampton, England",928,505,http://pbs.twimg.com/media/EoBHnRZXYAIyb0f.jpg,https://twitter.com/twitter/statuses/1333144514031136775
+89,1333143962471845890,"Day 29 of #30DayMapChallenge Global 🌍
+Where we live...Where we belong!
+#jeddah #SA #MeteoEarth https://t.co/7U2xKBEqP0",en,2020-11-29 20:21:03,1,7,"[{'text': '30DayMapChallenge', 'indices': [10, 28]}, {'text': 'jeddah', 'indices': [71, 78]}, {'text': 'SA', 'indices': [79, 82]}, {'text': 'MeteoEarth', 'indices': [83, 94]}]",590472140,MeMeRaz.,meme_raz,SA,252,346,http://pbs.twimg.com/media/EoBHXTQWEAITtdi.jpg,https://twitter.com/twitter/statuses/1333143962471845890
+90,1333143558833004544,"Day 29: Globe
+Time to get festive...
+#30DayMapChallenge https://t.co/rOXntdaagJ",en,2020-11-29 20:19:27,1,2,"[{'text': '30DayMapChallenge', 'indices': [37, 55]}]",1233423602948694017,Nic,DrNicNacks,,10,33,http://pbs.twimg.com/media/EoBG_kVXEAAkipI.jpg,https://twitter.com/twitter/statuses/1333143558833004544
+91,1333139250485846029,"#30DayMapChallenge 
+Day 29: Globe
+
+The members of the @UNESCO  Global Geoparks Network
+
+Using #ArcGIS_Earth
+
+#Geopark #Geoheritage  #UNESCO https://t.co/0MvWvN9tMs",en,2020-11-29 20:02:20,1,6,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'ArcGIS_Earth', 'indices': [94, 107]}, {'text': 'Geopark', 'indices': [109, 117]}, {'text': 'Geoheritage', 'indices': [118, 130]}, {'text': 'UNESCO', 'indices': [132, 139]}]",1235881627684921344,EL JARMOUNI Mohamed,EljarmouniMed,"Casablanca, Grand Casablanca",139,545,http://pbs.twimg.com/ext_tw_video_thumb/1333137564761530368/pu/img/YiZSU2adfY0o8cdR.jpg,https://twitter.com/twitter/statuses/1333139250485846029
+92,1333139027789287430,"#30DayMapChallenge Day 29: Globe. At @GeopipeInc, we include a globe in our logo —not just because we’re #mapfreaks, but also because we know that @GeopipeInc works all around the globe to provide #smart #digitaltwins for projects in multidisciplinary arenas! https://t.co/MKSDQvtCgd",en,2020-11-29 20:01:27,1,1,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'mapfreaks', 'indices': [105, 115]}, {'text': 'smart', 'indices': [197, 203]}, {'text': 'digitaltwins', 'indices': [204, 217]}]",738849425783689216,Geopipe,GeopipeInc,"New York, NY",290,122,http://pbs.twimg.com/media/EoBC4VAXYAg-Mov.jpg,https://twitter.com/twitter/statuses/1333139027789287430
+93,1333138979793883141,"#30DayMapChallenge 2020 Día 29 Globo: Globo terráqueo con los viajes deseados, el mapa se intitula ""Cuando pase la pandemia"" @IIEGJ @tjukanov https://t.co/n1SRf0gekE https://t.co/5kLa8oUXJ5",es,2020-11-29 20:01:15,1,4,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",7630312,Yúum-K'aak-Náab,jdeltoro1973,Guadalajara México,542,2014,http://pbs.twimg.com/ext_tw_video_thumb/1333138840672985089/pu/img/n5eSiEBZYjz2SYuq.jpg,https://twitter.com/twitter/statuses/1333138979793883141
+94,1333138476519333889,Day 29 of #30DayMapChallenge is ‘globe’.  Here is the least viewed bit of our little globe at home - nice to give it a chance to be focused on. https://t.co/PwkiiUlcWX,en,2020-11-29 19:59:15,1,1,"[{'text': '30DayMapChallenge', 'indices': [10, 28]}]",176337766,Danny Cullinane,timbertopper400,NW England,394,778,http://pbs.twimg.com/media/EoBCXctXYAc9zj4.jpg,https://twitter.com/twitter/statuses/1333138476519333889
+96,1333136156645617665,"#30DayMapChallenge Día 29: Globo. Pronóstico de temperatura a 2m para el día de hoy. 
+
+#rstats #rspatial 
+
+Código: https://t.co/V0Ofm6x30c https://t.co/W4FGFc5Cl0",es,2020-11-29 19:50:02,4,8,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'rstats', 'indices': [87, 94]}, {'text': 'rspatial', 'indices': [95, 104]}]",30381129,Steph Orellana Bello,sporella,Chile,344,207,http://pbs.twimg.com/tweet_video_thumb/EoA_uS_XcAUbGCY.jpg,https://twitter.com/twitter/statuses/1333136156645617665
+97,1333135847739314176,"#30DayMapChallenge  Globe , Consommation de viande dans le monde, FAO, 
+https://t.co/h2qKXRZxKE https://t.co/efXpr9yymZ",fr,2020-11-29 19:48:49,1,0,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",2493409233,Africa & Geomatique,geocarta,,308,172,http://pbs.twimg.com/tweet_video_thumb/EoA_VOkWEAAK4ks.jpg,https://twitter.com/twitter/statuses/1333135847739314176
+98,1333135809738891266,"#30DayMapChallenge #Day29 : Globe
+Pas trop de temps aujourd'hui mais tout de même une petite animation de la planète Mars! 🌐
+
+[ENG] Not too much time today but still a small animation of the planet Mars! https://t.co/TaUNRMEx6p",fr,2020-11-29 19:48:40,1,4,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'Day29', 'indices': [19, 25]}]",163493843,maelle am,MaelleAMM,Paris,280,409,http://pbs.twimg.com/tweet_video_thumb/EoA_5ZAXcAA2lKO.jpg,https://twitter.com/twitter/statuses/1333135809738891266
+99,1333132378538176514,#30DayMapChallenge  #day29 #globe https://t.co/hhPNLAiyDS,und,2020-11-29 19:35:02,1,5,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'day29', 'indices': [20, 26]}, {'text': 'globe', 'indices': [27, 33]}]",1311757794417283072,mjeż.wysoko,mjezwysoko,,3,10,http://pbs.twimg.com/tweet_video_thumb/EoA8tUmXUAIw8q8.jpg,https://twitter.com/twitter/statuses/1333132378538176514
+100,1333132010555060224,"#30DayMapChallenge 
+
+Day 29: Globe
+
+Arctic and Antarctic ortho projections.
+
+Took a few days off. Told myself I wouldn't do all of them, but I'm only missing 5, and I have a couple of ideas. It'll just have to bleed a bit into december 🎄
+
+#rstats #rspatial #ggplot https://t.co/iKCgjVE8kA",en,2020-11-29 19:33:34,5,14,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'rstats', 'indices': [239, 246]}, {'text': 'rspatial', 'indices': [247, 256]}, {'text': 'ggplot', 'indices': [257, 264]}]",45565875,Emil Malta ❄️,emilmalta,Nuuk,205,960,http://pbs.twimg.com/media/EoA8eCxWEAA1cQj.jpg,https://twitter.com/twitter/statuses/1333132010555060224
+101,1333129061917466626,#30DayMapChallenge ...the penultimate day and I'm getting lazy. Today a #Globe. This Globe? Thank you @EDINA_Digimap https://t.co/0qJLCLTOmx,en,2020-11-29 19:21:51,2,13,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'Globe', 'indices': [72, 78]}]",734297005846081536,Steve Carver,LandEthics,"Yorkshire, England",2107,442,http://pbs.twimg.com/media/EoA5ugvW8AAyAsY.jpg,https://twitter.com/twitter/statuses/1333129061917466626
+102,1333128160557355009,Globe number 2 for today #30DayMapChallenge! Xmas has arrived 🎅😁 https://t.co/4R3msvEqKf,en,2020-11-29 19:18:16,1,7,"[{'text': '30DayMapChallenge', 'indices': [25, 43]}]",996835888813494272,Catherine Schroder,cj_maps,"Scotland, United Kingdom",84,99,http://pbs.twimg.com/media/EoA4_vDXEAM4cWV.jpg,https://twitter.com/twitter/statuses/1333128160557355009
+103,1333128009453330439,Day 25: Covid-19. Made with arcgis online. https://t.co/A1fVsv5BSw #texas #covid #30DayMapChallenge https://t.co/WcPbTVh1ez,en,2020-11-29 19:17:40,1,3,"[{'text': 'texas', 'indices': [67, 73]}, {'text': 'covid', 'indices': [74, 80]}, {'text': '30DayMapChallenge', 'indices': [81, 99]}]",28102639,Phoebe L.,pheebely,"Austin, TX",245,159,http://pbs.twimg.com/media/EoA4mtwXMAA9yc0.jpg,https://twitter.com/twitter/statuses/1333128009453330439
+104,1333127580619321347,"#30DayMapChallenge Day 29 - Globe
+
+Far from perfect but I'll still close my eyes, put my finger out, and see where I land when I open them. https://t.co/KYg6I14xjx",en,2020-11-29 19:15:58,2,12,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",579246246,Cas,cas_maps,,193,1050,http://pbs.twimg.com/tweet_video_thumb/EoA4CiJXUAA0IPJ.jpg,https://twitter.com/twitter/statuses/1333127580619321347
+105,1333127011414503427,"#30DayMapChallenge  Day 29 - Globe
+The 11 smallest countries in the world by population, #Andorra is number 11 - Globus amb els 11 països més petits per població. #QGIS and #GlobeBuilder. Equal-area Hammer &amp; Eckert projection. https://t.co/QrQQAIkvoN",ca,2020-11-29 19:13:42,3,8,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'Andorra', 'indices': [89, 97]}, {'text': 'QGIS', 'indices': [163, 168]}, {'text': 'GlobeBuilder', 'indices': [173, 186]}]",2342154006,Cartografia Oficial d'Andorra,areacartografia,Govern d'Andorra,345,726,http://pbs.twimg.com/media/EoA2iLNXMAYqLQ3.jpg,https://twitter.com/twitter/statuses/1333127011414503427
+106,1333126787262533634,Day 29: Globe. Here are buildings of Tartu projected onto a globe as big as Tartu. 😁 #30DayMapChallenge map by @AgoTominga https://t.co/wxaraxGqBU,en,2020-11-29 19:12:49,1,13,"[{'text': '30DayMapChallenge', 'indices': [85, 103]}]",1322101266793857026,Mobility Lab of University of Tartu,UT_moblab,Tartu,86,54,http://pbs.twimg.com/media/EoA2o-PXcAUJ0Lq.jpg,https://twitter.com/twitter/statuses/1333126787262533634
+108,1333126150353252353,"#30DayMapChallenge 
+
+29. Globo. Densidad de población por países.
+
+29. Globe. Population density by countries. https://t.co/tgzyQt8FlI",es,2020-11-29 19:10:17,3,9,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",769592708,Valentín Sastre,valen_ibiza,IBIZA / Barcelona,333,858,http://pbs.twimg.com/media/EoA3J5WXIAIL5bz.png,https://twitter.com/twitter/statuses/1333126150353252353
+109,1333124860969619461,"#30DayMapChallenge Day 29 Globe
+
+Souvenir city &amp; country snow globes you can get from https://t.co/YL3xgjqeAG 
+
+(Mapped on a globe)
+
+@ArcGISOnline https://t.co/4ayxakASo4",en,2020-11-29 19:05:09,1,0,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",910889225448439808,Dennis Kao,professorkao,,129,253,http://pbs.twimg.com/media/EoA1_rLXcAI1fQ8.jpg,https://twitter.com/twitter/statuses/1333124860969619461
+110,1333123943109103622,"#30DayMapChallenge Day 29: Globe
+
+We use h3 hexagons to visualize data on https://t.co/chQGUaQlKn. Hexagons are curvy because globe is not flat. https://t.co/Tu0bfUXgXW",en,2020-11-29 19:01:30,1,4,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",1024584556110852096,Kontur,KonturInc,"1305 N. Holopono Street, Suite 2
+Kihei HI 96753 
+USA",238,316,http://pbs.twimg.com/media/EoA1J5KXYAAOCSm.jpg,https://twitter.com/twitter/statuses/1333123943109103622
+112,1333123302936743938,#QGIS #30DayMapChallenge https://t.co/Pmjl6uWpqP,und,2020-11-29 18:58:58,1,1,"[{'text': 'QGIS', 'indices': [0, 5]}, {'text': '30DayMapChallenge', 'indices': [6, 24]}]",1164228294839025666,Chen Szu Yu,dataviz_szuyu,"Boston, MA",151,188,http://pbs.twimg.com/media/EoA0ZdtXEAEGSwg.jpg,https://twitter.com/twitter/statuses/1333123302936743938
+113,1333121757667094528,"Day 29 #30DayMapChallenge Globe
+
+Jigsaw Globe 🌎
+
+Did this with my dad years ago, it is very fiddly and delicate! https://t.co/hkhMG0lb8C",en,2020-11-29 18:52:49,2,23,"[{'text': '30DayMapChallenge', 'indices': [7, 25]}]",223959960,Kirsten Reilly,_penguin_runner,"Stirling, Scotland",389,1215,http://pbs.twimg.com/media/EoAzLD6XIAU0pbt.jpg,https://twitter.com/twitter/statuses/1333121757667094528
+114,1333121087715028994,"#30DayMapChallenge - Day 29 - Globe
+
+Another view of the Great Lakes submission from day 3. 
+
+Created using #Python + #MatPlotLib https://t.co/uNrZK55wg8 https://t.co/CeqO0ivHbh",en,2020-11-29 18:50:10,4,5,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'Python', 'indices': [108, 115]}, {'text': 'MatPlotLib', 'indices': [118, 129]}]",867502710131752960,Vivek Parashar,vivekparasharr,,16,24,http://pbs.twimg.com/media/EoAyj61W8AQZITb.jpg,https://twitter.com/twitter/statuses/1333121087715028994
+116,1333119251071307780,"#30DayMapChallenge Day 29: Globe - “Between two globes” 
+Not sure I’ll have time today but it’s been almost a year since I was in the classroom teaching young minds about GIS, spatial thinking, and cartography. https://t.co/XxgHe7SYnh",en,2020-11-29 18:42:52,2,9,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",333524694,Christopher Pollard,CRVanPollard,"Philadelphia,PA",1073,1215,http://pbs.twimg.com/media/EoAw4-4XIAAJT-n.jpg,https://twitter.com/twitter/statuses/1333119251071307780
+117,1333119127096070146,"Day 24: Elevation - Mt. Kinabalu, #Malaysia. Tried to draw elevation as vector lines but somehow the points turn into a mess when I do ""points to path"" (2nd tweet) so just changed points to line symbol, rotated it, and came up with this. #30DayMapChallenge https://t.co/6s8MgK0YZb",en,2020-11-29 18:42:22,1,4,"[{'text': 'Malaysia', 'indices': [34, 43]}, {'text': '30DayMapChallenge', 'indices': [238, 256]}]",28102639,Phoebe L.,pheebely,"Austin, TX",245,159,http://pbs.twimg.com/media/EoAwRwiW4AA9ZiB.png,https://twitter.com/twitter/statuses/1333119127096070146
+118,1333117402129838082,"#30DayMapChallenge Non Geographic Map ,#Senegal  Amchart https://t.co/fsX1NUEvP1",ht,2020-11-29 18:35:31,1,2,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'Senegal', 'indices': [39, 47]}]",2493409233,Africa & Geomatique,geocarta,,308,172,http://pbs.twimg.com/tweet_video_thumb/EoAvFztXcAgJy48.jpg,https://twitter.com/twitter/statuses/1333117402129838082
+119,1333115516983128071,"#30DayMapChallenge 
+
+Day 30 Suggestion (November 30) - A Map
+
+Data
+https://t.co/vrvi6nd8NG https://t.co/MnSoneouwA",en,2020-11-29 18:28:01,1,2,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",3160198320,Dr Chris #GIS #Success,DrChrisGeoSci,"Calgary, Alberta",735,656,http://pbs.twimg.com/media/EoAtf2WWEAcn643.png,https://twitter.com/twitter/statuses/1333115516983128071
+120,1333114067293245442,"Día 29: Globo #30DayMapChallenge 
+
+Los satélites de comunicaciones geoestacionarios orbitan una distancia de aprox 36000 km sobre el ecuador. Esto hace que el satélite vea siempre la misma cara de la tierra. El Morelos 3 ve siempre esto
+
+#Basemap | https://t.co/LeQl3T3F7n @IFT_MX https://t.co/44W5M83u4y",es,2020-11-29 18:22:16,1,0,"[{'text': '30DayMapChallenge', 'indices': [14, 32]}, {'text': 'Basemap', 'indices': [238, 246]}]",72170599,Mario Hernández,armiok,Ecatepec de Morelos,559,148,http://pbs.twimg.com/media/EoArgNXXcAEZc-z.jpg,https://twitter.com/twitter/statuses/1333114067293245442
+121,1333113958337835008,"#30DayMapChallenge 29. diena. Globuss. Pamēģināju QGIS Globe Builder spraudni. Forši, ka arī Kuģis kļūst arvien telpiskāks (es vēl nē). https://t.co/FgHATDiCKK",lv,2020-11-29 18:21:50,1,3,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",137107982,Zane,atdodkonfektes,,136,121,http://pbs.twimg.com/media/EoArcaLXUAI0v79.png,https://twitter.com/twitter/statuses/1333113958337835008
+122,1333112944998166531,"#30DayMapChallenge Day 29: Global
+
+First play around with Globe Builder and Temporal Controller in #QGIS with some data from Global Terrorism Database https://t.co/jmsY4UuNvs",en,2020-11-29 18:17:48,2,10,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'QGIS', 'indices': [99, 104]}]",309734801,Sam J,samwise_v,"London, UK",162,469,http://pbs.twimg.com/tweet_video_thumb/EoApSeNW4AIm5qG.jpg,https://twitter.com/twitter/statuses/1333112944998166531
+123,1333111096920588288,"#30DayMapChallenge (globe). This is the #earth, but not the one anyone alive recognizes. Here is the super-continent #pangea, which dominated the planet for millions of years at the dawn of the #dinosaur era. https://t.co/Nnwzy2xr8u",en,2020-11-29 18:10:28,3,27,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'earth', 'indices': [40, 46]}, {'text': 'pangea', 'indices': [117, 124]}, {'text': 'dinosaur', 'indices': [194, 203]}]",822048926081712128,Carl Churchill,Cchurchili,CO / Tabeguache Ute Land,1611,739,http://pbs.twimg.com/media/EoApGdKUUAA4t7j.jpg,https://twitter.com/twitter/statuses/1333111096920588288
+124,1333111087751974914,"#30DayMapChallenge here's for Day 29: Globe.
+🌍🌍🌐 The feeling about this map challenge is like a very short and interesting vacation.
+
+Global Projections with populated places as a heat map.
+Tool: @qgis
+Gif: @ezgif_com
+ #nature #globe https://t.co/nki2lrd10P",en,2020-11-29 18:10:25,1,11,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'nature', 'indices': [219, 226]}, {'text': 'globe', 'indices': [227, 233]}]",374459093,Jannah_A,zinnie__A,"Kaduna, Nigeria.",212,238,http://pbs.twimg.com/tweet_video_thumb/EoApO5WXMAcPx-P.jpg,https://twitter.com/twitter/statuses/1333111087751974914
+125,1333107630991142915,"Day 29 of #30DayMapChallenge : Globe 
+
+World of F1™ circuits in Orthographic projection
+
+Made with #D3js and #F1CircuitsData
+
+Interactive and live code version made with #observablehq: https://t.co/S7A9Eideg0 https://t.co/2tp0jFt38R",en,2020-11-29 17:56:41,1,5,"[{'text': '30DayMapChallenge', 'indices': [10, 28]}, {'text': 'D3js', 'indices': [99, 104]}, {'text': 'F1CircuitsData', 'indices': [109, 124]}, {'text': 'observablehq', 'indices': [170, 183]}]",191797663,Tomo 🐽,tomodraco,"0,13",527,204,http://pbs.twimg.com/media/EoAmTkuWEAIhrMl.jpg,https://twitter.com/twitter/statuses/1333107630991142915
+126,1333102484383002627,"Pour le globe du jour, voici une variante de l'illustration que j'ai réalisée pour https://t.co/DW457nVcsw, sur le thème du covid comme maladie de l'anthropocène. A sick planet for the today's globe. 
+Day 29: globe
+#30DayMapChallenge #handmademap #sickEarth https://t.co/8ylGU57FSt",fr,2020-11-29 17:36:14,2,13,"[{'text': '30DayMapChallenge', 'indices': [215, 233]}, {'text': 'handmademap', 'indices': [234, 246]}, {'text': 'sickEarth', 'indices': [247, 257]}]",442982795,odile,odile_p,France,155,193,http://pbs.twimg.com/media/EoAgyoPXYAEMYig.jpg,https://twitter.com/twitter/statuses/1333102484383002627
+127,1333100841419612162,"#30DayMapChallenge Day 29: Globe
+Global Tree Canopy Height
+Data: NASA/JPL, Sentinel 2, Natural Earth Data
+Made with #QGIS Globe Builder plugin (thanks @tjukanov) and #gee data catalog plugin. 
+
+Crashed on export for some reason, but screenshot is good enough for twitter... https://t.co/SIzmH4YZkW",en,2020-11-29 17:29:43,1,14,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'QGIS', 'indices': [116, 121]}, {'text': 'gee', 'indices': [166, 170]}]",1000055398697709569,Eliav S-T,est987,Israel,327,1705,http://pbs.twimg.com/media/EoAfoTRXIAAUOM4.jpg,https://twitter.com/twitter/statuses/1333100841419612162
+128,1333099404094541826,"Bon, je ne vous fais pas plus lambiner. 
+Mon idée de génie de globe alimentaire a tourné au fiasco (voir photo ⬇️).
+Oui, ceci est l'Antarctique... 😂.
+J'avais prévenu que ce serait peut-être raté... j'avais raison !
+Allez, rdv demain pour la dernière carte du #30DayMapChallenge ! https://t.co/YOyq1C938A",fr,2020-11-29 17:24:00,1,15,"[{'text': '30DayMapChallenge', 'indices': [259, 277]}]",1026155967480844291,Anne L.,AlandcoC,Versailles ,820,792,http://pbs.twimg.com/media/EoAe15yWEAcQDYX.jpg,https://twitter.com/twitter/statuses/1333099404094541826
+129,1333098965949165568,"Day 29 of the #30DayMapChallenge: Globe. The Earth, Mars and the Moon (roughly) to scale https://t.co/KAWWl0KbU6",en,2020-11-29 17:22:15,1,16,"[{'text': '30DayMapChallenge', 'indices': [14, 32]}]",1033774266880282624,Strath Slater,StrathSlater,"Edinburgh, Scotland",128,120,http://pbs.twimg.com/media/EoAeR9pW4Agebqp.jpg,https://twitter.com/twitter/statuses/1333098965949165568
+130,1333098566135537664,"#30DayMapChallenge day 28 – non-geographic map
+
+Culinary map of #dumplings
+
+I love dumplings! I know there are many more that I didn't include. Tell me your favorite dumplings in the comments! https://t.co/wFFdlbdhmF",en,2020-11-29 17:20:40,2,10,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'dumplings', 'indices': [64, 74]}]",14707170,Unnecessarily sesquipedalian 🚡,MartinBangratz,Cologne/Aachen/Innsbruck,1161,1174,http://pbs.twimg.com/media/EoAdV7VXYAEoun5.jpg,https://twitter.com/twitter/statuses/1333098566135537664
+131,1333098402649935872,#30DayMapChallenge  Day 29: Globe: OSM on the globe. Made with Globe Builder QGIS plugin. https://t.co/oDqE6wPRsA,en,2020-11-29 17:20:01,1,14,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",2679909391,Zlata Popelnuh,popelnuhh,,117,163,http://pbs.twimg.com/media/EoAdt-uXYAEIZ0e.jpg,https://twitter.com/twitter/statuses/1333098402649935872
+132,1333098328448438273,"#30DayMapChallenge #Day29 #Globe 
+
+Encore un peu de mathématiques pour la réalisation de ce globe sous la forme d'un polyèdre à 12 faces.
+
+Il faut au moins 8 mains construire ce #dodécaèdre en #origami modulaire ⤵ https://t.co/jt0S6RJNzL",fr,2020-11-29 17:19:43,2,11,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'Day29', 'indices': [19, 25]}, {'text': 'Globe', 'indices': [26, 32]}, {'text': 'dodécaèdre', 'indices': [178, 189]}, {'text': 'origami', 'indices': [193, 201]}]",732695379288961026,ArtisansCartographes,Artisans_Cartos,www.cartapaname.fr,2159,925,http://pbs.twimg.com/media/EoAb6QkXUAEBq-1.jpg,https://twitter.com/twitter/statuses/1333098328448438273
+133,1333098310857617415,#30DayMapChallenge https://t.co/3eQb5mvvJC,und,2020-11-29 17:19:39,1,1,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",233135248,Jrombf,jrombf,"Besançon, France",93,415,http://pbs.twimg.com/media/EoAd1z8XcAID92u.jpg,https://twitter.com/twitter/statuses/1333098310857617415
+134,1333096787859681281,"🌍 We are more connected than ever - most of the world is only 10.000 km away - less than half a day by plane.
+
+#30DayMapChallenge day 29: Globe
+
+Azimuthal equidistant projection centered on my current location, using https://t.co/tQaTgwNvB1 https://t.co/vtLX4cMFKH",en,2020-11-29 17:13:36,2,17,"[{'text': '30DayMapChallenge', 'indices': [111, 129]}]",1413024271,Koen Van den Eeckhout,Koen_VdE,"Gent, België",2170,1498,http://pbs.twimg.com/media/EoAb62nXMAAlslo.jpg,https://twitter.com/twitter/statuses/1333096787859681281
+135,1333096721736491009,"🗺️ Day 15 - Connections 🇷🇴 X 🇨🇩
+#30DayMapChallenge 
+
+The Romanian cities where there's a Catanga neighbourhood, nicknamed so after a former Congolese province
+
+But why? A small thread 🧵1/ https://t.co/MjbwvEjZ8J",en,2020-11-29 17:13:20,11,41,"[{'text': '30DayMapChallenge', 'indices': [32, 50]}]",800277926348324864,Arnold Platon,Arnold_Platon,"Nice, France",2076,1485,http://pbs.twimg.com/media/EoAcZsGXUAIUcF6.jpg,https://twitter.com/twitter/statuses/1333096721736491009
+136,1333095728034570240,"#30daymapchallenge day 29. toppic today is the globe. I used the #rstats package globe. Thanks to Adrian Baddeley, Thomas Lawrence and @egerubak #rspatial https://t.co/d0VDYZznXp",en,2020-11-29 17:09:23,4,3,"[{'text': '30daymapchallenge', 'indices': [0, 18]}, {'text': 'rstats', 'indices': [65, 72]}, {'text': 'rspatial', 'indices': [145, 154]}]",3331095159,Jan-Philipp Kolb,JanPhilippKolb,,107,365,http://pbs.twimg.com/media/EoAbe5bW4AIMrEH.png,https://twitter.com/twitter/statuses/1333095728034570240
+138,1333094956320382976,"#30DayMapChallenge 28. diena. Neģeogrāfiska karte. Ceļojot laikā pa parastu dienu, tik daudz ekrānu laika, ka to mēģināju uzzīmēt tukšajā plānotājā. https://t.co/pjjPM3G7Ma",lv,2020-11-29 17:06:19,1,7,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",137107982,Zane,atdodkonfektes,,136,121,http://pbs.twimg.com/media/EoAayg0XIAATKf-.jpg,https://twitter.com/twitter/statuses/1333094956320382976
+139,1333094860853743618,"Realistic goals setting: new headband and gloves to help me get started with winter running. 
+
+#30DayRunningChallenge
+
+after #30DayCookingChallenge
+
+(This challenges are for things I want to do but not always managing) 
+
+Inspired and diverted from the #30DayMapChallenge https://t.co/RMJGDsiVN3",en,2020-11-29 17:05:57,1,1,"[{'text': '30DayRunningChallenge', 'indices': [95, 117]}, {'text': '30DayCookingChallenge', 'indices': [125, 147]}, {'text': '30DayMapChallenge', 'indices': [252, 270]}]",2686735688,Yu(Steven) ZHANG 张宇,steven4320555,"England, United Kingdom",880,521,http://pbs.twimg.com/media/EoAatfdWEAMJZLd.jpg,https://twitter.com/twitter/statuses/1333094860853743618
+140,1333094311626469377,#30DayMapChallenge Day 29 - low poly globe in #Blender3d https://t.co/ZVi2OjYMzB,en,2020-11-29 17:03:46,15,140,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'Blender3d', 'indices': [46, 56]}]",1274785600466550785,spatial_occasions,spatialoccasio1,"Stockholm, Sverige",96,63,http://pbs.twimg.com/media/EoAaC9wWMAIwb4r.jpg,https://twitter.com/twitter/statuses/1333094311626469377
+141,1333094119044952065,#30DayMapChallenge #Day29 A globe - Change the perspective(s) in the map or life ? Suddenly the world is upside down/interesting/outside the comfort zone?   Kudos to @tjukanov for organising the challenge -1day2go https://t.co/mVBlXG326h,en,2020-11-29 17:03:00,1,10,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'Day29', 'indices': [19, 25]}]",2574612668,hannes reuter,hireuter,,227,451,http://pbs.twimg.com/media/En3LigBXIAEzbgk.png,https://twitter.com/twitter/statuses/1333094119044952065
+142,1333093929651216384,#30DayMapChallenge Day 29 - Global distribution of the 5 big cat (Panthera) species. Created using #RStats #rspatial https://t.co/FSQxXlGw9u,en,2020-11-29 17:02:15,7,18,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'RStats', 'indices': [99, 106]}, {'text': 'rspatial', 'indices': [107, 116]}]",46426450,Joshua Copping,JoshCopping,United Kingdom,106,168,http://pbs.twimg.com/media/EoAZ0pXXUAMSZPf.jpg,https://twitter.com/twitter/statuses/1333093929651216384
+143,1333093871409115138,"Today I learned to make globes in #QGIS thanks to @undertheraedar tutorial. This map shows submarine cables in the Atlantic ocean—this year it's been a super popular dataset/topic in #30DayMapChallenge.
+
+Tutorial: https://t.co/C04APyovAM
+Data: https://t.co/sTDRpXVoyR https://t.co/wHvm8W3uye",en,2020-11-29 17:02:01,8,117,"[{'text': 'QGIS', 'indices': [34, 39]}, {'text': '30DayMapChallenge', 'indices': [183, 201]}]",963423777135759360,Ilya Ilyankou,ilyankou,London,118,185,http://pbs.twimg.com/media/EoAYES_W8AEtul6.jpg,https://twitter.com/twitter/statuses/1333093871409115138
+144,1333093104576987136,"#30DayMapChallenge
+Map 29: Globe
+
+Earth without water and visualized to mimick Mars :) https://t.co/IDuWIoIudH",en,2020-11-29 16:58:58,12,90,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",272936200,Raj Bhagat P #Mapper4Life,rajbhagatt,"Nagercoil, Tamil Nadu",17671,1722,http://pbs.twimg.com/ext_tw_video_thumb/1333092805766385668/pu/img/oLBKkGAP2bcY8g5b.jpg,https://twitter.com/twitter/statuses/1333093104576987136
+145,1333091218692116481,#30DayMapChallenge A Globe for every occasion. https://t.co/hxti3DGRKA,en,2020-11-29 16:51:28,2,40,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",564485021,Peter Atwood,Peterincan,"Nova Scotia, Canada",406,367,http://pbs.twimg.com/ext_tw_video_thumb/1333091115189366786/pu/img/HpjH819stMx0mobq.jpg,https://twitter.com/twitter/statuses/1333091218692116481
+146,1333089909821857793,"Earthquakes from the last 30 days above 2.5 magnitude.
+
+Height = Magnitude
+Red = Significant (&gt;500 sig) 
+Blue = Potential tsunami
+
+Significant is determined by magnitude, maximum MMI, felt reports, and estimated impact. More info: https://t.co/D26gKDw3Bx
+
+#30DayMapChallenge https://t.co/AIf28KVCRZ",en,2020-11-29 16:46:16,2,5,"[{'text': '30DayMapChallenge', 'indices': [259, 277]}]",314881866,Joe Davies,JoeWDavies,Cardiff / Madrid / Luxembourg,267,227,http://pbs.twimg.com/tweet_video_thumb/EoAUa7fXEAAqiwO.jpg,https://twitter.com/twitter/statuses/1333089909821857793
+147,1333089563879890946,"#30DayMapChallenge.. Day 28 Globe. Inverted Earth, where land and sea are swapped. #qgis #blender https://t.co/DvGiI8PC6u",en,2020-11-29 16:44:54,17,101,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'qgis', 'indices': [83, 88]}, {'text': 'blender', 'indices': [89, 97]}]",363276700,Steven Kay,stevefaeembra,Edinburgh,895,343,http://pbs.twimg.com/ext_tw_video_thumb/1333089020226711552/pu/img/wW0KirANdt_u23I7.jpg,https://twitter.com/twitter/statuses/1333089563879890946
+148,1333087554753716227,"#30DayMapChallenge
+Day29: Globe
+
+Title: Planet Earth 
+
+Software used: @Blender &amp; @illustrator
+ 
+The data were from @NASA blue marble and heightmap 
+
+Not sure why the sphere was not smoothed enough! 
+
+#cartography #geography https://t.co/z9yVEN4GmZ",en,2020-11-29 16:36:55,4,39,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'cartography', 'indices': [204, 216]}, {'text': 'geography', 'indices': [217, 227]}]",908818700660236288,عبداللطيف الياقوت,geo_alyaqout,Kuwait (Ex Texan),253,206,http://pbs.twimg.com/media/EoAUCIgXMAIiY76.jpg,https://twitter.com/twitter/statuses/1333087554753716227
+149,1333085420423438344,"Aeropuertos, estaciones de tren y puertos del mundo
+#30DayMapChallenge 2020
+Día 29: Globo 🌐🗺️ https://t.co/rgH9oliSuV",es,2020-11-29 16:28:26,1,2,"[{'text': '30DayMapChallenge', 'indices': [52, 70]}]",890753654822588417,Yaireth Ortiz,Yaireth_Ortiz,,13,352,http://pbs.twimg.com/media/EoASH_DW8AE8VLN.jpg,https://twitter.com/twitter/statuses/1333085420423438344
+150,1333085040247500800,For todays No. 29 Globe of the #30DayMapChallenge now a real train (and ferry) journey I made a few years ago. Missing the Siberian landscapes and the ferry rides on the Eastern Sea. https://t.co/dxbKJBp7Td,en,2020-11-29 16:26:55,1,9,"[{'text': '30DayMapChallenge', 'indices': [31, 49]}]",281177027,Isaak,fleischkas,Wien,162,1008,http://pbs.twimg.com/media/EoAQcKvWMAAe2iV.jpg,https://twitter.com/twitter/statuses/1333085040247500800
+151,1333082949638627329,"Day 29 - Globe of the #30DayMapChallenge 
+World 2020 estimated population from Worldpop data using #rstats package {globe4r} 
+#rspatial https://t.co/jeFwKC0cGl",en,2020-11-29 16:18:37,5,14,"[{'text': '30DayMapChallenge', 'indices': [22, 40]}, {'text': 'rstats', 'indices': [99, 106]}, {'text': 'rspatial', 'indices': [126, 135]}]",633596180,Ahmadou Dicko,dickoah,Senegal,1698,1427,http://pbs.twimg.com/ext_tw_video_thumb/1333082924808359938/pu/img/0sSeHOq2QSqWfLAa.jpg,https://twitter.com/twitter/statuses/1333082949638627329
+152,1333081091687784451,Day 29. Globe: Flights from Wuhan #30DayMapChallenge https://t.co/eRBTbk5Z5e,en,2020-11-29 16:11:14,1,6,"[{'text': '30DayMapChallenge', 'indices': [34, 52]}]",113729499,Anto Aasa,antoaasa,"Tartu, Eesti",95,67,http://pbs.twimg.com/media/EoAOLzeXUAI0-M1.png,https://twitter.com/twitter/statuses/1333081091687784451
+153,1333080931549274113,#30DayMapChallenge Done this globe for the ICHC conference 2015. Based on a very rare globe cores at Nordenskiöld collection date early 16th century https://t.co/5ISCqwXi8W,en,2020-11-29 16:10:36,1,9,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",92629837,Antti Jakobsson,AnttiJakobsson,"Kerava, Finland",867,1518,http://pbs.twimg.com/media/EoAOCZvW4AA2lpL.jpg,https://twitter.com/twitter/statuses/1333080931549274113
+154,1333080434314518530,"As @_DiningCar promised earlier, some train content for the #30DayMapChallenge: The best way to travel is while dining. No. 28 Non-geographic map shows furthest int. destinations from Vienna if u want to solely travel by dining car w/o changing trains (pre-Covid schedules) https://t.co/qP6tVIgCB4",en,2020-11-29 16:08:37,12,49,"[{'text': '30DayMapChallenge', 'indices': [60, 78]}]",281177027,Isaak,fleischkas,Wien,162,1008,http://pbs.twimg.com/media/EoANdnYW4AED8Be.jpg,https://twitter.com/twitter/statuses/1333080434314518530
+155,1333079462120927235,"#30DayMapChallenge Day 29: Globe
+
+Nearly at the finish line now! https://t.co/OuO2Wo70Qq",en,2020-11-29 16:04:45,3,12,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",437801734,Antonia Blankenberg,MapsByAntonia,"Dublin City, Ireland",289,463,http://pbs.twimg.com/media/EoAMtICWEAIlcpS.jpg,https://twitter.com/twitter/statuses/1333079462120927235
+156,1333078977565507584,"#30DayMapChallenge Day 29 - Globe
+
+The perfect day to pay homage to the amazing PROPORTIONAL SPHERE.
+
+As a mapmaking tool, it's very similar to the proportional circle... just sillier, and less useful. https://t.co/LKF6qwkamD",en,2020-11-29 16:02:50,1,19,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",851149914725916672,ksituan northland,ksituan,Val Marie / Treaty 4,1318,161,http://pbs.twimg.com/media/En-YcpyUYAI9BKX.jpg,https://twitter.com/twitter/statuses/1333078977565507584
+157,1333078265414774786,"Day 30 - A Map #30DayMapChallenge Philippine Mountains with names that start with A. 
+
+OSM, WIKI, OpenTopo  #QGIS   
+
+This may be the start of a great mapping project XD just need time &amp; extra cash to do it. I learned from and got inspired by other mappers. Time to take a break. https://t.co/jLKuq9IJ1h",en,2020-11-29 16:00:00,1,2,"[{'text': '30DayMapChallenge', 'indices': [15, 33]}, {'text': 'QGIS', 'indices': [108, 113]}]",2599428001,Francis Gasgonia,seateazen,Philippines,94,250,http://pbs.twimg.com/tweet_video_thumb/EnwCSPcUcAAdzh8.jpg,https://twitter.com/twitter/statuses/1333078265414774786
+159,1333075189332992004,"A WIP map today (Day 29 - Globe). Recreating a portion of Lambton's work from the Great Trig Survey of the Indian Penninsula. #Bangalore + east of TBD. Geo-ref in #QGIS  and mapping of points in #RStats using @jdatap's fantastic globe4r package!
+#30DayMapChallenge #maps #rspatial https://t.co/vpz2jR6RrK",en,2020-11-29 15:47:47,4,2,"[{'text': 'Bangalore', 'indices': [126, 136]}, {'text': 'QGIS', 'indices': [163, 168]}, {'text': 'RStats', 'indices': [195, 202]}, {'text': '30DayMapChallenge', 'indices': [246, 264]}, {'text': 'maps', 'indices': [265, 270]}, {'text': 'rspatial', 'indices': [271, 280]}]",1222519447165886465,Anirudh,_anirudhgovind,India,165,1665,http://pbs.twimg.com/media/EoAIBT8UYAczIff.jpg,https://twitter.com/twitter/statuses/1333075189332992004
+160,1333071816802394112,"#30DayMapChallenge 
+
+Day 29: Globe
+
+Global Britain: a map of every country with which the UK has a trade agreement in place, effective from 1st January 2021.
+
+Data from: https://t.co/5dG9dt1dgE
+
+Created in R: https://t.co/eJ2LA2Cemr https://t.co/WoNViil8vd",en,2020-11-29 15:34:23,17,45,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",2213909976,Colin Angus,VictimOfMaths,,5393,601,http://pbs.twimg.com/media/EoAFF01XIAU4Fdv.png,https://twitter.com/twitter/statuses/1333071816802394112
+161,1333070769224622080,"Day 29 - Globe
+
+#30DayMapChallenge 
+
+#ArcGISPro
+
+Globe (Projections)... world tour! (Simplified)
+
+#Map #Mapping #Geospatial #Spatial #GIS https://t.co/GzgvsO6mOV",en,2020-11-29 15:30:13,0,3,"[{'text': '30DayMapChallenge', 'indices': [16, 34]}, {'text': 'ArcGISPro', 'indices': [37, 47]}, {'text': 'Map', 'indices': [98, 102]}, {'text': 'Mapping', 'indices': [103, 111]}, {'text': 'Geospatial', 'indices': [112, 123]}, {'text': 'Spatial', 'indices': [124, 132]}, {'text': 'GIS', 'indices': [133, 137]}]",3160198320,Dr Chris #GIS #Success,DrChrisGeoSci,"Calgary, Alberta",735,656,http://pbs.twimg.com/media/EoAEzKJXYAImmiG.png,https://twitter.com/twitter/statuses/1333070769224622080
+162,1333070607811039232,"Day 29. (Flow) Globe #30DayMapChallenge
+#Rstats #rspatial #D3js #migration #flowmap #TTT 
+
+International migrant stock (2019)
+➡Play with the map: https://t.co/zmuQjB3e49 https://t.co/0CsIjrqn5R",en,2020-11-29 15:29:34,5,13,"[{'text': '30DayMapChallenge', 'indices': [21, 39]}, {'text': 'Rstats', 'indices': [40, 47]}, {'text': 'rspatial', 'indices': [48, 57]}, {'text': 'D3js', 'indices': [58, 63]}, {'text': 'migration', 'indices': [64, 74]}, {'text': 'flowmap', 'indices': [75, 83]}, {'text': 'TTT', 'indices': [84, 88]}]",1270971523466223618,Cartographie(s) & Migration(s),geomigr,,436,23,http://pbs.twimg.com/media/EoAA5UZWMAMmBu1.png,https://twitter.com/twitter/statuses/1333070607811039232
+163,1333069949397590019,"#30DayMapChallenge 2020: #rspatial edition 
+
+Day 28: Non-geographic map
+
+A new set of maps is at https://t.co/9FhBr68DHa.
+
+Only two days left...
+
+#rstats #cartography https://t.co/w4aRraNZaj",en,2020-11-29 15:26:57,3,13,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'rspatial', 'indices': [25, 34]}, {'text': 'rstats', 'indices': [146, 153]}, {'text': 'cartography', 'indices': [154, 166]}]",2810559039,Jakub Nowosad,jakub_nowosad,,3969,215,http://pbs.twimg.com/media/EoAD6aKXcAEnc1I.png,https://twitter.com/twitter/statuses/1333069949397590019
+164,1333068430707224578,"Day 29 (Globe) of #30DayMapChallenge 
+
+The World’s Longest Continuous Walk -
+From Cape Town, South Africa 🇿🇦 to Magadan, Russia 🇷🇺, the trip would take 4,492 hours, or 187 days, and traverse 22,387km of mountains, desert and taiga.
+
+Source: @mapcentral
+Credit: @googlemaps
+
+#Facts https://t.co/tewM2Q7fhA",en,2020-11-29 15:20:55,1,2,"[{'text': '30DayMapChallenge', 'indices': [18, 36]}, {'text': 'Facts', 'indices': [274, 280]}]",1269335161335959552,the GIS girl,TheGISGirl,,59,117,http://pbs.twimg.com/media/EoACrAtXEAYr3Dr.jpg,https://twitter.com/twitter/statuses/1333068430707224578
+165,1333067499936608258,"#30DayMapChallenge Day 29: Globe.
+Reloading a classic aiming to add Day 24 hi rez data - corresponding views in the gallery at bottom - so that y'all enjoy fascinating landforms on the Red Planet... stay tuned!
+(provisional web scene https://t.co/GAeKwtKzXG) https://t.co/ngVvDU5Jid",en,2020-11-29 15:17:13,1,4,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",25663399,Andrew Zolnai,azolnai,"Cambridge, UK",713,1002,http://pbs.twimg.com/media/EoAAKnUW8AMp1ka.jpg,https://twitter.com/twitter/statuses/1333067499936608258
+166,1333067135858388996,#30DayMapChallenge Day 29: Globe. All The Flights I've Ever Taken (multiples and returns not shown). https://t.co/0kSrVJQwSY,en,2020-11-29 15:15:47,2,21,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",88731801,Barry Rowlingson🐺,geospacedman,"Lancaster, UK",1693,478,http://pbs.twimg.com/media/EoABMETXIAMfMkA.jpg,https://twitter.com/twitter/statuses/1333067135858388996
+167,1333066257030066181,"Day 28 (Non Geographic Map) of #30DayMapChallenge 
+
+Mind maps!
+All questions GIS can answer with the right data. ☺️
+
+#LocationIntelligence
+#theGISgirl
+#Maps https://t.co/NI9YZ8gvTw",en,2020-11-29 15:12:17,1,0,"[{'text': '30DayMapChallenge', 'indices': [31, 49]}, {'text': 'LocationIntelligence', 'indices': [117, 138]}, {'text': 'theGISgirl', 'indices': [139, 150]}, {'text': 'Maps', 'indices': [151, 156]}]",1269335161335959552,the GIS girl,TheGISGirl,,59,117,http://pbs.twimg.com/media/EoAAsfpXMAcZkVi.jpg,https://twitter.com/twitter/statuses/1333066257030066181
+168,1333065681378525184,"#30DayMapChallenge Day 29 - Globe
+
+Blue marble. Satellite globe overlayed with humidity vs. NO2 concentration. Data from GFS, CAMS. Made together with @sevenvortex. Available at https://t.co/2BjEgYzuXh. HD video https://t.co/cph24g18fg https://t.co/JSJ0W423wP",en,2020-11-29 15:10:00,2,8,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",15788807,Jan Žák,zakjan,"Prague, Czech Republic",588,529,http://pbs.twimg.com/ext_tw_video_thumb/1333046319703859201/pu/img/u4vOyUxKALpCkQkR.jpg,https://twitter.com/twitter/statuses/1333065681378525184
+169,1333057846007767043,"A map of where the aurora borealis/northern lights can be seen from
+
+#30daymapchallenge #day29 #globe #qgis #illustrator https://t.co/4ujgrSwZk8",en,2020-11-29 14:38:52,13,58,"[{'text': '30daymapchallenge', 'indices': [69, 87]}, {'text': 'day29', 'indices': [88, 94]}, {'text': 'globe', 'indices': [95, 101]}, {'text': 'qgis', 'indices': [102, 107]}, {'text': 'illustrator', 'indices': [108, 120]}]",1101617286,Helen McKenzie,helenmakesmaps,London,1723,591,http://pbs.twimg.com/media/En_5AiMXEAQPV7q.jpg,https://twitter.com/twitter/statuses/1333057846007767043
+170,1333057207303368704,"Another (maybe the last) Austrian map for the #30DayMapChallenge No. 27: Big or small data, Austrian edition. Inspired by @austrianmaps https://t.co/3dBZMmH6U5",en,2020-11-29 14:36:19,3,10,"[{'text': '30DayMapChallenge', 'indices': [46, 64]}]",281177027,Isaak,fleischkas,Wien,162,1008,http://pbs.twimg.com/media/En_4Q0wXEAE3Tcu.jpg,https://twitter.com/twitter/statuses/1333057207303368704
+171,1333052567178317824,"#30DayMapChallenge Day 29: #Globe
+I made with #Blender
+#gis #Geography #GeographyTeacher #Cartography #Maps #Map #Mapping #Landsat #USGS #Bible #Archaeology #Science #Israel #Egyptology #RemoteSensing https://t.co/GKd05wnKZC",en,2020-11-29 14:17:53,0,4,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'Globe', 'indices': [27, 33]}, {'text': 'Blender', 'indices': [46, 54]}, {'text': 'gis', 'indices': [55, 59]}, {'text': 'Geography', 'indices': [60, 70]}, {'text': 'GeographyTeacher', 'indices': [71, 88]}, {'text': 'Cartography', 'indices': [89, 101]}, {'text': 'Maps', 'indices': [102, 107]}, {'text': 'Map', 'indices': [108, 112]}, {'text': 'Mapping', 'indices': [113, 121]}, {'text': 'Landsat', 'indices': [122, 130]}, {'text': 'USGS', 'indices': [131, 136]}, {'text': 'Bible', 'indices': [137, 143]}, {'text': 'Archaeology', 'indices': [144, 156]}, {'text': 'Science', 'indices': [157, 165]}, {'text': 'Israel', 'indices': [166, 173]}, {'text': 'Egyptology', 'indices': [174, 185]}, {'text': 'RemoteSensing', 'indices': [186, 200]}]",1137139989744144390,MyPhysicalWorld,my_physical,,45,64,http://pbs.twimg.com/media/En_0PnfVoAQHFki.jpg,https://twitter.com/twitter/statuses/1333052567178317824
+172,1333051245918101504,"10km complete
+#justdoit #endpolicebrutality #30DayMapChallenge https://t.co/QoSSI1Nhyc",es,2020-11-29 14:12:38,1,2,"[{'text': 'justdoit', 'indices': [14, 23]}, {'text': 'endpolicebrutality', 'indices': [24, 43]}, {'text': '30DayMapChallenge', 'indices': [44, 62]}]",36320522,Daba Omoregbee,Dabusbaby,"Lagos, Nigeria",88,103,http://pbs.twimg.com/media/En_y1loXYAENbfu.jpg,https://twitter.com/twitter/statuses/1333051245918101504
+173,1333050915864137730,"#30DayMapChallenge 28 Globe
+Animation from @EarthSciCam of continental drift over 450M yrs, showing why Scotland is different from England and Wales, as they came together before Eurasia started moving away from N. America 150M yrs ago
+
+For more info, see https://t.co/5o5yuiHxMM https://t.co/zuVTsVOMyO",en,2020-11-29 14:11:19,1,1,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",1033206985,Phil Tarr (BBMC),BBMountClub,United Kingdom,269,325,http://pbs.twimg.com/media/EndwUmpWMA0pQGa.jpg,https://twitter.com/twitter/statuses/1333050915864137730
+174,1333050833559142412,"For day 29 of #30DayMapChallenge (theme: ""globe""), I'm going back to where it all began: SciHub download records, this time plotted on a 3D globe.
+
+(Still not population normalized, just raw # s)
+
+Made in #rstats with the threejs package.
+
+See it yourself: https://t.co/R5jDdIO0UW https://t.co/QosWA7YgHt",en,2020-11-29 14:11:00,3,8,"[{'text': '30DayMapChallenge', 'indices': [14, 32]}, {'text': 'rstats', 'indices': [205, 212]}]",942194832491122688,Mike Mahoney,MikeMahoney218,"Syracuse, NY",470,326,http://pbs.twimg.com/media/ElyAQNUXgAEhGav.jpg,https://twitter.com/twitter/statuses/1333050833559142412
+175,1333048829764055040,"#30DayMapChallenge Day 29: Globe
+
+Amazing art installation at the @MetroenKBH Station at @CPHAirports. ""Cool globes: Hot ideas for a cooler planet"". Anyone know the artist? Please retweet and tag them.
+
+@EUEnvironment https://t.co/rH6z3sp0ln",en,2020-11-29 14:03:02,2,2,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",145683389,Geoff Smith,DrGeoffSmith,"Cambridge, UK",868,479,http://pbs.twimg.com/media/En_w1_wWMAIFOAT.jpg,https://twitter.com/twitter/statuses/1333048829764055040
+176,1333047033909940224,"Day 29 of #30DayMapChallenge: #GoldenGlobeRace 
+
+Using code from @cheeaun (thank you !) and libraries @threejs_org , @d3js_org , @Mapbox GL JS and #opendata from @openstreetmap 
+
+Interactive map is here: https://t.co/DwE9feaWoH https://t.co/fWWsWAyy9P",en,2020-11-29 13:55:54,1,7,"[{'text': '30DayMapChallenge', 'indices': [10, 28]}, {'text': 'GoldenGlobeRace', 'indices': [30, 46]}, {'text': 'opendata', 'indices': [147, 156]}]",1226081200214814721,me & maps,meandmaps,paris,266,1168,http://pbs.twimg.com/ext_tw_video_thumb/1333046516701949953/pu/img/oIZZDxt4jmdt9Juz.jpg,https://twitter.com/twitter/statuses/1333047033909940224
+177,1333046002610282497,"For #30DayMapChallenge Day 29: Globe, I have this globe in my office that @Hennepin gave me after helping one of their hackathons.
+
+Also, @jbelllsb stickers for musical motivation. https://t.co/eAZJ9vAwvr",en,2020-11-29 13:51:48,1,2,"[{'text': '30DayMapChallenge', 'indices': [4, 22]}]",222228205,Mike Dolbow,mmdolbow,"St. Paul, MN",1304,100,http://pbs.twimg.com/media/En_uRjIXUAAsuhe.jpg,https://twitter.com/twitter/statuses/1333046002610282497
+178,1333045112843235330,"Day 29- #30DayMapChallenge
+Theme: Globe.
+
+Global Distribution of Airports coloured by Country. There are ~32,000 airports across the world according to the University of Edinburgh dataset used.  https://t.co/4kH5jJOA5z https://t.co/FEeSLSksyP",en,2020-11-29 13:48:16,0,1,"[{'text': '30DayMapChallenge', 'indices': [8, 26]}]",2149588681,Claire Powell,Pow__C,,91,300,http://pbs.twimg.com/media/En_tdusWMAgowmV.jpg,https://twitter.com/twitter/statuses/1333045112843235330
+179,1333044320325279745,"Day 29- #30DayMapChallenge
+Theme: Globe.
+
+Global Distribution of Airports coloured by Country. There are ~32,000 airports across the world according to the University of Edinburgh dataset used.  https://t.co/4kH5jJOA5z https://t.co/jn3PJGfXXO",en,2020-11-29 13:45:07,1,4,"[{'text': '30DayMapChallenge', 'indices': [8, 26]}]",2149588681,Claire Powell,Pow__C,,91,300,http://pbs.twimg.com/media/En_svn3XcAE194f.jpg,https://twitter.com/twitter/statuses/1333044320325279745
+180,1333044113336389633,"Trying to have as little as screen time as possible today, so got the map pins out for #globeday #30DayMapChallenge #day29 https://t.co/lCHFtzzOak",en,2020-11-29 13:44:18,2,2,"[{'text': 'globeday', 'indices': [87, 96]}, {'text': '30DayMapChallenge', 'indices': [97, 115]}, {'text': 'day29', 'indices': [116, 122]}]",318026127,Craig Robson,CaRobson,Newcastle,189,205,http://pbs.twimg.com/media/En_sjkHW8AA1ETS.jpg,https://twitter.com/twitter/statuses/1333044113336389633
+181,1333043990917214208,"Day 28- #30DayMapChallenge
+Theme: Non-Geographic Map.
+
+Airports are present near the coast of New Zealand mapping their location shows the general border of the country. https://t.co/2oFKDrTQDv",en,2020-11-29 13:43:48,1,0,"[{'text': '30DayMapChallenge', 'indices': [8, 26]}]",2149588681,Claire Powell,Pow__C,,91,300,http://pbs.twimg.com/media/En_scdzXUAE5nGg.jpg,https://twitter.com/twitter/statuses/1333043990917214208
+182,1333043622745411585,"#30DayMapChallenge  - globe
+Someday I will make a globe with blender for sure .... https://t.co/auJNZXwuVJ",en,2020-11-29 13:42:21,1,17,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",2902589494,Patrycja Krajczyńska,mapsbyp,Poland,1077,1207,http://pbs.twimg.com/media/En_sG5CXYAAdGGL.jpg,https://twitter.com/twitter/statuses/1333043622745411585
+183,1333043619494813696,"Day 28- #30DayMapChallenge
+Theme: Non-Geographic Map.
+
+Airports are present near the coast of New Zealand mapping their location shows the general border of the country. https://t.co/J4tFkj076k",en,2020-11-29 13:42:20,1,0,"[{'text': '30DayMapChallenge', 'indices': [8, 26]}]",2149588681,Claire Powell,Pow__C,,91,300,http://pbs.twimg.com/media/En_sG05W4AElq3i.jpg,https://twitter.com/twitter/statuses/1333043619494813696
+184,1333043043377803267,"Day 27- #30DayMapChallenge
+Theme: Big or Small Data.
+
+The relative few Supermarkets that exist  versus the big geographic area of the Highlands of Scotland. Mapped with multiple ring buffer analysis in ArcMap. https://t.co/UTCOmvedAC",en,2020-11-29 13:40:02,1,2,"[{'text': '30DayMapChallenge', 'indices': [8, 26]}]",2149588681,Claire Powell,Pow__C,,91,300,http://pbs.twimg.com/media/En_rlSUXEAAyFfb.jpg,https://twitter.com/twitter/statuses/1333043043377803267
+185,1333042701722411009,"Day 27- #30DayMapChallenge
+Theme: Big or Small Data.
+
+The relative few Supermarkets that exist  versus the big geographic area of the Highlands of Scotland. Mapped with multiple ring buffer analysis in ArcMap. https://t.co/k8k0rfTx7i",en,2020-11-29 13:38:41,1,2,"[{'text': '30DayMapChallenge', 'indices': [8, 26]}]",2149588681,Claire Powell,Pow__C,,91,300,http://pbs.twimg.com/media/En_rRaJWEAIhYiz.jpg,https://twitter.com/twitter/statuses/1333042701722411009
+186,1333042365255266304,"Day 26- #30DayMapChallenge
+Theme: Map with a New Tool.
+
+Pleased to have discovered tools and software, including Joyplot and mmqgis. Despite attempts to use Blender, this requires more time so I've saved it for a future challenge. Here IUCN Maple Trees are mapped in ArcGIS Earth. https://t.co/PwkvpGcUR7",en,2020-11-29 13:37:21,1,0,"[{'text': '30DayMapChallenge', 'indices': [8, 26]}]",2149588681,Claire Powell,Pow__C,,91,300,http://pbs.twimg.com/media/En_q91CW8AAu2hy.jpg,https://twitter.com/twitter/statuses/1333042365255266304
+187,1333042154785153025,"Day 26- #30DayMapChallenge
+Theme: Map with a New Tool.
+
+Pleased to have discovered tools and software, including Joyplot and mmqgis. Despite attempts to use Blender, this requires more time so I've saved it for a future challenge. Here IUCN Maple Trees are mapped in ArcGIS Earth. https://t.co/wptmc9zYy4",en,2020-11-29 13:36:31,1,1,"[{'text': '30DayMapChallenge', 'indices': [8, 26]}]",2149588681,Claire Powell,Pow__C,,91,300,http://pbs.twimg.com/media/En_qxlRWMAET9oh.jpg,https://twitter.com/twitter/statuses/1333042154785153025
+188,1333041018816532484,"#Day10 and it's all about the #GRID 😎
+
+Let’s keep it relevant and make sure the grids are #Geodesic
+
+Woah, we're using big words now... 😆😮 
+
+#30DayMapChallenge #geospatial #Mapsimise https://t.co/6X1KFPhV8k",en,2020-11-29 13:32:00,1,3,"[{'text': 'Day10', 'indices': [0, 6]}, {'text': 'GRID', 'indices': [30, 35]}, {'text': 'Geodesic', 'indices': [90, 99]}, {'text': '30DayMapChallenge', 'indices': [141, 159]}, {'text': 'geospatial', 'indices': [160, 171]}, {'text': 'Mapsimise', 'indices': [172, 182]}]",1093125802076655617,Mapsimise,mapsimise,,345,707,http://pbs.twimg.com/media/En1SJenXUAArm5J.png,https://twitter.com/twitter/statuses/1333041018816532484
+189,1333040279675412486,"Day 25- #30DayMapChallenge
+Theme: COVID-19.
+
+A super quick look at UK Covid-19 restrictions and the unfortunate impact on Theatres nationwide. #SupportLocal #SupportTheatres https://t.co/nhEUKeIbki",en,2020-11-29 13:29:04,1,2,"[{'text': '30DayMapChallenge', 'indices': [8, 26]}, {'text': 'SupportLocal', 'indices': [143, 156]}, {'text': 'SupportTheatres', 'indices': [157, 173]}]",2149588681,Claire Powell,Pow__C,,91,300,http://pbs.twimg.com/media/En_pEcZXUAA8yZ_.jpg,https://twitter.com/twitter/statuses/1333040279675412486
+190,1333040105284661252,"Day 25- #30DayMapChallenge
+Theme: COVID-19.
+
+A super quick look at UK Covid-19 restrictions and the unfortunate impact on Theatres nationwide. #SupportLocal #SupportTheatres https://t.co/DoC6NJr1nJ",en,2020-11-29 13:28:22,2,0,"[{'text': '30DayMapChallenge', 'indices': [8, 26]}, {'text': 'SupportLocal', 'indices': [143, 156]}, {'text': 'SupportTheatres', 'indices': [157, 173]}]",2149588681,Claire Powell,Pow__C,,91,300,http://pbs.twimg.com/media/En_o6PRXMAEYm92.jpg,https://twitter.com/twitter/statuses/1333040105284661252
+191,1333039958555324419,"Jour 29 - #30DayMapChallenge Globe
+
+Cartographie de l'espace 
+#stinarto #lagéoçasedessine https://t.co/IC2pOITzUz",fr,2020-11-29 13:27:47,4,29,"[{'text': '30DayMapChallenge', 'indices': [10, 28]}, {'text': 'stinarto', 'indices': [62, 71]}, {'text': 'lagéoçasedessine', 'indices': [72, 89]}]",3195365733,Justine Vignat,Junevgt,Paris ,830,253,http://pbs.twimg.com/media/En_oqSsXcAAzCpn.jpg,https://twitter.com/twitter/statuses/1333039958555324419
+192,1333039801424105472,"Day 24- #30DayMapChallenge
+Theme: Elevation.
+
+First time creating a Joyplot in @ArcGISPro . I am glad to have discovered another great visualisation tool! https://t.co/zF3ZwbLEk4",en,2020-11-29 13:27:09,1,0,"[{'text': '30DayMapChallenge', 'indices': [8, 26]}]",2149588681,Claire Powell,Pow__C,,91,300,http://pbs.twimg.com/media/En_ooknXEAMfo4t.jpg,https://twitter.com/twitter/statuses/1333039801424105472
+193,1333039597576712193,"Day 24- #30DayMapChallenge
+Theme: Elevation.
+
+First time creating a Joyplot in @ArcGISPro . I am glad to have discovered another great visualisation tool! https://t.co/ml3FXjtBcX",en,2020-11-29 13:26:21,2,4,"[{'text': '30DayMapChallenge', 'indices': [8, 26]}]",2149588681,Claire Powell,Pow__C,,91,300,http://pbs.twimg.com/media/En_octBWEAEBG7U.jpg,https://twitter.com/twitter/statuses/1333039597576712193
+194,1333039275504504832,"Day 23- #30DayMapChallenge
+Theme: Boundaries.
+
+Global borders displayed alongside total land area. Different projections portray countries, particularly Antarctica, differently. Hence the need for a metric, such as area to show the relative size. https://t.co/8BMXM34DC6",en,2020-11-29 13:25:04,1,0,"[{'text': '30DayMapChallenge', 'indices': [8, 26]}]",2149588681,Claire Powell,Pow__C,,91,300,http://pbs.twimg.com/media/En_oJ-pXYAMYOau.jpg,https://twitter.com/twitter/statuses/1333039275504504832
+195,1333039177886216192,"Day 23- #30DayMapChallenge
+Theme: Boundaries.
+
+Global borders displayed alongside total land area. Different projections portray countries, particularly Antarctica, differently. Hence the need for a metric, such as area to show the relative size. https://t.co/cFXnrHjBYu",en,2020-11-29 13:24:41,1,1,"[{'text': '30DayMapChallenge', 'indices': [8, 26]}]",2149588681,Claire Powell,Pow__C,,91,300,http://pbs.twimg.com/media/En_oEQkXUAEirnY.jpg,https://twitter.com/twitter/statuses/1333039177886216192
+196,1333038868698963970,"#30DayMapChallenge Day 29 - Globe
+
+Europe physical map. School book aesthetics. (Data: @EUEnvironment and https://t.co/KBksZRpyXl) https://t.co/m005pAqjRt",en,2020-11-29 13:23:27,1,5,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",62926974,Tomasral,tomasral,Asturies,91,436,http://pbs.twimg.com/media/En_nx4IW8AI_z5f.jpg,https://twitter.com/twitter/statuses/1333038868698963970
+197,1333038259820261379,"#30DayMapChallenge Day 29: globe
+
+Elkano mendiak, Pluton.
+Elcano Mountains, Pluto.
+Elcano Montes, 134340 Pluto.
+
+Image source: @NASANewHorizons 
+Software: 3D Map Generator - Atlas, Photoshop https://t.co/48PjitkW02",en,2020-11-29 13:21:02,2,6,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",19770809,Galder Gonzalez🔻,theklaneh,Euskal Herria,9410,1194,http://pbs.twimg.com/media/En_nCe8XEAMG1-3.jpg,https://twitter.com/twitter/statuses/1333038259820261379
+198,1333036992288972800,"@andrewxhill Day 29: Globe
+
+With the help of a custom orthographic projection provided by @BNHRdotXYZ, I'm able to put Vermont where it belongs: at the center of everything.
+
+https://t.co/DNXLeuEjF2
+
+#30DayMapChallenge https://t.co/iSZQXQGbQP",en,2020-11-29 13:16:00,4,6,"[{'text': '30DayMapChallenge', 'indices': [200, 218]}]",278873782,Map/,vtcraghead,"Burlington, VT",3660,866,http://pbs.twimg.com/media/En8uh0mW4AAYEsL.jpg,https://twitter.com/twitter/statuses/1333036992288972800
+199,1333033613558943747,"#30DayMapChallenge Day 29 - Globe
+Simple globe showing a direct flight between #Lisbon and my hometown, #Belém. Sorry, I'm homesick today. https://t.co/LBEEznfCZn",en,2020-11-29 13:02:34,1,6,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'Lisbon', 'indices': [79, 86]}, {'text': 'Belém', 'indices': [104, 110]}]",180939408,torts,tgsousa_,,903,1018,http://pbs.twimg.com/media/En_i3osWEAASDKS.jpg,https://twitter.com/twitter/statuses/1333033613558943747
+200,1333033600489578496,"#30DayMapChallenge No. 26: Try a map with a new tool they said. It'll be fun they said. Maybe not: my hardware isn't capable enough for @Blender although it's an amazing open source tool (the BlenderGIS plugin too). Wasn't even able to render properly, but here some Tatranian 🏔 https://t.co/sFdCpurjLI",en,2020-11-29 13:02:31,1,5,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",281177027,Isaak,fleischkas,Wien,162,1008,http://pbs.twimg.com/media/En_i7mTXMAEFU7l.jpg,https://twitter.com/twitter/statuses/1333033600489578496
+201,1333032875944501250,"“Ох, не однаково мені.” © 1847, Т.Г. Шевченко, «В казематі»
+
+Якщо можете, @mr4k_bear @fed4ev, передайте будь-ласка 'gontsa' що мені НЕ пофіг! (ну, і хай може вже нарешті розблочить мене)
+Дякую!
+
+P.S. 🗺 © 2020, ✍👷🇺🇦 'gontsa', #30DayMapChallenge Day 17: https://t.co/NbyBMV3cHt https://t.co/alZlJqGD6E",uk,2020-11-29 12:59:38,1,0,"[{'text': '30DayMapChallenge', 'indices': [225, 243]}]",921409205080412161,app4soft 🦖☄,app4soft,,194,0,http://pbs.twimg.com/media/En_iNdwXMAEyS-z.jpg,https://twitter.com/twitter/statuses/1333032875944501250
+202,1333032445931900928,"#30DayMapChallenge - Day 29 - Globe
+
+I am always impressed of how long Chile is compared to Europe.
+
+Created using R (webglobe). https://t.co/XlLU84KUWa",en,2020-11-29 12:57:56,3,17,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",733390000809730049,Richard Vogg,richard_vogg,Deutschland,94,165,http://pbs.twimg.com/media/En_hVIdXcAEjew_.jpg,https://twitter.com/twitter/statuses/1333032445931900928
+203,1333031603417726977,"Day 29 of #30DayMapChallenge  
+
+Theme: Globe 
+
+Used the Digital_rain style and the Globe builder plugin in #QGIS https://t.co/6JLQ3j1xkF",en,2020-11-29 12:54:35,1,3,"[{'text': '30DayMapChallenge', 'indices': [10, 28]}, {'text': 'QGIS', 'indices': [107, 112]}]",1242492366323245061,Geetika Chauhan,Troctolite10,India,70,305,http://pbs.twimg.com/media/En_hIMcVkAIymIb.jpg,https://twitter.com/twitter/statuses/1333031603417726977
+204,1333028312109682688,#Day29 Globe. Data from https://t.co/IId5J8MKoz #Blender #30DayMapChallenge https://t.co/QwAiTtlpyo,en,2020-11-29 12:41:30,1,6,"[{'text': 'Day29', 'indices': [0, 6]}, {'text': 'Blender', 'indices': [48, 56]}, {'text': '30DayMapChallenge', 'indices': [57, 75]}]",1466897384,Matti Kokkonen,MattiJKokkonen,,199,286,http://pbs.twimg.com/media/En_eLzZXMAEY9e6.jpg,https://twitter.com/twitter/statuses/1333028312109682688
+205,1333027653201301510,"#30DayMapChallenge No. 25 is COVID-19 and I won't add another map with the unhappy case counts, but rather do a map, which I was quite sure, @austrianmaps did already – but I couldn't find any, so here we go #badjokefriday https://t.co/XdiSQUaLuN",en,2020-11-29 12:38:53,5,14,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'badjokefriday', 'indices': [208, 222]}]",281177027,Isaak,fleischkas,Wien,162,1008,http://pbs.twimg.com/media/En_dVu5XIAENaDs.jpg,https://twitter.com/twitter/statuses/1333027653201301510
+206,1333027139818573827,"Day 29 #30DayMapChallenge 
+Globe.
+Bon, ok... ""déjà vou"", comme on dit outre-Atlantique, mais c'est en attendant de voir si je réussis l'autre idée que j'ai en tête #teasing #pitetreceseranulaussi 🤷‍♀️
+Parce que le monde est beau en bleu, orange ou fuschia... hop, 3 versions ⬇️ https://t.co/m8Zs36BMns",fr,2020-11-29 12:36:51,1,7,"[{'text': '30DayMapChallenge', 'indices': [7, 25]}, {'text': 'teasing', 'indices': [164, 172]}, {'text': 'pitetreceseranulaussi', 'indices': [173, 195]}]",1026155967480844291,Anne L.,AlandcoC,Versailles ,820,792,http://pbs.twimg.com/media/En_dGr5W8AE5zFp.jpg,https://twitter.com/twitter/statuses/1333027139818573827
+207,1333026841607729155,For No. 24 of the #30DayMapChallenge Elevation I've chosen something easier – just a few contour lines of a neighboring country which I unfortunately can't visit right now. But their opendata (@otevrenadata) is reachable :) https://t.co/IQa9DfWWd4,en,2020-11-29 12:35:40,1,3,"[{'text': '30DayMapChallenge', 'indices': [18, 36]}]",281177027,Isaak,fleischkas,Wien,162,1008,http://pbs.twimg.com/media/En_cWXzXEAEwBE1.jpg,https://twitter.com/twitter/statuses/1333026841607729155
+208,1333026310977949696,"#30DayMapChallenge Day 29: #Globe
+From early on @UBLeiden collected #globes. 4 globes can be seen on this 1610 print.
+Globes were intensively used during engineering courses, one of the reasons why there are no 16th and 17th century globes left anymore in the library today. https://t.co/cP6BoIaQfS",en,2020-11-29 12:33:33,6,24,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'Globe', 'indices': [27, 33]}, {'text': 'globes', 'indices': [68, 75]}]",889150492751925250,Martijn Storms,MapStorms,,878,377,http://pbs.twimg.com/media/En_cQKqXcAARK_L.jpg,https://twitter.com/twitter/statuses/1333026310977949696
+209,1333026204375527426,"Finally got time to keep up with my maps: No. 23 of the #30DayMapChallenge shows the Boundaries of river catchment areas. It hold me up a little bit to manage the river dataset which includes widths, ironically after export it doesn't matter anyway because u can't tell the diff🤪 https://t.co/GWnvZJB3z3",en,2020-11-29 12:33:08,1,6,"[{'text': '30DayMapChallenge', 'indices': [56, 74]}]",281177027,Isaak,fleischkas,Wien,162,1008,http://pbs.twimg.com/media/En_b2EUWMAIze_b.jpg,https://twitter.com/twitter/statuses/1333026204375527426
+210,1333025938418905088,"#30DayMapChallenge Day 28: Non-geographic map #QGIS, #OpenStreetMap
+“Basic visual connections and compositional axes in #park «#Sofiyivka», Uman (Cherkasy region), #Ukraine.”
+🗺 © 2020, ✍👷🇺🇦 'gontsa' via https://t.co/nA2Czu9c18 https://t.co/GiqgVUnHWt",en,2020-11-29 12:32:04,1,0,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'QGIS', 'indices': [46, 51]}, {'text': 'OpenStreetMap', 'indices': [53, 67]}, {'text': 'park', 'indices': [120, 125]}, {'text': 'Sofiyivka', 'indices': [127, 137]}, {'text': 'Ukraine', 'indices': [164, 172]}]",921409205080412161,app4soft 🦖☄,app4soft,,194,0,http://pbs.twimg.com/media/En_bkMlXMAEERz1.jpg,https://twitter.com/twitter/statuses/1333025938418905088
+212,1333022778140798978,"One of my favourite purchases of 2020, this 1950s Danish-made Braille globe, found in a local second-hand shop back in February. 
+#30dayMapChallenge #globe 🌍🌎🌏 https://t.co/1iDMDjFfE0",en,2020-11-29 12:19:31,3,26,"[{'text': '30dayMapChallenge', 'indices': [130, 148]}, {'text': 'globe', 'indices': [149, 155]}]",289830445,Dr Thomas Smith 🔥🌏,DrTELS,"London, UK",3408,1488,http://pbs.twimg.com/media/En_ZIr6W4AElUSU.jpg,https://twitter.com/twitter/statuses/1333022778140798978
+213,1333020196991348736,"Day 22- #30DayMapChallenge
+Theme: Movement.
+
+Using the Network Analyst tool alongside OS Zoomstack and University of Edinburgh UK Supermarket data, I displayed the most efficient route to visit all Supermarkets in Edinburgh. https://t.co/38c7JfAnoT",en,2020-11-29 12:09:15,1,0,"[{'text': '30DayMapChallenge', 'indices': [8, 26]}]",2149588681,Claire Powell,Pow__C,,91,300,http://pbs.twimg.com/media/En_WyegXIAI7Dgw.jpg,https://twitter.com/twitter/statuses/1333020196991348736
+214,1333020083216674816,"Day 22- #30DayMapChallenge
+Theme: Movement.
+
+Using the Network Analyst tool alongside OS Zoomstack and University of Edinburgh UK Supermarket data, I displayed the most efficient route to visit all Supermarkets in Edinburgh. https://t.co/MfaAPc6o3V",en,2020-11-29 12:08:48,1,0,"[{'text': '30DayMapChallenge', 'indices': [8, 26]}]",2149588681,Claire Powell,Pow__C,,91,300,http://pbs.twimg.com/media/En_WsyzXIAAV7i_.jpg,https://twitter.com/twitter/statuses/1333020083216674816
+215,1333016936926519303,"Day29: Globe
+SDG Goal 4 Quality Education
+Depper blue is the lower Human Development Index (2018). 
+#30DayMapChallenge
+#SDGs
+Ensure inclusive and equitable quality education and promote lifelong learning opportunities for all.https://t.co/PWhsLkAGQQ https://t.co/Op0WUdIOga",en,2020-11-29 11:56:18,1,4,"[{'text': '30DayMapChallenge', 'indices': [100, 118]}, {'text': 'SDGs', 'indices': [119, 124]}]",187171010,I.K.D,IKEDA_02,"Brisbane, Queensland 🇦🇺🇯🇵",104,482,http://pbs.twimg.com/ext_tw_video_thumb/1333016610739691522/pu/img/kpRZA3p6Em9dq_Ow.jpg,https://twitter.com/twitter/statuses/1333016936926519303
+217,1333015564827176965,"Day 29- (snow) Globe
+#30DayMapChallenge 
+Location- Global
+Data- Natural Earth 
+Tools- @qgis 
+Description- Mappy holidays.
+#GIS #gischat #QGIS https://t.co/0fWTpqS3kl",en,2020-11-29 11:50:51,2,10,"[{'text': '30DayMapChallenge', 'indices': [21, 39]}, {'text': 'GIS', 'indices': [122, 126]}, {'text': 'gischat', 'indices': [127, 135]}, {'text': 'QGIS', 'indices': [136, 141]}]",52190652,Oliver Burdekin,burdGIS,"Wakefield, England",1417,2980,http://pbs.twimg.com/tweet_video_thumb/En_Sg_3XIAI-x5X.jpg,https://twitter.com/twitter/statuses/1333015564827176965
+218,1333014112612331520,"A slightly different type of #globe for today's #30daymapchallenge
+#publictransport #accessibility #globetheatre https://t.co/wADERhVxW7",en,2020-11-29 11:45:05,0,1,"[{'text': 'globe', 'indices': [29, 35]}, {'text': '30daymapchallenge', 'indices': [48, 66]}, {'text': 'publictransport', 'indices': [67, 83]}, {'text': 'accessibility', 'indices': [84, 98]}, {'text': 'globetheatre', 'indices': [99, 112]}]",49592380,Basemap,basemap,"Guildford, Surrey",1686,1645,http://pbs.twimg.com/media/En_RRM1XMAA51Y-.jpg,https://twitter.com/twitter/statuses/1333014112612331520
+219,1333013962926006272,"#30DayMapChallenge Day 29. Globe
+
+All lighthouses included in the @openstreetmap database. It is surprising how many are inland. 
+
+#dataviz #rspatial #rstats https://t.co/QVo8S1d6Sw",en,2020-11-29 11:44:29,11,48,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'dataviz', 'indices': [131, 139]}, {'text': 'rspatial', 'indices': [140, 149]}, {'text': 'rstats', 'indices': [150, 157]}]",895213223724666880,Dominic Royé,dr_xeo,"Santiago de Compostela, España",2532,1004,http://pbs.twimg.com/media/En_QrbTWEAAbdiO.jpg,https://twitter.com/twitter/statuses/1333013962926006272
+220,1333010381552357387,"Using Natural Earth data and following @undertheraedar's QGIS tutorial, we've created a globe map for today's #30DayMapChallenge theme🌍
+https://t.co/WQh6QfnujB https://t.co/QE0hNsmYKy",en,2020-11-29 11:30:15,7,28,"[{'text': '30DayMapChallenge', 'indices': [110, 128]}]",22614266,Ordnance Survey,OrdnanceSurvey,"Southampton, UK",60675,3734,http://pbs.twimg.com/media/En_N4JYXMAAJnWT.jpg,https://twitter.com/twitter/statuses/1333010381552357387
+221,1333009575486877696,#30DayMapChallenge Day 29 : Globe https://t.co/Q740mVEaha,en,2020-11-29 11:27:03,1,7,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",233525664,Julien,JulienQuotidien,Le Havre,466,185,http://pbs.twimg.com/media/En_NFTKW8AEIxmj.jpg,https://twitter.com/twitter/statuses/1333009575486877696
+222,1333009411812585479,"#30DayMapChallenge - Day 29 - Globe
+
+A serious map for today : Oceanic languages spoken in the islands of the Pacific Ocean // Une carte sérieuse aujourd'hui : langues océaniques parlées dans les îles de l'Océan Pacifique
+
+See previous map : https://t.co/M674z8OdHC https://t.co/7LewQcHhjO",fr,2020-11-29 11:26:24,1,9,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",1201838008359620609,Les Savoirs Ambulants,SavoirsEnBulles,Rennes,352,92,http://pbs.twimg.com/media/En_M3DUXIAI5I9I.jpg,https://twitter.com/twitter/statuses/1333009411812585479
+223,1333008541423185921,Day 28 (Non-geographic map) Daily Tweets Statistics and Top Favourited/❤️ Maps (https://t.co/RgPBlQtFSK). #30DayMapChallenge Github: https://t.co/xj8OX2WyXw https://t.co/Jad3aucX8k,en,2020-11-29 11:22:57,2,4,"[{'text': '30DayMapChallenge', 'indices': [106, 124]}]",528087151,Haifeng Niu,niu_haifeng,"Cambridge, England",38,407,http://pbs.twimg.com/media/En_MEZPW4AAcJH-.png,https://twitter.com/twitter/statuses/1333008541423185921
+224,1333008501241753601,"#30DayMapChallenge Day 29... Globe
+
+""Cubicalization"" https://t.co/5fIdEWTbpd",en,2020-11-29 11:22:47,1,15,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",1200892211996635139,Danae Kontou,DanaeKontou,,38,105,http://pbs.twimg.com/tweet_video_thumb/En_MHfYXMAALYW5.jpg,https://twitter.com/twitter/statuses/1333008501241753601
+225,1333007847551070209,"A wheel of fortune of residential addresses of Tartu. 
+
+Based on address data by the Estonian Land Boards.
+
+This is #30DayMapChallenge - Day 28, a Non-geographic map, in which geographic data is unmapped. https://t.co/LjLh7Ai0vf",en,2020-11-29 11:20:11,1,4,"[{'text': '30DayMapChallenge', 'indices': [116, 134]}]",2629383321,Tõnis Kärdi,tkardi,"Tartu, Estonia",228,240,http://pbs.twimg.com/media/En_KOy-XUAAnYh0.jpg,https://twitter.com/twitter/statuses/1333007847551070209
+226,1333006074031575040,"Making a #geodesic globe
+Day 29 - Globe @tjukanov
+#30DayMapChallenge
+Great downloable resources created by @John_M_Nelson #GeographyTeacher
+#Dymaxion #Triangles
+#MathsTeacher
+Link 1: https://t.co/TsYzPBqGFg
+Link 2: https://t.co/czby6yjejq https://t.co/emq1Chskq4",en,2020-11-29 11:13:08,6,12,"[{'text': 'geodesic', 'indices': [9, 18]}, {'text': '30DayMapChallenge', 'indices': [50, 68]}, {'text': 'GeographyTeacher', 'indices': [122, 139]}, {'text': 'Dymaxion', 'indices': [140, 149]}, {'text': 'Triangles', 'indices': [150, 160]}, {'text': 'MathsTeacher', 'indices': [161, 174]}]",2787878432,BC,mildthing99,"England, United Kingdom",2237,2015,http://pbs.twimg.com/ext_tw_video_thumb/1333005960529506304/pu/img/qXwSDH4I-XqhqftD.jpg,https://twitter.com/twitter/statuses/1333006074031575040
+227,1333003608418291712,"#30DayMapChallenge #globe
+
+Here's a globe from back in the days when we could travel around the world. It's somewhere in New York but the geocoding was poorer in those days so I can't recall exactly where it is. https://t.co/WGjMOOixga",en,2020-11-29 11:03:20,2,1,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'globe', 'indices': [19, 25]}]",77265423,Ian Turton,ijturton,"Worthing, UK",1079,895,http://pbs.twimg.com/media/En_HaA9WEAA0qt_.jpg,https://twitter.com/twitter/statuses/1333003608418291712
+228,1333000892258377731,"Day 29 #30DayMapChallenge topic globe - Globe artwork captured on a Mapillary photo in Ballerup, Denmark. https://t.co/Y03y0v95nd",en,2020-11-29 10:52:33,1,0,"[{'text': '30DayMapChallenge', 'indices': [7, 25]}]",37453678,Søren Johannessen,neogeografen,"Copenhagen, Denmark",1493,1330,http://pbs.twimg.com/media/En_FAAsWEAMdTu7.jpg,https://twitter.com/twitter/statuses/1333000892258377731
+229,1333000268288577538,"#30DayMapChallenge day 29 - globe
+Black marble night lights data by @NASAEarthData 
+#RStats #rayrender https://t.co/n3cMGm7iLg",en,2020-11-29 10:50:04,7,56,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'RStats', 'indices': [84, 91]}, {'text': 'rayrender', 'indices': [92, 102]}]",1273667699374260224,Tatiana,balt_ti,"Санкт-Петербург, Россия",151,202,http://pbs.twimg.com/media/En_EloPXYAAyuSk.jpg,https://twitter.com/twitter/statuses/1333000268288577538
+230,1332997791631732737,"*Ladies and Gentlemen We Are Floating in Space*
+Day 29 - Globe @tjukanov
+#30DayMapChallenge https://t.co/fAH7F5Uoux",en,2020-11-29 10:40:14,4,10,"[{'text': '30DayMapChallenge', 'indices': [73, 91]}]",2787878432,BC,mildthing99,"England, United Kingdom",2237,2015,http://pbs.twimg.com/ext_tw_video_thumb/1332997728603869184/pu/img/jjdEOf5u1_xWSUR-.jpg,https://twitter.com/twitter/statuses/1332997791631732737
+231,1332997296410271746,"The #30DayMapChallenge for today is globe, and it just so happens I’ve made a few. Here’s the Balanceplanet, used as a prop in a photoshoot with my friend Anne a few years ago #cartography #lovemaps https://t.co/WO18oDdg1u",en,2020-11-29 10:38:16,1,6,"[{'text': '30DayMapChallenge', 'indices': [4, 22]}, {'text': 'cartography', 'indices': [176, 188]}, {'text': 'lovemaps', 'indices': [189, 198]}]",109054515,Hans van der Maarel,redgeographics,The Netherlands,1955,605,http://pbs.twimg.com/media/En_B99bW8AIStrZ.jpg,https://twitter.com/twitter/statuses/1332997296410271746
+232,1332995325766864896,"Day 29 #30DayMapChallenge a globe.  Not just any old globe, but THE globe. 2 hours Blender time, 7 hours render. My first proper use of Blender + a tutorial. @tjukanov this one is for you :) https://t.co/HgwXFPXdDq",en,2020-11-29 10:30:26,17,209,"[{'text': '30DayMapChallenge', 'indices': [7, 25]}]",1318518242080661504,Christoph Er,dataisawesomeo,,88,271,http://pbs.twimg.com/ext_tw_video_thumb/1332995217448906752/pu/img/FlEHgmZqa2FJrMRi.jpg,https://twitter.com/twitter/statuses/1332995325766864896
+233,1332994449715105793,"#30DayMapChallenge Day 29 Globe.
+Not a new map, but it fits the theme of the day.
+#NaturalEarthData and background from Public Domain. Made in @QGIS https://t.co/u80bnTWW5V",en,2020-11-29 10:26:57,4,53,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'NaturalEarthData', 'indices': [82, 99]}]",56323078,Klas Karlsson,klaskarlsson,"Eksjö, Sweden",3304,71,http://pbs.twimg.com/media/En--eOsXIBEHfHx.jpg,https://twitter.com/twitter/statuses/1332994449715105793
+234,1332991706195656705,"Day 29 of #30DayMapChallenge. Globe.
+
+This map was inspired by the stunning opening titles of BBC's Blue Planet documentaries. Map looks north as sun rises over NZ from the Pacific.
+
+Using Black Marble &amp; MODIS Terra layers from #NASAEarthData GIBS.
+
+Made with #ArcPro &amp; Photoshop. https://t.co/fOIaKvXTdE",en,2020-11-29 10:16:03,1,8,"[{'text': '30DayMapChallenge', 'indices': [10, 28]}, {'text': 'NASAEarthData', 'indices': [232, 246]}, {'text': 'ArcPro', 'indices': [264, 271]}]",29162437,Kerrin Sime,kjsime," NZ, most of the time.",74,127,http://pbs.twimg.com/media/En-85B5UwAA8GJj.jpg,https://twitter.com/twitter/statuses/1332991706195656705
+235,1332991639539871749,"Day 29 - Globe #30DayMapChallenge
+
+Getting ready for Christmas 🎄 https://t.co/kQx9k0n2EG",en,2020-11-29 10:15:47,1,5,"[{'text': '30DayMapChallenge', 'indices': [15, 33]}]",1037423341,Valeriia Shurupina,valeriiashur,Munich-Vienna-Dresden-Enschede,46,167,http://pbs.twimg.com/media/En-81PzXYAIK8Kt.jpg,https://twitter.com/twitter/statuses/1332991639539871749
+237,1332989312263217160,"#30DayMapChallenge Day 29: Globe 
+Tight on time today, so only half a 'globe.' https://t.co/liT9fMmO5s",en,2020-11-29 10:06:32,1,3,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",1074378707438055426,Blandford Bread,BlandfordBread,"South West, England",467,833,http://pbs.twimg.com/media/En-6m36XIAAhxA-.jpg,https://twitter.com/twitter/statuses/1332989312263217160
+238,1332987667110359043,"Day 29- #30DayMapChallenge 
+Theme: Globe, visualised using R and threejs. I mentioned on Day 11 I wanted to learn interactivity with data, so today I played around with the same day from Day 11, using maximum elevation of each country! https://t.co/WOqVB6pVoj",en,2020-11-29 10:00:00,1,2,"[{'text': '30DayMapChallenge', 'indices': [8, 26]}]",636238090,Simon Leech,simonmleech,,46,149,http://pbs.twimg.com/media/En8O5keW4AA6qG4.png,https://twitter.com/twitter/statuses/1332987667110359043
+239,1332987027176960000,"#30DayMapChallenge Day 29: Globe
+Land Cover Classification from MODIS data
+https://t.co/SzvWnlu8LJ
+Created using this tutorial https://t.co/w9k4AWjb7s from @undertheraedar and @GIMP_Official https://t.co/6r3veCgCRz",en,2020-11-29 09:57:27,2,10,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",18795658,Matt Travis,Yakus,"Ivybridge, Devon",533,748,http://pbs.twimg.com/tweet_video_thumb/En-4m01W8AEhzVP.jpg,https://twitter.com/twitter/statuses/1332987027176960000
+240,1332986529812275200,"🗺️🗺️🗺️🌏🌍🌎😫
+#30DayMapChallenge 
+29 - Globe https://t.co/GORbasfyVA",pt,2020-11-29 09:55:29,11,99,"[{'text': '30DayMapChallenge', 'indices': [11, 29]}]",2809999793,Owen Powell,owenjpowell,Leamington Spa,1908,288,http://pbs.twimg.com/ext_tw_video_thumb/1332986306528468992/pu/img/zY7i7GEbwCYWz9eO.jpg,https://twitter.com/twitter/statuses/1332986529812275200
+241,1332985231058546689,"Day 29 #30DayMapChallenge the Globe £2 inc U.K. postage - available all year round Red, gold and Silver - raising money for the upcoming Mini Map-Makers Global CIC - Jan 2021. DM me for orders https://t.co/bqRp6f4NK5 https://t.co/ic70caRMl3",en,2020-11-29 09:50:19,1,5,"[{'text': '30DayMapChallenge', 'indices': [7, 25]}]",853862934233141248,Captain Alice,MiniMapMakers,"Bedford, England",1514,3878,http://pbs.twimg.com/media/En-3AHqXEAAJx87.jpg,https://twitter.com/twitter/statuses/1332985231058546689
+242,1332984749384740865,"#30DayMapChallenge Day 29: Globe
+The globe from my childhood that might partly be responsible for determining my working life. The make up of Europe shows my age ! https://t.co/VYbNSOlWEu",en,2020-11-29 09:48:24,3,9,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",1268236531,Tom Timms,TomTheMap,"Cambridgeshire, UK",428,636,http://pbs.twimg.com/media/En-2PrlXEAEsuS2.jpg,https://twitter.com/twitter/statuses/1332984749384740865
+243,1332983790302588928,"#30DayMapChallenge Day 29: Globe.
+
+A map of Finland. https://t.co/RysbOWAy2P",en,2020-11-29 09:44:35,12,182,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",2198358416,Topi Tjukanov,tjukanov,"Helsinki, Suomi",12209,2524,http://pbs.twimg.com/media/En-1rbBXYAAKPLp.jpg,https://twitter.com/twitter/statuses/1332983790302588928
+244,1332983557531299841,"Day 29 - Globe #30DayMapChallenge 
+
+Was colouring with my daughter and came across this picture in her book - perfect for today! It was the most fun I've had making a map during the challenge 😍 https://t.co/JuSjz6PGJL",en,2020-11-29 09:43:40,1,12,"[{'text': '30DayMapChallenge', 'indices': [15, 33]}]",996835888813494272,Catherine Schroder,cj_maps,"Scotland, United Kingdom",84,99,http://pbs.twimg.com/media/En-1exUW4AAgNaO.jpg,https://twitter.com/twitter/statuses/1332983557531299841
+245,1332983096925433857,Day 29. Globe. I have been living in a bubble lately. And it has been nice. Everyone deserves their own little world. Georeferenced with #QGIS. Thanks to my colleague @joonalai for the amazing Globe Builder plugin for QGIS (a very used tool today😄) #Inkscape #30dayMapChallenge https://t.co/b3rXsOwXe6,en,2020-11-29 09:41:50,2,11,"[{'text': 'QGIS', 'indices': [137, 142]}, {'text': 'Inkscape', 'indices': [249, 258]}, {'text': '30dayMapChallenge', 'indices': [259, 277]}]",3552542476,Sanna Jokela,SannaJokela1,"Turku, Suomi",545,411,http://pbs.twimg.com/media/En-0xkkW4AAak_a.jpg,https://twitter.com/twitter/statuses/1332983096925433857
+246,1332982633962336256,"🌎🌍🌏 Jour 29 du #30DayMapChallenge : un globe.
+
+« Global Hip-Hop » est un projet @GoumProd réalisé avec @claradealberto : c'est un globe musical qui compile du hip-hop du monde entier (311 villes et 125 pays différents à ce jour !)
+
+https://t.co/0gas70o1DI https://t.co/mSZIiCIoQn",fr,2020-11-29 09:40:00,4,25,"[{'text': '30DayMapChallenge', 'indices': [15, 33]}]",138790830,Jules Grandin,JulesGrandin,Paris,22553,1013,http://pbs.twimg.com/media/Enwb-gVW4AIrlL2.jpg,https://twitter.com/twitter/statuses/1332982633962336256
+247,1332982368638996480,"#30DayMapChallenge 
+
+Day 29 - Globe
+
+How did I end up with the cover artwork for a concept album?
+
+@bcsweb https://t.co/P8plbvxFOX",en,2020-11-29 09:38:56,1,0,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",238730325,David McCutcheon,DVDMaps,"Shrewsbury, England",209,198,http://pbs.twimg.com/media/En-zvFRXUAE6qSF.jpg,https://twitter.com/twitter/statuses/1332982368638996480
+248,1332982365006737408,"#30DayMapChallenge Day 29: Globe. Just a quicky today. Used the pencilish style designed by @tjukanov and the globe builder plugin in #QGIS 
+#Map  #osgeo #qgisnl #gis #osgeonl https://t.co/TI8OdSCYGD",en,2020-11-29 09:38:56,0,10,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'QGIS', 'indices': [134, 139]}, {'text': 'Map', 'indices': [141, 145]}, {'text': 'osgeo', 'indices': [147, 153]}, {'text': 'qgisnl', 'indices': [154, 161]}, {'text': 'gis', 'indices': [162, 166]}, {'text': 'osgeonl', 'indices': [167, 175]}]",1270037817750630404,Mariëlle Geers-Plasmans,geojuffie,Steenbergen,67,62,http://pbs.twimg.com/media/En-0AtTXIAEDVJN.jpg,https://twitter.com/twitter/statuses/1332982365006737408
+249,1332981469128560640,"#30DayMapChallenge #Globe 
+
+Written in python myself. The maths made me want to cry. https://t.co/nBy9t1lGES",en,2020-11-29 09:35:22,4,63,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'Globe', 'indices': [19, 25]}]",782161298,Neil Harris 'UO web',Neil_py_harris,Newcastle-upon-Tyne,285,293,http://pbs.twimg.com/tweet_video_thumb/En-zkpiXYAIHG7R.jpg,https://twitter.com/twitter/statuses/1332981469128560640
+250,1332979928279752706,"#30DayMapChallenge Day 29 | Globe
+
+A tribute to William Shakespeare 💀
+
+The map shows the popular Shakespeare’s Globe Theatre in London and the other two reconstructions built in Europe (Rome &amp; Diever). Everything is of course on a globe 🌍 https://t.co/EDjs3mfdia",en,2020-11-29 09:29:15,4,7,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",1669906789,Marco Minghini,MarcoMinghini,"Como, Italy",1081,713,http://pbs.twimg.com/media/En-xEHfXMAAp-d_.png,https://twitter.com/twitter/statuses/1332979928279752706
+251,1332979604894650368,#30DayMapChallenge  day 29 - Globe. Populated places from geonames db on a globe. #QGIS &amp; Globe Builder https://t.co/OC3KjxwGGK,en,2020-11-29 09:27:58,2,7,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'QGIS', 'indices': [82, 87]}]",1228659691355590656,Dušan Živković,dusziv,,9,43,http://pbs.twimg.com/media/En-xjm_XEAEcqQ1.jpg,https://twitter.com/twitter/statuses/1332979604894650368
+252,1332979314657292288,"#30DayMapChallenge 
+Day29 - Globe. Never worked with this before so I decided to keep it simple! #Shipping connections with #Shetland during 2013. #NAFCResearch #ThinkUHI #GIS #ArcGlobe https://t.co/R47rXwx5cK",en,2020-11-29 09:26:48,0,4,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'Shipping', 'indices': [97, 106]}, {'text': 'Shetland', 'indices': [124, 133]}, {'text': 'NAFCResearch', 'indices': [147, 160]}, {'text': 'ThinkUHI', 'indices': [161, 170]}, {'text': 'GIS', 'indices': [171, 175]}, {'text': 'ArcGlobe', 'indices': [176, 185]}]",1106525318553182209,Richard Shelmerdine,RLShelmerdine,"Scotland, United Kingdom",80,119,http://pbs.twimg.com/ext_tw_video_thumb/1332979173321822208/pu/img/3JhudmvYzK9bhzJ1.jpg,https://twitter.com/twitter/statuses/1332979314657292288
+253,1332976356041351170,I hope I'm not late to the #30DayMapChallenge party: every point represents a domestic football game that took place at that location in the last three months. Full data and code is at https://t.co/WVUZlNjrlF https://t.co/yKuDBC9hYk,en,2020-11-29 09:15:03,3,16,"[{'text': '30DayMapChallenge', 'indices': [27, 45]}]",1106613698829975559,Ron Asherov,ronasherov,,570,658,http://pbs.twimg.com/media/En-ux0DW4AIuot4.jpg,https://twitter.com/twitter/statuses/1332976356041351170
+254,1332972943199113217,"How many globes can you count in this picture of Hondius and Mercator? Globe is today's prompt for the #30DayMapChallenge, and this image is fitting not only for its depiction of globes but also for featuring these two Flemish cartographers. https://t.co/6pTAFzTRa8 https://t.co/5AMhwhmg5G",en,2020-11-29 09:01:29,1,6,"[{'text': '30DayMapChallenge', 'indices': [103, 121]}]",65125461,Leventhal Map & Education Center at the BPL,bplmaps,"Copley Square, Boston, MA",5018,680,http://pbs.twimg.com/media/En-rnaUXMAARF56.jpg,https://twitter.com/twitter/statuses/1332972943199113217
+255,1332971273073397760,"Day 29 of #30DayMapChallenge : Globe. The challenge has been a good reason to explore @qgis features i have not tried before, like custom projections to create globes 🌎🌍🌏 Code: https://t.co/IS80raeQar https://t.co/Zsg5EejvMT",en,2020-11-29 08:54:51,2,9,"[{'text': '30DayMapChallenge', 'indices': [10, 28]}]",7541002,Sebastian Meier,seb_meier,,1284,141,http://pbs.twimg.com/media/En-oAvUXIAArync.jpg,https://twitter.com/twitter/statuses/1332971273073397760
+256,1332968727478996994,"#30DayMapChallenge day 29 theme Globe
+A little 'map' light to brighten up  these dark winterdays. https://t.co/XfN8dEhhp1",en,2020-11-29 08:44:44,1,4,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",919806358328958976,Vicky Verscheijden,gis3700,"Tongeren, België",81,145,http://pbs.twimg.com/media/En-n_XVXEAAf_rT.jpg,https://twitter.com/twitter/statuses/1332968727478996994
+257,1332966675872960512,"Auchenskeoch, Scotland &amp; Tobago
+#30DayMapChallenge #Day29 #Globe #QGIS https://t.co/LkIHQFC1Zc https://t.co/1f9rr06MSx",en,2020-11-29 08:36:35,1,3,"[{'text': '30DayMapChallenge', 'indices': [36, 54]}, {'text': 'Day29', 'indices': [55, 61]}, {'text': 'Globe', 'indices': [62, 68]}, {'text': 'QGIS', 'indices': [69, 74]}]",1081900377853829120,D&G place-names,dgplacenames,,607,306,http://pbs.twimg.com/media/En-l-BjXYAA8yrP.jpg,https://twitter.com/twitter/statuses/1332966675872960512
+258,1332965852539478017,"@Barrowthonman @andysmanclubol @lucythepower @CCIanHopkins @mahdloyz @live_oldham @KellyBMSunshine @RamMan9 @lucymahdlo @rpatti89 @LeaRobertsComic @Gemlouwhit @KellyTattersall @wild_jo @zanyzoey @findinggg @Oldham_Hour @OldhamFoodbank @orangetroy1970 @RunHike17 Mucking out horses, does that count as exercise. Early bird. #getfitforXmas #30DayMapChallenge https://t.co/2Nt0Ujkg6C",en,2020-11-29 08:33:19,1,4,"[{'text': 'getfitforXmas', 'indices': [323, 337]}, {'text': '30DayMapChallenge', 'indices': [338, 356]}]",2420540557,Ian Wolstenhulme,WolstenhulmeIan,Oldham,1762,2352,http://pbs.twimg.com/media/En-lXi5XEAA2wxx.jpg,https://twitter.com/twitter/statuses/1332965852539478017
+259,1332963324867321857,"#30DayMapChallenge / November 2020 / Day29: Globe
+Instead of a virtual Globe I preferred to design the stripes which if printed and stitched together will reproduce a paper Globe! The classic old-school method! 
+#cARTography #MakingMapsPretty #ArcGISPro https://t.co/eWjDWnyIMe",en,2020-11-29 08:23:16,1,19,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'cARTography', 'indices': [212, 224]}, {'text': 'MakingMapsPretty', 'indices': [225, 242]}, {'text': 'ArcGISPro', 'indices': [243, 253]}]",374984100,Staridas Geography,StaridasGeo,Greece,421,454,http://pbs.twimg.com/media/En-i-DLWEAA9vJ9.jpg,https://twitter.com/twitter/statuses/1332963324867321857
+260,1332961439703773184,"Day 29 (globe):  Population without borders. #30DayMapChallenge
+Made with #Rstats #rspatial &amp; #D3js 
+https://t.co/cksZleuVYM https://t.co/d6Jq1Uk6Rm",en,2020-11-29 08:15:47,31,180,"[{'text': '30DayMapChallenge', 'indices': [45, 63]}, {'text': 'Rstats', 'indices': [74, 81]}, {'text': 'rspatial', 'indices': [82, 91]}, {'text': 'D3js', 'indices': [98, 103]}]",1035417413586694144,neocarto,neocartocnrs,Paris,1568,385,http://pbs.twimg.com/ext_tw_video_thumb/1332961363891720193/pu/img/-2Y6xUDSxp_KKOrw.jpg,https://twitter.com/twitter/statuses/1332961439703773184
+261,1332957469442621441,"#30DayMapChallenge - 29 Globe
+
+Switzerland on the globe 🌍 https://t.co/Li6bFRV5rU",en,2020-11-29 08:00:00,1,3,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",1320623996249976832,Raphaël Bz,1cartogRaph,Switzerland,24,4,http://pbs.twimg.com/media/En7OVHQWMAAXHzS.jpg,https://twitter.com/twitter/statuses/1332957469442621441
+262,1332952602380787719,"#30DayMapChallenge day 29, globe. Destination of international flights from South American capitals. Made with #QGIS, #GIMP, information from wikipedia and instructions from @underdarkGIS and @PetersonGIS's book ""QGIS map design"". https://t.co/LFc3RrfcDU",en,2020-11-29 07:40:40,9,77,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'QGIS', 'indices': [111, 116]}, {'text': 'GIMP', 'indices': [118, 123]}]",256783357,Juan Luis Torres,juanluistv_,Ciudad de México,172,114,http://pbs.twimg.com/tweet_video_thumb/En-ZP37UcAE-nGy.jpg,https://twitter.com/twitter/statuses/1332952602380787719
+263,1332952465604562944,Globe with exaggerated relief made in Natural Scene Designer. #30DayMapChallenge day 29: globe. https://t.co/U5I2a1A6Fd,en,2020-11-29 07:40:07,1,11,"[{'text': '30DayMapChallenge', 'indices': [62, 80]}]",271326430,Anton van Tetering 🌍,AvTetering,"Utrecht, the Netherlands",211,509,http://pbs.twimg.com/ext_tw_video_thumb/1332952445215977472/pu/img/2mI2wYUuB-4kwDvE.jpg,https://twitter.com/twitter/statuses/1332952465604562944
+264,1332949918332416000,"#30DayMapChallenge Day 29 | Globe
+
+Just standing on the shoulders of giants @davidvelleca @flerlagekr @BoraBeran I just added data to their crazy calculations. https://t.co/diEBl60Izj",en,2020-11-29 07:30:00,2,35,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",2614024302,Rob Radburn,robradburn,"Leicester, UK",3191,757,http://pbs.twimg.com/media/EnnnRLwXEAAAaSY.jpg,https://twitter.com/twitter/statuses/1332949918332416000
+265,1332949716708057090,"#30DayMapChallenge 29. Globe
+
+Vineyards of the world
+
+Made with #QGIS - Globe Builder plugin https://t.co/8MVR0aNrSH",en,2020-11-29 07:29:12,10,62,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'QGIS', 'indices': [64, 69]}]",892006500,Romain Lx,lacxrx,Vaucluse,722,261,http://pbs.twimg.com/tweet_video_thumb/En-WGqSW8AAuIvy.jpg,https://twitter.com/twitter/statuses/1332949716708057090
+266,1332947938176339969,29. Globe: Antipode of #Estonia is in the middle of nowhere 😆  Data: #NaturalEarth Some #python magic together with @allixender to flip the coordinates for Estonia 🙃🌏#30DayMapChallenge #QGIS https://t.co/YAqItdARez,en,2020-11-29 07:22:08,4,15,"[{'text': 'Estonia', 'indices': [23, 31]}, {'text': 'NaturalEarth', 'indices': [69, 82]}, {'text': 'python', 'indices': [88, 95]}, {'text': '30DayMapChallenge', 'indices': [166, 184]}, {'text': 'QGIS', 'indices': [185, 190]}]",47698876,Evelyn,evelynuuemaa,Estonia,524,297,http://pbs.twimg.com/media/En-UcogXUAMspV1.jpg,https://twitter.com/twitter/statuses/1332947938176339969
+267,1332943799518191617,"#30daymapchallenge day 28 a non geographical map. Here is the result of a principal component analysis on the iris dataset. I used the 
+#rstats package ggfortify for this. Thanks to Masaaki Horikoshi, @TerryTangYuan, Austin Dickey and many more. https://t.co/KipUaOEYCt",en,2020-11-29 07:05:41,2,3,"[{'text': '30daymapchallenge', 'indices': [0, 18]}, {'text': 'rstats', 'indices': [136, 143]}]",3331095159,Jan-Philipp Kolb,JanPhilippKolb,,107,365,http://pbs.twimg.com/media/En-RSnkXYAMV5hK.png,https://twitter.com/twitter/statuses/1332943799518191617
+268,1332938322499538944,"#30DayMapChallenge day 29 : a globe
+Un autre monde est probable (travail en cours). Dans l'hémisphère nord, l'archipel de Terremer, inspiré des romans d'Ursula Le Guin. Au Nord-Est, les pays kargues où se déroule l'action des ""Tombeaux d'Atuan"" https://t.co/dVJqauzPAI",fr,2020-11-29 06:43:55,1,9,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",1189967197730430977,Julien Dupont Kobri,Kartokobri,,250,145,http://pbs.twimg.com/media/En-LyogXEAkbvsI.jpg,https://twitter.com/twitter/statuses/1332938322499538944
+269,1332935125294862336,#QGIS #30DayMapChallenge https://t.co/KwFppgjmH8,und,2020-11-29 06:31:13,1,4,"[{'text': 'QGIS', 'indices': [0, 5]}, {'text': '30DayMapChallenge', 'indices': [6, 24]}]",1164228294839025666,Chen Szu Yu,dataviz_szuyu,"Boston, MA",151,188,http://pbs.twimg.com/media/En-JQ4vXIAEty3M.jpg,https://twitter.com/twitter/statuses/1332935125294862336
+270,1332928273316188160,"#30DayMapChallenge 2020 Día 28 Mapa no geográfico: Mapa de mi disco duro,  los archivos TIFF correspondientes a rasters (imágenes satelitales, MDE y ortofotos) ocupan el mayor espacio seguido de los DBF y SHP, al final del listado comienzan a aparecer los GPKG. @IIEGJ @tjukanov https://t.co/wBzYNita96",es,2020-11-29 06:03:59,1,4,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",7630312,Yúum-K'aak-Náab,jdeltoro1973,Guadalajara México,542,2014,http://pbs.twimg.com/media/En-DJ4qXMAAMHQD.jpg,https://twitter.com/twitter/statuses/1332928273316188160
+271,1332914911157084160,"Oil&amp;Gas wells in Argentina #30DayMapChallenge 
+interactive map here: https://t.co/hBPUYCbhSd https://t.co/ZP4k5OCmw1",en,2020-11-29 05:10:53,1,1,"[{'text': '30DayMapChallenge', 'indices': [31, 49]}]",74973938,Papalias Kostas,kpapalias,Argentina,20,21,http://pbs.twimg.com/media/En92bpxXYAEh_6g.png,https://twitter.com/twitter/statuses/1332914911157084160
+272,1332912893248073728,"Day 29 of #30DayMapChallenge - Globe
+
+Tools: qgis https://t.co/S9rXOwd4cJ",en,2020-11-29 05:02:52,1,3,"[{'text': '30DayMapChallenge', 'indices': [10, 28]}]",950089955753250816,Jose Maria Echave Sanz,assesslife,Helsinki,200,394,http://pbs.twimg.com/media/En90_XQWEAIcO8Z.jpg,https://twitter.com/twitter/statuses/1332912893248073728
+273,1332896341593305089,"Vertical Pixel Sorting by Color Brightness: Terrain color histogram by column / longitudes. 
+
+#30DayMapChallenge Day 28: Non-geographic map
+Using #Python #NumPy @matplotlib @Esri https://t.co/LGWTGqGddO",en,2020-11-29 03:57:06,5,23,"[{'text': '30DayMapChallenge', 'indices': [94, 112]}, {'text': 'Python', 'indices': [146, 153]}, {'text': 'NumPy', 'indices': [154, 160]}]",1234136874,Pratap Vardhan,PratapVardhan,"Princeton, NJ",1455,150,http://pbs.twimg.com/ext_tw_video_thumb/1332896124819152902/pu/img/lvzJadVmIip6dW5q.jpg,https://twitter.com/twitter/statuses/1332896341593305089
+274,1332895259223678976,"Day 28 of #30DayMapChallenge Non-Geographic Map
+Leaves. Commissioned work. https://t.co/B3lOt8fp2F",en,2020-11-29 03:52:48,1,1,"[{'text': '30DayMapChallenge', 'indices': [10, 28]}]",1322740260422385665,Anat Zohar,AnatZohar4,,2,20,http://pbs.twimg.com/media/En9lJE6UwAAFdyH.jpg,https://twitter.com/twitter/statuses/1332895259223678976
+275,1332892575532019712,"#30DayMapChallenge Day 28: Non-geographic map. I started a Stadia trial for the holiday, so here's a ""map"" of my movements in a round of Bomberman. https://t.co/eh72PrGA7x",en,2020-11-29 03:42:08,1,5,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",215404498,Ariel Kadouri,akadouri,,144,387,http://pbs.twimg.com/media/En9idy0XMAEiCjd.jpg,https://twitter.com/twitter/statuses/1332892575532019712
+276,1332885229493743616,"#30DayMapChallenge.. Day 27 Non geographic my3D-Face with qgis2threejs
+https://t.co/LRHo7mjiR8 https://t.co/crBKydpDE8",en,2020-11-29 03:12:57,1,9,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",70380613,geoObserver,geoObserver_,51.49413;11.9742,1048,1090,http://pbs.twimg.com/tweet_video_thumb/En9cCU_XUAEyB98.jpg,https://twitter.com/twitter/statuses/1332885229493743616
+277,1332874723299004416,"Day 29: globe
+
+Imperial views: Territorial claims over Antarctica.
+
+@qgis + Natural Earth data.
+
+#30DayMapChallenge https://t.co/heN7ftWsxr",en,2020-11-29 02:31:12,1,4,"[{'text': '30DayMapChallenge', 'indices': [97, 115]}]",12306,Luis Apiolaza 🧮🍃📷⏚,zentree,"Ōtautahi, Aotearoa",1322,286,http://pbs.twimg.com/media/En9SdV6UYAAT9Mz.jpg,https://twitter.com/twitter/statuses/1332874723299004416
+278,1332866450529382400,"In February, which feels like a lifetime ago,@lindseywoho @taylor_dahl and I played a set of blink-182 covers in a benefit for HIPS. For #30DayMapChallenge's non-geographic day, I mapped out one of those songs, First Date, on the drums. One dot = one hit. https://t.co/ucpmFPVx8S",en,2020-11-29 01:58:19,2,55,"[{'text': '30DayMapChallenge', 'indices': [137, 155]}]",14913762,vicky johnson-dahl,hurricanevicky,"Washington, DC",1008,840,http://pbs.twimg.com/media/En9K9jNW8AIw0Jy.jpg,https://twitter.com/twitter/statuses/1332866450529382400
+279,1332856962036473856,"Had a bit of fun with my non-geographic map for the #30DayMapChallenge 
+
+Very strange to be writing out a step as you look at it. https://t.co/YcfkDjv6X5",en,2020-11-29 01:20:37,4,31,"[{'text': '30DayMapChallenge', 'indices': [52, 70]}]",579246246,Cas,cas_maps,,193,1050,http://pbs.twimg.com/media/En9B9C4W4AAEg7g.jpg,https://twitter.com/twitter/statuses/1332856962036473856
+280,1332856311608963072,"#30DayMapChallenge day 28: non-geographic map
+I wrote some javascript to map hex bytes to the equivalent 6502 assembly code https://t.co/gnNMtBgN81",en,2020-11-29 01:18:02,1,5,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",275677658,Keith Jenkins,kgjenkins,Ithaca,1169,187,http://pbs.twimg.com/media/En9BsGYXUAEgyt4.png,https://twitter.com/twitter/statuses/1332856311608963072
+281,1332844967383994368,Globe of Joosep Toots  #30DayMapChallenge  Day 29 https://t.co/0VQB9slv0x,en,2020-11-29 00:32:57,1,5,"[{'text': '30DayMapChallenge', 'indices': [23, 41]}]",40151250,Tõnu Oja,tonuoja,,34,42,http://pbs.twimg.com/media/En83WkEWMAIOy4-.jpg,https://twitter.com/twitter/statuses/1332844967383994368
