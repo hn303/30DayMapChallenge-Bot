@@ -12,13 +12,14 @@ Note:
 - cleanning process for late entry tweets is only conducted in first two days
 - some tweets in certain time zones (such as Pacific Time) might be searched and archived in file next day
 
-### Fun Statistics
+### Users Langauge
 
 Tweets with `#30DayMapChallenge` hashtag from 2020-11-01 to 2020-12-02 are in **32** languages (Twitter account setting) including `es`, `en`, `fr`, `und`, `de`, `ru`, `lt`, `lv`, `no`, `tr`, `in`, `nl`, `pt`, `ja`, `et`, `ro`, `ca`, `ht`, `tl`, `pl`, `sv`, `da`, `it`, `bg`, `fi`, `eu`, `ar`, `vi`, `cy`, `ko`, `is`, `uk`.
 
 ### Users Location
 By geocoding users location in their profile, I plot the map of distribution of users who involvs in this event. Geocoding process is conducted via https://geocode.localfocus.nl/
-![images](./user_loc.png){width=30%}
+
+![images](./user_loc.png)
 
 ### Daily Tweets Statistics
 ![images](./graphs/maps_count.png)
@@ -43,7 +44,7 @@ Top favorited tweets refers to the tweets get many `liked`/:heart:. The faviorit
 
 ### Map Wall
 
-There are 7569 maps included in a 87*87 grid. You can find the graph above (with white and black background). The sperated maps(resized) can be found in `.\maps` folder. Since the maps were collected automatically from media url in tweet metadata, you can find some 'noise' or duplicate images in the map wall.
+The grid graph (87*87) includes 7569 maps. The seperated maps(resized) can be found in `.\maps` folder. Since the maps were automatically collected from media url in tweets' metadata, you may find a few 'noise' or duplicate images.
 
 ![images](./mapwall_white_64.jpg)
 
