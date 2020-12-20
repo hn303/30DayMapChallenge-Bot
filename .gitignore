@@ -3,8 +3,5 @@ credential.yaml
 *.yaml
 *.ipynb
 mapwall.ipynb
-maps/origin/
-maps/resize_extra/
-maps/resize_white/
-maps/resize_white_extra/
-maps/resize/
+maps/
+*.zip
