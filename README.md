@@ -34,19 +34,18 @@ Top favorited tweets refers to the tweets get many `liked`/:heart:. The faviorit
 | |||December 2020||| |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | **Mon** | **Tue** | **Wed** | **Thu** | **Fri** | **Sat** | **Sun** |
-|     |     |     |     |     |     | **1** <br/>**[Points](day1.md)**|
-| **2** <br/>**[Lines](day2.md)**   |**3** <br/>**[Polygons](day3.md)**   |**4** <br/>**[Hexagons](day4.md)**    | **5** <br/>**[Blue](day05_Blue.md)**   | **6** <br/>**[Red](day06_Red.md)**   | **7** <br/>**[Green](day07_Green.md)**  | **8** <br/>**[Yellow](day08_Yellow.md)**  |
-| **9** <br/>**[Monochrome](day09_Monochrome.md)** | **10** <br/>**[Grid](day10_Grid.md)**  | **11** <br/>**[3D](day11_3D.md)**  | **12** <br/>**[No GIS](day12_Map%20not%20made%20with%20GIS%20software.md)**  | **13** <br/>**[Raster](day13_Raster.md)**  | **14** <br/>**[Climate change](day14_Climate%20change.md)**  |  **15** <br/>**[Connections](day15_Connections.md)**  |
-|  **16** <br/>**[Island(s)](day16_Island(s).md)**  |   **17** <br/>**[Historical map](day17_Historical%20map.md)**   |  **18** <br/>**[Landuse](day18_Landuse.md)**    |   **19** <br/>**[NULL](day19_NULL.md)**   |   **20** <br/> **[Population](day20_Population.md)**  |   **21** <br/> **[Water](day21_Water.md)**  |  **22** <br/>**[Movement](day22_Movement.md)**    |
-|   **23** <br/>**[Boundaries](day23_Boundaries.md)**   |   **24** <br/>**[Elevation](day24_Elevation.md)**   |   **25** <br/>**[COVID-19](day25_COVID-19.md)**   |   **26** <br/>**[Map with a new tool](day26_Map%20with%20a%20new%20tool.md)**   |   **27** <br/>**[Big or small data](day27_Big%20or%20small%20data.md)**   |   **28** <br/>**[Non-geographic map](day28_Non-geographic%20map.md)**   |  **29** <br/>**[Globe](day29_Globe.md)**    |
-|  **30** <br/> **[A map](day30_A%20map.md)**   |     |     |     |     |     |     |
-
+|     |     |     |     |     |     | **1** <br/>**[Points](daily_md/day1.md)**|
+| **2** <br/>**[Lines](daily_md/day2.md)**   |**3** <br/>**[Polygons](daily_md/day3.md)**   |**4** <br/>**[Hexagons](daily_md/day4.md)**    | **5** <br/>**[Blue](daily_md/day05_Blue.md)**   | **6** <br/>**[Red](daily_md/day06_Red.md)**   | **7** <br/>**[Green](daily_md/day07_Green.md)**  | **8** <br/>**[Yellow](daily_md/day08_Yellow.md)**  |
+| **9** <br/>**[Monochrome](daily_md/day09_Monochrome.md)** | **10** <br/>**[Grid](daily_md/day10_Grid.md)**  | **11** <br/>**[3D](daily_md/day11_3D.md)**  | **12** <br/>**[No GIS](daily_md/day12_Map%20not%20made%20with%20GIS%20software.md)**  | **13** <br/>**[Raster](daily_md/day13_Raster.md)**  | **14** <br/>**[Climate change](daily_md/day14_Climate%20change.md)**  |  **15** <br/>**[Connections](daily_md/day15_Connections.md)**  |
+|  **16** <br/>**[Island(s)](daily_md/day16_Island(s).md)**  |   **17** <br/>**[Historical map](daily_md/day17_Historical%20map.md)**   |  **18** <br/>**[Landuse](daily_md/day18_Landuse.md)**    |   **19** <br/>**[NULL](daily_md/day19_NULL.md)**   |   **20** <br/> **[Population](daily_md/day20_Population.md)**  |   **21** <br/> **[Water](daily_md/day21_Water.md)**  |  **22** <br/>**[Movement](daily_md/day22_Movement.md)**    |
+|   **23** <br/>**[Boundaries](daily_md/day23_Boundaries.md)**   |   **24** <br/>**[Elevation](daily_md/day24_Elevation.md)**   |   **25** <br/>**[COVID-19](daily_md/day25_COVID-19.md)**   |   **26** <br/>**[Map with a new tool](daily_md/day26_Map%20with%20a%20new%20tool.md)**   |   **27** <br/>**[Big or small data](daily_md/day27_Big%20or%20small%20data.md)**   |   **28** <br/>**[Non-geographic map](daily_md/day28_Non-geographic%20map.md)**   |  **29** <br/>**[Globe](daily_md/day29_Globe.md)**    |
+|  **30** <br/> **[A map](daily_md/day30_A%20map.md)**   |     |     |     |     |     |     |
 
 ### Map Wall
 
-The grid graph (87*87) includes 7569 maps. The seperated maps(resized) can be found in `.\maps` folder. Since the maps were automatically collected from media url in tweets' metadata, you may find a few 'noise' or duplicate images.
+The grid graph (87*87) includes 7569 maps. The seperated maps(resized) can be found in `.\mapwall` folder. Since the maps were automatically collected from media url in tweets' metadata, you may find a few 'noise' or duplicate images.
 
-![images](./mapwall_white_64.jpg)
+![images](mapwall/mapwall_white_64.jpg)
 
 
 Inspiration for the repo came from [Kalle Hallden](https://www.youtube.com/channel/UCWr0mx597DnSGLFk1WfvSkQ).

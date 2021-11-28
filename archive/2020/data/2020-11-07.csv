@@ -1,0 +1,915 @@
+,tweet_id,tweet_text,language,tweet_created_at,retweet,favorite,hashtags,user_id,user_name,user,user_loc,user_follower,friends_count,media,tweet_url
+125,1325225771166818306,"Day 5: Blue
+
+A few days behind and skipping ahead because I can’t think of a better theme for today than this one. 
+
+We did it! We made bad things did happen in Philly...for Trump. 
+
+Congrats Mr. President and Madam Vice President!
+
+#30DayMapChallenge https://t.co/4bRl2qQ7KW",en,2020-11-07 23:57:00,2,1,"[{'text': '30DayMapChallenge', 'indices': [233, 251]}]",240069436,Jessica Hammond,jh550,,24,142,http://pbs.twimg.com/media/EmQl0AwW4AE-__C.jpg,https://t.co/4bRl2qQ7KW
+126,1325219481006854146,"#30DayMapChallenge 7: Green
+#Montreal's Green Line:
+Orthographic view of station-to-station #dataviz animation, integrating #OSRM routing and #LiDAR scans for each station, animated by its GTFS schedule. Rendered in #b3d https://t.co/ZHrzpnOsPS",en,2020-11-07 23:32:00,3,10,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'Montreal', 'indices': [28, 37]}, {'text': 'dataviz', 'indices': [92, 100]}, {'text': 'OSRM', 'indices': [124, 129]}, {'text': 'LiDAR', 'indices': [142, 148]}, {'text': 'b3d', 'indices': [216, 220]}]",2339659308,Tyler Sloan,quorumetrix,"Montréal, Québec",451,701,http://pbs.twimg.com/ext_tw_video_thumb/1325211128230678528/pu/img/MNrv_jkWUQQq7vgQ.jpg,https://t.co/ZHrzpnOsPS
+127,1325219377726312448,"#30DayMapChallenge - Day 7: Green
+
+Ancient Woodlands of Scotland
+
+This map illustrates the Ancient, Long-established and Semi-natural woodlands across Scotland.
+
+The brightness of the woodland is tied to their size in hectares. https://t.co/Me0eXOpp90",en,2020-11-07 23:31:35,4,8,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",12620762,Mike Coats,MikeCoatsDotCom,"Inverness, Scotland",292,1170,http://pbs.twimg.com/media/EmQf_0OWEAAcRyl.jpg,https://t.co/Me0eXOpp90
+128,1325214447594450945,Day 08: yellow. ACT party vote percentage (I haven't updated it for the final results though) by hex electorates (Māori electorates on the right). https://t.co/kvXCt8th8W #30DayMapChallenge https://t.co/SpQjIb5BIk,en,2020-11-07 23:12:00,2,1,"[{'text': '30DayMapChallenge', 'indices': [171, 189]}]",801318008912232449,Nick,nwbort,,5,254,http://pbs.twimg.com/media/EmNDdv-VoAA6zE5.jpg,https://t.co/kvXCt8th8W
+129,1325213425690173441,"Jour 7 du #30DayMapChallenge - Green
+
+Carte représentant le pourcentage de forêt présent dans chaque pays
+
+Données : Wikipedia https://t.co/zeY6cTQvJl",fr,2020-11-07 23:07:56,3,12,"[{'text': '30DayMapChallenge', 'indices': [10, 28]}]",3195365733,Justine Vignat,Junevgt,Paris ,742,251,http://pbs.twimg.com/media/EmQakw8U0AIxH25.jpg,https://t.co/zeY6cTQvJl
+130,1325212786377564163,"#30DayMapChallenge Day 7: Green 🟩 Because if anything, lockdown made me rediscover the parks, forests and creeks in Lewisham - time hurts a bit less if you can dip toes in rivers, run around paths, kick a ball around, pick up leaves and wave at friendly faces from a distance. https://t.co/p88kQomuZy",en,2020-11-07 23:05:24,2,8,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",13844282,Ana Lucía González,anlugonz,London,2123,3623,http://pbs.twimg.com/media/EmQZ3EiUcAAxfIm.jpg,https://t.co/p88kQomuZy
+131,1325211105904390144,#30DayMapChallenge #Day7 Green - my personal green areas as observed in CORINE land use - disappointed as I did not manage to make the map I wanted due to technical difficulties/limitations. Data: https://t.co/zrAJLESIhP  -23days2go https://t.co/mfDXxuUYTM,en,2020-11-07 22:58:43,3,6,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'Day7', 'indices': [19, 24]}]",2574612668,hannes reuter,hireuter,,201,412,http://pbs.twimg.com/media/EmQYF3OXMAILddZ.jpg,https://t.co/zrAJLESIhP
+132,1325211081279754241,"#30DayMapChallenge 
+Day 7 - Green
+Tree Cover Density 2018. 
+
+Forest density in #Aiaraldea and #Gorbeialdea, #BasqueCountry 
+
+Data source: European Environment Agency (EEA) | Esri, HERE, Garmin, (c) OpenStreetMap contributors, and the GIS user community https://t.co/IEjf3VLnV4",en,2020-11-07 22:58:37,1,1,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'Aiaraldea', 'indices': [79, 89]}, {'text': 'Gorbeialdea', 'indices': [94, 106]}, {'text': 'BasqueCountry', 'indices': [108, 122]}]",1132056770,Riesgos Naturales & Medio Ambiente,arriskeus,International,752,1881,http://pbs.twimg.com/media/EmQXvhmUYAAd1yK.jpg,https://t.co/IEjf3VLnV4
+133,1325210521608466434,Finished up day 07 (green) on this fine day.  This time I plotted the streets and parks around where I grew up in Salt Lake City. I was inspired by prints by @thekuhugupta that I saw a few days ago. Code: https://t.co/kDDQjmGpDw #30DayMapChallenge #RStats https://t.co/UD78ZQBSlZ,en,2020-11-07 22:56:24,3,5,"[{'text': '30DayMapChallenge', 'indices': [229, 247]}, {'text': 'RStats', 'indices': [248, 255]}]",2184556843,Mike Schmidt,mikejschmidty,"Dolores, Colorado",114,1261,http://pbs.twimg.com/media/EmQXA9fVMAI9A_1.jpg,https://t.co/kDDQjmGpDw
+134,1325209964739141633,"🟩⚡ Green/Renewable Energy
+
+This map shows the proportion of electricity that comes from green/renewable technologies by country
+
+#30DayMapChallenge Day 7 #Green
+Made with #QGIS #Maps #Renewable #Energy https://t.co/kDCc7xxxeE",en,2020-11-07 22:54:11,2,4,"[{'text': '30DayMapChallenge', 'indices': [129, 147]}, {'text': 'Green', 'indices': [154, 160]}, {'text': 'QGIS', 'indices': [171, 176]}, {'text': 'Maps', 'indices': [177, 182]}, {'text': 'Renewable', 'indices': [183, 193]}, {'text': 'Energy', 'indices': [194, 201]}]",1154257288158298112,geoscéntricos,geoscentricos,Ciudad de México,200,174,http://pbs.twimg.com/media/EmQXJMOVoAEIJf5.jpg,https://t.co/kDCc7xxxeE
+135,1325209891351506944,"#30DayMapChallenge Day 6: Red 🟥 *belated I had read about the 'pink sea' in the Salinas de Galerazamba in Colombia so found the Landsat 8 image in USGS Earth Explorer and this brilliant tutorial to tweak colours https://t.co/HwNlDIv3o7 
+Does look beautiful when zoomed/pixelated https://t.co/34Wf7kM9qn",en,2020-11-07 22:53:53,1,1,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",13844282,Ana Lucía González,anlugonz,London,2123,3623,http://pbs.twimg.com/media/EmQXJ31UcAMG6AR.png,https://t.co/HwNlDIv3o7
+136,1325209147567206401,"#30DayMapChallenge Day7:#Green
+🎨 Ibn Ḥawqal
+🖼 Kitāb Ṣūrat al-arḍ
+⏳1086
+🏛@topkapi_sarayi 
+Una de las primeras representaciones del Mediterráneo. El color #verde era utilizado para representar el mar. La península ibérica, izquierda, aparece con gran detalle https://t.co/jY5S2a8RvU",ca,2020-11-07 22:50:56,1,1,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'Green', 'indices': [24, 30]}, {'text': 'verde', 'indices': [153, 159]}]",92787154,Esteban Escolano Molin,e2molin,"Madrid, Spain, Europe",448,1044,http://pbs.twimg.com/media/EmQWsJfVcAEHDn2.jpg,https://t.co/jY5S2a8RvU
+137,1325206683992383489,"Day 7 (Green) of the #30DayMapChallenge
+
+Courtesy: @ifuckinglovemaps (Instagram) This world map shows the pounds of municipal solid waste generated per capita in each country, daily
+Source: https://t.co/3838eB2OUZ
+#NovemberMapChallenge 
+#MappyChallenge 
+#WasteMap
+#theGISgirl 
+7|1 https://t.co/v458wjHhRU",en,2020-11-07 22:41:09,1,3,"[{'text': '30DayMapChallenge', 'indices': [21, 39]}, {'text': 'NovemberMapChallenge', 'indices': [214, 235]}, {'text': 'MappyChallenge', 'indices': [237, 252]}, {'text': 'WasteMap', 'indices': [254, 263]}, {'text': 'theGISgirl', 'indices': [264, 275]}]",1269335161335959552,the GIS girl,TheGISGirl,,37,145,http://pbs.twimg.com/media/EmQUdAbXEAAEyku.jpg,https://t.co/3838eB2OUZ
+139,1325204000875098112,#30DayMapChallenge Today is this GREEN and pleasant land... of sheep. https://t.co/HKhNPuyCCI,en,2020-11-07 22:30:29,26,110,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",734297005846081536,Steve Carver,LandEthics,"Yorkshire, England",1911,440,http://pbs.twimg.com/media/EmQR_xfXMAMKEmi.jpg,https://t.co/HKhNPuyCCI
+140,1325202892265959426,"Day 7 of #30DayMapChallenge / Green
+
+Global rainfall erosivity. 
+For assessments of soil erosion by water, flood risk and natural hazard prevention.
+Measurement Unit: MJ mm / ha h yr
+
+Data from #JRC #ESDAC 
+Made with #ArcGIS. https://t.co/8EM1gYyw8Z",en,2020-11-07 22:26:05,2,9,"[{'text': '30DayMapChallenge', 'indices': [9, 27]}, {'text': 'JRC', 'indices': [194, 198]}, {'text': 'ESDAC', 'indices': [199, 205]}, {'text': 'ArcGIS', 'indices': [217, 224]}]",3494716935,Eliška Vlčková,vlckel,Česká republika,131,147,http://pbs.twimg.com/media/EmQQhCXVkAELmgi.jpg,https://t.co/8EM1gYyw8Z
+141,1325202478581821440,"A commemorative map of the time last year that I accidentally made @Courtby hike in Toms.
+
+#30DayMapChallenge Day 7- Green https://t.co/rvpI9f0cYv",en,2020-11-07 22:24:26,1,5,"[{'text': '30DayMapChallenge', 'indices': [91, 109]}]",579246246,Cas,cas_maps,,180,1036,http://pbs.twimg.com/media/EmQQLl5XcAAo3F8.jpg,https://t.co/rvpI9f0cYv
+142,1325202367990562817,"#30DayMapChallenge Día 7: verde. Áreas verdes  y cerros isla en Santiago de Chile. 🚵
+
+¿Sabían que pueden usar geom_point(shape = ""unicode"") para poner otras formas que no sean las tradicionales? Acá usé shape = ""\u1404""
+
+#RStats #rspatial
+
+Código: https://t.co/UhjeKRHIdK https://t.co/Fs3LOCilzp",es,2020-11-07 22:24:00,4,11,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'RStats', 'indices': [221, 228]}, {'text': 'rspatial', 'indices': [229, 238]}]",30381129,Steph Orellana Bello,sporella,Chile,302,191,http://pbs.twimg.com/media/EmPn6RnUYAIgELQ.png,https://t.co/UhjeKRHIdK
+143,1325200646937698305,"#30DayMapChallenge Day 7, Green: Edinburgh as defined by its trees. These are just the larger trees under the care of the City of Edinburgh Council.
+
+Created in #QGIS with data from @OrdnanceSurvey and @Edinburgh_CC https://t.co/bgWdiEhqOv",en,2020-11-07 22:17:09,4,24,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'QGIS', 'indices': [161, 166]}]",381118369,Tom Armitage,MapNav_Tom,"Edinburgh, Scotland",2577,947,http://pbs.twimg.com/media/EmQOy5nXYAAiPfp.jpg,https://t.co/bgWdiEhqOv
+145,1325199972812382208,"#30DayMapChallenge Day 7 - Green
+
+Apple orchards in Asturias and Cider County (Data: https://t.co/0T1P3Uh2bE) https://t.co/zCZoYBDV2W",en,2020-11-07 22:14:29,1,6,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",62926974,Tomasral,tomasral,Asturies,78,426,http://pbs.twimg.com/media/EmQOV0QXUAAU5nY.jpg,https://t.co/0T1P3Uh2bE)
+146,1325199187294605314,"Every red &amp; blue map on Twitter timeline: Biden vs. Trump
+Me: Blueberry vs.(?) Strawberry
+
+(#30DayMapChallenge work in progress...) https://t.co/IBmj2Urh9e",en,2020-11-07 22:11:21,1,2,"[{'text': '30DayMapChallenge', 'indices': [96, 114]}]",985921631439568896,Kenneth Wong,Kenneth_KHW,Hong Kong,45,131,http://pbs.twimg.com/media/EmQNooGVMAciLzQ.jpg,https://t.co/IBmj2Urh9e
+147,1325198606404513795,"#30DayMapChallenge Day 7 | Green
+
+Trees in Vienna.
+
+First image: trees in their actual location
+Second image: displaced in concentric circles
+Darker trees are older; circle diameter = tree height
+
+Data: https://t.co/mwcsrIkCmp https://t.co/ps5h72CqNg",en,2020-11-07 22:09:03,1,4,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",14707170,Unnecessarily sesquipedalian 🚡,MartinBangratz,Cologne/Aachen/Innsbruck,1156,1159,http://pbs.twimg.com/media/EmQMVdmVcAQiIAS.jpg,https://t.co/mwcsrIkCmp
+148,1325195886356361217,"Which region is more swampy?
+Volyn or Chernihiv
+#30DayMapChallenge Day 07: Green
+Tools: #QGIS data: #OpenStreetMap contributors https://t.co/8pcxP0df8Y",en,2020-11-07 21:58:14,4,27,"[{'text': '30DayMapChallenge', 'indices': [48, 66]}, {'text': 'QGIS', 'indices': [88, 93]}, {'text': 'OpenStreetMap', 'indices': [100, 114]}]",14992557,gontsa,gontsa,"Cherkasy, Ukraine",4510,1411,http://pbs.twimg.com/media/EmQKVOoXYAAFrRj.jpg,https://t.co/8pcxP0df8Y
+149,1325192972460126211,"#30DayMapChallenge 
+
+Jour 07 : le Vert
+
+🟩🟢🌍🗺️🦟
+
+Impact du paludisme en Angola
+
+@CartoMag n°48 , 2018
+https://t.co/q7o1ERxHMf https://t.co/oYXONQZdVa",fr,2020-11-07 21:46:40,1,6,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",14848469,Dario Ingiusto,darioingiusto,"Paris, France",1899,4468,http://pbs.twimg.com/media/EmQHgC0UcAE78IB.jpg,https://t.co/q7o1ERxHMf
+150,1325192606666645505,"Day 7 of #30DayMapChallenge #green: map of Scottish woodland. I share the #dream of a #wilderscotland, one where some of these gaps are filled with #nativewoodland #species. @RewildScotland @RewildingB @RewildingEurope @VisitScotland (Data source: #scottishnaturalheritage) https://t.co/5VCjHUSn74",en,2020-11-07 21:45:12,0,0,"[{'text': '30DayMapChallenge', 'indices': [9, 27]}, {'text': 'green', 'indices': [28, 34]}, {'text': 'dream', 'indices': [74, 80]}, {'text': 'wilderscotland', 'indices': [86, 101]}, {'text': 'nativewoodland', 'indices': [148, 163]}, {'text': 'species', 'indices': [164, 172]}, {'text': 'scottishnaturalheritage', 'indices': [248, 272]}]",1322438051533066240,Emma Hall,elmalovestrees,Germany,26,100,http://pbs.twimg.com/media/EmQG6U0WEAAbm4q.jpg,https://t.co/5VCjHUSn74
+151,1325192529470349312,"Day 7 of #30DayMapChallenge - Green
+
+Did you know just how much greenspace our capital city, London, has? Here I explore what percentage of the area of each London Borough is greenspace!
+
+Made on @ArcGISPro using @OrdnanceSurvey Open Greenspace &amp; Boundary Line. https://t.co/sxCJZETnYR",en,2020-11-07 21:44:54,1,2,"[{'text': '30DayMapChallenge', 'indices': [9, 27]}]",863722747,Tim Rodaway,TimRodaway,"Newcastle Upon Tyne, England",95,285,http://pbs.twimg.com/media/EmQGORxUcAIGpny.jpg,https://t.co/sxCJZETnYR
+152,1325191309947097089,#30DayMapChallenge day 7: 'Green'. The Emerald Isle as an emerald. https://t.co/H9SZQ93BKU,en,2020-11-07 21:40:03,1,3,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",21752435,Neil Charles,neilcharles_uk,Leeds,4423,1416,http://pbs.twimg.com/media/EmQGcnzVoAQX91O.jpg,https://t.co/H9SZQ93BKU
+153,1325189738966511616,"#30DayMapChallenge Day 7: Green.
+
+Green energy: locations of sustainable energy power plants (hydro, wind, solar &amp; biomass). Glow is determined by the plant's capacity (MW).
+
+Source: The Global Power Plant Database
+
+Code: https://t.co/hO3gHtk4R2 https://t.co/dxN9WqDlOc",en,2020-11-07 21:33:49,1,6,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",314881866,Joe Davies,JoeWDavies,Cardiff / Madrid / Luxembourg,158,175,http://pbs.twimg.com/media/EmQErnnVkAEuSMl.jpg,https://t.co/hO3gHtk4R2
+154,1325187559136260096,"#30DayMapChallenge Day 7 and 6 (Green and Red)
+El primer mapa es una adivinanza: que paises condenan el embargo a Cuba 😉? (riddle map: which countries condemn USA embargo against Cuba?)
+El mapa red: centros clandestinos de detención en Ciudad de Buenos Aires. https://t.co/CgA1sUydqu",es,2020-11-07 21:25:09,1,6,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",253102706,Martin,martinfernandoo,Buenos Aires,390,1157,http://pbs.twimg.com/media/EmQBEFtUYAEnkg6.jpg,https://t.co/CgA1sUydqu
+155,1325187489024278530,"Starting local on the @trillionTreesIn...thanks to Berkeley's open data program, can quickly visualize potential planting locations in #omnisci.  Trying to catch up in the #30DayMapChallenge! https://t.co/x5wy8bImHe",en,2020-11-07 21:24:52,1,3,"[{'text': 'omnisci', 'indices': [135, 143]}, {'text': '30DayMapChallenge', 'indices': [172, 190]}]",770424786,Michael Flaxman,geodesigntech,San Francsico,120,297,http://pbs.twimg.com/media/EmQASsWVkAAokkJ.jpg,https://t.co/x5wy8bImHe
+156,1325187361680945152,"#30DayMapChallenge green
+
+Tehuacán-Cuicatlán y otras Áreas Naturales Protegidas
+
+#BiósferaTehuacánCuicatlán. https://t.co/t8DKfpkZE8",es,2020-11-07 21:24:22,2,5,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'BiósferaTehuacánCuicatlán', 'indices': [81, 107]}]",358606269,El Diego,Kantzakata,"Fonetitlán, Distrito Federal",84,231,http://pbs.twimg.com/media/EmQCms6U0AEf5ZB.jpg,https://t.co/t8DKfpkZE8
+158,1325186958759374848,"Day6&amp;7 #30DayMapChallenge Trying to catch up so a 2 for 1. A map I made for my thesis researching urban green spaces in Utrecht, using NDVI to classify urban greenery. So that makes (infra)#red and #green? For the classification I used Sentinel-2 imagery and the QGIS SCP plugin. https://t.co/rSVYbfmHXf",en,2020-11-07 21:22:46,2,1,"[{'text': '30DayMapChallenge', 'indices': [11, 29]}, {'text': 'red', 'indices': [193, 197]}, {'text': 'green', 'indices': [202, 208]}]",138810115,Pieter,PieterCappon,,12,146,http://pbs.twimg.com/media/EmQCUfKXMAInFwq.jpg,https://t.co/rSVYbfmHXf
+159,1325184838962311168,"#30DayMapChallenge  Green
+#KeepingItSimple 1 data set only https://t.co/DYOulPSCk8",en,2020-11-07 21:14:21,1,7,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'KeepingItSimple', 'indices': [26, 42]}]",404240734,Barbara Kent,SDGeoGirl,,112,279,http://pbs.twimg.com/media/EmQAlm0UYAAIX8y.jpg,https://t.co/DYOulPSCk8
+160,1325184680300306432,"#30DayMapChallenge Green Day 7: 
+Argh! Pirate map of East Anglia under 12 m. Sea Level Rise modeled from @OrdnanceSurvey  topography 
+HT @John_M_Nelson  Tattered Map Sandwich https://t.co/V7pjSKn1E9",en,2020-11-07 21:13:43,1,6,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",25663399,Andrew Zolnai,azolnai,"Cambridge, UK",697,967,http://pbs.twimg.com/media/EmP_kzPWEAENugD.jpg,https://t.co/V7pjSKn1E9
+161,1325181536673566723,"We've had a week of #30DayMapChallenge so perhaps it's time for a gallery?
+https://t.co/P8S7r6hbrF
+So far there are 1493 maps, and I have 789 tweets in my backlog. Crowdsourcing of metadata more than welcome! https://t.co/xpeQXKAPhX",en,2020-11-07 21:01:13,8,30,"[{'text': '30DayMapChallenge', 'indices': [20, 38]}]",33788841,suǝbbıɹɟ pıʌɐp,dakvid,"Wellington, New Zealand",361,453,http://pbs.twimg.com/media/EmP9HhVU8AE_gXl.jpg,https://t.co/P8S7r6hbrF
+162,1325180980185935872,"#30DayMapChallenge 7. Green.
+
+Lysebotn, Lysevegen and Kjærag, Norway. Visualized in CesiumJS. Imagery: Norge i Bilder. Terrain: Kartverket via home-made heightmap (should upgrade to quantized-mesh) proxy. https://t.co/vatHo7HkSP",en,2020-11-07 20:59:01,5,10,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",44981447,Tore Halset,torehalset,"Stavanger, Norway",286,736,http://pbs.twimg.com/media/EmP87PFWMAAt54X.jpg,https://t.co/vatHo7HkSP
+163,1325176916198895616,My contribution to day 7 of the #30daymapchallenge. A green map of #Mannheim. I used #cran #rstats packages tmap and osmplotr. The data is downloaded via the https://t.co/jAdRRekgiI from #Openstreetmap https://t.co/c3Ow8D8zEb,en,2020-11-07 20:42:52,2,3,"[{'text': '30daymapchallenge', 'indices': [32, 50]}, {'text': 'Mannheim', 'indices': [67, 76]}, {'text': 'cran', 'indices': [85, 90]}, {'text': 'rstats', 'indices': [91, 98]}, {'text': 'Openstreetmap', 'indices': [187, 201]}]",3331095159,Jan-Philipp Kolb,JanPhilippKolb,,97,309,http://pbs.twimg.com/media/EmP5DypXYAEBon4.png,https://t.co/jAdRRekgiI
+164,1325175058541678593,"Day 8 (yellow) of the #30DayMapChallenge. I have walking distance estimates for RV Road Metro Station (its on the yellow line) using two methods: 500m radius &amp; route based. Also have a similar map for the MG Road Station for comparison.
+#Bengaluru #bloremapped #maps #rspatial https://t.co/FJcTtv2P0q",en,2020-11-07 20:35:29,2,10,"[{'text': '30DayMapChallenge', 'indices': [22, 40]}, {'text': 'Bengaluru', 'indices': [241, 251]}, {'text': 'bloremapped', 'indices': [252, 264]}, {'text': 'maps', 'indices': [265, 270]}, {'text': 'rspatial', 'indices': [271, 280]}]",1222519447165886465,Anirudh,_anirudhgovind,India,121,1512,http://pbs.twimg.com/media/EmP3UA-UcAEWCSY.png,https://t.co/FJcTtv2P0q
+165,1325175051654672386,It's fair to say week 1 of #30DayMapChallenge has been https://t.co/TeeFacQ2AO,en,2020-11-07 20:35:27,3,13,"[{'text': '30DayMapChallenge', 'indices': [27, 45]}]",508701001,Paul Naylor,cartocraftsman,"Southampton, England",1144,1056,http://pbs.twimg.com/tweet_video_thumb/EmP3rjEVMAApvC0.jpg,https://t.co/TeeFacQ2AO
+166,1325170352037769216,"Día 5, 6, 7: Azul - Rojo - Verde #30DayMapChallenge 
+
+Aplicando un combo para ponerme al corriente.
+
+Cobertura de TDT canal 31 en ña #CDMX, cada tono de color representa una intensidad de campo eléctrico.
+
+#colores @JBALVIN 
+
+Software: #SPLAT, #python, #GoogleMaps https://t.co/kZWnN1t5a1",es,2020-11-07 20:16:47,2,5,"[{'text': '30DayMapChallenge', 'indices': [33, 51]}, {'text': 'CDMX', 'indices': [133, 138]}, {'text': 'colores', 'indices': [206, 214]}, {'text': 'SPLAT', 'indices': [236, 242]}, {'text': 'python', 'indices': [244, 251]}, {'text': 'GoogleMaps', 'indices': [253, 264]}]",72170599,Mario Hernández,armiok,Ecatepec de Morelos,555,146,http://pbs.twimg.com/media/EmPzJQAUcAMKQmn.jpg,https://t.co/kZWnN1t5a1
+167,1325168919825457160,#30DayMapChallenge Día 6 / #Mapa de casos nuevos de #COVIDー19 en #España 🇪🇸 registrados del 23 de octubre al 5 de noviembre de 2020. Hecho en #QGIS https://t.co/FK3InNUevB,es,2020-11-07 20:11:05,1,3,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'Mapa', 'indices': [27, 32]}, {'text': 'COVIDー19', 'indices': [52, 61]}, {'text': 'España', 'indices': [65, 72]}, {'text': 'QGIS', 'indices': [142, 147]}]",230955495,Quique Montiel,EnriquePablito,México,108,374,http://pbs.twimg.com/media/EmPxqOBU0AQqarO.jpg,https://t.co/FK3InNUevB
+168,1325168725562023937,"#30DayMapChallenge Day 7: Green. Drawing a 20 km buffer around each Finnish municipal center, these 6 are having most protected or wilderness areas (ha) within the buffer. Rauma and Merikarvia along the western coastline and its protected sea areas, all others in Lapland. https://t.co/8FhPDbOfU3",en,2020-11-07 20:10:19,1,4,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",3720386117,Teemu Saloriutta,TeemuSaloriutta,"Järvenpää, Suomi",472,578,http://pbs.twimg.com/media/EmPwJi_U0AAaRWU.png,https://t.co/8FhPDbOfU3
+169,1325167109681246214,Nature conservation in Estonia #30DayMapChallenge https://t.co/1xwms4hitA,en,2020-11-07 20:03:54,1,4,"[{'text': '30DayMapChallenge', 'indices': [31, 49]}]",40151250,Tõnu Oja,tonuoja,,18,25,http://pbs.twimg.com/media/EmPwZI_WEAAtMyc.jpg,https://t.co/1xwms4hitA
+170,1325167060494782465,"#Day7 : Green
+
+Ce challenge est vraiment l'occasion pour moi de découvrir toutes les régions de mon pays à travers les données 😅
+
+Les Aires protégées du département de l'Atacora
+
+#LeDay6Vient
+#30DayMapChallenge
+Données venant du Géoportail @IGNBénin https://t.co/l1ovZrhULa https://t.co/UD28akoUne",fr,2020-11-07 20:03:42,1,3,"[{'text': 'Day7', 'indices': [0, 5]}, {'text': 'LeDay6Vient', 'indices': [179, 191]}, {'text': '30DayMapChallenge', 'indices': [192, 210]}]",1076222694,Lionel,lioneltodome,,54,187,http://pbs.twimg.com/media/EmPwZgxU4AAfnyS.jpg,https://t.co/l1ovZrhULa
+171,1325166976105238530,"#30DayMapChallenge day 7: green (with a tiny bit of blue 😁) Whitestown, On the Cooley Peninsula, Ireland.  @JoeBiden's ancestral home and one of the nicest pubs on the Island, Lily Finnegans. #Election2020results #BidenHarris2020 https://t.co/Lchpzzmbj8",en,2020-11-07 20:03:22,5,30,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'Election2020results', 'indices': [192, 212]}, {'text': 'BidenHarris2020', 'indices': [213, 229]}]",3308382005,Conor Graham - Geography Jedi 🏞️🛰️⛰️🌋🌎🌏🌍,GeoConor,Northern Ireland,2346,5004,http://pbs.twimg.com/media/EmPuw5xVkAMo56U.jpg,https://t.co/Lchpzzmbj8
+172,1325166764624285696,"#30daymapchallenge 7/30: Green. A dense tropical jungle from “beyond the game board,” made in the found texture style of my many D&amp;D maps. https://t.co/ynfKbBzB2J",en,2020-11-07 20:02:31,1,2,"[{'text': '30daymapchallenge', 'indices': [0, 18]}]",1224107513131327488,keirtography,keirtography,"Ventura, CA",53,190,http://pbs.twimg.com/media/EmPwJX2UcAE39dJ.jpg,https://t.co/ynfKbBzB2J
+173,1325166640632262657,"#30DayMapChallenge Day 7 #Green
+
+Emphasizing the forests of Western Ghats, India
+Modified @gartn001 's #Blue script
+Script - https://t.co/thrUEhWuBZ
+
+Data - #Sentinel2, #EarthEngine https://t.co/HkJ6ZFOZ2H",en,2020-11-07 20:02:02,3,3,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'Green', 'indices': [25, 31]}, {'text': 'Blue', 'indices': [103, 108]}, {'text': 'Sentinel2', 'indices': [157, 167]}, {'text': 'EarthEngine', 'indices': [169, 181]}]",2478243950,Sharkteeth Slytherin,Sharkteeth11,,39,156,http://pbs.twimg.com/media/EmPuoqbVcAIHsWB.jpg,https://t.co/thrUEhWuBZ
+174,1325166278298927104,"#Day5 : Blue
+
+Zones humides dans le département de l'Ouémé.
+Dommage @Esri_France que dans ArcGISbPro il n'y ait plus moyen de faire des diagrammes Pie Chart.
+
+#30DayMapChallenge
+Données venant du Géoportail @IGNBénin https://t.co/l1ovZr0jmA et diagramme fait avec @f_l_o_u_r_i_s_h https://t.co/7Pq1lXIzgv",fr,2020-11-07 20:00:35,1,4,"[{'text': 'Day5', 'indices': [0, 5]}, {'text': '30DayMapChallenge', 'indices': [159, 177]}]",1076222694,Lionel,lioneltodome,,54,187,http://pbs.twimg.com/media/EmPvY-PWEAAOGOt.jpg,https://t.co/l1ovZr0jmA
+175,1325165733966475265,"#30DayMapChallenge - Day 7 - Something Green
+India has over 10,500 forests spread across an area of over 700,000 Sq. Km. Southern and Eastern parts of India have a noticeably higher concentration of forests. 
+Created using #Python + #MatPlotLib https://t.co/WozEVf245F",en,2020-11-07 19:58:26,2,6,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'Python', 'indices': [223, 230]}, {'text': 'MatPlotLib', 'indices': [233, 244]}]",867502710131752960,Vivek Parashar,vivekparasharr,,6,21,http://pbs.twimg.com/media/EmPvNKZUcAMH6ry.jpg,https://t.co/WozEVf245F
+176,1325165290972356609,"#30DayMapChallenge Día 7: Verde. 
+Esta es la distribución de #reptiles 🐍🐊 en el estado de Jalisco. Elaborado con información de la @Conabio https://t.co/p6a2bVSFVp",es,2020-11-07 19:56:40,5,14,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'reptiles', 'indices': [61, 70]}]",2239825712,IIEG Jalisco,IIEGJ,"Calzada de los Pirules #71, Ciudad Granja, Zapopan, Jalisco",4753,0,http://pbs.twimg.com/media/EmPuys3W8AUCIgx.jpg,https://t.co/p6a2bVSFVp
+177,1325165127784525824,"#Day4 : les hexagones.
+
+Densité de la population dans le département de l'Alibori.
+Je découvre avec admiration l'outil Générer une tessellation de #ArcGIS_Pro
+
+#30DayMapChallenge 
+Données venant du Géoportail @IGNBénin https://t.co/l1ovZr0jmA et @InsaeBénin https://t.co/ki19G7yDTK",fr,2020-11-07 19:56:01,1,1,"[{'text': 'Day4', 'indices': [0, 5]}, {'text': 'ArcGIS_Pro', 'indices': [147, 158]}, {'text': '30DayMapChallenge', 'indices': [160, 178]}]",1076222694,Lionel,lioneltodome,,54,187,http://pbs.twimg.com/media/EmPunQxUYAIaJoW.png,https://t.co/l1ovZr0jmA
+178,1325164309270339585,"#Day3 : les polygones.
+
+Equipements sportifs à Cotonou.  
+
+Le moins qu'on puisse dire c'est qu'il faut beaucoup plus d'équipements sportifs dans la principale ville du #bj229 
+#30DayMapChallenge 
+Données venant de @OSMBenin https://t.co/s6yzQmwoNo",fr,2020-11-07 19:52:46,1,1,"[{'text': 'Day3', 'indices': [0, 5]}, {'text': 'bj229', 'indices': [168, 174]}, {'text': '30DayMapChallenge', 'indices': [176, 194]}]",1076222694,Lionel,lioneltodome,,54,187,http://pbs.twimg.com/media/EmPt34DXcAAe8RM.jpg,https://t.co/s6yzQmwoNo
+179,1325162273220915201,"I'm a few days behind on #30DayMapChallenge but I'm trying to catch up! I'll keep it simple.
+
+~ Blue: global distribution of cold-water coral 
+
+~ Red: global distribution of coral reefs
+
+Data from @unepwcmc https://t.co/truNwI0c9U",en,2020-11-07 19:44:40,7,44,"[{'text': '30DayMapChallenge', 'indices': [25, 43]}]",527879669,Irene de la Torre,inari_ta,Madrid / London,1275,1344,http://pbs.twimg.com/media/EmPrhEGVkAA6P1E.png,https://t.co/truNwI0c9U
+180,1325161824338186241,"Yeah, well, it isn't like anything else is happening, so day 7 of #30DayMapChallenge .  Green. https://t.co/3X1CNYvXT6",en,2020-11-07 19:42:53,1,6,"[{'text': '30DayMapChallenge', 'indices': [66, 84]}]",230856587,Ivo Wengraf,iwengraf,"Higham, Kent",362,921,http://pbs.twimg.com/media/EmPrl1kWMAAo0oY.jpg,https://t.co/3X1CNYvXT6
+181,1325161071607361536,"For Day 7 (green) of the #30DayMapChallenge, I offer this map of eagle movement off the coast of British Columbia, Canada. Made with @Mapbox thanks to data collected by the @HWildlife Foundation. 
+
+https://t.co/jsOJXCRQai https://t.co/uHuIyqpq0L",en,2020-11-07 19:39:54,3,13,"[{'text': '30DayMapChallenge', 'indices': [25, 43]}]",820835432686637056,Hannah Ker,hannahker11,,230,392,http://pbs.twimg.com/tweet_video_thumb/EmPp323VgAkHp0e.jpg,https://t.co/jsOJXCRQai
+182,1325160999897362437,"Day 7 of #30DayMapChallenge - Green
+Map of #Dresden, highlighting forests, grasslands and meadows. Made with R using the packages rgdal + ggplot2 + ggdark. Data source: https://t.co/9nzIoS8589 https://t.co/PHYV58kI18",en,2020-11-07 19:39:37,1,2,"[{'text': '30DayMapChallenge', 'indices': [9, 27]}, {'text': 'Dresden', 'indices': [43, 51]}]",2593554955,Kapazitätsdiode,varaktor,,26,182,http://pbs.twimg.com/media/EmPqjnWXcAAWWQE.png,https://t.co/9nzIoS8589
+183,1325156915031240704,"one final one of these, this time with the lights off because it's dark here now
+
+(this #30DayMapChallenge is quite a good way of getting us to look at the world in new ways, so thanks to @tjukanov for his inspiration, and all the cool stuff people have created) https://t.co/jEGKU1XsEo",en,2020-11-07 19:23:23,3,16,"[{'text': '30DayMapChallenge', 'indices': [88, 106]}]",343928585,Alasdair Rae,undertheraedar,"Sheffield, England",18627,3419,http://pbs.twimg.com/tweet_video_thumb/EmPmOWhVMAA82G-.jpg,https://t.co/jEGKU1XsEo
+184,1325156328398942209,"Day 7 of the #30DayMapChallenge: Green
+
+Fishing boat movement patterns off the coast of Vancouver from 2009 to 2015, in the @omnisci AIS shipping demo. 11.2 billion records!
+
+Source: https://t.co/n7OHIxQ4jo
+Live demo: https://t.co/WgsMVkIAIF https://t.co/KwEkO93wCO",en,2020-11-07 19:21:03,4,18,"[{'text': '30DayMapChallenge', 'indices': [13, 31]}]",265817210,Todd Mostak,ToddMostak,"San Francisco, CA",1818,555,http://pbs.twimg.com/tweet_video_thumb/EmPmOhyVkAAKlbl.jpg,https://t.co/n7OHIxQ4jo
+185,1325155508232224769,"Day 7 of the #30DayMapChallenge: Green. A quick one for the weekend - beautifully geometric fields in the Nile valley, Egypt. https://t.co/2g0CnV7n8I",en,2020-11-07 19:17:48,2,3,"[{'text': '30DayMapChallenge', 'indices': [13, 31]}]",1033774266880282624,Strath Slater,StrathSlater,"Edinburgh, Scotland",60,99,http://pbs.twimg.com/media/EmPl2kuWEAErq1M.jpg,https://t.co/2g0CnV7n8I
+186,1325153487680794631,"Guess I should get on the board with #30DayMapChallenge Day 4 (hexagons). An interactive map of NZ electorate wins by party.
+https://t.co/stpo65DGKI https://t.co/BikzHbLdl2",en,2020-11-07 19:09:46,1,0,"[{'text': '30DayMapChallenge', 'indices': [37, 55]}]",33788841,suǝbbıɹɟ pıʌɐp,dakvid,"Wellington, New Zealand",361,453,http://pbs.twimg.com/media/EmPkDGVVMAAYA0f.png,https://t.co/stpo65DGKI
+187,1325153233145303040,"#30DayMapChallenge 7. diena. Zaļš. Latvijas valsts mežos ir vairāk nekā 250 dabas takas, dažu soļu līdz teju 30km garumā. Lai arī takas ir visur un varētu staigāt arī ārpus tām, pagājušajā nedēļā Viesatā un šodien Ragakāpā nebija īsti, kur mašīnu nolikt. https://t.co/POqw5PhBNJ",lv,2020-11-07 19:08:45,2,6,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",137107982,Zane,atdodkonfektes,,131,119,http://pbs.twimg.com/media/EmPiPcoU4AIhaJM.jpg,https://t.co/POqw5PhBNJ
+188,1325153170054504448,"Day 7 of #30DayMapChallenge: Green.
+
+This is all the greenspace in Southampton, highlighted on an aerial photo of the city. One of the reasons I like living here is that we have quite a lot of it! https://t.co/ukhmcXvs5w",en,2020-11-07 19:08:30,3,15,"[{'text': '30DayMapChallenge', 'indices': [9, 27]}]",809066605,Robin Wilson,sciremotesense,"Southampton, England",898,505,http://pbs.twimg.com/media/EmPjv6vXEAAqXXq.jpg,https://t.co/ukhmcXvs5w
+189,1325152291230539776,"Day 7- #30DayMapChallenge 
+Theme: Green.
+
+All OS Open Zoomstack data today to create the most efficient @uknationalparks road trip, passing through all 15 within the UK. Main national and regional road networks were used in this @ArcGISanalysis network analysis. https://t.co/NZY0npud3E",en,2020-11-07 19:05:01,3,8,"[{'text': '30DayMapChallenge', 'indices': [7, 25]}]",2149588681,Claire Powell,Pow__C,,82,294,http://pbs.twimg.com/media/EmPi_DSU0Ao_G2k.jpg,https://t.co/NZY0npud3E
+190,1325150110846607362,"#30DayMapChallenge #Day7 : Green. 
+Où fumer légalement aux States ?
+
+[ENG] Where to smoke legally in the United States ? https://t.co/OErUJyxg49",fr,2020-11-07 18:56:21,2,2,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'Day7', 'indices': [19, 24]}]",163493843,maelle am,MaelleAMM,Paris,197,371,http://pbs.twimg.com/media/EmPg_oRUcAY0nuF.jpg,https://t.co/OErUJyxg49
+191,1325148677380431872,"Kalaallit Nunaat/Greenland 🇬🇱
+
+Really enjoying using this challenge to map places/things I never have before! 🙌
+
+#30DayMapChallenge #Day7 #Green #Illustrator https://t.co/gTdnPQlsgu",en,2020-11-07 18:50:39,2,17,"[{'text': '30DayMapChallenge', 'indices': [113, 131]}, {'text': 'Day7', 'indices': [132, 137]}, {'text': 'Green', 'indices': [138, 144]}, {'text': 'Illustrator', 'indices': [145, 157]}]",1101617286,Helen McKenzie,Helenmckmck,London,1377,563,http://pbs.twimg.com/media/EmPfkl9UcAUNE8k.jpg,https://t.co/gTdnPQlsgu
+192,1325146930398306304,#30DayMapChallenge  Simple map of London underground stations using OpenStreetMap data https://t.co/yjccpPgtMZ,en,2020-11-07 18:43:42,2,0,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",482234738,Kulbinder dio,Kulbinderdio,,28,258,http://pbs.twimg.com/media/EmPeFziW4AAJ4tO.jpg,https://t.co/yjccpPgtMZ
+193,1325144378684420096,"Day 7 of #30DayMapChallenge, Yellow. Mapping 2019 corn production in the Upper Green River Watershed. Crop data was obtained USDA National Agricultural Statistics Service Cropland Data Layer. 2020.Available at https://t.co/V3oWcTgE7y  #crops #GISinAgriculture https://t.co/ezCqTk4ovq",en,2020-11-07 18:33:34,1,4,"[{'text': '30DayMapChallenge', 'indices': [9, 27]}, {'text': 'crops', 'indices': [235, 241]}, {'text': 'GISinAgriculture', 'indices': [242, 259]}]",1280909342745800710,Chris Lyons,ChrisLyons26,"Shelbyville, KY",203,2594,http://pbs.twimg.com/media/EmPbyVAWMAARSV9.jpg,https://t.co/V3oWcTgE7y
+194,1325144362137735171,"#30DayMapChallenge Day7: Green
+
+The Normalised Difference Vegetation Index (NDVI) is often visualised as green because it is related to vegetation density and health, but there is no green light as part of its calculation!
+
+@sentinel_hub @CopernicusEU @CopernicusLand @ESA_EO https://t.co/22jsenaV1T",en,2020-11-07 18:33:30,6,17,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",145683389,Geoff Smith,DrGeoffSmith,"Cambridge, UK",831,467,http://pbs.twimg.com/media/EmPbsivU8AIDacX.jpg,https://t.co/22jsenaV1T
+195,1325142778972676096,"#30DayMapChallenge Dag 7: Groen. Hoe #agrarisch is West-Brabant eigenlijk nog? Gemaakt in #QGIS door gebruik te maken van AAN-data.
+
+# #maps #mapping #gis #osgeo https://t.co/RGVQbeXkto",nl,2020-11-07 18:27:13,0,5,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'agrarisch', 'indices': [37, 47]}, {'text': 'QGIS', 'indices': [90, 95]}, {'text': 'maps', 'indices': [135, 140]}, {'text': 'mapping', 'indices': [141, 149]}, {'text': 'gis', 'indices': [150, 154]}, {'text': 'osgeo', 'indices': [155, 161]}]",1270037817750630404,Mariëlle Geers-Plasmans,geojuffie,Steenbergen,54,58,http://pbs.twimg.com/media/EmPaTSfVcAI-bnl.jpg,https://t.co/RGVQbeXkto
+196,1325141688252133380,"Day 07 of #30DayMapChallenge 🗺️ 
+Green 📗
+Harvested Paddy 🌾Area in 2019/20 Maha* Season in #SriLanka 🇱🇰
+Data from @LankaSTAT
+Map created using #rstat and #rspatial (@rstudio) with #tmap 
+*Maha is the main Paddy season in 🇱🇰, which used North East Monsoon Rain. https://t.co/IHebQgXjNM",en,2020-11-07 18:22:53,3,3,"[{'text': '30DayMapChallenge', 'indices': [10, 28]}, {'text': 'SriLanka', 'indices': [90, 99]}, {'text': 'rstat', 'indices': [142, 148]}, {'text': 'rspatial', 'indices': [153, 162]}, {'text': 'tmap', 'indices': [179, 184]}]",711999226381737984,Jmatics,jmatics,"Lund, Sverige",327,288,http://pbs.twimg.com/media/EmPZV3GU4AIgiFn.jpg,https://t.co/IHebQgXjNM
+197,1325140742851932161,"#30DayMapChallenge Day 7: Green
+#manuscriptmap on #vellum of a plot of land (No. 46) in the #Beemster by #JanPieterszDou.  @UBLeiden #BodelNijenhuis #landallocation
+https://t.co/bPcTwm8FVb
+https://t.co/WqFaciZPpU https://t.co/7zkvA4JXUy",en,2020-11-07 18:19:07,0,11,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'manuscriptmap', 'indices': [32, 46]}, {'text': 'vellum', 'indices': [50, 57]}, {'text': 'Beemster', 'indices': [92, 101]}, {'text': 'JanPieterszDou', 'indices': [105, 120]}, {'text': 'BodelNijenhuis', 'indices': [133, 148]}, {'text': 'landallocation', 'indices': [149, 164]}]",889150492751925250,Martijn Storms,MapStorms,,855,374,http://pbs.twimg.com/media/EmPYelAVgAA_kOV.jpg,https://t.co/bPcTwm8FVb
+198,1325138957672263680,"#30DayMapChallenge 
+
+Day 8 Suggestion (November 8) - Yellow
+
+Data
+https://t.co/FpST87J4a0 https://t.co/EBvs48zrfx",en,2020-11-07 18:12:02,1,0,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",3160198320,Dr Chris #GIS #Success,DrChrisGeoSci,"Calgary, Alberta",704,660,http://pbs.twimg.com/media/EmPW3AQW8AIbCC0.png,https://t.co/FpST87J4a0
+199,1325137641935790080,"#30DayMapChallenge 
+
+Day 7: Green
+
+Map shows the number of highly threatened tree species around the world.  
+
+Madagascar has the most. https://t.co/rNQiXfK49B",en,2020-11-07 18:06:48,2,3,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",1179290044655235072,Rishi,Geo__Nerd__Rish,Earth,34,243,http://pbs.twimg.com/media/EmPU0WpVgAAltaD.jpg,https://t.co/rNQiXfK49B
+201,1325135590090698753,Greenbelt change across wider Tyne and Wear 1997-2019 #30DayMapChallenge #day7 #green https://t.co/SdvnC6D7Dd,en,2020-11-07 17:58:39,1,7,"[{'text': '30DayMapChallenge', 'indices': [54, 72]}, {'text': 'day7', 'indices': [73, 78]}, {'text': 'green', 'indices': [79, 85]}]",318026127,Craig Robson,CaRobson,Newcastle,160,200,http://pbs.twimg.com/media/EmPTqA8VoAAwFwK.png,https://t.co/SdvnC6D7Dd
+202,1325135413447692289,"#30DayMapChallenge 
+Day 7 - Green
+
+Sitios prioritarios terrestres para la conservación de la biodiversidad en Hidalgo, México
+
+Data: CONABIO, 2007 https://t.co/PFKS1HAqNR",es,2020-11-07 17:57:57,2,2,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",894755514571046915,The White Rabbit Science,whiterabbit_sci,,19,48,http://pbs.twimg.com/media/EmPToo_U0AM3bDb.jpg,https://t.co/PFKS1HAqNR
+203,1325132702996176896,Day 7 of #30DayMapChallenge: Green as the forests and meadows in Pyrénées in summer @cauterets65110 @Occitanie https://t.co/67J4wMBsUV,en,2020-11-07 17:47:10,2,7,"[{'text': '30DayMapChallenge', 'indices': [9, 27]}]",1226081200214814721,me & maps,meandmaps,paris,192,1035,http://pbs.twimg.com/media/EmPQSXgU4AABbZ5.jpg,https://t.co/67J4wMBsUV
+205,1325129498812014594,My first attempt at #30DayMapChallenge https://t.co/7yg36tWXEH,en,2020-11-07 17:34:26,2,20,"[{'text': '30DayMapChallenge', 'indices': [20, 38]}]",1170034688867655680,Ilya Shevelev,IlyaShevelev3,"Санкт-Петербург, Россия",13,77,http://pbs.twimg.com/media/EmPOOriWMAAlS7h.jpg,https://t.co/7yg36tWXEH
+206,1325129041914060800,"Jour 7. Vert. #30DayMapChallenge  
+#cartomob #mapathon 
+
+➡️Prix cartomob : Vincent Vivanloc
+✅Accéder : https://t.co/IdOY8BJqpK
+
+ℹ️ Voir aussi : https://t.co/gLw7S2uYjN https://t.co/TvTYF7G1xM",fr,2020-11-07 17:32:37,3,9,"[{'text': '30DayMapChallenge', 'indices': [14, 32]}, {'text': 'cartomob', 'indices': [35, 44]}, {'text': 'mapathon', 'indices': [45, 54]}]",2302174415,Françoise Bahoken,fbahoken,"Paris, France",2441,1042,http://pbs.twimg.com/media/EmPNAVtW4AIyudB.jpg,https://t.co/IdOY8BJqpK
+207,1325128668289576966,"Day 8 of the #30DayMapChallenge  A yellow map of George Town, Penang in Malaysia. I used #RStats packages tmap and osmplotr. Thanks to @bikesRdata and many more. https://t.co/i3lPIoFj2V",en,2020-11-07 17:31:08,3,5,"[{'text': '30DayMapChallenge', 'indices': [13, 31]}, {'text': 'RStats', 'indices': [89, 96]}]",3331095159,Jan-Philipp Kolb,JanPhilippKolb,,97,309,http://pbs.twimg.com/media/EmPNepiUcAAsCtM.png,https://t.co/i3lPIoFj2V
+209,1325126249325490176,"map showing the vegetation cover in the city of Al-Ahsa and its entry into the Guinness Book of Records, and there are more than 2.5 million palm
+#30DayMapChallenge #ArcGIS #alhasa https://t.co/k1IJHuTDBH",en,2020-11-07 17:21:32,3,9,"[{'text': '30DayMapChallenge', 'indices': [146, 164]}, {'text': 'ArcGIS', 'indices': [165, 172]}, {'text': 'alhasa', 'indices': [173, 180]}]",600827679,مـحمّد,iMohamedlil,"الشرقية, السعودية ",1212,383,http://pbs.twimg.com/media/EmPJxVVWMAI6-bV.jpg,https://t.co/k1IJHuTDBH
+210,1325125810240417799,"#30DayMapChallenge
+Day7: Green
+
+Title: Vegetation in Kuwait
+
+The data used are from #GEE Sentinel-2
+
+I used @qgis, @Blender, and @Illustrator
+
+I have limited the NDVI data to values above zero. More heights indicate higher NDVI
+
+#cartography #geography #gis #kuwait #b3d https://t.co/pTj5nxc4NK",en,2020-11-07 17:19:47,1,6,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'GEE', 'indices': [84, 88]}, {'text': 'cartography', 'indices': [229, 241]}, {'text': 'geography', 'indices': [242, 252]}, {'text': 'gis', 'indices': [253, 257]}, {'text': 'kuwait', 'indices': [258, 265]}, {'text': 'b3d', 'indices': [266, 270]}]",908818700660236288,عبداللطيف الياقوت,geo_alyaqout,Kuwait (Ex Texan),191,182,http://pbs.twimg.com/media/EmPK5ELVgAAX_tm.jpg,https://t.co/pTj5nxc4NK
+211,1325124153582772225,"#30DayMapChallenge Day 07 'Green'.
+
+Plotting trees of San Francisco from a missed #TidyTuesday.
+
+Code:
+https://t.co/2Jts4NPAZS
+
+#rstats #r4ds https://t.co/YHHe27dj07",en,2020-11-07 17:13:12,3,12,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'TidyTuesday', 'indices': [82, 94]}, {'text': 'rstats', 'indices': [128, 135]}, {'text': 'r4ds', 'indices': [136, 141]}]",2167201254,Amit Levinson,Amit_Levinson,Israel,384,1569,http://pbs.twimg.com/media/EmPIqbVUcAERkk9.jpg,https://t.co/2Jts4NPAZS
+212,1325123664744833025,"#30DayMapChallenge Day 7 | Green
+the map shows planar distances (km) from Amsterdam Centraal Station to monumental trees. data from https://t.co/gAPzzzUWtV  #amsterdam #monumentaltree #arcmap https://t.co/JbDYwGOcPT",en,2020-11-07 17:11:15,1,1,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'amsterdam', 'indices': [157, 167]}, {'text': 'monumentaltree', 'indices': [168, 183]}, {'text': 'arcmap', 'indices': [184, 191]}]",65161973,Sezi Karayazi,sezia,"Eindhoven, Nederland",138,466,http://pbs.twimg.com/media/EmPHEMKXYAATSnv.png,https://t.co/gAPzzzUWtV
+213,1325123547623280641,#30DayMapChallenge Day 7 : Green  #opendata #rennes https://t.co/T8HH8EYwH2,en,2020-11-07 17:10:48,2,9,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'opendata', 'indices': [34, 43]}, {'text': 'rennes', 'indices': [44, 51]}]",414943174,Ben,benfriin,,363,2392,http://pbs.twimg.com/media/EmPI1oOVoAAFRmt.jpg,https://t.co/T8HH8EYwH2
+214,1325121985597337602,"Day 6 of #30DayMapChallenge - Red
+West Eurasian map of railroads &amp; railroad ferries. Made with R using the packages rgdal + ggplot2 + ggdark. https://t.co/CMD52AuttW",en,2020-11-07 17:04:35,2,8,"[{'text': '30DayMapChallenge', 'indices': [9, 27]}]",2593554955,Kapazitätsdiode,varaktor,,26,182,http://pbs.twimg.com/media/EmPHN5DWMAI8pzm.png,https://t.co/CMD52AuttW
+215,1325121976004874241,"Sentinel 2A EVI2 (Enhanced Vegetation Index 2) - Green to white linear scale. #30DayMapChallenge Day 7 - Green. Made using QGIS3, Grass, Sentinel Hub and the Semi-Automatic Classification Plugin https://t.co/c00YmTyhlu",en,2020-11-07 17:04:33,3,5,"[{'text': '30DayMapChallenge', 'indices': [78, 96]}]",1318518242080661504,Christoph Er,dataisawesomeo,,4,88,http://pbs.twimg.com/media/EmPHZouW4AEbl6N.png,https://t.co/c00YmTyhlu
+216,1325121650040340485,"#30DayMapChallenge #Day07 #Green 
+Top 30 countries in the world for marijuana use.
+World sinusoidal projection https://t.co/G7vKgXNIby",en,2020-11-07 17:03:15,1,0,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'Day07', 'indices': [19, 25]}, {'text': 'Green', 'indices': [26, 32]}]",113671424,Di_Dyne,Di_dyne,Paris/La Rochelle 🏳️‍🌈,119,1385,http://pbs.twimg.com/media/EmPHHQpXUAIMngG.jpg,https://t.co/G7vKgXNIby
+217,1325121427641491457,"#30DayMapChallenge 
+
+Day 7: green
+
+Change in vegetation greenness 
+#EarthEngine #NDVI https://t.co/iOaeawHZac",en,2020-11-07 17:02:22,2,6,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'EarthEngine', 'indices': [67, 79]}, {'text': 'NDVI', 'indices': [80, 85]}]",1298356315018993666,Clinty,clintyMw,"Old Naisi,  Zomba",90,109,http://pbs.twimg.com/ext_tw_video_thumb/1325121325476818944/pu/img/Ady2Vt4RLF8G0hds.jpg,https://t.co/iOaeawHZac
+218,1325120893694185480,"#30DayMapChallenge Day 7: Green 
+Green Spaces in Plymouth. Data from @OrdnanceSurvey #QGIS https://t.co/DdJf16zRy8",en,2020-11-07 17:00:15,2,6,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'QGIS', 'indices': [85, 90]}]",18795658,Matt Travis,Yakus,"Ivybridge, Devon",516,733,http://pbs.twimg.com/media/EmPGXHPVcAMLr8U.jpg,https://t.co/DdJf16zRy8
+219,1325119528867516418,"#30DayMapChallenge #Day7 #green Consommation électrique résidentielle moyenne par point de livraison (open data enedis, 2018 + coutours iris open data IGN), échelle IRIS. Il s'agit principalement d'une image de la répartition du chauffage électrique en France #python #geopandas https://t.co/yVd7BPIlAz",fr,2020-11-07 16:54:49,1,4,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'Day7', 'indices': [19, 24]}, {'text': 'green', 'indices': [25, 31]}, {'text': 'python', 'indices': [260, 267]}, {'text': 'geopandas', 'indices': [268, 278]}]",117134839,Pascal Schetelat,PascalSchetelat,,123,342,http://pbs.twimg.com/media/EmPEpz1WMAA2QRY.jpg,https://t.co/yVd7BPIlAz
+220,1325117732036239364,"#30DayMapChallenge Day 7... Green
+
+A poster map in a green pallet showing the photosynthetic activity in the Arctic for the years 2002-2015. 
+
+Data: MODIS fPAR
+Tools: R (rasterbrick &amp; export of points with fPAR theshold &gt;0.7), Qgis (points to heatmap in green scale) and GIMP https://t.co/dbsLjcmtY6",en,2020-11-07 16:47:41,2,4,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",1200892211996635139,Danae Kontou,DanaeKontou,,12,88,http://pbs.twimg.com/media/EmPCxHMWMAQW0Ww.jpg,https://t.co/dbsLjcmtY6
+221,1325117186986414083,"🍷🍇 Rouge, rosé, blanc… mais aussi vert 🟢 Cartographie de la production du vin vert #vinhoverde portugais 🇵🇹
+
+#30DayMapChallenge Jour 7 - Green 🟢
+#Portugal #winelover https://t.co/iETNHtZYqO",fr,2020-11-07 16:45:31,4,10,"[{'text': 'vinhoverde', 'indices': [83, 94]}, {'text': '30DayMapChallenge', 'indices': [109, 127]}, {'text': 'Portugal', 'indices': [145, 154]}, {'text': 'winelover', 'indices': [155, 165]}]",207283971,Pierre,alnpierre,Rennes,155,287,http://pbs.twimg.com/media/EmPCaboXYAYCakl.jpg,https://t.co/iETNHtZYqO
+222,1325117071089410048,"#30DayMapChallenge Day 6. Green
+
+Forest canopy height with more than 10m for the Iberian Peninsula. 
+
+#dataviz #rspatial #rstats https://t.co/0UfKEqDXLW",en,2020-11-07 16:45:03,37,129,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'dataviz', 'indices': [102, 110]}, {'text': 'rspatial', 'indices': [111, 120]}, {'text': 'rstats', 'indices': [121, 128]}]",895213223724666880,Dominic Royé,dr_xeo,"Santiago de Compostela, España",2387,991,http://pbs.twimg.com/media/EmPC7nEXIAAhMkw.jpg,https://t.co/0UfKEqDXLW
+223,1325115743042744320,"Day 7, Green: Just another population map (a bit different) #30DayMapChallenge https://t.co/3qyu5sQLLr",en,2020-11-07 16:39:47,3,18,"[{'text': '30DayMapChallenge', 'indices': [60, 78]}]",113729499,Anto Aasa,antoaasa,"Tartu, Eesti",72,59,http://pbs.twimg.com/media/EmPBd-iXYAMGCTj.jpg,https://t.co/3qyu5sQLLr
+224,1325115267001802756,"#30DayMapChallenge, day 7: Green - Preliminary #Landsat-based 2020 #LandCover map of #Belize, based on SVM algorithm.
+https://t.co/PJQru9RtJa https://t.co/GY4EzE5YC9",en,2020-11-07 16:37:53,1,2,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'Landsat', 'indices': [47, 55]}, {'text': 'LandCover', 'indices': [67, 77]}, {'text': 'Belize', 'indices': [85, 92]}]",731808469301493760,🇧🇿 Belize GEO 🛰️,BZgeo,Belize,4156,3811,http://pbs.twimg.com/media/EmPAwv7XMAQY-H0.png,https://t.co/PJQru9RtJa
+225,1325115062160420865,Tartu downtown radar style #30DayMapChallenge day 7 green. Credits to @openstreetmap #osmnx @gboeing  all purely #geopython @LGeoinformatics #GIS https://t.co/njBu7FZx6k https://t.co/NYHZK7P70f,en,2020-11-07 16:37:04,4,14,"[{'text': '30DayMapChallenge', 'indices': [27, 45]}, {'text': 'osmnx', 'indices': [85, 91]}, {'text': 'geopython', 'indices': [113, 123]}, {'text': 'GIS', 'indices': [141, 145]}]",409168655,Alexander Kmoch,allixender,"Tartu, Eesti",237,210,http://pbs.twimg.com/media/EmPA5N0W8AEnVlX.jpg,https://t.co/njBu7FZx6k
+226,1325114662225129472,"#30DayMapChallenge 2020: #rspatial edition 
+
+Another batch of great maps - this time for day 6: Red.
+
+https://t.co/S39I3nqYHd
+
+#rstats #cartography https://t.co/hh6bwWUzGe",en,2020-11-07 16:35:29,4,17,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'rspatial', 'indices': [25, 34]}, {'text': 'rstats', 'indices': [127, 134]}, {'text': 'cartography', 'indices': [135, 147]}]",2810559039,Jakub Nowosad,jakub_nowosad,,3856,217,http://pbs.twimg.com/media/EmPAnHiWEAAYNJN.jpg,https://t.co/S39I3nqYHd
+227,1325114130358030338,"#30DayMapChallenge Day 7 Green
+
+Map 1: 243.4K trees in #Ottawa #Ontario 🇨🇦
+
+Map 2: Fall colors
+
+Source: Open Ottawa / @qgis https://t.co/1Vvb8LZfhm",en,2020-11-07 16:33:22,1,3,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'Ottawa', 'indices': [55, 62]}, {'text': 'Ontario', 'indices': [63, 71]}]",910889225448439808,Dennis Kao,professorkao,,111,218,http://pbs.twimg.com/media/EmPAJMFXcAAs3xA.jpg,https://t.co/1Vvb8LZfhm
+228,1325111624613597184,"#30DayMapChallenge Day 7 - Green
+
+Went with a recycling theme today.
+
+Live in one of these states? Better start saving your empties. https://t.co/jPa633KMST",en,2020-11-07 16:23:25,5,20,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",851149914725916672,ksituan northland,ksituan,Val Marie / Treaty 4,1191,156,http://pbs.twimg.com/media/EmNBqwAU8AA_aqW.jpg,https://t.co/jPa633KMST
+229,1325111519407984642,"Day 7 of #30DayMapChallenge: Green. Using data from Esri's Green Infrastructure Center and traffic information, here's a map of potential wildlife crossing locations in MI.
+
+Learn more: https://t.co/bhkCPF5piz #30DaysofMapProjections: MI State Plane https://t.co/r3RSGHF22K",en,2020-11-07 16:23:00,3,22,"[{'text': '30DayMapChallenge', 'indices': [9, 27]}, {'text': '30DaysofMapProjections', 'indices': [210, 233]}]",741653561314922496,ᵐᵃᵖᵗᵃˢᵗⁱᶜ🗺ₖₐₜₑ,pokateo_,"Ann Arbor, Michigan",2124,2364,http://pbs.twimg.com/media/EmFPWEfXgAERNNF.jpg,https://t.co/bhkCPF5piz
+230,1325110163624353794,"7 : Green, Vert, Vers
+
+Toutes les routes de France vers Notre-Dame (km 0 du réseau routier).
+
+Recyclage de https://t.co/vsMZB0ddwM
+#30DayMapChallenge https://t.co/CZQu4Kdse6",fr,2020-11-07 16:17:37,1,5,"[{'text': '30DayMapChallenge', 'indices': [131, 149]}]",6062412,Tristram Gräbener 🚲,tristramg,Paris,1172,365,http://pbs.twimg.com/media/EmO8lxpXIAAUsCx.png,https://t.co/vsMZB0ddwM
+231,1325109542255030276,"#30DayMapChallenge - Day 7: Green
+70-years evolution of the trees distribution in the city of Grenoble, la capitale verte européenne 2022! 🇫🇷🌳🇪🇺
+Data: #OpenStreetMap @OsmGrenoble + Open Data @GrenobleAlpes 
+Tools: #QGIS Time Manager Plugin https://t.co/CpoMOK2DSK",en,2020-11-07 16:15:08,1,6,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'OpenStreetMap', 'indices': [151, 165]}, {'text': 'QGIS', 'indices': [214, 219]}]",148715617,Federica Gaspari,fede_gaspari,Arona,275,406,http://pbs.twimg.com/ext_tw_video_thumb/1325108402566074368/pu/img/OX_Cx08dC0jYp0Lx.jpg,https://t.co/CpoMOK2DSK
+232,1325106097108160512,"Hi! New on the platform, but ready to share! 
+
+Brief for today: A map with green colour --&gt; here you can see the streets of Paris with the name of a woman. Not a lot of green right? Yes, only 2%. 😒
+
+#30DayMapChallenge 🌎🌏🌎
+
+Source: Data Gouv https://t.co/VwvrgscWjD",en,2020-11-07 16:01:27,1,6,"[{'text': '30DayMapChallenge', 'indices': [202, 220]}]",1304413734908067840,Payetadata,Payetadata,,3,14,http://pbs.twimg.com/media/EmO4whsXMAAeh9l.jpg,https://t.co/VwvrgscWjD
+233,1325105893051146240,a quick one for the green theme day of #30daymapchallenge: where there is a high or medium abundance of feral goats and stoats and public conservation lands in NZ/Aotearoa https://t.co/eKfCArrPtW,en,2020-11-07 16:00:38,1,15,"[{'text': '30daymapchallenge', 'indices': [39, 57]}]",14913762,vicky johnson-dahl,hurricanevicky,"Washington, DC",961,843,http://pbs.twimg.com/media/EmO4x27XYAA6eHv.jpg,https://t.co/eKfCArrPtW
+234,1325105617858662400,"Day 7 of the #30daymapchallenge - Green 
+
+Map of special areas of conservation and special protected areas around Ireland. Great to see so much green around the country 🌲
+
+#GIS #Arcmap #SPA #SAC #conservation #environment https://t.co/FuHtcrn1or",en,2020-11-07 15:59:33,0,8,"[{'text': '30daymapchallenge', 'indices': [13, 31]}, {'text': 'GIS', 'indices': [172, 176]}, {'text': 'Arcmap', 'indices': [177, 184]}, {'text': 'SPA', 'indices': [185, 189]}, {'text': 'SAC', 'indices': [190, 194]}, {'text': 'conservation', 'indices': [195, 208]}, {'text': 'environment', 'indices': [209, 221]}]",179094335,sarah☻,sarah_wilson7,"Dublin City, Ireland",139,323,http://pbs.twimg.com/media/EmO4iVTWMAASyY0.jpg,https://t.co/FuHtcrn1or
+235,1325102836053520384,"#30daymapchallenge Day 7 : Green.
+
+Continuing where we left off yesterday. One of the pros of using voronoi as zoning system is that it covers spaces proportionally based on the object distribution. Utilizing it further for high school meaning that we may obtain... https://t.co/XDjbzQPaVs",en,2020-11-07 15:48:29,1,9,"[{'text': '30daymapchallenge', 'indices': [0, 18]}]",72266186,Azzadv Sawungrana,azzadv,,764,2547,http://pbs.twimg.com/media/EmO17QiU0AEbaf0.jpg,https://t.co/XDjbzQPaVs
+236,1325102152252071938,"Sentinel 2A  #30DayMapChallenge Day 6 - Red. Made using QGIS3, Grass, Sentinel Hub and the Semi-Automatic Classification Plugin https://t.co/yLgRmIKSbL",en,2020-11-07 15:45:46,1,5,"[{'text': '30DayMapChallenge', 'indices': [13, 31]}]",1318518242080661504,Christoph Er,dataisawesomeo,,4,88,http://pbs.twimg.com/media/EmO1QJuXEAIbWbM.jpg,https://t.co/yLgRmIKSbL
+238,1325100697973633026,"Day 7 of #30DayMapChallenge is green. For this one I had to roll my own spatial data from Denver's cannabis data. Some geocoding and a KDE later I present to you a density map of marijuana businesses in Denver, Colorado https://t.co/vcSuuuSvej",en,2020-11-07 15:40:00,2,12,"[{'text': '30DayMapChallenge', 'indices': [9, 27]}]",2719547953,Jesse Pisel,geologyjesse,,599,471,http://pbs.twimg.com/media/EmLKsfKWkAYxnbK.jpg,https://t.co/vcSuuuSvej
+239,1325100172066566146,"#30DayMapChallenge Day 7 - Green
+Ecological Corridors in Portugal! Data from ICNF!
+Corredores Ecológicos em Portugal :) https://t.co/fwlkcGqu0z",es,2020-11-07 15:37:54,1,5,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",180939408,torts,tgsousa_,,889,1012,http://pbs.twimg.com/media/EmOzYu8XIAAef_i.jpg,https://t.co/fwlkcGqu0z
+240,1325099452328267776,"Day 7 - Green
+
+#30DayMapChallenge 
+
+#ArcGISPro, #Photoshop #illustrator 
+
+Took haka flack for Day 5 &amp; 6
+
+This #map specially crafted for those times #NewZealand has been left off world maps
+
+This one's for you #kiwi's!
+
+#Flags #GIS #Science #Mapping 
+#MapsWithoutNewZealand https://t.co/qDB6VYTzNM",en,2020-11-07 15:35:03,0,1,"[{'text': '30DayMapChallenge', 'indices': [15, 33]}, {'text': 'ArcGISPro', 'indices': [36, 46]}, {'text': 'Photoshop', 'indices': [48, 58]}, {'text': 'illustrator', 'indices': [59, 71]}, {'text': 'map', 'indices': [114, 118]}, {'text': 'NewZealand', 'indices': [153, 164]}, {'text': 'kiwi', 'indices': [214, 219]}, {'text': 'Flags', 'indices': [224, 230]}, {'text': 'GIS', 'indices': [231, 235]}, {'text': 'Science', 'indices': [236, 244]}, {'text': 'Mapping', 'indices': [245, 253]}, {'text': 'MapsWithoutNewZealand', 'indices': [255, 277]}]",3160198320,Dr Chris #GIS #Success,DrChrisGeoSci,"Calgary, Alberta",704,660,http://pbs.twimg.com/media/EmOy7dzXMAAXH5v.jpg,https://t.co/qDB6VYTzNM
+241,1325097446737915904,"#30DayMapChallenge #red #blue #lines Lignes électriques HTA (open data enedis) En rouge : lignes aériennes, en bleu lignes souterraines  #python @datashader  #geopandas https://t.co/72h1TtYdis",fr,2020-11-07 15:27:05,3,6,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'red', 'indices': [19, 23]}, {'text': 'blue', 'indices': [24, 29]}, {'text': 'lines', 'indices': [30, 36]}, {'text': 'python', 'indices': [137, 144]}, {'text': 'geopandas', 'indices': [158, 168]}]",117134839,Pascal Schetelat,PascalSchetelat,,123,342,http://pbs.twimg.com/media/EmOwoqAXEAAPDGu.jpg,https://t.co/72h1TtYdis
+242,1325097102507208705,"Day 7 - Green of the #30DayMapChallenge 
+A EVI based map a tea estate in Rwanda 
+#rstats #rspatial https://t.co/uji2Eww2nm",en,2020-11-07 15:25:43,4,31,"[{'text': '30DayMapChallenge', 'indices': [21, 39]}, {'text': 'rstats', 'indices': [81, 88]}, {'text': 'rspatial', 'indices': [89, 98]}]",633596180,Ahmadou Dicko,dickoah,Senegal,1555,1344,http://pbs.twimg.com/media/EmOwvhHXcAIEix7.jpg,https://t.co/uji2Eww2nm
+243,1325096814098460673,"Day 7 of the #30DayMapChallenge with @OmniSci: Green
+
+San Francisco Street Trees
+
+Source Data
+https://t.co/cIKGu5FLus https://t.co/s4WERhm44t",en,2020-11-07 15:24:34,1,5,"[{'text': '30DayMapChallenge', 'indices': [13, 31]}]",623327023,Anton1o,AFCotroneo,,193,1303,http://pbs.twimg.com/ext_tw_video_thumb/1325096561081266177/pu/img/UAY0BwZ-22p2PT3N.jpg,https://t.co/cIKGu5FLus
+244,1325096326049259522,"Day 7: #30DayMapChallenge : Green
+Map: NDVI (Índice Diferencial Normalizado de vegetación)
+Tambien combinando bandas satelitales se pueden resaltar las zonas de vegetación y salud de las mismas.
+Source: https://t.co/yuyMw2kspq https://t.co/Oy10wrrTaH",es,2020-11-07 15:22:37,1,2,"[{'text': '30DayMapChallenge', 'indices': [7, 25]}]",332567823,∑∂gαr∂ ∫.  Grαnα∂0∫,Edgards04,"San Salvador, El Salvador",953,982,http://pbs.twimg.com/media/EmOv-ccXEAAvNS1.jpg,https://t.co/yuyMw2kspq
+245,1325095483308707840,"Day 5 #30DayMapChallenge : Blue
+Map: NDWI (Índice Diferencial Normalizado de Agua)
+Utilizando combinaciones de bandas satelitales se pueden resaltar los cuerpos de agua de una zona
+Source: https://t.co/Da3S1vwLtf https://t.co/EexwbSmfDf",es,2020-11-07 15:19:16,1,2,"[{'text': '30DayMapChallenge', 'indices': [6, 24]}]",332567823,∑∂gαr∂ ∫.  Grαnα∂0∫,Edgards04,"San Salvador, El Salvador",953,982,http://pbs.twimg.com/media/EmOvPatWEAIWU78.jpg,https://t.co/Da3S1vwLtf
+246,1325095160192098304,"Une carte du vert-corps pour ce 7ème jour. Map of green stuff (Vercors, France). 
+Day 7 : green
+#30DayMapChallenge #handmademap #mygrenoble #vercors https://t.co/4cIhK4LHsZ",fr,2020-11-07 15:17:59,3,11,"[{'text': '30DayMapChallenge', 'indices': [96, 114]}, {'text': 'handmademap', 'indices': [115, 127]}, {'text': 'mygrenoble', 'indices': [128, 139]}, {'text': 'vercors', 'indices': [140, 148]}]",442982795,odile,odile_p,France,113,181,http://pbs.twimg.com/media/EmOuVkRXcAUxxh0.jpg,https://t.co/4cIhK4LHsZ
+247,1325093036163031041,"#30DayMapChallenge Day 6: Green
+My forester colleauges has been measuring this testplot since 1973. Total measurement: Tree height, 2*DBH and any other relevant observations. This stored in a spreadsheet. The point size/color visualize avg. DBH. Now we try to use Lidar too. https://t.co/S7l76sRMIX",en,2020-11-07 15:09:33,3,30,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",509794262,Lene Fischer,Lene_Fischer,Nødebo,1910,226,http://pbs.twimg.com/media/EmOrf2DW8AYKqKP.jpg,https://t.co/S7l76sRMIX
+248,1325092321747214337,"Green place-names in Dumfries and Galloway
+A Voronoi diagram of 225 place-names containing 'green', shaded by area and then displaced in Blender.
+Includes: Greenhill Dod, Green Dass, Green Hass, Green Slack &amp; Green Top of Culcronchie
+#30DayMapChallenge #Day7 #Green #QGIS #Blender https://t.co/rwpQAdmDWT",en,2020-11-07 15:06:43,4,16,"[{'text': '30DayMapChallenge', 'indices': [238, 256]}, {'text': 'Day7', 'indices': [257, 262]}, {'text': 'Green', 'indices': [263, 269]}, {'text': 'QGIS', 'indices': [270, 275]}, {'text': 'Blender', 'indices': [276, 284]}]",1081900377853829120,D&G place-names,dgplacenames,,569,296,http://pbs.twimg.com/media/EmOpi0xXEAAQFLP.jpg,https://t.co/rwpQAdmDWT
+249,1325092141794811904,"Day 7 theme for the #30DayMapChallenge is the color Green! In this case, near surface chlorophyll-a concentration as an indicator of phytoplankton #biomass. Look at those swirling O2 engines off the eastern coast of #Argentina! ➡️ https://t.co/nDbSarGw2z https://t.co/PhItiq3wCw",en,2020-11-07 15:06:00,2,5,"[{'text': '30DayMapChallenge', 'indices': [20, 38]}, {'text': 'biomass', 'indices': [147, 155]}, {'text': 'Argentina', 'indices': [216, 226]}]",4017972017,Resource Watch,resource_watch,,2535,1647,http://pbs.twimg.com/media/EmFd264XgAYWFQo.jpg,https://t.co/nDbSarGw2z
+250,1325091791327080448,Day 7 of #30DayMapChallenge #green Viewshed of the highest point in Tartu. https://t.co/hmHVUMCuAP,en,2020-11-07 15:04:36,1,14,"[{'text': '30DayMapChallenge', 'indices': [9, 27]}, {'text': 'green', 'indices': [28, 34]}]",1322101266793857026,Mobility Lab of University of Tartu,UT_moblab,Tartu,57,32,http://pbs.twimg.com/media/EmOrNXBXIAAE5M_.jpg,https://t.co/hmHVUMCuAP
+251,1325090758039384064,"How green each US state currently is, for Day 7 of the #30DayMapChallenge. I bet @bcsweb didn't see this one coming...
+
+The original colour ramp wasn't very suitable, so the second map maxes out at 5% (which I think I can use for tomorrow's map as well). https://t.co/QSL4DaLwd3",en,2020-11-07 15:00:30,1,4,"[{'text': '30DayMapChallenge', 'indices': [55, 73]}]",960887786856427520,Ronald Halliday 🇨🇦 🇧🇷,ron_halliday,"São Paulo, Brazil",365,259,http://pbs.twimg.com/media/EmOpdp_XcAAzVXz.jpg,https://t.co/QSL4DaLwd3
+252,1325089922336739330,"#30DayMapChallenge 
+
+Day5. Blue.
+
+River network of India https://t.co/K7b5aG9y2J",en,2020-11-07 14:57:11,1,2,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",229710576,Debanjan Sarkar,imDebanjan,"Dehradun, India",65,195,http://pbs.twimg.com/media/EmOqQqCVMAEUgky.jpg,https://t.co/K7b5aG9y2J
+253,1325089491036622848,"days 7 (green) and 8 (yellow) #30DayMapChallenge. Denmark is green all year around, but most of it is covered by agricultural land (61% in 2020). Forests cover ~13% &amp; nature (wet &amp; dry habitats) ~8% . CLC12 is from https://t.co/4JUPeykHs8…. Courier New isn't perfect, now I know. https://t.co/UkLpz2QuZm",en,2020-11-07 14:55:28,1,3,"[{'text': '30DayMapChallenge', 'indices': [30, 48]}]",223123391,Denitza Voutchkova,DenitzaV,Denmark,214,219,http://pbs.twimg.com/media/EmOp0FlWEAEWqnJ.jpg,https://t.co/4JUPeykHs8….
+254,1325089363227774976,Day 7 of #30DayMapChallenge (Color Green)... Animating every #MLB home run hit in 2020 overlaid at Fenway Park. Light green trajectory is RHB and dark green is LHB. https://t.co/qUKrbYFLFc,en,2020-11-07 14:54:57,2,21,"[{'text': '30DayMapChallenge', 'indices': [9, 27]}, {'text': 'MLB', 'indices': [61, 65]}]",14344140,Daren Willman,darenw,"Houston, TX",80287,759,http://pbs.twimg.com/ext_tw_video_thumb/1325088962852098048/pu/img/z-t2fTmCwkMDfcTu.jpg,https://t.co/qUKrbYFLFc
+255,1325089020406362120,#Day7 Green. Electric passenger cars of Mainland Finland. Based on data from the statistical database of @TraficomFinland. #30DayMapChallenge #QGIS https://t.co/EZNJzwkAeH,en,2020-11-07 14:53:36,3,18,"[{'text': 'Day7', 'indices': [0, 5]}, {'text': '30DayMapChallenge', 'indices': [123, 141]}, {'text': 'QGIS', 'indices': [142, 147]}]",1466897384,Matti Kokkonen,MattiJKokkonen,,173,282,http://pbs.twimg.com/media/EmOpcPBXMAAh6SQ.jpg,https://t.co/EZNJzwkAeH
+256,1325088299468394497,Índice de arbolado urbano por calle del Área Metropolitana de Guadalajara. Nos hacen faltan muchos árboles @redarbol @viogu @BosqueUrbExtra #30DayMapChallenge https://t.co/3cSwIrzqFf,es,2020-11-07 14:50:44,3,10,"[{'text': '30DayMapChallenge', 'indices': [140, 158]}]",97729765,Carlos Ruiz,cruizch,"Guadalajara, México",246,88,http://pbs.twimg.com/media/EmOjqnWXEAERyoa.jpg,https://t.co/3cSwIrzqFf
+257,1325087225370046465,"#30DayMapChallenge / Jour 7 🗺️🟢🌏 : Bon, c'est plutôt le turquoise qui domine, mais la page géopo du @lemondefr de ce WE se rapproche du thème du jour ! ""Comment la Chine assèche le Mékong"" est à retrouver dans les kiosques. Avec @FlavieHolzinger &amp; @Delphinepapin / @LM_enCartes https://t.co/u0SkXJkcDX",fr,2020-11-07 14:46:28,13,40,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",3300877743,Xemartin Laborde,XemartinLaborde,Paris / Pays basque,1902,1465,http://pbs.twimg.com/media/EmOnNreXYAA0C3n.jpg,https://t.co/u0SkXJkcDX
+258,1325086693867794434,"#30DayMapChallenge Day 7 - Green
+
+Le thème vert correspond à mon expertise depuis maintenant plus de 2 ans sur les questions liées à l'environnement, les espaces verts et les paysages pour le département des Hauts-de-Seine. Un extrait de mon travail https://t.co/iVC83oWLW3",fr,2020-11-07 14:44:21,1,9,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",1041729951903432704,Julien Lecaché,JLecache,"Paris, France",124,252,http://pbs.twimg.com/media/EmOm9CzW8AIT7dO.jpg,https://t.co/iVC83oWLW3
+259,1325085085629095936,"Day 7: Green
+#30DayMapChallenge https://t.co/xTX7bF5Amm",en,2020-11-07 14:37:57,1,6,"[{'text': '30DayMapChallenge', 'indices': [13, 31]}]",1233423602948694017,Nic,DrNicNacks,,10,33,http://pbs.twimg.com/media/EmOlwSbWEAEC4vD.jpg,https://t.co/xTX7bF5Amm
+260,1325084812013613057,#30DayMapChallenge Day 7 - Green. (Eng/Esp) Intact forest landscapes of South America. #Qgis https://t.co/MLN7WWFW98,en,2020-11-07 14:36:52,4,25,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'Qgis', 'indices': [87, 92]}]",736009987,Felipe Lancheros 🐯,MiniTigri,"Bogotá, D.C., Colombia",175,224,http://pbs.twimg.com/media/EmOlYWOXMAAGSLr.jpg,https://t.co/MLN7WWFW98
+261,1325084675904163840,"#30DayMapChallenge 
+Map 7: Green
+
+#Map shows locations of ~1400 parks &amp; playgrounds in #Bengaluru using GMaps, OSM, BBMP lists etc shown with backdrop of builtup area. Most of the well maintained parks are within old corp. Lakes, Private spaces fulfill the requirements outside https://t.co/gRbbcrDlyC",en,2020-11-07 14:36:20,13,99,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'Map', 'indices': [34, 38]}, {'text': 'Bengaluru', 'indices': [91, 101]}]",272936200,Raj Bhagat P #Mapper4Life,rajbhagatt,"Nagercoil, Tamil Nadu",17121,1692,http://pbs.twimg.com/media/EmOketvU4AAS7O-.jpg,https://t.co/gRbbcrDlyC
+262,1325084599454756872,"No idea what this will look like on twitter, but it's my attempt to create a kind of 'green marble' gif using NASA's blue marble imagery, which I then converted to a spinning globe as a #30DayMapChallenge experiment for 'green' day https://t.co/9RDDLGr1OA",en,2020-11-07 14:36:02,16,135,"[{'text': '30DayMapChallenge', 'indices': [186, 204]}]",343928585,Alasdair Rae,undertheraedar,"Sheffield, England",18627,3419,http://pbs.twimg.com/tweet_video_thumb/EmOk6m7XEAEYifX.jpg,https://t.co/9RDDLGr1OA
+263,1325084212999938050,"day 7. green(land?)
+
+surface not covered by ice 
+
+data: @NSIDC (https://t.co/PNXGRK1GMH)
+
+#30DayMapChallenge https://t.co/7QoubfRoge",en,2020-11-07 14:34:29,2,11,"[{'text': '30DayMapChallenge', 'indices': [90, 108]}]",48334577,santihpuig,santihpuig,"Valencia, España",611,1071,http://pbs.twimg.com/media/EmOk_L2WEAAqNIO.jpg,https://t.co/PNXGRK1GMH)
+264,1325083743049158656,"#30DayMapChallenge Green
+Did you know that the Venus Flytrap is native to coastal North and South Carolina? https://t.co/N23bpFLJKY",en,2020-11-07 14:32:37,1,9,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",725799693842812929,brady,geo_brady,Southside Virginia,214,358,http://pbs.twimg.com/media/EmOkoy_XIAEa0-9.jpg,https://t.co/N23bpFLJKY
+265,1325083531152928768,"#30DayMapChallenge Day 7 | Green
+Información de Municipios de  #Corrientes , elaborado con @QgisArgentina y @LeafletJS https://t.co/zuZ8beVOYD",es,2020-11-07 14:31:47,3,12,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'Corrientes', 'indices': [63, 74]}]",2439142170,Yeyo,yeyomourglia,"Corrientes, Argentina",433,855,http://pbs.twimg.com/media/EmOkW8qXIAIKqKQ.jpg,https://t.co/zuZ8beVOYD
+266,1325083449498202113,"Happy Saturday! Day 7’s theme for the #30DayMapChallenge is green
+
+There’s nothing better than enjoying some green space (within 5km of home of course)! What green spaces are near you? https://t.co/dDvwGipCC2",en,2020-11-07 14:31:27,2,14,"[{'text': '30DayMapChallenge', 'indices': [38, 56]}]",437801734,Antonia Blankenberg,MapsByAntonia,"Dublin City, Ireland",158,455,http://pbs.twimg.com/media/EmOkX1FWMAAMGLF.jpg,https://t.co/dDvwGipCC2
+267,1325081320456777729,"@geohipster @postgis @CARTO @JoeBiden @GovPhilScott Day 7: green
+
+A map of placenames in the Green Mountain state that contain the word ""green"". I apologize for the boringness of the query, but I hope that you now have the appropriate Creedence tune stuck in your head like I do. 
+
+https://t.co/9jSQbpvA0V
+
+#30DayMapChallenge https://t.co/g1qoNp9z0F",en,2020-11-07 14:23:00,1,8,"[{'text': '30DayMapChallenge', 'indices': [307, 325]}]",278873782,Map/,vtcraghead,"Burlington, VT",3646,858,http://pbs.twimg.com/media/EmL9mnyXYAEBDJz.jpg,https://t.co/9jSQbpvA0V
+268,1325080064313188355,"Jour 7, GREEN #30DayMapChallenge
+Le chef-lieu du Dauphiné, #Grenoble, a été élue capitale européenne VERTE pour 2022. 🌿 https://t.co/ofokOwD6cq",fr,2020-11-07 14:18:00,1,3,"[{'text': '30DayMapChallenge', 'indices': [14, 32]}, {'text': 'Grenoble', 'indices': [59, 68]}]",4026779141,Rem,Remykiwi78,Dans le Dauphiné,15,63,http://pbs.twimg.com/media/EmOghVCWEAItumA.jpg,https://t.co/ofokOwD6cq
+269,1325078803748540417,"🌍🍏🇨🇭 Jour 7 du #30DayMapChallenge : le vert.
+
+Carte de la Suisse réalisée pour illustrer l'enquête de @Bloch_R « Voyage en Cryptovalley » sur @LesEchos 
+
+https://t.co/E56dyL1QsW https://t.co/7VXIYJ2ZVk",fr,2020-11-07 14:13:00,1,26,"[{'text': '30DayMapChallenge', 'indices': [15, 33]}]",138790830,Jules Grandin,JulesGrandin,Paris,22006,1007,http://pbs.twimg.com/media/ElviFkWXgAI7xt2.jpg,https://t.co/E56dyL1QsW
+270,1325078082315833345,"#30DayMapChallenge Day 7: Green
+A map of Cambridge's greenbelt, mapped from one of the little rural enclaves with a view of said belt from my window https://t.co/cvY1A3MoNM",en,2020-11-07 14:10:08,4,23,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",759988092,Matthew Law,Iawmatthew,,19,47,http://pbs.twimg.com/media/EmOeI1zXIAEK1Y3.jpg,https://t.co/cvY1A3MoNM
+271,1325076791019630592,"Today's #30DayMapChallenge is green! 
+Fed lands in Nevada. The feds used to finance railroads by gifting alternating parcels to the rail co. and sell the remainder for themselves; when it turned out no one wanted to farm the Nevada desert, the feds kept the checkerboard instead. https://t.co/e3M5InuSOp",en,2020-11-07 14:05:00,1,5,"[{'text': '30DayMapChallenge', 'indices': [8, 26]}]",942194832491122688,Mike Mahoney,MikeMahoney218,"Syracuse, NY",417,301,http://pbs.twimg.com/media/EkvjDgnXgAE64g4.jpg,https://t.co/e3M5InuSOp
+272,1325076756911558657,"Day 7 of #30DayMapChallenge : Green 
+
+Forest Green @ Spielberg - Red Bull Ring
+
+Made with #Mapbox Satellite, Pixelmator Photo, and #F1CircuitsData https://t.co/jZsgV9m88w",en,2020-11-07 14:04:52,1,5,"[{'text': '30DayMapChallenge', 'indices': [9, 27]}, {'text': 'Mapbox', 'indices': [90, 97]}, {'text': 'F1CircuitsData', 'indices': [131, 146]}]",191797663,Tomo 🐽,tomodraco,"0,13",524,212,http://pbs.twimg.com/media/EmOeQy9XcAMOLMj.jpg,https://t.co/jZsgV9m88w
+273,1325075920760180738,"Simple map for Day 7 (green) of the #30DayMapChallenge. Here are the parks (forests, nature reserves, etc are excluded) of #Bangalore. 
+#Bengaluru #bloremapped #maps #rspatial https://t.co/fSB0t2wplb",en,2020-11-07 14:01:32,2,6,"[{'text': '30DayMapChallenge', 'indices': [36, 54]}, {'text': 'Bangalore', 'indices': [123, 133]}, {'text': 'Bengaluru', 'indices': [136, 146]}, {'text': 'bloremapped', 'indices': [147, 159]}, {'text': 'maps', 'indices': [160, 165]}, {'text': 'rspatial', 'indices': [166, 175]}]",1222519447165886465,Anirudh,_anirudhgovind,India,121,1512,http://pbs.twimg.com/media/EmOdefKU4AEhTyf.png,https://t.co/fSB0t2wplb
+274,1325075795556130816,"Day 7: Green #30DayMapChallenge
+Changes in vegetation with seasons in the central #India created with #EarthEngine and #rspatial. Also, emphasize the role of monsoon in the dynamics of a tropical landscape.
+#rgeomatic #RStats #r4ds https://t.co/d1aUfIqgL7",en,2020-11-07 14:01:03,5,18,"[{'text': '30DayMapChallenge', 'indices': [13, 31]}, {'text': 'India', 'indices': [82, 88]}, {'text': 'EarthEngine', 'indices': [102, 114]}, {'text': 'rspatial', 'indices': [119, 128]}, {'text': 'rgeomatic', 'indices': [207, 217]}, {'text': 'RStats', 'indices': [218, 225]}, {'text': 'r4ds', 'indices': [226, 231]}]",28133471,Nilanjan Chatterjee,footloose_nil,"Dehradun, India",266,260,http://pbs.twimg.com/tweet_video_thumb/EmObwGYXIAEnOdd.jpg,https://t.co/d1aUfIqgL7
+275,1325075612403437568,"I don't have a map for the #30DayMapChallenge but today is ""green"" and I DO have this excellent infographic on data fallacies to avoid from @geckoboard ! https://t.co/bA9sTUcYKk",en,2020-11-07 14:00:19,2,11,"[{'text': '30DayMapChallenge', 'indices': [27, 45]}]",222228205,Mike Dolbow,mmdolbow,"St. Paul, MN",1283,100,http://pbs.twimg.com/media/EmOdPoTWEAARBIY.jpg,https://t.co/bA9sTUcYKk
+276,1325075136442142720,"Áreas Naturales Protegidas en Jalisco
+#30DayMapChallenge 2020
+Día 7:Verde https://t.co/hF5DHfilUs",es,2020-11-07 13:58:25,1,3,"[{'text': '30DayMapChallenge', 'indices': [38, 56]}]",890753654822588417,Yaireth Ortiz,Yaireth_Ortiz,,9,347,http://pbs.twimg.com/media/EmOc0CyXIAIlq9H.jpg,https://t.co/hF5DHfilUs
+277,1325073312301666305,"Day 6, Red.  Cameron Peak fire in Colorado, where I grew up. Fires are part of the natural cycle in this part of the world, but they have increased in frequency and intensity in recent years due to climate change. #30DayMapChallenge https://t.co/bgvU6t1q7Z",en,2020-11-07 13:51:10,1,2,"[{'text': '30DayMapChallenge', 'indices': [214, 232]}]",721829381207887872,David Fox,ReynardSubtil,"Vermont, USA",65,163,http://pbs.twimg.com/media/EmOYpITXYAgxNCC.jpg,https://t.co/bgvU6t1q7Z
+278,1325071985337126913,"#30DayMapChallenge Day 7: Green 🟩
+Terrain map of central/eastern Slovakia🇸🇰. Uses EU-DEM for multidirectional hillshade, overlaid with Google Satellite. https://t.co/ED0UVv4h3r",en,2020-11-07 13:45:54,1,8,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",24074837,Carl Baker,carlbaker,Croydon,2454,755,http://pbs.twimg.com/media/EmOZ7a3WEAYSl5S.jpg,https://t.co/ED0UVv4h3r
+279,1325071387766222854,"🗺️ #30DayMapChallenge - (Belated) Day 5 - ""Blue"" 🔵
+
+So I mapped how the municipalities voted in the 2019 Euro-elections and where the two candidates fall on the political compass 🧭
+
+💯 % @JoeBiden 💥
+
+Position of candidates via:
+https://t.co/fk1cudglo7 https://t.co/buF2cRE4jq",en,2020-11-07 13:43:32,2,6,"[{'text': '30DayMapChallenge', 'indices': [3, 21]}]",800277926348324864,Arnold Platon,Arnold_Platon,"Nice, France",2004,1463,http://pbs.twimg.com/media/EmOZZ24XUAAM1Zy.jpg,https://t.co/fk1cudglo7
+280,1325071025181057024,"#30DayMapChallenge Day 7: GREEN (software ArcGIS Pro, image Landsat 8 acquired March 2020)
+
+#gis #geography #geographyteacher #cartography #maps #map #mapping #archaeology #Bible #Biblicalarchaeology #Israel #Egypt #Landsat #USGS #QGIS #ArcGIS #Science #RemoteSensing https://t.co/4ba0IhDWNg",en,2020-11-07 13:42:05,0,0,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'gis', 'indices': [92, 96]}, {'text': 'geography', 'indices': [97, 107]}, {'text': 'geographyteacher', 'indices': [108, 125]}, {'text': 'cartography', 'indices': [126, 138]}, {'text': 'maps', 'indices': [139, 144]}, {'text': 'map', 'indices': [145, 149]}, {'text': 'mapping', 'indices': [150, 158]}, {'text': 'archaeology', 'indices': [159, 171]}, {'text': 'Bible', 'indices': [172, 178]}, {'text': 'Biblicalarchaeology', 'indices': [179, 199]}, {'text': 'Israel', 'indices': [200, 207]}, {'text': 'Egypt', 'indices': [208, 214]}, {'text': 'Landsat', 'indices': [215, 223]}, {'text': 'USGS', 'indices': [224, 229]}, {'text': 'QGIS', 'indices': [230, 235]}, {'text': 'ArcGIS', 'indices': [236, 243]}, {'text': 'Science', 'indices': [244, 252]}, {'text': 'RemoteSensing', 'indices': [253, 267]}]",1137139989744144390,MyPhysicalWorld,my_physical,,42,63,http://pbs.twimg.com/media/EmOYrlxVkAE75kK.jpg,https://t.co/4ba0IhDWNg
+281,1325070797812232193,"Shortest path from any addresspoint in Estonia to the closest post office. Produced with OSRM routing using data from Omniva, Estonian Land Board and OpenStreetMap contributors.
+
+#30DayMapChallenge for Day 6 when everything is Red, including my eye whites. https://t.co/Nrr2jkmELJ",en,2020-11-07 13:41:11,2,25,"[{'text': '30DayMapChallenge', 'indices': [179, 197]}]",2629383321,Tõnis Kärdi,tkardi,"Tartu, Estonia",199,232,http://pbs.twimg.com/media/EmOYgJcXYAEh6U1.jpg,https://t.co/Nrr2jkmELJ
+282,1325066664736681984,"D7 of #30DayMapChallenge
+Sustainability development search trends on 
+@GoogleTrends between 2004 and present. Made with 
+@Datawrapper
+
+https://t.co/a7tdAjGMbq https://t.co/wB9MlsL1lp",en,2020-11-07 13:24:46,1,6,"[{'text': '30DayMapChallenge', 'indices': [6, 24]}]",54516098,Victoria Rautenbach,geobach_za,"Pretoria, South Africa",256,496,http://pbs.twimg.com/media/EmOVDqGWEAATGLy.jpg,https://t.co/a7tdAjGMbq
+283,1325066467235172352,"Day7: Green
+SDG Goal15 Life on land
+#30DayMapChallenge
+#SDGs
+Forests provide more than 86 million green jobs. Of those living in extreme poverty, over 90 percent are dependent on forests for wild food, firewood, or part of their livelihoods.https://t.co/1bdxqdcvmn https://t.co/Cs7rpoVLck",en,2020-11-07 13:23:58,2,4,"[{'text': '30DayMapChallenge', 'indices': [36, 54]}, {'text': 'SDGs', 'indices': [55, 60]}]",187171010,I.K.D,IKEDA_02,"Brisbane, Queensland 🇦🇺🇯🇵",102,474,http://pbs.twimg.com/media/EmOU34-VcAApyFT.jpg,https://t.co/1bdxqdcvmn
+284,1325066236179451904,"#30DayMapChallenge 2020: #rspatial edition 
+
+Day 5. Blue 💙
+
+https://t.co/CaimGQ4XHW
+
+#rstats #cartography https://t.co/Uc3ZWKifMg",en,2020-11-07 13:23:03,8,33,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'rspatial', 'indices': [25, 34]}, {'text': 'rstats', 'indices': [85, 92]}, {'text': 'cartography', 'indices': [93, 105]}]",2810559039,Jakub Nowosad,jakub_nowosad,,3856,217,http://pbs.twimg.com/media/EmOUbNwXMAALR3q.png,https://t.co/CaimGQ4XHW
+285,1325066226423435264,"For the record, as I had a hard time chosing which one to post, here is an alternative version for today's #30DayMapChallenge :) https://t.co/BKrl9TjjQP",en,2020-11-07 13:23:01,1,5,"[{'text': '30DayMapChallenge', 'indices': [107, 125]}]",108928400,Jérémy Garniaux,mapperfr,"Marseille, France",820,2161,http://pbs.twimg.com/media/EmOUQnfXcAAjt_q.jpg,https://t.co/BKrl9TjjQP
+286,1325066194878156800,"I did this a few days ago - Manitou State Park in MN; data - MN open data, #30DayMapChallenge Day 7 Green https://t.co/oXtTinnMz8",en,2020-11-07 13:22:54,1,4,"[{'text': '30DayMapChallenge', 'indices': [75, 93]}]",44530833,Andrew French,andrewrfrench,"Wisconsin, USA",438,1821,http://pbs.twimg.com/media/EmOUrpJU4AI_lnN.jpg,https://t.co/oXtTinnMz8
+287,1325065569469558784,"#30DayMapChallenge @tjukanov Day 7: Green
+#India States &amp; UTs Forest Cover as Percent Geographical Area (2019) Map generated using #FME @SafeSoftware @googleearth Data Source @ForestSurvey  
+Thank you @PixelSoftek https://t.co/shYQu20KLh",en,2020-11-07 13:20:24,1,3,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'India', 'indices': [42, 48]}, {'text': 'FME', 'indices': [135, 139]}]",105407287,SRG,Saint_GIS,"Chennai, India",133,86,http://pbs.twimg.com/media/EmOT-p5UcAAJKn2.jpg,https://t.co/shYQu20KLh
+288,1325057422038364161,"Today is day 7 of #30DayMapChallenge (one week already!):
+My contribution is a map of Green, Kansas, pop. 121. 
+Road perpective inspired by Google StreetView, aerial image from @MapTiler. Drawn with #Inkscape. https://t.co/uUzzcTX99t",en,2020-11-07 12:48:02,2,8,"[{'text': '30DayMapChallenge', 'indices': [18, 36]}, {'text': 'Inkscape', 'indices': [199, 208]}]",108928400,Jérémy Garniaux,mapperfr,"Marseille, France",820,2161,http://pbs.twimg.com/media/EmOMjjSWEAEaWwu.jpg,https://t.co/uUzzcTX99t
+289,1325056957062012929,"#30DayMapChallenge Day 7 - Green
+Tree Cover Density 2018 - Densitat d'arbres 2018
+Copernicus Land Monitoring Service - The TCD raster product provides information on the proportional crown coverage per pixel at 10m spatial resolution and ranges from 0%  to 100%
+#Andorra https://t.co/Gz0lf5NMNK",en,2020-11-07 12:46:11,4,10,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'Andorra', 'indices': [262, 270]}]",2342154006,Àrea de cartografia,areacartografia,Govern d'Andorra,308,697,http://pbs.twimg.com/media/EmOLC3YW4AM-kfl.jpg,https://t.co/Gz0lf5NMNK
+290,1325052720475238401,"#30DayMapChallenge - Day 7 / Jour 7 - Green / Vert
+
+Aujourd'hui, on parle verdure. Et on n'oublie pas, hein : « À la Saint-Ernest, abats les pommes qui te restent ! » https://t.co/vkrz4kRaEU",fr,2020-11-07 12:29:21,3,10,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",1201838008359620609,Les Savoirs Ambulants,SavoirsEnBulles,Rennes,242,89,http://pbs.twimg.com/media/EmOIGJCXIAEVjKC.jpg,https://t.co/vkrz4kRaEU
+291,1325052668537090048,"#30DayMapChallenge
+
+#Day_7
+
+#Green
+
+#OpenSpaces
+
+#London
+
+#Openstreetmap https://t.co/unT8a2kfCk",und,2020-11-07 12:29:09,1,4,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'Day_7', 'indices': [20, 26]}, {'text': 'Green', 'indices': [28, 34]}, {'text': 'OpenSpaces', 'indices': [36, 47]}, {'text': 'London', 'indices': [49, 56]}, {'text': 'Openstreetmap', 'indices': [58, 72]}]",605417877,Daniel Ibáñez Campos,dic1991,Barcelona,60,576,http://pbs.twimg.com/media/EmOIMh-XcAItC9e.jpg,https://t.co/unT8a2kfCk
+292,1325048930825089024,"#30DayMapChallenge Day 7 - Green.
+A little bit of #Greenland where only a tiny part is covered by #srtm https://t.co/RdEM7v6kuL",en,2020-11-07 12:14:17,1,3,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'Greenland', 'indices': [50, 60]}, {'text': 'srtm', 'indices': [98, 103]}]",309734801,Sam J,samwise_v,"London, UK",132,494,http://pbs.twimg.com/media/EmOE-vFXEAIprtT.jpg,https://t.co/RdEM7v6kuL
+293,1325048577450708993,"Day 6- #30DayMapChallenge 
+Theme: Red.
+
+Using OS Open Zoomstack Names and an SQL Query in @ArcGISOnline all named places across Great Britain were filtered by those inhabited by people and by locations beginning with 'Red'. https://t.co/1DUq5nJOTc",en,2020-11-07 12:12:53,1,4,"[{'text': '30DayMapChallenge', 'indices': [7, 25]}]",2149588681,Claire Powell,Pow__C,,82,294,http://pbs.twimg.com/media/EmOEqHJXcAAVWjU.jpg,https://t.co/1DUq5nJOTc
+294,1325048557842395139,"#30DayMapChallenge
+Day 7: Green - Síminn Cyclothon is a 1,358km relay race around Iceland’s Ring Road. I heard @chrisburkard on @richroll podcast, talk about his solo record breaking cycling race around Iceland. Get inspired! https://t.co/ic9NkN8wNo https://t.co/YcLhULoVef",en,2020-11-07 12:12:49,5,47,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",333524694,Christopher Pollard,CRVanPollard,"Philadelphia,PA",996,1206,http://pbs.twimg.com/media/EmOEXqJW4AAZ9F9.jpg,https://t.co/ic9NkN8wNo
+295,1325047092297887744,"#30DayMapChallenge 
+Day4. Hexagon
+
+E-bird observations of White-rumped vulture (A critically endangered vulture from Indian subcontinent) from 2013-2020 using @Team_eBird data in @ArcGISPro and @Photoshop https://t.co/SyD8Uldpjs",en,2020-11-07 12:06:59,1,2,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",229710576,Debanjan Sarkar,imDebanjan,"Dehradun, India",65,195,http://pbs.twimg.com/media/EmODSykU4AI1N9w.jpg,https://t.co/SyD8Uldpjs
+296,1325046521520414721,DAY7 #30DayMapChallenge 🙌 For today's theme 'Green' Research Associate Alessia Calafiore (@alel_domi) has created a map of #park #accessibility in the #LiverpoolCityRegion as part of an exploration into the #15minutecity #Rstats #OpenTripPlanner #QGIS 🔥 https://t.co/6jz6s4iIrA,en,2020-11-07 12:04:43,8,27,"[{'text': '30DayMapChallenge', 'indices': [5, 23]}, {'text': 'park', 'indices': [123, 128]}, {'text': 'accessibility', 'indices': [129, 143]}, {'text': 'LiverpoolCityRegion', 'indices': [151, 171]}, {'text': '15minutecity', 'indices': [207, 220]}, {'text': 'Rstats', 'indices': [221, 228]}, {'text': 'OpenTripPlanner', 'indices': [229, 245]}, {'text': 'QGIS', 'indices': [246, 251]}]",2280343142,GeoDataScience,geodatascience,Liverpool,3580,1695,http://pbs.twimg.com/media/EmOCOtWW4AAxneK.jpg,https://t.co/6jz6s4iIrA
+297,1325044545126604801,#30DayMapChallenge Day 7: Green. Access to green areas in Glasgow and surrounding areas https://t.co/VEkh5bRXoW,en,2020-11-07 11:56:52,1,12,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",2679909391,Zlata Popelnuh,popelnuhh,,93,154,http://pbs.twimg.com/media/EmOA5CtWMAMC7Vm.jpg,https://t.co/VEkh5bRXoW
+298,1325043096384655361,"A bit late to the party on this one. Day 7 of the #30DayMapChallenge is #green . Modelled intact habitat cores in the USA, created as part of Esri’s Green Infrastructure Initiative and available through the Living Atlas. #ArcGISPro #Esri https://t.co/mzX3yMg1lz",en,2020-11-07 11:51:06,1,7,"[{'text': '30DayMapChallenge', 'indices': [50, 68]}, {'text': 'green', 'indices': [72, 78]}, {'text': 'ArcGISPro', 'indices': [221, 231]}, {'text': 'Esri', 'indices': [232, 237]}]",874597331424993281,Richard Burke,GIS_Manipulator,"Newcastle Upon Tyne, England",87,87,http://pbs.twimg.com/media/EmN-UCHWEAASl20.jpg,https://t.co/mzX3yMg1lz
+300,1325040729798881281,"#30DayMapChallenge #day7 #green #QGIS 
+
+Allotment and community gardens in GB from the @OrdnanceSurvey Open Green space dataset, and a count of allotments per westminster constituency. I'm sure there is a PhD thesis in describing this distribution vs. industrial areas. https://t.co/KRYU6dYPrq",en,2020-11-07 11:41:42,1,7,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'day7', 'indices': [19, 24]}, {'text': 'green', 'indices': [25, 31]}, {'text': 'QGIS', 'indices': [32, 37]}]",77265423,Ian Turton,ijturton,"Worthing, UK",1075,891,http://pbs.twimg.com/media/EmN9aeGW4AU_coi.jpg,https://t.co/KRYU6dYPrq
+301,1325038286876848128,"#30DayMapChallenge 7: Green - Montreal's Green Line
+Station to station #dataviz animation, integrating #OSRM routing and #LiDAR scans for each station, animated by its GTFS schedule. #b3d #codevember https://t.co/OM5JdOlRGs",en,2020-11-07 11:32:00,1,11,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'dataviz', 'indices': [71, 79]}, {'text': 'OSRM', 'indices': [103, 108]}, {'text': 'LiDAR', 'indices': [121, 127]}, {'text': 'b3d', 'indices': [183, 187]}, {'text': 'codevember', 'indices': [188, 199]}]",2339659308,Tyler Sloan,quorumetrix,"Montréal, Québec",451,701,http://pbs.twimg.com/ext_tw_video_thumb/1324929821202288640/pu/img/yAxLxGqSMgLAWu6B.jpg,https://t.co/OM5JdOlRGs
+302,1325037307846660096,"#30DayMapChallenge - Day 7 - Green
+
+Showing the top 10 greenest cities in Germany by green area per inhabitant.
+
+Created with R. https://t.co/9uyolV8CXp",en,2020-11-07 11:28:06,1,10,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",733390000809730049,Richard Vogg,richard_vogg,Deutschland,71,150,http://pbs.twimg.com/media/EmN6VV6WMAATiAx.png,https://t.co/9uyolV8CXp
+303,1325032178699350016,"#30DayMapChallenge Day 7 | Green
+
+In 2018 @chrisluv &amp; I wrote a series of data driven articles as the data beats https://t.co/gDtlOsqaCg &amp; spoke at TC Europe/USA. Good fun, hard work, a mixed reception. Many articles are unfinished. Chris is finishing this one &amp; posting soon. https://t.co/OKRczCGT8k",en,2020-11-07 11:07:43,3,23,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",2614024302,Rob Radburn,robradburn,"Leicester, UK",3179,746,http://pbs.twimg.com/media/EmN1vhUXEAE8noJ.jpg,https://t.co/gDtlOsqaCg
+306,1325031296423366657,"En estos tiempos de pandemia viene bien recordar que en #Canarias tenemos al menos 2491 parques.
+
+#30DayMapChallenge día 7 Verde.
+
+Versión interactiva: https://t.co/HFKGoea5tN
+
+Pintado con #threejs 🎨.
+Fuente EIEL del Gobierno de Canarias. @territoriocan. https://t.co/i733RLhn2H",es,2020-11-07 11:04:13,1,3,"[{'text': 'Canarias', 'indices': [56, 65]}, {'text': '30DayMapChallenge', 'indices': [98, 116]}, {'text': 'threejs', 'indices': [189, 197]}]",1205192839145111557,X-Y.es,x_y_es,Las Palmas de Gran Canaria,79,113,http://pbs.twimg.com/media/EmN00aNW4AEeZ_e.jpg,https://t.co/HFKGoea5tN
+308,1325028437883490304,#30DayMapChallenge - green and a bit of mint :) https://t.co/ekpA8FxDNY,en,2020-11-07 10:52:52,2,45,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",2902589494,Patrycja Krajczyńska,mapsbyp,Poland,963,1125,http://pbs.twimg.com/media/EmNyVuIXYAAujBF.jpg,https://t.co/ekpA8FxDNY
+309,1325027869723156481,"#30DayMapChallenge Day 7 | Green
+
+Who loves Italian wine 🍷🇮🇹? Today's map shows the vineyards in one of the Italian excellences for wine production: Franciacorta, in Northern Italy.
+
+Sources: @openstreetmap for vineyards &amp; @minambienteIT for the orthophoto. Map made in #QGIS. https://t.co/CAN8XNSY46",en,2020-11-07 10:50:36,1,14,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'QGIS', 'indices': [274, 279]}]",1669906789,Marco Minghini,MarcoMinghini,"Como, Italy",1036,654,http://pbs.twimg.com/media/EmNxQSJXYAAxO_b.jpg,https://t.co/CAN8XNSY46
+310,1325027397025079296,"#30DayMapChallenge 7th day - green
+the distribution by neighborhood of the trees managed by the municipality of the city where I live
+https://t.co/yufqH5hLzW https://t.co/F1fhYgTmgl",en,2020-11-07 10:48:43,3,13,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",5159271,Maurizio Napolitano,napo,"Trento, Italy, Europe",5047,1794,http://pbs.twimg.com/tweet_video_thumb/EmNxFQEXUAEeeWt.jpg,https://t.co/yufqH5hLzW
+311,1325026909521113088,"#30DayMapChallenge Day 7: Green
+
+Vegetation is green. Forests are marked unpopulated in Kontur Population unless there’s a building. https://t.co/jANexe9a5I",en,2020-11-07 10:46:47,1,4,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",1024584556110852096,Kontur,KonturInc,"1305 N. Holopono Street, Suite 2
+Kihei HI 96753 
+USA",201,212,http://pbs.twimg.com/media/EmNw65IWMAMCNPL.jpg,https://t.co/jANexe9a5I
+312,1325026418774798337,"#30DayMapChallenge day 7, green. The world with @tjukanov's digital rain style. Made in #QGIS with Natural Earth data. https://t.co/G8fNjMYksQ",en,2020-11-07 10:44:50,2,29,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'QGIS', 'indices': [88, 93]}]",256783357,Juan Luis Torres,juanluistv_,Ciudad de México,150,104,http://pbs.twimg.com/media/EmNwfdyVoAIDZbs.jpg,https://t.co/G8fNjMYksQ
+313,1325026252558905344,"For today's #30DayMapChallenge (topic: Green), I looked back at my Ardennes hiking trip last September. 
+
+Especially this 42km walk between Éprave and Libramont, through the stunning gorge of the Lomme river, was very memorable! https://t.co/JKNd9MWc1p",en,2020-11-07 10:44:11,1,17,"[{'text': '30DayMapChallenge', 'indices': [12, 30]}]",1413024271,Koen Van den Eeckhout,Koen_VdE,"Gent, België",1804,1457,http://pbs.twimg.com/media/EmNwVYPXMAEsfHR.jpg,https://t.co/JKNd9MWc1p
+314,1325026237262213120,"Los árboles urbanos de Amsterdam, esta vez a menor escala:
+
+Amsterdam urban trees, now in a smaller scale:
+
+#30DayMapChallenge https://t.co/hUxZeVPs9U",es,2020-11-07 10:44:07,3,13,"[{'text': '30DayMapChallenge', 'indices': [108, 126]}]",769592708,Valentín Sastre,valen_ibiza,IBIZA / Barcelona,324,869,http://pbs.twimg.com/media/EmNwIh_XIAARQ-c.jpg,https://t.co/hUxZeVPs9U
+315,1325025066481033219,"Day7 of the #30DayMapChallenge is green. Another vessel map but densities this time looking at oil traffic, links with oil fields, land, and #shipping routes around #Shetland. #NAFCResearch #ThinkUHI #GIS https://t.co/GuXk3WF88T",en,2020-11-07 10:39:28,1,9,"[{'text': '30DayMapChallenge', 'indices': [12, 30]}, {'text': 'shipping', 'indices': [141, 150]}, {'text': 'Shetland', 'indices': [165, 174]}, {'text': 'NAFCResearch', 'indices': [176, 189]}, {'text': 'ThinkUHI', 'indices': [190, 199]}, {'text': 'GIS', 'indices': [200, 204]}]",1106525318553182209,Richard Shelmerdine,RLShelmerdine,"Scotland, United Kingdom",69,118,http://pbs.twimg.com/media/EmNvP-xXMAUBKAx.png,https://t.co/GuXk3WF88T
+316,1325024185878450176,"#30DayMapChallenge 
+
+Day 7 - Green
+
+Lee Valley Regional Park, London
+
+Data - @OrdnanceSurvey 
+Tools - @Avenza MaPublisher
+
+@bcsweb https://t.co/V5mI6DqudP",en,2020-11-07 10:35:58,1,6,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",238730325,David McCutcheon,DVDMaps,"Shrewsbury, England",190,198,http://pbs.twimg.com/media/EmNudjqW4AEk4V4.jpg,https://t.co/V5mI6DqudP
+318,1325023470992830464,"Day 7 of #30DayMapChallenge. Green.
+
+A map about the moment of joy just before running into a park; the mown stria and that newly-cut grass scent promising the world.
+
+Made in #ArcPro using watercolour textures from @John_M_Nelson and @WarrenDz https://t.co/7YsPhb3mrA",en,2020-11-07 10:33:07,1,12,"[{'text': '30DayMapChallenge', 'indices': [9, 27]}, {'text': 'ArcPro', 'indices': [176, 183]}]",29162437,Kerrin Sime,kjsime," NZ, most of the time.",42,118,http://pbs.twimg.com/media/EmNt0ueVMAAHkaM.jpg,https://t.co/7YsPhb3mrA
+319,1325023118444867584,"#30DayMapChallenge 
+
+07 - Verde. Árboles de Amsterdam.
+
+07 - Green. Amsterdam trees. https://t.co/MQ4Rf5J5d5",es,2020-11-07 10:31:43,3,13,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",769592708,Valentín Sastre,valen_ibiza,IBIZA / Barcelona,324,869,http://pbs.twimg.com/media/EmNtc_mWMAEl2jf.jpg,https://t.co/MQ4Rf5J5d5
+320,1325022739699273730,"#30DayMapChallenge Edinburgh NDVI from @esa @ESA_EO #Sentinel2 data. 
+#Day7 #Green https://t.co/D2aBFptxzi",und,2020-11-07 10:30:13,1,7,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'Sentinel2', 'indices': [52, 62]}, {'text': 'Day7', 'indices': [70, 75]}, {'text': 'Green', 'indices': [76, 82]}]",1272146417323294721,Euan Mitchell,MindOverMagma,"Edinburgh, Scotland",34,95,http://pbs.twimg.com/media/EmNtJ8FXEAA4gQb.jpg,https://t.co/D2aBFptxzi
+321,1325021182157074433,A lovely 'green' map for day 7 of @OrdnanceSurvey #30DayMapChallenge - this is one of many made to showcase the wonderful #Westcountry where we are lucky to work looking after rivers and their habitats #BringingRiversToLife https://t.co/8Vw1bqxMOd,en,2020-11-07 10:24:02,3,15,"[{'text': '30DayMapChallenge', 'indices': [50, 68]}, {'text': 'Westcountry', 'indices': [122, 134]}, {'text': 'BringingRiversToLife', 'indices': [202, 223]}]",454007980,Westcountry Rivers Trust,WestcountryRT,Cornwall.Devon.Dorset.Somerset,4553,3595,http://pbs.twimg.com/media/EmNrvluWEAYpOdX.jpg,https://t.co/8Vw1bqxMOd
+323,1325018784332214272,"Two for the price of one on the #30DayMapChallenge. Day 7 theme is “green”, so I share an obvious choice: two maps of The Emerald Trail from Slovenia. https://t.co/rEMMCmUPYQ",en,2020-11-07 10:14:30,1,4,"[{'text': '30DayMapChallenge', 'indices': [32, 50]}]",176337766,Danny Cullinane,timbertopper400,NW England,385,762,http://pbs.twimg.com/media/EmNpicoXUAAEnk7.jpg,https://t.co/rEMMCmUPYQ
+324,1325018686583955461,"#30DayMapChallenge - 07 Green
+
+Golf course in Sion, VS, Switzerland
+
+Map data from @openstreetmap https://t.co/EuIgBqU7eD",en,2020-11-07 10:14:07,1,4,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",1320623996249976832,Raphaël Bz,1cartogRaph,Switzerland,6,2,http://pbs.twimg.com/media/EmNoyMEXEAAexsb.jpg,https://t.co/EuIgBqU7eD
+325,1325018422636400640,#30DayMapChallenge Day 7 : green https://t.co/yLZYOtIgks,en,2020-11-07 10:13:04,1,4,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",233525664,Julien,JulienQuotidien,Le Havre,466,185,http://pbs.twimg.com/media/EmNpNfLWMAA7hve.jpg,https://t.co/yLZYOtIgks
+326,1325015392838881281,"We offer free TRACC licences to students, this project looked at the link between greenspace accessibility and health of the local population!
+
+https://t.co/Gq2ZUwMvsN
+
+#30daymapchallenge #green #student #greenspace  #accessibility https://t.co/UC1smzYIPJ",en,2020-11-07 10:01:01,0,3,"[{'text': '30daymapchallenge', 'indices': [169, 187]}, {'text': 'green', 'indices': [188, 194]}, {'text': 'student', 'indices': [195, 203]}, {'text': 'greenspace', 'indices': [204, 215]}, {'text': 'accessibility', 'indices': [217, 231]}]",49592380,Basemap,basemap,"Guildford, Surrey",1688,1647,http://pbs.twimg.com/media/EmNmeeGWEAEQewc.jpg,https://t.co/Gq2ZUwMvsN
+327,1325015383217147905,"The theme for the #30DayMapChallenge today is green, so we're sharing Britain's favourite OS Maps routes of 2019👇 https://t.co/clJOq48kcV https://t.co/Fl9bXyPUTL",en,2020-11-07 10:00:59,5,34,"[{'text': '30DayMapChallenge', 'indices': [18, 36]}]",22614266,Ordnance Survey,OrdnanceSurvey,"Southampton, UK",60450,3732,http://pbs.twimg.com/media/EmNmd9uXYAIW0-N.jpg,https://t.co/clJOq48kcV
+328,1325015139737853952,"Day 7 of #30DayMapChallenge--green! Building on yesterday's red them, we want to share Seutter's plan of Prague (Augsburg, ca. 1730). 
+
+That bird's-eye-view at the bottom deserves a closer look: https://t.co/p3wYJApyLV https://t.co/gNf9GFoMU7",en,2020-11-07 10:00:01,1,2,"[{'text': '30DayMapChallenge', 'indices': [9, 27]}]",744888105602260993,Raremaps.com,BarryRuderman,"La Jolla, San Diego",664,432,http://pbs.twimg.com/media/EmIa4WrW0AAxq8q.jpg,https://t.co/p3wYJApyLV
+329,1325015139280510976,"Day 7- #30DayMapChallenge 
+Theme: Green, visualised using QGIS.
+Green Space is vital to health and wellbeing! Played around with cartograms to alter state size based on distance to nearest National Park! Didn't work too well but it was a trial! https://t.co/MTxgyr3Vxp",en,2020-11-07 10:00:01,1,7,"[{'text': '30DayMapChallenge', 'indices': [7, 25]}]",636238090,Simon Leech,simonmleech,,27,103,http://pbs.twimg.com/media/ElkWzmvWkAAr74k.jpg,https://t.co/MTxgyr3Vxp
+330,1325014400277733378,"Day 6: Red
+Joy plot of Te Waipounamu
+#30DayMapChallenge https://t.co/AsLt63baYv",en,2020-11-07 09:57:05,1,2,"[{'text': '30DayMapChallenge', 'indices': [37, 55]}]",1851147889,Simon,iamSimon_A,NZ,224,1310,http://pbs.twimg.com/media/EmNlkvNUYAAQosD.jpg,https://t.co/AsLt63baYv
+331,1325013342533132288,"Day 7 (Green) of #30DayMapChallenge.
+
+I chose the very original topic of green spaces in London. Both Hyde Park and Hampstead Heath fade in comparison to Richmond or Bushy parks in the southwest.
+
+ Polygons from @OrdnanceSurvey's Strategi dataset. https://t.co/D7DB7r39JT",en,2020-11-07 09:52:53,1,10,"[{'text': '30DayMapChallenge', 'indices': [17, 35]}]",963423777135759360,Ilya Ilyankou,ilyankou,London,40,108,http://pbs.twimg.com/media/EmNkUZmXIAArkyk.jpg,https://t.co/D7DB7r39JT
+332,1325013073111953409,"Day 7 #30DayMapChallenge Green
+
+#Slytherin  
+
+#HarryPotter film location Hogwarts Express route - Glenfinnan Viaduct
+
+#OpenSource #QGIS https://t.co/UFRMFNdGi6",en,2020-11-07 09:51:48,1,14,"[{'text': '30DayMapChallenge', 'indices': [6, 24]}, {'text': 'Slytherin', 'indices': [32, 42]}, {'text': 'HarryPotter', 'indices': [46, 58]}, {'text': 'OpenSource', 'indices': [118, 129]}, {'text': 'QGIS', 'indices': [130, 135]}]",223959960,Kirsten Reilly,_penguin_runner,"Stirling, Scotland",356,1209,http://pbs.twimg.com/media/EmNkVLOW8AE44e3.jpg,https://t.co/UFRMFNdGi6
+333,1325013003759181824,"Around 300 tweets on Day 6 (Red) #30DayMapChallenge 
+https://t.co/qPaklnnzCe https://t.co/IzAobZazSa",en,2020-11-07 09:51:32,1,1,"[{'text': '30DayMapChallenge', 'indices': [33, 51]}]",528087151,Haifeng Niu,niu_haifeng,"Cambridge, England",29,400,http://pbs.twimg.com/media/EmNkSTvWEAAfRIX.png,https://t.co/qPaklnnzCe
+334,1325012957118533632,"#30DayMapChallenge Day 7: Green
+
+Wild areas of the globe, i.e., not dominated by human settlement and economic activity. 
+
+Source: Anthromes v. 2.0 https://t.co/tgUgvajId5",en,2020-11-07 09:51:21,2,17,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",65064975,Jessica McCarty,jmccarty_geo,Myaamia land & The World,2683,4023,http://pbs.twimg.com/media/EmNjtV6XIAA_nR6.jpg,https://t.co/tgUgvajId5
+335,1325012362965946374,"Time to join the #30daymapchallenge 
+Day 7 #Green
+
+What's more green than 18 at the most famous golf course in the world. The original home of golf, St. Andrews. 
+
+#standrewsoldcourse #standrews #golf #map #gis #arcgispro #watercolor https://t.co/10AHf6HuG8",en,2020-11-07 09:48:59,0,7,"[{'text': '30daymapchallenge', 'indices': [17, 35]}, {'text': 'Green', 'indices': [43, 49]}, {'text': 'standrewsoldcourse', 'indices': [164, 183]}, {'text': 'standrews', 'indices': [184, 194]}, {'text': 'golf', 'indices': [195, 200]}, {'text': 'map', 'indices': [201, 205]}, {'text': 'gis', 'indices': [206, 210]}, {'text': 'arcgispro', 'indices': [211, 221]}, {'text': 'watercolor', 'indices': [222, 233]}]",426008860,James Goodyear,jgoodyear9,Newcastle ,40,170,http://pbs.twimg.com/media/EmNjtJsXYAAMwxS.jpg,https://t.co/10AHf6HuG8
+336,1325011360917450753,Day 6 of #30DayMapChallenge - Red visualizing #Landsat scenes spanning over #Kenya https://t.co/sgtJjyb6Aw,en,2020-11-07 09:45:00,1,3,"[{'text': '30DayMapChallenge', 'indices': [9, 27]}, {'text': 'Landsat', 'indices': [46, 54]}, {'text': 'Kenya', 'indices': [76, 82]}]",269308570,Joseph Kariuki,JkariukiDev,Kenya,272,260,http://pbs.twimg.com/media/EmNiqM3XYAAqA8K.png,https://t.co/sgtJjyb6Aw
+337,1325011210937495553,"Day 7 of #30DayMapChallenge : Green. All the green bits of Berlin from forests to parks to allotments, Berlin has a lot to offer🌲🌹🌻🌷🌼🌺🌳. Data from @openstreetmap Code: https://t.co/rkHfNaGQF5 https://t.co/OPX9CzHpXP",en,2020-11-07 09:44:24,2,16,"[{'text': '30DayMapChallenge', 'indices': [9, 27]}]",7541002,Sebastian Meier,seb_meier,,1260,141,http://pbs.twimg.com/media/EmNibyYXUAAczxP.jpg,https://t.co/rkHfNaGQF5
+338,1325011159615827968,"Day 5 ~ 8, blue, red green and yellow
+City names with colors in Japan.
+Data from 国土数値情報, MapTiler and OpenStreetMap contributors.
+There were no yellowish municipality.
+#30DayMapChallenge https://t.co/1MXDQ9Xeap",en,2020-11-07 09:44:12,1,1,"[{'text': '30DayMapChallenge', 'indices': [168, 186]}]",1056888822942711808,mits miyake,mmits003,Sapporo,175,356,http://pbs.twimg.com/media/EmNiadqU4AENmn3.png,https://t.co/1MXDQ9Xeap
+339,1325008328716668929,"#30DayMapChallenge 
+
+Day 7: Green
+
+An experimental merging of @OrdnanceSurvey 1:25k mapping with high resolution LiDAR data for the area around Green Park in central London.
+
+Made with a combination of QGIS, #Aerialod and GIMP. https://t.co/tUO6ammjs0",en,2020-11-07 09:32:57,3,12,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'Aerialod', 'indices': [208, 217]}]",2213909976,Colin Angus,VictimOfMaths,,4851,595,http://pbs.twimg.com/media/EmNgDCCXUAAI9no.jpg,https://t.co/tUO6ammjs0
+340,1325007685813612544,Day 7 Green! #30DayMapChallenge https://t.co/G2CCsca4lm,en,2020-11-07 09:30:24,1,4,"[{'text': '30DayMapChallenge', 'indices': [13, 31]}]",69910493,🌬⛅️,wndieps,New Zealand,399,371,http://pbs.twimg.com/media/EmNfdyMVgAIX7St.jpg,https://t.co/G2CCsca4lm
+341,1325006622612221954,"#30DayMapChallenge Day 7: Green
+A quick one, and more ancient history. This is what @OrdnanceSurvey 1:25,000 maps looked like when I was growing up - no fancy pictures in those days. https://t.co/V60NIBA9wR",en,2020-11-07 09:26:10,1,9,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",1268236531,Tom Timms,TomTheMap,"Cambridgeshire, UK",419,633,http://pbs.twimg.com/media/EmNeCI8W4AA1aec.jpg,https://t.co/V60NIBA9wR
+342,1325005623755354112,"Day 7. Green! #30DayMapChallenge. I have a friend that works on the circular economy in the Auckland Region. I love her work and passion for it. I hope there is a great change afoot for NZ, with PC helping lead it. https://t.co/J05HdoDf5b",en,2020-11-07 09:22:12,2,10,"[{'text': '30DayMapChallenge', 'indices': [14, 32]}]",3005542459,Simon Bardsley,geotologist,New Zealand,47,282,http://pbs.twimg.com/media/EmNcZ3xVcAAED2J.jpg,https://t.co/J05HdoDf5b
+344,1325003558098411520,"#30DayMapChallenge - 07 - Green
+
+Écorégions d'Amérique du sud https://t.co/xdHZhLwhyF",fr,2020-11-07 09:14:00,12,85,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",2367649759,Gaëlle Sutton,Gaelle_Sutton,,1661,1793,http://pbs.twimg.com/media/EmJEioTWkAIktxf.jpg,https://t.co/xdHZhLwhyF
+345,1325002792264740864,"#30DayMapChallenge Day 6 Red. I tried to put RED colour on a map for sprint #orienteering. The full red is forbidden or impossible to cross, and light red is private area also forbidden to enter. The idea is to simplify the runners' interpretation of the map. Gävle, Sweden. https://t.co/M9b9U9ybh1",en,2020-11-07 09:10:57,2,2,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'orienteering', 'indices': [76, 89]}]",143843229,ABC,zerbembasqwibo,,196,73,http://pbs.twimg.com/media/EmNaqDBW8AAkkDl.jpg,https://t.co/M9b9U9ybh1
+346,1325002214524538880,"Day 7 - Green #30DayMapChallenge 
+My first attempt at using the 3D maps in #QGIS https://t.co/PDxEmbtLqu",en,2020-11-07 09:08:39,2,13,"[{'text': '30DayMapChallenge', 'indices': [14, 32]}, {'text': 'QGIS', 'indices': [75, 80]}]",996835888813494272,Catherine Schroder,cj_maps,"Scotland, United Kingdom",22,29,http://pbs.twimg.com/media/EmNaffGW4AIb64o.jpg,https://t.co/PDxEmbtLqu
+347,1325002073956560896,"#30DayMapChallenge Day 7. Green. Animation showing annual NDVI variation in Europe. 2019-01-01 - 2020-01-01.
+
+Created in @googledevs #modis @NASAEarth @NASA https://t.co/5HKt2oWwsN",en,2020-11-07 09:08:06,2,11,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'modis', 'indices': [133, 139]}]",461965493,Kristīne,kriksine,,321,369,http://pbs.twimg.com/tweet_video_thumb/EmNaUsTXcAAZIRT.jpg,https://t.co/5HKt2oWwsN
+348,1325002047834345472,"Green = forest, right? So for today’s #30DayMapChallenge theme I decided to show the forests in the central part of The Netherlands as an archipelago with a mix of real and sort-of-real toponyms. #cartography #lovemaps https://t.co/4r4zIf2wXv",en,2020-11-07 09:08:00,1,17,"[{'text': '30DayMapChallenge', 'indices': [38, 56]}, {'text': 'cartography', 'indices': [196, 208]}, {'text': 'lovemaps', 'indices': [209, 218]}]",109054515,Hans van der Maarel,redgeographics,The Netherlands,1937,605,http://pbs.twimg.com/media/EmDCwTJXYAEXH6v.png,https://t.co/4r4zIf2wXv
+349,1325001658435325953,#30DayMapChallenge #Green https://t.co/728f6ID7fF,und,2020-11-07 09:06:27,1,10,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'Green', 'indices': [19, 25]}]",782161298,Neil Harris 'UO web',Neil_py_harris,Newcastle-upon-Tyne,257,289,http://pbs.twimg.com/media/EmNZ_G6W8AMYwaz.jpg,https://t.co/728f6ID7fF
+350,1325001552302583808,"#30DayMapChallenge Day 7 Green. Feeling a bit ""green about the gills""? Map of anti-nausea prescription spending per person at GP locations. NorthEast, Manchester, Preston. https://t.co/NnSlgXNaix",en,2020-11-07 09:06:02,2,16,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",88731801,Barry Rowlingson🐺,geospacedman,"Lancaster, UK",1652,474,http://pbs.twimg.com/media/EmNZWtQXYAAQ32k.jpg,https://t.co/NnSlgXNaix
+351,1325000752373362688,"@JonasStillhard #30daymapchallenge 
+Day 2: Lines. I did similair thing, extracting contours with 'contour trace' from a map in #Grövelsjön Sweden. The function has now been included in #OpenOrienteering Mapper. https://t.co/FDteoGYTDU",en,2020-11-07 09:02:51,2,1,"[{'text': '30daymapchallenge', 'indices': [16, 34]}, {'text': 'Grövelsjön', 'indices': [127, 138]}, {'text': 'OpenOrienteering', 'indices': [185, 202]}]",143843229,ABC,zerbembasqwibo,,196,73,http://pbs.twimg.com/media/EmNZGAkXMAEZ_fm.png,https://t.co/FDteoGYTDU
+352,1325000477176590344,"Save the date! This Thursday, 11/12 at 7 pm EST we'll be cohosting another virtual #TriviaNight, this time with @EmNecklaceBos! Bring your park facts &amp; your friends, &amp; meet us on Facebook or YouTube. Registration recommended at https://t.co/EO40MKfljP. #30DayMapChallenge: green https://t.co/QvKd3bWAxl",en,2020-11-07 09:01:45,1,4,"[{'text': 'TriviaNight', 'indices': [83, 95]}, {'text': '30DayMapChallenge', 'indices': [261, 279]}]",65125461,Leventhal Map & Education Center at the BPL,bplmaps,"Copley Square, Boston, MA",4968,678,http://pbs.twimg.com/media/EmNYwOHXcAA2wU2.jpg,https://t.co/EO40MKfljP.
+353,1325000320401989632,#30DayMapChallenge https://t.co/lhddfm6z0L,und,2020-11-07 09:01:08,1,0,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",143843229,ABC,zerbembasqwibo,,196,73,http://pbs.twimg.com/media/EmNYvLvWMAAw6Vs.jpg,https://t.co/lhddfm6z0L
+354,1325000240299200513,"#30DayMapChallenge #Day7 #Green
+#Carte de la production mondiale de #Tabac
+#LeCartographe https://t.co/5Ufk0HBKx9",fr,2020-11-07 09:00:49,11,30,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'Day7', 'indices': [19, 24]}, {'text': 'Green', 'indices': [25, 31]}, {'text': 'Carte', 'indices': [32, 38]}, {'text': 'Tabac', 'indices': [68, 74]}, {'text': 'LeCartographe', 'indices': [75, 89]}]",751148918,Le Cartographe,lecartographe,"Châteauroux-les-Alpes, France",5768,754,http://pbs.twimg.com/media/EmNYokrWMAEK9mu.jpg,https://t.co/5Ufk0HBKx9
+355,1325000206690168832,"#30DayMapChallenge #Green
+Made a map with Karttapullautin over the vegetation in Lövåsen Grövelsjön Sweden. It's to be used as base map for orienteering map. The thick vegetation is always called ""green areas"" because the thicker forest the more dark green colour on the map. https://t.co/fAr9OJAd8k",en,2020-11-07 09:00:41,2,1,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'Green', 'indices': [19, 25]}]",143843229,ABC,zerbembasqwibo,,196,73,http://pbs.twimg.com/media/EmNX_CAXMAIUpZ_.jpg,https://t.co/fAr9OJAd8k
+356,1324999727075692544,"Jour 7 du #30DayMapChallenge : révisons notre alphabet !
+Dans la série #lacartequisertarien mais qui ressemble à une guirlande de Noël, et ça c'est sympa.
+Oui, j'exploite le filon 😂
+Notons l'importance des couleurs qui permettent de reconnaître d'emblée les lignes tracées. https://t.co/stGU2viuuB",fr,2020-11-07 08:58:46,1,4,"[{'text': '30DayMapChallenge', 'indices': [10, 28]}, {'text': 'lacartequisertarien', 'indices': [71, 91]}]",1026155967480844291,Anne L.,AlandcoC,Versailles ,759,757,http://pbs.twimg.com/media/EmNYOs_XMAAJBZW.jpg,https://t.co/stGU2viuuB
+357,1324998132254576641,"Kew Gardens in London contains 14,000 trees with over 2,000 species. This UNESCO World Heritage Site has been open to the public since 1840 #30DayMapChallenge 7 - Green https://t.co/7taKBpoDmi",en,2020-11-07 08:52:26,4,53,"[{'text': '30DayMapChallenge', 'indices': [140, 158]}]",2809999793,Owen Powell,owenjpowell,Leamington Spa,1764,282,http://pbs.twimg.com/media/EmNWQqJXEAUHuDC.jpg,https://t.co/7taKBpoDmi
+358,1324997594376925184,"Day 7 of #30DayMapChallenge – Green
+
+Christchurch Trees
+
+'Trees' data from Christchurch City Council, with the darker point being fruit trees
+
+https://t.co/7y57YjnCTJ
+
+(Always helps to include the map image when tweeting about a map) https://t.co/St0S4IGGXF",en,2020-11-07 08:50:18,1,6,"[{'text': '30DayMapChallenge', 'indices': [9, 27]}]",1020137956869222401,Andrew Tyrrell,SouthArrowMaps,"Christchurch, New Zealand",1079,188,http://pbs.twimg.com/media/EmNWPBoU8AACLxb.jpg,https://t.co/7y57YjnCTJ
+359,1324997369113407488,Day 6 of #30DayMapChallenge  Red https://t.co/n5FKrU9K4A,en,2020-11-07 08:49:24,1,1,"[{'text': '30DayMapChallenge', 'indices': [9, 27]}]",1322740260422385665,Anat Zohar,AnatZohar4,,1,11,http://pbs.twimg.com/media/EmNV-lyVkAA3kat.jpg,https://t.co/n5FKrU9K4A
+360,1324996610141589504,"Day 7 (green): Energy #30DayMapChallenge
+(in collaboration with R. Ysebaert, 2002) https://t.co/R9nFqWoECo",en,2020-11-07 08:46:23,4,23,"[{'text': '30DayMapChallenge', 'indices': [22, 40]}]",1035417413586694144,neocarto,neocartocnrs,Paris,1270,374,http://pbs.twimg.com/media/EmNTo7VW4AAhHQK.jpg,https://t.co/R9nFqWoECo
+361,1324996351009189889,#30DayMapChallenge day 7 ‘Green’ Forest in Europe. There is still a lot of place for trees in flanders. Come on climate- lovers🌲🌳🍃🍂🍁🍄 data @ESA_BE @CopernicusEU https://t.co/8Pl5RxWz5Y,en,2020-11-07 08:45:21,1,9,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",919806358328958976,Vicky Verscheijden,gis3700,"Tongeren, België",78,131,http://pbs.twimg.com/media/EmNVKBGW4AAFNOk.jpg,https://t.co/8Pl5RxWz5Y
+362,1324994344059723777,"Join us on @osm_in #VirtualMappyHours tonight (7Nov) 9-10pm IST. Saritha takes you through the offline #OSM editor #JOSM, a fantastic tool for #OpenStreetMap making https://t.co/WxWgk43MVs 
+#LetGirlsMap #30DayMapChallenge https://t.co/BSoXoR6lk3",en,2020-11-07 08:37:23,2,2,"[{'text': 'VirtualMappyHours', 'indices': [19, 37]}, {'text': 'OSM', 'indices': [103, 107]}, {'text': 'JOSM', 'indices': [115, 120]}, {'text': 'OpenStreetMap', 'indices': [143, 157]}, {'text': 'LetGirlsMap', 'indices': [190, 202]}, {'text': '30DayMapChallenge', 'indices': [203, 221]}]",44111340,ark Arjun,arkarjun,Palakkad | gods own country,402,278,http://pbs.twimg.com/media/EmNTU6oVMAImRdf.jpg,https://t.co/WxWgk43MVs
+363,1324993994800050176,"Global access to Internet mapped based on the @Speedtest data. Brighter colors indicate faster connections. 
+
+#30DayMapChallenge day 7: green https://t.co/H2GKzR7SL2",en,2020-11-07 08:36:00,89,388,"[{'text': '30DayMapChallenge', 'indices': [110, 128]}]",2198358416,Topi Tjukanov,tjukanov,"Helsinki, Suomi",11837,2519,http://pbs.twimg.com/media/EmIJOdWWoAEv28R.jpg,https://t.co/H2GKzR7SL2
+364,1324993912134569984,"#30DayMapChallenge day 7 : green
+- Les terres avant colonisations/privatisations
+- Cultures vivrières vs plantations
+- Les femmes et l'agriculture https://t.co/nSI90e9byl",fr,2020-11-07 08:35:40,15,61,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",252009888,Agnès Stienne,odilon72,Le Mans,775,477,http://pbs.twimg.com/media/EmNR6qrXYAAWuYc.jpg,https://t.co/nSI90e9byl
+365,1324993593816322055,"#30DayMapChallenge Day 7: Green
+Seasonal NDVI - Israel/West Bank/Gaza | MODIS satellite via #GoogleEarthEngine
+
+I've been wanting to learn how to do this for a while. Pretty easy to figure out using this tutorial:
+https://t.co/nLmbg426Vz https://t.co/V2mgdkTRFW",en,2020-11-07 08:34:24,3,24,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'GoogleEarthEngine', 'indices': [92, 110]}]",1000055398697709569,Eliav S-T,est987,Israel,308,1670,http://pbs.twimg.com/tweet_video_thumb/EmNSbT0W8AAPX8d.jpg,https://t.co/nLmbg426Vz
+366,1324992484922056706,"Day 7. Green
+Countries whose nationals can travel (relatively) easily across the world or are forced to immobility due to migration policy of rich countries
+#30DayMapChallenge 
+(N. Lambert, Migreurop, 2017
+- F. Bahoken, trad., 2019) https://t.co/U4Xj1TxyP9",en,2020-11-07 08:30:00,2,6,"[{'text': '30DayMapChallenge', 'indices': [157, 175]}]",1270971523466223618,Cartographie(s) & Migration(s),geomigr,,267,20,http://pbs.twimg.com/media/EmLPrtnWMAA8XBM.png,https://t.co/U4Xj1TxyP9
+367,1324990419395092480,"7. Green: #greeninfrastructure of Estonia #30DayMapChallenge #greendeal #ecosystemservices #biodiversity 🌳🌲🌍 Data: Estonian Environment Agency, Hendrikson&amp;Co https://t.co/OYcdmFlxHT https://t.co/1GKOwtgZVB",es,2020-11-07 08:21:47,1,16,"[{'text': 'greeninfrastructure', 'indices': [10, 30]}, {'text': '30DayMapChallenge', 'indices': [42, 60]}, {'text': 'greendeal', 'indices': [61, 71]}, {'text': 'ecosystemservices', 'indices': [72, 90]}, {'text': 'biodiversity', 'indices': [91, 104]}]",47698876,Evelyn,evelynuuemaa,Estonia,401,274,http://pbs.twimg.com/media/EmNPMrYXIAMpDNr.jpg,https://t.co/OYcdmFlxHT
+368,1324990172295991296,"#30DayMapChallenge - Day 7 : Green
+
+Dans le cadre du diversity immigrant visa program, le gouvernement américain organise chaque année une loterie offrant à 55 000 étrangers une carte de résident permanent 🗽 https://t.co/zVDEsg9bzk",fr,2020-11-07 08:20:48,1,14,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",577363985,Arthur Beaubois-Jude,Tabularthur,,283,218,http://pbs.twimg.com/media/EmNPc_gW8AABetI.jpg,https://t.co/zVDEsg9bzk
+369,1324987084193591296,"Day 07 - Green
+#30DayMapChallenge https://t.co/66dsfchgqE",en,2020-11-07 08:08:32,7,36,"[{'text': '30DayMapChallenge', 'indices': [15, 33]}]",52190652,Oliver Burdekin,burdGIS,"Wakefield, England",1355,2894,http://pbs.twimg.com/media/EmNMsdtXUAA7KBe.jpg,https://t.co/66dsfchgqE
+370,1324985599510654976,"#30DayMapChallenge
+#Day7 #Green
+#Aerialod
+African population density spikes render https://t.co/zRcrg4axgy",en,2020-11-07 08:02:38,2,16,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'Day7', 'indices': [19, 24]}, {'text': 'Green', 'indices': [25, 31]}, {'text': 'Aerialod', 'indices': [32, 41]}]",938055192221765634,Aurelien Chaumet,AurelienChaumet,Ile d'Oléron,466,1159,http://pbs.twimg.com/media/EmNLYSeW4AIp3e0.jpg,https://t.co/zRcrg4axgy
+371,1324983883016904706,"#30DayMapChallenge  07. Green
+
+Pea production in France
+
+Made with #QGIS https://t.co/thZ3tTUmsX",en,2020-11-07 07:55:49,3,21,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'QGIS', 'indices': [67, 72]}]",892006500,Romain Lx,lacxrx,Vaucluse,506,248,http://pbs.twimg.com/media/EmNJm1PXMAEClJs.jpg,https://t.co/thZ3tTUmsX
+372,1324983592460689409,"Day 7. Green: Lush Green Garden. Added some flowebeds, pavements, hedges and stuff. Created with #QGIS advanced digitizing tools and construction mode. This is the current situation in the garden. #30dayMapChallenge https://t.co/Cly6AVcKmy",en,2020-11-07 07:54:40,2,10,"[{'text': 'QGIS', 'indices': [97, 102]}, {'text': '30dayMapChallenge', 'indices': [197, 215]}]",3552542476,Sanna Jokela,SannaJokela1,"Turku, Suomi",519,404,http://pbs.twimg.com/media/EmNJd4cW8AMtcjx.jpg,https://t.co/Cly6AVcKmy
+373,1324981495493255168,"#30DayMapChallenge Day 7 : Green. MSOAs (small areas with pop ca. 7k where name contains ""Green."" One mapped in @QGIS, the other in @ArcGISOnline at https://t.co/vwC7BW4oT6. Data from @HouseofCommons and @ONS https://t.co/HDuJykBCLv",en,2020-11-07 07:46:20,1,4,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",1074378707438055426,Blandford Bread,BlandfordBread,"South West, England",440,787,http://pbs.twimg.com/media/EmNHC1lXIAAhQZc.png,https://t.co/vwC7BW4oT6.
+374,1324978718603956224,"#30DayMapChallenge day 7 : green
+Europe amazonienne, toujours pas de route entee Montluçon et Paramaribo. Guyane et Surinam à l'échelle ouest européenne en utilisant comme fonds de carte, une carte au 100 000eme #IGN de la Haute Mana https://t.co/Pe7Svcs92p",fr,2020-11-07 07:35:18,2,9,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'IGN', 'indices': [212, 216]}]",1189967197730430977,Julien Dupont Kobri,Kartokobri,,221,127,http://pbs.twimg.com/media/EmNFHSKW8AAVMMc.jpg,https://t.co/Pe7Svcs92p
+376,1324977622955167745,added in the Māori electorates #30DayMapChallenge https://t.co/KJboOTIrFU,ro,2020-11-07 07:30:56,1,1,"[{'text': '30DayMapChallenge', 'indices': [31, 49]}]",801318008912232449,Nick,nwbort,,5,254,http://pbs.twimg.com/media/EmNEDjLU0AA7Op_.jpg,https://t.co/KJboOTIrFU
+377,1324975155039375360,"#30DayMapChallenge Day 7: Green
+
+Ancient Woodland in England. Source: https://t.co/lCzZB7hf6l https://t.co/sJYHnPO4mS",en,2020-11-07 07:21:08,2,5,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",159574073,Michael Legg,mjlegg,,154,110,http://pbs.twimg.com/media/EmNBsqMW4AEnhob.jpg,https://t.co/lCzZB7hf6l
+378,1324969035105247232,"Jour 7 du #30DayMapChallenge 
+Thème du jour : Vert
+Cartographie des arbres d'alignements du Grand Lyon
+#QGIS https://t.co/eDB2NeciVW",fr,2020-11-07 06:56:49,1,1,"[{'text': '30DayMapChallenge', 'indices': [10, 28]}, {'text': 'QGIS', 'indices': [103, 108]}]",1311399091,Lubin Picard,Lubin_Picard,,53,97,http://pbs.twimg.com/media/EmM8KCYXIAAtLwU.jpg,https://t.co/eDB2NeciVW
+379,1324964053408772097,"Marraskuun karttahaasteessa tyylitelty vihreä neliapila eli eritasoliittymämuoto, joita Suomessa vain muutamia. Tämä ja sadat muut tietolajit eri väylämuodoista, taitorakenteista ja hankkeista ladattavissa palvelustamme https://t.co/5B2vTN3ojH #30DayMapChallenge #vayladata https://t.co/JyTcNTxHha",fi,2020-11-07 06:37:01,6,14,"[{'text': '30DayMapChallenge', 'indices': [244, 262]}, {'text': 'vayladata', 'indices': [263, 273]}]",1250961517,Väylävirasto,vaylafi,,13485,458,http://pbs.twimg.com/media/EmM3yITXIAED3N-.jpg,https://t.co/5B2vTN3ojH
+380,1324957063013785601,I decided to combine days 5 and 6 of the #30DayMapChallenge (something blue and something red) to show #water bodies (blue) and points of wildland #fire incidents (red) in the U.S. #GIS #Geospatial https://t.co/tPWEguQst0,en,2020-11-07 06:09:14,2,3,"[{'text': '30DayMapChallenge', 'indices': [41, 59]}, {'text': 'water', 'indices': [103, 109]}, {'text': 'fire', 'indices': [147, 152]}, {'text': 'GIS', 'indices': [181, 185]}, {'text': 'Geospatial', 'indices': [186, 197]}]",1311526141983772673,Rachel Finerman,RFinerman,,26,70,http://pbs.twimg.com/media/EmMxVgAVcAA59Vj.jpg,https://t.co/tPWEguQst0
+381,1324954909683408899,#30DayMapChallenge Day 6: Red. 2019 Algal Bloom Status in the Finger Lakes. https://t.co/6CoIG7tyXD,en,2020-11-07 06:00:41,0,4,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",215404498,Ariel Kadouri,akadouri,,138,385,http://pbs.twimg.com/media/EmMvSpcXUAAddM2.jpg,https://t.co/6CoIG7tyXD
+382,1324947388528726016,"Day 7 of #30DayMapChallenge - Green
+
+My favorite one so far, #Finland and the immense coverage of forests. In black you can see the land that is not covered by forests. 80% of land covered by forest!
+
+Tools: R #rspatial https://t.co/RWk417wvdA",en,2020-11-07 05:30:48,10,47,"[{'text': '30DayMapChallenge', 'indices': [9, 27]}, {'text': 'Finland', 'indices': [61, 69]}, {'text': 'rspatial', 'indices': [210, 219]}]",950089955753250816,Jose Maria Echave Sanz,assesslife,Helsinki,183,387,http://pbs.twimg.com/media/EmMoOr_W4AAdlae.jpg,https://t.co/RWk417wvdA
+383,1324940562110308352,"#30DayMapChallenge Day 6, Red. Poverty in NJ. Nothing fancy, but it took me a while to figure out the color scale in Mapview. #RSpatial #RStats #Tidycensus https://t.co/SLccfpzjgp",en,2020-11-07 05:03:40,5,8,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'RSpatial', 'indices': [126, 135]}, {'text': 'RStats', 'indices': [136, 143]}, {'text': 'Tidycensus', 'indices': [144, 155]}]",1138045904630497280,SuperExplorer 🇵🇷,Super_Explorer,"Puerto Rico, NYC & New Jersey",596,2606,http://pbs.twimg.com/media/EmMiY7-WEAE0BaM.jpg,https://t.co/SLccfpzjgp
+384,1324940501989068801,#30DayMapChallenge Día 6: Rojo. Expansión urbana del Área Metropolitana de Guadalajara con información del @INEGI @IIEGJ. https://t.co/nBJCRbs9fH,es,2020-11-07 05:03:26,2,5,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",1322967748926873600,Miriam Asc,asc_miriam,,7,2,http://pbs.twimg.com/media/EmMiXPFU4AI0-Yk.jpg,https://t.co/nBJCRbs9fH
+385,1324931853883756545,#30DayMapChallenge Day 6 - Red Internet speed in Bogotá (Colombia). Where is the best internet in Bogota?. Lower download speeds (2Mb) fastest (150Mb) https://t.co/TO8wkZwuiN,en,2020-11-07 04:29:04,2,18,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",736009987,Felipe Lancheros 🐯,MiniTigri,"Bogotá, D.C., Colombia",175,224,http://pbs.twimg.com/ext_tw_video_thumb/1324931073294405633/pu/img/vGAvHbCuk1aOqYvb.jpg,https://t.co/TO8wkZwuiN
+386,1324925251675955201,Día 6 Rojo/Red #30DayMapChallenge en colaboración con @victor_medel9 https://t.co/Jt9UNoQrhL,es,2020-11-07 04:02:50,1,14,"[{'text': '30DayMapChallenge', 'indices': [15, 33]}]",1244146648009203714,Lucía Navarro Loperena,LuciaNavrro,,93,209,http://pbs.twimg.com/media/EmMUepvW4AMXVvj.jpg,https://t.co/Jt9UNoQrhL
+387,1324924630872645632,"Considering recent events, today's ""red"" #30DayMapChallenge is about redlining's lasting injustice. Six redlined metro areas, and the block groups where Black population growth was pushed out to, from 1990 and 2010.
+
+#rspatial packages:
+{tigris}
+{sf}
+{ggtext}
+{patchwork} https://t.co/EyqQHS6u7i",en,2020-11-07 04:00:22,4,4,"[{'text': '30DayMapChallenge', 'indices': [41, 59]}, {'text': 'rspatial', 'indices': [217, 226]}]",2677912008,🏰 Stephen Biesty-Mode 🏰,bus_jus,"Portland, OR",32,190,http://pbs.twimg.com/media/EmMTEE6U8AAEtQH.jpg,https://t.co/EyqQHS6u7i
+388,1324923360795627521,"#30DayMapChallenge
+Día 6: Rojo
+🌎🥾⛏️ https://t.co/WDXvs8hBqH",es,2020-11-07 03:55:19,1,1,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",1322588299744190466,Lizbeth Bastida,LizbethBastid11,,1,31,http://pbs.twimg.com/media/EmMSxkSW4AArSwZ.jpg,https://t.co/WDXvs8hBqH
+389,1324921637846872066,"Day 6 of the #30DayMapChallenge with @OmniSci: Red
+
+Craigslist Used Car Listings
+
+Source Data
+https://t.co/uIW0H0PveO https://t.co/FHxp5mAwTW",en,2020-11-07 03:48:28,1,6,"[{'text': '30DayMapChallenge', 'indices': [13, 31]}]",623327023,Anton1o,AFCotroneo,,193,1303,http://pbs.twimg.com/ext_tw_video_thumb/1324921554354966528/pu/img/XHFU1LpGswbS6TTM.jpg,https://t.co/uIW0H0PveO
+390,1324920201566040065,"#30DayMapChallenge (Day 7 - 07/11/2020)
+
+Green https://t.co/4FofWCYMcN",en,2020-11-07 03:42:46,0,0,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",1320970592439259136,MAHESH KUMAR,MAHESHK92842090,,0,28,http://pbs.twimg.com/media/EmMPq7xVcAARstK.jpg,https://t.co/4FofWCYMcN
+393,1324917922989559814,"30 Day Map Challenge 
+Day 6: Red
+
+Subject: Volcanoes and Tectonic Plates 
+
+Projection: Spilhaus World Ocean Map in a Square
+                                                           
+#30DayMapChallenge #maps #GIS #techtonicplates #volcano #MapProjections https://t.co/G1T7aYvAqf",en,2020-11-07 03:33:43,1,2,"[{'text': '30DayMapChallenge', 'indices': [184, 202]}, {'text': 'maps', 'indices': [203, 208]}, {'text': 'GIS', 'indices': [209, 213]}, {'text': 'techtonicplates', 'indices': [214, 230]}, {'text': 'volcano', 'indices': [231, 239]}, {'text': 'MapProjections', 'indices': [240, 255]}]",1317585384814137349,XtianMaps,XtianMaps,"Lancaster, PA",5,21,http://pbs.twimg.com/media/EmMN0jkWMAEkNbp.jpg,https://t.co/G1T7aYvAqf
+394,1324917244921606146,"#30DayMapChallenge day 5 (blue) and day 6 (red): 2020 Candidate Vote % Per County (some States/Counties missing from the data source). Made in #rayshader #rstats 
+-
+#rspatial https://t.co/veI6qcf7YK",en,2020-11-07 03:31:01,3,5,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'rayshader', 'indices': [143, 153]}, {'text': 'rstats', 'indices': [154, 161]}, {'text': 'rspatial', 'indices': [165, 174]}]",840369042632396800,newishtodc,cstats1,"Washington, DC",52,49,http://pbs.twimg.com/media/EmMNEaRXUAAu6MD.jpg,https://t.co/veI6qcf7YK
+395,1324916826984353792,"Land Surface Temperature: #30DayMapChallenge Day 06: Red
+
+Remarkable changes in land surface temperatures across India in 2020.
+
+Made with @matplotlib #rasterio #python @NASAEarthData https://t.co/ePdxCgUQO0",en,2020-11-07 03:29:21,6,21,"[{'text': '30DayMapChallenge', 'indices': [26, 44]}, {'text': 'rasterio', 'indices': [151, 160]}, {'text': 'python', 'indices': [161, 168]}]",1234136874,Pratap Vardhan,PratapVardhan,"Princeton, NJ",747,145,http://pbs.twimg.com/ext_tw_video_thumb/1324916120759971840/pu/img/tAXJjBNOACiFsBjf.jpg,https://t.co/ePdxCgUQO0
+396,1324911830167326722,"Día 6 del #30DayMapChallenge
+Rojo
+
+Acá un mapa de los perímetros de patrullaje de la CDMX donde hubo delitos que involucraron detonaciones de arma de fuego en 2019.
+
+Todo se concentra en Iztapalapa.
+
+#RStats https://t.co/C17SuTr4Kp",es,2020-11-07 03:09:30,4,5,"[{'text': '30DayMapChallenge', 'indices': [10, 28]}, {'text': 'RStats', 'indices': [200, 207]}]",98332912,Luis David ®️,1LuisDavid,,396,980,http://pbs.twimg.com/media/EmMH_foXIAEiq-t.jpg,https://t.co/C17SuTr4Kp
+397,1324910881231220736,#30DayMapChallenge 2020 Día 6 Rojo: Avistamientos del Cardenal Rojo (Cardenalis cardenalis) en México con datos de @Conabio @IIEGJ @tjukanov https://t.co/Nj0MNPBtXK,es,2020-11-07 03:05:44,1,9,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",7630312,Yúum-K'aak-Náab,jdeltoro1973,Guadalajara México,524,1952,http://pbs.twimg.com/media/EmMHQlWXUAAnO2m.jpg,https://t.co/Nj0MNPBtXK
+398,1324909275660111873,"Bloodfield, DC! Used to be “the ancient feudal ground of the southwest,"" now has some red maple trees. #30daymapchallenge https://t.co/sLeLvMI5FF",en,2020-11-07 02:59:21,3,25,"[{'text': '30daymapchallenge', 'indices': [103, 121]}]",14913762,vicky johnson-dahl,hurricanevicky,"Washington, DC",961,843,http://pbs.twimg.com/media/EmMFi7LWEAE-EH0.jpg,https://t.co/sLeLvMI5FF
+399,1324908393476227072,"#30DayMapChallenge Hexagons 
+
+Número de localidades hablantes de mixteco por hexágono. https://t.co/LtVDwiC0qk",es,2020-11-07 02:55:51,2,10,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",358606269,El Diego,Kantzakata,"Fonetitlán, Distrito Federal",84,231,http://pbs.twimg.com/media/EmMD0vHVoAACyum.jpg,https://t.co/LtVDwiC0qk
+401,1324900106479439873,"#30DayMapChallenge: Day 6 is Red.
+
+% Pennsylvania mail-in ballots from registered Republicans by state house district in @OmniSci, colored blue-to-red.
+
+Source: https://t.co/C6Cl05Ehsa https://t.co/KZWm6EUEYz",en,2020-11-07 02:22:55,3,6,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",265817210,Todd Mostak,ToddMostak,"San Francisco, CA",1818,555,http://pbs.twimg.com/media/EmL9UCEVoAMn7Ob.jpg,https://t.co/C6Cl05Ehsa
+402,1324899821497556997,"Day 6 #30DayMapChallenge. Red. 
+@KwikTrip location density. 
+CC: @StoltzMatt 
+
+https://t.co/0nPzbdxYMR https://t.co/sW57KK58vV",en,2020-11-07 02:21:47,1,7,"[{'text': '30DayMapChallenge', 'indices': [6, 24]}]",42470250,Erin Caughey,erin_caughey,Milwaukee,1177,1857,http://pbs.twimg.com/media/EmL9TrqXMAESHph.jpg,https://t.co/0nPzbdxYMR
+403,1324896166874550273,"One of my favorite Idaho hometown heroes! Lonesome Larry gets his own map on ""red"" day for the #30DayMapChallenge. After 7 dams, 900+miles, 6500ft in elevation gain, this RED sockeye made it to Red Fish Lake Idaho https://t.co/zoBIN9fnde",en,2020-11-07 02:07:16,1,5,"[{'text': '30DayMapChallenge', 'indices': [95, 113]}]",3007214442,AliceCarol,pnwgeogeek,"Portland, OR",138,362,http://pbs.twimg.com/media/EmL6CmoVkAEZghK.jpg,https://t.co/zoBIN9fnde
+404,1324894279660007424,Podemos agregar una categoría de mapas feos al #30DayMapChallenge 🥺 https://t.co/ZBD0f6RqjX,es,2020-11-07 01:59:46,1,13,"[{'text': '30DayMapChallenge', 'indices': [47, 65]}]",3319250370,✨ ✨ ✨,manuu_tr,MX-DF,595,734,http://pbs.twimg.com/media/EmL4Ly1UYAEw8H1.jpg,https://t.co/ZBD0f6RqjX
+405,1324892555390095361,"I haven't contributed on any other of the days but this is my #30DayMapChallenge map for today - Red. This is my take on a red relief visualization using red slope and a PCA hillshade raster.
+
+It shows circa 1940's oil well evaporative ponds eroding into a SE Texas bayou. https://t.co/ywwTS15zmQ",en,2020-11-07 01:52:55,1,3,"[{'text': '30DayMapChallenge', 'indices': [62, 80]}]",356554442,Greg with two g's,It_me_Greg,"Houston, TX",72,790,http://pbs.twimg.com/media/EmL2wfcWMAMWOlJ.jpg,https://t.co/ywwTS15zmQ
+406,1324891415625822208,"#30DayMapChallenge Red. 
+Wish you were here. https://t.co/F2LDX3EUUT",en,2020-11-07 01:48:23,1,14,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",564485021,Peter Atwood,Peterincan,"Nova Scotia, Canada",384,375,http://pbs.twimg.com/media/EmL1tXAXUAABpo7.jpg,https://t.co/F2LDX3EUUT
+407,1324888951098847232,"Siguiendo el #30DayMapChallenge hoy toca Red/Rojo
+Así se verían las ""arterias"" de la cdmx, las principales avenidas.
+Made in #ArcGIS https://t.co/fUF09QEtqg",es,2020-11-07 01:38:35,1,2,"[{'text': '30DayMapChallenge', 'indices': [13, 31]}, {'text': 'ArcGIS', 'indices': [125, 132]}]",2372331457,Carlos Ramirez,carlosrpz_,Ciudad de México,214,584,http://pbs.twimg.com/media/EmLzS0RXEAEAY0n.jpg,https://t.co/fUF09QEtqg
+408,1324882729415053314,"#30DayMapChallenge Day 6 Red. Hoy envío un gif, es sobre suicidios a nivel mundial entre 1990 y 2017. @qgis https://t.co/mRoiBJX7oI",es,2020-11-07 01:13:52,0,0,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",384907052,Leticia Luna,Letyludigital,México,1123,2447,http://pbs.twimg.com/tweet_video_thumb/EmLtvCXVkAAAUwX.jpg,https://t.co/mRoiBJX7oI
+409,1324879238609035265,"Day 7 Green #30DayMapChallenge hypothetical, how might recon teams select possible locations for concealed Observation Posts (OP) at 800m from their objective. This viewshed analysis is one example made from QGIS. Red dot - objective | Dark Green Polygon - Viewshed #cartography https://t.co/7ftrA7qjb7",en,2020-11-07 01:00:00,1,1,"[{'text': '30DayMapChallenge', 'indices': [12, 30]}, {'text': 'cartography', 'indices': [266, 278]}]",2599428001,Francis Gasgonia,seateazen,Philippines,72,300,http://pbs.twimg.com/media/EmHyj6MU4AAVPOc.jpg,https://t.co/7ftrA7qjb7
+410,1324877195064565760,"#30DayMapChallenge 
+
+Day 7: Green
+
+✨Northern Lights ✨
+
+Data from https://t.co/AM3x8fsHXu https://t.co/a54gNri9sT",en,2020-11-07 00:51:52,1,4,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",45565875,Emil Malta ❄️,emilmalta,Nuuk,176,939,http://pbs.twimg.com/media/EmLoyDnXcAMaxB0.jpg,https://t.co/AM3x8fsHXu
+411,1324873389178294278,"#30DayMapChallenge
+
+Day 7: Green
+
+Data: OpenStreetMap https://t.co/5UcpuGjH52",en,2020-11-07 00:36:45,2,6,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",283445478,philbartie 🇬🇬,philbartie,"Edinburgh, Scotland",237,372,http://pbs.twimg.com/media/EmLlTXiXUAASM0D.jpg,https://t.co/5UcpuGjH52
+412,1324873055349469185,"¿Inquilinos o dueños? Para el día 6 del #30DayMapChallenge destacamos este mapa de calor con muchas tonalidades rojas de América del Sur.
+#data #mapa 
+https://t.co/B3SVy7bz1B https://t.co/AHqWV0uTvX",es,2020-11-07 00:35:26,3,6,"[{'text': '30DayMapChallenge', 'indices': [40, 58]}, {'text': 'data', 'indices': [138, 143]}, {'text': 'mapa', 'indices': [144, 149]}]",3081831303,Properati Data,Properati_Data,,1176,537,http://pbs.twimg.com/media/EmLlBdKWMAACE6k.jpg,https://t.co/B3SVy7bz1B
+413,1324866429049516035,"To catch up a little: No. 6 Red. In German, the ""List of World Heritage in Danger"" is simply called ""red list"". If you focus on Europe, you'll see 3 endagered heritage sites. Sadly 2 of them are because of some (turbocapitalistic) urban development projects... #30DayMapChallenge https://t.co/ORwAYji3pO",en,2020-11-07 00:09:06,1,1,"[{'text': '30DayMapChallenge', 'indices': [261, 279]}]",281177027,Isaak,fleischkas,Wien,140,970,http://pbs.twimg.com/media/EmLe4BBXMAIQudD.jpg,https://t.co/ORwAYji3pO

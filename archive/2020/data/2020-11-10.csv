@@ -1,0 +1,954 @@
+,tweet_id,tweet_text,language,tweet_created_at,retweet,favorite,hashtags,user_id,user_name,user,user_loc,user_follower,friends_count,media,tweet_url
+107,1326313486545154049,"We’d consider it more than just a passing grid if you’re able to identify which city this is! For today’s #30daymapchallenge, we are delighted to share this map created by cartographer Laura Whitlock in 1910-1912. You can read more about Laura by clicking the link in our bio! https://t.co/vhelZtUhpe",en,2020-11-10 23:59:11,1,2,"[{'text': '30daymapchallenge', 'indices': [106, 124]}]",344995607,Branner Earth Sciences Library & Map Collections,BrannerLibrary,"Stanford, CA",582,451,http://pbs.twimg.com/media/EmgDFEdU0AA6i9k.jpg,https://t.co/vhelZtUhpe
+108,1326312895177777157,"#30DayMapChallenge
+Day 10: Grid
+
+Regions of Morocco
+
+#Morocco #Grid #regions #Maps #ArcGIS #Maroc https://t.co/tKtoMpf1Pe",en,2020-11-10 23:56:50,0,3,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'Morocco', 'indices': [53, 61]}, {'text': 'Grid', 'indices': [62, 67]}, {'text': 'regions', 'indices': [68, 76]}, {'text': 'Maps', 'indices': [77, 82]}, {'text': 'ArcGIS', 'indices': [83, 90]}, {'text': 'Maroc', 'indices': [91, 97]}]",1235881627684921344,EL JARMOUNI Mohamed,EljarmouniMed,"Casablanca, Grand Casablanca",115,465,http://pbs.twimg.com/media/EmgCcNmW4AAgjkM.jpg,https://t.co/tKtoMpf1Pe
+109,1326308646083551232,"Day 10, Grid. 
+
+The streets on Qayqayt territory (so-called ""New Westminster"") are oriented to the river. 
+
+The original capital for the province, the streets turn up their nose at the cardinal grid. 
+
+#30DayMapChallenge https://t.co/nSblw4gJx9",en,2020-11-10 23:39:57,2,2,"[{'text': '30DayMapChallenge', 'indices': [202, 220]}]",1142165477952614400,Russell Copley,rocopley1,,289,1158,http://pbs.twimg.com/media/Emf9sPIXMAAgHqH.jpg,https://t.co/nSblw4gJx9
+112,1326298605007855617,"#30DayMapChallenge #Day10 #GRID
+Land use by the vineyard in the Bordeaux region
+#corinelandcover https://t.co/Q609SgM64K",en,2020-11-10 23:00:03,1,2,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'Day10', 'indices': [19, 25]}, {'text': 'GRID', 'indices': [26, 31]}, {'text': 'corinelandcover', 'indices': [80, 96]}]",113671424,Di_Dyne,Di_dyne,Paris/La Rochelle 🏳️‍🌈,121,1387,http://pbs.twimg.com/media/Emf1jGSXMAEYUIT.jpg,https://t.co/Q609SgM64K
+114,1326295457610522624,"It's never too late in the day for a #map!
+Day 10 of #30DayMapChallenge (grid) - #flights over the Northern Baltics during one day pre-COVID vs COVID period, aggregated into hex grid. Data - OpenSky Network. Made with QGIS, Geopandas, https://t.co/vYExR245wQ https://t.co/X7hTggQfTm",en,2020-11-10 22:47:33,1,4,"[{'text': 'map', 'indices': [37, 41]}, {'text': '30DayMapChallenge', 'indices': [53, 71]}, {'text': 'flights', 'indices': [81, 89]}]",34737662,Positium,positium,"Soola 8, Tartu, Estonia",420,320,http://pbs.twimg.com/media/EmfxoVJXIAAvzA3.jpg,https://t.co/vYExR245wQ
+115,1326290930664574976,"Better late than never...
+Days 5 &amp; 6: Blue/Red
+Census tracts with height/color symbolized by female (red)/male (blue) population rate, Billings, MT
+Data: US Census ACS 2014-2018
+Tools: ArcPro/QGIS/Kepler.GL
+#30daymapchallenge grid https://t.co/hbHK1X5PqK",en,2020-11-10 22:29:33,1,2,"[{'text': '30daymapchallenge', 'indices': [211, 229]}]",918661859489779712,Bobbi Johnson,bobbij_gis,,1,43,http://pbs.twimg.com/media/EmfuXhgVoAAbTFg.jpg,https://t.co/hbHK1X5PqK
+116,1326290538073567233,"#30DayMapChallenge Día 10: grilla. Paradas de transporte público en Santiago de Chile. 🚍
+
+#RStats #rspatial
+
+Código: https://t.co/x797GFlzBy https://t.co/FQoiY85e9t",es,2020-11-10 22:28:00,3,8,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'RStats', 'indices': [90, 97]}, {'text': 'rspatial', 'indices': [98, 107]}]",30381129,Steph Orellana Bello,sporella,Chile,306,191,http://pbs.twimg.com/media/Emfs9cnWMAcYXPx.jpg,https://t.co/x797GFlzBy
+117,1326288467312185346,Tree areas (polygons with trees from Estonian Topographic Database) in 3 km buffers around 16x16 km grid points. Grid of the same resolution is used for forest monitoring in Europe. #30DayMapChallenge  Day 10 Grid (in green) #QGIS https://t.co/kPjwniG6hU,en,2020-11-10 22:19:46,1,5,"[{'text': '30DayMapChallenge', 'indices': [182, 200]}, {'text': 'QGIS', 'indices': [225, 230]}]",40151250,Tõnu Oja,tonuoja,,19,28,http://pbs.twimg.com/media/EmfsLQmXIAUxN45.jpg,https://t.co/kPjwniG6hU
+118,1326287012257800194,"Day 10: Grid #30DayMapChallenge 
+Chess anyone? Cities as pieces! 
+Made in QGIS
+Data from: https://t.co/SY335klwgS https://t.co/5Obvnu40qj",en,2020-11-10 22:13:59,1,3,"[{'text': '30DayMapChallenge', 'indices': [13, 31]}]",1297747856472838146,sarhoyoshoyos,sarhoyoshoyos,,1,12,http://pbs.twimg.com/media/EmfpmGkXUAEgLv5.jpg,https://t.co/SY335klwgS
+119,1326286853977370624,"#30DayMapChallenge day 8 | yellow (two days late because I ran into technical difficulties)
+
+Yellow Cab pickup locations in NYC, April 2019 vs. April 2020
+
+Data: https://t.co/gx199eBW6l
+Tool: QGIS https://t.co/2twZlYr84o",en,2020-11-10 22:13:21,1,7,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",14707170,Unnecessarily sesquipedalian 🚡,MartinBangratz,Cologne/Aachen/Innsbruck,1157,1161,http://pbs.twimg.com/media/EmfpQasW4AE1eDQ.jpg,https://t.co/gx199eBW6l
+120,1326285121595596802,"Day 10 of #30DayMapChallenge - Grid
+USA Power Grid. Made with R. Data source: HIFLD Open GP - Energy https://t.co/8CWC6K2HPJ",en,2020-11-10 22:06:28,1,7,"[{'text': '30DayMapChallenge', 'indices': [10, 28]}]",2593554955,Kapazitätsdiode,varaktor,,28,182,http://pbs.twimg.com/media/EmfpQOYXYAA_Qwp.png,https://t.co/8CWC6K2HPJ
+121,1326284410782707712,"Day 1 - Points #30DayMapChallenge 
+It's never late to make a map!
+
+Distribution of windmills and wind turbines in the Netherlands. After the idea came to me, I found out it's already been created. But I designed one in my own style anyway:) https://t.co/SZAy2cduPi",en,2020-11-10 22:03:39,2,9,"[{'text': '30DayMapChallenge', 'indices': [15, 33]}]",1037423341,Valeriia Shurupina,valeriiashur,Munich-Vienna-Dresden-Enschede,44,156,http://pbs.twimg.com/media/Emfon57XUAAkMhc.jpg,https://t.co/SZAy2cduPi
+122,1326283201543884802,"#30DayMapChallenge 
+Día 10: Grid.
+Conoce la Red Geodésica Estatal Pasiva en el Área Metropolitana de Guadalajara. 
+https://t.co/F5KRE83GHN
+
+Más a detalle en:
+https://t.co/VwxGUzpX9e https://t.co/JUyfbinyUd",es,2020-11-10 21:58:51,2,1,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",2239825712,IIEG Jalisco,IIEGJ,"Calzada de los Pirules #71, Ciudad Granja, Zapopan, Jalisco",4761,0,http://pbs.twimg.com/media/Emfna-DXMAEdKCu.jpg,https://t.co/F5KRE83GHN
+123,1326281715409711106,"#30DayMapChallenge - Day 10: Grid
+Late submission... but not out of charge!
+London 2 km² diamond grid for car charging point density 🚗🔌
+Data from #OrdnanceSurvey and #OpenStreetMap processed in QGIS https://t.co/eK1QYlEqyx",en,2020-11-10 21:52:56,2,5,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'OrdnanceSurvey', 'indices': [146, 161]}, {'text': 'OpenStreetMap', 'indices': [166, 180]}]",148715617,Federica Gaspari,fede_gaspari,Arona,280,358,http://pbs.twimg.com/media/EmfkmbXXYAEfljv.jpg,https://t.co/eK1QYlEqyx
+125,1326281593942667265,"#30DayMapChallenge - Day 10: Grid
+
+A _more_ National Grid.
+
+Surprisingly, there isn’t one GB-wide “National Grid”, so there’s not a single ‘official’ source for open data on electricity transmission.
+
+https://t.co/5m5ZtTdAQL
+
+ Instead, I queried @openstreetmap for their data. https://t.co/MjNkrAna5J",en,2020-11-10 21:52:27,2,8,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",12620762,Mike Coats,MikeCoatsDotCom,"Inverness, Scotland",292,1175,http://pbs.twimg.com/media/EmfmE_EW8AIV_L6.jpg,https://t.co/5m5ZtTdAQL
+126,1326281502771048454,"Going to have to start pulling some two-a-day maps.  
+Catching up with post-election day 4 #30DayMapChallenge. Hexagons. 
+
+Wisconsin Spring Primary (April 7) rejected absentee ballots.
+
+https://t.co/h9fCUNlYPD https://t.co/HtvARjLIsu",en,2020-11-10 21:52:06,2,6,"[{'text': '30DayMapChallenge', 'indices': [91, 109]}]",42470250,Erin Caughey,erin_caughey,Milwaukee,1176,1856,http://pbs.twimg.com/media/EmflQKGXMAM9iht.jpg,https://t.co/h9fCUNlYPD
+127,1326280630141939718,"#30DayMapChallenge 10. Grid.
+
+Playing with elevation grid of Greenland from GEBCO/IBCAO in QGIS. https://t.co/fbhjud5rii https://t.co/GFBe8ujW5d",en,2020-11-10 21:48:37,1,8,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",44981447,Tore Halset,torehalset,"Stavanger, Norway",290,738,http://pbs.twimg.com/media/Emfk_Z5W4AA427A.jpg,https://t.co/fbhjud5rii
+128,1326279751615574023,"Tonight, a map, a comic book, the Tokyo of the 50s and a beautiful comic book #tokyosanpo from Florent Chavouet .. which transcribes his experience in this amazing city
+
+#oldmap #tokyo #comic #bd #bandedessinee #architecture #urbanisme #habiterlaville #30daymapchallenge https://t.co/fT3xUBAXG3",en,2020-11-10 21:45:08,1,3,"[{'text': 'tokyosanpo', 'indices': [78, 89]}, {'text': 'oldmap', 'indices': [170, 177]}, {'text': 'tokyo', 'indices': [178, 184]}, {'text': 'comic', 'indices': [185, 191]}, {'text': 'bd', 'indices': [192, 195]}, {'text': 'bandedessinee', 'indices': [196, 210]}, {'text': 'architecture', 'indices': [211, 224]}, {'text': 'urbanisme', 'indices': [225, 235]}, {'text': 'habiterlaville', 'indices': [236, 251]}, {'text': '30daymapchallenge', 'indices': [252, 270]}]",1269597124406239233,Mapmapnmap,mapmapnmap,"Rennes, France",139,757,http://pbs.twimg.com/media/EmfkSFsWEAE6JEh.jpg,https://t.co/fT3xUBAXG3
+129,1326279172545785859,"#30DayMapChallenge Day 10 - Grid
+
+Number of education facilities per 5km² (Data: https://t.co/KkWO1JxHrh) https://t.co/wIBXSZZEgL",en,2020-11-10 21:42:50,1,8,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",62926974,Tomasral,tomasral,Asturies,80,427,http://pbs.twimg.com/media/EmfjtarW4AEAcf4.jpg,https://t.co/KkWO1JxHrh)
+130,1326278948146307072,#Day10 Wildlife collisions with road vehicles on 10 km grids year 2019 in Finland. Visualised with #Aerialod. Data from Statistics Finland's experimental Game-animal collision statistics: https://t.co/sF8xnK05Hf #30DayMapChallenge https://t.co/lNxOXJTix6,en,2020-11-10 21:41:56,1,10,"[{'text': 'Day10', 'indices': [0, 6]}, {'text': 'Aerialod', 'indices': [99, 108]}, {'text': '30DayMapChallenge', 'indices': [212, 230]}]",1466897384,Matti Kokkonen,MattiJKokkonen,,187,282,http://pbs.twimg.com/media/EmfjrIpXUAANH6I.jpg,https://t.co/sF8xnK05Hf
+131,1326278454237605894,"#30DayMapChallenge
+#Day_10
+#Grids 
+#Carabassí
+#Biogeography https://t.co/ZlM7tncqeK",und,2020-11-10 21:39:59,1,2,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'Day_10', 'indices': [19, 26]}, {'text': 'Grids', 'indices': [27, 33]}, {'text': 'Carabassí', 'indices': [35, 45]}, {'text': 'Biogeography', 'indices': [46, 59]}]",605417877,Daniel Ibáñez Campos,dic1991,Barcelona,60,577,http://pbs.twimg.com/media/EmfjNSyXIAA6bqq.jpg,https://t.co/ZlM7tncqeK
+132,1326278313229348864,"Day 10 of the #30DayMapChallenge with @OmniSci : Grid
+
+Global Mean Precipitation May-August 2020 using GPCP Version 2.3 Combined Precipitation Gridded Data Set
+
+Source Data
+https://t.co/KjrzPY8pRa https://t.co/qAS8QP98zG",en,2020-11-10 21:39:25,1,2,"[{'text': '30DayMapChallenge', 'indices': [14, 32]}]",623327023,Anton1o,AFCotroneo,,191,1308,http://pbs.twimg.com/media/EmfjB2EWMAEzf7s.jpg,https://t.co/KjrzPY8pRa
+133,1326277013439700992,"[Thread] Trying to catchup! 
+Day 4- Hexagon: Green areas in Erbil city (band of 500m2) 
+Day 5- Blue: seasonal streams in Kurdistan. #30DayMapChallenge #OSM https://t.co/tjjgQwPFuy",en,2020-11-10 21:34:15,2,2,"[{'text': '30DayMapChallenge', 'indices': [132, 150]}, {'text': 'OSM', 'indices': [151, 155]}]",58158991,Mohammed Dizayee,m_dizayee,Hewlêr,391,291,http://pbs.twimg.com/media/EmfesrmXcAQAi_E.jpg,https://t.co/tjjgQwPFuy
+134,1326274543812550669,Count of residential dwellings around the England-Scotland border #30DayMapChallenge #day10 #grids #urbanism https://t.co/kT15MzdXVh,en,2020-11-10 21:24:26,2,14,"[{'text': '30DayMapChallenge', 'indices': [66, 84]}, {'text': 'day10', 'indices': [85, 91]}, {'text': 'grids', 'indices': [92, 98]}, {'text': 'urbanism', 'indices': [99, 108]}]",318026127,Craig Robson,CaRobson,Newcastle,165,200,http://pbs.twimg.com/media/EmffIKwXUAA2xVe.png,https://t.co/kT15MzdXVh
+135,1326271914013241344,"#30DayMapChallenge 
+Day 10: Grid - Gridded Agricultural Fields. Thomas Jefferson helped pass the National Land Ordinance of 1785, which organized how the American West was divided and settled into this mesmerizing grid pattern #scienceandart https://t.co/jKEJRQ4piL",en,2020-11-10 21:13:59,1,17,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'scienceandart', 'indices': [227, 241]}]",333524694,Christopher Pollard,CRVanPollard,"Philadelphia,PA",997,1207,http://pbs.twimg.com/media/EmfdLjeW4AMzwpz.jpg,https://t.co/jKEJRQ4piL
+136,1326270257003163660,"It's #30DayMapChallenge Day 10: Grid, so here's the Earth's surface rendered from using various gridded DEMs and bathymetry datasets, including USGS SRTM30 &amp; Smith and Sandwell global 1-minute grid as compiled by @eatlas_org_au. Kind of looks like a fancy biscuit. https://t.co/DPZVpCg0Q4",en,2020-11-10 21:07:24,2,26,"[{'text': '30DayMapChallenge', 'indices': [5, 23]}]",798523409286266880,Dan Harris,DiasporaDan,"Nethy Bridge, Scotland",894,1514,http://pbs.twimg.com/media/Emfas10XcAMSoEY.jpg,https://t.co/DPZVpCg0Q4
+137,1326269524564471808,"Day 10: Grid
+#30DayMapChallenge https://t.co/XZnw7dDg6A",en,2020-11-10 21:04:30,2,12,"[{'text': '30DayMapChallenge', 'indices': [13, 31]}]",1233423602948694017,Nic,DrNicNacks,,10,32,http://pbs.twimg.com/media/EmfbFwXW8AU0RZG.jpg,https://t.co/XZnw7dDg6A
+138,1326267610497953794,"Day 10 (Grid) of the #30DayMapChallenge 
+#SuperMario World Map but Mazovian Refinery &amp; Petrochemical Works #Płock Refinery https://t.co/27iYB6A9ih https://t.co/090JAqoOvj",en,2020-11-10 20:56:53,2,3,"[{'text': '30DayMapChallenge', 'indices': [21, 39]}, {'text': 'SuperMario', 'indices': [41, 52]}, {'text': 'Płock', 'indices': [111, 117]}]",2267573202,Tomasz Skowroński,tsskowronski,,52,58,http://pbs.twimg.com/media/EmfYbEwWEAIOpis.jpg,https://t.co/27iYB6A9ih
+139,1326265695408164867,"Day 10 of #30DayMapChallenge / Grid
+
+Monthly total precipitation at Prague-Klementinum observatory between the years 1961-2019.
+
+Data from @CHMUCHMI
+Made with #Excel. https://t.co/D6fVt1ecDK",en,2020-11-10 20:49:17,1,9,"[{'text': '30DayMapChallenge', 'indices': [10, 28]}, {'text': 'Excel', 'indices': [159, 165]}]",3494716935,Eliška Vlčková,vlckel,Česká republika,136,149,http://pbs.twimg.com/media/EmfXnuiWEAEv_1y.jpg,https://t.co/D6fVt1ecDK
+140,1326265553640546304,"Tile Grid Map of Ukraine
+This is an attempt to make this type of map for Ukraine
+#30DayMapChallenge Day 10: Grid
+#QGIS, #Inkscape, #OpenStreetMap contributors https://t.co/3JPqrglKD8",en,2020-11-10 20:48:43,10,77,"[{'text': '30DayMapChallenge', 'indices': [81, 99]}, {'text': 'QGIS', 'indices': [113, 118]}, {'text': 'Inkscape', 'indices': [120, 129]}, {'text': 'OpenStreetMap', 'indices': [131, 145]}]",14992557,gontsa,gontsa,"Cherkasy, Ukraine",4524,1413,http://pbs.twimg.com/media/EmfXU30XYAYMI97.jpg,https://t.co/3JPqrglKD8
+141,1326263976544657413,#30DayMapChallenge toned down the colors a bit https://t.co/b1uV1Smarb,en,2020-11-10 20:42:27,2,3,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",1000055398697709569,Eliav S-T,est987,Israel,311,1676,http://pbs.twimg.com/media/EmfV8xPXMAISDBf.jpg,https://t.co/b1uV1Smarb
+142,1326263156415606786,"#30DayMapChallenge  Grid, #Africa #Attentats contre des #Civils   Global Terrorism Database 1970-2018; https://t.co/O9ayn1w6My",ro,2020-11-10 20:39:11,1,9,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'Africa', 'indices': [26, 33]}, {'text': 'Attentats', 'indices': [34, 44]}, {'text': 'Civils', 'indices': [56, 63]}]",2493409233,SIG & Geomatique,geocarta,,283,167,http://pbs.twimg.com/media/EmfUhy6WEAARquz.png,https://t.co/O9ayn1w6My
+143,1326262542612779019,"#30DayMapChallenge #Day10 #Grid 
+ 
+Pour le thème du jour, je vous mets au défi de résoudre cette grille de mots cartés.
+
+Il y a des pays, des villes et une rivière à trouver !
+
+Partition à 4 mains avec @Fortissimots ⤵️ https://t.co/NR56dreURt",fr,2020-11-10 20:36:45,7,21,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'Day10', 'indices': [19, 25]}, {'text': 'Grid', 'indices': [26, 31]}]",732695379288961026,ArtisansCartographes,Artisans_Cartos,www.cartapaname.fr,2057,920,http://pbs.twimg.com/media/EmfSudLXEAAphyN.jpg,https://t.co/NR56dreURt
+144,1326262362429648897,"map showing the population density in the administrative regions of the Saudi Arabia
+#30DayMapChallenge #GIS #KSA https://t.co/JTFUnAxmwi",en,2020-11-10 20:36:02,4,6,"[{'text': '30DayMapChallenge', 'indices': [85, 103]}, {'text': 'GIS', 'indices': [104, 108]}, {'text': 'KSA', 'indices': [109, 113]}]",600827679,مـحمّد,iMohamedlil,"الشرقية, السعودية ",1211,391,http://pbs.twimg.com/media/EmfUGZbXYAA2exr.jpg,https://t.co/JTFUnAxmwi
+146,1326260269832687618,Densidad de feminicidios en Jalisco 2018 a 2020 @msalguerb @sonia_ssi @RubiBobadilla @YunuenMoraR   @GabrielaInforma @elsamarthagtz #30DayMapChallenge https://t.co/DDXryRHi2M,es,2020-11-10 20:27:43,9,10,"[{'text': '30DayMapChallenge', 'indices': [132, 150]}]",97729765,Carlos Ruiz,cruizch,"Guadalajara, México",252,89,http://pbs.twimg.com/media/EmfSpIwXMAARsgR.jpg,https://t.co/DDXryRHi2M
+147,1326259971751895040,"Day 10- #30DayMapChallenge 
+Theme: Grid.
+
+Used an Ordnance Survey 100km Grid alongside National Grid (and SSE) data to display Electricity Substations. Some problems in QGIS today, but a great learning curve. Experimented with 'Draw Effects' to add a subtle glow to the points. https://t.co/xiOYEbwCdB",en,2020-11-10 20:26:32,1,3,"[{'text': '30DayMapChallenge', 'indices': [8, 26]}]",2149588681,Claire Powell,Pow__C,,85,295,http://pbs.twimg.com/media/EmfSajNW4AE5WQ6.jpg,https://t.co/xiOYEbwCdB
+148,1326259807544815619,"#30DayMapChallenge Day 10: Grids. DBH distribution of living trees on the 10 ha research plot in 10 subplots of 1ha each. 
+Data from https://t.co/230bpyNHFj
+Made with #RStats #rspatial https://t.co/geY4YczYZY",en,2020-11-10 20:25:53,4,1,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'RStats', 'indices': [167, 174]}, {'text': 'rspatial', 'indices': [175, 184]}]",993008496152064001,Jonas Stillhard,JonasStillhard,,107,242,http://pbs.twimg.com/media/EmfRtitW8AYeWCM.png,https://t.co/230bpyNHFj
+149,1326259068202315778,"Day 10- #30DayMapChallenge 
+Theme: Grid.
+
+Used an Ordnance Survey 100km Grid alongside National Grid (and SSE) data to display Electricity Substations. Some problems in QGIS today, but a great learning curve. Experimented with 'Draw Effects' to add a subtle glow to the points. https://t.co/mxh3xtdEvB",en,2020-11-10 20:22:57,1,2,"[{'text': '30DayMapChallenge', 'indices': [8, 26]}]",2149588681,Claire Powell,Pow__C,,85,295,http://pbs.twimg.com/media/EmfRl-rWEAwkuGN.jpg,https://t.co/mxh3xtdEvB
+150,1326258117861134337,"#30DayMapChallenge Day 6 - Red
+The @RidePATCO Speedline, from Philadelphia into the South Jersey suburbs, depicted as a red line on regional transit maps. Here, I place a transit-map-style line on an at-scale base map, and rotated it to fit in a retro-style strip map: https://t.co/07QqSNfG7n",en,2020-11-10 20:19:10,1,4,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",2911550919,Philip Pierdomenico,PhilPierdo,"Philadelphia, PA",389,281,http://pbs.twimg.com/media/EmfQbYmXEAEs-tI.jpg,https://t.co/07QqSNfG7n
+151,1326255150143598593,"10 : Grid
+
+Quartier de l’Eixample (« extension ») de Barcelone
+
+Issu de l’extension de la ville à la fin du 19ème siècle https://t.co/cWAKZkdBL2
+
+#30DayMapChallenge https://t.co/wTiWMx3ism",fr,2020-11-10 20:07:23,2,1,"[{'text': '30DayMapChallenge', 'indices': [146, 164]}]",6062412,Tristram Gräbener 🚲,tristramg,Paris,1177,364,http://pbs.twimg.com/media/EmfNXRbXIAMwFSJ.jpg,https://t.co/cWAKZkdBL2
+152,1326254079765602305,"#30DayMapChallenge Day 9: Monochrome
+
+As a reference frame for stational variance, this animation represents vegetation coverage (NVDI) throughout the year, averaging 20 years between 2000 and 2020. Note the intensity of coverage in the north. https://t.co/w51EE2OMon",en,2020-11-10 20:03:07,2,2,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",450838453,un-supra-hemimerengue,bushidoenator,,39,163,http://pbs.twimg.com/tweet_video_thumb/EmfMukpXEAEMsS7.jpg,https://t.co/w51EE2OMon
+153,1326254069950853130,"#30DayMapChallenge Day 8: Yellow
+
+The yellow in this map represents a lack of forest cover. This map highlights the coincidence between lack of forest cover and presence of extraction interests, particularly in Petén, where clear cutting is extensive. https://t.co/bRunBIPOwf",en,2020-11-10 20:03:05,1,2,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",450838453,un-supra-hemimerengue,bushidoenator,,39,163,http://pbs.twimg.com/media/EmfMMVVW8AkUMVi.jpg,https://t.co/bRunBIPOwf
+154,1326254063462309888,"#30DayMapChallenge Day 7: Green
+
+This is a sad one, not much to say. According to Hansen, between the years 2000 and 2012, the recovery of forest cover has been negligible in Guatemala. https://t.co/duj2Ilrh0K",en,2020-11-10 20:03:03,1,1,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",450838453,un-supra-hemimerengue,bushidoenator,,39,163,http://pbs.twimg.com/media/EmfLo3eXMAUnbb4.jpg,https://t.co/duj2Ilrh0K
+155,1326254050355122178,"#30DayMapChallenge Day 6: Red
+
+One of the greatest issues with extraction projects is there effects on biodiversity and forest cover. To extract, you must remove the forest and access the resources beneath. Most of the loss... https://t.co/3PrfcAsixe",en,2020-11-10 20:03:00,1,1,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",450838453,un-supra-hemimerengue,bushidoenator,,39,163,http://pbs.twimg.com/media/EmfLDEoW8AEmxQF.jpg,https://t.co/3PrfcAsixe
+156,1326253991806775296,"Did you realise by how much the population in constituencies varies? Bringing out an old map for the #grid #30daymapchallenge. Still amazes me that a constituency has an electoral population from 21,769 to 110,697! 🗺📍🗳 https://t.co/ipLaTnKZIT",en,2020-11-10 20:02:46,2,15,"[{'text': 'grid', 'indices': [101, 106]}, {'text': '30daymapchallenge', 'indices': [107, 125]}]",1148686446536155137,Jess Hepburn,JessWhoMaps,"Newcastle Upon Tyne, England",110,184,http://pbs.twimg.com/media/EmfM-XbXUAMKlNv.jpg,https://t.co/ipLaTnKZIT
+157,1326252653874196480,"#30DayMapChallenge Day 5 - Blue
+I find that simply rotating a map slightly can have a huge impact on perception: Here is upper North American lakes from Natural Earth, and somehow I can more clearly see the glacial origins of the region https://t.co/GQu2rHH61Y",en,2020-11-10 19:57:27,1,2,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",2911550919,Philip Pierdomenico,PhilPierdo,"Philadelphia, PA",389,281,http://pbs.twimg.com/media/EmfLruhXUAInuw-.jpg,https://t.co/GQu2rHH61Y
+159,1326249793354608649,"#30DayMapChallenge Day 10 - Grid
+
+2011 Eurostat population data in 20 by 20km grids. Spot the major European cities and agglomerations. Made in #QGIS https://t.co/kTLajdIJcc",en,2020-11-10 19:46:05,1,9,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'QGIS', 'indices': [144, 149]}]",3123452678,Maedhbh Nic Lochlainn,MaedhbhLikeDave,"Dublin City, Ireland",183,139,http://pbs.twimg.com/media/EmfI7gLXcAI5_z6.jpg,https://t.co/kTLajdIJcc
+160,1326249717701996546,"#30DayMapChallenge Día 9: Monocromático
+
+Como marco de referencia de la variación estacional, esta animación representa el índice de cobertura vegetal (NVDI) a lo largo del año, promediando un rango de 20 años entre el 2000 y el 2020. Nótese la intensidad de cobertura al norte. https://t.co/2rTLUrjUhA",es,2020-11-10 19:45:47,1,3,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",450838453,un-supra-hemimerengue,bushidoenator,,39,163,http://pbs.twimg.com/tweet_video_thumb/EmfHMyFW4AAtYOb.jpg,https://t.co/2rTLUrjUhA
+161,1326249708491317251,"#30DayMapChallenge  Día 8: Amarillo
+
+El color amarillo en este mapa representa la falta de cobertura forestal. Este mapa resalta la coincidencia entre la falta de cobertura forestal y los proyectos de extracción, particularmente en Petén, donde la tala de bosques es extensiva. https://t.co/Z1sKSuUlIZ",es,2020-11-10 19:45:45,3,3,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",450838453,un-supra-hemimerengue,bushidoenator,,39,163,http://pbs.twimg.com/media/EmfE2c8W4AAW2Q9.jpg,https://t.co/Z1sKSuUlIZ
+162,1326249701465853955,"#30DayMapChallenge  Día 7: Verde
+
+Este es triste, hay poco qué decir. Según Hansen, entre los años 2000 y 2012, la recuperación de cobertura forestal es negligible en el país. https://t.co/e5Xep4DzIM",es,2020-11-10 19:45:44,1,0,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",450838453,un-supra-hemimerengue,bushidoenator,,39,163,http://pbs.twimg.com/media/EmfEglfWMAAxnpm.jpg,https://t.co/e5Xep4DzIM
+163,1326249689486946311,"#30DayMapChallenge Día 6: Rojo
+
+Uno de los mayores problemas con los proyectos extractivos es su efecto sobre la biodiversidad y la cobertura forestal. Para extraer, se debe remover el bosque y acceder a los recursos en la tierra. La mayor parte de la pérdida... https://t.co/xEcWrfWpMi",es,2020-11-10 19:45:41,3,1,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",450838453,un-supra-hemimerengue,bushidoenator,,39,163,http://pbs.twimg.com/media/EmfDF3kXMAAgxu0.jpg,https://t.co/xEcWrfWpMi
+165,1326247915472482304,"#30DayMapChallenge Day 10: Grid
+
+Lake District using Ordnance Survey Terrain 50 grid using #Aerialod. Source: https://t.co/vhesVLSIP4 https://t.co/Hg5jdbtiBR",en,2020-11-10 19:38:38,2,11,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'Aerialod', 'indices': [91, 100]}]",159574073,Michael Legg,mjlegg,,155,110,http://pbs.twimg.com/media/EmfHZvqXcAA2JFM.jpg,https://t.co/vhesVLSIP4
+166,1326246858944114689,"Artificialization of soils in Bas-Rhin between 2010 and 2018. 2km grid.
+Data from @geograndest  
+
+#30DayMapChallenge day 10, grid #rspatial #rstats https://t.co/c8qP40636D",en,2020-11-10 19:34:26,4,3,"[{'text': '30DayMapChallenge', 'indices': [98, 116]}, {'text': 'rspatial', 'indices': [130, 139]}, {'text': 'rstats', 'indices': [140, 147]}]",948687702957936641,JulGrrd,GrrdJul,,34,239,http://pbs.twimg.com/media/EmfGe8oXYAEV5Pa.jpg,https://t.co/c8qP40636D
+167,1326246598582493185,"Stanley locates Livingstone. Today In Cat History, Nov. 10, 1871. Where? In Ujiji, near Lake Tanganyika. #30DayMapChallenge #AdoptDontShop #CatsOfTwitter https://t.co/UJfO8qHXaq",en,2020-11-10 19:33:24,1,0,"[{'text': '30DayMapChallenge', 'indices': [105, 123]}, {'text': 'AdoptDontShop', 'indices': [124, 138]}, {'text': 'CatsOfTwitter', 'indices': [139, 153]}]",1694677921,Todayincathistory,Cathistory,Los Angeles,286,157,http://pbs.twimg.com/media/EmfGP6lVcAATzSA.jpg,https://t.co/UJfO8qHXaq
+168,1326244430567727104,For #grid day of the #30DayMapChallenge we're contrasting two grids: the lat long grid and the grid created by dissecting and rebacking a map on heavy cloth. https://t.co/rErqOWcyoJ,en,2020-11-10 19:24:47,3,10,"[{'text': 'grid', 'indices': [4, 9]}, {'text': '30DayMapChallenge', 'indices': [21, 39]}]",281545406,HarvardMapCollection,HarvardMapColl,"Cambridge, Massachusetts, USA",6394,902,http://pbs.twimg.com/media/EmfERsiVoAA8VJB.jpg,https://t.co/rErqOWcyoJ
+169,1326244089013080066,"#30DayMapChallenge  Today is Grids, so here's THE national grid... https://t.co/vKkyzai3Va",en,2020-11-10 19:23:25,1,8,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",734297005846081536,Steve Carver,LandEthics,"Yorkshire, England",1940,442,http://pbs.twimg.com/media/EmfD9sgXMAMhTIq.jpg,https://t.co/vKkyzai3Va
+171,1326242493411844096,Densidad de feminicidios en México 2018 a 2020 @msalguerb @inmujeres @geospatialwomen #30DayMapChallenge https://t.co/qcMq1DffIN,es,2020-11-10 19:17:05,3,8,"[{'text': '30DayMapChallenge', 'indices': [86, 104]}]",97729765,Carlos Ruiz,cruizch,"Guadalajara, México",252,89,http://pbs.twimg.com/media/Eme-GxMXEAA4SOd.jpg,https://t.co/qcMq1DffIN
+172,1326241761468047362,#30DayMapChallenge Režgis. N-tā diena. https://t.co/q5PeerVsq9,lv,2020-11-10 19:14:10,1,2,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",19811364,Oskars Ušpelis,saabrs,"Cēsis, Latvija",481,348,http://pbs.twimg.com/media/EmfB2nYXYAEgqmF.jpg,https://t.co/q5PeerVsq9
+173,1326240970673950723,"#30DayMapChallenge day 9 : monochrome
+Bobo-Dioulasso, 2nd biggest city of Burkina Faso 
+OpenStreetMap data
+(cheated.. made with Qgis ;) ) https://t.co/IGX4lE4RPT",en,2020-11-10 19:11:02,2,13,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",1118966136735924225,Paul Taconet,PTaconet,,16,43,http://pbs.twimg.com/media/EmfAml9XMAE7nul.jpg,https://t.co/IGX4lE4RPT
+174,1326240087475105793,"#30DayMapChallenge - Day 10 - Grid
+Reusing data from day 1. Instead of plotting the cities as points, mapped cities to a square grid. Each grid is 150x150 Sq. Km., and its color is representative of number of cities with population &gt; 100k in it.
+Created using #Python + #Kepler.gl https://t.co/bxfZ5o1B45 https://t.co/FYbrI29CeV",en,2020-11-10 19:07:31,1,0,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'Python', 'indices': [263, 270]}, {'text': 'Kepler', 'indices': [273, 280]}]",867502710131752960,Vivek Parashar,vivekparasharr,,13,22,http://pbs.twimg.com/media/EmfAU42W8AAZ41a.jpg,https://t.co/bxfZ5o1B45
+175,1326240066969210882,"#30DayMapChallenge Day 10: Grid
+The 365 square miles of Dartmoor National Park. One for each day of the year (well until 1990 anyway) #dartmoor https://t.co/fSRwxnePs2",en,2020-11-10 19:07:26,3,8,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'dartmoor', 'indices': [134, 143]}]",18795658,Matt Travis,Yakus,"Ivybridge, Devon",515,738,http://pbs.twimg.com/media/EmfAS0wXcAAVasB.jpg,https://t.co/fSRwxnePs2
+176,1326239885506740224,"🐸 Amphibians in Chiapas, Mexico
+
+#30DayMapChallenge Day 10 #Diamond #Grid 
+Made with #QGIS #Maps #Amphibians https://t.co/NoSEuNh2so",en,2020-11-10 19:06:43,1,7,"[{'text': '30DayMapChallenge', 'indices': [33, 51]}, {'text': 'Diamond', 'indices': [59, 67]}, {'text': 'Grid', 'indices': [68, 73]}, {'text': 'QGIS', 'indices': [85, 90]}, {'text': 'Maps', 'indices': [91, 96]}, {'text': 'Amphibians', 'indices': [97, 108]}]",1154257288158298112,geoscéntricos,geoscentricos,Ciudad de México,203,179,http://pbs.twimg.com/media/Eme_z4jVcAEYngb.jpg,https://t.co/NoSEuNh2so
+177,1326239539346755587,"#30DayMapChallenge Day 10: Grid
+
+We ingest map views from OpenStreetMap to understand how popular a region is. That's tiles, tiles are grid. https://t.co/2hQkOWaGMm",en,2020-11-10 19:05:21,2,6,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",1024584556110852096,Kontur,KonturInc,"1305 N. Holopono Street, Suite 2
+Kihei HI 96753 
+USA",201,213,http://pbs.twimg.com/media/Eme-s-2WMAEP0jG.jpg,https://t.co/2hQkOWaGMm
+178,1326238148427452417,Looking for #30DayMapChallenge inspiration? Try working with elections-related data for the #electionmapping challenge! Deadline extended to Nov 30: https://t.co/vVH9FeyYkD https://t.co/0UjcD9HOQR,en,2020-11-10 18:59:49,5,9,"[{'text': '30DayMapChallenge', 'indices': [12, 30]}, {'text': 'electionmapping', 'indices': [92, 108]}]",55236002,Mapbox,Mapbox,,71023,2064,http://pbs.twimg.com/media/Eme-kUyXIAI00vZ.jpg,https://t.co/vVH9FeyYkD
+179,1326237051914694656,"#30DayMapChallenge day 10 grid. Island of Lundy. Sea grid squares are km sq, land grid is hectares. Blender, QGIS and GDAL. DEM is from Defra. https://t.co/uZDbfeVxCP",en,2020-11-10 18:55:28,1,13,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",363276700,Steven Kay,stevefaeembra,Edinburgh,825,325,http://pbs.twimg.com/media/Eme8-lCXEAEj6wa.jpg,https://t.co/uZDbfeVxCP
+181,1326235076787572736,"Population grid of a Mainland Southeast Asia.
+
+Was dreading this one - ended up loving it!
+
+#30DayMapChallenge #Day10 #Grid #QGIS https://t.co/Frrsvyk7ML",en,2020-11-10 18:47:37,6,71,"[{'text': '30DayMapChallenge', 'indices': [92, 110]}, {'text': 'Day10', 'indices': [111, 117]}, {'text': 'Grid', 'indices': [118, 123]}, {'text': 'QGIS', 'indices': [124, 129]}]",1101617286,Helen McKenzie,Helenmckmck,London,1396,567,http://pbs.twimg.com/media/Eme7NvTW8AEZ3Rj.jpg,https://t.co/Frrsvyk7ML
+183,1326233621783597056,"Día 9. Monocromo.  Aunque sea con retraso, comparto esta animación realizada a partir de un Modelo Digital de Elevaciones para mostrar la distribución de las laderas de solana y umbría en la Sierra de Burete en Murcia, España. 
+#30DayMapChallenge https://t.co/KV8PwaHwHH",es,2020-11-10 18:41:50,1,3,"[{'text': '30DayMapChallenge', 'indices': [228, 246]}]",1294723270932156419,Francisco Pareja,FranParejaLopez,Córdoba,282,174,http://pbs.twimg.com/ext_tw_video_thumb/1326233547192070145/pu/img/EAU7wTTU6W6X1uQl.jpg,https://t.co/KV8PwaHwHH
+184,1326232875075710976,"Monochrome map of housing style in D.C. (forgot to post this yesterday!). I highlighted 3 major types: rowhouses, duplex/triplexes, and detached (SFH) 🏡🏘️🏙️🌳 to show residential patterns in the city #rstats #rspatial #30DayMapChallenge Code: https://t.co/xq7LdTbDLv https://t.co/RADkdDIftg",en,2020-11-10 18:38:52,11,53,"[{'text': 'rstats', 'indices': [199, 206]}, {'text': 'rspatial', 'indices': [207, 216]}, {'text': '30DayMapChallenge', 'indices': [217, 235]}]",2832470440,Katie Jolly,katiejolly6,"Seattle, WA",1108,1657,http://pbs.twimg.com/media/Eme40WDVoAECsPN.jpg,https://t.co/xq7LdTbDLv
+185,1326230582834114560,"#30DayMapChallenge Day 10: Grid
+@Geomniuk create “clutter” data to support wireless #telecom networks. This combination of #landuse and #landcover is supplied in grid form. Maps show part of Nottingham at 20m and 2m resolution. https://t.co/uTgPEwWgKF",en,2020-11-10 18:29:45,2,5,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'telecom', 'indices': [84, 92]}, {'text': 'landuse', 'indices': [123, 131]}, {'text': 'landcover', 'indices': [136, 146]}]",1268236531,Tom Timms,TomTheMap,"Cambridgeshire, UK",420,633,http://pbs.twimg.com/media/Eme3mRUXIAE8iEM.png,https://t.co/uTgPEwWgKF
+186,1326229436660854786,"Red / Fire - global volcanoes (minus a few)
+Green / Earth - Global NDVI
+Yellow / Air - Global Elevation above 1000m
+Blue / Water - Countries with highest water coverage as a % of area and those with most fresh water per capita.
+
+#30DayMapChallenge https://t.co/uQcBuAyQdV",en,2020-11-10 18:25:12,2,3,"[{'text': '30DayMapChallenge', 'indices': [229, 247]}]",906170836989747200,Crystal Conway,Crys_Conway,"Georgetown, Guyana",56,123,http://pbs.twimg.com/media/Eme2pMiWEAAzGJv.jpg,https://t.co/uQcBuAyQdV
+187,1326229311234449411,#30DayMapChallenge #Day10 Grids at several resolutions for the European extent - Choose not to do a vis of the 1km grid for Census2021 - this needs more time. Data: @Eurostat #GISCO Grid Data https://t.co/nYVOITlbvP https://t.co/e9A3ZbFo6U,en,2020-11-10 18:24:42,1,6,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'Day10', 'indices': [19, 25]}, {'text': 'GISCO', 'indices': [175, 181]}]",2574612668,hannes reuter,hireuter,,204,415,http://pbs.twimg.com/media/Eme17aEXEAU7DYQ.png,https://t.co/nYVOITlbvP
+188,1326229292523659266,"#30DayMapChallenge Day 10. Grid
+
+Distance to the sea in the world. More here https://t.co/ljmd9fLwhL
+
+#dataviz #rspatial #rstats https://t.co/eMDBHqvQkA",en,2020-11-10 18:24:38,8,53,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'dataviz', 'indices': [102, 110]}, {'text': 'rspatial', 'indices': [111, 120]}, {'text': 'rstats', 'indices': [121, 128]}]",895213223724666880,Dominic Royé,dr_xeo,"Santiago de Compostela, España",2427,992,http://pbs.twimg.com/media/Eme1-yjWMAMHcCw.png,https://t.co/ljmd9fLwhL
+189,1326229089032822786,"#30DayMapChallenge Day 10: Grid
+
+Population grid of Europe, visualised using gridviz: a tool we are developing at @EU_Eurostat for visualising gridded statistics.
+
+It renders over 2 million 1 km² grid cells in the browser using WebGL.
+
+Check it out: https://t.co/El0IAodD1O https://t.co/Chst36J7d5",en,2020-11-10 18:23:49,8,22,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",314881866,Joe Davies,JoeWDavies,Cardiff / Madrid / Luxembourg,167,149,http://pbs.twimg.com/media/Eme2IqBW4AEFc4t.jpg,https://t.co/El0IAodD1O
+190,1326228583984074755,"Ok #30DayMapChallenge you said Blue, Red, Green and Yellow (Days 5-8) and I thought of the Four Nations. So here's my GIS flavoured Avatar fan art of the four Nations using real data. https://t.co/0zAquahxvE",en,2020-11-10 18:21:49,1,1,"[{'text': '30DayMapChallenge', 'indices': [3, 21]}]",906170836989747200,Crystal Conway,Crys_Conway,"Georgetown, Guyana",56,123,http://pbs.twimg.com/media/Eme13RSWMAEhChf.jpg,https://t.co/0zAquahxvE
+191,1326228428643831808,"#30DayMapChallenge - 10 Grid
+
+Population density per hectare in Valais, Switzerland https://t.co/ftRDvK8ggg",en,2020-11-10 18:21:12,1,4,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",1320623996249976832,Raphaël Bz,1cartogRaph,Switzerland,7,2,http://pbs.twimg.com/media/Eme1q8nWMAUSyog.jpg,https://t.co/ftRDvK8ggg
+193,1326227896143392769,"#30DayMapChallenge  Day 10 Grid
+
+Karte mit Hexagon-Raster der Gipfeldichte in der Schweiz nach OSM (fclass=peak)
+
+data #OSM created with #QGIS https://t.co/HQcjZW18lv",de,2020-11-10 18:19:05,1,7,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'OSM', 'indices': [119, 123]}, {'text': 'QGIS', 'indices': [137, 142]}]",1009026611608473600,Martin Senn,MartinSenn6,,4,100,http://pbs.twimg.com/media/Eme1EITXEAEOQnj.png,https://t.co/HQcjZW18lv
+194,1326227524909723650,"Day 10 of #30DayMapChallenge with #EarthEngine - Grid
+
+Forest clearing for cattle ranching in #Argentina 🇦🇷 witnessed by #Sentinel2 🌳🪓🪵🧑‍🌾🐄🥩
+
+Data: Sentinel-2 MSI: MultiSpectral Instrument, Level-2A
+
+Script: https://t.co/VcQJZHhIQf https://t.co/SL7HIHt95w",en,2020-11-10 18:17:36,5,24,"[{'text': '30DayMapChallenge', 'indices': [10, 28]}, {'text': 'EarthEngine', 'indices': [34, 46]}, {'text': 'Argentina', 'indices': [94, 104]}, {'text': 'Sentinel2', 'indices': [121, 131]}]",1585404372,Philipp Gärtner,gartn001,"Berlin, Germany",1481,834,http://pbs.twimg.com/media/Eme0ENpXEAIpj24.png,https://t.co/VcQJZHhIQf
+195,1326227340544839682,"#30DayMapChallenge, day 10: Grid - Modeled coastal vulnerability for #Belize's #Placencia peninsula, based on the @NatCapProject's #InVEST. 
+https://t.co/0IDug7COWs https://t.co/xQZeP6WtJ8",en,2020-11-10 18:16:52,2,2,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'Belize', 'indices': [69, 76]}, {'text': 'Placencia', 'indices': [79, 89]}, {'text': 'InVEST', 'indices': [131, 138]}]",731808469301493760,🇧🇿 Belize GEO 🛰️,BZgeo,Belize,4178,3836,http://pbs.twimg.com/media/Eme0XhHXUAAcpK7.jpg,https://t.co/0IDug7COWs
+196,1326227289458286593,"day 10: grid! #30DayMapChallenge w/o plugins today: QGIS &gt; Vector &gt; Research tools &gt; Create Grid &gt;🔷
+I was GIS-ing in Tønder (DK) today, so this little experiment... If you want to read about #groundwater vulnerability in Tønder (open access):   https://t.co/xwQnsoGbqg https://t.co/kH6YmAJHll",en,2020-11-10 18:16:40,1,5,"[{'text': '30DayMapChallenge', 'indices': [14, 32]}, {'text': 'groundwater', 'indices': [203, 215]}]",223123391,Denitza Voutchkova,DenitzaV,Denmark,214,219,http://pbs.twimg.com/media/EmeyodJXIAERb4I.jpg,https://t.co/xwQnsoGbqg
+197,1326226084178915328,"Drum- and -rig/g in Dumfries and Galloway place-names
+Both elements are etymologically words for 'a back': Gaelic druim (Cumbric drum) 'ridge' and Scots rig 'a ridge, long narrow hill or strip of land'. There's a a fairly clear E/W split.
+#30DayMapChallenge #Day10 #Grid #QGIS https://t.co/izPY8DjSTh",en,2020-11-10 18:11:53,3,14,"[{'text': '30DayMapChallenge', 'indices': [239, 257]}, {'text': 'Day10', 'indices': [258, 264]}, {'text': 'Grid', 'indices': [265, 270]}, {'text': 'QGIS', 'indices': [271, 276]}]",1081900377853829120,D&G place-names,dgplacenames,,575,299,http://pbs.twimg.com/media/EmevI_RW4AAIKq4.jpg,https://t.co/izPY8DjSTh
+198,1326225867010355201,"#30DayMapChallenge #day10 : Grid.
+Les immeubles new-yorkais.
+
+[ENG] Number of buildings in NYC. https://t.co/C6HAFJ9CxN",en,2020-11-10 18:11:01,1,4,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'day10', 'indices': [19, 25]}]",163493843,maelle am,MaelleAMM,Paris,200,375,http://pbs.twimg.com/media/EmezURoW4AQgp7M.jpg,https://t.co/C6HAFJ9CxN
+199,1326224140383170562,"#30DayMapChallenge - Day 10: Grid.
+
+I had an interesting idea for this but no time to pull it off! 
+
+Instead a quick 5 minute job here of the gridded streets of #Portlandia. Data extracted from @anvaka's city roads tool based on #osm, quickly rendered in aerialod https://t.co/0F5caaUEuw",en,2020-11-10 18:04:09,3,13,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'Portlandia', 'indices': [161, 172]}, {'text': 'osm', 'indices': [229, 233]}]",309734801,Sam J,samwise_v,"London, UK",133,496,http://pbs.twimg.com/media/EmexWTfXUAIOTfa.jpg,https://t.co/0F5caaUEuw
+200,1326223249726910464,Day 10 Grid #30DayMapChallenge Beemster polder in the Netherlands Data source: #BGT #QGIS https://t.co/d1VQWH1zNE,en,2020-11-10 18:00:37,1,4,"[{'text': '30DayMapChallenge', 'indices': [12, 30]}, {'text': 'BGT', 'indices': [79, 83]}, {'text': 'QGIS', 'indices': [84, 89]}]",261631571,Leo,hendrikxleo,Nederland,64,252,http://pbs.twimg.com/media/Emew-9gXEAEYedv.jpg,https://t.co/d1VQWH1zNE
+202,1326223056939806720,"#30DayMapChallenge days 07,08,09: green, yellow, monochrome. All the trees in San Francisco, the buildings around my high school in imperial beach, the 10,988,525 buildings in california Microsoft has in their buildings footprints dataset 👀 https://t.co/VhPe9NlEi1",en,2020-11-10 17:59:51,3,8,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",711926891590979586,el sergio sánchez 🇲🇽,ChekosWH,San Francisco Bay Area,669,1292,http://pbs.twimg.com/media/EmewyncVcAAfP6E.jpg,https://t.co/VhPe9NlEi1
+203,1326223031505727490,"Day 10 
+As Ireland moves to utalise more renewable energy it will be interesting to see how the use of Peat as central heating source will change over the coming years. 
+#30DayMapChallenge https://t.co/junSRIOBeN",en,2020-11-10 17:59:45,3,11,"[{'text': '30DayMapChallenge', 'indices': [170, 188]}]",457462538,jack ffrench,jackffrench,,205,141,http://pbs.twimg.com/media/EmewuXKXEAAeBJc.jpg,https://t.co/junSRIOBeN
+204,1326220378927063042,"I have two maps today for the #30DayMapChallenge to make up for a couple I missed. Day 7 (green) is a #map of #trees in Seattle, and day 8 (yellow) shows density of #breweries in Virginia! Days 9 and 10 coming tonight! #GIS #geospatial https://t.co/ZxrypUZB4A",en,2020-11-10 17:49:12,2,6,"[{'text': '30DayMapChallenge', 'indices': [30, 48]}, {'text': 'map', 'indices': [102, 106]}, {'text': 'trees', 'indices': [110, 116]}, {'text': 'breweries', 'indices': [165, 175]}, {'text': 'GIS', 'indices': [219, 223]}, {'text': 'geospatial', 'indices': [224, 235]}]",1311526141983772673,Rachel Finerman,RFinerman,,28,72,http://pbs.twimg.com/media/EmeuYgFU8AU0O2m.jpg,https://t.co/ZxrypUZB4A
+205,1326220184709836802,"#30DayMapChallenge day 10: Grid. This is the Parlick Grid paragliding challenge, a series of fifteen cylinders alongside Parlick Hill in Lancashire that must be tagged in order without landing. It's been done, but not by many. https://t.co/PbFIHRbWlp",en,2020-11-10 17:48:26,1,2,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",21752435,Neil Charles,neilcharles_uk,Leeds,4420,1416,http://pbs.twimg.com/media/EmeuDO3XUAAuL62.jpg,https://t.co/PbFIHRbWlp
+206,1326219744702312457,"Day 10: Grid #30DayMapChallenge 
+Used #INLA mesh to create grids over the state of Uttarakhand in India
+#ggplot #RStats #rspatial #rgeomatic #r4ds https://t.co/CgztutxvLw",en,2020-11-10 17:46:41,4,2,"[{'text': '30DayMapChallenge', 'indices': [13, 31]}, {'text': 'INLA', 'indices': [38, 43]}, {'text': 'ggplot', 'indices': [104, 111]}, {'text': 'RStats', 'indices': [112, 119]}, {'text': 'rspatial', 'indices': [120, 129]}, {'text': 'rgeomatic', 'indices': [130, 140]}, {'text': 'r4ds', 'indices': [141, 146]}]",28133471,Nilanjan Chatterjee,footloose_nil,"Dehradun, India",267,261,http://pbs.twimg.com/media/EmesysPW8AEtsXt.jpg,https://t.co/CgztutxvLw
+207,1326218390478860290,"#30DayMapChallenge with #EarthEngine day 10: grid
+
+O&amp;C Lands grid from #Sentinel2. An example of land ownership &amp; #forest harvesting practices altering landscapes in an entirely unnatural way 🌲🪓🪵
+
+More on O&amp;C Lands &amp; S2 cloud masking in this #Colab NB: https://t.co/xRI8FImKrK https://t.co/5YvbWeRHF7",en,2020-11-10 17:41:18,9,39,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'EarthEngine', 'indices': [24, 36]}, {'text': 'Sentinel2', 'indices': [75, 85]}, {'text': 'forest', 'indices': [122, 129]}, {'text': 'Colab', 'indices': [258, 264]}]",831942603931127809,Justin Braaten,jstnbraaten,"Santa Cruz, CA",2392,1241,http://pbs.twimg.com/media/EmerpfhUcAA3Xyi.jpg,https://t.co/xRI8FImKrK
+208,1326217428909641728,#30DayMapChallenge  Day 10: Grid: Postal offices/Post boxes in Great Britain (OSM + OS) https://t.co/vfgI9leBtP,en,2020-11-10 17:37:29,1,16,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",2679909391,Zlata Popelnuh,popelnuhh,,93,153,http://pbs.twimg.com/media/Emerc41WEAMGZPY.jpg,https://t.co/vfgI9leBtP
+209,1326217394306637825,These are our fav 5 maps from Day 10: Grids for #30DayMapChallenge see our twitter thread for original authors and links #geoshare #GISchat https://t.co/WIMG3jTydM,en,2020-11-10 17:37:21,4,12,"[{'text': '30DayMapChallenge', 'indices': [48, 66]}, {'text': 'geoshare', 'indices': [121, 130]}, {'text': 'GISchat', 'indices': [131, 139]}]",190644064,British Carto Soc.,bcsweb,UK,3320,271,http://pbs.twimg.com/media/EmersQsW8AIuo3F.jpg,https://t.co/WIMG3jTydM
+210,1326214976411996161,"Day 10 of #30DayMapChallenge 🗺️ 
+Grid 🌐
+#RemoteSensing 🛰️ based Gross Primary Production (GPP) in #SriLanka 🇱🇰, December 2019.
+Data from @NASA #MOD17 
+Map created using #rstat and #rspatial (@rstudio) with #tmap https://t.co/PPFR5LcYHA",en,2020-11-10 17:27:44,2,3,"[{'text': '30DayMapChallenge', 'indices': [10, 28]}, {'text': 'RemoteSensing', 'indices': [40, 54]}, {'text': 'SriLanka', 'indices': [98, 107]}, {'text': 'MOD17', 'indices': [143, 149]}, {'text': 'rstat', 'indices': [169, 175]}, {'text': 'rspatial', 'indices': [180, 189]}, {'text': 'tmap', 'indices': [206, 211]}]",711999226381737984,Jmatics,jmatics,"Lund, Sverige",327,288,http://pbs.twimg.com/media/EmepfJoXYAAvZlR.jpg,https://t.co/PPFR5LcYHA
+211,1326214769414709252,"🚇🏫 Étude d'implantation d'une résidence étudiante à proximité de la (toujours future) #ligneb du métro à #Rennes
+
+#30DayMapChallenge Jour 10 - Grid
+
+Carte réalisée l'année dernière dans le cadre d'un rendu du M2 @E_Sigat https://t.co/6Z4d4B20Ji",fr,2020-11-10 17:26:55,2,9,"[{'text': 'ligneb', 'indices': [86, 93]}, {'text': 'Rennes', 'indices': [105, 112]}, {'text': '30DayMapChallenge', 'indices': [114, 132]}]",207283971,Pierre,alnpierre,Nantes,165,290,http://pbs.twimg.com/media/EmepS9_XIAANoyc.jpg,https://t.co/6Z4d4B20Ji
+212,1326214595556601857,"#30DayMapChallenge 10. diena. Režģis. Karšu lapu dalījums TKS-93 sistēmā, mērogā 1 : 50 000. Katrai karšu lapai piešķirta vidējā augstuma vērtība no digitālā reljefa modeļa ar 20 m soli. https://t.co/8Tg48dghof",lv,2020-11-10 17:26:14,3,16,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",461965493,Kristīne,kriksine,,323,369,http://pbs.twimg.com/media/EmenUfLXMAEcfHf.jpg,https://t.co/8Tg48dghof
+213,1326213375903166465,"A little bit late to join the challenges but I hope I can submit the remaining challenges. For today #30DayMapChallenge - Grid. Using the tutorial from @AndriyYaremenko I create an elevation map with lego style for Lombok Island, Indonesia. https://t.co/4bWJJSVhU6",en,2020-11-10 17:21:23,3,14,"[{'text': '30DayMapChallenge', 'indices': [101, 119]}]",116146018,Adityo Dwijananto,adisadit,"ÜT: -6.368713,106.827116",397,395,http://pbs.twimg.com/media/Emen8N8UYAAdbHZ.jpg,https://t.co/4bWJJSVhU6
+214,1326212627576606722,"#30DayMapChallenge 
+Day 10 - Grid
+
+Hidalgo, México: Templos
+
+Data: Marco geoestadístico, INEGI 2019 https://t.co/I43UZqYjy1",es,2020-11-10 17:18:24,3,4,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",894755514571046915,The White Rabbit Science,whiterabbit_sci,,22,67,http://pbs.twimg.com/media/EmenWsgXMAA5B8O.jpg,https://t.co/I43UZqYjy1
+215,1326212495351148545,A quick #30DayMapChallenge map using grids. 2019 central belt population numbers https://t.co/ORnfSILppX,en,2020-11-10 17:17:53,1,2,"[{'text': '30DayMapChallenge', 'indices': [8, 26]}]",16649969,James,sixfootdestiny,"iPhone: 55.912548,-3.167231",120,579,http://pbs.twimg.com/media/EmenPGnXUAE_Psr.jpg,https://t.co/ORnfSILppX
+216,1326210574141698049,"Día 10: Malla #30DayMapChallenge 
+
+Hace tiempo escribí este código para realizar mallas hexagonales con #Excel. Haría falta ajustar la distancia entre figuras al momento de cambiar la figura.
+
+https://t.co/BrhR1UCIt3
+
+Software: #ExcelMacro #googleEarth https://t.co/SV3XZgYsgl",es,2020-11-10 17:10:15,1,4,"[{'text': '30DayMapChallenge', 'indices': [14, 32]}, {'text': 'Excel', 'indices': [104, 110]}, {'text': 'ExcelMacro', 'indices': [228, 239]}, {'text': 'googleEarth', 'indices': [240, 252]}]",72170599,Mario Hernández,armiok,Ecatepec de Morelos,556,145,http://pbs.twimg.com/media/Emej4B_W8AEN3x6.jpg,https://t.co/BrhR1UCIt3
+217,1326207182010978304,"(2/2) And for #30DayMapChallenge Day 10 (already!): Grid, some further 3D experiments. Same bathymetric data, same software, different colors, and more... gridded :)
+#Aerialod is quite a nice tool. An option to smooth the DEM would be cool though (did I miss it?). https://t.co/LxU6V8NtFp",en,2020-11-10 16:56:46,2,14,"[{'text': '30DayMapChallenge', 'indices': [14, 32]}, {'text': 'Aerialod', 'indices': [166, 175]}]",108928400,Jérémy Garniaux,mapperfr,"Marseille, France",824,2168,http://pbs.twimg.com/media/EmehRIiWMAISzdS.jpg,https://t.co/LxU6V8NtFp
+218,1326207173479837698,"(1/2) Double contribution today for #30DayMapChallenge! To catch up on yesterday (Day 9: Monochrome), here is a fictional blue landscape based on #GEBCO bathymetric data from the Portugal coast, intensely tweaked in #Aerialod (like this sea level much lower than reality). https://t.co/U1Lf1wCMDx",en,2020-11-10 16:56:44,2,9,"[{'text': '30DayMapChallenge', 'indices': [36, 54]}, {'text': 'GEBCO', 'indices': [146, 152]}, {'text': 'Aerialod', 'indices': [216, 225]}]",108928400,Jérémy Garniaux,mapperfr,"Marseille, France",824,2168,http://pbs.twimg.com/media/Emef7C8XcAMmdNh.jpg,https://t.co/U1Lf1wCMDx
+219,1326204981087784967,"Another map for #30DayMapChallenge - this time: grid.
+
+I'm finding it harder to create some of these maps now - a combination of limited time (work + toddler!) and limited inspiration. However, I managed to come up with this in a spare half-hour.
+#Southampton https://t.co/PjM3PUXzew",en,2020-11-10 16:48:01,1,4,"[{'text': '30DayMapChallenge', 'indices': [16, 34]}, {'text': 'Southampton', 'indices': [247, 259]}]",809066605,Robin Wilson,sciremotesense,"Southampton, England",900,505,http://pbs.twimg.com/media/EmegYEkWMAAGuoa.jpg,https://t.co/PjM3PUXzew
+220,1326204818742972417,"#30DayMapChallenge Day 10 : Grid
+
+Concentration de nitrates en Bretagne.
+
+#QGIS #Bretagne #environnement #nitrate https://t.co/qwrMnIdCkF",fr,2020-11-10 16:47:23,4,13,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'QGIS', 'indices': [74, 79]}, {'text': 'Bretagne', 'indices': [80, 89]}, {'text': 'environnement', 'indices': [90, 104]}, {'text': 'nitrate', 'indices': [105, 113]}]",414943174,Ben,benfriin,,375,2413,http://pbs.twimg.com/media/EmegQG_XIAAoczy.jpg,https://t.co/qwrMnIdCkF
+221,1326203370672066562,"#30DayMapChallenge Day 10 - Grid
+
+The Public Land Survey System is the largest grid in the world, so we can forgive a few mistakes... https://t.co/KWgOGYVJLH",en,2020-11-10 16:41:37,4,31,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",851149914725916672,ksituan northland,ksituan,Val Marie / Treaty 4,1196,156,http://pbs.twimg.com/media/EmchEglU4AEiHWn.jpg,https://t.co/KWgOGYVJLH
+222,1326203239193325569,"#30DayMapChallenge Day10 #Grid
+🎨Tomás López
+🖼Plano Geométrico de #Madrid ⌛️1785
+🏛@IGNSpain @HarvardMapColl 
+🔗https://t.co/tHfjXKA6MK
+Primer mapa de Madrid que ubica topónimos con una #rejilla de letras y números. Tomás López toma la idea del plano de París de Jaillot, 1778 https://t.co/KyzikcQXYp",es,2020-11-10 16:41:06,1,0,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'Grid', 'indices': [25, 30]}, {'text': 'Madrid', 'indices': [65, 72]}, {'text': 'rejilla', 'indices': [183, 191]}]",92787154,Esteban Escolano Molin,e2molin,"Madrid, Spain, Europe",451,1048,http://pbs.twimg.com/media/EmeeQTCXcAM1EbA.jpg,https://t.co/tHfjXKA6MK
+223,1326202971856769024,Old school grids from the Tamar catchment circa 2013 on day 10 of the @OrdnanceSurvey #30DayMapChallenge show outputs from a nutrient risk model called PSYCHIC - this one estimated the daily loss of phosphate from each section of the landscape (the squares). https://t.co/S84STkSRVd,en,2020-11-10 16:40:02,2,6,"[{'text': '30DayMapChallenge', 'indices': [86, 104]}]",454007980,Westcountry Rivers Trust,WestcountryRT,Cornwall.Devon.Dorset.Somerset,4565,3604,http://pbs.twimg.com/media/EmeekunXMAEy3nM.jpg,https://t.co/S84STkSRVd
+224,1326202157809459202,"#30DayMapChallenge Day 10: Grids
+
+NOAA-20 #VIIRS Maximum #Fire Radiative Power per 50 km grid for much of India and Sub-Saharan Africa. 
+
+Map done in https://t.co/AbLPeI94OV. Inspiration to use this tool from @geologyjesse. https://t.co/sO0cu1b612",en,2020-11-10 16:36:48,1,6,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'VIIRS', 'indices': [42, 48]}, {'text': 'Fire', 'indices': [57, 62]}]",65064975,Jessica McCarty,jmccarty_geo,Myaamia land & The World,2679,4026,http://pbs.twimg.com/media/EmedcQAWMAE-xVs.jpg,https://t.co/AbLPeI94OV.
+225,1326201254264139778,"Day 10 - Grid
+
+#30DayMapChallenge 
+
+#ArcGISPro #ArcGISOnline
+
+#GIS &amp; #Geoscience application
+
+Link is a web #map showing a mock first-pass high-resolution #Seismic layout grid on the ATS grid
+
+https://t.co/dgqJSHV59b
+
+Imagery is 10m res sentinel 2 bands
+
+Looks good mobile too! https://t.co/cLM30jPlIY",en,2020-11-10 16:33:13,0,2,"[{'text': '30DayMapChallenge', 'indices': [15, 33]}, {'text': 'ArcGISPro', 'indices': [36, 46]}, {'text': 'ArcGISOnline', 'indices': [47, 60]}, {'text': 'GIS', 'indices': [62, 66]}, {'text': 'Geoscience', 'indices': [73, 84]}, {'text': 'map', 'indices': [112, 116]}, {'text': 'Seismic', 'indices': [159, 167]}]",3160198320,Dr Chris #GIS #Success,DrChrisGeoSci,"Calgary, Alberta",717,660,http://pbs.twimg.com/media/EmedAtbWEAA-yUs.jpg,https://t.co/dgqJSHV59b
+226,1326199989790527494,"Day 10 of the #30DayMapChallenge is ‘grid’. Hence a map of Manhattan streets (obvs). Part of Central Park features, which is a link to yesterday’s Merseyside maps on rapid city growth, the recognition of the value of green spaces &amp; the specific influence on CP of Birkenhead Park. https://t.co/g7lcHx9ipk",en,2020-11-10 16:28:11,1,7,"[{'text': '30DayMapChallenge', 'indices': [14, 32]}]",176337766,Danny Cullinane,timbertopper400,NW England,385,762,http://pbs.twimg.com/media/Emeb2PkW4AkE8h4.jpg,https://t.co/g7lcHx9ipk
+227,1326199545097834497,También en el☎️ 919991212 pregunta y da solución a tus problemas..#ColombiaVotaTrump #HITpolitica #TentacionesDBT6 #4T #30DayMapChallenge #AcusacionConstitucional #2ndBousnidStars2020 #30DayMapChallenge #Corrupto #ColombiaVotaTrump #DesmuertoReanimado #CuartoMilenio #06Nov #Akira https://t.co/b4pVkHwuQu,es,2020-11-10 16:26:25,0,0,"[{'text': 'ColombiaVotaTrump', 'indices': [66, 84]}, {'text': 'HITpolitica', 'indices': [85, 97]}, {'text': 'TentacionesDBT6', 'indices': [98, 114]}, {'text': '4T', 'indices': [115, 118]}, {'text': '30DayMapChallenge', 'indices': [119, 137]}, {'text': 'AcusacionConstitucional', 'indices': [138, 162]}, {'text': '2ndBousnidStars2020', 'indices': [163, 183]}, {'text': '30DayMapChallenge', 'indices': [184, 202]}, {'text': 'Corrupto', 'indices': [203, 212]}, {'text': 'ColombiaVotaTrump', 'indices': [213, 231]}, {'text': 'DesmuertoReanimado', 'indices': [232, 251]}, {'text': 'CuartoMilenio', 'indices': [252, 266]}, {'text': '06Nov', 'indices': [267, 273]}, {'text': 'Akira', 'indices': [274, 280]}]",359450600,SAMUEL ARTIXAN,SAMUELARTIXAN,MADRID,656,1911,http://pbs.twimg.com/media/EmebcmYXIAUN-v9.jpg,https://t.co/b4pVkHwuQu
+228,1326198168703283200,"#30daymapchallenge 10/30: Grid. Stretching the prompt again, for a digital/8-bit version of my D&amp;D found-texture ""Game Board"" map, styled like Zelda II's overworld map. It'll be laborious to finish, but I'm gonna pretend that posting an incomplete project might juice me to do it. https://t.co/GZWdsqH1rW",en,2020-11-10 16:20:57,1,3,"[{'text': '30daymapchallenge', 'indices': [0, 18]}]",1224107513131327488,keirtography,keirtography,"Ventura, CA",57,193,http://pbs.twimg.com/media/EmeaI7aUcAAvA6O.png,https://t.co/GZWdsqH1rW
+229,1326194946706124805,"One way around this is to divide space up according to a regular grid—and ""grid"" is today's theme in the #30DayMapChallenge!
+
+This 1966 map of Boston was an early example of modern spatial analysis using a grid. 2/ https://t.co/Kuejc7n70A",en,2020-11-10 16:08:09,1,6,"[{'text': '30DayMapChallenge', 'indices': [105, 123]}]",65125461,Leventhal Map & Education Center at the BPL,bplmaps,"Copley Square, Boston, MA",4979,678,http://pbs.twimg.com/media/EmeWOlMWMAIfIsB.png,https://t.co/Kuejc7n70A
+230,1326192553746690049,"Souvenirs d'enfance des dessins réguliers des vignes. Vineyards grid.
+Un jour, une carte. Day 10 : Grid.
+J'en profite pour vous conseiller ce domaine viticole : Domaine Jean-Pierre Rivière. 😉
+#30DayMapChallenge #handmademap #vineyardsgrid #beaujolais https://t.co/J7j9YenBrT",fr,2020-11-10 15:58:38,1,3,"[{'text': '30DayMapChallenge', 'indices': [192, 210]}, {'text': 'handmademap', 'indices': [211, 223]}, {'text': 'vineyardsgrid', 'indices': [224, 238]}, {'text': 'beaujolais', 'indices': [239, 250]}]",442982795,odile,odile_p,France,115,183,http://pbs.twimg.com/media/EmeVBa2W8AAKGSl.jpg,https://t.co/J7j9YenBrT
+231,1326192092700422145,"Mi bonito Yucatán y sus cenotes 
+5/30
+#30DayMapChallenge #Blue #Yucatán https://t.co/uxEJ5WXIkK",es,2020-11-10 15:56:49,1,5,"[{'text': '30DayMapChallenge', 'indices': [38, 56]}, {'text': 'Blue', 'indices': [57, 62]}, {'text': 'Yucatán', 'indices': [63, 71]}]",3180922855,Cris,crisalpuche,,45,78,http://pbs.twimg.com/media/EmeUqfOXYAAGw_Q.jpg,https://t.co/uxEJ5WXIkK
+232,1326192002757767169,"#30DayMapChallenge Day 9 - Monochrome
+
+Distribution of asturian population by altitude (Data: 
+@IGNSpain and @es_INE) https://t.co/AoSA32N3N2",en,2020-11-10 15:56:27,1,7,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",62926974,Tomasral,tomasral,Asturies,80,427,http://pbs.twimg.com/media/EmeUl32XIAcmC5q.jpg,https://t.co/AoSA32N3N2
+233,1326191888156688385,"I can't believe it's already Day 10 of the #30DayMapChallenge (grid). I went back to the wireless antenna dataset from day 1 and binned the points into 100 km wide bins for just towers. It was made in https://t.co/FBU9tjUJrc, my favorite for fast map making! https://t.co/AHxr7Qgux8",en,2020-11-10 15:56:00,1,10,"[{'text': '30DayMapChallenge', 'indices': [43, 61]}]",2719547953,Jesse Pisel,geologyjesse,,598,472,http://pbs.twimg.com/media/EmaZE2nXMAA-hV8.jpg,"https://t.co/FBU9tjUJrc,"
+234,1326190898179354624,"Nunca había hecho un así. Me gustaron muchos los hexágonos como unidad de análisis. 😍
+4/30
+#30DayMapChallenge #Hexagons #Yucatán https://t.co/FTmuDl9tgg",es,2020-11-10 15:52:04,1,6,"[{'text': '30DayMapChallenge', 'indices': [91, 109]}, {'text': 'Hexagons', 'indices': [110, 119]}, {'text': 'Yucatán', 'indices': [120, 128]}]",3180922855,Cris,crisalpuche,,45,78,http://pbs.twimg.com/media/EmeTlEcW4AIIyh2.jpg,https://t.co/FTmuDl9tgg
+235,1326190536949174273,"Muy útil para la temporada electoral
+3/30
+#30DayMapChallenge #Polygons https://t.co/FaxNKXn1zq",es,2020-11-10 15:50:38,2,2,"[{'text': '30DayMapChallenge', 'indices': [42, 60]}, {'text': 'Polygons', 'indices': [61, 70]}]",3180922855,Cris,crisalpuche,,45,78,http://pbs.twimg.com/media/EmeTCyLXMAAmt5M.jpg,https://t.co/FaxNKXn1zq
+236,1326190166944395264,#30DayMapChallenge (Theme: Grid) Snow pulses across #Asia from January to December. I used #NASA Earth Observations to stack monthly 2019 #MODIS snow cover rasters. https://t.co/nyKEygjhD8,en,2020-11-10 15:49:09,1,28,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'Asia', 'indices': [52, 57]}, {'text': 'NASA', 'indices': [91, 96]}, {'text': 'MODIS', 'indices': [138, 144]}]",822048926081712128,Carl Churchill,Cchurchili,CO / Tabeguache Ute Land,1494,709,http://pbs.twimg.com/tweet_video_thumb/EmeSVNGWMAABnXP.jpg,https://t.co/nyKEygjhD8
+238,1326188148397838337,"No podía dejar la grilla fuera 
+2/30
+#30DayMapChallenge #Lines #TrenMaya https://t.co/ZgwF4QAL0n",es,2020-11-10 15:41:08,1,1,"[{'text': '30DayMapChallenge', 'indices': [37, 55]}, {'text': 'Lines', 'indices': [56, 62]}, {'text': 'TrenMaya', 'indices': [63, 72]}]",3180922855,Cris,crisalpuche,,45,78,http://pbs.twimg.com/media/EmeQqVmXEAEc7ho.jpg,https://t.co/ZgwF4QAL0n
+239,1326187557198196736,"#30DayMapChallenge #day10 #grid #qgis 
+
+A rainfall map for 1976 (a dry summer as I recall) from the Environmental Information Data Centre (https://t.co/KCnEjPMRTp) https://t.co/kxgfoYdtmF",en,2020-11-10 15:38:47,1,8,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'day10', 'indices': [19, 25]}, {'text': 'grid', 'indices': [26, 31]}, {'text': 'qgis', 'indices': [32, 37]}]",77265423,Ian Turton,ijturton,"Worthing, UK",1073,892,http://pbs.twimg.com/media/EmeQfZ_XMAM53V1.jpg,https://t.co/KCnEjPMRTp)
+240,1326187528626597890,"Tarde, pero sin sueño
+El primero es para mi mamá 
+1/30
+#30DayMapChallenge #Points https://t.co/EyaJAUhKBV",es,2020-11-10 15:38:40,1,2,"[{'text': '30DayMapChallenge', 'indices': [55, 73]}, {'text': 'Points', 'indices': [74, 81]}]",3180922855,Cris,crisalpuche,,45,78,http://pbs.twimg.com/media/EmeP0jjXYAIDWLO.jpg,https://t.co/EyaJAUhKBV
+241,1326182803051057155,"#30daymapchallenge - Day 10 (Grids). A ""variable resolution grid"" of Russia. We use these in my day-job to model natural disasters. Small grids are where the pop. is most dense &amp; therefore where we need our models to be the highest resolution. #gis #spatial #postgres #qgis https://t.co/6jqe6WXfSn",en,2020-11-10 15:19:54,2,13,"[{'text': '30daymapchallenge', 'indices': [0, 18]}, {'text': 'gis', 'indices': [248, 252]}, {'text': 'spatial', 'indices': [253, 261]}, {'text': 'postgres', 'indices': [262, 271]}, {'text': 'qgis', 'indices': [272, 277]}]",21287004,𝗝ames D Smith,TheRealJimShady,"London, England",578,1068,http://pbs.twimg.com/media/EmeKZPYWEAMT1p1.jpg,https://t.co/6jqe6WXfSn
+242,1326180563661836288,Day 10 of the #30DayMapChallenge is all about Grids. Check out this gridded #livestock data showing sheep density in #NewZealand! https://t.co/hoiuy074Kp https://t.co/scZ8mWxAUX,en,2020-11-10 15:11:00,1,6,"[{'text': '30DayMapChallenge', 'indices': [14, 32]}, {'text': 'livestock', 'indices': [76, 86]}, {'text': 'NewZealand', 'indices': [117, 128]}]",4017972017,Resource Watch,resource_watch,,2537,1645,http://pbs.twimg.com/media/EmFe9RDXUAIYlEC.jpg,https://t.co/hoiuy074Kp
+243,1326179990501781504,"day 10. grid
+
+graticule
+
+#30DayMapChallenge https://t.co/AjRmO32zMD",en,2020-11-10 15:08:43,1,7,"[{'text': '30DayMapChallenge', 'indices': [25, 43]}]",48334577,santihpuig,santihpuig,"Valencia, España",612,1074,http://pbs.twimg.com/media/EmeJRXAWMAIdP4M.jpg,https://t.co/AjRmO32zMD
+244,1326178271713763329,"This is the cutest map we have ever created! Some maps should just be fun, so meet our absolute favourite dog, the adorable Bertie😍 Use the layer feature and find out what other maps we created: https://t.co/MWlTM3a3aP
+
+#30DayMapChallenge #grid #cutestdogintheworld https://t.co/23JYGSrrfE",en,2020-11-10 15:01:53,4,9,"[{'text': '30DayMapChallenge', 'indices': [220, 238]}, {'text': 'grid', 'indices': [239, 244]}, {'text': 'cutestdogintheworld', 'indices': [245, 265]}]",2756004123,Emu Analytics,emu_info,"London, England",1414,2057,http://pbs.twimg.com/media/EmeERLEXEAICoBb.jpg,https://t.co/MWlTM3a3aP
+245,1326177662461677568,"Day 9 of #30DayMapChallenge - Monochrome. Pinamar, Buenos Aires, Argentina. Data from OpenStreetMap #maps #qgis #OSM @muni_pinamar @martinyeza https://t.co/9g4LO9rg6R",en,2020-11-10 14:59:28,3,17,"[{'text': '30DayMapChallenge', 'indices': [9, 27]}, {'text': 'maps', 'indices': [100, 105]}, {'text': 'qgis', 'indices': [106, 111]}, {'text': 'OSM', 'indices': [112, 116]}]",5762562,Andrés Chillida,achillida,"Barcelona, Spain",367,478,http://pbs.twimg.com/media/EmeGyCOXMAIRi6I.jpg,https://t.co/9g4LO9rg6R
+246,1326177628227850240,"#30DayMapChallenge _day10grid_ road safety in uk binned into H3 hexagons using Zissou palette from {wesanderson}. Title: A bird hunting hexagons. Code: https://t.co/FJs05thkpb
+#rspatial #rstats #mapboxgl4r #dataviz https://t.co/6NtzcTIjUu",en,2020-11-10 14:59:20,3,6,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'rspatial', 'indices': [176, 185]}, {'text': 'rstats', 'indices': [186, 193]}, {'text': 'mapboxgl4r', 'indices': [194, 205]}, {'text': 'dataviz', 'indices': [206, 214]}]",1321515174214410240,_sk,_skuethe,,3,1,http://pbs.twimg.com/media/EmeGKVdW8AAqR3O.jpg,https://t.co/FJs05thkpb
+248,1326176285299650561,"Today's #30DayMapChallenge theme is ""grid"", so I had my AxiDraw plot the most impressive (oppressive?) grid I've ever been in: Manhattan, NYC. Even the water is a grid :) 
+
+#plottertwitter https://t.co/w6lxOdZWuv",en,2020-11-10 14:54:00,4,21,"[{'text': '30DayMapChallenge', 'indices': [8, 26]}, {'text': 'plottertwitter', 'indices': [173, 188]}]",942194832491122688,Mike Mahoney,MikeMahoney218,"Syracuse, NY",430,303,http://pbs.twimg.com/media/EktzKfeXEAAcXO7.jpg,https://t.co/w6lxOdZWuv
+249,1326176009486471170,Days 5-6-7-8 of #30DayMapChallenge - Blue - Red - Green - Yellow. Metro de BCN #maps #qgis #OpenDataBCN #OSM #epseb https://t.co/VlN6hZCoeo,en,2020-11-10 14:52:54,2,6,"[{'text': '30DayMapChallenge', 'indices': [16, 34]}, {'text': 'maps', 'indices': [79, 84]}, {'text': 'qgis', 'indices': [85, 90]}, {'text': 'OpenDataBCN', 'indices': [91, 103]}, {'text': 'OSM', 'indices': [104, 108]}, {'text': 'epseb', 'indices': [109, 115]}]",5762562,Andrés Chillida,achillida,"Barcelona, Spain",367,478,http://pbs.twimg.com/media/EmeFaTlXIAU5JT7.jpg,https://t.co/VlN6hZCoeo
+250,1326175275248480258,"#30DayMapChallenge
+
+Day 10: Grid
+
+A vectorised elevation model of Dublin City formulated in 250m grid pixels. Great visualisation of the Liffey &amp; Tolka river basins leaving the city along with the flatland of the Dublin coast. https://t.co/bhjfwcPS7M",en,2020-11-10 14:49:59,1,7,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",191950318,Conor Gleeson,ConorGleeson12,Meath,262,107,http://pbs.twimg.com/media/EmeFXxVXcAAtP7E.jpg,https://t.co/bhjfwcPS7M
+251,1326174260184879104,"I don't have much for #30DayMapChallenge Day 10: Grid, except this @openstreetmap capture of Climax, MN...the ""gridded"" streets of the Midwest have really helped this non-native find his way around. (Didn't have that growing up.) https://t.co/9AErL48UIg",en,2020-11-10 14:45:57,1,6,"[{'text': '30DayMapChallenge', 'indices': [22, 40]}]",222228205,Mike Dolbow,mmdolbow,"St. Paul, MN",1281,100,http://pbs.twimg.com/media/EmeEbW2XIAExhH3.png,https://t.co/9AErL48UIg
+252,1326173761402384384,"#30DayMapChallenge Day 10: GRID
+
+#gis #geography #geographyteacher #cartography #maps #map #mapping #archaeology #Bible #Biblicalarchaeology #Israel #Egypt #Landsat #USGS #QGIS #ArcGIS #BiblicalCartography #ArchaeologicalCartography #Egyptology #Science #RemoteSensing https://t.co/BGRGh3SXzD",en,2020-11-10 14:43:58,0,1,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'gis', 'indices': [33, 37]}, {'text': 'geography', 'indices': [38, 48]}, {'text': 'geographyteacher', 'indices': [49, 66]}, {'text': 'cartography', 'indices': [67, 79]}, {'text': 'maps', 'indices': [80, 85]}, {'text': 'map', 'indices': [86, 90]}, {'text': 'mapping', 'indices': [91, 99]}, {'text': 'archaeology', 'indices': [100, 112]}, {'text': 'Bible', 'indices': [113, 119]}, {'text': 'Biblicalarchaeology', 'indices': [120, 140]}, {'text': 'Israel', 'indices': [141, 148]}, {'text': 'Egypt', 'indices': [149, 155]}, {'text': 'Landsat', 'indices': [156, 164]}, {'text': 'USGS', 'indices': [165, 170]}, {'text': 'QGIS', 'indices': [171, 176]}, {'text': 'ArcGIS', 'indices': [177, 184]}, {'text': 'BiblicalCartography', 'indices': [185, 205]}, {'text': 'ArchaeologicalCartography', 'indices': [206, 232]}, {'text': 'Egyptology', 'indices': [233, 244]}, {'text': 'Science', 'indices': [245, 253]}, {'text': 'RemoteSensing', 'indices': [254, 268]}]",1137139989744144390,MyPhysicalWorld,my_physical,,42,63,http://pbs.twimg.com/media/EmeDzWgVkAEnEhH.jpg,https://t.co/BGRGh3SXzD
+253,1326172126412410880,"Day 10 of #30DayMapChallenge: Grid. As a scuba diver, I have a love-hate relationship with zebra mussels: they filter water so I can better see things underwater...but they also COMPLETELY cover the things I want to see (e.g. shipwrecks)!
+
+Learn more: https://t.co/bhkCPF5piz https://t.co/ayrK0FYA9c",en,2020-11-10 14:37:28,2,34,"[{'text': '30DayMapChallenge', 'indices': [10, 28]}]",741653561314922496,ᵐᵃᵖᵗᵃˢᵗⁱᶜ🗺ₖₐₜₑ,pokateo_,"Ann Arbor, Michigan",2141,2368,http://pbs.twimg.com/media/EmeBuFOXEAAOzfV.jpg,https://t.co/bhkCPF5piz
+254,1326170932889595906,Not exactly a #30daymapchallenge but once upon a time in grad school I made this map for someone. Entirely out of spite. The ugliest map I could design. https://t.co/lxc79VO1qZ,en,2020-11-10 14:32:44,1,3,"[{'text': '30daymapchallenge', 'indices': [14, 32]}]",327755131,Joe Andre,urblg,"Cleveland, OH",101,520,http://pbs.twimg.com/media/EmeBbgMXUAEjARe.jpg,https://t.co/lxc79VO1qZ
+257,1326169610689814528,"You haven't even see my bad side Yet!
+Photo courtesy #4sStudios_Tirunelveli 
+#AbCricketBuzzega #IPLfinal #ALERT #30DayMapChallenge #Aari #TamilCinema #villian @seenuramasamy @samyst31 https://t.co/751JZqxE6e",en,2020-11-10 14:27:28,0,5,"[{'text': '4sStudios_Tirunelveli', 'indices': [53, 75]}, {'text': 'AbCricketBuzzega', 'indices': [77, 94]}, {'text': 'IPLfinal', 'indices': [95, 104]}, {'text': 'ALERT', 'indices': [105, 111]}, {'text': '30DayMapChallenge', 'indices': [112, 130]}, {'text': 'Aari', 'indices': [131, 136]}, {'text': 'TamilCinema', 'indices': [137, 149]}, {'text': 'villian', 'indices': [150, 158]}]",2673267823,Jackson Raj,Jacksonraj24,cre8ive academy of dance,641,340,http://pbs.twimg.com/media/EmeAN4cVkAAi2s6.jpg,https://t.co/751JZqxE6e
+258,1326169454389161987,"#day10 of #30DayMapChallenge #Grid. 
+This is Pen-Y-Fan in #Powys #Wales drawn with @OrdnanceSurvey #2mDTM and OS25k backdrop. This spot was very popular over the summer...we need #safe and #sustainable #accesstogreenspace because #MentalHealthMatters. #penyfan #breconbeacons https://t.co/rypBYa846Q",en,2020-11-10 14:26:51,0,2,"[{'text': 'day10', 'indices': [0, 6]}, {'text': '30DayMapChallenge', 'indices': [10, 28]}, {'text': 'Grid', 'indices': [29, 34]}, {'text': 'Powys', 'indices': [58, 64]}, {'text': 'Wales', 'indices': [65, 71]}, {'text': '2mDTM', 'indices': [99, 105]}, {'text': 'safe', 'indices': [179, 184]}, {'text': 'sustainable', 'indices': [189, 201]}, {'text': 'accesstogreenspace', 'indices': [202, 221]}, {'text': 'MentalHealthMatters', 'indices': [230, 250]}, {'text': 'penyfan', 'indices': [252, 260]}, {'text': 'breconbeacons', 'indices': [261, 275]}]",1322438051533066240,Emma Hall,elmalovestrees,Germany,27,110,http://pbs.twimg.com/media/Emd-o7dXUAcjtXH.jpg,https://t.co/rypBYa846Q
+259,1326168130893340672,"#30DayMapChallenge Day 10: #Grid
+The #BodelNijenhuis Collection @ubleiden has some fortification plans with pencil grids, which served for copying purposes in engineering training or to bring over a manuscript design on a copperplate.
+#manuscriptmaps #fortificationplans #Zwolle https://t.co/SKuyOduI2F",en,2020-11-10 14:21:36,3,10,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'Grid', 'indices': [27, 32]}, {'text': 'BodelNijenhuis', 'indices': [37, 52]}, {'text': 'manuscriptmaps', 'indices': [235, 250]}, {'text': 'fortificationplans', 'indices': [251, 270]}, {'text': 'Zwolle', 'indices': [271, 278]}]",889150492751925250,Martijn Storms,MapStorms,,860,374,http://pbs.twimg.com/media/Emd-4r4WMAIHtRg.jpg,https://t.co/SKuyOduI2F
+260,1326167717532078091,"Jour 10 du #30DayMapChallenge - Grid 2/2
+
+Carte(s) représentant la puissance des incendies à différentes échelles dans le monde. 
+
+Données : NASA https://t.co/CIXRxcMax1",fr,2020-11-10 14:19:57,2,4,"[{'text': '30DayMapChallenge', 'indices': [11, 29]}]",3195365733,Justine Vignat,Junevgt,Paris ,752,252,http://pbs.twimg.com/media/Emd-f0AXcAA08Gi.jpg,https://t.co/CIXRxcMax1
+261,1326167177708396546,"Jour 10 du #30DayMapChallenge - Grid
+
+Carte(s) représentant la puissance des incendies à différentes échelles dans le monde. 
+
+Données : NASA https://t.co/697jLEFmE3",fr,2020-11-10 14:17:48,1,7,"[{'text': '30DayMapChallenge', 'indices': [11, 29]}]",3195365733,Justine Vignat,Junevgt,Paris ,752,252,http://pbs.twimg.com/media/Emd95OaXcAASH5X.jpg,https://t.co/697jLEFmE3
+262,1326167109328637952,"Day 10 of the #30daymapchallenge - GRID 
+
+Map below of Mammal sightings around Cork city and surrounding areas. Great to see so much biodiversity around a city! 🦇 
+
+ #biodiversity #urban #GIS #Cork #arcmap https://t.co/z04pgKQYvd",en,2020-11-10 14:17:32,1,1,"[{'text': '30daymapchallenge', 'indices': [14, 32]}, {'text': 'biodiversity', 'indices': [166, 179]}, {'text': 'urban', 'indices': [180, 186]}, {'text': 'GIS', 'indices': [187, 191]}, {'text': 'Cork', 'indices': [192, 197]}, {'text': 'arcmap', 'indices': [198, 205]}]",179094335,sarah☻,sarah_wilson7,"Dublin City, Ireland",142,325,http://pbs.twimg.com/media/Emd99RzWMAADYDw.jpg,https://t.co/z04pgKQYvd
+263,1326166660647104515,"Malla de las principales ciudades del estado de Jalisco
+#30DayMapChallenge 2020
+Día 10: Malla https://t.co/asIWIjuZjp",es,2020-11-10 14:15:45,2,4,"[{'text': '30DayMapChallenge', 'indices': [56, 74]}]",890753654822588417,Yaireth Ortiz,Yaireth_Ortiz,,9,347,http://pbs.twimg.com/media/Emd9jDaXYAELVCK.jpg,https://t.co/asIWIjuZjp
+264,1326166630062313472,"#30DayMapChallenge Day 10: Grid
+Israel/West Bank/Gaza Lego Height Map
+Data: SRTM | Legorama font | Made in #QGIS 
+
+Seems like everybody is making lego maps today, so decided to join in the fun, following this tutorial:
+https://t.co/VlzhD5DYBy https://t.co/GyM5XNlXN8",en,2020-11-10 14:15:38,1,3,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'QGIS', 'indices': [107, 112]}]",1000055398697709569,Eliav S-T,est987,Israel,311,1676,http://pbs.twimg.com/media/Emd9Ys6WMAgEVah.jpg,https://t.co/VlzhD5DYBy
+265,1326166427976536064,"#30DayMapChallenge Day 10 - Grid
+A 5km grid for Pará, my home state in Brazil! One color per city, 144 cities, 57k+ squares :O
+Uma grade de quadrados de 5km, diferenciados por cada município. 144 municípios, mais de 57 mil quadradinhos :O https://t.co/jTVHCLFywJ",pt,2020-11-10 14:14:50,1,2,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",180939408,torts,tgsousa_,,889,1013,http://pbs.twimg.com/media/Emd88VfWMAACeUl.jpg,https://t.co/jTVHCLFywJ
+266,1326165927885336577,"#30DayMapChallenge 
+Map 10: Grid
+
+#Viz shows locations where cyclones, depressions start! Colour denotes the number of the systems that started in the respective grid cell (Size: 0.25 deg). Based on IMD data https://t.co/hWt9kEyaNs",en,2020-11-10 14:12:50,9,82,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'Viz', 'indices': [34, 38]}]",272936200,Raj Bhagat P #Mapper4Life,rajbhagatt,"Nagercoil, Tamil Nadu",17212,1700,http://pbs.twimg.com/media/Emd8rTHVgAEr5Iq.jpg,https://t.co/hWt9kEyaNs
+267,1326165295048880128,"Day 10 of the #30DayMapChallenge (Grid). The #Padres had the highest Outs Above Average of any team at +16. Here's a grid breakdown of their OAA 
+
+https://t.co/6ku5R2cIY5 https://t.co/wL7PBXX6vI",en,2020-11-10 14:10:19,4,18,"[{'text': '30DayMapChallenge', 'indices': [14, 32]}, {'text': 'Padres', 'indices': [45, 52]}]",14344140,Daren Willman,darenw,"Houston, TX",80270,760,http://pbs.twimg.com/media/Emd7r4TXEAM69S-.jpg,https://t.co/6ku5R2cIY5
+268,1326163618489044993,"#30DayMapChallenge
+#Day10 #Grid
+#Aerialod
+
+Maltese population density extruded with a squared grid
+
+Data : @WorldPopProject https://t.co/4PFbcMXwQd",en,2020-11-10 14:03:40,4,23,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'Day10', 'indices': [19, 25]}, {'text': 'Grid', 'indices': [26, 31]}, {'text': 'Aerialod', 'indices': [32, 41]}]",938055192221765634,Aurelien Chaumet,AurelienChaumet,Ile d'Oléron,478,1180,http://pbs.twimg.com/media/Emd6xrEXUAA5kiq.jpg,https://t.co/4PFbcMXwQd
+269,1326162157050933248,#30DayMapChallenge | Day 10 | Grid - A quick experiment: #Romania 's settlement density from 1904. There were quite a lot of villages in the Subcarpathian regions. https://t.co/8pje8J1X6o,en,2020-11-10 13:57:51,4,15,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'Romania', 'indices': [57, 65]}]",1004679065163444224,Cezar Buterez,cbuterez,"Bucureşti, România",65,91,http://pbs.twimg.com/media/Emd48qBWMAAp6y6.jpg,https://t.co/8pje8J1X6o
+270,1326160494160347137,"The grid of Jayanagar's streets is the focus of my map for Day 10 of the #30DayMapChallenge. 
+#Bangalore #Bengaluru #bloremapped #maps #rspatial https://t.co/vBVIPCygs3",en,2020-11-10 13:51:15,3,7,"[{'text': '30DayMapChallenge', 'indices': [73, 91]}, {'text': 'Bangalore', 'indices': [94, 104]}, {'text': 'Bengaluru', 'indices': [105, 115]}, {'text': 'bloremapped', 'indices': [116, 128]}, {'text': 'maps', 'indices': [129, 134]}, {'text': 'rspatial', 'indices': [135, 144]}]",1222519447165886465,Anirudh,_anirudhgovind,India,132,1549,http://pbs.twimg.com/media/Emd32FvU4AA7nYu.png,https://t.co/vBVIPCygs3
+271,1326159675876802563,"@pinakographos @ftdata Day 10: grid
+
+Classic example here of going WAY overboard on preprocessing - Grid creation, building density functions, dynamic feature scaling - for what could have been accomplished with a graduated symbol in @qgis. Oh well.
+
+https://t.co/Qb5oTLDP29
+
+#30DayMapChallenge https://t.co/jsbpal8Amq",en,2020-11-10 13:48:00,1,10,"[{'text': '30DayMapChallenge', 'indices': [276, 294]}]",278873782,Map/,vtcraghead,"Burlington, VT",3642,860,http://pbs.twimg.com/media/EmbMbUbXUAEQcEK.jpg,https://t.co/Qb5oTLDP29
+272,1326158802778017796,"Yo: voy a cocinar algo senzillo 
+Also yo:
+#AcusacionConstitucional #117Newells #3Nov #ACTUALIZACION #AdoptaNoCompres #8NTodosAlaCalle #4T #Acapulco #ActualidadMV #30DayMapChallenge #9denoviembre #8NBasta https://t.co/gAUDkxTbnm",es,2020-11-10 13:44:32,1,2,"[{'text': 'AcusacionConstitucional', 'indices': [42, 66]}, {'text': '117Newells', 'indices': [67, 78]}, {'text': '3Nov', 'indices': [79, 84]}, {'text': 'ACTUALIZACION', 'indices': [85, 99]}, {'text': 'AdoptaNoCompres', 'indices': [100, 116]}, {'text': '8NTodosAlaCalle', 'indices': [117, 133]}, {'text': '4T', 'indices': [134, 137]}, {'text': 'Acapulco', 'indices': [138, 147]}, {'text': 'ActualidadMV', 'indices': [148, 161]}, {'text': '30DayMapChallenge', 'indices': [162, 180]}, {'text': '9denoviembre', 'indices': [181, 194]}, {'text': '8NBasta', 'indices': [195, 203]}]",1235705861307330561,Oriol,ByMarinus,,6,43,http://pbs.twimg.com/media/Emd2ZVDXYAQRUvT.jpg,https://t.co/gAUDkxTbnm
+273,1326158792350789642,"Day10: Grid
+SDG Goal 11 Sustainable cities and communities
+#30DayMapChallenge
+#SDGs
+Due to the high concentration of people, infrastructures, housing, and economic activities, cities are vulnerable to climate change and natural disasters impacts.
+https://t.co/JlJDctcyHG https://t.co/JbldnTM4uQ",en,2020-11-10 13:44:29,2,1,"[{'text': '30DayMapChallenge', 'indices': [59, 77]}, {'text': 'SDGs', 'indices': [78, 83]}]",187171010,I.K.D,IKEDA_02,"Brisbane, Queensland 🇦🇺🇯🇵",103,477,http://pbs.twimg.com/media/Emd2W8RU4AEa3gM.jpg,https://t.co/JlJDctcyHG
+274,1326157535552811008,"As a processing step, I needed to come up with a map showing areas of habitat modification. It turned out to be very pretty and insightful (+not too far off #30DayMapChallenge for red). Areas in red are &gt;97.5% modified habitat (per km2). Brighter is the distance from non-modified https://t.co/lfZmnx6hHP",en,2020-11-10 13:39:29,2,17,"[{'text': '30DayMapChallenge', 'indices': [157, 175]}]",375742729,Nathan Ruser,Nrg8000,Canberra,36375,3218,http://pbs.twimg.com/media/Emd0pG_U8AUAav2.jpg,https://t.co/lfZmnx6hHP
+275,1326157018902769666,"Today's #30DayMapChallenge is on the theme 'grid'. So drawing on my earlier fisheries and Brexit research, here's the location of UK's 2019 fishing catch by @ICES_ASC rectangles / grids (data from @The_MMO) . https://t.co/OVFmdBovBp",en,2020-11-10 13:37:26,2,2,"[{'text': '30DayMapChallenge', 'indices': [8, 26]}]",348670296,Christopher Huggins,chris_huggins,,1699,1629,http://pbs.twimg.com/media/Emd0dc9XMAEi75D.jpg,https://t.co/OVFmdBovBp
+277,1326155459133382656,"#30DayMapChallenge
+Day10: Grid
+
+Title: Average Internet Download Speed in Kuwait
+2020/Q1
+
+The data used are from @Speedtest
+
+I used @qgis, @Illustrator, and #Aerialod 
+
+Thanks to @tjukanov for sharing the source for the internet speed data
+ 
+#cartography #geography #gis #kuwait https://t.co/qpcO1pQbQj",en,2020-11-10 13:31:14,5,28,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'Aerialod', 'indices': [157, 166]}, {'text': 'cartography', 'indices': [242, 254]}, {'text': 'geography', 'indices': [255, 265]}, {'text': 'gis', 'indices': [266, 270]}, {'text': 'kuwait', 'indices': [271, 278]}]",908818700660236288,عبداللطيف الياقوت,geo_alyaqout,Kuwait (Ex Texan),200,184,http://pbs.twimg.com/media/EmdyUVWXEAA5e--.jpg,https://t.co/qpcO1pQbQj
+278,1326155370633506816,#30DayMapChallenge day 10 #grid is right up our alley 😉 @MITCities #CityScope @LEGO_Group https://t.co/885WDLbwrO,en,2020-11-10 13:30:53,2,5,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'grid', 'indices': [26, 31]}, {'text': 'CityScope', 'indices': [67, 77]}]",2718780569,Ariel Noyman,relnox,MIT Media Lab,229,88,http://pbs.twimg.com/media/EmdzRIGXUAI8rKw.jpg,https://t.co/885WDLbwrO
+279,1326153651556143104,"#30DayMapChallenge Day 10 - #grid  
+Distribution of contracted power to FEDA (kW) - Distribució de les potències contractades a Forces elèctriques d'Andorra FEDA (kW)
+https://t.co/pZppDdVSlZ
+#IDEAndorra #Andorra https://t.co/gJo3oMSoaD",ca,2020-11-10 13:24:03,2,3,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'grid', 'indices': [28, 33]}, {'text': 'IDEAndorra', 'indices': [191, 202]}, {'text': 'Andorra', 'indices': [203, 211]}]",2342154006,Àrea de cartografia,areacartografia,Govern d'Andorra,311,698,http://pbs.twimg.com/media/EmdxJAWXEAE3HT8.jpg,https://t.co/pZppDdVSlZ
+281,1326150689207283712,"jour 10. Grid
+Migrations résidentielles en ex-Tchécoslovaquie (1992) 
+Attractivité des districts
+#30DayMapChallenge 
+(F. Bahoken, 2010) https://t.co/z13JTEKCY7",fr,2020-11-10 13:12:17,1,3,"[{'text': '30DayMapChallenge', 'indices': [97, 115]}]",1270971523466223618,Cartographie(s) & Migration(s),geomigr,,288,22,http://pbs.twimg.com/media/EmduxHAW8AI61dh.png,https://t.co/z13JTEKCY7
+282,1326149860177928198,"DAY10 #30DayMapChallenge 🙌 For today's theme 'Grids' PhD Student Nikos Patias (@pat_nikos) has visualised trajectories of #neighbourhood #change in Britain (1971-2011), explore the full map: https://t.co/liseCnolIW and full paper w/ @Fcorowe: https://t.co/gvUSxK0y9j  🔥 https://t.co/qVfzCInQuQ",en,2020-11-10 13:08:59,8,30,"[{'text': '30DayMapChallenge', 'indices': [6, 24]}, {'text': 'neighbourhood', 'indices': [122, 136]}, {'text': 'change', 'indices': [137, 144]}]",2280343142,GeoDataScience,geodatascience,Liverpool,3594,1710,http://pbs.twimg.com/media/EmduKJVXUAMqI66.jpg,https://t.co/liseCnolIW
+283,1326148809420845057,"#30DayMapChallenge 
+Day 10: #Grid
+
+#manhattan the most famous city grid layout in the world.
+
+Sorry for the repost. Accidentally deleted the original! 
+
+#NYC #newyork #gis #map https://t.co/8B6htjFHuC",en,2020-11-10 13:04:49,3,15,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'Grid', 'indices': [28, 33]}, {'text': 'manhattan', 'indices': [35, 45]}, {'text': 'NYC', 'indices': [153, 157]}, {'text': 'newyork', 'indices': [158, 166]}, {'text': 'gis', 'indices': [167, 171]}, {'text': 'map', 'indices': [172, 176]}]",426008860,James Goodyear,jgoodyear9,Newcastle ,42,172,http://pbs.twimg.com/media/EmdtUEdXIAMblZB.jpg,https://t.co/8B6htjFHuC
+284,1326148147249213440,"#day10 of #30DayMapChallenge : ""Grid"".  
+Planned cities come into mind, when you imagine grids. 
+Map Designed by: Google Mapstyle API.
+#gandhinagar https://t.co/CNLACS9PWY",en,2020-11-10 13:02:11,1,2,"[{'text': 'day10', 'indices': [0, 6]}, {'text': '30DayMapChallenge', 'indices': [10, 28]}, {'text': 'gandhinagar', 'indices': [135, 147]}]",1002555038500208646,Aakash 1701,1701Aakash,"Bengaluru, India",36,835,http://pbs.twimg.com/media/EmdrzeaUcAU6qFm.jpg,https://t.co/CNLACS9PWY
+285,1326145110921375745,"Day 10 of #30DayMapChallenge : Grid 
+
+World of F1™ circuits in Eisenlohr projection
+
+Made with D3js and #F1CircuitsData https://t.co/ZSm3nWd5NM",en,2020-11-10 12:50:07,1,6,"[{'text': '30DayMapChallenge', 'indices': [10, 28]}, {'text': 'F1CircuitsData', 'indices': [104, 119]}]",191797663,Tomo 🐽,tomodraco,"0,13",524,213,http://pbs.twimg.com/media/Emdp6V2XEAAuhUk.jpg,https://t.co/ZSm3nWd5NM
+286,1326144167165259777,"GRID = Global Resource Information Database @UNEP network of environmental information centres.
+(NB affiliation updates welcome)
+#GeographyTeacher @GRIDgva @GRIDArendal 
+Day 10 GRID #30DayMapChallenge 
+@tjukanov @GIS4Schools @geogologue https://t.co/lfY7hc6JZj https://t.co/bvCWG5yDZK",en,2020-11-10 12:46:22,3,3,"[{'text': 'GeographyTeacher', 'indices': [129, 146]}, {'text': '30DayMapChallenge', 'indices': [182, 200]}]",2787878432,BC,mildthing99,"England, United Kingdom",2174,2005,http://pbs.twimg.com/media/Emdo0_0W8AA3yhW.jpg,https://t.co/lfY7hc6JZj
+287,1326140706071715840,"#30DayMapChallenge Day 10: My first #QGIS made map for this challenge ☺️. Standardized Precipitation Index as at May, 2020, sourced from #esri_livefeeds2 in #ArcGISOnline. https://t.co/9QF8sGgZRQ",en,2020-11-10 12:32:37,1,6,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'QGIS', 'indices': [36, 41]}, {'text': 'esri_livefeeds2', 'indices': [137, 153]}, {'text': 'ArcGISOnline', 'indices': [157, 170]}]",374459093,Jannah_AM,zinnie__A,"Kaduna, Nigeria.",197,224,http://pbs.twimg.com/media/EmdlyCkXYAAUEgv.jpg,https://t.co/9QF8sGgZRQ
+288,1326139583977959425,"@GeoNode #Summit 2020 will be held online from 7th of Dec 2020 to 9th of Dec. There will be #workshops, #presentations and #codesprint.
+
+Info and registrations --&gt; https://t.co/1d6L2d5gEN
+
+#geoserver #mapstore #geonode  #foss4g #osgeo #gischat #30DayMapChallenge https://t.co/zEKCCDv5UE",en,2020-11-10 12:28:09,12,14,"[{'text': 'Summit', 'indices': [9, 16]}, {'text': 'workshops', 'indices': [92, 102]}, {'text': 'presentations', 'indices': [104, 118]}, {'text': 'codesprint', 'indices': [123, 134]}, {'text': 'geoserver', 'indices': [192, 202]}, {'text': 'mapstore', 'indices': [203, 212]}, {'text': 'geonode', 'indices': [213, 221]}, {'text': 'foss4g', 'indices': [223, 230]}, {'text': 'osgeo', 'indices': [231, 237]}, {'text': 'gischat', 'indices': [238, 246]}, {'text': '30DayMapChallenge', 'indices': [247, 265]}]",200880433,GeoSolutions 🇮🇹 🇺🇸 🇪🇺 🔝,geosolutions_it,Italy & USA,3173,202,http://pbs.twimg.com/tweet_video_thumb/Emdj6sSXMAEKN-v.jpg,https://t.co/1d6L2d5gEN
+290,1326138680466092032,"Since #30DayMapChallenge started, I've been struggling with @Blender 2.9 and its #BlenderGIS extension to get nice results but it's really not easy, to say the least. Like right now: how come a simple import of a GeoTIFF WGS84 coastal DEM just doesn't work? This is all I get: https://t.co/L4Un5033s9",en,2020-11-10 12:24:34,0,1,"[{'text': '30DayMapChallenge', 'indices': [6, 24]}, {'text': 'BlenderGIS', 'indices': [81, 92]}]",108928400,Jérémy Garniaux,mapperfr,"Marseille, France",824,2168,http://pbs.twimg.com/media/Emdj9gDWMAEcZhe.jpg,https://t.co/L4Un5033s9
+291,1326133258074148865,Our mapping team are getting involved in this year's #30daymapchallenge and we're loving seeing what they're coming up with - check these out! https://t.co/m5ouEGsBRQ,en,2020-11-10 12:03:01,1,7,"[{'text': '30daymapchallenge', 'indices': [53, 71]}]",793464945971257350,Design for Movement,Steer_DfM,"Europe, N.America, LATAM, Asia",199,102,http://pbs.twimg.com/media/Emdeob6XMAEMGK9.jpg,https://t.co/m5ouEGsBRQ
+293,1326127740131500032,"#30DayMapChallenge 
+Day 8 - Yellow
+
+Displaying the distribution of dense vegetation in Chennai. Data is taken from Landsat 8 imagery.
+
+#qgis
+
+Data source: https://t.co/I9nTpKUY2X https://t.co/fE2YEcet7I",en,2020-11-10 11:41:06,1,1,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'qgis', 'indices': [135, 140]}]",1324651465428803584,Arun Vishwanath,ArunVishwanat10,Chennai,7,50,http://pbs.twimg.com/media/EmdaH10VkAA2p9H.jpg,https://t.co/I9nTpKUY2X
+294,1326127067453337606,"#30DayMapChallenge Day 10 Grids
+1m. DTM from @DefraGovUK details highways, levees etc. 30m. DEM intersected with varying sea level rise elevations derived from @OrdnanceSurvey OpenData. Fortuitous break in DTM helps align some current and past infrastructure from DEFRA MAGIC https://t.co/bJX3NOTbeD",en,2020-11-10 11:38:25,2,1,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",25663399,Andrew Zolnai,azolnai,"Cambridge, UK",698,975,http://pbs.twimg.com/media/EmdY35AWEAA0Jnh.jpg,https://t.co/bJX3NOTbeD
+295,1326124957735268353,"Milton Keynes. A lesser spotted planned 'new town' in the UK, like New York but with roundabouts #30DayMapChallenge 10 - Grid https://t.co/u3FWNHqfSP",en,2020-11-10 11:30:02,4,30,"[{'text': '30DayMapChallenge', 'indices': [97, 115]}]",2809999793,Owen Powell,owenjpowell,Leamington Spa,1770,283,http://pbs.twimg.com/media/EmdXdUaWEAIbsxY.jpg,https://t.co/u3FWNHqfSP
+296,1326124794681712641,"Day 10: Grids
+Late to the #30DayMapChallenge party, but here is today's map! From my research ""Gridded birth and pregnancy datasets for Africa, Latin America and the Caribbean"" with @WorldPopProject a few years back https://t.co/vuY9mYnuKG https://t.co/q62SpRIg56",en,2020-11-10 11:29:23,5,13,"[{'text': '30DayMapChallenge', 'indices': [26, 44]}]",1242400749864304640,William James,GeogWillJ,,42,133,http://pbs.twimg.com/media/EmdVgNWXIAE1OLZ.png,https://t.co/vuY9mYnuKG
+297,1326124273270845441,"#30DayMapChallenge 
+Day 9 - Monochrome maps
+
+Maps depicting the elevation, aspect and hillshade of TamilNadu. Analysis done using QGIS. Elevation data collected from Global Multi-resolution Terrain Elevation Data 2010 (GMTED2010)
+
+#qgis
+
+Data Source: https://t.co/SDdN2nqBx6 https://t.co/cvxtZlm2o1",en,2020-11-10 11:27:19,1,1,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'qgis', 'indices': [231, 236]}]",1324651465428803584,Arun Vishwanath,ArunVishwanat10,Chennai,7,50,http://pbs.twimg.com/media/EmdW_FVVkAE8967.jpg,https://t.co/SDdN2nqBx6
+298,1326122853822042112,"Last #30DayMapChallenge post for the day on the blue theme. A map I did a few years ago for a report on Older people's housing, care and support needs in Greater
+Cambridge, created using #ArcGIS. 
+
+The full report is available here:
+https://t.co/rhTyOGvKdO https://t.co/Ftk06V2SDU",en,2020-11-10 11:21:41,1,0,"[{'text': '30DayMapChallenge', 'indices': [5, 23]}, {'text': 'ArcGIS', 'indices': [187, 194]}]",202227790,David Leather,david_leather,Sheffield,166,292,http://pbs.twimg.com/media/EmdVEODXcAAif6x.jpg,https://t.co/rhTyOGvKdO
+299,1326121643966664705,"#30DayMapChallenge 2020: #rspatial edition 
+
+Day 9 (Monochrome) gives us a lot of great minimalistic maps. 
+
+You can find them at https://t.co/DG40SjOpTO.
+
+#rstats #cartography https://t.co/57wcfFcGpi",en,2020-11-10 11:16:52,4,33,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'rspatial', 'indices': [25, 34]}, {'text': 'rstats', 'indices': [156, 163]}, {'text': 'cartography', 'indices': [164, 176]}]",2810559039,Jakub Nowosad,jakub_nowosad,,3867,217,http://pbs.twimg.com/media/EmdUB30XUAEEgxJ.jpg,https://t.co/DG40SjOpTO.
+300,1326121444946956290,"Another #30DayMapChallenge effort for Hexagons. Its my first ever attempt at a hex map, created using #Tableau again just showing Wards in Sheffield. I may join a dataset to it at some point
+
+https://t.co/SZo3VB5pBJ https://t.co/j1DfFlsHdl",en,2020-11-10 11:16:05,1,2,"[{'text': '30DayMapChallenge', 'indices': [8, 26]}, {'text': 'Tableau', 'indices': [102, 110]}]",202227790,David Leather,david_leather,Sheffield,166,292,http://pbs.twimg.com/media/EmdUEJ6XcAAGtRl.jpg,https://t.co/SZo3VB5pBJ
+301,1326121228587978754,"For today's #30DayMapChallenge grid theme, this shows the number of addresses on the High Street classified as either retail, residential or offices👇
+https://t.co/VAFvmrKMCf
+
+More info on equal area cartograms: https://t.co/YfxRzINgjE https://t.co/uI74jGEKc8",en,2020-11-10 11:15:13,2,15,"[{'text': '30DayMapChallenge', 'indices': [12, 30]}]",22614266,Ordnance Survey,OrdnanceSurvey,"Southampton, UK",60490,3732,http://pbs.twimg.com/media/EmdUNnqWMAUmM5Q.png,https://t.co/VAFvmrKMCf
+303,1326120034612162561,"Second effort for the #30DayMapChallenge on the theme of Polygons. A bivariate map showing the relationship between income and house prices for MOSAs in England &amp; Wales. It is a work in progress, created using #Tableau. The latest version can be seen here
+
+https://t.co/ooJ58yUbtc https://t.co/jACGXZIVkQ",en,2020-11-10 11:10:29,2,4,"[{'text': '30DayMapChallenge', 'indices': [22, 40]}, {'text': 'Tableau', 'indices': [214, 222]}]",202227790,David Leather,david_leather,Sheffield,166,292,http://pbs.twimg.com/media/EmdRvAFXEAAI7tS.png,https://t.co/ooJ58yUbtc
+304,1326120001145892864,"#30DayMapChallenge 
+
+10 - Malla. Densidad de edificación en Ibiza y Formentera. Porcentaje construido por kilómetro cuadrado.
+
+10 - Grid. Building density in Ibiza and Formentera. Percentage of built-up area per square kilometer. https://t.co/o9HS7SVT7X",es,2020-11-10 11:10:21,3,8,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",769592708,Valentín Sastre,valen_ibiza,IBIZA / Barcelona,322,868,http://pbs.twimg.com/media/EmdS_xSXMAU5R66.jpg,https://t.co/o9HS7SVT7X
+305,1326119404216623104,"What day is it?! :)
+Day 6 Red #30DayMapChallenge Momijigari, or maple (Autumn) leaf viewing, popular in Japan hunting for the beautiful areas. Maple data by me. Thought I would do a quick catch up map but then it took hours to place labels in qgis because map layout is strange. https://t.co/5D7F0c8gpo",en,2020-11-10 11:07:58,1,9,"[{'text': '30DayMapChallenge', 'indices': [30, 48]}]",14851579,Kylie Wilson,_kyliejane,Sydney or Tokyo,507,160,http://pbs.twimg.com/media/EmdSj8eU4AA57Wr.jpg,https://t.co/5D7F0c8gpo
+306,1326118271893057537,"Rather late getting going on this but here is my first attempt for the #30DayMapChallenge for points. It shows power plants across the world, by primary fuel type. Here is a link to the full project which was created using #Tableau 
+
+https://t.co/YGQ09MHKhG https://t.co/vzMquLC7Db",en,2020-11-10 11:03:28,2,7,"[{'text': '30DayMapChallenge', 'indices': [71, 89]}, {'text': 'Tableau', 'indices': [223, 231]}]",202227790,David Leather,david_leather,Sheffield,166,292,http://pbs.twimg.com/media/EmdQL12XcAINGu1.png,https://t.co/YGQ09MHKhG
+307,1326114332560797696,"#30DayMapChallenge 
+
+Day 10 - Grid
+
+It's playtime!
+
+Data - Natural Earth
+ 
+Tools - @Avenza MaPublisher @Illustrator
+
+@bcsweb https://t.co/9ah83jSjMZ",en,2020-11-10 10:47:49,1,3,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",238730325,David McCutcheon,DVDMaps,"Shrewsbury, England",192,198,http://pbs.twimg.com/media/EmdN4KfWMAEM7l0.jpg,https://t.co/9ah83jSjMZ
+308,1326113894935523330,"Day 10 - Grid of #30DayMapChallenge 
+High and medium voltage grid networks in Africa 
+#rstats #rspatial https://t.co/JBhjgOZadL",en,2020-11-10 10:46:05,11,76,"[{'text': '30DayMapChallenge', 'indices': [17, 35]}, {'text': 'rstats', 'indices': [86, 93]}, {'text': 'rspatial', 'indices': [94, 103]}]",633596180,Ahmadou Dicko,dickoah,Senegal,1575,1357,http://pbs.twimg.com/media/EmdNfbuW4AAX_eK.jpg,https://t.co/JBhjgOZadL
+309,1326112386000932864,"Day 10 of #30DayMapChallenge - Grid
+
+Sunshine Hours around the World☀️🌇
+
+Link:  https://t.co/Iy9P9Hqb0k
+
+Dataset from #MakeoverMonday 2019 Wk44 https://t.co/Nkg1ZRuCRr",en,2020-11-10 10:40:05,6,10,"[{'text': '30DayMapChallenge', 'indices': [10, 28]}, {'text': 'MakeoverMonday', 'indices': [118, 133]}]",230677112,diana,notforcasual,Singapore,60,226,http://pbs.twimg.com/media/EmdLZQlUYAEjCxR.jpg,https://t.co/Iy9P9Hqb0k
+310,1326111367984779264,"#30DayMapChallenge
+
+Day 10 : Grid
+
+Animated 3D heatmap of the Belgian ""friteries"" density using OSM data and Blender.  🍟🇧🇪🇧🇪 https://t.co/QYuTNP8qiv",en,2020-11-10 10:36:02,6,33,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",842038050431610882,David De Ridder,daderidd,"Geneva, Switzerland",81,308,http://pbs.twimg.com/tweet_video_thumb/EmdKkbGXEAA_s_X.jpg,https://t.co/QYuTNP8qiv
+311,1326110293311819778,"#30DayMapChallenge
+Day 10: #Grid
+
+#manhattan the most famous city grid layout in the world.
+
+#NYC #newyork #gis #map https://t.co/QggBnRFTgK",en,2020-11-10 10:31:46,0,9,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'Grid', 'indices': [27, 32]}, {'text': 'manhattan', 'indices': [34, 44]}, {'text': 'NYC', 'indices': [93, 97]}, {'text': 'newyork', 'indices': [98, 106]}, {'text': 'gis', 'indices': [107, 111]}, {'text': 'map', 'indices': [112, 116]}]",426008860,James Goodyear,jgoodyear9,Newcastle ,42,172,http://pbs.twimg.com/media/EmdKSH1W8AIjfM-.jpg,https://t.co/QggBnRFTgK
+312,1326110238198669312,"#30DayMapChallenge
+
+Day 10: Grid
+
+A 3D rendering of the 1:25,000 map of the area around Howden and Upper Derwent Reservoirs in the Peak District
+
+Data from @OrdnanceSurvey 
+
+Created with #Aerialod https://t.co/Pmn3UzSQuQ",en,2020-11-10 10:31:33,5,23,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'Aerialod', 'indices': [187, 196]}]",2213909976,Colin Angus,VictimOfMaths,,4870,597,http://pbs.twimg.com/media/EmdKBHuXUAAdjz0.jpg,https://t.co/Pmn3UzSQuQ
+313,1326110109865566209,Day 10 already! Today’s #30DayMapChallenge theme is grid - so I went with creating some blueprints of #Ireland! https://t.co/WCpfgZTwYp,en,2020-11-10 10:31:02,2,13,"[{'text': '30DayMapChallenge', 'indices': [24, 42]}, {'text': 'Ireland', 'indices': [102, 110]}]",437801734,Antonia Blankenberg,MapsByAntonia,"Dublin City, Ireland",212,456,http://pbs.twimg.com/media/EmdKHHEWMAAavdz.jpg,https://t.co/WCpfgZTwYp
+314,1326108519624552448,"#30DayMapChallenge - Day 10 - Grid
+
+Showing today's 7 day incidence values for COVID cases in Germany.
+
+Created with R. https://t.co/3cg15IKeRb",en,2020-11-10 10:24:43,1,5,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",733390000809730049,Richard Vogg,richard_vogg,Deutschland,73,152,http://pbs.twimg.com/media/EmdImdZXIAAi5-L.png,https://t.co/3cg15IKeRb
+315,1326108359381151744,My contribution to #30daymapchallenge. A grid map for xxx. Guess what it is ;-) I made this map again with the #rstats package osmplotr and ggplot2. https://t.co/UWh8iMZinI,en,2020-11-10 10:24:05,4,9,"[{'text': '30daymapchallenge', 'indices': [19, 37]}, {'text': 'rstats', 'indices': [111, 118]}]",3331095159,Jan-Philipp Kolb,JanPhilippKolb,,99,315,http://pbs.twimg.com/media/EmdIEx1XEAA0bbx.png,https://t.co/UWh8iMZinI
+317,1326103857097793538,"Had this done for a dearest person in #Lego, but works well for today's #30daymapchallenge, I guess.
+
+Here is beautiful #madeira from #sentinel2. https://t.co/WG99RirqW1",en,2020-11-10 10:06:12,1,10,"[{'text': 'Lego', 'indices': [38, 43]}, {'text': '30daymapchallenge', 'indices': [72, 90]}, {'text': 'madeira', 'indices': [120, 128]}, {'text': 'sentinel2', 'indices': [134, 144]}]",42232421,ᴄʀɪꜱᴛɪɴᴀ ᴠʀɪɴᴄᴇᴀɴᴜ 🌍🛰️ 🇪🇺,cavrinceanu,"Nottingham, England",1455,3915,http://pbs.twimg.com/media/EmdEYZvWEAAmx7S.jpg,https://t.co/WG99RirqW1
+318,1326103266506182656,"Day 10 #30DayMapChallenge -Grid
+
+Berlin restaurants:
+German in Mitte, Turkish in Kreuzkölln,Vietnamese in Fhain,..
+
+Data by osmdata #rstats package @bikesRdata 
+Auto scaling grids with #mapdeck
+#shiny
+Map: https://t.co/PRxbvWIWW3 (mobile not working)
+Code: https://t.co/LI78G8IL7u https://t.co/idaVcTwJ0D",en,2020-11-10 10:03:51,3,25,"[{'text': '30DayMapChallenge', 'indices': [7, 25]}, {'text': 'rstats', 'indices': [132, 139]}, {'text': 'mapdeck', 'indices': [185, 193]}, {'text': 'shiny', 'indices': [194, 200]}]",3011804639,Alexandra Kapp,lxndrkp,"Berlin, Deutschland",614,480,http://pbs.twimg.com/media/EmdBIe1XMAAux-d.jpg,https://t.co/PRxbvWIWW3
+319,1326102304441954304,"Day 10- #30DayMapChallenge 
+Theme: Grid, visualised using ArcPro. Played around with an equal-area hexagon grid that ensured all local authority data could be seen, regardless of its size! https://t.co/V0PZbvTo4R",en,2020-11-10 10:00:01,1,5,"[{'text': '30DayMapChallenge', 'indices': [8, 26]}]",636238090,Simon Leech,simonmleech,,32,111,http://pbs.twimg.com/media/Elleq8gX0AAtXdb.jpg,https://t.co/V0PZbvTo4R
+320,1326101662088486918,"Day 10 #30DayMapChallenge Grid
+
+#SanFrancisco  - gridded cities are common in the US, less so in the UK, we tend to go for a more abstract approach
+
+#OpenStreetMap #QGIS https://t.co/YShugLV1AN",en,2020-11-10 09:57:28,1,14,"[{'text': '30DayMapChallenge', 'indices': [7, 25]}, {'text': 'SanFrancisco', 'indices': [32, 45]}, {'text': 'OpenStreetMap', 'indices': [149, 163]}, {'text': 'QGIS', 'indices': [164, 169]}]",223959960,Kirsten Reilly,_penguin_runner,"Stirling, Scotland",358,1209,http://pbs.twimg.com/media/Emc_ulGW4AAZifC.jpg,https://t.co/YShugLV1AN
+321,1326100953033019394,"#30DayMapChallenge - Day 10 : Grid
+
+Analyse par maille de la localisation des toilettes publiques à Paris 🚾 https://t.co/RDx9KSyHle",fr,2020-11-10 09:54:39,3,24,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",577363985,Arthur Beaubois-Jude,Tabularthur,,288,222,http://pbs.twimg.com/media/EmdBl9wXIAE7rgg.jpg,https://t.co/RDx9KSyHle
+322,1326100621863292928,"#30DayMapChallenge  - 10th grid
+
+and ... the regions of Italy become a grid
+
+made with d3.geo2rec by @seb_meier 
+data: administrative units of Italy by @istat_it https://t.co/bXOhaq0Z0h",en,2020-11-10 09:53:20,1,9,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",5159271,Maurizio Napolitano,napo,"Trento, Italy, Europe",5050,1797,http://pbs.twimg.com/tweet_video_thumb/EmdA-TrWMAEl81I.jpg,https://t.co/bXOhaq0Z0h
+323,1326100295831711749,"#30DayMapChallenge - Day 10 // Jour 10 - Grid // Grille
+
+Today, a brand new map projection ! // Aujourd'hui, une nouvelle projection cartographique ! 
+
+#projection #map #fishnet https://t.co/KNn9WB6u9j",fr,2020-11-10 09:52:02,2,17,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'projection', 'indices': [152, 163]}, {'text': 'map', 'indices': [164, 168]}, {'text': 'fishnet', 'indices': [169, 177]}]",1201838008359620609,Les Savoirs Ambulants,SavoirsEnBulles,Rennes,250,90,http://pbs.twimg.com/media/EmdAuLAXcAApHpc.jpg,https://t.co/KNn9WB6u9j
+324,1326098668303347713,"#30DayMapChallenge Day 10 | Grid
+Optimized hotspot analysis for Dutch monuments. #Amsterdam and #DenHaag (#thehague) are the hotspots with 99% confidence level. 
+Data from https://t.co/f0g3kThSSb #arcmap #heritage #hotspot https://t.co/41WZGJ6ygH",en,2020-11-10 09:45:34,0,4,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'Amsterdam', 'indices': [81, 91]}, {'text': 'DenHaag', 'indices': [96, 104]}, {'text': 'thehague', 'indices': [106, 115]}, {'text': 'arcmap', 'indices': [196, 203]}, {'text': 'heritage', 'indices': [204, 213]}, {'text': 'hotspot', 'indices': [214, 222]}]",65161973,Sezi Karayazi,sezia,"Eindhoven, Nederland",140,468,http://pbs.twimg.com/media/Emc8K4WWEAASeUV.jpg,https://t.co/f0g3kThSSb
+325,1326097943032631296,"#30DayMapChallenge day 10  grid (parallèles)
+Monitoring instantané de l'épidémie de coronavirus  (désignation d'époque), au 29 mars 2020. Quelques chiffres de la mortalité totale et autres éléments de langage. Les parallèles représentent les Etats
+#cartographieimaginaire https://t.co/fiEsBhMPIp",fr,2020-11-10 09:42:41,1,1,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'cartographieimaginaire', 'indices': [248, 271]}]",1189967197730430977,Julien Dupont Kobri,Kartokobri,,226,126,http://pbs.twimg.com/media/Emc_AljXMAEwKuJ.jpg,https://t.co/fiEsBhMPIp
+326,1326097859486347265,"Day 10 - Grid #30DayMapChallenge 
+
+Have always wanted to make a lego map 😂 https://t.co/nPkBKEvumS",en,2020-11-10 09:42:22,5,29,"[{'text': '30DayMapChallenge', 'indices': [14, 32]}]",996835888813494272,Catherine Schroder,cj_maps,"Scotland, United Kingdom",32,31,http://pbs.twimg.com/media/Emc-7QJWMAA9wdi.jpg,https://t.co/nPkBKEvumS
+328,1326094768951205890,Day 10 of the #30DayMapChallenge: Grid. How many Km's of road are in each square of the British National Grid? Grid squares with no roads omitted. Made with OS Open Roads data. https://t.co/SoSpgHJjOQ,en,2020-11-10 09:30:05,3,21,"[{'text': '30DayMapChallenge', 'indices': [14, 32]}]",1033774266880282624,Strath Slater,StrathSlater,"Edinburgh, Scotland",68,101,http://pbs.twimg.com/tweet_video_thumb/Emc7ue6XMAAWgaV.jpg,https://t.co/SoSpgHJjOQ
+329,1326093738930745345,"Day 10 - #Grid
+#30DayMapChallenge #GeoMedia #Hexagon https://t.co/NJEhnRJF6h",und,2020-11-10 09:25:59,1,0,"[{'text': 'Grid', 'indices': [9, 14]}, {'text': '30DayMapChallenge', 'indices': [15, 33]}, {'text': 'GeoMedia', 'indices': [34, 43]}, {'text': 'Hexagon', 'indices': [44, 52]}]",424357259,Richard Goodman,dbgoody,Inside too much,256,1269,http://pbs.twimg.com/media/Emc7DUNXIAAmYZy.png,https://t.co/NJEhnRJF6h
+330,1326092859565596672,Day 10: Grid #30DayMapChallenge #Glasgow City's grid system with some squiggly road data #QGIS https://t.co/lZPAQZTQWs,en,2020-11-10 09:22:29,2,10,"[{'text': '30DayMapChallenge', 'indices': [13, 31]}, {'text': 'Glasgow', 'indices': [32, 40]}, {'text': 'QGIS', 'indices': [89, 94]}]",54696312,Heather Malloch,Hevski17,Scotland ,198,469,http://pbs.twimg.com/media/Emc5x0OXcAAxIiQ.jpg,https://t.co/lZPAQZTQWs
+331,1326092361777242113,"#30DayMapChallenge Day 10: Grid 
+
+Scarborough and part of North Yorkshire as a simple video game tile map. Made by matching a 600m grid of points to OS Zoomstack data on urban areas and woodland, with some manual tweaking for the rest. https://t.co/LstJs73ENJ",en,2020-11-10 09:20:31,9,29,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",24074837,Carl Baker,carlbaker,Croydon,2462,754,http://pbs.twimg.com/media/Emc5EByW8AE0Jp1.jpg,https://t.co/LstJs73ENJ
+332,1326092231590125568,"🌍🌳🗼 Jour 10 du #30DayMapChallenge : une grille.
+
+Cartographie du nombre d'arbres à Paris selon une grille régulière où 1 carreau = 1 hectare https://t.co/XQ9wgm7bxS",fr,2020-11-10 09:20:00,14,95,"[{'text': '30DayMapChallenge', 'indices': [15, 33]}]",138790830,Jules Grandin,JulesGrandin,Paris,22038,1006,http://pbs.twimg.com/media/ElvpDAzXgAAGud2.jpg,https://t.co/XQ9wgm7bxS
+333,1326091384001015809,"Day 10 - Grid
+#30DayMapChallenge 
+Location - British Isles
+Data - @nationalgriduk 
+Tools - @qgis 
+Description - National Grid's UK Network
+#GIS #gischat #QGIS https://t.co/ZJFJRpICXn",en,2020-11-10 09:16:38,8,41,"[{'text': '30DayMapChallenge', 'indices': [14, 32]}, {'text': 'GIS', 'indices': [139, 143]}, {'text': 'gischat', 'indices': [144, 152]}, {'text': 'QGIS', 'indices': [153, 158]}]",52190652,Oliver Burdekin,burdGIS,"Wakefield, England",1366,2920,http://pbs.twimg.com/media/Emc5DZXXYAY1qk2.jpg,https://t.co/ZJFJRpICXn
+334,1326090548017569798,#30DayMapChallenge (Monochrome) The number grows back. https://t.co/qPaklnnzCe https://t.co/DWtLzFiIuF,en,2020-11-10 09:13:18,1,0,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",528087151,Haifeng Niu,niu_haifeng,"Cambridge, England",29,400,http://pbs.twimg.com/media/Emc4LLIXYAYBV6_.png,https://t.co/qPaklnnzCe
+335,1326090493734875139,"#30DayMapChallenge - monochrome. 
+
+Can you name these cities from their road networks?
+
+https://t.co/wuQxRDQqEz https://t.co/LJgqWcy0yj",en,2020-11-10 09:13:05,2,6,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",17174685,gmapsmania,gmapsmania,,17731,15,http://pbs.twimg.com/media/Emc4O05W8AEgOVM.jpg,https://t.co/wuQxRDQqEz
+337,1326089036935684096,"#30DayMapChallenge 
+
+Day 10: Grid
+
+Hex grid on epsg4326 projection, transformed to epsg32624
+
+Proud of this one 💪
+
+Land data from Natural Earth (via https://t.co/ad3v0rMFWd)
+
+#rstats #rspatial
+
+Thread! 🧵👇/5 https://t.co/0SfKTlMvSJ",en,2020-11-10 09:07:18,6,19,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'rstats', 'indices': [175, 182]}, {'text': 'rspatial', 'indices': [183, 192]}]",45565875,Emil Malta ❄️,emilmalta,Nuuk,185,942,http://pbs.twimg.com/media/Emc1QllXUAIMDL_.jpg,https://t.co/ad3v0rMFWd)
+338,1326088504586203137,Géomorphologie au Spitsberg (presqu'île de Brögger). L'évolution des glaciers apparait déjà sur cette carte de 1966 (F. Joly) #30DayMapChallenge (1) https://t.co/1ZddQdizFr,fr,2020-11-10 09:05:11,1,1,"[{'text': '30DayMapChallenge', 'indices': [126, 144]}]",1325086092417175552,Nicolas Bollot,BollotN,,3,23,http://pbs.twimg.com/media/Emc2A3EW4AASm5i.jpg,https://t.co/1ZddQdizFr
+339,1326088076502949888,"The iconic Manhattan, NY Grid Iron Streets. #30DayMapChallenge Day 10 - Grid. Made using QGIS3, and NYC Planning PLUTO and MapPLUTO data. https://t.co/rnJPPubc34",en,2020-11-10 09:03:29,1,2,"[{'text': '30DayMapChallenge', 'indices': [44, 62]}]",1318518242080661504,Christoph Er,dataisawesomeo,,6,95,http://pbs.twimg.com/media/Emc1ofXXYAAYVXd.jpg,https://t.co/rnJPPubc34
+340,1326086928366759937,"#30DayMapChallenge - Day 10 - Grid
+
+If Earth was a LEGO plate https://t.co/puTenDUfwK",en,2020-11-10 08:58:55,1,15,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",1171647271928307712,Erwan Rivault,ErwanRivault,,414,792,http://pbs.twimg.com/media/Emc0a6SXEAITIxI.jpg,https://t.co/puTenDUfwK
+341,1326085345327390721,"#30DayMapChallenge Day 10: Grid
+England/Wales gridded population https://t.co/1WlsxHeypv",en,2020-11-10 08:52:38,1,5,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",759988092,Matthew Law,Iawmatthew,,20,47,http://pbs.twimg.com/media/Ema0lFMW4AAJDPV.jpg,https://t.co/1WlsxHeypv
+342,1326084344818102274,"#30DayMapChallenge – Day 10: Grid
+
+The #Mercator projection gets a lot of flack, but it can be quite photogenic.
+
+Quick entry for today, made with https://t.co/jTDxPHNBPO https://t.co/TO1nM6d1Py",en,2020-11-10 08:48:39,1,6,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'Mercator', 'indices': [39, 48]}]",152331899,Manuel Abebe,manuelabebe,,6,157,http://pbs.twimg.com/media/Emcyo4KXMAEw_7w.png,https://t.co/jTDxPHNBPO
+345,1326082993493069825,#30DayMapChallenge 10. diena. Režģis. Vidējais lejupielādes ātrums Rīgā. https://t.co/n0RMNe9h6B,lv,2020-11-10 08:43:17,3,12,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",137107982,Zane,atdodkonfektes,,132,119,http://pbs.twimg.com/media/EmcwzJXXEAEtOPC.jpg,https://t.co/n0RMNe9h6B
+346,1326082870360698880,"Grids for Day10 of the #30DayMapChallenge. Gridded #fishing data, taken from #AIS points (day1) converted to vessel tracks (day2) and then gridded, showing fishing vessel density. #NAFCResearch #ThinkUHI #GIS #fisheries https://t.co/AzY9TgmLC0",en,2020-11-10 08:42:48,2,2,"[{'text': '30DayMapChallenge', 'indices': [23, 41]}, {'text': 'fishing', 'indices': [51, 59]}, {'text': 'AIS', 'indices': [77, 81]}, {'text': 'NAFCResearch', 'indices': [180, 193]}, {'text': 'ThinkUHI', 'indices': [194, 203]}, {'text': 'GIS', 'indices': [204, 208]}, {'text': 'fisheries', 'indices': [209, 219]}]",1106525318553182209,Richard Shelmerdine,RLShelmerdine,"Scotland, United Kingdom",75,118,http://pbs.twimg.com/media/Emcw_eRW8AAisII.png,https://t.co/AzY9TgmLC0
+347,1326082861070479363,#30DayMapChallenge Day 10. Grid. Tourist map (which I didn't make) of a famously gridded city shot through a resin-cast grid filter (which I *did* make!). For 5 points: name that city! https://t.co/L78G7SA64g,en,2020-11-10 08:42:46,1,0,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",88731801,Barry Rowlingson🐺,geospacedman,"Lancaster, UK",1652,475,http://pbs.twimg.com/media/Emcw91gXcAMjFWE.png,https://t.co/L78G7SA64g
+348,1326082529829515264,"Day 10 of #30DayMapChallenge. Grid.  The national grid - or, more specifically, the overhead transmission lines of the @OrdnanceSurvey OpenMap Local data. https://t.co/W9M8CcXKug",en,2020-11-10 08:41:27,1,6,"[{'text': '30DayMapChallenge', 'indices': [10, 28]}]",230856587,Ivo Wengraf,iwengraf,"Higham, Kent",364,924,http://pbs.twimg.com/media/EmcwsIUW4AAPLP5.jpg,https://t.co/W9M8CcXKug
+349,1326081752662745088,#30DayMapChallenge Day 10 : Grid https://t.co/hBhbNYy1MY,en,2020-11-10 08:38:21,1,2,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",233525664,Julien,JulienQuotidien,Le Havre,465,185,http://pbs.twimg.com/media/EmcwT-GXcAA7_G0.jpg,https://t.co/hBhbNYy1MY
+350,1326081649642151936,"#30DayMapChallenge Day 10: Grid
+A lego map. Thanks for the awesome Lego Map style by @John_M_Nelson @WarrenDz https://t.co/mWI5k6vgri",en,2020-11-10 08:37:57,2,15,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",815911984788951040,Jingrong Zhang,Jingrong_Zhang,China,6,25,http://pbs.twimg.com/media/EmcwNzlUYAAiBLK.jpg,https://t.co/mWI5k6vgri
+352,1326079255382548480,"day 10 &lt; A ""grid"" puzzle for #30DaymapChallenge &gt;
+You can choose between
+* a #QGIS  logo - to thank all qgis inspirers,
+* a @tjukanov world -to thank the challenger,
+* a picture of @stadtongeren  - to thank the city I work for.
+https://t.co/FfjLWePgmT https://t.co/pYrT41ltAU",en,2020-11-10 08:28:26,1,7,"[{'text': '30DaymapChallenge', 'indices': [32, 50]}, {'text': 'QGIS', 'indices': [83, 88]}]",919806358328958976,Vicky Verscheijden,gis3700,"Tongeren, België",79,132,http://pbs.twimg.com/media/EmctWUfXEAc149Z.png,https://t.co/FfjLWePgmT
+354,1326077255471206404,"Day 10: Grids
+Taking data for cycling from the @Strava heat maps (San Francisco, Berlin, London and Perth) two different types of street network are evident: grid and more discontinuous networks -influencing connectivity and cycling route choice. 
+#30DayMapChallenge 1/2 https://t.co/jyD51cJCx5",en,2020-11-10 08:20:29,3,14,"[{'text': '30DayMapChallenge', 'indices': [248, 266]}]",925667303777325056,Francesca Pontin,FrancescaPontin,"Leeds, England",218,338,http://pbs.twimg.com/media/EmcsN0oXMAAf9-K.jpg,https://t.co/jyD51cJCx5
+355,1326077124554465281,"A very simple design today for #30DayMapChallenge day 10: Grid
+
+#dataviz @barcelona_cat @VisitBCN_EN https://t.co/ecZKek5aTm",en,2020-11-10 08:19:58,1,16,"[{'text': '30DayMapChallenge', 'indices': [31, 49]}, {'text': 'dataviz', 'indices': [64, 72]}]",1413024271,Koen Van den Eeckhout,Koen_VdE,"Gent, België",1813,1459,http://pbs.twimg.com/media/EmcrjSsXcAAkIsa.jpg,https://t.co/ecZKek5aTm
+356,1326076038900801536,"Day 6 - Red - Percentage of people living in terraced housing (by LAD)
+Day 7 - Green - Bus access to National Parks
+Day 8 - Yellow - Bus access to beaches
+Day 9 - Monochrome - Safety on the North's Major Road Network (EuroRAP rating)
+
+#30DayMapChallenge https://t.co/nK35I7V2aN",en,2020-11-10 08:15:39,1,4,"[{'text': '30DayMapChallenge', 'indices': [235, 253]}]",1403217300,Jack Snape,jackasnape,,282,312,http://pbs.twimg.com/media/EmcrFl1W8AECTXL.png,https://t.co/nK35I7V2aN
+357,1326075889919123457,"Day 4 - Hexagons - Entries and exits passengers stations by LAD
+Day 5 - Blue - UK port ship arrivals in 2019
+
+#30DayMapChallenge https://t.co/R8IUYrPTVY",en,2020-11-10 08:15:04,1,7,"[{'text': '30DayMapChallenge', 'indices': [110, 128]}]",1403217300,Jack Snape,jackasnape,,282,312,http://pbs.twimg.com/media/Emcq-_uWMAABB7f.png,https://t.co/R8IUYrPTVY
+358,1326075700315623426,"#30DayMapChallenge Day 10 | Grid
+
+Elevation in the wonderful Sicily, Italy represented in lego style. The value of each grid cell (size 10 km) is the mean elevation. Inspiration taken from @AndriyYaremenko's tutorial at https://t.co/oSqKiFU8C1
+
+DEM from SRTM, map made with #QGIS. https://t.co/3d8uVi1lrk",en,2020-11-10 08:14:18,1,28,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'QGIS', 'indices': [274, 279]}]",1669906789,Marco Minghini,MarcoMinghini,"Como, Italy",1040,661,http://pbs.twimg.com/media/EmcpiiDWMAAqT8X.jpg,https://t.co/oSqKiFU8C1
+359,1326075626802061312,"Day 3 - Polygons - Electric car registrations by LAD (2014-2018)
+
+#30DayMapChallenge https://t.co/0aWrPPSmuo",en,2020-11-10 08:14:01,1,4,"[{'text': '30DayMapChallenge', 'indices': [66, 84]}]",1403217300,Jack Snape,jackasnape,,282,312,http://pbs.twimg.com/tweet_video_thumb/EmcqvI6XMAAIkRb.jpg,https://t.co/0aWrPPSmuo
+361,1326073204281122818,"La carte du jour 10 - grid /grille - du #30DayMapChallenge est un prétexte pour vous raconter une jolie histoire cartographique.
+Petit thread rigolo à dérouler !
+⬇️⬇️⬇️ https://t.co/0Fd0kr4r6k",fr,2020-11-10 08:04:23,2,7,"[{'text': '30DayMapChallenge', 'indices': [40, 58]}]",1026155967480844291,Anne L.,AlandcoC,Versailles ,762,761,http://pbs.twimg.com/media/EmcojPUXMAAX1ke.jpg,https://t.co/0Fd0kr4r6k
+362,1326072350522028039,"#30DayMapChallenge Day 10: grid
+
+#sneakpeek of forthcoming #thematicmapping book: 101 ways to map same data except this one is updated to 2020 (as of 9th Nov) to show a waffle grid of the split between Republican &amp; Democrat votes. A lot of blue. Almost as much red.
+
+#Election2020 https://t.co/TjNKcBYvn0",en,2020-11-10 08:01:00,16,63,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'sneakpeek', 'indices': [33, 43]}, {'text': 'thematicmapping', 'indices': [59, 75]}, {'text': 'Election2020', 'indices': [271, 284]}]",20668314,Kenneth Field,kennethfield,"Redlands, CA & global",12355,103,http://pbs.twimg.com/media/EmbrQLYU8AACuXJ.jpg,https://t.co/TjNKcBYvn0
+363,1326070570727866369,"#30DayMapChallenge @tjukanov Day 10: Grid
+#COVIDー19 Total Deaths as on 10-Nov-2020 #India States and UTs - 25x25Km GRID thematic map using #FME @SafeSoftware @googleearth
+Data Source: @MoHFW_INDIA 
+Thank you @PixelSoftek https://t.co/5fwONUVdgz",en,2020-11-10 07:53:55,1,5,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'COVIDー19', 'indices': [42, 51]}, {'text': 'India', 'indices': [83, 89]}, {'text': 'FME', 'indices': [139, 143]}]",105407287,SRG,Saint_GIS,"Chennai, India",133,86,http://pbs.twimg.com/media/Emcl_vaVgAAUHFh.jpg,https://t.co/5fwONUVdgz
+364,1326070235984785408,"#day3 of the #30DayMapChallenge looking at the #polygon tool in Datacutter. Where you can draw your own map boundary and download datasets for anywhere in Great Britain
+
+#data #map #GB #manchester https://t.co/7W26UN8ZHb",en,2020-11-10 07:52:36,0,1,"[{'text': 'day3', 'indices': [0, 5]}, {'text': '30DayMapChallenge', 'indices': [13, 31]}, {'text': 'polygon', 'indices': [47, 55]}, {'text': 'data', 'indices': [170, 175]}, {'text': 'map', 'indices': [176, 180]}, {'text': 'GB', 'indices': [181, 184]}, {'text': 'manchester', 'indices': [185, 196]}]",49592380,Basemap,basemap,"Guildford, Surrey",1687,1645,http://pbs.twimg.com/media/Emck1P_W8AAnaOI.jpg,https://t.co/7W26UN8ZHb
+365,1326068774462771201,"#30DayMapChallenge  Dag 10: Grid gemaakt in #QGIS
+
+#osgeo #osgeonl #maps #mapping #gis https://t.co/o6H7ZO1QWI",nl,2020-11-10 07:46:47,0,7,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'QGIS', 'indices': [44, 49]}, {'text': 'osgeo', 'indices': [51, 57]}, {'text': 'osgeonl', 'indices': [58, 66]}, {'text': 'maps', 'indices': [67, 72]}, {'text': 'mapping', 'indices': [73, 81]}, {'text': 'gis', 'indices': [82, 86]}]",1270037817750630404,Mariëlle Geers-Plasmans,geojuffie,Steenbergen,54,58,http://pbs.twimg.com/media/EmckatFXYAA2RSa.jpg,https://t.co/o6H7ZO1QWI
+366,1326068457633435648,Day 10 (grid): Go #30DayMapChallenge https://t.co/5G3WcvRqeH,en,2020-11-10 07:45:32,10,59,"[{'text': '30DayMapChallenge', 'indices': [18, 36]}]",1035417413586694144,neocarto,neocartocnrs,Paris,1288,376,http://pbs.twimg.com/media/EmckKPJW8AI_gYz.jpg,https://t.co/5G3WcvRqeH
+367,1326068108365344768,"This is an old one, but it's on the grid theme for today's #30DayMapChallenge - I split the world into single degree cells and then did a cumulative population count by longitude in this version (it should pause with a tap on a mobile device) https://t.co/dBkzTRnKmz",en,2020-11-10 07:44:08,11,93,"[{'text': '30DayMapChallenge', 'indices': [59, 77]}]",343928585,Alasdair Rae,undertheraedar,"Sheffield, England",18633,3412,http://pbs.twimg.com/tweet_video_thumb/EmcjdCaW8AEGz2W.jpg,https://t.co/dBkzTRnKmz
+368,1326067065455747073,"#30DayMapChallenge 
+Day 10: Grid
+
+#Research grid and the danger of #avalanches in urban or industrialized areas in #Andorra https://t.co/J02LGd0B3o",en,2020-11-10 07:40:00,1,1,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'Research', 'indices': [34, 43]}, {'text': 'avalanches', 'indices': [67, 78]}, {'text': 'Andorra', 'indices': [115, 123]}]",1132056770,Riesgos Naturales & Medio Ambiente,arriskeus,International,754,1885,http://pbs.twimg.com/media/EmZYjDpXUAETNc5.jpg,https://t.co/J02LGd0B3o
+369,1326066307519942656,#30DayMapChallenge #day10 #grid This is how the #Belgium  #electricitygrid was divided some 100 years ago. https://t.co/f6HdHukLhy,en,2020-11-10 07:36:59,1,3,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'day10', 'indices': [19, 25]}, {'text': 'grid', 'indices': [26, 31]}, {'text': 'Belgium', 'indices': [48, 56]}, {'text': 'electricitygrid', 'indices': [58, 74]}]",510774054,Marcel Dekker,marcel__dekker,Meppel,80,154,http://pbs.twimg.com/media/EmchvpDXEAAvc5j.jpg,https://t.co/f6HdHukLhy
+370,1326066130822303751,#30DayMapChallenge Day 10: Grid. Number of companies in Tallinn. https://t.co/45iScLq428,en,2020-11-10 07:36:17,2,6,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",1322101266793857026,Mobility Lab of University of Tartu,UT_moblab,Tartu,66,49,http://pbs.twimg.com/media/EmciDoYXMAACNmV.png,https://t.co/45iScLq428
+371,1326065582198956032,"Day 10 of #30DayMapChallenge : Grid
+
+The #interactive #map is made with @OpenStreetMap: https://t.co/IUhwhTJnHT https://t.co/NBWLCAQMfK",en,2020-11-10 07:34:06,2,5,"[{'text': '30DayMapChallenge', 'indices': [10, 28]}, {'text': 'interactive', 'indices': [41, 53]}, {'text': 'map', 'indices': [54, 58]}]",1226081200214814721,me & maps,meandmaps,paris,200,1050,http://pbs.twimg.com/media/EmchWjuXIAAHrKD.jpg,https://t.co/IUhwhTJnHT
+372,1326065358659313664,#30DayMapChallenge #grid https://t.co/r1gkzuSk4f,und,2020-11-10 07:33:13,1,6,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'grid', 'indices': [19, 24]}]",782161298,Neil Harris 'UO web',Neil_py_harris,Newcastle-upon-Tyne,257,290,http://pbs.twimg.com/media/EmchaoDW8AE9OPb.jpg,https://t.co/r1gkzuSk4f
+373,1326064550186119168,"#30DayMapChallenge Day 10 | Grid
+
+I wanted to include a #makeovermonday viz, the original #tableau community challenge, having done every week in 2016. So from last year here's mapping squirrels in Central Park in a grid. Thanks @CharlieHTableau @acotgreave @VizWizBI @TriMyData https://t.co/bBHMhe0YhF",en,2020-11-10 07:30:00,4,22,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'makeovermonday', 'indices': [56, 71]}, {'text': 'tableau', 'indices': [90, 98]}]",2614024302,Rob Radburn,robradburn,"Leicester, UK",3181,748,http://pbs.twimg.com/media/EmZryB4XcAIHPF7.jpg,https://t.co/bBHMhe0YhF
+374,1326064337409224705,#30DayMapChallenge Day 10: Grid. Elevation map of the #Netherlands in Lego style. Data: AHN 25 m from @PDOK_online. Made with #QGIS. Lego style tutorial: https://t.co/lF5iFWa22o #QGISNL https://t.co/0VwOKnPr14,en,2020-11-10 07:29:09,5,54,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'Netherlands', 'indices': [54, 66]}, {'text': 'QGIS', 'indices': [126, 131]}, {'text': 'QGISNL', 'indices': [178, 185]}]",760094405369946112,Hans van der Kwast,hansakwast,The Netherlands,2769,1169,http://pbs.twimg.com/media/EmcgaBMW8AAJIB3.jpg,https://t.co/lF5iFWa22o
+375,1326063586729406464,"#30DayMapChallenge Day 10: Grid.
+
+How many hours of sunshine does Britain get? An oversimplified map suggesting you may be happier in South East England.
+
+Data by @metoffice available from https://t.co/6h98FX68VN https://t.co/Cdz4PZMIzR",en,2020-11-10 07:26:10,1,7,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",963423777135759360,Ilya Ilyankou,ilyankou,London,47,110,http://pbs.twimg.com/media/EmccRPAXMAExn1N.png,https://t.co/6h98FX68VN
+376,1326062724971978756,"#30DayMapChallenge day 10: grid
+16x16 meter grid with site index (productivity) of the forest, estimated by using 2 #LiDAR datasets over a 14 year period. 
+ 
+@BlomNorway @MapsNorway #timeseries #forestry #aurskoghøland #remotesensing @luchobt https://t.co/Ijn7xNz3QH",en,2020-11-10 07:22:45,2,7,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'LiDAR', 'indices': [116, 122]}, {'text': 'timeseries', 'indices': [182, 193]}, {'text': 'forestry', 'indices': [194, 203]}, {'text': 'aurskoghøland', 'indices': [204, 218]}, {'text': 'remotesensing', 'indices': [219, 233]}]",741266268,Floris Groesz,SirJanosFroglez,,18,69,http://pbs.twimg.com/media/EmcdY0EXMAUEaOf.jpg,https://t.co/Ijn7xNz3QH
+377,1326060022946799616,"#30DayMapChallenge  Day 10: Grid
+Today a simple grid for our lectures about Ground Control Points. The students make a scenario with sand or whatever. Put out GCP, measure xyz. Takes images with a smartphone. Then processing in Photogrammetry software. Alternative setup at floor. https://t.co/RSBJGKia2C",en,2020-11-10 07:12:01,1,14,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",509794262,Lene Fischer,Lene_Fischer,Nødebo,1913,227,http://pbs.twimg.com/media/EmcbPCSXMAISHDv.jpg,https://t.co/RSBJGKia2C
+378,1326058780463935488,"10. Grid: Gridded population in #Estonia. Data from Statistics Estonia, visualized with #QGIS and #Aerialod
+#30DayMapChallenge https://t.co/wxZPQP57AR",en,2020-11-10 07:07:04,3,31,"[{'text': 'Estonia', 'indices': [32, 40]}, {'text': 'QGIS', 'indices': [88, 93]}, {'text': 'Aerialod', 'indices': [98, 107]}, {'text': '30DayMapChallenge', 'indices': [108, 126]}]",47698876,Evelyn,evelynuuemaa,Estonia,418,281,http://pbs.twimg.com/media/EmcbKRsWMAEwZDW.jpg,https://t.co/wxZPQP57AR
+379,1326058734460735489,"Day 10 of #30DayMapChallenge : Grid.
+""This @EU_Eurostat publication explains the EU legislation for the 2021 #census round, with a focus on the new grid data."" https://t.co/WyFJ9UsukF
+total population; sex; age; employed persons; place of birth; usual residence 12 months before https://t.co/cex0YbaF3g",en,2020-11-10 07:06:53,3,5,"[{'text': '30DayMapChallenge', 'indices': [10, 28]}, {'text': 'census', 'indices': [109, 116]}]",36749252,wahlatlas.net,wahlatlas,DE,1318,162,http://pbs.twimg.com/media/EmcbX-AWMAAEr5C.png,https://t.co/WyFJ9UsukF
+380,1326055217314590720,"#30DayMapChallenge  10. Grid
+
+Soil pH and main vineyards
+
+Made with #QGIS
+#wine #vin https://t.co/jNTRK0BT3i",en,2020-11-10 06:52:55,6,43,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'QGIS', 'indices': [68, 73]}, {'text': 'wine', 'indices': [74, 79]}, {'text': 'vin', 'indices': [80, 84]}]",892006500,Romain Lx,lacxrx,Vaucluse,558,248,http://pbs.twimg.com/media/EmcXmQFWMAEXSZF.jpg,https://t.co/jNTRK0BT3i
+381,1326054725586968580,"#30DayMapChallenge Day 10: Grid
+Thought I'd plot some data which appears to be on some form of grid. This, from site testing for geothermal power in Cornwall.
+Data from @BritGeoSurvey #QGIS #gis https://t.co/hfG5yHH8Sw",en,2020-11-10 06:50:58,1,4,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'QGIS', 'indices': [184, 189]}, {'text': 'gis', 'indices': [190, 194]}]",1074378707438055426,Blandford Bread,BlandfordBread,"South West, England",447,796,http://pbs.twimg.com/media/EmcXNWbXMAAoERU.jpg,https://t.co/hfG5yHH8Sw
+382,1326053494814609414,#30DayMapChallenge #Day10: Grid. Elevation of #Slovakia in #lego style. Map designed in #QGIS. Highly inspired by @hansakwast https://t.co/RLxByJKzmQ https://t.co/KOVqSafXx7,en,2020-11-10 06:46:04,1,25,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'Day10', 'indices': [19, 25]}, {'text': 'Slovakia', 'indices': [46, 55]}, {'text': 'lego', 'indices': [59, 64]}, {'text': 'QGIS', 'indices': [88, 93]}]",855041081880313856,Jana Michalkova,j_michalkova,"Prešov, Slovak Republic",116,297,http://pbs.twimg.com/media/EmcWn83W4AYDUhe.jpg,https://t.co/RLxByJKzmQ
+383,1326052172660940802,Day 10 of #30DayMapChallenge : Grid. Precipitation data from German Weather Service (DWD). The RADOLAN product provides modelled 🌧️ from radar observations. This is hourly data for November 2nd 1:50AM. DWD has tons of open data https://t.co/I5lr4mRG1b Code https://t.co/KXl0n3lp6P https://t.co/TTBmNOV0rE,en,2020-11-10 06:40:49,1,13,"[{'text': '30DayMapChallenge', 'indices': [10, 28]}]",7541002,Sebastian Meier,seb_meier,,1269,141,http://pbs.twimg.com/media/EmcUfqNWEAA4hYV.png,https://t.co/I5lr4mRG1b
+384,1326051508585160708,"#30DayMapChallenge day 10: grid.
+
+Population in capital cities. Darker blue indicates higher population density. Made with QGIS Atlas. 
+
+Population grid from @KonturInc: https://t.co/ZlsGkCKlHW
+Capital data from Natural Earth. https://t.co/Id0llatTL6",en,2020-11-10 06:38:11,16,96,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",2198358416,Topi Tjukanov,tjukanov,"Helsinki, Suomi",11897,2522,http://pbs.twimg.com/tweet_video_thumb/EmcULMoXEAA21Gi.jpg,https://t.co/ZlsGkCKlHW
+385,1326042246773403648,#30DayMapChallenge 2020 Día 9 Monocromático: Mapisetas de las principales ciudades de México con datos de @INEMexico @IIEGJ @tjukanov pedidos vía dm ;) https://t.co/7xN7Ui6s4e,es,2020-11-10 06:01:22,1,6,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",7630312,Yúum-K'aak-Náab,jdeltoro1973,Guadalajara México,528,1960,http://pbs.twimg.com/media/EmcMHO1WMAAPSku.jpg,https://t.co/7xN7Ui6s4e
+386,1326041903658196995,"Jour 10 du #30DayMapChallenge 
+Thème du jour : Grille
+Réutilisation d'une carte du premier confinement. Très personnelle celle-là : ""Mon prénom, des legos, une carte"" (sans doute mon épitaphe, d'ailleurs 😊) https://t.co/Uk6gTkNB0U",fr,2020-11-10 06:00:01,2,11,"[{'text': '30DayMapChallenge', 'indices': [11, 29]}]",1311399091,Lubin Picard,Lubin_Picard,,57,98,http://pbs.twimg.com/media/EmaXcnHXUAE29be.jpg,https://t.co/Uk6gTkNB0U
+387,1326041368918110209,Day 9: Monochrome. #japan #tokyo #30DayMapChallenge https://t.co/PFTaCRRtco,en,2020-11-10 05:57:53,4,14,"[{'text': 'japan', 'indices': [19, 25]}, {'text': 'tokyo', 'indices': [26, 32]}, {'text': '30DayMapChallenge', 'indices': [33, 51]}]",28102639,Phoebe L.,pheebely,"Austin, TX",231,155,http://pbs.twimg.com/media/EmcLgjdWMAEFlIe.jpg,https://t.co/PFTaCRRtco
+388,1326040106654969857,"#30DayMapChallenge: Day 10 (Grid). World tile grid map of agricultural machinery: number of tractors per km2, displayed with the same size for each country. Makes it possible to highlight the large number of tractors in Slovenia!
+Tool: #rstats / #rspatial https://t.co/WNoNHeUBsp",en,2020-11-10 05:52:52,6,12,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'rstats', 'indices': [236, 243]}, {'text': 'rspatial', 'indices': [246, 255]}]",1237617707106873344,Benjamin Nowak,BjnNowak,"Clermont-Ferrand, France",375,465,http://pbs.twimg.com/media/EmcJ1QxW8AAjNtv.png,https://t.co/WNoNHeUBsp
+389,1326039682086391814,"Lines in the sand move with the climate crisis, threatening the lives of more than 193 million people in cities.
+
+@UNCCD 
+
+#desertification #naturalclimatesolutions #sdg13
+#30DayMapChallenge https://t.co/nPk4SfSRx6",en,2020-11-10 05:51:11,1,2,"[{'text': 'desertification', 'indices': [123, 139]}, {'text': 'naturalclimatesolutions', 'indices': [140, 164]}, {'text': 'sdg13', 'indices': [165, 171]}, {'text': '30DayMapChallenge', 'indices': [172, 190]}]",96364359,Gagan Reddy,gpreddy43,,18,134,http://pbs.twimg.com/media/EmcJ5_zVMAAnhhP.jpg,https://t.co/nPk4SfSRx6
+390,1326038278794047488,"Day 10. Grid: Areas that need some work next spring. This 1*1m grid is just suitable for planning and looks like a grid paper. I'm going to use this for doodling. 1/3 already done, but things get trickier from here. Created with #QGIS #30dayMapChallenge https://t.co/O7Gd0bb5EJ",en,2020-11-10 05:45:36,1,14,"[{'text': 'QGIS', 'indices': [229, 234]}, {'text': '30dayMapChallenge', 'indices': [235, 253]}]",3552542476,Sanna Jokela,SannaJokela1,"Turku, Suomi",523,406,http://pbs.twimg.com/media/EmcIkxzXEAAnpqc.jpg,https://t.co/O7Gd0bb5EJ
+391,1326037735224844289,"My home-neighborhood in Tartu, Supilinn with open data made available by the Estonian Land Board and Tartu City Government. 
+
+#30DayMapChallenge and this is Day 9 where everything is Monochromatic. https://t.co/eB7soVpuLQ",en,2020-11-10 05:43:27,1,9,"[{'text': '30DayMapChallenge', 'indices': [126, 144]}]",2629383321,Tõnis Kärdi,tkardi,"Tartu, Estonia",203,235,http://pbs.twimg.com/media/EmcHgZ7W4AAcAdH.jpg,https://t.co/eB7soVpuLQ
+392,1326037386535395329,"#30DayMapChallenge 
+
+#Map 9 Monochrome  
+
+Made with #rayshader. How cool is this R package! 
+
+#rstats #rspatial 
+
+#dataviz #viz #geospatial https://t.co/fA96ABhnf0",en,2020-11-10 05:42:04,7,37,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'Map', 'indices': [21, 25]}, {'text': 'rayshader', 'indices': [52, 62]}, {'text': 'rstats', 'indices': [94, 101]}, {'text': 'rspatial', 'indices': [102, 111]}, {'text': 'dataviz', 'indices': [114, 122]}, {'text': 'viz', 'indices': [123, 127]}, {'text': 'geospatial', 'indices': [128, 139]}]",3281440274,Chinmay Deval,chinmay_deval,"Moscow, ID",313,1407,http://pbs.twimg.com/ext_tw_video_thumb/1326037130968141826/pu/img/o0dbL1v6HZxnbHhg.jpg,https://t.co/fA96ABhnf0
+393,1326037023875018752,#30DayMapChallenge Day 9: Monochrome. Lake Crescent Bathymetry. https://t.co/nlAnyfYcvh,en,2020-11-10 05:40:37,1,6,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",215404498,Ariel Kadouri,akadouri,,141,386,http://pbs.twimg.com/media/EmcHRYNWMAAXKFL.png,https://t.co/nlAnyfYcvh
+394,1326035757685899265,"#30daymapchallenge Day 9 : Monochrome.
+
+An interesting topic : fictional map. This kind of map is one of the map styles that we are building in Bvarta, particularly on our LokasiMaps platform, which currently is in research and development stage. https://t.co/lUMvq89f7U",en,2020-11-10 05:35:35,2,9,"[{'text': '30daymapchallenge', 'indices': [0, 18]}]",72266186,Azzadv Sawungrana,azzadv,,764,2549,http://pbs.twimg.com/media/EmcGU6fVgAA2Yy6.jpg,https://t.co/lUMvq89f7U
+395,1326035158793920513,"Day 10 of #30DayMapChallenge - Grid
+How many countries are inside each box?
+I think that they do not correspond exactly with lat/long lines, even if that was the goal.
+
+It was a great exercise to learn about geometry operations
+Tools: R https://t.co/Aeip104yj2",en,2020-11-10 05:33:13,1,8,"[{'text': '30DayMapChallenge', 'indices': [10, 28]}]",950089955753250816,Jose Maria Echave Sanz,assesslife,Helsinki,190,390,http://pbs.twimg.com/media/EmcFgm3WMAERW76.jpg,https://t.co/Aeip104yj2
+396,1326033028456411136,"#30DayMapChallenge Dia 9. Monochrome. 
+Caminos en las Entidades Federativas. 
+Las venas de los estados. 
+
+#Rstats con datos de la Red Nacional de Caminos de @INEGI_INFORMA https://t.co/OA52ovDsqS",es,2020-11-10 05:24:45,7,37,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'Rstats', 'indices': [106, 113]}]",260088313,Juvenal,JuvenalCamposF,"Ocuituco, Morelos",858,803,http://pbs.twimg.com/tweet_video_thumb/EmcDxoLVgAE1ync.jpg,https://t.co/OA52ovDsqS
+397,1326030296504963073,"Day 10 of #30DayMapChallenge. Grid.
+
+By international standards lightning doesnt occur frequently around NZ. When it does, it can cause injury and damage, and may increase in intensity &amp; frequency with climate change.
+
+Data @MetService, from MfE portal @mfe_news
+
+#ArcMap 10.7.1 https://t.co/IBM2mMeXRE",en,2020-11-10 05:13:53,2,8,"[{'text': '30DayMapChallenge', 'indices': [10, 28]}, {'text': 'ArcMap', 'indices': [268, 275]}]",29162437,Kerrin Sime,kjsime," NZ, most of the time.",46,121,http://pbs.twimg.com/media/EmcBhp-UcAAHGOU.jpg,https://t.co/IBM2mMeXRE
+398,1326030253341335554,"#30daymapchallenge 9/30: Monochrome. Ran out of time today for this one (went on a 30-mile bike ride), and I don't have any good ideas, so here's Chicago, in White Sox grayscale, from the same 2013 baseball cities mini-project as Oakland yesterday. https://t.co/6wPq8Q2i6A",en,2020-11-10 05:13:43,1,10,"[{'text': '30daymapchallenge', 'indices': [0, 18]}]",1224107513131327488,keirtography,keirtography,"Ventura, CA",57,193,http://pbs.twimg.com/media/EmcBTuGVoAIIS6Q.png,https://t.co/6wPq8Q2i6A
+399,1326030017076277250,"Day 8: Yellow. #30DayMapChallenge #palmoil Tried to match the map theme to the colors of an oil palm. Quite shocking to know that just 3 countries, including my homeland, is responsible for 88% of palm oil production worldwide! 😰 https://t.co/kTZgcA8uod",en,2020-11-10 05:12:47,1,8,"[{'text': '30DayMapChallenge', 'indices': [15, 33]}, {'text': 'palmoil', 'indices': [34, 42]}]",28102639,Phoebe L.,pheebely,"Austin, TX",231,155,http://pbs.twimg.com/media/EmcBQe7XUAEoxxd.jpg,https://t.co/kTZgcA8uod
+400,1326028328659161089,"Day... 9 of #30DayMapChallenge  Monochrome
+(sorta) https://t.co/G0n0BLNfXz",en,2020-11-10 05:06:04,1,3,"[{'text': '30DayMapChallenge', 'indices': [12, 30]}]",1322740260422385665,Anat Zohar,AnatZohar4,,1,12,http://pbs.twimg.com/media/Emb_tVRVkAIXSFp.jpg,https://t.co/G0n0BLNfXz
+401,1326028021669658624,"#30DayMapChallenge Day 10: Grid
+Data source: GHSL: Global Human Settlement Layers, Built-Up Grid 1975-1990-2000-2015 (P2016)
+Access by: Google Earth Engine
+Stylize by: QGIS
+Quy Nhơn is a coastal city in Bình Định Province in central Vietnam which is recently invested in tourism. https://t.co/epJG3OA92z",en,2020-11-10 05:04:51,2,6,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",810141913248649216,Nguyễn Quang Huy,NguynQu59656951,,28,356,http://pbs.twimg.com/media/Emb-0M6UcAMFBeM.jpg,https://t.co/epJG3OA92z
+402,1326027223971758082,"Día ¿9? #30DayMapChallenge Monochrome 
+
+Aquí va un mapa de las provincias de la Nueva España en 1570 (basado en Gerhard 1986). https://t.co/BWeEPvulFo",es,2020-11-10 05:01:41,3,11,"[{'text': '30DayMapChallenge', 'indices': [8, 26]}]",358606269,El Diego,Kantzakata,"Fonetitlán, Distrito Federal",108,242,http://pbs.twimg.com/media/Emb8vHoVMAIoMox.jpg,https://t.co/BWeEPvulFo
+403,1326027216241782784,(Eng/Esp) #30DayMapChallenge Day 9 - Monochrome. Colombian electrical system coverage. #Qgis #Colombia https://t.co/nVvHNQwyGv,en,2020-11-10 05:01:39,4,9,"[{'text': '30DayMapChallenge', 'indices': [10, 28]}, {'text': 'Qgis', 'indices': [87, 92]}, {'text': 'Colombia', 'indices': [93, 102]}]",736009987,Felipe Lancheros 🐯,MiniTigri,"Bogotá, D.C., Colombia",179,226,http://pbs.twimg.com/media/Emb-hBwW8AA5Ko6.jpg,https://t.co/nVvHNQwyGv
+404,1326025769999507457,a few days behind on the #30DayMapChallenge but cant miss using Yellow&amp;Green day for a #seattlestorm map! Green dots are all Storm player's (since the start of the franchise in 2000) Colleges &amp; thickness of yellow line is years of service of each player https://t.co/pRtQ8eSEZE,en,2020-11-10 04:55:54,1,2,"[{'text': '30DayMapChallenge', 'indices': [25, 43]}, {'text': 'seattlestorm', 'indices': [91, 104]}]",3007214442,AliceCarol,pnwgeogeek,"Portland, OR",140,362,http://pbs.twimg.com/media/Emb6-OBVkAIXmtN.jpg,https://t.co/pRtQ8eSEZE
+405,1326015576976875525,"#30DayMapChallenge 
+Day 9: Monochrome - The Caringorms. Experimenting with the Terrain settings in @Mapbox while exploring some of the landscapes that Robert Macfarlane details in “Landmarks” (a book I recently picked up and have been enjoying). https://t.co/guhb5eE9Kb",en,2020-11-10 04:15:24,4,20,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}]",333524694,Christopher Pollard,CRVanPollard,"Philadelphia,PA",997,1207,http://pbs.twimg.com/media/Emb0D68WEAE9i1P.jpg,https://t.co/guhb5eE9Kb
+406,1326009936929841154,Día 9 Monocromo/Monochrome ▪️▫️ #30DayMapChallenge en colaboración con @LuciaNavrro https://t.co/ImJO2rhtGH,es,2020-11-10 03:52:59,2,5,"[{'text': '30DayMapChallenge', 'indices': [32, 50]}]",800934852119785472,Víctor Medel,victor_medel9,CDMX,108,166,http://pbs.twimg.com/media/Embt6I-XIAATn2o.jpg,https://t.co/ImJO2rhtGH
+408,1326007869758603264,Dia 8 Amarillo/Yellow #30DayMapChallenge en colaboración con @victor_medel9 🌻🌻🌻🌻 https://t.co/1HZSmKXJmj,es,2020-11-10 03:44:46,4,13,"[{'text': '30DayMapChallenge', 'indices': [22, 40]}]",1244146648009203714,Lucía Navarro Loperena,LuciaNavrro,,101,209,http://pbs.twimg.com/media/EmbtB93UcAA6_aZ.jpg,https://t.co/1HZSmKXJmj
+411,1325999600134545414,"Day 9 of #30DayMapChallenge - #Monochrome. I drew this map of Mountain View and Los Altos a while ago. It's not entirely monochrome, but the majority is so oh well. https://t.co/1XPhdpEKHy",en,2020-11-10 03:11:55,1,13,"[{'text': '30DayMapChallenge', 'indices': [9, 27]}, {'text': 'Monochrome', 'indices': [30, 41]}]",1208855850959462400,Justin K,sugoiboi40,"Stanford, CA",232,1262,http://pbs.twimg.com/media/EmbliFkVcAAkGGd.jpg,https://t.co/1XPhdpEKHy
+412,1325998807306416128,"#30DayMapChallenge day 10 - grid
+Grided population density in St Petersburg #RStats #rspatial https://t.co/UdNXhTZXMf",en,2020-11-10 03:08:46,4,23,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'RStats', 'indices': [76, 83]}, {'text': 'rspatial', 'indices': [84, 93]}]",1273667699374260224,Tatiana,balt_ti,"Санкт-Петербург, Россия",94,180,http://pbs.twimg.com/media/Embk4nkXYAAgFRT.jpg,https://t.co/UdNXhTZXMf
+413,1325995838863192066,"Me atrase un poco con el #30DayMapChallenge pero aqui están los mapas que seguían. 
+Dia 7: Verde: Aéreas Naturales Protegidas (Las ANP están un poco extrañas en el mar pero así viene la info 🙃).
+Dia 8: Amarillo: Las centrales de energía solar en México.
+Made in #ArcGIS https://t.co/yfA2ZxpDh9",es,2020-11-10 02:56:58,1,5,"[{'text': '30DayMapChallenge', 'indices': [25, 43]}, {'text': 'ArcGIS', 'indices': [262, 269]}]",2372331457,Carlos Ramirez,carlosrpz_,🇲🇽,214,585,http://pbs.twimg.com/media/EmbhtKsXUAAvum6.jpg,https://t.co/yfA2ZxpDh9
+414,1325995506808610816,Falling behind and you folks across the date line are confusing the heck out of me. Day 7 &amp; 9: Green and Monochrome (sorry yellow 🤷‍♂️). The extent of the Green Mountain National Forest in the Green Mountain State. #30DayMapChallenge https://t.co/2EP7IZ1Mp0,en,2020-11-10 02:55:39,1,3,"[{'text': '30DayMapChallenge', 'indices': [219, 237]}]",721829381207887872,David Fox,ReynardSubtil,"Vermont, USA",65,163,http://pbs.twimg.com/media/EmbhSi0XUAE0NhN.jpg,https://t.co/2EP7IZ1Mp0
+415,1325992670561529856,"Air Quality in India: Comparing AQI and PM2.5 particulate matter across major Indian cities. 
+
+As on today, #DelhiAirQuality is 4x that of any other major Indian city.
+
+#30DayMapChallenge Day 09: Monochrome
+Made with @matplotlib data @AQI_India #AirQuality https://t.co/5nsVnOwLO4",en,2020-11-10 02:44:23,6,18,"[{'text': 'DelhiAirQuality', 'indices': [108, 124]}, {'text': '30DayMapChallenge', 'indices': [169, 187]}, {'text': 'AirQuality', 'indices': [245, 256]}]",1234136874,Pratap Vardhan,PratapVardhan,"Princeton, NJ",802,144,http://pbs.twimg.com/media/EmbecpbXEAAvbif.png,https://t.co/5nsVnOwLO4
+416,1325991405685264384,"Sundarbans Mangroves
+Northern part of Bay of Bengal
+
+#30DayMapChallenge #Monochrome 
+#Sentinel1 #SAR #wetlands #EarthArt https://t.co/8fUYnSQfNo",en,2020-11-10 02:39:21,16,94,"[{'text': '30DayMapChallenge', 'indices': [53, 71]}, {'text': 'Monochrome', 'indices': [72, 83]}, {'text': 'Sentinel1', 'indices': [85, 95]}, {'text': 'SAR', 'indices': [96, 100]}, {'text': 'wetlands', 'indices': [101, 110]}, {'text': 'EarthArt', 'indices': [111, 120]}]",87239058,Valt Ze,Valtzen,"Riga, Latvia",422,536,http://pbs.twimg.com/media/EmbdA48WEAYGMrH.jpg,https://t.co/8fUYnSQfNo
+417,1325988558369247232,"DAY - 58
+ #cycling #cyclists #tuesdayvibe #TuesdayMorning #cyclinglife #morning  #cyclemeter 
+#Raiders #cyclingphotos #FetchYourBody2020 #adventure #morningview #adventure #goodmorning #CycloneUpdate 
+#nature #MorningVibe #sunrise #yoga #30DayMapChallenge https://t.co/YveQeuxkXq",und,2020-11-10 02:28:02,0,4,"[{'text': 'cycling', 'indices': [10, 18]}, {'text': 'cyclists', 'indices': [19, 28]}, {'text': 'tuesdayvibe', 'indices': [29, 41]}, {'text': 'TuesdayMorning', 'indices': [42, 57]}, {'text': 'cyclinglife', 'indices': [58, 70]}, {'text': 'morning', 'indices': [71, 79]}, {'text': 'cyclemeter', 'indices': [81, 92]}, {'text': 'Raiders', 'indices': [94, 102]}, {'text': 'cyclingphotos', 'indices': [103, 117]}, {'text': 'FetchYourBody2020', 'indices': [118, 136]}, {'text': 'adventure', 'indices': [137, 147]}, {'text': 'morningview', 'indices': [148, 160]}, {'text': 'adventure', 'indices': [161, 171]}, {'text': 'goodmorning', 'indices': [172, 184]}, {'text': 'CycloneUpdate', 'indices': [185, 199]}, {'text': 'nature', 'indices': [201, 208]}, {'text': 'MorningVibe', 'indices': [209, 221]}, {'text': 'sunrise', 'indices': [222, 230]}, {'text': 'yoga', 'indices': [231, 236]}, {'text': '30DayMapChallenge', 'indices': [237, 255]}]",117089402,Nayan Shrimal,Nayan_shrimal,Ahmedabad,776,65,http://pbs.twimg.com/media/EmbbgzyU8AAVVet.jpg,https://t.co/YveQeuxkXq
+418,1325987636205514752,"#30DayMapChallenge, day 9: Monochrome - NASA SeaSat #SAR mosaic of #Belize, from Aug. 1978. We've heard @SARevangelist speak various times about the revolution that SeaSat started as the 1st #SAR #EarthObservation satellite.
+https://t.co/X6tMQq2PIW https://t.co/9EKRP9Hakr",en,2020-11-10 02:24:22,4,14,"[{'text': '30DayMapChallenge', 'indices': [0, 18]}, {'text': 'SAR', 'indices': [52, 56]}, {'text': 'Belize', 'indices': [67, 74]}, {'text': 'SAR', 'indices': [191, 195]}, {'text': 'EarthObservation', 'indices': [196, 213]}]",731808469301493760,🇧🇿 Belize GEO 🛰️,BZgeo,Belize,4178,3836,http://pbs.twimg.com/media/EmbZOowWEAIWohn.png,https://t.co/X6tMQq2PIW
+419,1325982698054168578,"Day 9, Monochrome
+
+My brain is fried today. Tried to get rasters to work out for me in R, but after a day of reviewing the titles and abstracts of several hundred articles, I just couldn't figure it out. Not very proud of this, but alas. At least it's done. 
+
+#30DayMapChallenge https://t.co/QBUdM3e9Q4",en,2020-11-10 02:04:45,1,6,"[{'text': '30DayMapChallenge', 'indices': [260, 278]}]",1142165477952614400,Russell Copley,rocopley1,,289,1158,http://pbs.twimg.com/media/EmbWF2dU8AAkioI.jpg,https://t.co/QBUdM3e9Q4
+420,1325982333866962944,"But then again, it really is hard to beat the monochromagic of bathymetric maps. For today’s #30daymapchallenge, we’re sharing this map of Jaggar Seamount, an undersea feature a part of the Geologists Seamounts located south of Honolulu, Hawai’i. Click the link in our bio for a https://t.co/FqCzM43RRq",en,2020-11-10 02:03:18,1,7,"[{'text': '30daymapchallenge', 'indices': [93, 111]}]",344995607,Branner Earth Sciences Library & Map Collections,BrannerLibrary,"Stanford, CA",582,451,http://pbs.twimg.com/media/EmbV5P4VoAAuI0t.jpg,https://t.co/FqCzM43RRq
+422,1325976986041389056,"still thinking about stuff being visible from space, today's #30daymapchallenge answers the question on all our minds: ""can you see the Erbil citadel (an eighty foot high tell) in 1 arc second SRTM?"" https://t.co/p6dCH8vOiW",en,2020-11-10 01:42:03,1,14,"[{'text': '30daymapchallenge', 'indices': [61, 79]}]",14913762,vicky johnson-dahl,hurricanevicky,"Washington, DC",964,847,http://pbs.twimg.com/tweet_video_thumb/EmbRBVzXEAYjvu6.jpg,https://t.co/p6dCH8vOiW
+425,1325968107916173313,"Day 9: Monochrome #30DayMapChallenge 
+San Francisco Harbor - QGIS 
+source: https://t.co/KRKZoQpmCR https://t.co/IwOaX5dXR1",en,2020-11-10 01:06:46,1,1,"[{'text': '30DayMapChallenge', 'indices': [18, 36]}]",1297747856472838146,sarhoyoshoyos,sarhoyoshoyos,,1,12,http://pbs.twimg.com/media/EmbHmglXIAEBYUj.jpg,https://t.co/KRKZoQpmCR
+426,1325964276943757312,"Northeast Minneapolis, MN Lidar - resolution lowered and turned into a mesh #30DayMapChallenge Day 10 Grid https://t.co/urT1AbPWzT",en,2020-11-10 00:51:33,1,3,"[{'text': '30DayMapChallenge', 'indices': [76, 94]}]",44530833,Andrew French,andrewrfrench,"Wisconsin, USA",440,1822,http://pbs.twimg.com/media/EmbFe4bU0AA_8-M.jpg,https://t.co/urT1AbPWzT
+427,1325957044973817859,"Day 9 of #30DayMapChallenge - Monochrome
+
+For this map, I decided to use the beautiful city of York as my area of interest.. not that I'm biased!
+
+This uses a range of OS Open Roads, OS Open Rivers, and railway data from OSM. 
+
+#York #Road #River #Rail https://t.co/c9Dcmk08Z1",en,2020-11-10 00:22:49,1,7,"[{'text': '30DayMapChallenge', 'indices': [9, 27]}, {'text': 'York', 'indices': [228, 233]}, {'text': 'Road', 'indices': [234, 239]}, {'text': 'River', 'indices': [240, 246]}, {'text': 'Rail', 'indices': [247, 252]}]",863722747,Tim Rodaway,TimRodaway,"Newcastle Upon Tyne, England",96,285,http://pbs.twimg.com/media/Ema-Ot0WMAA9ONI.jpg,https://t.co/c9Dcmk08Z1
+428,1325954965123162112,"Day 10 - Grid #30DayMapChallenge Streets, and grid networks from 78 provincial capitals in the Philippines. Notice how some patterns have the Spanish plaza, and the American grid. Legacy of the Philippines colonial past. Subdivision sprawls are also visible. #cartography #QGIS https://t.co/4F1Ei04UWz",en,2020-11-10 00:14:33,1,8,"[{'text': '30DayMapChallenge', 'indices': [14, 32]}, {'text': 'cartography', 'indices': [259, 271]}, {'text': 'QGIS', 'indices': [272, 277]}]",2599428001,Francis Gasgonia,seateazen,Philippines,72,300,http://pbs.twimg.com/media/Ema8_YVU4AIoFMm.jpg,https://t.co/4F1Ei04UWz
+429,1325954125603827713,"Well according to the Agricultural Production Survey census, 2012 this was NZ's sheep density at the time.
+
+Checking off #grids for Day 10 (and I guess belatedly #hexagons and #blues, days 4 &amp; 5) for the #30DayMapChallenge https://t.co/accU86Z54s",en,2020-11-10 00:11:13,1,3,"[{'text': 'grids', 'indices': [121, 127]}, {'text': 'hexagons', 'indices': [162, 171]}, {'text': 'blues', 'indices': [176, 182]}, {'text': '30DayMapChallenge', 'indices': [208, 226]}]",1061337403795791872,C. M. Jones-Todd,cmjonestodd,"Auckland, New Zealand",183,252,http://pbs.twimg.com/media/Ema6eKvU8AA5P5P.png,https://t.co/accU86Z54s
