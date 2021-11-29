@@ -1,0 +1,1104 @@
+tweet_id,text,author_id,created_at,lang,retweet_count,reply_count,like_count,quote_count,source,media_key,media_url,media_type,media_view,user_name,user_username,user_verified,user_followers_count,user_following_count
+1459306856619253764,"#30DayMapChallenge Day 12: Population
+
+The sober reality of life lost to COVID-19, expressed in terms of national populations.
+
+Country outlines from @pinakographos Project Linework https://t.co/3zVyukc7Vp",1278340072689958913,2021-11-12 23:47:21+00:00,en,3,0,13,0,Twitter Web App,3_1459306348710039555,https://pbs.twimg.com/media/FEB_ZHVVkAMuk5S.jpg,photo, ,David Sherman,CartoDBS,False,89,97
+1459305473228824576,"#Beijing - the capital of #China and the most populous capital #city in the world. Cloudfree image taken by #Sentinel2 on Sept. 29. 
+🛰️ data processed in @sentinel_hub using my own #urban script.
+It's best to open in new tab to get better view of details.
+
+#30DayMapChallenge https://t.co/lmtHIaTkBX",1368902640181145600,2021-11-12 23:41:52+00:00,en,3,1,21,0,Twitter Web App,3_1459305320736595978,https://pbs.twimg.com/media/FEB-dR1XoAonbTB.jpg,photo, ,kosmi,kosmi64833127,False,487,200
+1459301503735414786,My delayed #30DayMapChallenge Day 4 hexagon map of elevation at Yellowstone Nat'l Park made with #rstats and #rayshader. https://t.co/cftKpZFmFx,19301110,2021-11-12 23:26:05+00:00,en,6,1,34,0,Twitter Web App,3_1459301349854781440,https://pbs.twimg.com/media/FEB62JJXoAA2utj.jpg,photo, ,Michael Schramm 💧📊,MPSchramm,False,793,589
+1459299658778517504,"التغير الزمني  الحاصل على ميناء#غزة البحري خلال 30 عام 
+ #30DayMapChallenge https://t.co/hDaLMggTtg",390701058,2021-11-12 23:18:45+00:00,ar,1,0,2,0,Twitter Web App,16_1459299033604886528,https://pbs.twimg.com/tweet_video_thumb/FEB4vUcXEAAL5m-.jpg,animated_gif, ,ishaq,eshakss,False,185,454
+1459298898736922627,"#30DayMapChallenge 12: Population Density of Whitman County, Washington. Got stuck trying to clip the basemap up onto the extruded county. https://t.co/LGhraqvzXR",363424734,2021-11-12 23:15:44+00:00,en,1,0,3,0,Twitter Web App,3_1459298874237939714,https://pbs.twimg.com/media/FEB4mCwUcAINEKL.jpg,photo, ,Sam I Map 🗺,SamIAmFargo,False,45,140
+1459298561217249290,"#30DayMapChallenge Day 11 (3D)
+
+(A day late)
+
+I opened my favorite game, then spent a few hours manually transcribing elevations from the leftmost 13% of the game's map (~1000 values). Then I splined them into a lumpy surface and made a quick relief. https://t.co/OSyOpxnlhH",243497005,2021-11-12 23:14:24+00:00,en,1,2,10,0,TweetDeck,3_1459298548651016192,https://pbs.twimg.com/media/FEB4TF2WQAAVUB5.jpg,photo, ,Daniel P. Huffman,pinakographos,False,9328,95
+1459297328121188358,"Day 13: Natural Earth #30DayMapChallenge 
+
+Looking closely at the area around cities highlights the trends of the map, where population decreases as altitude increases
+
+Source: Natural Earth elevation raster and GHSL population raster
+
+Another stunning viz from Luke @Steer_Group https://t.co/PsQcHwRxd8",793464945971257350,2021-11-12 23:09:30+00:00,en,5,0,11,0,Twitter for iPhone,3_1459297320751800330,https://pbs.twimg.com/media/FEB3LnkXIAoD1LK.jpg,photo, ,Design for Movement,Steer_DfM,False,323,115
+1459296246586355716,"Day 12 - Population #30DayMapChallenge {tmap}
+Good time spent arranging the colors of the World map representing the economic status of the countries and the level of the pop in 1950 vs 2030 #rstats 
+@R4DScommunity #infographics #maps 
+code: https://t.co/bLqI1zKCrd https://t.co/wqcSVlMi3b",285509027,2021-11-12 23:05:12+00:00,en,2,1,6,0,Twitter Web App,3_1459296159432941571,https://pbs.twimg.com/media/FEB2IBUXoAMdU3A.jpg,photo, ,Federica Gazzelloni®,FGazzelloni,False,2252,4411
+1459295729344729095,"Day 12 (Population) mapping some extreme changes in population between 2004 and 2021 in neighborhoods of Almere, Netherlands using @statisticscbs data by @bokanyie . Grey areas had &lt;=10 people in 2004. #30DayMapChallenge 
+
+Code: https://t.co/fTLMS7McdC https://t.co/jvIV3XF2nc",1389560172398448644,2021-11-12 23:03:08+00:00,en,1,2,4,1,Twitter Web App,3_1459295712806641669,https://pbs.twimg.com/media/FEB1uBgXIAUVQyz.jpg,photo, ,Population-scale Network Analysis,popnet_research,False,198,169
+1459295680615403522,"Sticking with the Canadian theme for day 12 of #30DayMapChallenge: % renters, scaled by population density. 
+
+Data: Statistics Canada.
+Code: https://t.co/q8aUQtxmyq https://t.co/utyydPl0HL",3092393211,2021-11-12 23:02:57+00:00,en,1,0,12,0,Twitter Web App,3_1459295465820807173,https://pbs.twimg.com/media/FEB1fpaWYAU9UpJ.png,photo, ,Iva Brunec,IvaBrunec,False,1200,811
+1459291102016585728,"#30DayMapChallenge | Day 12 | #Population
+
+Getting to know a really impressive dataset: the European Settlement Layer by @CopernicusData. Used it to have a closer look at @digitalfreiburg.
+
+🗺️ done with #rayshader. https://t.co/xpp1wgwo03",1307060010669793280,2021-11-12 22:44:45+00:00,en,3,0,11,0,Twitter Web App,3_1459290992159436813,https://pbs.twimg.com/media/FEBxbPuXMA0XqS2.jpg,photo, ,Marco Sciaini,shinysci,False,290,746
+1459285075762286594,"A #30DayMapChallenge thread.  Not a ton of time to work on this but thought it would be cool to look at the percentage change in population per sq mile from 2010 to 2019 at the county level.  Highest increase 1) McKenzie, ND with a whopping 145.2% increase https://t.co/IleBDuc8KW",1070940092053651458,2021-11-12 22:20:48+00:00,en,1,1,2,0,Twitter for iPhone,3_1459285073363148807,https://pbs.twimg.com/media/FEBsCufXIAc3_L0.jpg,photo, ,David E Delgado,davidesdelgado,False,59,248
+1459284645409927182,"Day 12 - population
+playing with database https://t.co/1aqiIDJpqt tracking elephants https://t.co/7SZzA8qAur
+Thanks for this data source #30DayMapChallenge https://t.co/8wokA1z6Ag",2841842176,2021-11-12 22:19:06+00:00,en,1,0,7,0,Twitter Web App,3_1459284569656631303,https://pbs.twimg.com/media/FEBrlaCXoAch-rz.jpg,photo, ,Vojta Blaza,VojtisekBlaza,False,67,144
+1459284171004813312,"#30DayMapChallenge day 12 Population: US Historical Populations in cities, data: U.S. Census Bureau and Erik Steiner, Spatial History Project, Center for Spatial and Textual Analysis, Stanford University.
+There is an interactive version here: https://t.co/IYNg0PWP3e https://t.co/ibU8egwjg0",13181232,2021-11-12 22:17:13+00:00,en,1,0,7,0,Twitter Web App,3_1459284153581674496,https://pbs.twimg.com/media/FEBrNMCXoAAo-0B.png,photo, ,Guenter Richter,grichter,False,209,93
+1459283109866737669,"#30DayMapChallenge 
+
+Población de México según latitud y longitud de la localidad donde vive.
+
+#Day12 #Population https://t.co/UerhhAeQQb",790584781771722753,2021-11-12 22:13:00+00:00,es,9,0,38,0,Twitter Web App,3_1457153700024176642,https://pbs.twimg.com/media/FDjZkeEWUAIXXAN.jpg,photo, ,Roberto Aguilar Celis,geogracelis,False,333,430
+1459282362110517248,"Día 12: población
+Densidad de población en el área serrana del partido de General Pueyrredon (provincia de Buenos Aires, Argentina) a partir de datos del censo 2010 de @INDECArgentina 
+#30DayMapChallenge https://t.co/hRhD1a2XAd",402826093,2021-11-12 22:10:01+00:00,es,1,0,3,0,Twitter Web App,3_1459281969330671621,https://pbs.twimg.com/media/FEBpODEWUAUlL60.jpg,photo, ,Gabi Calderon,GabiCalderon18,False,187,892
+1459279886129025032,"Ma carte pour le Day 11 - 3D
+
+Le relief montagneux au bord de la Mer Méditerranée, impressionnant non ?
+
+Qu'en dites-vous ? 🤗
+
+#géographie #carte #cartographie #geography #map #sig #gis #qgis #illustrator #30DayMapChallenge https://t.co/87ALrhduGY",1386941882270461954,2021-11-12 22:00:11+00:00,fr,0,0,3,0,Twitter for Android,3_1459279883264315400,https://pbs.twimg.com/media/FEBnUn3X0AglXW3.jpg,photo, ,𝐀𝐂𝐚𝐫𝐭𝐨,ACarto_alecle,False,18,513
+1459279553029881861,"Ma carte pour le Day 10 - Raster
+
+La carte de la Chaîne des Puys...en photo ! 😉
+
+J'attends vos commentaires ? 🤗
+
+#géographie #carte #cartographie #geography #map #sig #gis #qgis #illustrator #30DayMapChallenge https://t.co/yClpWGa6Rc",1386941882270461954,2021-11-12 21:58:52+00:00,fr,0,0,1,0,Twitter for Android,3_1459279549645176848,https://pbs.twimg.com/media/FEBnBNCXwBAKB_K.jpg,photo, ,𝐀𝐂𝐚𝐫𝐭𝐨,ACarto_alecle,False,18,513
+1459279125324222465,"Ma carte pour le Day 9 - Monochrome
+
+Le réseau hydrographique Jurassien en blanc sur fond gris ! 😉
+
+Qu'en dites-vous ? 🤗
+
+#géographie #carte #cartographie #geography #map #sig #gis #qgis #illustrator #30DayMapChallenge https://t.co/EsPmlq1HDs",1386941882270461954,2021-11-12 21:57:10+00:00,fr,0,0,2,0,Twitter for Android,3_1459279122400784384,https://pbs.twimg.com/media/FEBmoVbXsAApq-e.jpg,photo, ,𝐀𝐂𝐚𝐫𝐭𝐨,ACarto_alecle,False,18,513
+1459278297070809096,"Dumfries and Galloway | Population 
+A dot-to-dot for railway stations
+Made with #Aerialod
+Data: https://t.co/r8KMM16tzm
+#30DayMapChallenge | Day 12 | Population https://t.co/9Z9eRDhkkn",1081900377853829120,2021-11-12 21:53:52+00:00,en,3,0,17,0,Twitter Web App,3_1459276923859836937,https://pbs.twimg.com/media/FEBkoXOXIAkmwPC.jpg,photo, ,D&G Place-Names,dgplacenames,False,1132,393
+1459278280767459337,"For day 12 of the #30DayMapChallenge the theme was population, so I decided to map the highest population of mangrove trees. I have been crazy about these beautiful trees since my mom read me a book about them as a kid. https://t.co/QpZUuaEBpc",931225337916153856,2021-11-12 21:53:48+00:00,en,0,0,3,0,Twitter Web App,3_1459278156775542784,https://pbs.twimg.com/media/FEBlwIMX0AA_-bB.jpg,photo, ,kara grace ✨,daturadelphina,False,96,407
+1459276518111252481,"#30DayMapChallenge 
+Día 12. Observa los municipios que crecieron en población del 2010 a 2020 en Jalisco y cuáles presentan decrecimiento. https://t.co/zg7l4bj9Jd",2239825712,2021-11-12 21:46:48+00:00,es,7,0,23,0,Twitter Web App,3_1459276490554544128,https://pbs.twimg.com/media/FEBkPJCVEAAiJJ7.jpg,photo, ,IIEG Jalisco,IIEGJ,False,5467,0
+1459276041726267396,"I know I'm supposed to be making maps for #30DayMapChallenge, but I couldn't shake this thought  - NZ, Scotland &amp; Ireland are similar populations but how different are their cities? - and had to look at the numbers and make a chart 😁 https://t.co/u4YEtYbfYm",33788841,2021-11-12 21:44:55+00:00,en,1,1,5,0,Twitter Web App,3_1459276012294864896,https://pbs.twimg.com/media/FEBjzTYVgAAds-N.jpg,photo, ,suǝbbıɹɟ pıʌɐp,dakvid,False,550,463
+1459274636248629253,"WIP: Day 11 of #30DayMapChallenge - 3D
+La li lu le lo - Python, Matplotlib
+Inspired by one of my favorite games: Metal Gear Solid 1 (psx)
+repo: https://t.co/kQzj3BKvzd https://t.co/sMsrvwbHm0",1225029150433579010,2021-11-12 21:39:19+00:00,en,2,0,5,2,Twitter Web App,3_1459274545702051840,https://pbs.twimg.com/media/FEBid75XIAA6Xrr.jpg,photo, ,Ivan D.,ivanziogeo,False,93,182
+1459274050400751619,"Día 12: #Population. #30DayMapChallenge  Analizamos los censos de 10 países para identificar el porcentaje de población que es dueña de sus viviendas 🇨🇴🇪🇨🇻🇪🇵🇪🇧🇴🇦🇷🇧🇷🇺🇾🇵🇾🇨🇱.
+https://t.co/B3SVy6TXD1
+ #Map #GIS #Carto #datosabiertos #Sudámerica #osm https://t.co/aZWDo9YOg7",3081831303,2021-11-12 21:37:00+00:00,es,0,0,3,0,TweetDeck,3_1459223892615180293,https://pbs.twimg.com/media/FEA0ZicXMAUuPG7.jpg,photo, ,Properati Data,Properati_Data,False,1222,564
+1459272237173911556,"#30DayMapChallenge turbo atrasado
+día 8: azul
+¿Cuál es el nivel de riesgo en cada AGEB por frío?
+
+Espero ir pudiendo sacar mapas atrasados en los próximos días https://t.co/iIY6XlH5eY",1130834772081684480,2021-11-12 21:29:47+00:00,es,2,2,13,0,Twitter Web App,3_1459270252815077380,https://pbs.twimg.com/media/FEBekDpWUAQdFBs.png,photo, ,Aliza Brzezinski,AlBRzez,False,162,311
+1459271612084240389,"Потыкали данные по населению от @nextgis. Ожидал большего, но работать с этим можно. Посчитали нагрузку на садики и положили в @unfoldedinc. Крутой вьюер. Пойдет для #30DayMapChallenge ? https://t.co/wC4qhN8Kh2 https://t.co/zK07Jrcy1C",579970887,2021-11-12 21:27:18+00:00,ru,2,3,4,0,Twitter Web App,3_1459271587086147590,https://pbs.twimg.com/media/FEBfxuMXIAY94Bg.jpg,photo, ,Alexander Semenov,Sasfeat,False,50,140
+1459269169506144258,"Day 11 of #30DayMapChallenge- 3D.
+Late post but still better than never. Finished the python script to animate my maps. I raise you Nairobi city, CBD buildings with a 🇰🇪🇰🇪 touch😉.
+Data source: HOTOSM data for buildings.
+Tools used: @qgis , @realpython https://t.co/WC13BdfCKZ",2163188711,2021-11-12 21:17:36+00:00,en,2,0,7,0,Twitter Web App,16_1459269015688331265,https://pbs.twimg.com/tweet_video_thumb/FEBdcC_WQAEAauX.jpg,animated_gif, ,tYsOn,tyson_okoth,False,765,655
+1459268528436125706,"For the #30DayMapChallenge, Day 12 - population: a sneak peak at a yet to be published project showing both the enslaved population total (number) and density (shading) by county in the vicinity of Harpers Ferry at the time of John Brown's Raid. https://t.co/cjjiq2S2iQ",850384123663437829,2021-11-12 21:15:03+00:00,en,2,1,4,0,Twitter for Android,3_1459268526905118726,https://pbs.twimg.com/media/FEBc_mIWUAYtPOv.jpg,photo, ,Edward Alexander,makemeamapllc,False,123,710
+1459266413625896962,"Day 12: Population
+
+Cartogram of 2021 population in Asia
+
+code: https://t.co/0oMD9YoJ0o
+
+#30DayMapChallenge #rstats #rspatial https://t.co/kHt8NEsuSz",820847294073303040,2021-11-12 21:06:39+00:00,en,3,0,9,0,Twitter Web App,3_1459266347456626688,https://pbs.twimg.com/media/FEBbAvDVgAAPbtI.jpg,photo, ,Shandiya Balasubramaniam,ShandiyaB,False,456,811
+1459265019707854848,"#30DayMapChallenge | Day 12 | #Population 
+
+A neon* map of the distribution of the world's population using contour lines plus details of regions of high population pressure. Yes, it's a 🌈 map—but it's a good 🌈 #viridis
+
+Made with #ggplot2 and #Figma.
+#rstats #rspatial #gischat https://t.co/uLQAFmIxA8",3092381638,2021-11-12 21:01:07+00:00,en,6,3,71,0,Twitter Web App,3_1459257657349525509,https://pbs.twimg.com/media/FEBTG54WUAUepwd.jpg,photo, ,Cédric Scherer,CedScherer,False,13705,1930
+1459265000753840134,"12. Number scheduled languages spoken in Indian states #30DayMapChallenge, #Goa  stands at the top with 21 #Bihar 8 Credits: #census_data #datameet #QGIS https://t.co/cmaoQuMfk8",836764339965046784,2021-11-12 21:01:02+00:00,en,0,0,1,1,Twitter for Android,3_1459264998040031236,https://pbs.twimg.com/media/FEBZyMFWUAQXnM_.jpg,photo, ,Saneesh,Saneesh05580981,False,10,80
+1459264972991700994,"#30DayMapChallenge Day 12 - Population
+I wanted to try superimposing a bar plot on top of geospatial data, as an alternative to choropleth maps. Using @matplotlib's #Basemap to plot and @pandas_dev + @geopandas for data manipulation.
+https://t.co/kJcaRm19mN https://t.co/fTqABIzTY4",1192117144214896640,2021-11-12 21:00:56+00:00,en,1,1,11,0,Twitter Web App,3_1459264662126702599,https://pbs.twimg.com/media/FEBZeotXsAcCzDb.png,photo, ,Nicole Paul,nicopurr,False,183,427
+1459262592195641350,"#30DayMapChallenge Day 12 - Population
+
+Reusing my older map with Population of Saint Petersburg, Russia - my hometown: https://t.co/UPB7fSCc9u
+
+Dataset mixed and enhanced by me from 2 different sources + aggregated by 500m hexagon tiles. 
+
+3D + interactivity, as usual. #gischat https://t.co/FNb6gSWzuP",1021342805971603456,2021-11-12 20:51:28+00:00,en,2,0,17,0,Twitter Web App,7_1459262229522661387,https://pbs.twimg.com/ext_tw_video_thumb/1459262229522661387/pu/img/iH_fyX7y5BPwljQI.jpg,video, ,Daniel Gorokhov,citysbackyard,False,75,153
+1459262217984094210,"~ 12 population -&gt; disco pop
+
+pulse -&gt; POP_EST property
+
+data: Natural Earth
+
+demo -&gt; https://t.co/lVdSb8qE1Z
+
+#30DayMapChallenge https://t.co/lWfv33P2cm",2914726517,2021-11-12 20:49:59+00:00,ro,1,1,6,0,Twitter Web App,16_1459261157240356864,https://pbs.twimg.com/tweet_video_thumb/FEBWSn_WQAAC86T.jpg,animated_gif, ,stefano bovio,allyoucanmap,False,735,190
+1459262099994124301,"⛈🌦🌬💨🌍👀 Whole #Mediterranean Sea 👀
+
+Seen from space 🛰Sentinel-3 OLCI today 10:27 UTC
+
+…. approx. 300km diameter in the hole… 
+
+Click to enlarge!
+
+Footage: @sentinel_hub @CopernicusEU 
+
+#30DayMapChallenge https://t.co/8z7U0KjGwa",883290218719318016,2021-11-12 20:49:31+00:00,en,2,0,8,1,Twitter for iPad,3_1459262091563569152,https://pbs.twimg.com/media/FEBXJAnXEAABNz5.jpg,photo, ,Ar-etsch,ar_etsch,False,258,268
+1459261705750552582,"#30DayMapChallenge day 12, population. I saw a few other folks make cartograms and thought 'good idea.' So I made one of NYC (duh).
+population data from the census: https://t.co/MAx30cPdmQ
+borough json from nyc open data: https://t.co/1XLTGg9Los https://t.co/IqIF641qTL",17847384,2021-11-12 20:47:57+00:00,en,1,1,3,2,Twitter Web App,3_1459261654668128263,https://pbs.twimg.com/media/FEBWvlDXsAcw3nl.jpg,photo, ,Jill Hubley,Jill_hubley,False,1538,1345
+1459260962498912263,"#30DayMapChallenge 
+Day 12 Population
+
+A. Most populated cities in 1865 #Mexico 🇲🇽 
+
+FF⏩ 56 years into the future
+
+B. Most populated cities in 1921 again 🇲🇽 https://t.co/gUdOHUQ9aJ",1305980793035071490,2021-11-12 20:44:59+00:00,en,24,4,142,4,Twitter Web App,3_1459259992645718025,https://pbs.twimg.com/media/FEBVO1iWUAkORFP.jpg,photo, ,Mapoteca de pZZ,mapoteca_mx,False,5110,326
+1459258679400751106,"#30DayMapChallenge #day5! not too late @OSM_FR  datas ▶️international touristic zones, monuments and museums in #Paris impressive Vosges square or @MuseeLouvre @IGNFrance #Éduthèque #Édugéo with @qgis  https://t.co/NcY3Qyu9Sw https://t.co/gmh4Vmr6SZ",4121790137,2021-11-12 20:35:55+00:00,en,1,0,5,0,Twitter Web App,3_1459258515105669121,https://pbs.twimg.com/media/FEBT41RWYAEQTaG.jpg,photo, ,Mathieu Chartier,mathieuchartie2,False,427,395
+1459258447405498374,"We really enjoyed all the maps made with Kontur Population dataset for #30DayMapChallenge!
+Glad we released the latest version on time: https://t.co/iQezCUWfAB.
+Meanwhile here’s our entry for Day 12: Population https://t.co/0B0gJuKGgj",1024584556110852096,2021-11-12 20:35:00+00:00,en,2,1,10,0,Twitter Web App,3_1459258228915818504,https://pbs.twimg.com/media/FEBToLIX0AgC-DG.jpg,photo, ,Kontur,KonturInc,False,1009,1206
+1459258403319123976,"Day 12 of #30DayMapChallenge - Population. 
+Tried a shot at rule-based styling for my population map. I can definitely do better when picking the colors too cliché 😀😀, I know but still have a look at it.
+Data source: KNBS census data 2019
+Tool: @qgis https://t.co/z3uclY1ph5",2163188711,2021-11-12 20:34:49+00:00,en,3,0,6,0,Twitter Web App,3_1459258293059309573,https://pbs.twimg.com/media/FEBTr6FX0AU4Vl6.jpg,photo, ,tYsOn,tyson_okoth,False,765,655
+1459257963110088707,"#30DayMapChallenge Day 12 - Population
+Portugal's coastal population (50km from the coast)
+Data from Facebook (via HDX)
+#QGIS https://t.co/alSPDyCWyc",180939408,2021-11-12 20:33:04+00:00,en,1,0,3,0,Twitter Web App,3_1459257782499221507,https://pbs.twimg.com/media/FEBTOMGXIAMI3o2.jpg,photo, ,torts,tgsousa_,False,1011,1149
+1459257734126256132,#30DayMapChallenge Day 12: Population - Age and population density in Europe. Created using #RStats https://t.co/NoTe5rTtS9,46426450,2021-11-12 20:32:10+00:00,en,3,0,15,0,Twitter Web App,3_1459257491322195968,https://pbs.twimg.com/media/FEBS9PYWUAALC34.jpg,photo, ,Joshua Copping,JoshCopping,False,238,194
+1459256910071451656,#30daymapchallenge day#12 - Population - Pop of Ireland using a tessellation #GIS #population #hexagons https://t.co/34AOA6xBhR,179094335,2021-11-12 20:28:53+00:00,en,0,0,3,0,Twitter for Android,3_1459256878979063814,https://pbs.twimg.com/media/FEBSZmOXoAYrN4Z.jpg,photo, ,sarah☻,sarah_wilson7,False,143,346
+1459256736649555969,#30DayMapChallenge Day 12: Population - Atlantic offshore bird populations - by George Kamau (@kamaug8) Live: https://t.co/ZT9a4Vel9l https://t.co/1OaaYyShn3,1253080999572971521,2021-11-12 20:28:12+00:00,en,1,0,7,0,Twitter Web App,16_1459256130258059264,https://pbs.twimg.com/tweet_video_thumb/FEBRuBBXwAA_27b.jpg,animated_gif, ,Akuko,akukoio,False,35,109
+1459255181099556871,"I have missed quiet a few days in the #30DayMapChallenge but today's topic is population, and I happen to have made this Asian American Dot Density Map recently: https://t.co/ZYU669zSHU https://t.co/0WG5w6bE4h",15714107,2021-11-12 20:22:01+00:00,en,4,2,32,1,Twitter Web App,3_1459255107846086657,https://pbs.twimg.com/media/FEBQygPXIAEGqkq.jpg,photo, ,jiazhang,jiazhang,False,1035,533
+1459254288841117698,"#30DayMapChallenge Day 11. 3D
+
+'Yosemite Valley' ⛰️⛰️
+
+The 3D Nose (El Capitan), The Dome &amp; Co explored with Three.js
+
+Live: https://t.co/sd9RcI0z8Y
+
+Data: OpenTopography, NAIP aerial data
+
+#QGIS #Qgis2threejs #Threejs #Proj4js #LiDAR https://t.co/NFXkVgLqDb",1082711230459060224,2021-11-12 20:18:28+00:00,en,0,0,4,1,Twitter Web App,3_1459247525043572740,https://pbs.twimg.com/media/FEBJ5IGXEAQR14t.jpg,photo, ,MapTheClouds,maptheclouds,False,393,456
+1459252530727194624,"#30DayMapChallenge Day 12: Population
+
+World population density, built with #H3. I didn't do too much to this, because I think it's pretty beautiful without trying to find a more specific story.
+
+Data: @KonturInc via https://t.co/cLPr7aefnc
+Made with @unfoldedinc https://t.co/zFXSRrLqTq",9154592,2021-11-12 20:11:29+00:00,en,6,1,34,2,Twitter Web App,3_1459250934760968195,https://pbs.twimg.com/media/FEBM_mSVkAMfP1z.jpg,photo, ,Nick Rabinowitz,nrabinowitz,False,217,150
+1459251642340032512,"Today's #satellite image. Chernobyl (or Chornobyl Чорнобиль) Nuclear Power Plant. 11/01/2021 by Sentinel-2 satellite. 2600 square kilometers exclusion zone. The nearest town may take from 3,000 to 20,000 years to become habitable again.  @sentinel_hub for #30DayMapChallenge https://t.co/bibte6wgv1",910623276778405888,2021-11-12 20:07:57+00:00,und,12,3,45,3,Twitter Web App,3_1459249847505096706,https://pbs.twimg.com/media/FEBMAT8VkAIHHQE.jpg,photo, ,AI6YR,ai6yrham,False,29365,1611
+1459251264710230025,"Day 12, #30DayMapChallenge: population! Here's a population map of Africa.
+
+#rayshader adventures, an #rstats tale https://t.co/vKTt7Hpoxm",946151815,2021-11-12 20:06:27+00:00,en,43,4,252,5,Twitter Web App,3_1459251163057037322,https://pbs.twimg.com/media/FEBNM4wXIAosbHi.jpg,photo, ,flotsam,researchremora,False,2749,968
+1459250152145891332,"@sentinel_hub for #30DayMapChallenge 
+
+It's not M̶a̶r̶s̶ ! https://t.co/KQWmfVtMDX",1093057164,2021-11-12 20:02:02+00:00,es,0,1,1,0,Twitter Web App,3_1459249617204355077,https://pbs.twimg.com/media/FEBLy6AXIAUGl7o.jpg,photo, ,Ididnotfind,biketz,False,0,941
+1459247698255699975,"#30DayMapChallenge Day 12: Population
+
+#population #arcgispro #map https://t.co/VEcKLrv6ch",1322482539483828224,2021-11-12 19:52:17+00:00,en,2,0,7,0,Twitter Web App,7_1459246610907639811,https://pbs.twimg.com/ext_tw_video_thumb/1459246610907639811/pu/img/h38vWxiYTH2AqY4Q.jpg,video, ,Elif Erkek,eliferkk19,False,82,207
+1459245361118150656,"Day 12: Population | #30DayMapChallenge
+Before I learned how to use Illustrator I made a series of maps for my friend's thesis @DiegoAntonioFr about population changes in Colonia Guerrero in Mexico City. At the time I enjoyed pretty much the final result. https://t.co/ARlZm4l3ZG",1263997606759403520,2021-11-12 19:43:00+00:00,en,5,2,12,0,Twitter Web App,3_1459244667363545090,https://pbs.twimg.com/media/FEBHSyaWUAI2L_M.jpg,photo, ,Sebastián Estremo,S_Estremo,False,278,126
+1459245270466707458,"#30DayMapChallenge 
+Day 12 - Population
+
+Cologne (#Köln) residents by country of birth outside Germany as of 2014.
+
+The view is morphing between a Mollweide projection, a contiguous cartogram and a Dorling cartogram using {gganimate} 📦
+
+Created in #rstats with #ggplot2 https://t.co/kmqSwAq0d1",1139059532,2021-11-12 19:42:38+00:00,en,4,2,26,1,Twitter Web App,16_1459245115264884736,https://pbs.twimg.com/tweet_video_thumb/FEBHs2-WYAAB9w3.jpg,animated_gif, ,Ansgar Wolsing,_ansgar,False,367,1014
+1459242913288884225,"Et pour les rasters du jour 10 du #30DayMapChallenge , merci @IGNFrance pour la mise à disposition de vos jolies photos aériennes historiques. Géoréférencement sous #QGIS comme d'hab. Et petit clin d’œil à l'étang de #Montady dans l'Hérault &lt;3 https://t.co/W882Zk6wru",195802419,2021-11-12 19:33:16+00:00,fr,7,0,28,0,Twitter Web App,16_1459242463311417347,https://pbs.twimg.com/tweet_video_thumb/FEBFSfrX0AMVwVF.jpg,animated_gif, ,Menileda,Menileda,False,72,231
+1459239178424758278,"#30DayMapChallenge #locationintelligence #DynamicSpatialData
+Day 4 - hexagon
+
+Analyzing Consumers mobility and behaviour with Digital Activities per Day-time or Week-day over the Retail Destinations areas - #DataIntegrity #spatialanalysis https://t.co/XUu4VXkj99",1027935482,2021-11-12 19:18:26+00:00,en,0,0,2,0,Twitter for iPhone,3_1459239174125539328,https://pbs.twimg.com/media/FEBCTCgWUAAr5y5.jpg,photo, ,Monica Di Martino,mmodima,False,883,2490
+1459238640714924032,"#30DayMapChallenge #LocationIntelligence 
+ Day 6 – 7 - 8 – Red, Green, Blue
+With sharing a map you go directly to the point! 
+WHERE are we UNDER/Red, IN/Green or OVER/Blue of our Market Share in the territory? 
+Old fashion thematic maps are still the best!
+#SpectrumSpatial https://t.co/rtFmmtBzj0",1027935482,2021-11-12 19:16:17+00:00,en,1,0,2,0,Twitter for iPhone,3_1459238636935946240,https://pbs.twimg.com/media/FEBBzxUXoAAYY5R.jpg,photo, ,Monica Di Martino,mmodima,False,883,2490
+1459238271465267207,"#30DayMapChallenge #LocationIntelligence #DataEnrichment
+Day 12 - Population
+What about analyzing Population or Household by Address Points? Here a map showing Population at Address Level in Agrigento, Italy. How many people are living in one specific Address?
+#SpectrumSpatial https://t.co/RaK92jXkru",1027935482,2021-11-12 19:14:49+00:00,en,1,0,4,0,Twitter for iPhone,3_1459238267837194248,https://pbs.twimg.com/media/FEBBeSUXoAgkLx6.jpg,photo, ,Monica Di Martino,mmodima,False,883,2490
+1459238262720053254,"Simple, droit au but, pour cette version du jour consacrée à la population pour le #30DayMapChallenge. Données #INSEE. Réalisation #QGIS https://t.co/yoIjxgsbg8",195802419,2021-11-12 19:14:47+00:00,fr,1,0,14,0,Twitter Web App,3_1459237799446654983,https://pbs.twimg.com/media/FEBBDBbXMAcWC_R.jpg,photo, ,Menileda,Menileda,False,72,231
+1459236943959662603,#30DayMapChallenge #Day12 Population % - one of the more special ones by educational attainment level at NUTS2  - D: @EU_Eurostat https://t.co/Gr85ePu5Wi S: using #GISCO IMAGE tool https://t.co/elNBB5KBGC - 19days2go https://t.co/yR1PaSERnH,2574612668,2021-11-12 19:09:33+00:00,en,1,1,3,0,TweetDeck,3_1459236521408712704,https://pbs.twimg.com/media/FEA_4oXX0AAtDNd.jpg,photo, ,hannes reuter,hireuter,False,289,601
+1459236189932646401,This #30DayMapChallenge gives me endless joy and anxiety. All I want to do is participate but only have time to dig-up previous work to try and get the engines primes. Catching-up from yesterday's #3D here are the Boring Lava Domes East of Portland. https://t.co/STEFOYd0LT,906459476,2021-11-12 19:06:33+00:00,en,1,1,31,0,Twitter Web App,3_1459236096890445827,https://pbs.twimg.com/media/FEA_f66VIAMnL6A.jpg,photo, ,matthew.hampton,CascadeCarto,False,448,309
+1459235610619789325,"#30DayMapChallenge Day 12: Population
+
+Population estimation in San Salvador department, El Salvador 🇸🇻
+Data: https://t.co/kpONI0COBK
+Tool: #GoogleEarthEngine  Author: @letinmore https://t.co/XNcO1m19Oe",1410690928210235396,2021-11-12 19:04:15+00:00,ro,3,1,3,1,Twitter Web App,3_1459234240948809734,https://pbs.twimg.com/media/FEA9z4_XMAYJpQl.jpg,photo, ,SIG UCA,sig_uca,False,69,105
+1459234880592781312,"#30DayMapChallenge
+Day 12: Population
+EUROPE - JRC-GEOSTAT 2018 POPULATION
+Quelle: https://t.co/KtPHHTOyrv https://t.co/VGgCHcEsLp",91548216,2021-11-12 19:01:21+00:00,en,1,0,4,0,Twitter Web App,3_1459234752884617221,https://pbs.twimg.com/media/FEA-RsGXsAUahCJ.jpg,photo, ,Cord Niehaus,Cordster76,False,87,596
+1459234629618380800,#30DayMapChallenge Day 12 Population - 30 years of #Census Ethnicity data (1.1 billion points) mapped using dot density (1 dot per person) in @OmniSci. Explore the dashboard yourself at https://t.co/HdX70CocJ8 https://t.co/MlcHZ3YMx9,1846000920,2021-11-12 19:00:21+00:00,en,4,0,10,0,Hootsuite Inc.,3_1459234624681426952,https://pbs.twimg.com/media/FEA-KOgWQAg7TbI.jpg,photo, ,OmniSci,OmniSci,True,5595,1228
+1459233469918187522,#30DayMapChallenge Population. https://t.co/OAk3bFdxC0,906459476,2021-11-12 18:55:45+00:00,en,1,0,2,0,Twitter Web App,3_1459233372438360064,https://pbs.twimg.com/media/FEA9BViVcAA0Fwg.jpg,photo, ,matthew.hampton,CascadeCarto,False,448,309
+1459233288510492674,"#30DayMapChallenge Day 12: Population
+Really too busy to do anything of note today, so just a very quick map of some capital cities cobbled together in #qgis https://t.co/taRQAHx2PG",309734801,2021-11-12 18:55:01+00:00,en,1,2,6,0,Twitter Web App,3_1459232959144288265,https://pbs.twimg.com/media/FEA8pR5WYAkBiGf.jpg,photo, ,Sam J,samwise_v,False,231,510
+1459231748173139970,"U.S. and Puerto Rico Population Density for #30DayMapChallenge - Day 12
+
+1 map from a larger ongoing personal project based on the ""Painting by Numbers"" episode of NPR's Code Switch podcast (really recommend). Posting this again because I caught an edit after tweeting (typical). https://t.co/xv43LbtobS",998412541574365184,2021-11-12 18:48:54+00:00,en,5,0,37,0,Twitter Web App,3_1459231568430469122,https://pbs.twimg.com/media/FEA7YVFVkAI8b4H.jpg,photo, ,Lourdes,MapperLou,False,531,726
+1459231519998808068,"#30DayMapChallenge · Population
+
+Map containing the names of the 352 Dutch municipalities, scaled by population. 
+
+#Rstats code: https://t.co/WiaS4S2ihq https://t.co/VbR6jLTF6P",1117096616492662786,2021-11-12 18:48:00+00:00,en,7,1,32,0,Twitter Web App,3_1459183449273741314,https://pbs.twimg.com/media/FEAPnbQXMAINQYT.jpg,photo, ,Thom-Ivar van Dijk,ThomIvar,False,2448,202
+1459231200682381323,"A #COP26Glasgow inspired viz for #30DayMapChallenge
+
+Viz: https://t.co/r0PvHSAsVG
+
+#DataFam , @tableaupublic , @tableau , @Tableau_Magic ,#NetZero, #carbonemissions, #carbonneutrality, #carbonfree, #AirPollution, #greenhousegas, #GlasgowCop26 #ClimateCrisis, #climate https://t.co/aRJBA64IqY",1110271474944872450,2021-11-12 18:46:44+00:00,pt,6,5,72,0,Twitter Web App,3_1459230020958920712,https://pbs.twimg.com/media/FEA5-QTXoAgYbWP.jpg,photo, ,Naresh Suglani,SuglaniNaresh,False,649,115
+1459230119877357570,"Day 12 of the #30DayMapChallenge, population. A cartogram about the 2011 Greek census, data from @StatisticsGR 
+
+#RStats code: https://t.co/MesE8Oc5NF https://t.co/4JH6yy3mjT",1002212251,2021-11-12 18:42:26+00:00,en,6,1,33,0,Twitter Web App,3_1459229905254862858,https://pbs.twimg.com/media/FEA53hRX0Ao1Fl6.jpg,photo, ,Georgios Karamanis,geokaramanis,False,4045,240
+1459229973529522181,"#30DayMapChallenge Day 12 - Population 
+
+Republished my globe map. Population density by 400m H3, extruded on a 🌍 Globe 🌍
+
+Data Source: Kontur Global Population Density
+Map made using: Unfolded Studio 
+@unfoldedinc 
+
+https://t.co/t5Erjo0nYO https://t.co/4bY13gfxGf",634782060,2021-11-12 18:41:51+00:00,en,5,1,34,0,Twitter Web App,3_1459229296719843333,https://pbs.twimg.com/media/FEA5UGTUUAUbqxD.jpg,photo, ,Shan He,heshan_cheri,False,4253,231
+1459229710563614722,"Day 12: Population 
+
+A Map Showing Population Density Of Yemen.
+Using QGIS &amp; Aerialod.
+
+Source: https://t.co/alYeL21JI0
+
+ #30DayMapChallenge https://t.co/t8Cnmz1OiQ",1454894840,2021-11-12 18:40:48+00:00,en,6,0,18,0,Twitter for iPhone,3_1459229699125694468,https://pbs.twimg.com/media/FEA5rhYWUAQ5uWZ.jpg,photo, ,Noura | نـوره,nourabw95,False,207,142
+1459228710272311300,"#30DayMapChallenge 
+Day 9: Monochrome
+
+Map of distances of every place in #Lahore, Pakistan to the nearest major road.
+Data sourced from @openstreetmap contributors,
+#dataviz #rstats https://t.co/x5G0tffTN5",91949741,2021-11-12 18:36:50+00:00,en,1,1,3,0,TweetDeck,3_1459228337742630915,https://pbs.twimg.com/media/FEA4cR1VUAMQQbL.png,photo, ,P • C,JediPro,False,377,284
+1459228492965589005,"#30DayMapChallenge day 12: population
+
+since I started recording my training I have populated 3 (close) locations. this has affected my spatial signature through the years
+
+#rstats #rspatial #ggplot2 #trailrunning https://t.co/1A3q0VoDij",83974993,2021-11-12 18:35:58+00:00,en,4,1,8,0,Twitter Web App,3_1459228380608483334,https://pbs.twimg.com/media/FEA4exhWUAY7EWD.jpg,photo, ,raimundos,raimun2,False,1005,785
+1459227161664102401,"#30DayMapChallenge Day 12: Population
+
+2019 United States Total Households By County https://t.co/77zKdDSXqm",384202950,2021-11-12 18:30:41+00:00,en,1,1,5,0,Twitter Web App,7_1459226895485132804,https://pbs.twimg.com/ext_tw_video_thumb/1459226895485132804/pu/img/Ng1XxNizqVwfG0Z3.jpg,video, ,Matias Codesal,maticodes,False,323,443
+1459227100871892992,"#30DayMapChallenge - Day 12 - Population
+
+Percent of foreign born population who do not have US citizenship in NYC. https://t.co/PrHmqXaXfw",4150036581,2021-11-12 18:30:26+00:00,en,2,1,2,0,Twitter Web App,3_1459226927085072390,https://pbs.twimg.com/media/FEA3KKuXMAYKuh-.jpg,photo, ,joshua mullenite 🏴🏳️‍🌈,geograpologist,False,1224,1311
+1459225179364769792,"For #30DayMapChallenge POPULATION, here's a companion to my Day 2 (LINES). Places like Brum &amp; Bucks have the most ppl moving from London, but seems it's the London commuter belt that absorbs the most movers per capita. Made with R &amp; Illustrator/InDesign - no QGIS today. https://t.co/VdVax09aUG",900161125,2021-11-12 18:22:48+00:00,en,1,1,4,0,Twitter Web App,3_1459222999664672777,https://pbs.twimg.com/media/FEAzlj8XwAkypIx.jpg,photo, ,amanda,acrobins,False,213,238
+1459223970981588999,"Day 12: Population #30DayMapChallenge. The % of male population in Norway. Point size is slightly proportional with the population size.
+Source: @ssbnytt  and @kartverket 
+@tjukanov @MapsNorway @BlomNorway https://t.co/mNvf6XdB60",741266268,2021-11-12 18:18:00+00:00,en,2,1,9,2,Twitter Web App,3_1459223909904097280,https://pbs.twimg.com/media/FEA0ai2XIAAT-tC.jpg,photo, ,Floris Groesz,SirJanosFroglez,False,73,169
+1459223553279152147,"Día 11: #3D. #30DayMapChallenge Una de nuestras herramientas más poderosas, nuestro mapa 3D de #Bogotá 🇨🇴.
+https://t.co/285zKvwATU
+#Map #GIS #Java #html #datosabiertos #builtwithmapbox https://t.co/0Nu2kkBmKK",3081831303,2021-11-12 18:16:20+00:00,es,1,0,4,0,TweetDeck,3_1459223516713259010,https://pbs.twimg.com/media/FEA0DqGXEAIT84n.jpg,photo, ,Properati Data,Properati_Data,False,1222,564
+1459222896753221632,"#30DayMapChallenge | Day 12 | population
+Population of every district in #Freiburg. App: https://t.co/1EWk9USvyn Data:@OGD_Freiburg  Code: https://t.co/WeeRQPXSoy #svelte #D3js #mapbox #gischat #maps #dataviz https://t.co/kXMkTIyYIx",975473648,2021-11-12 18:13:44+00:00,en,2,0,6,0,Twitter Web App,7_1459220551495561222,https://pbs.twimg.com/ext_tw_video_thumb/1459220551495561222/pu/img/YI8acpdGwDLJwM6g.jpg,video, ,Stefan Reifenberg,Reyfenberg,False,157,486
+1459222722639187970,"#30DayMapChallenge day 12 - 
+England's population, looking North East from the South West.
+Image created for the 2021 Wolfson Economics Prize finalist entry ""The Well-Placed Hospital"" https://t.co/r6ixocAOCv",3042769257,2021-11-12 18:13:02+00:00,en,1,1,5,0,Twitter Web App,3_1459221776345489410,https://pbs.twimg.com/media/FEAyeWuWYAIBNul.jpg,photo, ,place + purpose,PlaceNPurpose,False,397,1085
+1459222668201414656,"Day 12: Population
+Leeds population (grid at jaunty angle)
+Data: #GEOSTAT (https://t.co/MVLd6xuHBb) #ONS
+Tools: @QGIS @screen2gif
+#30DayMapChallenge #gis #gischat https://t.co/nO6Fr1VchQ",52190652,2021-11-12 18:12:49+00:00,en,3,2,26,1,Twitter Web App,16_1459222580045524999,https://pbs.twimg.com/tweet_video_thumb/FEAzNIvXsAclrG-.jpg,animated_gif, ,Oliver Burdekin,burdGIS,False,1803,3450
+1459222471954026502,"Day 12: Population
+A cartogram of the population in Mexico according to the 2020 census
+Todos quieren vivir en el centro acaso?
+#30DayMapChallenge https://t.co/cet908kSQ7",1455446885695623173,2021-11-12 18:12:03+00:00,es,0,0,4,0,Twitter for iPhone,16_1459222447002206209,https://pbs.twimg.com/tweet_video_thumb/FEAzFZHXwAEcYdB.jpg,animated_gif, ,Oscar Zarate,micoroscas,False,9,44
+1459222238368985096,"#30DayMapChallenge 
+Day 11: 3D
+
+Tools used: #RStats, #ggplot2 , #rayshader 
+Learned how to make 3D charts for the first time 
+
+Once again, this is a topographic map of Argentina measuring altitude in meters. https://t.co/hetu6yLFwU",1413167047345721346,2021-11-12 18:11:07+00:00,en,4,0,18,1,Twitter Web App,3_1459221852010647554,https://pbs.twimg.com/media/FEAyiwmVEAISaUw.jpg,photo, ,Eric Hausken ⚽️📊,EricHausken,False,15,77
+1459221360186646534,"#30DayMapChallenge Day 12: Population
+Today I tried a new @KonturInc dataset with aggregated population by administrative division, and test it on Korea population to find any differences in it's distribution between two countries
+Data: https://t.co/4rO6Ea89VP https://t.co/LNLIhskSXx",1103150306152587264,2021-11-12 18:07:37+00:00,en,1,0,8,0,Twitter Web App,3_1459221330465902597,https://pbs.twimg.com/media/FEAyEZsX0AUr7SS.jpg,photo, ,Александр Зуев,Zuev34W,False,27,133
+1459221316268138500,"Day 12: Population 
+
+Where in London has housing been approved over the last decade?
+
+#30DayMapChallenge #QGIS #housing #population #graph #chart #gif #map #residential #UK 
+Chart on following thread 1/2 https://t.co/lru0KE9udM",793464945971257350,2021-11-12 18:07:27+00:00,en,1,1,1,0,Twitter for iPhone,7_1459221284236242948,https://pbs.twimg.com/ext_tw_video_thumb/1459221284236242948/pu/img/5sDKwfDMA5Uby7vC.jpg,video, ,Design for Movement,Steer_DfM,False,323,115
+1459220390014763013,"🗺️🏝️Las Azores
+
+Grupo de 9 islas portuguesas situadas en el océano Atlántico (en la imagen solo aparecen 5). Conforman una región autónoma y parte de la Unión Europea como región ultraperiférica
+
+Día 11- 3D -#30DayMapChallenge #maps 
+#QGIS  #cartography #blender #mapas #gischat https://t.co/ylDvSz6XTI",1154257288158298112,2021-11-12 18:03:46+00:00,es,4,1,11,0,Twitter Web App,3_1459216054903836672,https://pbs.twimg.com/media/FEAtRUsXEAASqoZ.jpg,photo, ,geoscéntricos 🗺️,geoscentricos,False,858,303
+1459220020911878144,"@tjukanov @rebennett_ Day 12. Population.
+
+Why it may be time to move to Tasmania. A beginner map-making by @LikeableChelsey. 
+
+#30DayMapChallenge https://t.co/OBVvlCcMAb",22914910,2021-11-12 18:02:18+00:00,en,1,1,4,0,TweetDeck,3_1459219879807135750,https://pbs.twimg.com/media/FEAwv9kXsAYEPoa.jpg,photo, ,Avenza Systems Inc.,Avenza,False,1367,188
+1459219897116991489,"#30DayMapChallenge Day 12: Population
+
+Celebrating Tokyo 2020, we mapped the hometown of every gold medal winner in Team GB. There’s a real spread of athletes from all over Great Britain, and some born in other countries too. The backdrop mapping uses the OS Maps API. https://t.co/r3v4Dq0uUx",22614266,2021-11-12 18:01:49+00:00,en,5,1,13,0,Hootsuite Inc.,3_1459219894948540421,https://pbs.twimg.com/media/FEAww1-XMAUx0Jl.jpg,photo, ,Ordnance Survey,OrdnanceSurvey,True,63094,3721
+1459219753826934788,"#30DayMapChallenge day 12: Population
+
+The population of the city of Rio de Janeiro by declared color. Map done with qgis and data from #data.rio https://t.co/pbQodmnp6G",1350910345402003459,2021-11-12 18:01:14+00:00,en,0,0,2,0,Twitter Web App,3_1459219735476948992,https://pbs.twimg.com/media/FEAwnj5X0AA1UD7.jpg,photo, ,Paula Rom,paulinha_rolo,False,1,18
+1459219525057097728,"We've added a new tab to our community page, showcasing some of the coolest #30daymapchallenge maps made with Unfolded! Check them out here: https://t.co/EW8A54CdZJ https://t.co/ABbXqrhxzw",1255361139476742145,2021-11-12 18:00:20+00:00,en,5,0,24,0,Sprout Social,3_1459219522049691652,https://pbs.twimg.com/media/FEAwbI0WUAQdQD7.jpg,photo, ,Unfolded,unfoldedinc,False,2122,145
+1459219459709747206,"#30DayMapChallenge
+Day 12: Population 
+
+Estimated population density per grid-cell (per 1 km2) for Ethiopia from 2000 – 2020. Data source: https://t.co/RNt3IyZ4AB https://t.co/U6daG9N8rw",842181553,2021-11-12 18:00:04+00:00,en,3,0,3,0,Twitter Web App,16_1459219236950355979,https://pbs.twimg.com/tweet_video_thumb/FEAwKivXsAsz48a.jpg,animated_gif, ,Satellite Applications Catapult,SatAppsCatapult,False,11396,1521
+1459219226506502152,"#30DayMapChallenge Day 12: Population. I liked how the map from Day 10 turned out and decided to try something similar to map the population of Leuven.
+#rspatial #RStats https://t.co/754SWh5LBo",1222519447165886465,2021-11-12 17:59:09+00:00,en,3,1,11,1,Twitter Web App,3_1459219073099866112,https://pbs.twimg.com/media/FEAwBAWXoAAlf7X.png,photo, ,Anirudh,_anirudhgovind,False,313,1500
+1459218807042498562,"#Population
+Seeing Hamburg’s population in comparison to other big cities in Germany.
+
+Map: Google Marker GeoChart with Geocoding Api 🌎
+
+#30DayMapChallenge https://t.co/ek3UyWKO74",1024961639194550273,2021-11-12 17:57:29+00:00,en,1,0,7,1,Twitter Web App,3_1459218680458498053,https://pbs.twimg.com/media/FEAvqJpX0AUoaZI.jpg,photo, ,Binicodes,binicodes,False,203,369
+1459218447255146503,"Day 12: Population
+Using Geospatial data and analysis to understand 15 minute neighbourhoods in the Glasgow City Region.
+
+#GeoVis #GeoViz #30DayMapChallenge #COP26 @Steer_Group https://t.co/eOvYsXTt6y",793464945971257350,2021-11-12 17:56:03+00:00,en,0,0,3,0,Twitter for iPhone,3_1459218438883323905,https://pbs.twimg.com/media/FEAvcFtXMAEg5oB.jpg,photo, ,Design for Movement,Steer_DfM,False,323,115
+1459218139619774470,"World population by 1° longitude bands 🌐
+
+#30daymapchallenge #day12 #population #qgis https://t.co/moyw6LD8SX",1101617286,2021-11-12 17:54:50+00:00,en,89,10,623,6,Twitter Web App,3_1459217812669534213,https://pbs.twimg.com/media/FEAu3o4XEAUaRhs.jpg,photo, ,Helen McKenzie,helenmakesmaps,False,4258,961
+1459217064812556292,"This was originally going to be 2020 population per sq mile, but it's a way less interesting story IMO (and harder to display with such disproportionate numbers). #30DayMapChallenge https://t.co/ImRlmyvrHr",741653561314922496,2021-11-12 17:50:33+00:00,en,1,1,10,0,Twitter Web App,3_1459215674350440467,https://pbs.twimg.com/media/FEAs7LBXEBMulNq.jpg,photo, ,Kate Berg 🥔🗺️,pokateo_,False,4306,2289
+1459217060005924872,"The median age of people along the Great Lakes (USA) coast by county.
+#30DayMapChallenge Day 12 Population https://t.co/Py1cX50LB9",741653561314922496,2021-11-12 17:50:32+00:00,en,13,3,133,1,Twitter Web App,3_1459216969635446785,https://pbs.twimg.com/media/FEAuGkVXwAEJgK4.jpg,photo, ,Kate Berg 🥔🗺️,pokateo_,False,4306,2289
+1459216360920297475,#30DayMapChallenge - Día XI https://t.co/jU7H7PYiZN,601582057,2021-11-12 17:47:46+00:00,es,1,1,5,0,Twitter Web App,3_1459216319769886721,https://pbs.twimg.com/media/FEAtgvZWQAESyed.jpg,photo, ,Sr Miguelo,MiguE_garva,False,337,525
+1459216255907508224,"#30DayMapChallenge 
+Day 12 - Population
+Migration of Romanians to USA in the 1975-2008 period 
+(the size of the circles is the age of the migrant at entry on US territory)
+Source: https://t.co/1jC8sZxvHz https://t.co/Okpnnroexi",1453765598341705729,2021-11-12 17:47:20+00:00,en,2,0,6,0,Twitter Web App,3_1459215236603469832,https://pbs.twimg.com/media/FEAshsSWYAg7Xon.jpg,photo, ,Alexandru Frantiuc,CompleteMaps,False,28,25
+1459215635255377924,"#30daymapchallenge • Jour 12 
+""Population""
+
+🗺 Les villes de +20.000 habitant•es de la région @hautsdefrance 
+🧭 #hautsdefrance #population #cartographie https://t.co/NtQlxJBThc",1352020785670533123,2021-11-12 17:44:53+00:00,fr,0,1,2,0,Twitter for Android,3_1459215632340295685,https://pbs.twimg.com/media/FEAs4uhXIAUn7_h.jpg,photo, ,Geobjectif,geobjectif,False,15,19
+1459214910513037314,"Where do the world's ~7.9 billion people live? Day 12 of the #30DayMapChallenge - Population.
+This map was generated with #Python using #Matplotlib, #Numpy and #Pandas. 
+#Data #DataScience #dataviz #geography #Humanity #COP26 https://t.co/PFphPtHJfJ",1349110409215795204,2021-11-12 17:42:00+00:00,en,26,2,71,1,Twitter Web App,3_1458127810275549185,https://pbs.twimg.com/media/FDxPhJiXoAEohJj.jpg,photo, ,Python Maps,PythonMaps,False,5814,2680
+1459213946897027079,"#30DayMapChallenge Day9-Monochrome
+
+Soils of Malawi. Extracted from @edward_joy1 et al -https://t.co/cuiE5FGD4Y
+
+Soil series mapping from - Green R, Nanthambwe S. Land Resources Appraisal of the Agricultural Development Divisions of Document No. 32 @moaiwd1 @UNDP @FAO https://t.co/ECuWZ9lIt2",1188470725759422465,2021-11-12 17:38:10+00:00,en,2,0,7,0,Twitter Web App,3_1459213943638044672,https://pbs.twimg.com/media/FEArWbnXsAAgTNr.jpg,photo, ,Micronutrient Action Policy Support (MAPS),mnd_support,False,61,708
+1459213535486132235,"#30DayMapChallenge Day 12: Population
+
+Total population in the Metropolitan Area of San Salvador (AMSS), El Salvador 🇸🇻
+Data: Census data 2007 DIGESTYC.
+Tool: opensource #QGIS  Author: Elena Masferrer https://t.co/rb1liiJ3f4",1410690928210235396,2021-11-12 17:36:32+00:00,ro,3,1,6,1,Twitter Web App,3_1459213411368292364,https://pbs.twimg.com/media/FEAq3cwX0AwjhQQ.jpg,photo, ,SIG UCA,sig_uca,False,69,105
+1459212554060902407,"#30DayMapChallenge 
+Jour 12 - Population
+
+Voici où les habitants vivent vs où ils étudient.
+
+Les logements sont en vert et les autres bâtiments en rouges (En gris lorsqu'il n'y a pas l'information sur @openstreetmapfr ) https://t.co/W3jRA03bGa",3068008768,2021-11-12 17:32:38+00:00,fr,0,1,2,0,TweetDeck,3_1459211781449125896,https://pbs.twimg.com/media/FEApYk1XEAgx2nk.jpg,photo, ,CômeMS,Come_M_S,False,7,122
+1459211716114321408,Día 12: Población en #30DayMapChallenge https://t.co/N5BoNW1Emm,3194863402,2021-11-12 17:29:18+00:00,es,3,2,4,0,Twitter Web App,3_1459211655682928642,https://pbs.twimg.com/media/FEApRQUXMAIO4CM.jpg,photo, ,Cartografía Digital,digimaps,False,3731,184
+1459211646715506696,"Definitely in catch up mode now!
+Day 10 of #30DayMapChallenge - Raster. 
+Just a map of The Isles of Scilly. I'll have to visit one day.  made with #rstats #rspatial #tmap #gdalio #rayshader https://t.co/9fePY9XkRv",4016856743,2021-11-12 17:29:02+00:00,en,4,1,38,0,Twitter Web App,3_1459211258788462594,https://pbs.twimg.com/media/FEAo6JxWQAIxolK.jpg,photo, ,Hugh Graham,hughagraham,False,676,465
+1459211410806820866,"Day 12: Population. This would be much cooler if I had the *actual* number of cranes per county. Instead, I am just showing number of cranes spotted in the 2021 crane count divided by human population. #30DayMapChallenge https://t.co/owNZKPMfCI",966993762,2021-11-12 17:28:05+00:00,en,1,0,3,0,Twitter for iPhone,3_1459211407916949505,https://pbs.twimg.com/media/FEApC1UWYAEfhEZ.jpg,photo, ,lily houtman,lilyhoutman,False,220,502
+1459211405157142538,"Day 11: 3D. I’m not going to lie, this isn’t the best 3D map ever. But I learned a new tool now, so hopefully the next will be better! This one is sandhill cranes only. #30DayMapChallenge https://t.co/STHsi2a7XP",966993762,2021-11-12 17:28:04+00:00,en,1,1,2,0,Twitter for iPhone,3_1459211401566773253,https://pbs.twimg.com/media/FEApCdqWYAUKOYc.jpg,photo, ,lily houtman,lilyhoutman,False,220,502
+1459211398047842309,Day 10: Raster. Playing catchup!!! Hard to work on the map challenge while also applying to grad school😅 #30DayMapChallenge https://t.co/MV8bEJyzhv,966993762,2021-11-12 17:28:02+00:00,en,1,1,2,0,Twitter for iPhone,3_1459211393887096833,https://pbs.twimg.com/media/FEApCBDX0AE3gGd.jpg,photo, ,lily houtman,lilyhoutman,False,220,502
+1459210724534857732,#30DayMapChallenge - Population https://t.co/IHg6oHJ31r,860108779471462400,2021-11-12 17:25:22+00:00,en,1,1,6,0,Twitter Web App,3_1459210594175918080,https://pbs.twimg.com/media/FEAoTd5XoAAWnNu.jpg,photo, ,Mind The Map,cpchabert,False,2799,1333
+1459210478157279243,"@Bruitparif #30DayMapChallenge 
+Day 12 - Population
+
+This is where people live versus study in the city.
+Housings buildings are in green, others in red (in grey when there is no information on @openstreetmap ) https://t.co/QgnaxYi7o6",3068008768,2021-11-12 17:24:23+00:00,en,0,1,2,0,TweetDeck,3_1459209651719970819,https://pbs.twimg.com/media/FEAncm-XIAMsNZ9.jpg,photo, ,CômeMS,Come_M_S,False,7,122
+1459209126559502341,Here's one for the #30DayMapChallenge blooper reel https://t.co/pNkkrHTBLz,2391754261,2021-11-12 17:19:01+00:00,en,1,0,9,0,Twitter Web App,3_1459208944732229641,https://pbs.twimg.com/media/FEAmzdPWUAk72Jv.jpg,photo, ,🌏Map of the Week,MapOfTheWeek,False,1071,370
+1459208775122915333,"Some capitals of adminstrative regions are quite distant to places people actually live. Something to keep in mind when sharing demographic info, especially in this time of pandemic.
+
+#30DayMapChallenge Day 12 - Population https://t.co/98k9Jdyg4k",2543362932,2021-11-12 17:17:37+00:00,en,1,0,5,0,Twitter Web App,3_1459208714628771840,https://pbs.twimg.com/media/FEAmmECaMAAIHHo.jpg,photo, ,Vajira,VajiraL,False,333,660
+1459205961403584516,#30DayMapChallenge day 12 (population): snapshot of the point at which I stop wasting time trying to Q*bert-ify gridded population data. https://t.co/HY1EZ2IEzo,17448055,2021-11-12 17:06:26+00:00,en,1,1,19,0,Twitter Web App,3_1459205299118784524,https://pbs.twimg.com/media/FEAjfQRXwAw7ozf.jpg,photo, ,Andy Woodruff,awoodruff,False,6696,580
+1459205822278422542,"Jour 11 et 12 du #30DayMapChallenge : 3D et Population
+
+Pas eu beaucoup de temps ces deux derniers jours donc voici une représentation en 3 dimensions de la population sur l'île de la Réunion à partir des données carroyées de l'INSEE
+
+Traitement avec #QGIS rendu avec #Aerialod https://t.co/fnsG8ngNbe",1311399091,2021-11-12 17:05:53+00:00,fr,11,0,44,1,Twitter Web App,3_1459205779676872715,https://pbs.twimg.com/media/FEAj7OfWQAsGM2a.jpg,photo, ,Lubin Picard,Lubin_Picard,False,342,197
+1459205625829863434,"I know it's a few days late but for #30DayMapChallenge  Day 5, I used @LeafletJS to render @mappedin demo mall just north of Waterloo, Ontario https://t.co/0fxehg29MV",258459576,2021-11-12 17:05:06+00:00,en,2,0,5,0,Twitter Web App,3_1459205454299639816,https://pbs.twimg.com/media/FEAjoSXXsAgCN3r.jpg,photo, ,Jere Suikkila,jeresuikkila,False,1043,1724
+1459204727296733196,"Day 10: Raster
+
+Orography of Mexico.
+
+Data: @awscloud 
+💻: https://t.co/wXGkAiXrHM
+
+#30DayMapChallenge #maps #mexico #raster #RStats https://t.co/Mfz1mBll2T",379176102,2021-11-12 17:01:32+00:00,en,2,0,5,0,Twitter Web App,3_1459204465299443718,https://pbs.twimg.com/media/FEAiuuDWUAYZYny.jpg,photo, ,D.,daniel_isita,False,1903,1298
+1459204648242331648,"#30daymapchallenge 
+
+Population https://t.co/v0IkVIMkrG",77623399,2021-11-12 17:01:13+00:00,en,27,11,214,8,TweetDeck,3_1459204630840164355,https://pbs.twimg.com/media/FEAi4WvVQAMG15_.png,photo, ,Dr. Peter Larson,pslarson2,False,998,1678
+1459204419174735887,#30DayMapChallenge Day 12 - POPULATION. Created using Cuebiq Workbench first party data. The Population Tree is built using GHS data. #locationdata #geospatial #businessintelligence https://t.co/HyfnbuTTeE,3165392218,2021-11-12 17:00:18+00:00,en,3,0,9,0,Sprout Social,3_1459204412702871562,https://pbs.twimg.com/media/FEAirqHWUAoz5vD.jpg,photo, ,Cuebiq,Cuebiq,True,1840,777
+1459203369755680775,"#30DayMapChallenge Day 12: Population
+Density of #population in #Mauritius with a #cartogram representation
+
+#anamorphose #qgis #indian #ocean https://t.co/Z8qtfxvVTu",730663860152217600,2021-11-12 16:56:08+00:00,en,0,1,2,0,Twitter Web App,3_1459203335827902478,https://pbs.twimg.com/media/FEAhs-cWUA4MVx_.jpg,photo, ,Sylvain POULAIN,GISCAN_LTD,False,208,457
+1459201893348036614,Follow @unfoldedic and use Unfolded Studios for your next #30daymapchallenge map! https://t.co/ece0uAJzcI,804341497441255424,2021-11-12 16:50:16+00:00,en,7,1,44,1,Twitter for Advertisers,3_1459200921926307844,https://pbs.twimg.com/media/FEAfgd9XEAQd3aL.png,photo, ,Foursquare,Foursquare,True,23862,1497
+1459201641186484225,"#30DayMapChallenge Day 12: Population
+A slightly strange looking cartogram of European population, made in R #RStats https://t.co/10na3S2Cx1",759988092,2021-11-12 16:49:16+00:00,en,4,2,16,0,Twitter Web App,3_1459201146405462017,https://pbs.twimg.com/media/FEAftiNXIAE2-Z2.jpg,photo, ,Matthew Law,Iawmatthew,False,201,89
+1459201560710299656,"I got my #30DayMapChallenge days mixed up and did tomorrow’s yesterday.
+
+Here’s a lazy non-plot showing population density around Wrocław where I was born. The data is by my colleague Andi Gros, and it’s the highest-res global population data available: https://t.co/SKhVmjU1y4 https://t.co/eiLdtMz9Yf",93046641,2021-11-12 16:48:57+00:00,en,1,1,8,0,TweetDeck,3_1459201439952080898,https://pbs.twimg.com/media/FEAf-nwVEAINMSb.png,photo, ,Michal Migurski,michalmigurski,False,4674,12
+1459199631670358024,"Estados do Brasil com a bandeira de suas respectivas cidades mais populosas. Apenas duas não capitais. Alguém advinha?
+@brflagmap
+ #30Daymapchallenge https://t.co/xsOeK7PY3c",1254286157363494917,2021-11-12 16:41:17+00:00,pt,1,1,4,0,Twitter Web App,3_1459199324659888128,https://pbs.twimg.com/media/FEAeDfrXsAAtp3z.jpg,photo, ,BRUNO WEISS,brunoweiss85,False,25,53
+1459199428980625408,#30DayMapChallenge Day12- Population. Visualised a segment of Croatia using https://t.co/1Y4QKfZh5X population data in Aerialod. https://t.co/FctXOJ0YyO,636238090,2021-11-12 16:40:29+00:00,en,1,2,3,0,Twitter Web App,3_1459199417970536450,https://pbs.twimg.com/media/FEAeI7SXMAIrY6j.jpg,photo, ,Simon Leech,simonmleech,False,98,231
+1459199087765557255,Like most of my recent forays into #30DayMapChallenge I really don't know where i'm going to end up. Today's population attempt got 3/4 close to where I wanted it. World Population (3 degrees grid) https://t.co/C3OMbEmfi7,134939026,2021-11-12 16:39:07+00:00,en,1,0,6,0,Twitter Web App,3_1459196874632708100,https://pbs.twimg.com/media/FEAb04nXwAQLWxs.png,photo, ,JonoPatterson,JonoPatterson,False,253,636
+1459197678840172549,"12. POP-CORN-ULATION
+
+Performance art map! Get corn kernels for every living human, set them to where they were born, and turn on the heat in order of each coming into existence. Record it and enjoy the world popping to life.
+
+Population – #30DayMapChallenge https://t.co/qFeSV5ko7o",481724987,2021-11-12 16:33:31+00:00,en,1,1,10,1,Twitter Web App,3_1459196844496543747,https://pbs.twimg.com/media/FEAbzIWWYAM_dYN.jpg,photo, ,Dylan Moriarty,DylanMoriarty,True,1832,1339
+1459197096574308355,"#30DayMapChallenge Day 1⃣2⃣: Population.
+
+No time to create new stuff, I'll share this @LeafletJS map showing the population in each municipality of the #CanaryIslands.
+
+Data from @es_INE and @IGNSpain 
+
+The interactive version here: https://t.co/F6lAL4V2XB https://t.co/HQC9ukvYK9",41654209,2021-11-12 16:31:13+00:00,en,0,1,4,0,Twitter Web App,3_1459197090349862922,https://pbs.twimg.com/media/FEAcBcOWUAoBQZr.jpg,photo, ,Charles,CharlesTroupin,False,1249,2646
+1459196955427545094,#30DayMapChallenge 2021 - Day 12: Population https://t.co/N9lyZC4Ibf,1180074260385206277,2021-11-12 16:30:39+00:00,en,1,1,9,0,Twitter for Android,3_1459196949253562376,https://pbs.twimg.com/media/FEAb5OmXoAgvyJv.jpg,photo, ,Aaron Koelker,AaronKoelker,False,236,283
+1459196758630846471,"Day 11 of #30DayMapChallenge  (I know it is a day late!)
+
+3D Map: Here I used #QGIS to contrast population levels (dark clouds overhead) with unemployment rates (coloured extruded areas below), Lower hanging clouds indicate higher populations. https://t.co/7cLrR0e2jC",38512725,2021-11-12 16:29:52+00:00,en,1,1,45,1,Twitter Web App,7_1459196037424459779,https://pbs.twimg.com/ext_tw_video_thumb/1459196037424459779/pu/img/kdDhjh5TrbV_MhV7.jpg,video, ,Tim Sutton,timlinux,False,6427,758
+1459196563306303490,#30DayMapChallenge 2021 - Day 11: 3D https://t.co/vWK1kjjXaa,1180074260385206277,2021-11-12 16:29:05+00:00,en,2,1,9,0,Twitter for Android,3_1459196555458760710,https://pbs.twimg.com/media/FEAbiTmX0AYS_SS.jpg,photo, ,Aaron Koelker,AaronKoelker,False,236,283
+1459195974736306179,"Today's #30DayMapChallenge is population. This map shows areas of Dublin that Gain (red) or Lose (grey) population during the day. The darker the colour the more pronounced the change.
+
+This is from @CSOIreland data for 2016, or 'the before times' https://t.co/FZZgEldMB8",21193285,2021-11-12 16:26:45+00:00,en,6,1,31,1,Twitter Web App,3_1459195658582347784,https://pbs.twimg.com/media/FEAauGeX0AgY1hi.jpg,photo, ,Richard Cantwell,ManAboutCouch,False,2309,2591
+1459194995072806924,"#30DayMapChallenge
+Day 12 - Population
+
+A populationd density map of cartography experts who actually use Gall-Peters in their everyday work, instead of Mercator. https://t.co/tk1v4YVuoz",51414990,2021-11-12 16:22:52+00:00,en,2,3,52,0,Twitter Web App,3_1459194733608288261,https://pbs.twimg.com/media/FEAZ4QrXwAUKzSx.png,photo, ,HD,HarelDan,False,3098,1227
+1459193771275468808,#30DayMapChallenge Population: reminder there is new US #Census data out there https://t.co/M0nAU2kZyH,2719547953,2021-11-12 16:18:00+00:00,en,2,0,9,0,Twitter Web App,3_1458876719125905408,https://pbs.twimg.com/media/FD74pYaWQAAq2R4.jpg,photo, ,Jesse Pisel,geologyjesse,False,652,328
+1459193267954733056,"#30DayMapChallenge Dia 12: Població
+Habitants per municipi del Baix Empordà i percentatge de població estacional segons l'Idescat.
+De la Bisbal marxa gent, Pals multiplica per dos la seva població, si contéssim hotels, càmpings, etc. seria tota la comarca. https://t.co/4FdO68LIBx",3501358169,2021-11-12 16:16:00+00:00,ca,1,0,5,0,Twitter Web App,3_1459187458101456899,https://pbs.twimg.com/media/FEATQxTXsAM5hho.jpg,photo, ,Víctor Coris,Victor_Celoni,False,32,127
+1459193205262630915,"We are late today, but here we are!
+
+#30DayMapChallenge - Day 12 - Population.
+
+A shaded relief map of Distribution of the population, 1870, USA. From @DavidRumseyMaps's collection. https://t.co/GtFdnm6uVY",1316116835327148035,2021-11-12 16:15:45+00:00,en,4,0,18,1,Twitter Web App,3_1459191773763411981,https://pbs.twimg.com/media/FEAXL-ZXIA0ODgp.jpg,photo, ,VizArt,hellovizart,False,1012,202
+1459190531666452492,"13. 'Natural Earth'
+
+One for the weekend, here's our next entry for the #30DayMapChallenge 🗺️
+
+Made by our Principal #GIS Consultant Edith, this map shows penguin populations around the globe 🐧
+
+A fitting end to the #COP26 fortnight!
+
+#GISchat #climate #conservation #habitat https://t.co/OVsIfIE8Cz",2295951570,2021-11-12 16:05:07+00:00,en,4,0,6,0,Hootsuite Inc.,3_1459190530001276931,https://pbs.twimg.com/media/FEAWDlBXEAMM6c3.jpg,photo, ,LUC,LUCtweeting,False,3639,874
+1459190371855093767,#30DayMapChallenge Day 12: Population - Cartograma da população indígena de Roraima por município e por Terra Indígena. Forma da área proporcional à quantidade de indígenas. https://t.co/tO6moITurN,1286062108493393931,2021-11-12 16:04:29+00:00,pt,0,0,5,0,Twitter Web App,3_1459190156754309123,https://pbs.twimg.com/media/FEAVt2kWUAMPlOW.jpg,photo, ,Citó,Art_Cito,False,12,133
+1459189271563321350,"Me this entire #30DayMapChallenge. Sorry, not sorry #mappymeme OC https://t.co/wlf3WJQNDJ",741653561314922496,2021-11-12 16:00:07+00:00,en,2,3,72,0,Twitter for Android,3_1459189270015586310,https://pbs.twimg.com/media/FEAU6PNXMAYKyLA.jpg,photo, ,Kate Berg 🥔🗺️,pokateo_,False,4306,2289
+1459187439885504520,"12. Population
+#30DayMapChallenge https://t.co/zVY0lFOAJd",807289,2021-11-12 15:52:50+00:00,en,1,2,12,1,Twitter for Android,3_1459187437457006600,https://pbs.twimg.com/media/FEATPkZWYAg-t1U.jpg,photo, ,Martin Kleppe,aemkei,False,8657,404
+1459186685347041285,"Day 12 - Population
+In 2021 COVID-19 become one of the top 3 causes of death in Ukraine. And that's data from January till August, so by the end of the year picture will be even worse.
+#30DayMapChallenge https://t.co/U87DPzFKDS",14196303,2021-11-12 15:49:50+00:00,en,2,1,12,1,Twitter Web App,3_1459186537720172548,https://pbs.twimg.com/media/FEASbMnX0AQyhy3.png,photo, ,yaroslav_sm,jaroslav_sm,False,152,93
+1459186290314944512,"#30DayMapChallenge (population) These may look like veins on a leaf, but it is actually roads and towns stretched between fields in southern #Vietnam. Some imagery from #Sentinel2 corrected with a script by Gregory Ivanov. https://t.co/w7wKHrxbTZ",822048926081712128,2021-11-12 15:48:16+00:00,en,1,2,28,0,Twitter Web App,3_1459185785874309120,https://pbs.twimg.com/media/FEARvbxWYAAgBP5.jpg,photo, ,Carl Churchill,Cchurchili,False,2696,1142
+1459184459907960835,"The mean centre of population of every ethnicity in Canada.
+
+#30DayMapChallenge Day 12 (Population). https://t.co/eSj4IcFRUP",851149914725916672,2021-11-12 15:41:00+00:00,en,44,20,310,12,Twitter Web App,3_1457206511927808004,https://pbs.twimg.com/media/FDkJmhvX0AQpwif.jpg,photo, ,Alex McPhee,ksituan,False,4010,189
+1459183650050875398,"#30DayMapChallenge 2021
+Day 12: Population - North American Skateparks 
+
+Slinky really wants to go on a skateboarding trip this summer so we are researching skateparks across North America. Going to be a loooooooooooooooooong winter if he keeps asking me when we skating https://t.co/XsbIFpZfKH",333524694,2021-11-12 15:37:47+00:00,en,1,6,24,0,Twitter Web App,3_1459183249553600513,https://pbs.twimg.com/media/FEAPbzPXsAEMObz.jpg,photo, ,Christopher Pollard,CRVanPollard,False,1233,1207
+1459182724808200197,"#30daymapchallenge 
+
+Population
+
+I'm so excited about the release of @taylorswift13 's new version of RED (*squeal*) that I again used @adastephenson 's TayloRswift package to color the population of Southeast Michigan cause... why not. https://t.co/wsqNkmTryX",77623399,2021-11-12 15:34:06+00:00,en,2,1,10,0,TweetDeck,3_1459182220220850179,https://pbs.twimg.com/media/FEAOf4rUYAMzykA.png,photo, ,Dr. Peter Larson,pslarson2,False,998,1678
+1459182714918211594,"#30DayMapChallenge Day 12 Population
+
+Dogs vs Cats
+
+% population with either a dog or a cat in the household
+
+#QGIS #osopen https://t.co/JwS04YPsbU",223959960,2021-11-12 15:34:04+00:00,en,1,0,10,0,Twitter Web App,3_1459182083256070146,https://pbs.twimg.com/media/FEAOX6cXsAI_KWe.jpg,photo, ,Kirsten Reilly,_penguin_runner,False,415,1220
+1459182564216868877,"#30DayMapChallenge Day 12: Population
+Effects of measured flood risk and sea level rise model for the population of East Anglia: Ordnance Survey settlement vulnerability vs. Office for National Statistics index of deprivation, bivariate maps as a swipe map. https://t.co/VrLjfB6nZp",25663399,2021-11-12 15:33:28+00:00,en,1,0,8,0,Twitter Web App,3_1459182345492250624,https://pbs.twimg.com/media/FEAOnLWWQAAULpv.jpg,photo, ,Andrew Zolnai,azolnai,False,919,1526
+1459181900577361927,"4. Population – 21st century Hänsel &amp; Gretel! 🧙‍♀️
+
+For today’s #30DayMapChallenge topic #population I took a screenshot from my location-based social media dashboard. Public social media traces just like in Hänsel &amp; Gretel🥨 https://t.co/rnxYrLUEgW #gischat #leaflet #geo #gis https://t.co/UbOlQlPcsd",1401802995726270465,2021-11-12 15:30:50+00:00,en,1,0,5,0,Twitter Web App,3_1459181756624605185,https://pbs.twimg.com/media/FEAOE5pXEAESZGg.jpg,photo, ,Dominik Weckmüller,DomeGIS,False,0,9
+1459181692212678656,"Population: Map showing the total number of occurrences of modern slavery across Brazil from 2003-2018 as identified through labour inspections. Data at this resolution regarding #modernslavery are rare, and Brazil is one of very few examples where exists. #30DayMapChallenge https://t.co/e2OkAqNvLD",717816955,2021-11-12 15:30:00+00:00,en,7,1,17,0,TweetDeck,3_1451537037300047881,https://pbs.twimg.com/media/FCTlPq6XoAkh61O.jpg,photo, ,Dr Beth Jackson,BethJackson1x,False,497,895
+1459181012852817929,"Day 13 - Natural Earth issues - The idea was to geocode the text contents of NE’s github issues. But the geocoder found MANY irrelevant locations, and the map is filled with misleading places. #NaturalEarth
+https://t.co/ozrNTPr0LJ
+#30DayMapChallenge #givemeabreak https://t.co/Uuf2iTlDfZ",201856958,2021-11-12 15:27:18+00:00,en,1,1,6,0,TweetDeck,3_1459180666772459537,https://pbs.twimg.com/media/FEANFdoXEBEomON.png,photo, ,Fil,recifs,False,2672,2495
+1459180104769314816,"#30DayMapChallenge Day 12: Population
+Population density in #Bournemouth #Christchurch #Poole #BCP 
+Data from @ONS SAPE, made in #QGIS and #Qgis2threejs Basemap ESRI Grey (light) #GIS https://t.co/NkPRWwDEa3",1074378707438055426,2021-11-12 15:23:41+00:00,en,0,0,5,0,Twitter Web App,3_1459179412566511644,https://pbs.twimg.com/media/FEAL8dWXEBwfVsb.jpg,photo, ,Blandford Bread 💙,BlandfordBread,False,575,1078
+1459178912358014980,"Day 12: Population
+
+I used @stats_canada's census data at the closest equivalent I could find to @uscensusbureau's block groups, and made a dotmap of the ~2 million folks in #MTL. 
+
+Shout to the @postgis ST_GeneratePoints() function 🙏 #30DayMapChallenge https://t.co/KQYW4WRswL https://t.co/hFqlcqt2Lc",278873782,2021-11-12 15:18:57+00:00,en,4,1,27,1,Twitter Web App,3_1459178075745398787,https://pbs.twimg.com/media/FEAKupTXsAMW3Sm.jpg,photo, ,Map/,vtcraghead,False,3747,915
+1459176874198843392,"#30DayMapChallenge outtakes, #442: https://t.co/gmav16nS3n",278873782,2021-11-12 15:10:51+00:00,en,1,0,2,0,Twitter Web App,3_1459176857362960416,https://pbs.twimg.com/media/FEAJnueXECAdu9q.jpg,photo, ,Map/,vtcraghead,False,3747,915
+1459176796436541444,"#30DayMapChallenge - Jour n°12 - Population : Densité de population en Équateur.
+
+De la ""Costa"" à l'ouest jusqu'à ""l'Oriente"" à l'est (Amazonie équatorienne), en passant par la ""Sierra"" (Andes). https://t.co/cfqEHLhj5K",2292626036,2021-11-12 15:10:33+00:00,fr,2,0,14,0,Twitter Web App,3_1459176435592138782,https://pbs.twimg.com/media/FEAJPLQXEB422l5.jpg,photo, ,Romain Mejean 🌍,r_mejean,False,892,1820
+1459176675527172098,Day 12 of the #30DayMapChallenge is a map of Polish ancestry as percent of total #population in selected Midwestern counties. 🇵🇱 🇺🇸 https://t.co/TOfY71M7cw,3906146132,2021-11-12 15:10:04+00:00,en,5,2,29,0,Twitter for iPhone,3_1459176660750716929,https://pbs.twimg.com/media/FEAJcSCWUAEF66M.jpg,photo, ,Justyna Goworowska,JGoworowska,False,265,348
+1459176348065402894,"#30DayMapChallenge Day 8. Blue
+
+'Blue scale' 🔷
+
+Nice blue color scale. A section of Glen Canyon (Utah and Arizona), and a zone in North Canada.
+
+Live: https://t.co/UctI6KVQZQ
+
+Data: USGS Glen Canyon, Canada Open Maps
+
+#SNAP #QGIS https://t.co/YfGiTwuDjS",1082711230459060224,2021-11-12 15:08:46+00:00,en,2,1,5,0,Twitter Web App,3_1459176303551299597,https://pbs.twimg.com/media/FEAJHfXXwA0wCum.png,photo, ,MapTheClouds,maptheclouds,False,393,456
+1459175239187894286,Day 12 of the #30DayMapChallenge is population. We've started a project at @GeographyUGA to digitize records from the 1940 census in Athens. Here's an early map of racial classification for hh in E. Athens. Size = number of residents. More info here: https://t.co/hP5ZeWGenL https://t.co/9wGtLCuPjj,13215962,2021-11-12 15:04:21+00:00,en,1,0,17,0,Twitter Web App,3_1459175016021602304,https://pbs.twimg.com/media/FEAH8i8XsAA3sAY.jpg,photo, ,Jerry Shannon,jerry_shannon,False,2101,1678
+1459174700521828352,"#30DayMapChallenge Day12-Population 
+
+Selenium (Se) status of the Malawi population:- median unbiased predicted plasma Selenium concentration of women of reproductive age. 
+
+Credits: Phiri et al. - https://t.co/DBW7xvGqLs
+@GeostatLark @martinbroadley @GeochemAnder  @edward_joy1 https://t.co/tXy1wlz0Gy",1188470725759422465,2021-11-12 15:02:13+00:00,en,4,0,17,0,Twitter Web App,3_1459174413253976065,https://pbs.twimg.com/media/FEAHZddXoAEATVj.jpg,photo, ,Micronutrient Action Policy Support (MAPS),mnd_support,False,61,708
+1459174153270005764,"Day 12 of #30DayMapChallenge: Population. While all the maps I'm posting this month are of Census data, one of my favorites in the book is the ""geo-faceted"" map of population pyramids by state thanks to @hafenstats' geofacet #rstats package: https://t.co/uGtbDFzEFF https://t.co/hAvmbhqRcE",144529492,2021-11-12 15:00:02+00:00,en,4,0,21,0,Twitter Web App,3_1456639503465123843,https://pbs.twimg.com/media/FDcF6SnXEAMf9jf.png,photo, ,Kyle Walker,kyle_e_walker,False,4943,384
+1459173535767744513,"⬆️#30DayMapChallenge #Population
+Favela da Rocinha slum, growth since 1974 over
+@Soar_Earth 's USGS Declassified Spy collection:
+shared measurements and annotations https://t.co/bK4gStdKoA",880148317468061697,2021-11-12 14:57:35+00:00,en,1,0,4,0,Twitter Web App,3_1459173068182626309,https://pbs.twimg.com/media/FEAGLKrXoAUVBaI.jpg,photo, ,Sérgio OSMsmaprs,sergioajv1,False,1230,707
+1459173409900797952,"#30DayMapChallenge Day 12: Population
+""Planets, moons, and selected objects in space scaled by population"" [still] https://t.co/F9qNUkbQma",20668314,2021-11-12 14:57:05+00:00,en,10,7,120,0,Twitter for Android,3_1459173407325622274,https://pbs.twimg.com/media/FEAGe6FXEAIDrMt.jpg,photo, ,Kenneth Field,kennethfield,False,15894,99
+1459173279185313794,"#30DayMapChallenge Day 12: Population
+""Planets, moons, and selected objects in space scaled by population"" https://t.co/E5N6DKoicb",20668314,2021-11-12 14:56:34+00:00,en,1,0,7,0,Twitter for Android,7_1459173214236844033,https://pbs.twimg.com/ext_tw_video_thumb/1459173214236844033/pu/img/aRw6gd1zCdvnHHCn.jpg,video, ,Kenneth Field,kennethfield,False,15894,99
+1459172988583088155,"Day 12 - Population
+
+Population projections: increase in median age in Europe in 2070 (Years)
+
+Data: https://t.co/xbnfXrTB5s
+
+#30DayMapChallenge 
+#Europe 
+#demography https://t.co/K1U3vpPZWX",2555652062,2021-11-12 14:55:25+00:00,en,1,0,4,0,Twitter Web App,3_1459171998593126416,https://pbs.twimg.com/media/FEAFM6JXEBALi5S.jpg,photo, ,Rodolfo Roseto,rodolforoseto,False,147,764
+1459172868798005249,"#30DayMapChallenge #Population
+🌇Favela da Rocinha slum 🇧🇷 growth since 1974
+@Soar_Earth 's USGS Declassified Spy colection
+The platform is great for sharing 
+georeferenced maps🗺️, as with partners, discuss, measure, annotate, etc. Browse and try it at
+🧐➡️https://t.co/IcB0LcdA2P https://t.co/b3qCrXIPXY",880148317468061697,2021-11-12 14:54:56+00:00,en,4,1,11,0,Twitter Web App,16_1459170206513827841,https://pbs.twimg.com/tweet_video_thumb/FEADkmIXEAEdTZr.jpg,animated_gif, ,Sérgio OSMsmaprs,sergioajv1,False,1230,707
+1459170580276645914,"I'm more than half way to my survey response goal! If you have a minute to share your opinions about FOOD in my super short survey I would appreciate it! Responses will be used for #GISday and the #30DayMapChallenge. 
+survey link https://t.co/nG5zWBPzlQ https://t.co/C1ZLa3LmSA",1458573550302924801,2021-11-12 14:45:51+00:00,en,0,0,1,0,Twitter Web App,16_1459170574983434257,https://pbs.twimg.com/tweet_video_thumb/FEAD6CyXEBEqVuq.jpg,animated_gif, ,Meredith DiMattina,MeredithDiMatt1,False,0,0
+1459169443444101141,"#30DayMapChallenge  12: Population
+2019 Opioid Death Population per 100K by State
+Influenced by Dopesick Series #DopesickHulu
+https://t.co/emj6mv0JDt
+#rspatial #rstats @markdonovan2020 https://t.co/8zu5RhOaz9",3094607959,2021-11-12 14:41:20+00:00,en,2,0,3,0,Twitter Web App,3_1459169371079819264,https://pbs.twimg.com/media/FEACz95XwAAbWt0.jpg,photo, ,donojazz,donojazz62220,False,14,225
+1459168605543796745,"#30DayMapChallenge Day 12 Population
+
+I have been working on a family tree and organizing my family photos after inheriting them a few years ago. For the inside cover I wanted to create a map of where and how we grew. So this is a population map of one family over 5 generations. https://t.co/1WVqgXMvyM",117610391,2021-11-12 14:38:00+00:00,en,1,3,18,0,Twitter for iPhone,3_1459168600175124486,https://pbs.twimg.com/media/FEACHGDXoAY5k3Z.jpg,photo, ,laura,LauraSmithCarto,False,73,100
+1459168097529581570,"Airport expansion, reclamation, mangrove dieback, and sedimentation were seen from space. 
+🛰Sentinel-2 True color
+#30DayMapChallenge 
+@sentinel_hub @CopernicusEU https://t.co/mX42wjvPhK",188770253,2021-11-12 14:35:59+00:00,en,6,0,7,0,Twitter Web App,16_1459165481475407877,https://pbs.twimg.com/tweet_video_thumb/FD__Rj_agAUT--1.jpg,animated_gif, ,Fully Pfizer Vaxxed 💉,mandanggg,False,584,523
+1459168094258176000,"#30DayMapChallenge Day 12: Population - Arctic Settlements, a first try at Firefly Cartography https://t.co/YrmTS3qOf1",2391754261,2021-11-12 14:35:58+00:00,en,1,0,5,0,Twitter Web App,3_1459167692750000137,https://pbs.twimg.com/media/FEABSRoXEAkwLVK.jpg,photo, ,🌏Map of the Week,MapOfTheWeek,False,1071,370
+1459167211591909381,"#30DayMapChallenge 
+Day 12 - Population
+Range, Habitat and Population Trends of the California Condor https://t.co/rMKKabjxSS",748038863206088704,2021-11-12 14:32:27+00:00,en,1,2,16,0,Twitter Web App,3_1459165629882138628,https://pbs.twimg.com/media/FD__aM2VgAQUNZN.jpg,photo, ,Shannon Gonzales 🐙(she/her),yavannie24,False,556,1000
+1459166360286625797,"Airplane maps include a landcover composite of summer images from the last 3-5 years.
+
+Fixed it. #30DayMapChallenge https://t.co/VzLiA0c3D6",25927015,2021-11-12 14:29:04+00:00,en,2,0,3,0,Twitter for Android,3_1459166334885908485,https://pbs.twimg.com/media/FEAADPMVUAUPcK4.jpg,photo, ,Kelsey Aho,Kelsey_Aho,False,499,832
+1459166340464484356,"Migration patterns in the US, swipe to compare 2014-2015 with 2018-2019. https://t.co/PW0V7OTf9n Fascinating to look at TX and CA over time for #30DayMapChallenge day 12: population
+
+Data: IRS. Made with @unfoldedinc https://t.co/Sq4o7MQRUV",53135103,2021-11-12 14:29:00+00:00,en,5,0,26,1,Twitter Web App,7_1459151993230950400,https://pbs.twimg.com/ext_tw_video_thumb/1459151993230950400/pu/img/-BfqkBxzsuwaWdLp.jpg,video, ,Isaac Brodsky,IsaacBrodsky,False,275,729
+1459166128345919497,"Coincidentally, @dave_newbould tweeted a photo of Calgary Beach yesterday and I also found an earlier one in a tweet from @geologymull
+
+Both of which are better than my photo, which I attached to my #30DayMapChallenge tweet, in showing what a beautiful beach Calgary has https://t.co/AMCbetidr7",1033206985,2021-11-12 14:28:09+00:00,en,1,0,5,0,Twitter Web App,3_1459164872927813633,https://pbs.twimg.com/media/FD_-uI-XIAEFl6t.jpg,photo, ,Phil Tarr,CasegFraith,False,523,862
+1459164390624739339,"Day 14: Colombian glaciers extinct in the 20th century
+#GlobalWarming 
+#30DayMapChallenge https://t.co/QPaahXFB5p",1458114928670388231,2021-11-12 14:21:15+00:00,en,34,1,62,3,Twitter Web App,3_1459164310429700120,https://pbs.twimg.com/media/FD_-NZgXEBghws4.jpg,photo, ,Maps of Colombia - Mapas de Colombia,ColombianMaps,False,5601,20
+1459164143274102791,"#30DayMapChallenge Day 12 : Population
+
+Population map of Monowi, Nebraska.
+1 dot = 1 person
+
+#rstats {snapbox} 
+code : https://t.co/V0XwXaRxkd https://t.co/GQ0oSe2i3i",4345403860,2021-11-12 14:20:16+00:00,en,4,0,9,0,Twitter Web App,3_1459163817053728772,https://pbs.twimg.com/media/FD_9wriXMAQ9l-V.jpg,photo, ,Simon Coulombe,CoulSim,False,1747,562
+1459164140748955659,"#30DayMapChallenge Day 12 - Population
+
+#Joyplot of population and elevation of #Taiwan. Most people live in the coastal cities and you rarely find people living in mountainous areas.
+
+Made with #RStats using #ggridges https://t.co/AqBsv2s38V",985921631439568896,2021-11-12 14:20:15+00:00,en,66,8,523,6,Twitter for iPhone,3_1459164130456195076,https://pbs.twimg.com/media/FD_-C7DVUAQrMah.jpg,photo, ,Kenneth Wong,Kenneth_KHW,False,308,259
+1459164076018311171,"Población en España
+Day 12 of #30DayMapChallenge 
+https://t.co/KdOwd32EaH https://t.co/YlHRxVYyCU",364201719,2021-11-12 14:20:00+00:00,es,1,0,4,0,Twitter Web App,3_1458877527015972867,https://pbs.twimg.com/media/FD75YaCWYAMhwyB.jpg,photo, ,Libertad,LibertadChC,False,496,702
+1459163608609439745,"Day 12 of #30daysmapchallenge - Population. 
+Our interactive map shows the population density of Hamburg, alternating between the different age groups. 
+#TargomoLOOP #maps #locationintelligence #30daymapchallenge https://t.co/XKKEQogXMO",4200489867,2021-11-12 14:18:08+00:00,en,3,0,9,0,HubSpot,16_1459163573633044482,https://pbs.twimg.com/tweet_video_thumb/FD_9iguWUAI7WQ3.jpg,animated_gif, ,Targomo,targomo,False,1339,1648
+1459163069188173829,"#30DayMapChallenge Day 12: Population!
+
+For my second population map of the week, I moved slightly eastward to Massachusetts to visualize population density per census block group.
+
+Code (in #rstats ) is at 
+https://t.co/nnOgNgW0OG https://t.co/ODpS9MLnin",942194832491122688,2021-11-12 14:16:00+00:00,en,3,1,8,0,TweetDeck,3_1457904856484782082,https://pbs.twimg.com/media/FDuEvh8XoAIdAae.jpg,photo, ,Mike Mahoney,MikeMahoney218,False,1056,530
+1459162817773273090,"🗺️ En el día 12 del #30DayMapChallenge, te compartimos el mapa digital que corresponde a la población total, según municipio, de acuerdo con los datos del censo nacional de población y vivienda del @DANE_Colombia
+
+Encuéntralo en 👉 https://t.co/YWt4QFdBz5 https://t.co/qWDrXS3qEm",124492052,2021-11-12 14:15:00+00:00,es,13,0,28,0,Twitter Web App,3_1459160430635585545,https://pbs.twimg.com/media/FD_6rkJXEAkK_4x.jpg,photo, ,Instituto Geográfico Agustín Codazzi - IGAC,igacColombia,True,62883,2159
+1459162258492305412,"Day 9- #30DayMapChallenge 
+Theme: Monochrome. 
+
+National Road Network in different grey shades. Road Network data derived from Ordnance Survey. https://t.co/ZfyVi4vjJq",2149588681,2021-11-12 14:12:47+00:00,en,1,1,8,0,Twitter for Android,3_1459162256068038670,https://pbs.twimg.com/media/FD_8V0aX0A4Nt9f.jpg,photo, ,Claire Powell,Pow__C,False,110,229
+1459162095291875334,"Day 9- #30DayMapChallenge 
+Theme: Monochrome. 
+
+National Road Network in different grey shades. Road Network data derived from Ordnance Survey. https://t.co/mCwqt72J9q",2149588681,2021-11-12 14:12:08+00:00,en,1,1,1,0,Twitter for Android,3_1459162092674719745,https://pbs.twimg.com/media/FD_8MTuXoAENsQg.jpg,photo, ,Claire Powell,Pow__C,False,110,229
+1459161446118567938,"It’s day 12 of the #30DayMapChallenge, my population #map shows the nearest #texasstatepark and the population it directly serves. Cedar Hill is the closest park for over 5 million people while Big Bend Ranch directly serves less than 10,000. #cartography https://t.co/RTOlInutRM",1381622356406382595,2021-11-12 14:09:33+00:00,en,3,0,19,1,Twitter for iPhone,3_1459161435783811080,https://pbs.twimg.com/media/FD_7mEnX0Ag9E1d.jpg,photo, ,Rick “Hapooma”,Parks_and_Rick,False,54,281
+1459160986733232134,"Day 8- #30DayMapChallenge 
+Theme: Blue. 
+
+Relative Happiness estimates across England using Office for National Statistics Wellbeing data. https://t.co/qd27PkYwO4",2149588681,2021-11-12 14:07:43+00:00,en,1,0,2,0,Twitter for Android,3_1459160984535408645,https://pbs.twimg.com/media/FD_7LzlXoAU4lZv.jpg,photo, ,Claire Powell,Pow__C,False,110,229
+1459160878490824708,"Day 8- #30DayMapChallenge 
+Theme: Blue. 
+
+Relative Happiness estimates across England using Office for National Statistics Wellbeing data. https://t.co/NCWmt1ZhnI",2149588681,2021-11-12 14:07:17+00:00,en,1,1,2,0,Twitter for Android,3_1459160875827400706,https://pbs.twimg.com/media/FD_7FenXEAIv5oM.jpg,photo, ,Claire Powell,Pow__C,False,110,229
+1459160229883662344,"Day 7- #30DayMapChallenge 
+Theme: Green. 
+
+A supervised classification displaying Trees, Agriculture, Grass, Soil, Water and Impervious Surfaces using the open source i-Tree Canopy application. https://t.co/v4HoGUOswH",2149588681,2021-11-12 14:04:43+00:00,en,1,0,1,0,Twitter for Android,3_1459160226775642117,https://pbs.twimg.com/media/FD_6fstXMAU3A00.jpg,photo, ,Claire Powell,Pow__C,False,110,229
+1459160217774661634,Here's also some time series for the Danish residents/citizens with Bulgaria as a country of origin. Data @DSTdk #30DayMapChallenge Day 12: Population https://t.co/QKFIfBbssQ,223123391,2021-11-12 14:04:40+00:00,en,1,0,2,0,Twitter Web App,3_1459159543485812738,https://pbs.twimg.com/media/FD_537QX0AIueJA.jpg,photo, ,Denitza Voutchkova,DenitzaV,False,263,259
+1459160133632733190,"#30daymapchallenge.
+
+Day 12:  Population 👥
+
+#cartography #mapping #maps #population #westafricancoast #populationprojection #gis #gismapping
+
+The West African Coastal Vulnerability Map by our volunteer Samuel Akinnusi https://t.co/43Xzegs4xF",1255575072301088770,2021-11-12 14:04:20+00:00,en,0,0,5,0,Twitter Web App,3_1459160125118332932,https://pbs.twimg.com/media/FD_6ZyAXwAQ1eP_.jpg,photo, ,GIS-E,GISE50189808,False,57,21
+1459160109490257921,"Day 7- #30DayMapChallenge 
+Theme: Green. 
+
+A supervised classification displaying Trees, Agriculture, Grass, Soil, Water and Impervious Surfaces using the open source i-Tree Canopy application. https://t.co/dTMfSKZTxS",2149588681,2021-11-12 14:04:14+00:00,en,1,1,2,0,Twitter for Android,3_1459160106092974081,https://pbs.twimg.com/media/FD_6YrIX0AEu3RR.jpg,photo, ,Claire Powell,Pow__C,False,110,229
+1459160053001433092,"#30DayMapChallenge day 12: population
+
+#Leipzig now has approx. 125.000 more inhabitants than 20 years ago. 
+Data: Ordnungsamt Leipzig https://t.co/ZeZdkE13o5",1049757274649051137,2021-11-12 14:04:01+00:00,de,1,0,3,0,Twitter Web App,3_1459159559457619972,https://pbs.twimg.com/media/FD_542wWQAQuff7.jpg,photo, ,Vincent Haburaj,jjvhab,False,26,74
+1459159474762096650,"Day 12: Population #30DayMapChallenge 
+Our Bulgarian elections are on Sunday, so I wanted to know how many of us live in DK. Data: @DSTdk 
+Voting age is 18; ~81% are 20+ y old (data in 5/10 y groups). Some gave up BG nationality, but how many?   In total 675 have DK citizenship. https://t.co/l3S32LnraD",223123391,2021-11-12 14:01:43+00:00,en,2,1,7,0,Twitter Web App,3_1459156700452335619,https://pbs.twimg.com/media/FD_3ScIXsAM-YH2.jpg,photo, ,Denitza Voutchkova,DenitzaV,False,263,259
+1459157174203129859,Day 12 #Population percentage of households in poverty by constituency.  #30DayMapChallenge https://t.co/OzSa5LjxuF,782161298,2021-11-12 13:52:34+00:00,en,2,1,4,0,Twitter Web App,3_1459156872972443648,https://pbs.twimg.com/media/FD_3ce0XoAAovx-.jpg,photo, ,Neil Harris 'UO web',Neil_py_harris,False,280,290
+1459155611623440390,"Another animal population map! Australia's cattle industry often makes headlines thanks to its substantial carbon footprint. Here's a dasymetric dot map showing almost 18 million of Australia's 25 million cattle.
+
+#30DayMapChallenge Day 12: Population https://t.co/PbPENWyhrZ",834726260232245249,2021-11-12 13:46:22+00:00,en,2,0,6,0,Twitter Web App,3_1459155096315449344,https://pbs.twimg.com/media/FD_11EQVUAAcR5x.jpg,photo, ,Alan Thomas,atlight_alan,False,4,31
+1459155240930869249,"#30DayMapChallenge 
+Day 12, Population https://t.co/qeVD6cW2Fq",1294659257288110081,2021-11-12 13:44:53+00:00,en,1,0,3,0,Twitter Web App,3_1459154913372491778,https://pbs.twimg.com/media/FD_1qavVUAI-ZP4.jpg,photo, ,Keshav Raj Bhusal,AbhayMapper,False,9,88
+1459154498111381519,"World Population - 
+#30DayMapChallenge - Day 12 -  Population.
+Experimental cartogram made in #RStats and #Blender3d. Keeping it minimalistic today.
+ #b3d #map #world #population #SDGs #dataviz #rspatial 1/n https://t.co/UANgoJ9uE6",1186202364,2021-11-12 13:41:56+00:00,en,42,4,312,4,Twitter Web App,3_1459153621199818762,https://pbs.twimg.com/media/FD_0fNBXEAocAeC.jpg,photo, ,Julian Hoffmann,Julian_H0ffmann,False,696,1943
+1459152286094172171,"#30DayMapChallenge Day 12: Population
+A prototype we're working on for presenting @Census2021 population stats. Select a cross-section of the population and see how it compares to the population at large. (NOTE: THIS DEMO DOES NOT USE ACTUAL DATA) https://t.co/sc2UVjrs6o https://t.co/uQS4uygtze",491313936,2021-11-12 13:33:09+00:00,en,4,1,8,0,Twitter Web App,16_1459152249318514694,https://pbs.twimg.com/tweet_video_thumb/FD_zPWXXoAYN64r.jpg,animated_gif, ,Ahmad Barclay,bothness,False,2828,644
+1459146784069070848,"Rama Setu - underwater limestone ""bridge"" connecting #India and #SriLanka. False color image captured by #Sentinel2 in October 2019. Multiplied bands 8,4,3 with small contrast correction. Data processed in @sentinel_hub
+
+#30DayMapChallenge https://t.co/sHv3dSKrqE",1368902640181145600,2021-11-12 13:11:17+00:00,en,2,0,22,0,Twitter Web App,3_1459146691471450132,https://pbs.twimg.com/media/FD_uL1xXoBQgzfw.jpg,photo, ,kosmi,kosmi64833127,False,487,200
+1459145851692097548,"#Galicia,  una auténtica nebulosa de 
+ asentamientos.
+
+Densidad de población en #Galicia (España) efecto imagen del satélite. Obtenido por interpolación
+Fuente: ""Población España (V.o)""  @IGNSpain 
+
+#30DayMapChallenge Day 12 - Population https://t.co/r44zVlMLhx",1294723270932156419,2021-11-12 13:07:35+00:00,es,3,1,3,0,Twitter Web App,3_1459144749433110540,https://pbs.twimg.com/media/FD_sazHWQAwdDcA.jpg,photo, ,Francisco Pareja,FranParejaLopez,False,1466,621
+1459139757200621573,"Day 12 (population) #30DayMapChallenge: together with @eestistatistika, we built a #COVID19 mobility dashboard to help assess the impacts of government regulations in Estonia. Explore the dashboard here: https://t.co/Od7RmAOcgl
+#maps #dataviz #bigdata #mobiledata https://t.co/nBEKbP9hDL",34737662,2021-11-12 12:43:22+00:00,en,0,0,6,0,Twitter Web App,7_1459138584024424464,https://pbs.twimg.com/ext_tw_video_thumb/1459138584024424464/pu/img/9ugYXfWXZl7Rojf6.jpg,video, ,Positium,positium,False,471,335
+1459138270047129601,"#30DayMapChallenge Day 12 - Population
+Population density of neighbourhoods in the Netherlands
+Made this quickly in the #GIS class this morning. Software: #QGIS
+#OpenData: @statistiekcbs https://t.co/yGjdLZv7Tv",760094405369946112,2021-11-12 12:37:27+00:00,en,3,0,61,0,Twitter Web App,3_1459137867918331911,https://pbs.twimg.com/media/FD_mKPeX0Acc-E_.jpg,photo, ,Hans van der Kwast,hansakwast,False,4221,1317
+1459138211410808840,"Hey, everyone! This is my frist time in twitter, and I have something to share :)
+
+#30DayMapChallenge 
+#unitartu
+#GemMSc https://t.co/xjC6hIe3K2",1459136080230367246,2021-11-12 12:37:13+00:00,en,0,0,1,0,Twitter Web App,3_1459137562711412740,https://pbs.twimg.com/media/FD_l4efX0AQALYJ.jpg,photo, ,Николай Козловский,NikolayKozlovsk,False,0,1
+1459136396795461698,Let's get back to Aerialod and its fabulous (and almost effortless!) rendering. 2020 Italian Population density for Day 12 of #30DayMapChallenge... Exciting to see all those spikes corresponding to the most populated cities! 🌆 https://t.co/85Jvqd5nbe,148715617,2021-11-12 12:30:01+00:00,en,3,0,27,0,TweetDeck,3_1458441170325999624,https://pbs.twimg.com/media/FD1shGsWEAgRnRo.jpg,photo, ,Federica Gaspari,fede_gaspari,False,531,399
+1459136232504573969,"#30DayMapChallenge 
+Day 12 - Population
+
+Distribution of the Umbanda and Candomblé population in Brazil
+Database: IBGE - Demographic Census 2010
+By: Lucas de Morais Teixeira
+
+#QGIS #Umbanda #Candomble #Brazil #Religion #Geography #census_data #IBGE #distribution https://t.co/jZWy2KhzF0",1027773119208062982,2021-11-12 12:29:21+00:00,pt,0,0,2,0,Twitter Web App,3_1459136107577229354,https://pbs.twimg.com/media/FD_kjxsWQCob-ib.jpg,photo, ,Lucas Morais Teixeira,lucaobala_,False,56,264
+1459134772777791488,"Distribution of population worldwide.
+Day 12 of #30DayMapChallenge: population https://t.co/FZfb1NZf2t",26062194,2021-11-12 12:23:33+00:00,en,4,1,19,1,Twitter Web App,3_1459134344363184128,https://pbs.twimg.com/media/FD_i9JNXEAAdRXz.jpg,photo, ,Patrick Mast,patrick_mast,False,58,136
+1459134522637930501,"#30DayMapChallenge jour 12 : population. Quelques sommets de la cordillère sociale en France. Les chiffres indiquent les licenciements prévus ou en cours dans de nombreuses entreprises, les villes qui dépendent et sur la côte les centres de décision. Parue dans @CQFDjournal 06/21 https://t.co/qE4hGpOby9",1189967197730430977,2021-11-12 12:22:34+00:00,fr,4,1,10,0,Twitter for Android,3_1459134513326473256,https://pbs.twimg.com/media/FD_jG-pWQCg5sDJ.jpg,photo, ,Julien Dupont Kobri,Kartokobri,False,877,387
+1459132607359242241,"#30DayMapChallenge 2021 Day 12: Population
+
+While driving around Mull in 2017, I came across a hamlet called Calgary, with a beautiful beach, which prompted today's map
+
+Read the about it at https://t.co/yslpGSBXuQ
+
+Not many large cities have names that derive from hamlets! https://t.co/xIpI6YqbYy",1033206985,2021-11-12 12:14:57+00:00,en,1,1,3,0,Twitter Web App,3_1459132603273986049,https://pbs.twimg.com/media/FD_hXzJWQAE3u9i.jpg,photo, ,Phil Tarr,CasegFraith,False,523,862
+1459129433789448192,"#30DayMapChallenge Day 12 - Population. Using population data in Podaris to answer 'how many residents can cycle to bike stands or lockers in Manchester, England in 5 minutes or less?'
+
+https://t.co/LKYDGBTtPT https://t.co/pyGVGTZYMg",1322134106,2021-11-12 12:02:20+00:00,en,1,0,7,0,TweetDeck,3_1459128141121789952,https://pbs.twimg.com/media/FD_dUEVXIAAchxe.jpg,photo, ,Podaris,Podaris,False,477,817
+1459129154868285442,"12. 'Population'
+
+We've reached the end of our second week participating in the #30DayMapChallenge! 🗺️
+
+Today's map was made by our #GIS Consultant James, which visualises global population growth to the year 2050 🌐
+
+#GISchat #maps #mapping #population #dataviz #socioeconomics https://t.co/B8qfm1g6LE",2295951570,2021-11-12 12:01:14+00:00,en,3,0,3,0,Hootsuite Inc.,3_1459129153266016257,https://pbs.twimg.com/media/FD_eO-3WYAEYTNs.jpg,photo, ,LUC,LUCtweeting,False,3639,874
+1459128853356449793,"#30DayMapChallenge Day 12, Population! Made with data from @DVRPC Open Data Portal. 
+Inspired from @CRVanPollard &amp; co's:
+https://t.co/KPlmQ8fdkr
+Made with https://t.co/9bMq4iM64t https://t.co/eXQYxWaoi4",277272757,2021-11-12 12:00:02+00:00,en,1,0,7,0,Twitter Web App,3_1458955002085400576,https://pbs.twimg.com/media/FD8_2DKUYAAKd_H.jpg,photo, ,Steve Cline,SteveClineBird,False,151,247
+1459128848226869251,DAY TWELVE - POPULATION 👥 @MiguelGLeonardo has produced a map showing the results of a project with @fcoroweand @nnewsh_ on clustering the trajectories of population decline in Spain #30DayMapChallenge https://t.co/biCf4qFVla,2280343142,2021-11-12 12:00:01+00:00,en,6,0,21,0,TweetDeck,3_1458108069896916998,https://pbs.twimg.com/media/FDw9kG5WEAYsOJv.jpg,photo, ,GeoDataScience,geodatascience,False,5389,2376
+1459128574464733184,"➡️ Aujourd'hui dans le #30DayMapChallenge, direction le centre-ville de Rennes avec la carte de Tom qui nous montre une nouvelle façon de représenter la population 🙋‍♀️🙋 https://t.co/AA2j9gwqLH",707908989166743553,2021-11-12 11:58:56+00:00,fr,5,1,18,1,Twitter Web App,3_1459127886556893186,https://pbs.twimg.com/media/FD_dFQAXEAI68_D.jpg,photo, ,Master SIGAT,E_Sigat,False,673,158
+1459124675687157761,"A single map for making this video
+#30DayMapChallenge 
+Day12: Population https://t.co/MTmHmEJQON https://t.co/lPLbk26955",1128260138194747394,2021-11-12 11:43:26+00:00,en,0,0,5,0,Twitter Web App,3_1459124576965771265,https://pbs.twimg.com/media/FD_aEm0WQAEEzLf.jpg,photo, ,Paul,soochownewboy,False,3,63
+1459123439701217284,#30DayMapChallenge day 12 - population. Life expectancy in Scotland - the determining factor here is deprivation level. Be angry. https://t.co/QtcgNMBR4f,798523409286266880,2021-11-12 11:38:31+00:00,en,11,5,74,0,Twitter for Android,3_1459123436396101640,https://pbs.twimg.com/media/FD_ZCN3WQAglSk8.jpg,photo, ,Dan Harris,DiasporaDan,False,1223,1854
+1459123349578084357,"Influences include (but not limited to): #Vignelli #NYCSubway @gary_hustwit @standardsmanual #MLB #NBA #NFL #30DayMapChallenge
+
+Three-print 24"" x 18"" poster series visualizes America's major sports leagues. Crowd funding through December 9th.
+
+https://t.co/X8v7vAXvi3 https://t.co/AXV0OdEf0U",1666589234,2021-11-12 11:38:10+00:00,en,1,0,6,1,Twitter Web App,16_1459121110637678597,https://pbs.twimg.com/tweet_video_thumb/FD_W61vVEAUcH_Q.jpg,animated_gif, ,Lou Spirito,THIRTY81Project,False,1356,460
+1459123125375877145,"#30DayMapChallenge Day 12. Population
+Forget the GHSL! Guys from @KonturInc have created a magnificent global population dataset. Make sure to check it out and use it in your research projects!
+https://t.co/RbKXuLnwFB https://t.co/r4O97G1FnR",1102680264554303489,2021-11-12 11:37:16+00:00,en,2,1,15,0,Twitter Web App,3_1459122109762965504,https://pbs.twimg.com/media/FD_X0_xXEAAs7K8.jpg,photo, ,Mikhail Topnikov,mtopnikov,False,48,97
+1459121598187847682,"#30DayMapChallenge Day 12: Population
+
+Topic: Smart Cities of India by population
+Platform: @ArcGISOnline https://t.co/Ruzg4YOPGx",585486734,2021-11-12 11:31:12+00:00,en,2,0,5,0,Twitter for Android,3_1459121595977543681,https://pbs.twimg.com/media/FD_XXFxXsAEDmEv.jpg,photo, ,Manushi Majumdar,Manushi_M,False,145,510
+1459120335786229762,"Day1:points
+Macedonia Cities🇲🇰
+#30DayMapChallenge 
+#QGIS 
+#Sentinel2 https://t.co/IAfB4GOkqQ",941025268763975681,2021-11-12 11:26:11+00:00,en,5,1,13,0,Twitter for iPhone,3_1459120327791886337,https://pbs.twimg.com/media/FD_WNRaWQAEk6Di.jpg,photo, ,HADEEL🦋,_H82x,False,491,1100
+1459117508074561538,"#30DayMapChallenge, day 12: #population. Here's the share of households with small children in Finland, by postal code areas, 2019. Highest shares around big cities and in parts of Ostrobothnia. Sorry Finland, I flipped the map for a better fit to a landscape picture... #maps https://t.co/SdHLp4LkQ4",490477903,2021-11-12 11:14:57+00:00,en,1,0,5,0,Twitter Web App,3_1459116445745524737,https://pbs.twimg.com/media/FD_SrTqXsAEbVEG.jpg,photo, ,Tuomas Lehto,LehtoTuomas,False,267,277
+1459117116284616707,"#30DayMapChallenge, day 12 : Population.
+
+Géocoder les naissances à l'étranger des pers. décédées en FR.
+
+People who have died in FR since 1970 : in which cities were those who were not born in FR born ? Geocoding work from French death certificates using {tidygeocoder}. #rstats https://t.co/MaJThZyiQ8",821710176726241280,2021-11-12 11:13:24+00:00,fr,2,1,9,0,Twitter Web App,3_1459112910387560459,https://pbs.twimg.com/media/FD_PdhbWQAspkOH.jpg,photo, ,Rémi,Re_Mi_La,False,259,386
+1459116765527609346,"#30DayMapChallenge - Day 12: ""Population""
+A good old thematic map with proportional symbols. Done with @qgis. Demographic data: 
+@StatSchweiz https://t.co/vejOKEwfQD",336517784,2021-11-12 11:12:00+00:00,en,1,0,4,0,Twitter Web App,3_1459116736117190656,https://pbs.twimg.com/media/FD_S8NYXsAAxJ8O.jpg,photo, ,Luca Dall'Acqua,luca_northsouth,False,173,522
+1459116546199105547,"Not a great map for todays #30dayMapChallenge, but it's OK i guess... Switzerlands population (on a log scale, otherwise 90% of the country appears uninhabited, due to a few highly populated regions)
+Code: https://t.co/arFCUl55Zl 
+#RStats https://t.co/ueG8EmUWLZ",525654957,2021-11-12 11:11:08+00:00,en,2,0,4,0,Twitter Web App,3_1459116029158821891,https://pbs.twimg.com/media/FD_STDwXEAMpSNz.png,photo, ,Alan Haynes,aghaynes,False,122,190
+1459116512292347906,"#30DayMapChallenge Day 12: Population
+
+Proportional square cartogram visualized with
+#geometrygenerator in #QGIS
+#CBS #Square #mapplejuice #PDOK https://t.co/3ZO7rJNtv6",1091106812852609027,2021-11-12 11:11:00+00:00,en,2,0,4,0,Twitter Web App,3_1459114228430876674,https://pbs.twimg.com/media/FD_QqPhXMAI-hfs.jpg,photo, ,MappleJuice,Mapple_juice,False,30,10
+1459116081835134979,"#TidyTuesday #30DayMapChallenge
+#dontforgetthebev
+#nevanevaneva
+Day 11 &amp; 12: 3D &amp; Population https://t.co/alK3g0YLA6",1428864082329931777,2021-11-12 11:09:17+00:00,en,3,0,6,0,rstats2twitter,3_1459116079884779522,https://pbs.twimg.com/media/FD_SWAuXwAIqRKz.png,photo, ,Kraggle,JCraggy,False,33,22
+1459115508243046400,"#30DayMapChallenge 
+Day 12 - Population
+
+This isn't very informative, but I like the aesthetic.
+
+Population density data from Facebook, centered on Sheffield, visualised in #Aerialod. https://t.co/2WihuAkbuJ",2213909976,2021-11-12 11:07:00+00:00,en,1,1,15,0,Twitter Web App,3_1459114511244447748,https://pbs.twimg.com/media/FD_Q6tFX0AQNDOG.jpg,photo, ,Colin Angus,VictimOfMaths,False,14829,684
+1459112055496192004,"#30DayMapChallenge Día 12. Population
+Mapa de densidad poblacional por barrio de los centros urbanos de Holanda del Sur.
+Fuente: https://CBS,Wijk-en buurtkart
+Instagram: dataurbana
+#DataUrbana #SocialDataScience #UrbanDataScience #SpatialDataScience #dataviz #python @tjukanov https://t.co/BV04FaY6el",1270981983842287616,2021-11-12 10:53:17+00:00,es,1,0,2,0,Twitter Web App,3_1459112041587826692,https://pbs.twimg.com/media/FD_Oq85WYAQ90D7.jpg,photo, ,DataUrbana,Data_Urbana,False,76,167
+1459109336396013574,"U.S. Refugee Resettlement visualized: https://t.co/3AEXm6am31
+
+Data: https://t.co/7NKp9SKe4m
+Tool: @unfoldedinc Studio
+
+#30DayMapChallenge day 12: population https://t.co/FQ96nvTelQ",2198358416,2021-11-12 10:42:29+00:00,en,5,1,48,0,Twitter Web App,3_1459109283505840132,https://pbs.twimg.com/media/FD_MKaPXIAQFDec.jpg,photo, ,Topi Tjukanov,tjukanov,False,15273,2501
+1459107207618961408,"Global population projections between 2015 and 2100. The brightness of the colour shows population density. Yellow, orange red indicate an increasing population. Blues and purple indicate a decreasing population
+
+#30Daymapchallenge #dataviz #Population #day12 https://t.co/mpiBJHEhbo",842679437263028226,2021-11-12 10:34:01+00:00,en,15,1,49,5,Twitter Web App,7_1459107141244100643,https://pbs.twimg.com/ext_tw_video_thumb/1459107141244100643/pu/img/5EpvtQGhCGHINnZs.jpg,video, ,Neil Kaye,neilrkaye,False,15176,325
+1459107164430213161,"A few extra angles, could make these for hours #30DayMapChallenge #Aerialod https://t.co/umKoLZAxYT",946868991066361856,2021-11-12 10:33:51+00:00,en,0,0,6,0,Twitter Web App,3_1459106617304227858,https://pbs.twimg.com/media/FD_JvN3XIBI8Cc4.jpg,photo, ,Tim,timhdata,False,6,39
+1459107117147824160,"#30DayMapChallenge 
+Day12: Data challenge - population
+Distribution of the African and Asian population in the state of Kuwait. 
+#Kuwait 
+
+@qgis https://t.co/NLPRlU94Ly",2744656034,2021-11-12 10:33:40+00:00,en,4,1,10,0,Twitter Web App,3_1459106695720935432,https://pbs.twimg.com/media/FD_Jzx_XIAgssjt.jpg,photo, ,🇰🇼 Geographic,Husain_Qamber,False,9567,1017
+1459106056211210261,"#TidyTuesday #30DayMapChallenge
+Day 10 : Raster | spDataLarge::elevation | Elevation raster data https://t.co/VjBXZ0TXCR",1428864082329931777,2021-11-12 10:29:27+00:00,de,3,0,8,0,rstats2twitter,3_1459106054910976010,https://pbs.twimg.com/media/FD_JOeyXIAoEu1q.png,photo, ,Kraggle,JCraggy,False,33,22
+1459105447420510209,#30DayMapChallenge #Day12: Population. Just some simple #Stata joyplots showing populations as heights. Data extracted from the JRC Geostat 2018 pop raster. https://t.co/I8wvZml2NQ,124852105,2021-11-12 10:27:02+00:00,en,7,2,46,2,Twitter Web App,3_1459104845890265090,https://pbs.twimg.com/media/FD_IIG1XIAIG_JJ.jpg,photo, ,Asjad Naqvi,AsjadNaqvi,False,4654,763
+1459104298458095627,"#30DayMapChallenge, day 12, population: Distribution of foreign people visiting #Finland from Twitter data. Using our #opentools 👇 to study cross-border mobility https://t.co/akQXLlu4V7.
+Map by @BryanRVallejo &amp; @ollejarv w/ #keplergl
+@GeoHelsinkiUni @KumpulaScience @HelsinkiUni https://t.co/fHMasgraJg",845248364191059968,2021-11-12 10:22:28+00:00,en,2,1,11,1,Twitter Web App,3_1459103635548348446,https://pbs.twimg.com/media/FD_HBp9XIB4w0d5.jpg,photo, ,DigitalGeographyLab,digigeolab,False,1338,365
+1459101888713007120,"#30DayMapChallenge Day 12: Population
+
+Wanted to do something about the pig population, but there are way too many 🐷, so instead: Danish municipalities with populations of quails and ostriches (agricultural livestock).
+
+Data: https://t.co/umzofsrn18 https://t.co/AoaPIYflsW",2741743694,2021-11-12 10:12:53+00:00,en,1,0,6,0,Twitter Web App,3_1459101810627649542,https://pbs.twimg.com/media/FD_FXbmXIAYnwyu.jpg,photo, ,Jörg Schullehner,JorgSchullehner,False,99,176
+1459099651647279104,"#30daymapchallenge
+Day 12: Population
+
+Euskal herriko udalerrien populazioak sexuaren arabera bereizita. Puntan kolore argiagoa ageri duten udalerrietan emakumeak gehiago dira gizonak baino. 
+Datuak: Wikidata
+Irudikatzea: https://t.co/zhMpiQ6t9t https://t.co/dQPtw7jSNV",270842014,2021-11-12 10:04:00+00:00,eu,1,1,3,0,Twitter Web App,3_1458811399489085445,https://pbs.twimg.com/media/FD69PRzWYAUnM6c.jpg,photo, ,Ion Lizarazu,Ionliz,False,360,259
+1459098770621280258,"It's #FRIYAY !!!! And, the #30DayMapChallenge for number 12: #Population. 
+For this map we've taken a look at the #PublicTransport access to the commercial area for the town #Guildford - Where the headquarters of #Basemap is also located 🗺️ https://t.co/WFigq4Jjko",49592380,2021-11-12 10:00:30+00:00,en,0,0,1,0,SocialPilot.co,3_1459098761108639744,https://pbs.twimg.com/media/FD_Cl7QX0AAya_w.jpg,photo, ,Basemap,basemap,False,1662,1588
+1459098652941578241,#30DayMapChallenge Day 12: Population -  Population estimates are part of the small area statistics produced by ONS. Mapping population change can easily go wrong with a poor choice of colours as demonstrated in this map. Download the data here https://t.co/ezZ2NskeNH #Population https://t.co/yYVjd06wnr,2248416469,2021-11-12 10:00:02+00:00,en,4,1,8,0,TweetDeck,3_1459092480675221504,https://pbs.twimg.com/media/FD-84W0XEAAwoBL.jpg,photo, ,ONS Geography,ONSgeography,True,6518,166
+1459098650085257219,"#30DayMapChallenge Day 12 - Population
+ 
+Tobacco products are stealing from our lives! This map has been prepared using the percentage of male and female tobacco use over the age of 15 in the world.
+
+#Başarsoft #GIS #CBS #MapInfo #Map #World #PopulationMap #Tobacco https://t.co/gjnWsrvwKj",164172121,2021-11-12 10:00:01+00:00,en,5,0,8,0,Twitter Web App,3_1459070633359425551,https://pbs.twimg.com/media/FD-pArOXwA8pXko.jpg,photo, ,Başarsoft,basarsoft,False,1631,41
+1459098647904206850,"#30DayMapChallenge 
+
+12. POPULATION. Europe.
+12. POBLACIÓN. Europa. https://t.co/x48bUnkjsc",769592708,2021-11-12 10:00:01+00:00,es,1,0,3,1,Twitter Web App,3_1458919775296442383,https://pbs.twimg.com/media/FD8fzlJWUA8EHQw.jpg,photo, ,Valentín Sastre,valen_ibiza,False,376,585
+1459097725883064344,"#30DayMapChallenge Day 11 ""Population"" of Alaska
+
+Alaska's population as 733391 points from the 2020 US Census.
+
+Part of an ongoing larger project. https://t.co/45jW8Q9t7g",1499547780,2021-11-12 09:56:21+00:00,en,2,1,6,0,Twitter Web App,3_1459097156204306442,https://pbs.twimg.com/media/FD_BIghXIAoPI-8.png,photo, ,Heikki Vesanto,HeikkiVesanto,False,889,468
+1459096883020713986,"#30DayMapChallenge 2021 🗺️ Day 12 - Population
+
+Migration within the US. Finally taking roughsf for a proper spin :)
+
+Tools: #rstats ({roughsf},{edgebundle})
+
+HighRes: https://t.co/RKZw9lIENH https://t.co/Ei0o43FSSX",2745527973,2021-11-12 09:53:00+00:00,en,4,0,22,0,TweetDeck,3_1458910232411844608,https://pbs.twimg.com/media/FD8XIHIXMAA8HvX.jpg,photo, ,David Schoch,schochastics,False,1919,290
+1459096450055479318,"Day 12 of the #30DayMapChallenge is focussed on population. 
+
+I love the look of dot density maps, so here's a dot density map of Italy's population 🇮🇹 https://t.co/HWflnmraPT",437801734,2021-11-12 09:51:17+00:00,en,3,0,8,0,Twitter for Android,3_1459096447517925381,https://pbs.twimg.com/media/FD_AfQdXIAUHCta.jpg,photo, ,Antonia Blankenberg,MapsByAntonia,False,473,520
+1459096204743221263,"#30DayMapChallenge 2021 day 12: Population
+
+Population Density (2020) for Denmark by municipality #QGIS https://t.co/Rosnm4ZkG1",7159622,2021-11-12 09:50:18+00:00,en,2,1,32,1,Twitter Web App,3_1459095782838181909,https://pbs.twimg.com/media/FD-_4kVXIBUDHfA.jpg,photo, ,Kurt Menke,geomenke,False,6038,2150
+1459095808800923670,#population per grid square of #Swindon #Thanks for data from @openpopgrid #30DayMapChallenge #GeoMedia #day12 @HexGeospatial #ONS https://t.co/voDHqoCxlr,424357259,2021-11-12 09:48:44+00:00,en,1,0,3,0,TweetDeck,3_1459095759404556296,https://pbs.twimg.com/media/FD-_3NCWYAgEwMK.png,photo, ,Richard Goodman 💙,dbgoody,False,262,1399
+1459093879131672578,#30daymapchallenge Day 12 - Population. UK gridded population 2011 based on census 2011 and Land Cover Map 2015. 1km grid squares converted to points and a graduated theme to show population numbers all with the trusted OS Zoomstack in the back. @Cadcorp #gis #population #ukceh https://t.co/WoY8HpR3EO,92832101,2021-11-12 09:41:04+00:00,en,0,0,2,0,Buffer,3_1459093876417904641,https://pbs.twimg.com/media/FD--JmXWQAEeW87.jpg,photo, ,Ian Usher,ian_usher1985,False,468,1880
+1459092306292793346,"La Palma 🌋🗺️
+Sentinel-2 🛰️
+@sentinel_hub #30DayMapChallenge https://t.co/P0f9zr8UXk",409967791,2021-11-12 09:34:49+00:00,it,9,0,18,0,Twitter Web App,3_1459092292967534598,https://pbs.twimg.com/media/FD-8tbjXEAYbPXL.jpg,photo, ,Eamador ۞,web_amador,False,1232,1627
+1459090584166146064,"Day 12 of #30DayMapChallenge: Population
+
+Nafarroa Garaiko udalerrietako biztanleria aldaketa ehunekotan azken 10 urteotan.
+
+Datuak: Wikidata
+Softwarea: Kartographer estentsioa https://t.co/oPghqjRB01",19770809,2021-11-12 09:27:58+00:00,eu,3,1,4,0,Twitter Web App,3_1459090520567861249,https://pbs.twimg.com/media/FD-7GQ2WUAE8tHc.jpg,photo, ,Galder Gonzalez🔻,theklaneh,False,9277,1307
+1459089639818596353,Endangered species: the glaciers of La Grave and Les Ecrins in the French Alps 😍🤩 #2 for @sentinel_hub's #30DayMapChallenge #BestPlacesOnEarth https://t.co/Laybzh2VIM,118147850,2021-11-12 09:24:13+00:00,en,3,1,6,0,Twitter Web App,3_1459089177790849041,https://pbs.twimg.com/media/FD-54GnXIBEbi6o.jpg,photo, ,Rafa Cereceda,Rafacereceda,True,2916,2517
+1459089160027922432,"#30DayMapChallenge 
+Day 12: Population 
+
+Not a typical population map but rather territories and ethnicities of indigenous peoples in the Ecuadorian Amazon. 
+
+Data from #RAISG 
+
+Created with {ggplot2} &amp; {ggfx} in #RStats 
+Code: https://t.co/1UCRrt8sZI https://t.co/WBe2PvbipU",233748559,2021-11-12 09:22:18+00:00,en,9,1,49,0,Twitter for iPhone,3_1459089151631015939,https://pbs.twimg.com/media/FD-52lKXwAMwHSR.jpg,photo, ,Lorena Abad,loreabad6,False,1242,924
+1459088508530966536,12. Population: sheep population in Estonia 🐏 #30DayMapChallenge #QGIS https://t.co/x96ZSXXyxs,47698876,2021-11-12 09:19:43+00:00,en,7,0,96,0,Twitter Web App,3_1459088191848427523,https://pbs.twimg.com/media/FD-4-tsXsAMgh7T.jpg,photo, ,Evelyn,evelynuuemaa,False,1061,350
+1459088239860535300,"Day 12 of #30DayMapChallenge Population
+Distribution by #European countries of persons originating from the Republic of #Moldova https://t.co/D6lK1R1tny",113368957,2021-11-12 09:18:39+00:00,en,1,0,1,0,Twitter Web App,3_1459087818760855562,https://pbs.twimg.com/media/FD-4o_1XIAoAZHD.jpg,photo, ,Igor Rosca,IgorRoshka,False,33,124
+1459086942159708181,"Day 12 - Population - Born in #Antarctica. A dot for each and every child born south of the Antarctic convergence.
+https://t.co/8Bgk9vSBjY
+#30DayMapChallenge https://t.co/iU1WKdD3ZI",201856958,2021-11-12 09:13:30+00:00,en,3,1,27,0,TweetDeck,3_1459086107057004551,https://pbs.twimg.com/media/FD-3FXPXIAcIv9a.jpg,photo, ,Fil,recifs,False,2672,2495
+1459084225563578369,"Toujours à J+4, voici ma version bleue du #30DayMapChallenge, avec des données #IGN : un lieu qui me tient à cœur, le Mont #Aigoual , qui détient de nombreux records #MétéoFrance, et qui a pour particularité de se trouver sur la ligne de partage des eaux https://t.co/CQId2t9oLf",195802419,2021-11-12 09:02:42+00:00,fr,0,0,3,0,Twitter Web App,3_1459083044749463554,https://pbs.twimg.com/media/FD-0THQWUAIl64V.jpg,photo, ,Menileda,Menileda,False,72,231
+1459083554923552775,"#30DayMapChallenge
+
+Day 12 - Population
+The three largest urban centers in Bolivia.
+
+Día 12 - Población
+Los tres mayores centros urbanos en Bolivia.
+
+Data source/Fuente datos: OpenStreetMap.
+Prepared/Elaborado: QGIS &amp; LibreOffice Impress https://t.co/iiN5YxMm5F",38113384,2021-11-12 09:00:02+00:00,es,2,0,10,0,Twitter Web App,3_1458988543091560464,https://pbs.twimg.com/media/FD9eWZJWUBASSb_.png,photo, ,Eric Armijo,rcrmj,False,177,144
+1459083340255010834,"#30DayMapChallenge day 12 (population)
+
+This map shows population change in Europe between 2006–2018. Growth in blue, decline in red. One can see the east/west divide overall in Europe, as well as Germany. https://t.co/atjNCOpihS",963423777135759360,2021-11-12 08:59:11+00:00,en,51,8,151,4,Twitter Web App,3_1459083204762161153,https://pbs.twimg.com/media/FD-0cbWWUAE0UyY.jpg,photo, ,Ilya Ilyankou,ilyankou,False,431,399
+1459082538262007809,"🗺️ Siedlungsgebiete der nationalen #Minderheiten in Deutschland
+
+ℹ️ Mehr zum Thema: https://t.co/Ls1QJMEY6A
+
+// #30DayMapChallenge #Population #mapporn https://t.co/8Wfro6boKf",833617709271285760,2021-11-12 08:56:00+00:00,de,3,1,22,1,Twitter Web App,3_1459057679280885765,https://pbs.twimg.com/media/FD-dOphX0AUbV33.jpg,photo, ,Bundesamt für Kartographie und Geodäsie,BKG_Bund,False,3919,532
+1459082535137386540,"Centre of population for each country in the world, the same number of people live east and west and north and south of the point 
+
+#30Daymapchallenge #dataviz #Population #day12 https://t.co/gnq2k2HnPQ",842679437263028226,2021-11-12 08:55:59+00:00,en,92,16,364,14,Twitter Web App,3_1459082407919984644,https://pbs.twimg.com/media/FD-zuC4XoAQyK3v.jpg,photo, ,Neil Kaye,neilrkaye,False,15176,325
+1459081513048416272,"#30DayMapChallenge 2021 | Day 12 | Population
+Cities &amp; Settlements of Greece
+Every point on map represents an inhabited place, colored by its population census record.
+#cARTography #MakingMapsPretty #QGIS https://t.co/jC0rPoOyOm",374984100,2021-11-12 08:51:55+00:00,en,3,0,20,0,Twitter Web App,3_1459081385600245764,https://pbs.twimg.com/media/FD-yyicWYAQh24m.jpg,photo, ,Staridas Geography,StaridasGeo,False,1032,576
+1459079323231698959,#30DayMapChallenge day 11: Population. I rescaled all municipalities in Belgium based on their population. Made with @QGIS based on data from @Statbel_nl and NGI-IGN. https://t.co/siGXbf33HL,269294137,2021-11-12 08:43:13+00:00,en,1,1,8,0,Twitter Web App,3_1459077620558184460,https://pbs.twimg.com/media/FD-vXYkXwAwnfAU.jpg,photo, ,michelstuyts,michelstuyts,False,493,1482
+1459072106394570752,"Day 11: 3D
+
+A galah trifecta today: galah occurrence data from @atlaslivingaust, imported using the galah 📦, and colours from the galah palette in the feathers 📦
+
+code: https://t.co/FquonuipdP
+
+#30DayMapChallenge #rstats #rspatial #rayshader https://t.co/1rUmhdL3gV",820847294073303040,2021-11-12 08:14:33+00:00,en,2,1,13,1,Twitter Web App,3_1459072013931216896,https://pbs.twimg.com/media/FD-qRCQVgAAMO22.jpg,photo, ,Shandiya Balasubramaniam,ShandiyaB,False,456,811
+1459071966254710790,"RStats, QGIS, ArcGIS 🗺️ #mappymeme #30DayMapChallenge https://t.co/DHiIpr7Bky",3308382005,2021-11-12 08:13:59+00:00,et,2,1,16,0,Twitter for Android,3_1459071964224569348,https://pbs.twimg.com/media/FD-qOJFWQAQX9AS.jpg,photo, ,Conor Graham #GeoSTEM Geography Jedi 🛰️⛰️🌋🌎🌏🌍,GeoConor,False,2767,5001
+1459069673555869706,"12 Population. #30DayMapChallenge UK, IoM and Channel islands. 50% of population in each area (measured radially from London). Kontur gridded population, Qgis. https://t.co/oqaiFRwo5L",363276700,2021-11-12 08:04:53+00:00,en,5,0,21,0,Twitter Web App,3_1459069164677742608,https://pbs.twimg.com/media/FD-nrL9XwBAMZ99.jpg,photo, ,Steven Kay,stevefaeembra,False,1246,419
+1459069200920506376,Retro population map of Melbourne for day 12 of the #30DayMapChallenge https://t.co/S2P8WdS5qz,1114069920092966912,2021-11-12 08:03:00+00:00,en,3,3,41,0,TweetDeck,16_1458883041003245574,https://pbs.twimg.com/tweet_video_thumb/FD7-ZXPXEAY9lZK.jpg,animated_gif, ,Kate,KateEllen100,False,117,302
+1459068820128251950,#30daymapchallenge #inkscape https://t.co/NtKkM5Owtl,233135248,2021-11-12 08:01:29+00:00,und,1,0,3,0,Twitter Web App,3_1459068732123365405,https://pbs.twimg.com/media/FD-nSAkXwB0COFB.jpg,photo, ,Jrombf,jrombf,False,95,458
+1459068697553911815,"In this map's creation, I reviewed how to get Census data, and I focused on the counties of California.
+
+* these genders (for these identifications) were a curious view
+* trying out colorblind friendly colors
+* shoved the legend into Nevada
+
+#30DayMapChallenge Day 12: Population https://t.co/ZvqfuYv3v9",754537285660573696,2021-11-12 08:01:00+00:00,en,1,0,3,0,Twitter Web App,3_1459009058879393794,https://pbs.twimg.com/media/FD9xAkaVUAIPEF6.jpg,photo, ,Derek Sollberger,DerekSollberger,False,338,709
+1459068454456147971,"Day 12: population #30DayMapChallenge France population clusters around bigger cities as the left map highlights; experimenting with a choropleth map using city (commune) polygons shows the more deserted areas of the country in yellow tones.
+Details in https://t.co/oXO3A69QyI https://t.co/qz0mvVFVdH",160578875,2021-11-12 08:00:02+00:00,en,2,0,5,0,Twitter Web App,3_1457827106373701633,https://pbs.twimg.com/media/FDs-B4NXEAEZvTL.jpg,photo, ,Xavier Olive,x00live,False,235,162
+1459067948153421826,"#30DayMapChallenge - Population
+
+Répartition géographique des communes de métropole en fonction de leur population. https://t.co/JrDN2nVy6m",2970383806,2021-11-12 07:58:01+00:00,fr,4,1,5,0,Twitter for Android,16_1459067931510423552,https://pbs.twimg.com/tweet_video_thumb/FD-mjaDXwAAwQr5.jpg,animated_gif, ,Clément Bouchère,ClementBouchere,False,85,51
+1459066180438614016,"#30DayMapChallenge Day 12 - Population
+Updated a map I made a while ago. ""Disposable income single households without children 18-29 years old"" https://t.co/ieghRKFQRP",56323078,2021-11-12 07:51:00+00:00,en,2,0,35,0,Twitter Web App,3_1457284163782971394,https://pbs.twimg.com/media/FDlQOdcWEAIMo8K.jpg,photo, ,Klas Karlsson,klaskarlsson,False,5289,82
+1459066131453464577,Nice and simple one today. Cleansed population data from the Scottish Government. Marker size varies with population density #30DayMapChallenge | Day 12 | Population https://t.co/m7RwYU06AF,16735351,2021-11-12 07:50:48+00:00,en,1,0,5,0,Twitter for iPhone,3_1459066127225602051,https://pbs.twimg.com/media/FD-k6YkWQAMhKxy.jpg,photo, ,tookiebunten,tookiebunten,False,1085,2011
+1459065925550981131,"#30DayMapChallenge - Population
+Quand les populations s'agitent
+Contestations anti-gouvernementales en 2019
+https://t.co/31sBK7hlye https://t.co/qGL6mC7WBK",252009888,2021-11-12 07:49:59+00:00,fr,2,0,7,1,Twitter Web App,3_1459065553319084060,https://pbs.twimg.com/media/FD-kY-mXwBwAGJE.jpg,photo, ,Agnès Stienne,odilon72,False,936,566
+1459061250135146498,"Day 12 - Population
+The world population using raster data
+#30DayMapChallenge https://t.co/ThRz0HCpwA",1694963077,2021-11-12 07:31:24+00:00,en,1,0,1,0,Twitter Web App,3_1459061082845331471,https://pbs.twimg.com/media/FD-gUwyXwA8sHtC.jpg,photo, ,Marcus Humphrey,92MBH,False,93,126
+1459060392378789888,"#30DayMapChallenge - Population
+
+Une carte de la population du Nunavut, réalisée avec @Alex_p178 
+
+Données : https://t.co/fQ2uQQ0gw4 https://t.co/joYmgskHov",2367649759,2021-11-12 07:28:00+00:00,fr,27,6,180,1,TweetDeck,3_1458132549956476931,https://pbs.twimg.com/media/FDxT1COXIAMf8SE.jpg,photo, ,Gaëlle Sutton,Gaelle_Sutton,False,2772,1713
+1459059594693599233,"#30_ימי_מיפוי
+והיום, אוכלוסיה - ניתוח בקטנה ממש של סקר הרגלי נסיעה, כמה  משקי בית יש בכל אזור תנועה, ומהי צפיפות משקי הבית למטר רבוע באזורים הנ""ל
+שימו לב - מדובר בניפוח סטטיסטי לא מחייב. אל תתפסו אותי במילה
+#30DayMapChallenge https://t.co/7fda9q3Wq6",2227560465,2021-11-12 07:24:50+00:00,iw,0,0,4,0,Twitter Web App,7_1459059071898861578,https://pbs.twimg.com/ext_tw_video_thumb/1459059071898861578/pu/img/NVDTLj8oS8FFSjW7.jpg,video, ,Ido Klein עדו קליין,idoklein1,False,1163,829
+1459058203942174720,"#30DayMapChallenge 2021 Día 12 Población. Mapa con 33 divisiones territoriales que tienen la misma población (4 millones de habitantes aproximadamente), se realizó con información del Censo de Población y Vivienda 2020 del @INEGI_INFORMA 
+ @tjukanov https://t.co/g0nweQgdky",7630312,2021-11-12 07:19:18+00:00,es,2,0,11,0,Twitter Web App,3_1459058098824437761,https://pbs.twimg.com/media/FD-dnEcWYAEv-aB.jpg,photo, ,Yúum-K'aak-Náab,jdeltoro1973,False,578,2119
+1459057055327830027,"🌐 #30DayMapChallenge 
+Day 1⃣2⃣ 
+Population
+Aragon accessibility population graph. Year 2021
+Día 1⃣2⃣ 
+Población 
+Grafo de accesibilidad a núcleos de población de Aragón. Año 2021 🌐 
+#population #Aragon #España #Spain #qgis https://t.co/Klal2Q6KRF",2478849098,2021-11-12 07:14:44+00:00,es,3,0,14,1,Twitter Web App,3_1458992321568157696,https://pbs.twimg.com/media/FD9hyVEXsAAPcHT.jpg,photo, ,Rafa,Galactero,False,795,93
+1459056922179608577,"#30daymapchallenge population density of Hamburg 1875 :: Plan zur Veranschaulichung der Bevölkerungsdichtigkeit der einzelnen Stadttheile nach der Volkszählung 1875 
+https://t.co/uaW7Cpnafx
+🗺️ via @StabiHH Chronoscope by @mprove https://t.co/wniK5seHAm",853214807826325508,2021-11-12 07:14:12+00:00,de,5,2,21,0,Twitter Web App,3_1459056025785491456,https://pbs.twimg.com/media/FD-buZxWYAAjDwQ.jpg,photo, ,Chrono Research Lab,chronohh,False,1229,2165
+1459056869364813824,Day 12 - Population: Rīgas apkaimju iedzīvotaju skaits #30DayMapChallenge https://t.co/vtNLK0C22b,3378850731,2021-11-12 07:14:00+00:00,lv,0,0,0,0,Twitter Web App,3_1457969835468537857,https://pbs.twimg.com/media/FDu_1zhWQAEDRux.jpg,photo, ,Dana,kurmja_ikdiena,False,11,13
+1459055948002172929,"#30DayMapChallenge Day 12, Population. Girls born today (or rather 2019) can expect to live longer than the boys, in all countries but two. But how much longer? That is the theme of my map today. Data from WHO. https://t.co/otPSRjGYUX",1143779197107806208,2021-11-12 07:10:20+00:00,en,1,0,2,0,Twitter Web App,3_1459055819530641408,https://pbs.twimg.com/media/FD-biZaXIAAW3NM.jpg,photo, ,Jonas Nelson,JonasNelson19,False,42,6
+1459055488616652803,Day 10 of the #30DayMapChallenge sorry it’s late! https://t.co/8Nu2iqaSwa,281195030,2021-11-12 07:08:31+00:00,en,1,1,5,0,Twitter for iPhone,3_1459055482119753732,https://pbs.twimg.com/media/FD-bOwdVkAQL81n.jpg,photo, ,Max Kittner (he/him),mapboymax,False,572,598
+1459055487958372354,"#30DayMapChallenge day 12 : population
+Plus de 7,3 millions de personnes ont contracté la Covide en France. Cette carte (actualisée) date du début du 2eme confinement (Nov 20) et j'avais alors indiqué une population de 1,3 millions pour cet atoll de Rebelote, Covidésie française. https://t.co/6DbRw8AfAC",1189967197730430977,2021-11-12 07:08:30+00:00,fr,1,0,5,1,Twitter for Android,3_1459055478764453889,https://pbs.twimg.com/media/FD-bOj9XwAEj7Gw.jpg,photo, ,Julien Dupont Kobri,Kartokobri,False,877,387
+1459053749104787465,The worldwide #30DayMapChallenge has reached Estonian Land Board. For every day in November one new map will appear. 12th day category: Population. You can see the whole gallery https://t.co/it1YIPjMyU https://t.co/z6qTGxm5Uk,193592650,2021-11-12 07:01:36+00:00,en,1,0,2,0,Twitter Web App,3_1459053728980471811,https://pbs.twimg.com/media/FD-ZotgXEAMGpMH.jpg,photo, ,Maa-amet,maaamet,False,174,89
+1459053349811068937,"#30DayMapChallenge 12. diena, apdzīvojums.  Novados reģistrēto mājdzīvnieku skaits Latvijā 2021. gadā. https://t.co/UT1V6ktrHg",461965493,2021-11-12 07:00:01+00:00,lv,3,1,23,1,Twitter Web App,3_1458902464992841729,https://pbs.twimg.com/media/FD8QD_PXEAETscs.jpg,photo, ,Kristīne,kriksine,False,486,401
+1459053349345677313,"Day 12 of the #30DayMapChallenge - Population
+
+population change in GB urban centers
+
+#30DaysOfPokemon Color Palette - Victreebel
+
+More on this map and more maps  - https://t.co/Dkle8cGPmc
+#30ימימיפוי https://t.co/MzfNRD8YA6",1174353681946484739,2021-11-12 07:00:01+00:00,en,1,1,6,0,Twitter Web App,3_1455521899363151875,https://pbs.twimg.com/media/FDMNdK5XsAMQaSU.jpg,photo, ,Dror Bogin,bogind2,False,161,291
+1459052944691802113,"Smallest area where 50%, 90% and 99% of the world live.
+#30Daymapchallenge #dataviz #Population #day12 https://t.co/gB2LKGDVMN",842679437263028226,2021-11-12 06:58:24+00:00,en,76,8,316,9,Twitter Web App,3_1459052440788127749,https://pbs.twimg.com/media/FD-YdunX0AUFLhy.jpg,photo, ,Neil Kaye,neilrkaye,False,15176,325
+1459051316475580427,"#30DayMapChallenge 
+Day 12 : Population
+Madagascar population density by Region https://t.co/GPDbRi5Ttc",860412366323933185,2021-11-12 06:51:56+00:00,en,1,0,2,0,Twitter Web App,3_1459051185172852736,https://pbs.twimg.com/media/FD-XUpFXMAAGsuF.jpg,photo, ,BAOVOLA Marie Anna,BaovolaMada,False,512,1604
+1459048564634521601,"Day 12 (Population) of #30DayMapChallenge : World cattle population 
+
+The world's leading breeder of cattle is Brazil (14% of the cattle).
+
+Tool: #RStats https://t.co/uXhRP1Ezfb",1237617707106873344,2021-11-12 06:41:00+00:00,en,3,1,10,1,Twitter Web App,3_1458671079413661696,https://pbs.twimg.com/media/FD49nkyWQAAKzbs.png,photo, ,Benjamin Nowak,BjnNowak,False,1133,762
+1459047812516102145,#LaPalmaEruption #ErupcionLaPalma #ErupcionenLaPalma #CumbreVieja #Sentinel  #30DayMapChallenge https://t.co/rMN3GEdgeu,1381557275202965509,2021-11-12 06:38:00+00:00,und,0,0,0,0,Twitter Web App,3_1459047741586243584,https://pbs.twimg.com/media/FD-UMMuVgAAPcFb.jpg,photo, ,Syed Azeez,azeezm17,False,5,33
+1459047359145381891,#LaPalmaEruption #ErupcionLaPalma #ErupcionenLaPalma #CumbreVieja #sentinel2 #30DayMapChallenge https://t.co/nhfun6PWpY,1381557275202965509,2021-11-12 06:36:12+00:00,und,0,0,0,0,Twitter Web App,16_1459047272868499457,https://pbs.twimg.com/tweet_video_thumb/FD-Tw6nUUAEvD-l.jpg,animated_gif, ,Syed Azeez,azeezm17,False,5,33
+1459047226454409219,#LaPalmaEruption #ErupcionLaPalma #ErupcionenLaPalma #CumbreVieja #sentinel2 #30DayMapChallenge https://t.co/mnZ2m8iUyb,1381557275202965509,2021-11-12 06:35:41+00:00,und,0,0,0,0,Twitter Web App,3_1459047159790129152,https://pbs.twimg.com/media/FD-TqVXVUAA8lks.jpg,photo, ,Syed Azeez,azeezm17,False,5,33
+1459045797798940673,It's day 12 (#population) of the #30DayMapChallenge and I decided to have a look at how many people live within 300m of Hamburgs public transit stops https://t.co/87fwXgxrtI,70192766,2021-11-12 06:30:00+00:00,en,3,0,9,1,Twitter Web App,3_1455910696835862535,https://pbs.twimg.com/media/FDRvEKWX0Ackrd9.jpg,photo, ,Achim Tack,A_Tack,False,1812,1261
+1459044309236342807,Day 12: Population 👨‍👦‍👦👩‍👧‍👦. @DrNicNacks map shows the population distribution in South Africa. #30DayMapChallenge https://t.co/2rX0JELSX2,1109007483199213568,2021-11-12 06:24:05+00:00,en,2,0,5,1,Twitter for Android,3_1459044300793208844,https://pbs.twimg.com/media/FD-RD6xWYAw94rJ.jpg,photo, ,UP Mappers,UPmappers,False,86,66
+1459041576974381058,"#30DayMapChallenge #sentinel2 
+Mangole, Sanana and Seho Islands https://t.co/IkFHgQ8H7h",1381557275202965509,2021-11-12 06:13:14+00:00,tl,0,0,1,0,Twitter Web App,3_1459041566358585346,https://pbs.twimg.com/media/FD-OkwNVQAIMSdC.jpg,photo, ,Syed Azeez,azeezm17,False,5,33
+1459038791054856192,"The digital divide in the City of Aguascalientes as of 2020.💻 60 million Mexicans lack internet at home. The lack of internet access stands out in the high density urban zones across the country. Data from INEGI and OSM, map made with R by @santtuvp. #30DayMapChallenge https://t.co/VHHygiEvHC",973813309811187713,2021-11-12 06:02:10+00:00,en,3,0,8,0,Twitter Web App,7_1459038653989150720,https://pbs.twimg.com/ext_tw_video_thumb/1459038653989150720/pu/img/TtkodwT17oCZu9Jc.jpg,video, ,Gispo,gispofinland,False,993,298
+1459036183242051590,Day 11 of the #30DayMapChallenge:  3D…An old @LeafletJS map to show buildings from @nycgov building data with indoor wireless coverage systems in 3D…the original #PrivateNetworks. https://t.co/pKssHn2wwQ,276280627,2021-11-12 05:51:48+00:00,en,3,0,8,0,Twitter Web App,3_1459035747860697094,https://pbs.twimg.com/media/FD-JSEnVUAYOmgu.jpg,photo, ,Patrick Nelson,pnelson917,False,229,487
+1459033830791073793,I got overwhelmed with all the #30DayMapChallenge tweets and accidently made a #30DayChartChallenge entry. First time exploring the  #fitzRoy #rstats package. #AFL https://t.co/wj9HUkPmOj,45536151,2021-11-12 05:42:27+00:00,en,2,0,0,1,Twitter Web App,3_1459032796312133633,https://pbs.twimg.com/media/FD-GmRPUYAEqF_4.jpg,photo, ,David White,Makeo88,False,42,122
+1459030187878715393,"#30DayMapChallenge Day 12 | Population
+
+A significant number of #indigenouspeople live in #Bangladesh. The map shows the population distribution of these people. 
+#QGIS 
+Data Source: Bangladesh Bureau of Statistics https://t.co/L00OnHa5uM",771895849,2021-11-12 05:27:58+00:00,en,1,0,4,0,Twitter Web App,3_1459030106538532866,https://pbs.twimg.com/media/FD-EJtDUYAIXEWD.png,photo, ,Padmanabha Chowdhury,PadmanabhaChy,False,5,25
+1459029724940881920,"#30daymapchallenge 
+Day 4: Hexagons
+
+#cdmx🇲🇽 #mapoftheday #eod #zmvm #mobility #map #INEGI 
+
+Gracias por el curso de EOD @viajero9017 @PUEC_UNAM https://t.co/5X9aMPf9q5",509087207,2021-11-12 05:26:08+00:00,es,1,0,7,0,Twitter for Android,3_1459029722214678528,https://pbs.twimg.com/media/FD-DzVVXwAAe7eY.jpg,photo, ,Ihanelly,ihanelly_64,False,294,428
+1459029689897394178,"Norilsk, Russia on September 26, 2021 (69.3925, 88.4829).  Located in the Arctic Circle, and built on permafrost. The smoke you see are from nickel smelters of Norilsk-Tainakh,  responsible for as much as 1% of the world's SO2 emissions via @sentinel_hub for #30DayMapChallenge https://t.co/kNcXsXqDDJ",910623276778405888,2021-11-12 05:26:00+00:00,en,10,1,43,2,Twitter Web App,3_1459029007584825346,https://pbs.twimg.com/media/FD-DJvIVkAIEhrs.jpg,photo, ,AI6YR,ai6yrham,False,29365,1611
+1459025165346500610,#30DayMapChallenge day 11 - 3D.  I’ve never used rendering software in my life but thanks to excellent tutorials from @klaskarlsson and @pinakographos I managed to slap something together with QuickMapServices and DEM data I used for day 7 https://t.co/xvVAU3AqjV,1240462088687869952,2021-11-12 05:08:01+00:00,en,2,0,27,1,Twitter for iPhone,3_1459025159117889537,https://pbs.twimg.com/media/FD9_pueUYAEV25W.jpg,photo, ,Nate Ward,montlake_gis,False,24,58
+1459021069956780035,"#Day12 of #30DayMapChallenge: Population.
+A map of Kererū observations across New Zealand as recorded in the Great Kererū Count 2021 survey. https://t.co/bptAtMHbaW",93839237,2021-11-12 04:51:45+00:00,en,14,1,61,2,Twitter Web App,3_1459020857733369856,https://pbs.twimg.com/media/FD97vWkVUAAHLGy.jpg,photo, ,Andrew DC 🌈,andrewdc_nz,False,790,182
+1459016880987901957,"#30DayMapChallenge #3D #Oregon #MtHood
+
+Day 11: 3D
+
+Yesterday's map evolved into an even more three-dimensional looking mappy-postcardy thing. https://t.co/jI8C6KfLjX",14182494,2021-11-12 04:35:06+00:00,en,0,0,2,0,Twitter Web App,3_1459016109856681984,https://pbs.twimg.com/media/FD93a_WUcAA8RXD.jpg,photo, ,joelfeik,joelfeik,False,6,182
+1459015212833509376,#30DayMapChallenge back at it on Day 11 with a 3D map of Vail mountain which opens for winter activities tomorrow. Made with #Qgis2threejs ⛷❄️ https://t.co/UPOfkxBcLR,26189414,2021-11-12 04:28:28+00:00,en,2,1,13,1,Twitter for iPhone,7_1459015138044907530,https://pbs.twimg.com/ext_tw_video_thumb/1459015138044907530/pu/img/D_1YMDGmyOqz0EH0.jpg,video, ,Mike Floyd 🦉,mike_floyd_co,False,169,583
+1459010153278287897,"#30DayMapChallenge Day 11: 3D
+
+Wow was today's challenge...challenging. I don't often work in 3D, and this map gave me all sorts of fits (and ended in pretty much abject failure). I was playing around with a DEM of South Austin and the route of the Austin Marathon... https://t.co/VOBeSqTfVF",1278340072689958913,2021-11-12 04:08:22+00:00,en,1,1,6,0,Twitter Web App,3_1459009245349822469,https://pbs.twimg.com/media/FD9xLbEWQAUrUqa.jpg,photo, ,David Sherman,CartoDBS,False,89,97
+1459002822767357958,"#30DayMapChallenge Day 12 - population
+
+The Redder the block, the more people live there. The suburban Apartment blocks really show up in this, and this is 2016 data. https://t.co/BjQ4yui74c",21537132,2021-11-12 03:39:14+00:00,en,2,2,8,0,TweetDeck,3_1459002457028243458,https://pbs.twimg.com/media/FD9rASmXMAI7-c3.jpg,photo, ,HalifaxShippingNews,HfxShippingNews,False,4877,1278
+1458997994825650186,"my #30DayMapChallenge tweets this week are clearly a race against the clock😅
+
+Day 11: 3D 📦
+
+Topography map of Kilauea, Hawai'i using #Rayshader in R (can't wait to try this out a million more times)
+https://t.co/0XVzgYl5M4 https://t.co/5845rCaIQR",32127911,2021-11-12 03:20:03+00:00,en,3,1,16,1,Twitter Web App,3_1458997785450196995,https://pbs.twimg.com/media/FD9mwXnXMAMYqh_.jpg,photo, ,Z,Zaaaana_,False,405,343
+1458993332244336652,"Día 10 | Raster
+Día 11 | 3D (?)
+#30DayMapChallenge 
+
+San Fernando el verano de 2020
+
+Izq: imagen #landsat8
+Der: con un hillshade hecho en @blender para resaltar las formas del terreno
+
+Compuesto en @qgis, pero con ganas de meterme en @Photoshop para tener más control de las capas https://t.co/lzBiKGWoH1",1132858101940539392,2021-11-12 03:01:31+00:00,es,0,0,2,0,Twitter Web App,3_1458990867268653122,https://pbs.twimg.com/media/FD9gdrYWUEIAoq2.png,photo, ,Pedro Bonacic Vera,pibonacic,False,70,442
+1458991212409540622,"#30DayMapChallenge 2021
+Day 11: 3D - NHL Travel Schedule (2017-2018 season)
+
+Crashing ArcGIS Pro wasn’t on my list of tasks tonight so I'm testing 3D &amp; flow lines in https://t.co/ZZxKsPWEbW https://t.co/TjDG6iEfdQ",333524694,2021-11-12 02:53:06+00:00,en,5,0,29,0,Twitter Web App,3_1458990891943743503,https://pbs.twimg.com/media/FD9gfHTWUA8HL_W.jpg,photo, ,Christopher Pollard,CRVanPollard,False,1233,1207
+1458990888596688919,"I'm really not happy with this map. Just didn't give myself enough time to work on this when I don't do much in 3D. Ah, well, there's always next year.
+#30DayMapChallenge https://t.co/i3DN6nXSLh",579246246,2021-11-12 02:51:49+00:00,en,1,0,8,0,Twitter Web App,3_1458990798343655427,https://pbs.twimg.com/media/FD9gZqnWUAMkxKz.jpg,photo, ,cas 🌎,cas_maps,False,220,1148
+1458983792689909763,"¿Cómo se visualiza la superficie de terreno en la Alcaldía Benito Juárez? 🏠🏢
+
+Para el #30DayMapChallenge va un mapa en 3D en Kepler. 
+
+Descarga los datos en el SIGCMX de @LaAgenciaCDMX acá👇 
+https://t.co/QGmi5stSxe https://t.co/p3Xz7npX3s",883380487049302016,2021-11-12 02:23:37+00:00,es,1,2,19,0,Twitter Web App,3_1458983677178761217,https://pbs.twimg.com/media/FD9Z7KNVUAEQDwh.jpg,photo, ,Raúl Castellanos,rulocastellanos,False,954,1277
+1458975695158366216,"#30DayMapChallenge 3D
+
+code: https://t.co/syGVa0lzDz
+
+Didn't have time to play more with the quality. Maybe another day. https://t.co/WU5YWagCaY",2348651125,2021-11-12 01:51:26+00:00,en,1,0,5,0,Twitter Web App,3_1458975682793459727,https://pbs.twimg.com/media/FD9Sp0zWUA8joks.png,photo, ,Ciro Ramirez Suastegui,Cramsuig,False,247,711
+1458973554964238340,#30DayMapChallenge 3D map of a southern portion of the AZT that passes east of Tucson. https://t.co/4l7s5QYKUf,983775463540535297,2021-11-12 01:42:56+00:00,en,4,0,30,0,Twitter for Android,3_1458973551898226690,https://pbs.twimg.com/media/FD9QtymVcAIPPPS.jpg,photo, ,Glenn Ingram,_glenningram,False,147,413
+1458973432952107015,"Big thanks to @sergioajv1 for the original map which we transformed into 3D! Explore the map on https://t.co/yOQ7v9hiSe:
+https://t.co/lwCSLvAZp1
+
+And check out the final result in 3D on Sketchfab: https://t.co/bVWoyeGsfe
+
+#30DayMapChallenge #3DMap #Mapping #Maps #GIS #art #mapart https://t.co/M4WiCoJeQn",959750470678986752,2021-11-12 01:42:27+00:00,en,0,0,5,1,Twitter Web App,3_1458973282246422528,https://pbs.twimg.com/media/FD9QeGEVcAAbzP7.jpg,photo, ,Soar.Earth,Soar_Earth,False,2673,814
+1458972872161046529,"#30DayMapChallenge raster
+
+code: https://t.co/syGVa0lzDz https://t.co/5nZHYOESol",2348651125,2021-11-12 01:40:13+00:00,en,1,1,6,0,Twitter Web App,3_1458972850648502276,https://pbs.twimg.com/media/FD9QE-PX0AQXdRg.jpg,photo, ,Ciro Ramirez Suastegui,Cramsuig,False,247,711
+1458972206256508930,"Today's #30DayMapChallenge goal is ‘#3D Maps’. With the help of our resident #SoarEarth 3D imaging whiz, we’ve made 3D versions of some #maps on our platform! 🏔️ 
+ 
+Find out how he did it in our new blog: https://t.co/MlleC3TBXC https://t.co/wdicpxPjpe",959750470678986752,2021-11-12 01:37:35+00:00,en,3,2,13,1,Sendible,16_1458972201953202176,https://pbs.twimg.com/tweet_video_thumb/FD9PfNqXEAAR_0_.jpg,animated_gif, ,Soar.Earth,Soar_Earth,False,2673,814
+1458971889414684673,"#30DayMapChallenge #Geogeek #GIS #GISday2021 
+
+https://t.co/Sd1b8CTDck https://t.co/7W5ECPLRkl",1360522288119099393,2021-11-12 01:36:19+00:00,und,0,0,0,0,Twitter Web App,3_1458971263158956033,https://pbs.twimg.com/media/FD9OokYXsAEHTUF.jpg,photo, ,The Merch,Crystal76605635,False,10,144
+1458971446365937668,"#30DayMapChallenge 3D.
+
+Y aquí esta desde la perspectiva de la Obregón. https://t.co/bb8GWXwV9l https://t.co/ZmliRjJmih",1058153682905296896,2021-11-12 01:34:33+00:00,es,2,2,4,0,Twitter Web App,3_1458971085358071810,https://pbs.twimg.com/media/FD9OeOBVgAIHhRW.jpg,photo, ,Emmanuel Espinoza,EI_Manny,False,115,50
+1458967310702628865,"#30DayMapChallenge, Day 12: Population
+.
+Personas de 3 a 130 años de edad que hablan alguna lengua indígena por cada 100 habitantes por manzana. Ciudad de México y zona conurbada. Censo de Población y Vivienda 2020, INEGI https://t.co/H3TMdLw7Ni",23676785,2021-11-12 01:18:07+00:00,es,2,0,2,1,Twitter Web App,3_1458967039868026883,https://pbs.twimg.com/media/FD9KyvZWQAMVqkX.jpg,photo, ,(っ◔◡◔)っ ★,ishiba,False,632,739
+1458966154945257473,#30DayMapChallenge day 11: 3D. Space time cube on NYC collision data. #ArcGISPro https://t.co/S4OW0jeVdh,3536376796,2021-11-12 01:13:32+00:00,en,4,0,40,2,Twitter for iPhone,3_1458966150700666883,https://pbs.twimg.com/media/FD9J--_VEAMZMZv.jpg,photo, ,Zihan Song,song_zihan,False,187,78
+1458964907160969217,"#30DayMapChallenge 
+Día 11: Mapa en 3D
+
+Fuente: Elaboración propia con datos de catastro. https://t.co/olIDKjYQFM",1352456228455256068,2021-11-12 01:08:34+00:00,es,1,1,4,1,Twitter for Android,3_1458964904468230146,https://pbs.twimg.com/media/FD9I2caXMAIT5Sa.jpg,photo, ,Guaiacum,Guaiacumac,False,115,46
+1458964021156012032,Day 10: Raster. Experimented with Tom Patterson's techniques for Sentinel-2 Data from https://t.co/sWOWtpbch9 #30DayMapChallenge https://t.co/ufmUxbfixy,198918596,2021-11-12 01:05:03+00:00,en,1,0,5,0,Twitter Web App,3_1458963979410182165,https://pbs.twimg.com/media/FD9IAmTVkBUBKYR.jpg,photo, ,Morgan Moe,MorganSMoe,False,399,163
+1458960606338469889,"Day 11 of #30DayMapChallenge: 3D! Here's a map of Middle-earth, showing Frodo's journey and #rayshader's full set of powers. I could keep adding to it but I'm out of time. 😋 
+
+High-quality render is in the works.
+
+#rayshader #lotr adventures, an #rstats tale https://t.co/mMLKRIGHSV",946151815,2021-11-12 00:51:29+00:00,en,9,2,55,3,Twitter Web App,7_1458960434451599360,https://pbs.twimg.com/ext_tw_video_thumb/1458960434451599360/pu/img/fnaO-vPXZVvQyIwu.jpg,video, ,flotsam,researchremora,False,2749,968
+1458949955255681034,"#GIS not just useful for studying our home🌍 it can also be used to analyse features on other planets visited by survey spacecraft &amp; rovers, for example methane frost mountains of Pluto rising 1000s metres above nitrogen ice plains &amp; glaciers! #3d #30DayMapChallenge @jmars_gis 🛰️ https://t.co/ggn5nik5zv",3308382005,2021-11-12 00:09:09+00:00,en,2,0,5,0,Twitter Web App,3_1458949897512701956,https://pbs.twimg.com/media/FD87M7JWUAQLrbu.jpg,photo, ,Conor Graham #GeoSTEM Geography Jedi 🛰️⛰️🌋🌎🌏🌍,GeoConor,False,2767,5001
