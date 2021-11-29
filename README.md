@@ -1,5 +1,5 @@
 ## 30DayMapChallenge-Bot
-Monitoring [#30DayMapChallenge 2020](https://github.com/tjukanovt/30DayMapChallenge) launched by [Topi Tjukanov](https://twitter.com/tjukanov) on Twitter. Trying to engage this wonderful event in a special way. 
+Monitoring [#30DayMapChallenge 2021](https://github.com/tjukanovt/30DayMapChallenge) launched by [Topi Tjukanov](https://twitter.com/tjukanov) on Twitter. Trying to engage this wonderful event in a special way. 
 
 ![images](./static/logo-2021.png)
 
