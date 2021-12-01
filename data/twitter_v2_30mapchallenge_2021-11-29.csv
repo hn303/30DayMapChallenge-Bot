@@ -1,67 +1,67 @@
-tweet_id,text,author_id,created_at,lang,retweet_count,reply_count,like_count,quote_count,source,media_key,media_url,media_type,media_view,user_name,user_username,user_verified,user_followers_count,user_following_count
+tweet_id,text,author_id,created_at,lang,retweet_count,reply_count,like_count,quote_count,source,media_key,media_url,media_type,media_view,user_name,user_username,user_verified,user_followers_count,user_following_count,user_location
 1465469319337463813,"Día 29: #NULL. ¿Alguna vez se preguntaron en dónde caerían las coordenadas invertidas de sus ciudades? Acá un ejemplo con 5 de las capitales de Latinoamérica 🇨🇴🇵🇪🇪🇨🇦🇷🇺🇾.
-#30DayMapChallenge #Map #QGIS #data #Mapping #Colombia #Ecuador #Perú #Argentina #Uruguay https://t.co/Miu8qsteIL",3081831303,2021-11-29 23:54:47+00:00,es,1,0,4,1,Twitter Web App,3_1465468828725522432,https://pbs.twimg.com/media/FFZkIqWXsAADeky.jpg,photo, ,Properati Data,Properati_Data,False,1223,564
-1465468209990090752,"Mapa de calor del número de niveles de edificios en el municipio de Guadalajara. Heatmap of the number of levels of buildings in Guadalajara, Mexico #30DayMapChallenge https://t.co/FgSWdZjIDy",97729765,2021-11-29 23:50:23+00:00,es,7,0,18,0,Twitter Web App,3_1465467384119140360,https://pbs.twimg.com/media/FFZi0kxXoAgiOq2.jpg,photo, ,Carlos Ruiz,cruizch,False,510,97
+#30DayMapChallenge #Map #QGIS #data #Mapping #Colombia #Ecuador #Perú #Argentina #Uruguay https://t.co/Miu8qsteIL",3081831303,2021-11-29 23:54:47+00:00,es,1,0,5,1,Twitter Web App,3_1465468828725522432,https://pbs.twimg.com/media/FFZkIqWXsAADeky.jpg,photo, ,Properati Data,Properati_Data,False,1223,564, 
+1465468209990090752,"Mapa de calor del número de niveles de edificios en el municipio de Guadalajara. Heatmap of the number of levels of buildings in Guadalajara, Mexico #30DayMapChallenge https://t.co/FgSWdZjIDy",97729765,2021-11-29 23:50:23+00:00,es,8,0,22,0,Twitter Web App,3_1465467384119140360,https://pbs.twimg.com/media/FFZi0kxXoAgiOq2.jpg,photo, ,Carlos Ruiz,cruizch,False,510,97,"Zapopan, México"
 1465467857526005770,"Earth is not flat, actually she is turning round and round and round...
-Day 28 of #30DayMapChallenge: earth is not flat https://t.co/Q9oarjEDjc",26062194,2021-11-29 23:48:58+00:00,en,1,1,4,0,Twitter Web App,3_1465467678022418439,https://pbs.twimg.com/media/FFZjFrpXwAcz0kT.png,photo, ,Patrick Mast,patrick_mast,False,58,137
+Day 28 of #30DayMapChallenge: earth is not flat https://t.co/Q9oarjEDjc",26062194,2021-11-29 23:48:58+00:00,en,2,1,5,1,Twitter Web App,3_1465467678022418439,https://pbs.twimg.com/media/FFZjFrpXwAcz0kT.png,photo, ,Patrick Mast,patrick_mast,False,59,137,"Hamburg, Germany"
 1465467529791479812,"i didn't know what to make but that kinda works in my favour for today's #30DayMapChallenge 
 Day 29: N U L L 🚫
 Rewatching Gravity Falls for the 3rd time and I just wanna visit the Mystery Shack...but where could it realistically be?
-https://t.co/u7C00Zt47D https://t.co/g2GNJevQXb",32127911,2021-11-29 23:47:40+00:00,en,1,0,1,0,Twitter Web App,3_1465467499965784069,https://pbs.twimg.com/media/FFZi7UVXIAUqJy3.jpg,photo, ,Z,Zaaaana_,False,406,344
+https://t.co/u7C00Zt47D https://t.co/g2GNJevQXb",32127911,2021-11-29 23:47:40+00:00,en,1,0,1,0,Twitter Web App,3_1465467499965784069,https://pbs.twimg.com/media/FFZi7UVXIAUqJy3.jpg,photo, ,Z,Zaaaana_,False,408,349,TT
 1465465064820027397,"Day #27: Heatmap - 
 
 Rat sightings in NYC from 2010 to present using NYC Open Data and OpenStreetMap
 
-#30DayMapChallenge https://t.co/TBdf9h3aW9",281310591,2021-11-29 23:37:53+00:00,en,1,1,12,0,Twitter Web App,3_1465464905373556744,https://pbs.twimg.com/media/FFZgkSuXoAgTrD2.jpg,photo, ,Taylor Johnston,TF_Johnston,True,1730,3011
+#30DayMapChallenge https://t.co/TBdf9h3aW9",281310591,2021-11-29 23:37:53+00:00,en,1,1,14,0,Twitter Web App,3_1465464905373556744,https://pbs.twimg.com/media/FFZgkSuXoAgTrD2.jpg,photo, ,Taylor Johnston,TF_Johnston,True,1734,3013,CLE ➡️ NYC
 1465462762012827655,"#30DayMapChallenge Day 29: NULL.
-Another lazy effort from me by re-using yesterday's datasets in #qgis and #b3d again and a re-design of last year's effort on #Null Island. https://t.co/vkk8hB6Lyh",309734801,2021-11-29 23:28:44+00:00,en,3,1,9,0,Twitter Web App,3_1465462694287486981,https://pbs.twimg.com/media/FFZejlyXsAUtUo8.jpg,photo, ,Sam J,samwise_v,False,234,512
+Another lazy effort from me by re-using yesterday's datasets in #qgis and #b3d again and a re-design of last year's effort on #Null Island. https://t.co/vkk8hB6Lyh",309734801,2021-11-29 23:28:44+00:00,en,3,1,13,0,Twitter Web App,3_1465462694287486981,https://pbs.twimg.com/media/FFZejlyXsAUtUo8.jpg,photo, ,Sam J,samwise_v,False,234,516,"London, UK"
 1465462572249985024,"Day #26: Choropleth - 
 
 An old map I made for @makeover_monday.. rent price parities in the U.S.
 
 https://t.co/ZOuq7pk7Xo
 
-#30DayMapChallenge https://t.co/cvYfxMiOE3",281310591,2021-11-29 23:27:58+00:00,en,1,0,1,0,Twitter Web App,3_1465462249372405764,https://pbs.twimg.com/media/FFZeJsWWUAQozS_.jpg,photo, ,Taylor Johnston,TF_Johnston,True,1730,3011
+#30DayMapChallenge https://t.co/cvYfxMiOE3",281310591,2021-11-29 23:27:58+00:00,en,1,0,2,0,Twitter Web App,3_1465462249372405764,https://pbs.twimg.com/media/FFZeJsWWUAQozS_.jpg,photo, ,Taylor Johnston,TF_Johnston,True,1734,3013,CLE ➡️ NYC
 1465452832388263942,"A reference map of this tweet.
-#30DayMapChallenge (meta) https://t.co/0q6WsnSblu https://t.co/BHg2mciiiD",60300190,2021-11-29 22:49:16+00:00,en,2,0,5,0,Twitter Web App,3_1465452598299930627,https://pbs.twimg.com/media/FFZVX7TXMAMYMA1.jpg,photo, ,Greg Fiske,g_fiske,False,3291,1513
+#30DayMapChallenge (meta) https://t.co/0q6WsnSblu https://t.co/BHg2mciiiD",60300190,2021-11-29 22:49:16+00:00,en,2,0,8,0,Twitter Web App,3_1465452598299930627,https://pbs.twimg.com/media/FFZVX7TXMAMYMA1.jpg,photo, ,Greg Fiske,g_fiske,False,3289,1514,Woods Hole
 1465452455538282500,"Day 30 of #30DayMapChallenge 2021 – Metamapping
 
 https://t.co/o2BQ09A77G
 
 All of the maps I've made for the challenges over the last three years.
 
-Now it's time to put the Christmas tree up. https://t.co/AZUfJbSUcx",1020137956869222401,2021-11-29 22:47:46+00:00,en,3,0,13,1,Twitter Web App,3_1465452254727602183,https://pbs.twimg.com/media/FFZVD7ZVgAc5qDH.jpg,photo, ,Andrew Tyrrell,SouthArrowMaps,False,1475,217
-1465450931005362176,#30DayMapChallenge 2021 - Day 26: Choropleth https://t.co/uVCliDQ8iF,1180074260385206277,2021-11-29 22:41:43+00:00,en,1,0,1,0,Twitter for Android,3_1465450925196296203,https://pbs.twimg.com/media/FFZT2igXwAsXyCt.jpg,photo, ,Aaron Koelker,AaronKoelker,False,237,283
+Now it's time to put the Christmas tree up. https://t.co/AZUfJbSUcx",1020137956869222401,2021-11-29 22:47:46+00:00,en,3,0,26,1,Twitter Web App,3_1465452254727602183,https://pbs.twimg.com/media/FFZVD7ZVgAc5qDH.jpg,photo, ,Andrew Tyrrell,SouthArrowMaps,False,1479,217,"Christchurch, New Zealand"
+1465450931005362176,#30DayMapChallenge 2021 - Day 26: Choropleth https://t.co/uVCliDQ8iF,1180074260385206277,2021-11-29 22:41:43+00:00,en,1,1,2,0,Twitter for Android,3_1465450925196296203,https://pbs.twimg.com/media/FFZT2igXwAsXyCt.jpg,photo, ,Aaron Koelker,AaronKoelker,False,237,283,"Tallahassee, FL"
 1465449823209984001,"#30DayMapChallenge
 Day 29: NULL
-Country names without N U L L https://t.co/rdGAXBxsSU",91548216,2021-11-29 22:37:19+00:00,en,1,0,7,0,Twitter Web App,3_1465449750447153158,https://pbs.twimg.com/media/FFZSyKOWYAYkq-b.jpg,photo, ,Cord Niehaus,Cordster76,False,87,598
+Country names without N U L L https://t.co/rdGAXBxsSU",91548216,2021-11-29 22:37:19+00:00,en,1,0,8,0,Twitter Web App,3_1465449750447153158,https://pbs.twimg.com/media/FFZSyKOWYAYkq-b.jpg,photo, ,Cord Niehaus,Cordster76,False,89,606,"Bremen, Germany"
 1465448170662547459,"Day 29: NULL
 #30DayMapChallenge
 Elevation 0m
-Data: SRTM, QGIS+GDAL https://t.co/lPl2F3Jh8V",14992557,2021-11-29 22:30:45+00:00,fr,8,0,47,0,Twitter Web App,3_1465448153029787661,https://pbs.twimg.com/media/FFZRVLYXwA0P1Fv.png,photo, ,gontsa,gontsa,False,5093,1464
-1465447704289492992,#30DayMapChallenge - Día XXVIII https://t.co/2iKKdKLv9E,601582057,2021-11-29 22:28:54+00:00,es,2,0,3,0,Twitter Web App,3_1465447565525192710,https://pbs.twimg.com/media/FFZQy-wXEAYgEAQ.jpg,photo, ,Sr Miguelo,MiguE_garva,False,337,526
+Data: SRTM, QGIS+GDAL https://t.co/lPl2F3Jh8V",14992557,2021-11-29 22:30:45+00:00,fr,8,0,50,0,Twitter Web App,3_1465448153029787661,https://pbs.twimg.com/media/FFZRVLYXwA0P1Fv.png,photo, ,gontsa,gontsa,False,5142,1467,"Cherkasy, Ukraine"
+1465447704289492992,#30DayMapChallenge - Día XXVIII https://t.co/2iKKdKLv9E,601582057,2021-11-29 22:28:54+00:00,es,2,0,4,0,Twitter Web App,3_1465447565525192710,https://pbs.twimg.com/media/FFZQy-wXEAYgEAQ.jpg,photo, ,Sr Miguelo,MiguE_garva,False,339,526,tu corazón
 1465443683101204484,"#30DayMapChallenge Day 29 - Null
 Mapped the countries where FIFA's Soccer World Cup Title is NULL
-I'm sorry for you 😎 https://t.co/tFjMykERhO",180939408,2021-11-29 22:12:55+00:00,en,1,0,6,0,Twitter Web App,3_1465443618299252746,https://pbs.twimg.com/media/FFZNNOMXEAo-Bfl.jpg,photo, ,torts,tgsousa_,False,1009,1149
+I'm sorry for you 😎 https://t.co/tFjMykERhO",180939408,2021-11-29 22:12:55+00:00,en,1,0,7,0,Twitter Web App,3_1465443618299252746,https://pbs.twimg.com/media/FFZNNOMXEAo-Bfl.jpg,photo, ,torts,tgsousa_,False,1010,1150, 
 1465443494454083588,"#30DayMapChallenge | Day 19 | #Island(s)
 
 The world's 10.000 smallest islands according to the Global Island Explorer (GIE) by @USGS. 
 
 👉🧵for maps showing the 100, 500, 1000, 5000, and 50000 smallest islands
 
-Made in #rstats with #ggplot2. #rspatial https://t.co/osEBkRbsX9",3092381638,2021-11-29 22:12:10+00:00,en,5,1,13,1,Twitter Web App,3_1465442518070407172,https://pbs.twimg.com/media/FFZMNLhXMAQj5-n.jpg,photo, ,Cédric Scherer,CedScherer,False,13735,1934
+Made in #rstats with #ggplot2. #rspatial https://t.co/osEBkRbsX9",3092381638,2021-11-29 22:12:10+00:00,en,6,1,20,1,Twitter Web App,3_1465442518070407172,https://pbs.twimg.com/media/FFZMNLhXMAQj5-n.jpg,photo, ,Cédric Scherer,CedScherer,False,13776,1937,"Berlin, Germany"
 1465443404083568649,"29. Null
-#30DayMapChallenge https://t.co/gq5hWvUO5H",807289,2021-11-29 22:11:48+00:00,sv,1,0,6,1,Twitter Web App,3_1465443279420411913,https://pbs.twimg.com/media/FFZM5fxWUAkVqGM.jpg,photo, ,Martin Kleppe,aemkei,False,8659,404
-1465442779304132614,"#30DayMapChallenge Day 29: Null. Every time when I search for data, I get disappointed when finding there are a lot of null values. But for some dataset, I hope they all can be null someday.#ArcGISPro https://t.co/ImRffnTgd4",3536376796,2021-11-29 22:09:19+00:00,en,1,0,9,0,Twitter for iPhone,3_1465442773167841280,https://pbs.twimg.com/media/FFZMcB1VIAAIfG0.jpg,photo, ,Zihan Song,song_zihan,False,194,78
+#30DayMapChallenge https://t.co/gq5hWvUO5H",807289,2021-11-29 22:11:48+00:00,sv,1,1,6,1,Twitter Web App,3_1465443279420411913,https://pbs.twimg.com/media/FFZM5fxWUAkVqGM.jpg,photo, ,Martin Kleppe,aemkei,False,8660,404,"Hamburg, Germany"
+1465442779304132614,"#30DayMapChallenge Day 29: Null. Every time when I search for data, I get disappointed when finding there are a lot of null values. But for some dataset, I hope they all can be null someday.#ArcGISPro https://t.co/ImRffnTgd4",3536376796,2021-11-29 22:09:19+00:00,en,1,0,11,0,Twitter for iPhone,3_1465442773167841280,https://pbs.twimg.com/media/FFZMcB1VIAAIfG0.jpg,photo, ,Zihan Song,song_zihan,False,201,78,"Redlands, CA"
 1465439989919989761,"#30DayMapChallenge 
 Día 29. Nulos
-Según el archivo histórico de localidades geoestadísticas de INEGI, en Jalisco hay 7,639 localidades que en el Censo de Población y Vivienda de 2020 estaban deshabitadas. Te presentamos su distribución por región. https://t.co/mBqubX5yBw",2239825712,2021-11-29 21:58:14+00:00,es,5,0,8,0,Twitter Web App,3_1465439914116280322,https://pbs.twimg.com/media/FFZJ1nCUcAI4NMp.jpg,photo, ,IIEG Jalisco,IIEGJ,False,5468,0
+Según el archivo histórico de localidades geoestadísticas de INEGI, en Jalisco hay 7,639 localidades que en el Censo de Población y Vivienda de 2020 estaban deshabitadas. Te presentamos su distribución por región. https://t.co/mBqubX5yBw",2239825712,2021-11-29 21:58:14+00:00,es,5,0,11,0,Twitter Web App,3_1465439914116280322,https://pbs.twimg.com/media/FFZJ1nCUcAI4NMp.jpg,photo, ,IIEG Jalisco,IIEGJ,False,5475,0,"Jalisco, México"
 1465439677234626564,"Day 29: NULL | #30DayMapChallenge
 This was an effort of @Taller_Siranda. We tried to emphasize on the context of COVID-19 in Mexico and the US that NULL information is also information. NULL positive cases doesn't mean that there were not any cases.
-Special credits to @morasvc https://t.co/tdk9WHsRHT",1263997606759403520,2021-11-29 21:57:00+00:00,en,1,0,4,0,Twitter Web App,3_1453117848964976642,https://pbs.twimg.com/media/FCqC_BRWUAIkOpW.jpg,photo, ,Sebastián Estremo,S_Estremo,False,280,127
-1465438256900804613,"We're nearly at the end of the #30DayMapChallenge (phew!), the penultimate day #day29 has the theme of NULL. Although mapping nothing today was tempting, I've put together a map of Bir Tawil, an area of habitable land on the Egypt-Sudan border that is claimed by no country. https://t.co/l759qVHIOQ",925570614,2021-11-29 21:51:21+00:00,en,3,1,11,0,Twitter Web App,3_1465438117159133186,https://pbs.twimg.com/media/FFZINA2WYAIJQPk.jpg,photo, ,Heather Chamberlain,HeatherCh100,False,587,926
-1465437080893468676,#30DayMapChallenge 2021 - Day 25: Interactive https://t.co/SFRm8xuJ0Q,1180074260385206277,2021-11-29 21:46:41+00:00,en,1,1,4,0,Twitter for Android,3_1465437076078436357,https://pbs.twimg.com/media/FFZHQahXoAUDazE.jpg,photo, ,Aaron Koelker,AaronKoelker,False,237,283
-1465436680341659654,Not sure if this counts for #30DayMapChallenge day 29 - NULL... https://t.co/mPZjhMzuc4,525654957,2021-11-29 21:45:05+00:00,en,1,0,0,0,Twitter Web App,3_1465436515325075463,https://pbs.twimg.com/media/FFZGvxjWYAcYUI3.png,photo, ,Alan Haynes,aghaynes,False,123,190
+Special credits to @morasvc https://t.co/tdk9WHsRHT",1263997606759403520,2021-11-29 21:57:00+00:00,en,1,0,4,0,Twitter Web App,3_1453117848964976642,https://pbs.twimg.com/media/FCqC_BRWUAIkOpW.jpg,photo, ,Sebastián Estremo,S_Estremo,False,288,128, 
+1465438256900804613,"We're nearly at the end of the #30DayMapChallenge (phew!), the penultimate day #day29 has the theme of NULL. Although mapping nothing today was tempting, I've put together a map of Bir Tawil, an area of habitable land on the Egypt-Sudan border that is claimed by no country. https://t.co/l759qVHIOQ",925570614,2021-11-29 21:51:21+00:00,en,3,1,15,0,Twitter Web App,3_1465438117159133186,https://pbs.twimg.com/media/FFZINA2WYAIJQPk.jpg,photo, ,Heather Chamberlain,HeatherCh100,False,601,929, 
+1465437080893468676,#30DayMapChallenge 2021 - Day 25: Interactive https://t.co/SFRm8xuJ0Q,1180074260385206277,2021-11-29 21:46:41+00:00,en,1,1,4,0,Twitter for Android,3_1465437076078436357,https://pbs.twimg.com/media/FFZHQahXoAUDazE.jpg,photo, ,Aaron Koelker,AaronKoelker,False,237,283,"Tallahassee, FL"
+1465436680341659654,Not sure if this counts for #30DayMapChallenge day 29 - NULL... https://t.co/mPZjhMzuc4,525654957,2021-11-29 21:45:05+00:00,en,1,0,0,0,Twitter Web App,3_1465436515325075463,https://pbs.twimg.com/media/FFZGvxjWYAcYUI3.png,photo, ,Alan Haynes,aghaynes,False,124,190,"Oftringen, Schweiz"
 1465436075212611585,"#30DayMapChallenge Day 25. Interactive
 
 'Testing interaction'  🖱️
@@ -72,99 +72,99 @@ Live:  https://t.co/0WgkdbY8yw
 
 Data: https://t.co/lj1SI5Ndxc, ANCPI
 
-#D3js #QGIS https://t.co/DWicVvLfVu",1082711230459060224,2021-11-29 21:42:41+00:00,en,1,1,0,1,Twitter Web App,3_1465435761143169029,https://pbs.twimg.com/media/FFZGD4AXwAUQC4c.jpg,photo, ,MapTheClouds,maptheclouds,False,401,506
+#D3js #QGIS https://t.co/DWicVvLfVu",1082711230459060224,2021-11-29 21:42:41+00:00,en,1,1,0,1,Twitter Web App,3_1465435761143169029,https://pbs.twimg.com/media/FFZGD4AXwAUQC4c.jpg,photo, ,MapTheClouds,maptheclouds,False,419,543, 
 1465435891053346819,"Je crois que c'est clair
-#30Daymapchallenge  #worldisnotflat #day28 https://t.co/YC0T6sKzIN",1039247575965224960,2021-11-29 21:41:57+00:00,fr,0,0,3,0,Twitter Web App,3_1465435556104609803,https://pbs.twimg.com/media/FFZF38LXoAswlrq.jpg,photo, ,Habemus-Modelum,habemusmodelum,False,6,30
-1465434416742912003,"#30DayMapChallenge day 29: Null. Austrian towns where only one (or even none) party was running in local elections - so in a way, party choice is null. https://t.co/laNEVQZAPt",3302833893,2021-11-29 21:36:06+00:00,en,2,0,3,0,Twitter Web App,3_1465433843377315841,https://pbs.twimg.com/media/FFZEUPxXIAE5GKL.jpg,photo, ,Flooh Perlot,drawingdata,False,1447,166
-1465434303349899270,"#30DayMapChallenge - 29 - Null island, 570km south of Ahanta West, Ghana. #SHP from @UNOCHA #OpenData, via #QGIS &amp; #GIMP https://t.co/PyBlPX46BH",2224550306,2021-11-29 21:35:39+00:00,en,1,0,1,0,Twitter Web App,3_1465433517412728846,https://pbs.twimg.com/media/FFZEBRdWQA44tD3.jpg,photo, ,MonkeyOnTheMountainⓋ,Monk_Po,False,412,610
+#30Daymapchallenge  #worldisnotflat #day28 https://t.co/YC0T6sKzIN",1039247575965224960,2021-11-29 21:41:57+00:00,fr,0,0,4,0,Twitter Web App,3_1465435556104609803,https://pbs.twimg.com/media/FFZF38LXoAswlrq.jpg,photo, ,Habemus-Modelum,habemusmodelum,False,6,30, 
+1465434416742912003,"#30DayMapChallenge day 29: Null. Austrian towns where only one (or even none) party was running in local elections - so in a way, party choice is null. https://t.co/laNEVQZAPt",3302833893,2021-11-29 21:36:06+00:00,en,2,0,4,0,Twitter Web App,3_1465433843377315841,https://pbs.twimg.com/media/FFZEUPxXIAE5GKL.jpg,photo, ,Flooh Perlot,drawingdata,False,1446,166,"Vienna, Austria"
+1465434303349899270,"#30DayMapChallenge - 29 - Null island, 570km south of Ahanta West, Ghana. #SHP from @UNOCHA #OpenData, via #QGIS &amp; #GIMP https://t.co/PyBlPX46BH",2224550306,2021-11-29 21:35:39+00:00,en,1,0,1,0,Twitter Web App,3_1465433517412728846,https://pbs.twimg.com/media/FFZEBRdWQA44tD3.jpg,photo, ,MonkeyOnTheMountainⓋ,Monk_Po,False,412,610,Rainbow Unicorn Mountain-SWUK
 1465433503059914754,"All human settlements.
-Day 27 of #30DayMapChallenge: heatmap https://t.co/wddZXA3iNS",26062194,2021-11-29 21:32:28+00:00,en,2,1,1,0,Twitter Web App,3_1465433457044172803,https://pbs.twimg.com/media/FFZD9wkXMAMPqPa.png,photo, ,Patrick Mast,patrick_mast,False,58,137
+Day 27 of #30DayMapChallenge: heatmap https://t.co/wddZXA3iNS",26062194,2021-11-29 21:32:28+00:00,en,2,1,2,1,Twitter Web App,3_1465433457044172803,https://pbs.twimg.com/media/FFZD9wkXMAMPqPa.png,photo, ,Patrick Mast,patrick_mast,False,59,137,"Hamburg, Germany"
 1465433316446941190,"#30DayMapChallenge day 28 was ""not flat"". Here's the countries of the world with parts of flat in their name.
 Code: https://t.co/Ep13XPfBOG
-#RStats https://t.co/b8uY48zM5K",525654957,2021-11-29 21:31:43+00:00,en,3,1,4,0,Twitter Web App,3_1465432167085969411,https://pbs.twimg.com/media/FFZCyrGXEAMTjNL.png,photo, ,Alan Haynes,aghaynes,False,123,190
+#RStats https://t.co/b8uY48zM5K",525654957,2021-11-29 21:31:43+00:00,en,3,1,4,0,Twitter Web App,3_1465432167085969411,https://pbs.twimg.com/media/FFZCyrGXEAMTjNL.png,photo, ,Alan Haynes,aghaynes,False,124,190,"Oftringen, Schweiz"
 1465431944787750915,"#30DayMapChallenge Day 29 - NULL
 
-""No Data"" https://t.co/b5crJSi78S",985921631439568896,2021-11-29 21:26:16+00:00,it,2,0,5,0,Twitter Web App,3_1465431423360270337,https://pbs.twimg.com/media/FFZCHYgVgAEZR7D.jpg,photo, ,Kenneth Wong,Kenneth_KHW,False,308,259
-1465430494020091907,"As we look forward to the end of the #30daymapchallenge, a diagram of my office: where the magic happens. Photo taken by @g_fiske https://t.co/Ny3SM2pZ7w",822048926081712128,2021-11-29 21:20:30+00:00,en,2,6,101,2,Twitter Web App,3_1465429660322443267,https://pbs.twimg.com/media/FFZAgwrXMAMcD7D.jpg,photo, ,Carl Churchill,Cchurchili,False,2711,1143
+""No Data"" https://t.co/b5crJSi78S",985921631439568896,2021-11-29 21:26:16+00:00,it,2,0,5,0,Twitter Web App,3_1465431423360270337,https://pbs.twimg.com/media/FFZCHYgVgAEZR7D.jpg,photo, ,Kenneth Wong,Kenneth_KHW,False,309,259,Hong Kong
+1465430494020091907,"As we look forward to the end of the #30daymapchallenge, a diagram of my office: where the magic happens. Photo taken by @g_fiske https://t.co/Ny3SM2pZ7w",822048926081712128,2021-11-29 21:20:30+00:00,en,5,7,143,2,Twitter Web App,3_1465429660322443267,https://pbs.twimg.com/media/FFZAgwrXMAMcD7D.jpg,photo, ,Carl Churchill,Cchurchili,False,2724,1143,CO / Tabeguache Ute Land
 1465430491784519690,"Råkande göra en karta... inte passar den i #30DayMapChallenge men ändå.... :)
 
-Åk skidor i Bergebo! #Borlänge #skidor #konstsnö #skidspår #twittski #domnarvetsgoif #skate #klassiskt https://t.co/YCZxRBUj8l",143843229,2021-11-29 21:20:30+00:00,sv,0,1,1,0,Twitter Web App,3_1465430205414219792,https://pbs.twimg.com/media/FFZBAfTXoBAr2JM.jpg,photo, ,ABC,zerbembasqwibo,False,210,82
+Åk skidor i Bergebo! #Borlänge #skidor #konstsnö #skidspår #twittski #domnarvetsgoif #skate #klassiskt https://t.co/YCZxRBUj8l",143843229,2021-11-29 21:20:30+00:00,sv,0,1,2,0,Twitter Web App,3_1465430205414219792,https://pbs.twimg.com/media/FFZBAfTXoBAr2JM.jpg,photo, ,ABC,zerbembasqwibo,False,211,82, 
 1465420913453801487,"#30DayMapChallenge Day 21 - Elevation. @MRuehringer and I did a #MapCollab of ski slopes on the border of Austria🇦🇹 and Switzerland🇨🇭! We did half a map each and merged them together🎿
 
-Data: @openstreetmap, @swisstopo, Geoland Austria. Maria used QGIS and I used ArcGIS Pro ❄️ https://t.co/SOIgWBy63N",1183213291188834305,2021-11-29 20:42:26+00:00,en,1,0,10,0,Twitter Web App,3_1465419950873583626,https://pbs.twimg.com/media/FFY3rmKXIAoWVOm.jpg,photo, ,Ayeisha Sheldon,ayeishasheldon1,False,198,313
+Data: @openstreetmap, @swisstopo, Geoland Austria. Maria used QGIS and I used ArcGIS Pro ❄️ https://t.co/SOIgWBy63N",1183213291188834305,2021-11-29 20:42:26+00:00,en,0,0,12,1,Twitter Web App,3_1465419950873583626,https://pbs.twimg.com/media/FFY3rmKXIAoWVOm.jpg,photo, ,Ayeisha Sheldon,ayeishasheldon1,False,203,315,"Geneva, Switzerland"
 1465420307422978049,"Day 29: Null 
 My place of birth is null, too lazy to make a map on my birthday 😶
 
- #30DayMapChallenge https://t.co/TPo4U9owL3",1454894840,2021-11-29 20:40:02+00:00,en,1,0,0,0,Twitter for iPhone,3_1465420298686283778,https://pbs.twimg.com/media/FFY3_13XwAIdhK3.jpg,photo, ,Noura | نـوره,nourabw95,False,209,143
+ #30DayMapChallenge https://t.co/TPo4U9owL3",1454894840,2021-11-29 20:40:02+00:00,en,1,0,0,0,Twitter for iPhone,3_1465420298686283778,https://pbs.twimg.com/media/FFY3_13XwAIdhK3.jpg,photo, ,Noura | نـوره,nourabw95,False,214,145,مكة المكرمة
 1465418837440925700,"Actually, going to do one more #30DayMapChallenge: Day 30 is NULL and here is a (0, 0) null point for every projection. It’s not just Null Island or NAD27 Null Ranch, KS anymore!
 
 https://t.co/kW1aufVeeN
 
-I skipped the UTM range because they originate at the tile-less south pole. https://t.co/Ju7p6UAJcn",93046641,2021-11-29 20:34:11+00:00,en,1,2,7,0,TweetDeck,3_1465418250301239296,https://pbs.twimg.com/media/FFY2InCUcAAHCCu.jpg,photo, ,Michal Migurski,michalmigurski,False,4676,12
+I skipped the UTM range because they originate at the tile-less south pole. https://t.co/Ju7p6UAJcn",93046641,2021-11-29 20:34:11+00:00,en,1,3,8,0,TweetDeck,3_1465418250301239296,https://pbs.twimg.com/media/FFY2InCUcAAHCCu.jpg,photo, ,Michal Migurski,michalmigurski,False,4680,12,Oakland CA
 1465417538779680768,"#30DayMapChallenge Day 29: NULL. Some of the older buildings in Leuven have the name of the architect carved/ stamped into the stone/ concrete next to the main door. I was wondering if this info had made it into the OSM metadata: not yet apparently.
-#rspatial #RStats https://t.co/Dkeq4wX01K",1222519447165886465,2021-11-29 20:29:02+00:00,en,3,0,3,0,Twitter Web App,3_1465417038529245191,https://pbs.twimg.com/media/FFY1CE1XMAc0s18.png,photo, ,Anirudh,_anirudhgovind,False,313,1500
+#rspatial #RStats https://t.co/Dkeq4wX01K",1222519447165886465,2021-11-29 20:29:02+00:00,en,3,1,5,0,Twitter Web App,3_1465417038529245191,https://pbs.twimg.com/media/FFY1CE1XMAc0s18.png,photo, ,Anirudh,_anirudhgovind,False,312,1500, 
 1465416753824022537,"Day 29 of #30DayMapChallenge - Null
-Countries on the Earth's 0° Longitude. Inspired by @nello394 map of the day. https://t.co/OiUeLImmkb",2163188711,2021-11-29 20:25:54+00:00,en,5,0,7,0,Twitter Web App,3_1465416682630000641,https://pbs.twimg.com/media/FFY0tXAXsAE3ZuB.jpg,photo, ,tYsOn,tyson_okoth,False,766,658
+Countries on the Earth's 0° Longitude. Inspired by @nello394 map of the day. https://t.co/OiUeLImmkb",2163188711,2021-11-29 20:25:54+00:00,en,5,0,9,0,Twitter Web App,3_1465416682630000641,https://pbs.twimg.com/media/FFY0tXAXsAE3ZuB.jpg,photo, ,tYsOn,tyson_okoth,False,766,658, 
 1465415616614051847,"Null Road...a little stretch of road in Catawba County, North Carolina
 
 #30DayMapChallenge Day 29 - NULL
 
 Made with #ggplot2
 
-code: https://t.co/vrSDubGU2I https://t.co/pRsLhKZVPT",38052918,2021-11-29 20:21:23+00:00,en,1,0,4,0,Twitter Web App,3_1465414839614984200,https://pbs.twimg.com/media/FFYzCFPWUAguMBi.jpg,photo, ,Ryan Hart,ryanahart,False,263,381
+code: https://t.co/vrSDubGU2I https://t.co/pRsLhKZVPT",38052918,2021-11-29 20:21:23+00:00,en,2,0,6,0,Twitter Web App,3_1465414839614984200,https://pbs.twimg.com/media/FFYzCFPWUAguMBi.jpg,photo, ,Ryan Hart,ryanahart,False,263,381,"Charlotte, NC"
 1465413940863639554,"#30DayMapChallenge 
 Day 29 - Null
 Arctic Penguin Populations 🐧😉
 
-Data Esri Living Atlas, Arctic DEM &amp; Imagery https://t.co/15dPskLzfW",748038863206088704,2021-11-29 20:14:44+00:00,en,1,0,10,1,Twitter Web App,3_1465413554698219522,https://pbs.twimg.com/media/FFYx3SjUcAISdh4.jpg,photo, ,Shannon Gonzales 🐙(she/her),yavannie24,False,557,1000
+Data Esri Living Atlas, Arctic DEM &amp; Imagery https://t.co/15dPskLzfW",748038863206088704,2021-11-29 20:14:44+00:00,en,1,1,11,1,Twitter Web App,3_1465413554698219522,https://pbs.twimg.com/media/FFYx3SjUcAISdh4.jpg,photo, ,Shannon Gonzales 🐙(she/her),yavannie24,False,558,1000,"Sacramento, CA"
 1465413229979615233,"#30DayMapChallenge Day 29: NULL
 
 Pet peeve: NULL doesn't mean 0, it means _missing_ -- it's a value that COULD exist but doesn't. 
 
-#rstats rayshader surface from LiDAR over Almond Lake just outside Hornell, NY. LiDAR doesn't work over water, so we get a hole in the world. https://t.co/fW5vdR0U0w",942194832491122688,2021-11-29 20:11:54+00:00,en,5,2,24,0,Twitter Web App,3_1465413173478141956,https://pbs.twimg.com/media/FFYxhGZXsAQhbhx.jpg,photo, ,Mike Mahoney,MikeMahoney218,False,1062,530
-1465405883437912064,#30DayMapChallenge  Day 26 - Choropleth (the word I have the hardest time spelling) map. https://t.co/LKInjtXguk,16178541,2021-11-29 19:42:43+00:00,en,1,0,0,0,Twitter Web App,3_1465405852299378689,https://pbs.twimg.com/media/FFYq284VQAEpxsa.jpg,photo, ,Randy Bonds Jr,randybondsjr,False,313,566
+#rstats rayshader surface from LiDAR over Almond Lake just outside Hornell, NY. LiDAR doesn't work over water, so we get a hole in the world. https://t.co/fW5vdR0U0w",942194832491122688,2021-11-29 20:11:54+00:00,en,6,3,30,0,Twitter Web App,3_1465413173478141956,https://pbs.twimg.com/media/FFYxhGZXsAQhbhx.jpg,photo, ,Mike Mahoney,MikeMahoney218,False,1068,533,"Syracuse, NY"
+1465405883437912064,#30DayMapChallenge  Day 26 - Choropleth (the word I have the hardest time spelling) map. https://t.co/LKInjtXguk,16178541,2021-11-29 19:42:43+00:00,en,1,0,0,0,Twitter Web App,3_1465405852299378689,https://pbs.twimg.com/media/FFYq284VQAEpxsa.jpg,photo, ,Randy Bonds Jr,randybondsjr,False,313,566,"Yakima, WA"
 1465405089925980166,"#30DayMapChallenge Day 26 Choropleth Map
 
 Just a bunch of choropleth maps of Ottawa...
 
-Interactive version: https://t.co/WnU2uCgo5Q https://t.co/bP9ruDkHzg",910889225448439808,2021-11-29 19:39:34+00:00,en,1,0,4,0,Twitter Web App,3_1465404986754482185,https://pbs.twimg.com/media/FFYqEkeWQAklMvY.jpg,photo, ,Dennis Kao,professorkao,False,466,718
+Interactive version: https://t.co/WnU2uCgo5Q https://t.co/bP9ruDkHzg",910889225448439808,2021-11-29 19:39:34+00:00,en,1,0,4,0,Twitter Web App,3_1465404986754482185,https://pbs.twimg.com/media/FFYqEkeWQAklMvY.jpg,photo, ,Dennis Kao,professorkao,False,466,719, 
 1465402307294736389,"#30DayMapChallenge
 
 29. NULL. Null Island (0, 0) in different basemaps.
-29. NULO. Isla ""NULL"" (0, 0) en diferentes mapas base. https://t.co/7MEYRTZhSo",769592708,2021-11-29 19:28:30+00:00,it,1,1,1,1,Twitter Web App,3_1465402299447140358,https://pbs.twimg.com/media/FFYnoJeWYAYuuUq.png,photo, ,Valentín Sastre,valen_ibiza,False,377,586
-1465402284737802248,"Kind of like this version better: no counties underneath, just the dotted lines of state boundaries. It's emptier. #30DayMapChallenge https://t.co/D59FT6Qw1c",13215962,2021-11-29 19:28:25+00:00,en,1,0,4,0,Twitter Web App,3_1465402267247562769,https://pbs.twimg.com/media/FFYnmRhX0BEi8VK.jpg,photo, ,Jerry Shannon,jerry_shannon,False,2109,1681
+29. NULO. Isla ""NULL"" (0, 0) en diferentes mapas base. https://t.co/7MEYRTZhSo",769592708,2021-11-29 19:28:30+00:00,it,1,1,1,1,Twitter Web App,3_1465402299447140358,https://pbs.twimg.com/media/FFYnoJeWYAYuuUq.png,photo, ,Valentín Sastre,valen_ibiza,False,377,586,IBIZA / Barcelona
+1465402284737802248,"Kind of like this version better: no counties underneath, just the dotted lines of state boundaries. It's emptier. #30DayMapChallenge https://t.co/D59FT6Qw1c",13215962,2021-11-29 19:28:25+00:00,en,1,0,4,0,Twitter Web App,3_1465402267247562769,https://pbs.twimg.com/media/FFYnmRhX0BEi8VK.jpg,photo, ,Jerry Shannon,jerry_shannon,False,2111,1682,"Athens, GA"
 1465402266710691843,"#30DayMapChallenge Day 29. NULL
-Countries, territories and continents where COVID cases are NULL https://t.co/ocruxYf0y0",23676785,2021-11-29 19:28:20+00:00,en,3,1,2,0,Twitter Web App,3_1465401567536898074,https://pbs.twimg.com/media/FFYm9i5WYBoBM_N.jpg,photo, ,(っ◔◡◔)っ ★,ishiba,False,634,741
+Countries, territories and continents where COVID cases are NULL https://t.co/ocruxYf0y0",23676785,2021-11-29 19:28:20+00:00,en,3,1,2,0,Twitter Web App,3_1465401567536898074,https://pbs.twimg.com/media/FFYm9i5WYBoBM_N.jpg,photo, ,(っ◔◡◔)っ ★,ishiba,False,634,741,"↲, cerca de Slumil K’ajxemk’op"
 1465402089761394688,"#30DayMapChallenge 
 Jour 29 - NULL
 
-Une bonne partie des bâtiments et routes d'OSM sont nommés NULL :D Mais il y a comme même beaucoup de vert, montrant à quel point Open Street Map est précis est complet (surtout pour les bâtiments publics/commerces) https://t.co/HXDEe5tXVU",3068008768,2021-11-29 19:27:38+00:00,fr,0,0,0,0,TweetDeck,3_1465400783025938432,https://pbs.twimg.com/media/FFYmP4XXIAAo5Om.jpg,photo, ,CômeMS,Come_M_S,False,7,122
+Une bonne partie des bâtiments et routes d'OSM sont nommés NULL :D Mais il y a comme même beaucoup de vert, montrant à quel point Open Street Map est précis est complet (surtout pour les bâtiments publics/commerces) https://t.co/HXDEe5tXVU",3068008768,2021-11-29 19:27:38+00:00,fr,0,1,0,0,TweetDeck,3_1465400783025938432,https://pbs.twimg.com/media/FFYmP4XXIAAo5Om.jpg,photo, ,CômeMS,Come_M_S,False,7,122,"Orsay, France"
 1465400643124932620,"#30DayMapChallenge 
 Day 29 - NULL
 
-A lot of buildings and roads are named NULL for some reasons. https://t.co/Xk1puxuhI9",3068008768,2021-11-29 19:21:53+00:00,en,0,0,0,0,TweetDeck,3_1465400052701138951,https://pbs.twimg.com/media/FFYllXsXEAcSOvg.jpg,photo, ,CômeMS,Come_M_S,False,7,122
+A lot of buildings and roads are named NULL for some reasons. https://t.co/Xk1puxuhI9",3068008768,2021-11-29 19:21:53+00:00,en,0,1,0,0,TweetDeck,3_1465400052701138951,https://pbs.twimg.com/media/FFYllXsXEAcSOvg.jpg,photo, ,CômeMS,Come_M_S,False,7,122,"Orsay, France"
 1465396488457142280,"#30DayMapChallenge 
 Day 29 - NULL
 
-A bit of frustration map that goes very well with today's theme. All the lidar data that is available to the wide public in Romania. https://t.co/lC8rd68qVA",1453765598341705729,2021-11-29 19:05:23+00:00,en,2,0,10,1,Twitter Web App,3_1465395842047782920,https://pbs.twimg.com/media/FFYhwRyXsAg127K.jpg,photo, ,Alexandru Frantiuc,CompleteMaps,False,36,27
+A bit of frustration map that goes very well with today's theme. All the lidar data that is available to the wide public in Romania. https://t.co/lC8rd68qVA",1453765598341705729,2021-11-29 19:05:23+00:00,en,2,0,10,1,Twitter Web App,3_1465395842047782920,https://pbs.twimg.com/media/FFYhwRyXsAg127K.jpg,photo, ,Alexandru Frantiuc,CompleteMaps,False,37,31, 
 1465396308110364679,"#30DayMapChallenge day 29: NULL
 
 negative space map with negative colors of all the places were I havent trained in Santiago
 
-#rstats #rspatial #ggmap https://t.co/7cUFhwGiLB",83974993,2021-11-29 19:04:40+00:00,en,2,0,1,0,Twitter Web App,3_1465396276409810955,https://pbs.twimg.com/media/FFYiJj6WQAs-6e-.jpg,photo, ,raimundos,raimun2,False,1006,786
-1465395655329918993,"#30DayMapChallenge #Day29 NULL - The Soul Buoy located at N0W0 (e.g. Null island) as part of the #PIRATA programme (@NOAA @meteofrance @inpe_mct @ird_fr #DHN Brazil -  Data:NOAA,Natural Earth, Wikipedia S:QGIS  - 1Day2Go YEAAHHHHHHHH..made it... https://t.co/NqEL8smr2H",2574612668,2021-11-29 19:02:04+00:00,en,0,0,4,0,Twitter Web App,3_1465392519320117250,https://pbs.twimg.com/media/FFYeu3qXIAICwZk.jpg,photo, ,hannes reuter,hireuter,False,290,601
+#rstats #rspatial #ggmap https://t.co/7cUFhwGiLB",83974993,2021-11-29 19:04:40+00:00,en,2,1,1,0,Twitter Web App,3_1465396276409810955,https://pbs.twimg.com/media/FFYiJj6WQAs-6e-.jpg,photo, ,raimundos,raimun2,False,1007,810,Chile
+1465395655329918993,"#30DayMapChallenge #Day29 NULL - The Soul Buoy located at N0W0 (e.g. Null island) as part of the #PIRATA programme (@NOAA @meteofrance @inpe_mct @ird_fr #DHN Brazil -  Data:NOAA,Natural Earth, Wikipedia S:QGIS  - 1Day2Go YEAAHHHHHHHH..made it... https://t.co/NqEL8smr2H",2574612668,2021-11-29 19:02:04+00:00,en,0,0,4,0,Twitter Web App,3_1465392519320117250,https://pbs.twimg.com/media/FFYeu3qXIAICwZk.jpg,photo, ,hannes reuter,hireuter,False,290,601, 
 1465395223505342473,"#30DayMapChallenge Day 28: The Earth is not flat
 
-I'm fascinated by the pattern of sunrise &amp; sunset times in the northern latitudes. Inspired by @evelynuuemaa's  work, I created this map of the Day Length across Denmark on the Winter Solstice. I used #QGIS &amp; the Date/Time plugin. https://t.co/NmDgWnkUGw",7159622,2021-11-29 19:00:21+00:00,en,9,4,66,0,Twitter Web App,3_1465395151266848774,https://pbs.twimg.com/media/FFYhIEbXIAYUt9T.jpg,photo, ,Kurt Menke,geomenke,False,6049,2152
+I'm fascinated by the pattern of sunrise &amp; sunset times in the northern latitudes. Inspired by @evelynuuemaa's  work, I created this map of the Day Length across Denmark on the Winter Solstice. I used #QGIS &amp; the Date/Time plugin. https://t.co/NmDgWnkUGw",7159622,2021-11-29 19:00:21+00:00,en,11,4,78,1,Twitter Web App,3_1465395151266848774,https://pbs.twimg.com/media/FFYhIEbXIAYUt9T.jpg,photo, ,Kurt Menke,geomenke,False,6072,2154,"Helsinge, Denmark"
 1465393135782084615,"#TidyTuesday #30DayMapChallenge
-Day 29 : NULL | Earth: 0°00'00.0""N 0°00'00.0""E https://t.co/diZN1bkMBI",1428864082329931777,2021-11-29 18:52:03+00:00,en,2,0,3,0,rstats2twitter,3_1465393132703526925,https://pbs.twimg.com/media/FFYfSksXMA0CBNF.jpg,photo, ,Kraggle,JCraggy,False,34,22
+Day 29 : NULL | Earth: 0°00'00.0""N 0°00'00.0""E https://t.co/diZN1bkMBI",1428864082329931777,2021-11-29 18:52:03+00:00,en,2,0,3,0,rstats2twitter,3_1465393132703526925,https://pbs.twimg.com/media/FFYfSksXMA0CBNF.jpg,photo, ,Kraggle,JCraggy,False,35,22,America
 1465391787787313159,"#30DayMapChallenge Day 30. Metamapping Day
 
 '2021 (full!) map gallery and a 3D hexagons tutorial' 🎉
 
 This year has been about new map tools and trying to keep up, next year will be about design and maximum 2 hours per day, I hope. 😀 Stay safe 🤗
 
-Live:  https://t.co/8Rg5mpHllA https://t.co/esdmWKi22j",1082711230459060224,2021-11-29 18:46:42+00:00,en,2,1,19,0,Twitter Web App,3_1465391029209767939,https://pbs.twimg.com/media/FFYdYIkXoAM_XAq.jpg,photo, ,MapTheClouds,maptheclouds,False,401,506
+Live:  https://t.co/8Rg5mpHllA https://t.co/esdmWKi22j",1082711230459060224,2021-11-29 18:46:42+00:00,en,3,2,26,0,Twitter Web App,3_1465391029209767939,https://pbs.twimg.com/media/FFYdYIkXoAM_XAq.jpg,photo, ,MapTheClouds,maptheclouds,False,419,543, 
 1465391649660489735,"#30DayMapChallenge 2021 Day 29: NULL
 
 Dug out some Set Theory material about the Null Set (the set with no elements) that I used to teach
@@ -175,115 +175,115 @@ A = ∅ = {} ⇔ ∀x ∈ U: x ∉ A
 
 A ∩ B = ∅ ⇔ ∀ x ∈ U: x ∉ A ∩ B
 
-A Venn Diagram is a map! https://t.co/AGGmO7WzrM",1033206985,2021-11-29 18:46:09+00:00,en,1,1,0,0,Twitter Web App,3_1465391346060087302,https://pbs.twimg.com/media/FFYdqk7X0AYnIqD.png,photo, ,Phil Tarr,CasegFraith,False,524,862
+A Venn Diagram is a map! https://t.co/AGGmO7WzrM",1033206985,2021-11-29 18:46:09+00:00,en,1,1,0,0,Twitter Web App,3_1465391346060087302,https://pbs.twimg.com/media/FFYdqk7X0AYnIqD.png,photo, ,Phil Tarr,CasegFraith,False,526,862,United Kingdom
 1465391083446231054,"#30DayMapChallenge Day 29 NULL
 
 #LiDAR 'dropouts' usually occur over water, as can be seen here at #CavershamLakes
 
 @EnvAgencyGeomat Data from 2013/14 Floods
 
-#QGIS https://t.co/XkprkXoXXf",223959960,2021-11-29 18:43:54+00:00,en,1,0,4,0,Twitter Web App,3_1465389892167520268,https://pbs.twimg.com/media/FFYcV8wX0Aw04lW.jpg,photo, ,Kirsten Reilly,_penguin_runner,False,417,1220
+#QGIS https://t.co/XkprkXoXXf",223959960,2021-11-29 18:43:54+00:00,en,1,0,4,0,Twitter Web App,3_1465389892167520268,https://pbs.twimg.com/media/FFYcV8wX0Aw04lW.jpg,photo, ,Kirsten Reilly,_penguin_runner,False,417,1221,"Stirling, Scotland"
 1465390136993140742,"#30DayMapChallenge NULL 2
-Examen de SIG, et donen aquest fitxer de comarques, si no comproves el sistema de referència els resultats et donaran NULL/error https://t.co/bbkTCwhuL0",3501358169,2021-11-29 18:40:08+00:00,ca,1,0,1,0,Twitter for Android,3_1465390127329468426,https://pbs.twimg.com/media/FFYcjozWYAosZ20.jpg,photo, ,Víctor Coris,Victor_Celoni,False,32,127
+Examen de SIG, et donen aquest fitxer de comarques, si no comproves el sistema de referència els resultats et donaran NULL/error https://t.co/bbkTCwhuL0",3501358169,2021-11-29 18:40:08+00:00,ca,1,0,1,0,Twitter for Android,3_1465390127329468426,https://pbs.twimg.com/media/FFYcjozWYAosZ20.jpg,photo, ,Víctor Coris,Victor_Celoni,False,32,127, 
 1465386083382960130,"#30DayMapChallenge Day 29: NULL
 A very lazy entry: Null Island, as it appears on the excellent 'toner' basemap by @stamen 
 
-shamelessly stolen from https://t.co/FjIOAJOkVY https://t.co/7xhO9hwMPy",759988092,2021-11-29 18:24:02+00:00,en,1,0,3,0,Twitter Web App,3_1465384902715748359,https://pbs.twimg.com/media/FFYXzhmXsAc5XMv.png,photo, ,Matthew Law,Iawmatthew,False,203,89
+shamelessly stolen from https://t.co/FjIOAJOkVY https://t.co/7xhO9hwMPy",759988092,2021-11-29 18:24:02+00:00,en,1,0,3,0,Twitter Web App,3_1465384902715748359,https://pbs.twimg.com/media/FFYXzhmXsAc5XMv.png,photo, ,Matthew Law,Iawmatthew,False,204,89, 
 1465385500479569935,"What would a terraformed Mercury look like? This is a topographical map that shows Mercury with ocean covering ~70% of the surface. Day 29 of the #30DayMapChallenge 
-This map was made with #Python using #Numpy and #matplotlib. #data #DataScience #DataVisualization  #solarsystem https://t.co/k3NdGy2arq",1349110409215795204,2021-11-29 18:21:43+00:00,en,5,1,26,1,Twitter Web App,3_1465385349644013569,https://pbs.twimg.com/media/FFYYNiiX0AErXP4.jpg,photo, ,Python Maps,PythonMaps,False,5899,2678
+This map was made with #Python using #Numpy and #matplotlib. #data #DataScience #DataVisualization  #solarsystem https://t.co/k3NdGy2arq",1349110409215795204,2021-11-29 18:21:43+00:00,en,5,1,27,1,Twitter Web App,3_1465385349644013569,https://pbs.twimg.com/media/FFYYNiiX0AErXP4.jpg,photo, ,Python Maps,PythonMaps,False,5913,2678,Planet Earth
 1465384185703673859,"#30daymapchallenge • Jour 29 
 ""Null""
 
 🗺 Au milieu de l'Atlantique
-🧭 #null #atlantique #personnel #cartographie https://t.co/Zj4sBvgd91",1352020785670533123,2021-11-29 18:16:30+00:00,fr,1,0,0,0,Twitter for Android,3_1465384182964797446,https://pbs.twimg.com/media/FFYXJoUXwAYhG8v.jpg,photo, ,Geobjectif,geobjectif,False,15,19
+🧭 #null #atlantique #personnel #cartographie https://t.co/Zj4sBvgd91",1352020785670533123,2021-11-29 18:16:30+00:00,fr,1,0,0,0,Twitter for Android,3_1465384182964797446,https://pbs.twimg.com/media/FFYXJoUXwAYhG8v.jpg,photo, ,Geobjectif,geobjectif,False,15,19,France
 1465382550700843008,"#30DayMapChallenge Dia 29: NULL
-Amb tants arbres no puc veure els camins i mesuro com puc. https://t.co/UVIU6765OW",3501358169,2021-11-29 18:10:00+00:00,ca,1,1,2,0,Twitter Web App,3_1464882528318283777,https://pbs.twimg.com/media/FFRO5fIWYAE5USp.jpg,photo, ,Víctor Coris,Victor_Celoni,False,32,127
+Amb tants arbres no puc veure els camins i mesuro com puc. https://t.co/UVIU6765OW",3501358169,2021-11-29 18:10:00+00:00,ca,1,1,2,0,Twitter Web App,3_1464882528318283777,https://pbs.twimg.com/media/FFRO5fIWYAE5USp.jpg,photo, ,Víctor Coris,Victor_Celoni,False,32,127, 
 1465380654997295119,"Day 29. NULL. One last tribute to Waldo Tobler in this #30DayMapChallenge collection: this time we build a Poisson potential on a graph to visualize a complex matrix of movements across the US.
-https://t.co/UfoRUwCdoQ https://t.co/sxIOb41RkX",201856958,2021-11-29 18:02:28+00:00,en,6,3,52,3,TweetDeck,3_1465380449182797839,https://pbs.twimg.com/media/FFYTwS5X0A8Oj9u.png,photo, ,Fil,recifs,False,2684,2502
-1465380306253344777,#30DayMapChallenge Day 27 - Heatmap https://t.co/wKR301Acw1,16178541,2021-11-29 18:01:05+00:00,en,1,0,5,0,Twitter Web App,3_1465380296400850948,https://pbs.twimg.com/media/FFYTnZvUUAQoIla.jpg,photo, ,Randy Bonds Jr,randybondsjr,False,313,566
-1465377717348716547,"Only 1/5 of the ocean floor has been mapped to a resolution of 100m or finer (shown in watercolour), the rest, a bit of a mystery! Great excuse to use Spilhaus. Day 29 - NULL #30DayMapChallenge https://t.co/9amCLjrIhM",1114069920092966912,2021-11-29 17:50:47+00:00,en,7,4,114,1,Twitter Web App,3_1465376389994065922,https://pbs.twimg.com/media/FFYQEBPXMAIbv_o.jpg,photo, ,Kate,KateEllen100,False,123,305
+https://t.co/UfoRUwCdoQ https://t.co/sxIOb41RkX",201856958,2021-11-29 18:02:28+00:00,en,8,3,59,3,TweetDeck,3_1465380449182797839,https://pbs.twimg.com/media/FFYTwS5X0A8Oj9u.png,photo, ,Fil,recifs,False,2716,2528,Sur la carte de France
+1465380306253344777,#30DayMapChallenge Day 27 - Heatmap https://t.co/wKR301Acw1,16178541,2021-11-29 18:01:05+00:00,en,1,0,5,0,Twitter Web App,3_1465380296400850948,https://pbs.twimg.com/media/FFYTnZvUUAQoIla.jpg,photo, ,Randy Bonds Jr,randybondsjr,False,313,566,"Yakima, WA"
+1465377717348716547,"Only 1/5 of the ocean floor has been mapped to a resolution of 100m or finer (shown in watercolour), the rest, a bit of a mystery! Great excuse to use Spilhaus. Day 29 - NULL #30DayMapChallenge https://t.co/9amCLjrIhM",1114069920092966912,2021-11-29 17:50:47+00:00,en,29,7,288,2,Twitter Web App,3_1465376389994065922,https://pbs.twimg.com/media/FFYQEBPXMAIbv_o.jpg,photo, ,Kate,KateEllen100,False,157,311, 
 1465377517577990145,"Day 29: NULL | #30DayMapChallenge
 NULL information is also information. This map is part of our article “El virus en la frontera” where we tried to show that no registered positive cases of COVID-19 doesn’t always mean that there are no cases.
 Read it here
-https://t.co/NPz2rlcaQp https://t.co/hCqEnHC9YF",1163470661400047616,2021-11-29 17:50:00+00:00,en,1,0,2,0,Twitter Web App,3_1463927692580032519,https://pbs.twimg.com/media/FFDqeu0XEAcN3wk.jpg,photo, ,Taller Sïranda,Taller_Siranda,False,338,159
-1465377450309783556,Getting caught-up on #30DayMapChallenge Day 25 - Interactive Map - Map collisions data from the last several years in the City of Yakima. https://t.co/aBADDaf7h8 https://t.co/7cC52vunwA,16178541,2021-11-29 17:49:44+00:00,en,1,0,1,0,Twitter Web App,3_1465377265047326722,https://pbs.twimg.com/media/FFYQ29EUUAImzVZ.jpg,photo, ,Randy Bonds Jr,randybondsjr,False,313,566
+https://t.co/NPz2rlcaQp https://t.co/hCqEnHC9YF",1163470661400047616,2021-11-29 17:50:00+00:00,en,1,0,2,0,Twitter Web App,3_1463927692580032519,https://pbs.twimg.com/media/FFDqeu0XEAcN3wk.jpg,photo, ,Taller Sïranda,Taller_Siranda,False,340,159,México
+1465377450309783556,Getting caught-up on #30DayMapChallenge Day 25 - Interactive Map - Map collisions data from the last several years in the City of Yakima. https://t.co/aBADDaf7h8 https://t.co/7cC52vunwA,16178541,2021-11-29 17:49:44+00:00,en,1,0,1,0,Twitter Web App,3_1465377265047326722,https://pbs.twimg.com/media/FFYQ29EUUAImzVZ.jpg,photo, ,Randy Bonds Jr,randybondsjr,False,313,566,"Yakima, WA"
 1465373205099646987,"#30DayMapChallenge Day 29: NULL
 
-The #nullisland of the dutch rijksdriehoekstelsel is in a field south east of #Paris background data #NaturalEarth #QGIS #mapplejuice https://t.co/RtJYIPkml3",1091106812852609027,2021-11-29 17:32:52+00:00,en,0,0,6,0,Twitter Web App,3_1465373001193607179,https://pbs.twimg.com/media/FFYM-w-X0As01xb.jpg,photo, ,MappleJuice,Mapple_juice,False,34,10
+The #nullisland of the dutch rijksdriehoekstelsel is in a field south east of #Paris background data #NaturalEarth #QGIS #mapplejuice https://t.co/RtJYIPkml3",1091106812852609027,2021-11-29 17:32:52+00:00,en,0,0,6,0,Twitter Web App,3_1465373001193607179,https://pbs.twimg.com/media/FFYM-w-X0As01xb.jpg,photo, ,MappleJuice,Mapple_juice,False,35,10,The Netherlands
 1465372485705101313,"""The Earth is not flat, it’s a hollow globe &amp; Donkey King lives there!"" If @elonmusk says it, it must be true?
 
 #30DayMapChallenge #Day28 #FlatEarth
-https://t.co/WhQEzdk3Rn https://t.co/uIemYXUrlf",741653561314922496,2021-11-29 17:30:00+00:00,en,2,3,7,0,Twitter Web App,3_1465345701190193154,https://pbs.twimg.com/media/FFX0JsiWUAIGyux.jpg,photo, ,Kate Berg 🥔🗺️,pokateo_,False,4344,2292
-1465370458413481994,"#30DayMapChallenge, day 29: NULL. Here's a map of the #Helsinki region postal code areas with a population of 0 in 2019, Ilmala and Martinlaakso industrial area. Next smallest was Petikko, a retail area, with a population of 60, and biggest Kontula-Vesala with 25 772. https://t.co/ArnNSiAfbC",490477903,2021-11-29 17:21:57+00:00,en,1,0,2,0,Twitter Web App,3_1465369892094455814,https://pbs.twimg.com/media/FFYKJyrXsAYqAUa.jpg,photo, ,Tuomas Lehto,LehtoTuomas,False,266,277
-1465370047652806667,"Day 29: ""Null"" as a surname #30DayMapChallenge https://t.co/0HaklBjB5I",275677658,2021-11-29 17:20:19+00:00,en,1,1,2,0,Twitter Web App,3_1465369956963471368,https://pbs.twimg.com/media/FFYKNkVWUAgXl7N.jpg,photo, ,Keith Jenkins,kgjenkins,False,1325,201
-1465367290170560523,"#30DayMapChallenge Day 29 NULL - The Empty Quarter.  Saw maps of places far from anyone that inspired me.  We had to drive just across the edge of it one time.  It's very empty as the name implies, but wondrous at the same time! @ArcGISPro and @Photoshop https://t.co/xOJqXZRjPP",17435433,2021-11-29 17:09:21+00:00,en,2,0,4,0,Twitter Web App,3_1465366611246866445,https://pbs.twimg.com/media/FFYHK0kWYA0a50c.jpg,photo, ,Small Town Mapper 🗺🍀,CharlesRobbins,False,793,953
+https://t.co/WhQEzdk3Rn https://t.co/uIemYXUrlf",741653561314922496,2021-11-29 17:30:00+00:00,en,2,3,7,0,Twitter Web App,3_1465345701190193154,https://pbs.twimg.com/media/FFX0JsiWUAIGyux.jpg,photo, ,Kate Berg 🥔🗺️,pokateo_,False,4377,2293,"Grand Rapids, MI"
+1465370458413481994,"#30DayMapChallenge, day 29: NULL. Here's a map of the #Helsinki region postal code areas with a population of 0 in 2019, Ilmala and Martinlaakso industrial area. Next smallest was Petikko, a retail area, with a population of 60, and biggest Kontula-Vesala with 25 772. https://t.co/ArnNSiAfbC",490477903,2021-11-29 17:21:57+00:00,en,1,0,2,0,Twitter Web App,3_1465369892094455814,https://pbs.twimg.com/media/FFYKJyrXsAYqAUa.jpg,photo, ,Tuomas Lehto,LehtoTuomas,False,266,277,Helsinki
+1465370047652806667,"Day 29: ""Null"" as a surname #30DayMapChallenge https://t.co/0HaklBjB5I",275677658,2021-11-29 17:20:19+00:00,en,1,1,2,0,Twitter Web App,3_1465369956963471368,https://pbs.twimg.com/media/FFYKNkVWUAgXl7N.jpg,photo, ,Keith Jenkins,kgjenkins,False,1324,201,Ithaca
+1465367290170560523,"#30DayMapChallenge Day 29 NULL - The Empty Quarter.  Saw maps of places far from anyone that inspired me.  We had to drive just across the edge of it one time.  It's very empty as the name implies, but wondrous at the same time! @ArcGISPro and @Photoshop https://t.co/xOJqXZRjPP",17435433,2021-11-29 17:09:21+00:00,en,2,0,4,0,Twitter Web App,3_1465366611246866445,https://pbs.twimg.com/media/FFYHK0kWYA0a50c.jpg,photo, ,Small Town Mapper 🗺🍀,CharlesRobbins,False,796,954,"South Carolina, USA"
 1465366919708557315,"The category of the 29th day of the #30DayMapChallenge is NULL.
-My map shows Bir Tawil, an area between Egypt and Sudan that non of the countries claim as their territory. https://t.co/ndhugLfUyA",1454920710812487680,2021-11-29 17:07:53+00:00,en,1,0,2,0,Twitter Web App,3_1465366886787469329,https://pbs.twimg.com/media/FFYHa3CWUBE2FnR.jpg,photo, ,nordaufnordost,nordaufnordost,False,2,0
+My map shows Bir Tawil, an area between Egypt and Sudan that non of the countries claim as their territory. https://t.co/ndhugLfUyA",1454920710812487680,2021-11-29 17:07:53+00:00,en,1,0,2,0,Twitter Web App,3_1465366886787469329,https://pbs.twimg.com/media/FFYHa3CWUBE2FnR.jpg,photo, ,nordaufnordost,nordaufnordost,False,2,0, 
 1465366911328346114,"Day 29 of #30DayMapChallenge: NULL
 
-WAKE UP! AUSTRALIA DOESN'T EXIST! https://t.co/LKFrLpn8UR",19770809,2021-11-29 17:07:51+00:00,en,1,0,2,0,Twitter Web App,3_1465366865467822082,https://pbs.twimg.com/media/FFYHZnnWUAI-M8L.jpg,photo, ,Galder Gonzalez🔻,theklaneh,False,9276,1308
-1465365303957856257,Jour 29 du #30DayMapChallenge : NULL. Visualisation du remplissage des champs de noms de la couche de tronçons de route de la BD TOPO de l'IGN en Seine-et-Marne https://t.co/WFTThumAMM,195802419,2021-11-29 17:01:28+00:00,fr,2,0,2,0,Twitter Web App,3_1465365029793017862,https://pbs.twimg.com/media/FFYFuxMXsAYzofr.jpg,photo, ,Menileda,Menileda,False,72,232
+WAKE UP! AUSTRALIA DOESN'T EXIST! https://t.co/LKFrLpn8UR",19770809,2021-11-29 17:07:51+00:00,en,1,0,2,0,Twitter Web App,3_1465366865467822082,https://pbs.twimg.com/media/FFYHZnnWUAI-M8L.jpg,photo, ,Galder Gonzalez🔻,theklaneh,False,9277,1309,Euskal Herria
+1465365303957856257,Jour 29 du #30DayMapChallenge : NULL. Visualisation du remplissage des champs de noms de la couche de tronçons de route de la BD TOPO de l'IGN en Seine-et-Marne https://t.co/WFTThumAMM,195802419,2021-11-29 17:01:28+00:00,fr,3,0,3,0,Twitter Web App,3_1465365029793017862,https://pbs.twimg.com/media/FFYFuxMXsAYzofr.jpg,photo, ,Menileda,Menileda,False,72,232,IDF
 1465365078681825284,"#30DayMapChallenge Day 29: NULL
-Country or part of land with ""NULL"" name in #QGIS world dataset https://t.co/bZHBhnD4wY",730663860152217600,2021-11-29 17:00:34+00:00,en,1,0,1,0,Twitter Web App,3_1465365034062786569,https://pbs.twimg.com/media/FFYFvBGXMAkifGO.jpg,photo, ,Sylvain POULAIN,GISCAN_LTD,False,208,458
-1465364048355155973,#30DayMapChallenge day 29 mapping null? Map of null? Null map? 🤷‍♀️ https://t.co/c1HbUDOTPe,553432676,2021-11-29 16:56:28+00:00,en,1,0,11,0,Twitter for iPhone,3_1465364042441269254,https://pbs.twimg.com/media/FFYE1TBXoAY51oX.jpg,photo, ,Io Dogani,ioddg,False,143,403
+Country or part of land with ""NULL"" name in #QGIS world dataset https://t.co/bZHBhnD4wY",730663860152217600,2021-11-29 17:00:34+00:00,en,1,0,1,0,Twitter Web App,3_1465365034062786569,https://pbs.twimg.com/media/FFYFvBGXMAkifGO.jpg,photo, ,Sylvain POULAIN,GISCAN_LTD,False,209,458,Ile Maurice
+1465364048355155973,#30DayMapChallenge day 29 mapping null? Map of null? Null map? 🤷‍♀️ https://t.co/c1HbUDOTPe,553432676,2021-11-29 16:56:28+00:00,en,2,0,14,0,Twitter for iPhone,3_1465364042441269254,https://pbs.twimg.com/media/FFYE1TBXoAY51oX.jpg,photo, ,Io Dogani,ioddg,False,146,405,Greece
 1465363847489982468,"Day 29: NULL #30DayMapChallenge 
 Which households in England and Wales have no access to a car? This map shows car ownership data from the 2011 census data… looking forward to seeing how this changes when the new census data gets released in 2022!
-#cars #Census2011 @Steer_Group https://t.co/i4hOjCMnnc",793464945971257350,2021-11-29 16:55:41+00:00,en,1,0,1,0,Twitter Web App,3_1465363761817083918,https://pbs.twimg.com/media/FFYEk9nWYA4yWyq.jpg,photo, ,Design for Movement,Steer_DfM,False,324,115
+#cars #Census2011 @Steer_Group https://t.co/i4hOjCMnnc",793464945971257350,2021-11-29 16:55:41+00:00,en,1,0,1,0,Twitter Web App,3_1465363761817083918,https://pbs.twimg.com/media/FFYEk9nWYA4yWyq.jpg,photo, ,Design for Movement,Steer_DfM,False,326,115,"Europe, N.America, LATAM, Asia"
 1465358419016269835,"Day 28: The earth is not flat #30DayMapChallenge 
 
-It has been proven over and over again throughout history, by scientists all over the globe. One of the first was Eratosthenes in 300 BC who used sticks and shadows to calculate the circumference of the Earth. #science #maps https://t.co/w8loOJLJpI",793464945971257350,2021-11-29 16:34:06+00:00,en,4,0,13,0,Twitter Web App,3_1465358087188094981,https://pbs.twimg.com/media/FFX_ap-XoAUBlbT.jpg,photo, ,Design for Movement,Steer_DfM,False,324,115
+It has been proven over and over again throughout history, by scientists all over the globe. One of the first was Eratosthenes in 300 BC who used sticks and shadows to calculate the circumference of the Earth. #science #maps https://t.co/w8loOJLJpI",793464945971257350,2021-11-29 16:34:06+00:00,en,6,0,17,0,Twitter Web App,3_1465358087188094981,https://pbs.twimg.com/media/FFX_ap-XoAUBlbT.jpg,photo, ,Design for Movement,Steer_DfM,False,326,115,"Europe, N.America, LATAM, Asia"
 1465358013888450568,"Day 29 - NULL
 Pripyat is probably the most famous ghost town. But according to Wikipedia, there are 62 villages completely abandoned and depopulated.
 So this map might be useful if you want some real social distancing.
-#30DayMapChallenge https://t.co/uIXXCSDp91",14196303,2021-11-29 16:32:30+00:00,en,15,0,51,1,Twitter Web App,3_1465356719098314755,https://pbs.twimg.com/media/FFX-LBcWQAM-sQK.jpg,photo, ,yaroslav_sm,jaroslav_sm,False,156,93
+#30DayMapChallenge https://t.co/uIXXCSDp91",14196303,2021-11-29 16:32:30+00:00,en,25,0,85,3,Twitter Web App,3_1465356719098314755,https://pbs.twimg.com/media/FFX-LBcWQAM-sQK.jpg,photo, ,yaroslav_sm,jaroslav_sm,False,158,96,Чернівці
 1465355542654763015,"#30DayMapChallenge Day 29: Null
-Living Atlas accepted two blank or Null base maps - Noir Equal Earth and Spilhaus, 'noir' being a play on words w 'blanc' or blank - used here to create a simple map with Equal Earth UN Countries and Where in the World is Andrew, first decade shown https://t.co/MqBaDoyqz1",25663399,2021-11-29 16:22:41+00:00,en,1,1,1,0,Twitter Web App,3_1465355238148296714,https://pbs.twimg.com/media/FFX800eWUAoTLD6.jpg,photo, ,Andrew Zolnai,azolnai,False,922,1530
-1465352543077294085,"Day 29 #30DayMapChallenge This is MAP, but you can't see it... https://t.co/ziRQ2eIuEi",86087153,2021-11-29 16:10:45+00:00,en,1,0,2,0,Twitter Web App,3_1465352519593431041,https://pbs.twimg.com/media/FFX6WlEXEAEAWMH.png,photo, ,Дмитрий,DBusAI,False,34,247
+Living Atlas accepted two blank or Null base maps - Noir Equal Earth and Spilhaus, 'noir' being a play on words w 'blanc' or blank - used here to create a simple map with Equal Earth UN Countries and Where in the World is Andrew, first decade shown https://t.co/MqBaDoyqz1",25663399,2021-11-29 16:22:41+00:00,en,1,1,1,0,Twitter Web App,3_1465355238148296714,https://pbs.twimg.com/media/FFX800eWUAoTLD6.jpg,photo, ,Andrew Zolnai,azolnai,False,921,1529,"Cambridge, UK"
+1465352543077294085,"Day 29 #30DayMapChallenge This is MAP, but you can't see it... https://t.co/ziRQ2eIuEi",86087153,2021-11-29 16:10:45+00:00,en,1,0,2,0,Twitter Web App,3_1465352519593431041,https://pbs.twimg.com/media/FFX6WlEXEAEAWMH.png,photo, ,Дмитрий,DBusAI,False,34,248,"Москва, Россия"
 1465351678903861248,"The most geo-tagged place on Earth, also home to global HQ of The Ministry of Maps
 
 Null Island digitised from graphic by Ian Cairns https://t.co/G7K24zx69y, GitHub: https://t.co/7pgNrEX2iS. Shoreline style: @klaskarlsson; font: @sarahbellmaps
 
-#30DayMapChallenge #day29 #NULL https://t.co/11SHj7BTNf",862916381595099137,2021-11-29 16:07:19+00:00,en,1,1,4,0,TweetDeck,3_1465350842169667586,https://pbs.twimg.com/media/FFX408LXsAILeuT.jpg,photo, ,The Ministry Of Maps,MinistryOfMaps,False,255,16
-1465347000849817600,"Time to cheat for #30DayMapChallenge 28 (the Earth is not flat) with a new image of old work. Flat maps can distort our sense of what is ""straight"" on a round world. Here, for example, are parts of the US and Canadian east coast that directly face Australia. https://t.co/2g68sNw9QM",17448055,2021-11-29 15:48:44+00:00,en,10,1,30,0,Twitter Web App,3_1465345614775005190,https://pbs.twimg.com/media/FFX0EqnXMAYGT62.jpg,photo, ,Andy Woodruff,awoodruff,False,6702,580
+#30DayMapChallenge #day29 #NULL https://t.co/11SHj7BTNf",862916381595099137,2021-11-29 16:07:19+00:00,en,1,1,4,0,TweetDeck,3_1465350842169667586,https://pbs.twimg.com/media/FFX408LXsAILeuT.jpg,photo, ,The Ministry Of Maps,MinistryOfMaps,False,255,16,London Towne
+1465347000849817600,"Time to cheat for #30DayMapChallenge 28 (the Earth is not flat) with a new image of old work. Flat maps can distort our sense of what is ""straight"" on a round world. Here, for example, are parts of the US and Canadian east coast that directly face Australia. https://t.co/2g68sNw9QM",17448055,2021-11-29 15:48:44+00:00,en,10,1,30,0,Twitter Web App,3_1465345614775005190,https://pbs.twimg.com/media/FFX0EqnXMAYGT62.jpg,photo, ,Andy Woodruff,awoodruff,False,6702,580,"Belmont, Massachusetts"
 1465346471042166790,"@CanFre @IGNFrance @Geoportail @Prefet74 ...or nothing ⤵️
 #30DayMapChallenge #day29 - NULL
 📍Rien (Drome)
 🗺️ Plan #IGN
-🔗https://t.co/gUPXmepHaL https://t.co/UW7848w6MY",2247167180,2021-11-29 15:46:38+00:00,en,0,0,1,0,Twitter Web App,3_1465345809952739339,https://pbs.twimg.com/media/FFX0QBtXEAsrGLj.png,photo, ,Jean-Marc Viglino,jmviglino,False,262,11
+🔗https://t.co/gUPXmepHaL https://t.co/UW7848w6MY",2247167180,2021-11-29 15:46:38+00:00,en,0,0,2,0,Twitter Web App,3_1465345809952739339,https://pbs.twimg.com/media/FFX0QBtXEAsrGLj.png,photo, ,Jean-Marc Viglino,jmviglino,False,263,11,FR-94160 Saint-Mandé
 1465346453665107979,"Day 26 - Heatmap #30DayMapChallenge
 John Snow's study of cholera causes hypothesized that germ-contaminated water was the source of the infection, rather than particles in the air. The outbreak occurred in 1854 near Broad Street
-@R4DScommunity #RStats #maps #infographics https://t.co/Qtarm3001V",285509027,2021-11-29 15:46:34+00:00,en,3,1,3,0,Twitter Web App,3_1465346387831369728,https://pbs.twimg.com/media/FFX0xqeXMAAQsJ2.jpg,photo, ,Federica Gazzelloni®,FGazzelloni,False,2254,4415
-1465345570017628166,"A little wrinkled, but the Null Island t- shirt seemed appropriate today. #30DayMapChallenge #null #Day29 ⁦@NACIS⁩ https://t.co/jHcnFjpysF",92863619,2021-11-29 15:43:03+00:00,en,1,0,3,0,Twitter for iPhone,3_1465345564527181830,https://pbs.twimg.com/media/FFX0BvbWQAYlu3x.jpg,photo, ,Scott Ritter,scottwritter,False,298,637
+@R4DScommunity #RStats #maps #infographics https://t.co/Qtarm3001V",285509027,2021-11-29 15:46:34+00:00,en,3,1,3,0,Twitter Web App,3_1465346387831369728,https://pbs.twimg.com/media/FFX0xqeXMAAQsJ2.jpg,photo, ,Federica Gazzelloni®,FGazzelloni,False,2257,4415,World
+1465345570017628166,"A little wrinkled, but the Null Island t- shirt seemed appropriate today. #30DayMapChallenge #null #Day29 ⁦@NACIS⁩ https://t.co/jHcnFjpysF",92863619,2021-11-29 15:43:03+00:00,en,1,0,3,0,Twitter for iPhone,3_1465345564527181830,https://pbs.twimg.com/media/FFX0BvbWQAYlu3x.jpg,photo, ,Scott Ritter,scottwritter,False,297,638,Connecticut
 1465345422650707977,"@CanFre @IGNFrance @Geoportail @Prefet74 ...and also ⤵️
 #30DayMapChallenge #day29 - NULL
 📍Saint-Eusèbe, Haute-Savoie (74)
 🗺️ Plan #IGN
-🔗https://t.co/gCzSItA9XM https://t.co/MgOA1a1ejm",2247167180,2021-11-29 15:42:28+00:00,und,0,1,2,0,Twitter Web App,3_1465345231067525138,https://pbs.twimg.com/media/FFXzuVMXsBIFMRI.png,photo, ,Jean-Marc Viglino,jmviglino,False,262,11
+🔗https://t.co/gCzSItA9XM https://t.co/MgOA1a1ejm",2247167180,2021-11-29 15:42:28+00:00,und,0,1,2,0,Twitter Web App,3_1465345231067525138,https://pbs.twimg.com/media/FFXzuVMXsBIFMRI.png,photo, ,Jean-Marc Viglino,jmviglino,False,263,11,FR-94160 Saint-Mandé
 1465342788896133121,"What if ""didn't vote"" was a political party?
 
 Well... the House of Commons would be a lot emptier.
 
-Day 29 of the #30DayMapChallenge. https://t.co/s5goI5HgMn",851149914725916672,2021-11-29 15:32:00+00:00,en,17,4,93,3,Twitter Web App,3_1464825974378442753,https://pbs.twimg.com/media/FFQbdnSXsAEQ4zi.jpg,photo, ,Alex McPhee,ksituan,False,4010,189
+Day 29 of the #30DayMapChallenge. https://t.co/s5goI5HgMn",851149914725916672,2021-11-29 15:32:00+00:00,en,18,4,99,3,Twitter Web App,3_1464825974378442753,https://pbs.twimg.com/media/FFQbdnSXsAEQ4zi.jpg,photo, ,Alex McPhee,ksituan,False,4018,189,Val Marie / Treaty 4
 1465340157192814592,"#30DayMapChallenge Day 28. The Earth is not flat
-The hexagons represent the distance from the centre of the Earth to the Nile Valley. Being the longest river in the world, from the Equator to the north of the Tropic of Cancer, the Nile's profile is also one of the curviest. https://t.co/pwZ2tvn39E",23676785,2021-11-29 15:21:32+00:00,en,1,1,5,0,Twitter Web App,7_1465339897724780555,https://pbs.twimg.com/ext_tw_video_thumb/1465339897724780555/pu/img/LY55VeJ_Hxo8OiT1.jpg,video, ,(っ◔◡◔)っ ★,ishiba,False,634,741
-1465338659910172674,When your students have extra lab time and take on your love of health geography. @BrockHLSC #30DayMapChallenge https://t.co/tr5SwdS6b4,1025551828459638784,2021-11-29 15:15:35+00:00,en,1,0,9,0,Twitter for Android,3_1465338561214001154,https://pbs.twimg.com/media/FFXtqGDXsAIO6Az.jpg,photo, ,Rae Jewett,RaeLJewett,False,1393,3229
+The hexagons represent the distance from the centre of the Earth to the Nile Valley. Being the longest river in the world, from the Equator to the north of the Tropic of Cancer, the Nile's profile is also one of the curviest. https://t.co/pwZ2tvn39E",23676785,2021-11-29 15:21:32+00:00,en,1,1,5,0,Twitter Web App,7_1465339897724780555,https://pbs.twimg.com/ext_tw_video_thumb/1465339897724780555/pu/img/LY55VeJ_Hxo8OiT1.jpg,video, ,(っ◔◡◔)っ ★,ishiba,False,634,741,"↲, cerca de Slumil K’ajxemk’op"
+1465338659910172674,When your students have extra lab time and take on your love of health geography. @BrockHLSC #30DayMapChallenge https://t.co/tr5SwdS6b4,1025551828459638784,2021-11-29 15:15:35+00:00,en,1,0,9,0,Twitter for Android,3_1465338561214001154,https://pbs.twimg.com/media/FFXtqGDXsAIO6Az.jpg,photo, ,Rae Jewett,RaeLJewett,False,1391,3233,Turtle Island
 1465337084462383108,"#30DayMapChallenge - Day 29 - NULL
 
 When your data is not directly mergeable with your shapefile, this can result in missing data on your map.
 
 If you use R, take a look at the countrycode package which is very good at matching countrynames.
 
-Code: https://t.co/7x4F79qLyy https://t.co/bM5Hi4laJS",733390000809730049,2021-11-29 15:09:20+00:00,en,2,1,11,0,Twitter Web App,3_1465329768098938882,https://pbs.twimg.com/media/FFXlqRJXwAI74Ok.jpg,photo, ,Richard Vogg,richard_vogg,False,341,342
+Code: https://t.co/7x4F79qLyy https://t.co/bM5Hi4laJS",733390000809730049,2021-11-29 15:09:20+00:00,en,2,1,12,0,Twitter Web App,3_1465329768098938882,https://pbs.twimg.com/media/FFXlqRJXwAI74Ok.jpg,photo, ,Richard Vogg,richard_vogg,False,347,345,Germany
 1465336799333597189,"To catch up on the #30DayMapChallenge I'm combining interactive, choropleth, and heatmap into a single, hastily made thing representing wild turkey sightings in and around Boston. https://t.co/eZyjtofNFi
-They're a common sight, even right downtown! https://t.co/RezHmiClxg https://t.co/0dW0Xc6KTh",17448055,2021-11-29 15:08:12+00:00,en,2,1,5,0,Twitter Web App,3_1465336737467666437,https://pbs.twimg.com/media/FFXr_8EXEAUnyuh.png,photo, ,Andy Woodruff,awoodruff,False,6702,580
+They're a common sight, even right downtown! https://t.co/RezHmiClxg https://t.co/0dW0Xc6KTh",17448055,2021-11-29 15:08:12+00:00,en,2,1,5,0,Twitter Web App,3_1465336737467666437,https://pbs.twimg.com/media/FFXr_8EXEAUnyuh.png,photo, ,Andy Woodruff,awoodruff,False,6702,580,"Belmont, Massachusetts"
 1465334739896713216,"I hear you like potatoes, #gischat. 🥔 Oh, wait...was that just me? Well, anyway, I hear you like maps so here you go with a #choropleth map of potato production in the United States 🗺️
-#30DayMapChallenge #Day26 #Choropleth https://t.co/deYvDyIvux",741653561314922496,2021-11-29 15:00:01+00:00,en,19,14,143,5,Twitter Web App,3_1465087150030999557,https://pbs.twimg.com/media/FFUJACaWUAUm5_B.jpg,photo, ,Kate Berg 🥔🗺️,pokateo_,False,4344,2292
+#30DayMapChallenge #Day26 #Choropleth https://t.co/deYvDyIvux",741653561314922496,2021-11-29 15:00:01+00:00,en,19,15,149,5,Twitter Web App,3_1465087150030999557,https://pbs.twimg.com/media/FFUJACaWUAUm5_B.jpg,photo, ,Kate Berg 🥔🗺️,pokateo_,False,4377,2293,"Grand Rapids, MI"
 1465334540394803212,"@IGNFrance @Geoportail @jmviglino 👍
 ...and also ⤵️
 #30DayMapChallenge #day29 - NULL
 📍 Nulle, Saint-Eusèbe, Haute-Savoie (74)
 🗺️ Plan #IGN
-🔗 https://t.co/9Rw3WyX02S https://t.co/eJtoGAToTL",303715592,2021-11-29 14:59:13+00:00,und,0,1,2,0,Twitter Web App,3_1465334342033580035,https://pbs.twimg.com/media/FFXp0gYXoAM-fY7.png,photo, ,Frederic Cantat,CanFre,False,567,1109
+🔗 https://t.co/9Rw3WyX02S https://t.co/eJtoGAToTL",303715592,2021-11-29 14:59:13+00:00,und,0,1,2,0,Twitter Web App,3_1465334342033580035,https://pbs.twimg.com/media/FFXp0gYXoAM-fY7.png,photo, ,Frederic Cantat,CanFre,False,567,1111, 
 1465334182905880582,"Hi it's 🗺️#MapMonday at
 🛰️@Soar_Earth
 and #30DayMapChallenge #29 NULL:
@@ -292,12 +292,12 @@ South America's 🎯""Pole of Inaccessibility""
 From #Soar_Earth's #Sentinel-2 collection
 Browse it at
 🧐➡️https://t.co/8NTV1dOlgh
-and download your prefered locations! https://t.co/wDNEvRElwO",880148317468061697,2021-11-29 14:57:48+00:00,en,1,1,10,0,Twitter Web App,3_1465330947692376070,https://pbs.twimg.com/media/FFXmu7eXMAYKo0o.jpg,photo, ,Sérgio OSMsmaprs,sergioajv1,False,1234,709
+and download your prefered locations! https://t.co/wDNEvRElwO",880148317468061697,2021-11-29 14:57:48+00:00,en,2,1,10,0,Twitter Web App,3_1465330947692376070,https://pbs.twimg.com/media/FFXmu7eXMAYKo0o.jpg,photo, ,Sérgio OSMsmaprs,sergioajv1,False,1244,709,Brazil
 1465333762024169478,"We are fast approaching the deadline for the crowdfunding campaign to improve elevation and point cloud data in #QGIS. If you work with #QGIS, this is your chance to fund the development #30DayMapChallenge #lidar
-https://t.co/FxjntJixKN https://t.co/pvc7GDU3LF",453028244,2021-11-29 14:56:08+00:00,en,4,0,11,0,Twitter Web App,3_1465333528015613954,https://pbs.twimg.com/media/FFXpFH7XMAIdCan.jpg,photo, ,Lutra Consulting,lutraconsulting,False,4192,630
+https://t.co/FxjntJixKN https://t.co/pvc7GDU3LF",453028244,2021-11-29 14:56:08+00:00,en,6,0,14,0,Twitter Web App,3_1465333528015613954,https://pbs.twimg.com/media/FFXpFH7XMAIdCan.jpg,photo, ,Lutra Consulting,lutraconsulting,False,4193,633,Global
 1465333480980684807,"Penultimate day of the #30daymapchallenge! Who else needs a nap!? 
 
-#day29 #null : Where is no one? The areas of the world with less than one person per km² https://t.co/g0Y4qlnjR0",1101617286,2021-11-29 14:55:01+00:00,en,22,6,154,3,Twitter Web App,3_1465333452287397894,https://pbs.twimg.com/media/FFXpAt0WUAYITzP.jpg,photo, ,Helen McKenzie,helenmakesmaps,False,4300,963
+#day29 #null : Where is no one? The areas of the world with less than one person per km² https://t.co/g0Y4qlnjR0",1101617286,2021-11-29 14:55:01+00:00,en,26,6,172,3,Twitter Web App,3_1465333452287397894,https://pbs.twimg.com/media/FFXpAt0WUAYITzP.jpg,photo, ,Helen McKenzie,helenmakesmaps,False,4382,967,London
 1465331147261366277,"#30DayMapChallenge Day 29: NULL 
 
 ◼️◼️Project Meta-Expedition◼️◼️
@@ -305,36 +305,36 @@ VP-432 NFT map parcel. The infamous #NULL island. This will be a very special #n
 
 🔗 Link to live meta-expedition map in bio.
 
-#maps #map #coolmaps #geography #nfts #art #digitalart #mapping https://t.co/k5Iz1ztUq9",1456964301852344328,2021-11-29 14:45:44+00:00,en,0,0,0,0,Twitter for iPhone,3_1465331144660979712,https://pbs.twimg.com/media/FFXm6ZPVkAAQbJz.jpg,photo, ,Metaworld Maps 🧭,metaworldmaps,False,42,218
+#maps #map #coolmaps #geography #nfts #art #digitalart #mapping https://t.co/k5Iz1ztUq9",1456964301852344328,2021-11-29 14:45:44+00:00,en,0,0,0,0,Twitter for iPhone,3_1465331144660979712,https://pbs.twimg.com/media/FFXm6ZPVkAAQbJz.jpg,photo, ,Metaworld Maps 🧭,metaworldmaps,False,43,246,Metaverse
 1465330338184503300,"#30DayMapChallenge #day29 - NULL
 📍 Nullemont, Seine-Maritime (76)
 🗺️ Plan #IGN
-🔗 https://t.co/rgBGkBK9mH https://t.co/nA8s7YKs51",57276576,2021-11-29 14:42:31+00:00,et,1,2,7,0,Twitter Web App,3_1465330140788019208,https://pbs.twimg.com/media/FFXl_9hX0Ag-PNH.jpg,photo, ,IGN France,IGNFrance,True,13241,821
-1465329251226468357,"On this note, Google thinks that ""NULL-Montréal"" is on the corner of Robert-Bourassa and Réne Lévesque. #30DayMapChallenge https://t.co/j812Tqas8S https://t.co/CMriQLVLF0",278873782,2021-11-29 14:38:12+00:00,fr,1,0,4,0,Twitter Web App,3_1465328995545886723,https://pbs.twimg.com/media/FFXk9TKXsAMpvdl.jpg,photo, ,Map/,vtcraghead,False,3749,915
-1465327743810347021,"#30DayMapChallenge Day 29: NULL-Countries (or other areas)  with &lt;Null&gt; or ""No data"" for their COVID-19 vaccination rates. https://t.co/hXZWoFCk7I",2391754261,2021-11-29 14:32:13+00:00,en,2,0,4,0,Twitter Web App,3_1465327052417118219,https://pbs.twimg.com/media/FFXjMMcXsAsIoM4.jpg,photo, ,🌏Map of the Week,MapOfTheWeek,False,1076,370
-1465327200866033664,Definitely the most difficult map for #30DayMapChallenge - Day 29 NULL https://t.co/qXhGOj4cDB,148715617,2021-11-29 14:30:03+00:00,en,1,0,2,0,Twitter for iPhone,3_1465327197015658508,https://pbs.twimg.com/media/FFXjUnHWUAwQLQ8.jpg,photo, ,Federica Gaspari,fede_gaspari,False,538,404
-1465326945353228298,Catching up the #30DayMapChallenge day 26: choropleth map. Choropleth maps often show political and demographic data. Something in-between with this map of the Upper Silesia plebiscite (1921). More at https://t.co/LDsU8x9HST https://t.co/PN9AGlMiUA,840682774403133441,2021-11-29 14:29:02+00:00,en,1,0,1,0,Twitter for iPhone,3_1465326940001382410,https://pbs.twimg.com/media/FFXjFpqXsAo9FUw.jpg,photo, ,HistoCarte,HistoCarte,False,77,66
-1465326495505731593,"Day 29 of the #30DayMapChallenge is NULL. I downloaded the ~2.2 million location points from my Google location history and identified counties with no location data. Places where I've never been. Well, at least since 2013 while holding my phone. https://t.co/qNQJIEz5CO",13215962,2021-11-29 14:27:15+00:00,en,6,6,58,1,Twitter Web App,3_1465326450718957580,https://pbs.twimg.com/media/FFXipK8WYAw4ND2.jpg,photo, ,Jerry Shannon,jerry_shannon,False,2109,1681
+🔗 https://t.co/rgBGkBK9mH https://t.co/nA8s7YKs51",57276576,2021-11-29 14:42:31+00:00,et,1,2,7,0,Twitter Web App,3_1465330140788019208,https://pbs.twimg.com/media/FFXl_9hX0Ag-PNH.jpg,photo, ,IGN France,IGNFrance,True,13246,822,Saint-Mandé (France)
+1465329251226468357,"On this note, Google thinks that ""NULL-Montréal"" is on the corner of Robert-Bourassa and Réne Lévesque. #30DayMapChallenge https://t.co/j812Tqas8S https://t.co/CMriQLVLF0",278873782,2021-11-29 14:38:12+00:00,fr,1,0,4,0,Twitter Web App,3_1465328995545886723,https://pbs.twimg.com/media/FFXk9TKXsAMpvdl.jpg,photo, ,Map/,vtcraghead,False,3752,916,"Burlington, VT"
+1465327743810347021,"#30DayMapChallenge Day 29: NULL-Countries (or other areas)  with &lt;Null&gt; or ""No data"" for their COVID-19 vaccination rates. https://t.co/hXZWoFCk7I",2391754261,2021-11-29 14:32:13+00:00,en,2,0,4,0,Twitter Web App,3_1465327052417118219,https://pbs.twimg.com/media/FFXjMMcXsAsIoM4.jpg,photo, ,🌏Map of the Week,MapOfTheWeek,False,1076,370,"Arlington, MA"
+1465327200866033664,Definitely the most difficult map for #30DayMapChallenge - Day 29 NULL https://t.co/qXhGOj4cDB,148715617,2021-11-29 14:30:03+00:00,en,1,0,2,0,Twitter for iPhone,3_1465327197015658508,https://pbs.twimg.com/media/FFXjUnHWUAwQLQ8.jpg,photo, ,Federica Gaspari,fede_gaspari,False,577,405,Arona | Piacenza
+1465326945353228298,Catching up the #30DayMapChallenge day 26: choropleth map. Choropleth maps often show political and demographic data. Something in-between with this map of the Upper Silesia plebiscite (1921). More at https://t.co/LDsU8x9HST https://t.co/PN9AGlMiUA,840682774403133441,2021-11-29 14:29:02+00:00,en,1,0,1,0,Twitter for iPhone,3_1465326940001382410,https://pbs.twimg.com/media/FFXjFpqXsAo9FUw.jpg,photo, ,HistoCarte,HistoCarte,False,77,69, 
+1465326495505731593,"Day 29 of the #30DayMapChallenge is NULL. I downloaded the ~2.2 million location points from my Google location history and identified counties with no location data. Places where I've never been. Well, at least since 2013 while holding my phone. https://t.co/qNQJIEz5CO",13215962,2021-11-29 14:27:15+00:00,en,6,7,60,1,Twitter Web App,3_1465326450718957580,https://pbs.twimg.com/media/FFXipK8WYAw4ND2.jpg,photo, ,Jerry Shannon,jerry_shannon,False,2111,1682,"Athens, GA"
 1465322742132002819,"#30DayMapChallenge Day 29: NULL
-""Nulle et Void"" [still] https://t.co/yigeKsGa9T",20668314,2021-11-29 14:12:20+00:00,et,1,0,24,0,Twitter for Android,3_1465322740114591745,https://pbs.twimg.com/media/FFXfRL3VEAEp8-a.jpg,photo, ,Kenneth Field,kennethfield,False,15908,99
+""Nulle et Void"" [still] https://t.co/yigeKsGa9T",20668314,2021-11-29 14:12:20+00:00,et,1,0,24,0,Twitter for Android,3_1465322740114591745,https://pbs.twimg.com/media/FFXfRL3VEAEp8-a.jpg,photo, ,Kenneth Field,kennethfield,False,15921,99,"Front room, Redlands CA"
 1465322631775891461,"#30DayMapChallenge Day 29 Null
 
-Venice, LA resides at 0 ft above sea level. https://t.co/20XNYV9oid",117610391,2021-11-29 14:11:54+00:00,en,1,0,3,0,Twitter for iPhone,3_1465322628848263168,https://pbs.twimg.com/media/FFXfKtXXoAAzHlU.jpg,photo, ,laura,LauraSmithCarto,False,76,100
+Venice, LA resides at 0 ft above sea level. https://t.co/20XNYV9oid",117610391,2021-11-29 14:11:54+00:00,en,1,0,3,0,Twitter for iPhone,3_1465322628848263168,https://pbs.twimg.com/media/FFXfKtXXoAAzHlU.jpg,photo, ,laura,LauraSmithCarto,False,83,100, 
 1465322608514068492,"#30DayMapChallenge Day 29: NULL
-""Nulle et Void"" https://t.co/N1wwMQV4E2",20668314,2021-11-29 14:11:48+00:00,et,1,0,5,0,Twitter for Android,7_1465322541266837505,https://pbs.twimg.com/ext_tw_video_thumb/1465322541266837505/pu/img/6mr4K3iWZ3K6afV2.jpg,video, ,Kenneth Field,kennethfield,False,15908,99
+""Nulle et Void"" https://t.co/N1wwMQV4E2",20668314,2021-11-29 14:11:48+00:00,et,1,0,5,0,Twitter for Android,7_1465322541266837505,https://pbs.twimg.com/ext_tw_video_thumb/1465322541266837505/pu/img/6mr4K3iWZ3K6afV2.jpg,video, ,Kenneth Field,kennethfield,False,15921,99,"Front room, Redlands CA"
 1465319644340756486,"These are the 100 fastest growing cities in the whole world (expected 2025-2030) per @un data.
-#30DayMapChallenge #Day27 #Heatmap https://t.co/4DDlW4K5R6",741653561314922496,2021-11-29 14:00:02+00:00,en,15,7,86,3,Twitter Web App,3_1465148177473052672,https://pbs.twimg.com/media/FFVAgTWXoAATKVH.jpg,photo, ,Kate Berg 🥔🗺️,pokateo_,False,4344,2292
-1465318854138204167,"#30DayMapChallenge Day 29: NULL – Visit the ‘City of Kingkel’, by Mistybee, featuring hand-drawn roads, buildings, bridges, and walls which don’t occupy a physical place in our world, but are instead pure fantasy. https://t.co/cwmEkkI7No",438384837,2021-11-29 13:56:53+00:00,en,2,0,3,0,Twitter for Android,3_1465318851869085698,https://pbs.twimg.com/media/FFXbu3BXEAIAkwl.jpg,photo, ,Atlas of Design,NACIS_Atlas,False,5169,247
+#30DayMapChallenge #Day27 #Heatmap https://t.co/4DDlW4K5R6",741653561314922496,2021-11-29 14:00:02+00:00,en,18,8,94,3,Twitter Web App,3_1465148177473052672,https://pbs.twimg.com/media/FFVAgTWXoAATKVH.jpg,photo, ,Kate Berg 🥔🗺️,pokateo_,False,4377,2293,"Grand Rapids, MI"
+1465318854138204167,"#30DayMapChallenge Day 29: NULL – Visit the ‘City of Kingkel’, by Mistybee, featuring hand-drawn roads, buildings, bridges, and walls which don’t occupy a physical place in our world, but are instead pure fantasy. https://t.co/cwmEkkI7No",438384837,2021-11-29 13:56:53+00:00,en,2,1,5,0,Twitter for Android,3_1465318851869085698,https://pbs.twimg.com/media/FFXbu3BXEAIAkwl.jpg,photo, ,Atlas of Design,NACIS_Atlas,False,5172,247, 
 1465317608681582594,"Day 15 #30DayMapChallenge : Without a computer.
-Artistic map showing colombian biodiversity, made of plasticine by @altereddie https://t.co/HXluvibjRC",1458114928670388231,2021-11-29 13:51:56+00:00,en,9,0,56,0,Twitter Web App,3_1465317444092846088,https://pbs.twimg.com/media/FFXac6pWYAg3kPc.jpg,photo, ,Maps of Colombia - Mapas de Colombia,ColombianMaps,False,5606,20
+Artistic map showing colombian biodiversity, made of plasticine by @altereddie https://t.co/HXluvibjRC",1458114928670388231,2021-11-29 13:51:56+00:00,en,11,0,58,0,Twitter Web App,3_1465317444092846088,https://pbs.twimg.com/media/FFXac6pWYAg3kPc.jpg,photo, ,Maps of Colombia - Mapas de Colombia,ColombianMaps,False,5612,20,Colombia
 1465316624618205192,"Day 29 #30DayMapChallenge – NULL
 
 The Ardlamont Hole. The bottom of the Cowal peninsula, west of Bute, in @OrdnanceSurvey Terrain 50 contours. It’s strangely featureless, no?
 
 Same thing on OS sheet via Bing Maps shows plenty of hot contour action.
 
-A hole in the data? https://t.co/dolT7KsMGM",1163073816270188545,2021-11-29 13:48:02+00:00,en,1,0,3,0,Twitter Web App,3_1465316334355591168,https://pbs.twimg.com/media/FFXZcUjXsAA-8YH.jpg,photo, ,D,64mien,False,12,59
-1465315109396484104,oh it's NULL day? looks like I'm returning to beat my favorite dead horse #30DayMapChallenge https://t.co/xjh1fBNAHi,14913762,2021-11-29 13:42:00+00:00,en,6,1,43,0,Twitter for iPhone,3_1465315103516110856,https://pbs.twimg.com/media/FFXYUrUXsAgWNjx.jpg,photo, ,vicky johnson-dahl,hurricanevicky,False,1179,833
+A hole in the data? https://t.co/dolT7KsMGM",1163073816270188545,2021-11-29 13:48:02+00:00,en,1,0,3,0,Twitter Web App,3_1465316334355591168,https://pbs.twimg.com/media/FFXZcUjXsAA-8YH.jpg,photo, ,D,64mien,False,12,63,"Aberlady, East Lothian"
+1465315109396484104,oh it's NULL day? looks like I'm returning to beat my favorite dead horse #30DayMapChallenge https://t.co/xjh1fBNAHi,14913762,2021-11-29 13:42:00+00:00,en,6,1,46,0,Twitter for iPhone,3_1465315103516110856,https://pbs.twimg.com/media/FFXYUrUXsAgWNjx.jpg,photo, ,vicky johnson-dahl,hurricanevicky,False,1183,833,"Washington, DC"
 1465314606008737805,"*Get Away From It All*
 How far to Point Nemo?
 #30DayMapChallenge 
@@ -342,119 +342,119 @@ Day 29: NULL
 Using @ArcGISOnline #WebAppBuilder
 Compare all or a selection of distances:
 'Chart' &gt; Use spatial filter to limit features &gt; Only features intersecting a user-defined area
-Map https://t.co/rHRxEq4oBz https://t.co/gADG0Pl4Y6",2787878432,2021-11-29 13:40:00+00:00,en,6,0,8,2,Twitter Web App,7_1465314422264582155,https://pbs.twimg.com/ext_tw_video_thumb/1465314422264582155/pu/img/93IP-abOiWg_CKgq.jpg,video, ,BC,mildthing99,False,2576,2317
+Map https://t.co/rHRxEq4oBz https://t.co/gADG0Pl4Y6",2787878432,2021-11-29 13:40:00+00:00,en,6,0,8,2,Twitter Web App,7_1465314422264582155,https://pbs.twimg.com/ext_tw_video_thumb/1465314422264582155/pu/img/93IP-abOiWg_CKgq.jpg,video, ,BC,mildthing99,False,2575,2318,"England, United Kingdom"
 1465314099747704835,"Day 29: NULL
 
 An empty/default/imprecise point exists for any polygonal geography. You have only to imagine it.
 
-I'll keep to my theme as #30DayMapChallenge draws to its last days, &amp; show NULL-Montréal (centroid), as well as how it appears in @mapillary: https://t.co/XdWaqmA0Q9 https://t.co/Kb2MW4jFRQ",278873782,2021-11-29 13:38:00+00:00,en,1,0,6,1,Twitter Web App,3_1465146013774135298,https://pbs.twimg.com/media/FFU-iW8WQAIdrZI.jpg,photo, ,Map/,vtcraghead,False,3749,915
+I'll keep to my theme as #30DayMapChallenge draws to its last days, &amp; show NULL-Montréal (centroid), as well as how it appears in @mapillary: https://t.co/XdWaqmA0Q9 https://t.co/Kb2MW4jFRQ",278873782,2021-11-29 13:38:00+00:00,en,1,0,6,1,Twitter Web App,3_1465146013774135298,https://pbs.twimg.com/media/FFU-iW8WQAIdrZI.jpg,photo, ,Map/,vtcraghead,False,3752,916,"Burlington, VT"
 1465313359843233792,"28. 'The Earth is not flat'
 
 We're into the final week of the #30DayMapChallenge, and our #GIS team has had a blast 💥
 
 Yesterday's map shows an exaggerated elevation of the whole planet, confirming once and for all: it's not flat! 🌍
 
-#GISchat #earth #gismapping #visualisation https://t.co/G8tXmnelnM",2295951570,2021-11-29 13:35:03+00:00,en,15,2,52,4,Hootsuite Inc.,16_1465313353581092871,https://pbs.twimg.com/tweet_video_thumb/FFXWu0TWYAc6U-7.jpg,animated_gif, ,LUC,LUCtweeting,False,3642,874
+#GISchat #earth #gismapping #visualisation https://t.co/G8tXmnelnM",2295951570,2021-11-29 13:35:03+00:00,en,25,3,103,5,Hootsuite Inc.,16_1465313353581092871,https://pbs.twimg.com/tweet_video_thumb/FFXWu0TWYAc6U-7.jpg,animated_gif, ,LUC,LUCtweeting,False,3648,874,United Kingdom
 1465311389493477384,"Almost there! Day 29 of #30DayMapChallenge (NULL): a few weeks ago our team leads set out on a mission - to hike from point A to B (4.5km bird's-eye) without using any data, maps or navigation. One team hiked twice the distance! Here's how they got on. 
-#maps #adventure #hiking https://t.co/utZJMbmIVc",34737662,2021-11-29 13:27:14+00:00,en,1,0,7,0,Twitter Web App,7_1465308125016334336,https://pbs.twimg.com/ext_tw_video_thumb/1465308125016334336/pu/img/TrMD_tDheqGTYj1x.jpg,video, ,Positium,positium,False,471,335
+#maps #adventure #hiking https://t.co/utZJMbmIVc",34737662,2021-11-29 13:27:14+00:00,en,1,0,7,0,Twitter Web App,7_1465308125016334336,https://pbs.twimg.com/ext_tw_video_thumb/1465308125016334336/pu/img/TrMD_tDheqGTYj1x.jpg,video, ,Positium,positium,False,477,335,"Soola 8, Tartu, Estonia"
 1465310380838719488,"Día 29
 #30DayMapChallenge 
 #Null
 
-Nulltown es una comunidad no incorporada en el municipio de Columbia, condado de Fayette, Indiana. https://t.co/qCR9duBJBT",1156302488884121601,2021-11-29 13:23:13+00:00,es,2,0,1,0,Twitter for Android,3_1465310378032877572,https://pbs.twimg.com/media/FFXUBnhX0AQnJD2.jpg,photo, ,Pablo Otero,Pablo__Otero,False,97,482
-1465309318203510787,Day 29 of the #30DayMapChallenge:  NULL…Where to look when complaints there is no data on the map.  Null coordinates kill. #GarbageInGarbageOut #IMNOS https://t.co/OOzZwc1mWN,276280627,2021-11-29 13:19:00+00:00,en,1,0,2,1,Twitter Web App,3_1465173389543284742,https://pbs.twimg.com/media/FFVXb1oVIAYlhcZ.jpg,photo, ,Patrick Nelson,pnelson917,False,231,487
-1465307013668384779,Which home test match venue for @englandcricket should batsmen fear a dreaded duck? A quick map. #30DayMapChallenge #day29 #null  Data from @ESPNcricinfo https://t.co/WbPo0Lyl4x,318026127,2021-11-29 13:09:50+00:00,en,4,0,11,1,Twitter Web App,3_1465306904259878924,https://pbs.twimg.com/media/FFXQ3atWYAwflwP.jpg,photo, ,Craig Robson,CaRobson,False,217,231
+Nulltown es una comunidad no incorporada en el municipio de Columbia, condado de Fayette, Indiana. https://t.co/qCR9duBJBT",1156302488884121601,2021-11-29 13:23:13+00:00,es,1,1,1,0,Twitter for Android,3_1465310378032877572,https://pbs.twimg.com/media/FFXUBnhX0AQnJD2.jpg,photo, ,Pablo Otero,Pablo__Otero,False,99,486,Madrid
+1465309318203510787,Day 29 of the #30DayMapChallenge:  NULL…Where to look when complaints there is no data on the map.  Null coordinates kill. #GarbageInGarbageOut #IMNOS https://t.co/OOzZwc1mWN,276280627,2021-11-29 13:19:00+00:00,en,1,0,2,1,Twitter Web App,3_1465173389543284742,https://pbs.twimg.com/media/FFVXb1oVIAYlhcZ.jpg,photo, ,Patrick Nelson,pnelson917,False,232,488,"Phoenix, AZ"
+1465307013668384779,Which home test match venue for @englandcricket should batsmen fear a dreaded duck? A quick map. #30DayMapChallenge #day29 #null  Data from @ESPNcricinfo https://t.co/WbPo0Lyl4x,318026127,2021-11-29 13:09:50+00:00,en,4,0,11,1,Twitter Web App,3_1465306904259878924,https://pbs.twimg.com/media/FFXQ3atWYAwflwP.jpg,photo, ,Craig Robson,CaRobson,False,217,238,Newcastle
 1465305709977948161,"#30DayMapChallenge
 Day 29: NULL - Pumpkin Pie = NULL
-That deep down sadness when you realize that Slinky was given the last piece of the Pumpkin Pie that you were saving for the final day of the #30DayMapChallenge #slinky https://t.co/Silk19woda",333524694,2021-11-29 13:04:39+00:00,en,1,0,5,0,Twitter Web App,3_1465305553954086914,https://pbs.twimg.com/media/FFXPo0bXIAIE-gx.jpg,photo, ,Christopher Pollard,CRVanPollard,False,1233,1208
-1465305434240204800,#30DayMapChallenge day 29 - null. Countries without extradition treaties with the USA. Handy to know if any of my American friends ever need to flee the country. https://t.co/FsqGKw8gek,798523409286266880,2021-11-29 13:03:34+00:00,en,3,0,16,0,Twitter for Android,3_1465305419610566660,https://pbs.twimg.com/media/FFXPg_9XsAQKHJp.jpg,photo, ,Dan Harris,DiasporaDan,False,1225,1856
+That deep down sadness when you realize that Slinky was given the last piece of the Pumpkin Pie that you were saving for the final day of the #30DayMapChallenge #slinky https://t.co/Silk19woda",333524694,2021-11-29 13:04:39+00:00,en,1,0,5,0,Twitter Web App,3_1465305553954086914,https://pbs.twimg.com/media/FFXPo0bXIAIE-gx.jpg,photo, ,Christopher Pollard,CRVanPollard,False,1236,1210,"Philadelphia,PA"
+1465305434240204800,#30DayMapChallenge day 29 - null. Countries without extradition treaties with the USA. Handy to know if any of my American friends ever need to flee the country. https://t.co/FsqGKw8gek,798523409286266880,2021-11-29 13:03:34+00:00,en,3,0,18,0,Twitter for Android,3_1465305419610566660,https://pbs.twimg.com/media/FFXPg_9XsAQKHJp.jpg,photo, ,Dan Harris,DiasporaDan,False,1229,1857,"Grantown-on-Spey, Scotland"
 1465300591131992069,"The earth is not flat | Animation still and behind the scenes. #30DayMapChallenge - Day 28.
 
 Modelled and animated in #Blender3d through #cycles. NASA Blue Marble satellite imagery.
-#loop #gischat #b3d #dataviz #3d 2/🧵 https://t.co/oEpjSsccCT",1186202364,2021-11-29 12:44:19+00:00,en,4,1,11,0,Twitter for Android,3_1465300581229154304,https://pbs.twimg.com/media/FFXLHXlWUAAzH2W.jpg,photo, ,Julian Hoffmann,Julian_H0ffmann,False,717,1948
+#loop #gischat #b3d #dataviz #3d 2/🧵 https://t.co/oEpjSsccCT",1186202364,2021-11-29 12:44:19+00:00,en,4,1,13,0,Twitter for Android,3_1465300581229154304,https://pbs.twimg.com/media/FFXLHXlWUAAzH2W.jpg,photo, ,Julian Hoffmann,Julian_H0ffmann,False,737,1953,"London, England"
 1465299704334491649,"The earth is not flat | #Animation #30DayMapChallenge - Day 28.
 
 Modelled and animated in #Blender3d through #cycles. NASA Blue Marble satellite imagery.
-#loop #gischat #b3d #dataviz #3d 1/🧵 https://t.co/cEtMjfRBLC",1186202364,2021-11-29 12:40:48+00:00,en,39,6,148,0,Twitter for Android,7_1465299634646102020,https://pbs.twimg.com/ext_tw_video_thumb/1465299634646102020/pu/img/WfFcOj4TgmJ-PIr8.jpg,video, ,Julian Hoffmann,Julian_H0ffmann,False,717,1948
-1465297528853835779,"#30DayMapChallenge, day 28, the earth is not flat: Protected area expansion priorities. @TuuliToivonen created a map montage to show all global land area at minimal areal distortion. More details: Montesino Pouzal et al., 2014, https://t.co/3NpuRJ1f9K #OpenAccess @GeoUniHelsinki https://t.co/4Yp7rDwE2x",845248364191059968,2021-11-29 12:32:09+00:00,en,7,0,20,1,Twitter Web App,3_1465297159348174853,https://pbs.twimg.com/media/FFXIAMFWQAUeeiS.jpg,photo, ,DigitalGeographyLab,digigeolab,False,1338,365
-1465296990284271628,"Point Nemo: the place in the ocean that is farthest from land. This place is so remote that sometimes the closest people are actually astronauts on the International Space Station, which is totally wild to me. #30DayMapChallenge #Day29 #NULL https://t.co/K9WopQfnua",741653561314922496,2021-11-29 12:30:01+00:00,en,37,6,149,4,TweetDeck,3_1464766191822684161,https://pbs.twimg.com/media/FFPlFz6XwAEOpl8.png,photo, ,Kate Berg 🥔🗺️,pokateo_,False,4344,2292
+#loop #gischat #b3d #dataviz #3d 1/🧵 https://t.co/cEtMjfRBLC",1186202364,2021-11-29 12:40:48+00:00,en,39,6,153,0,Twitter for Android,7_1465299634646102020,https://pbs.twimg.com/ext_tw_video_thumb/1465299634646102020/pu/img/WfFcOj4TgmJ-PIr8.jpg,video, ,Julian Hoffmann,Julian_H0ffmann,False,737,1953,"London, England"
+1465297528853835779,"#30DayMapChallenge, day 28, the earth is not flat: Protected area expansion priorities. @TuuliToivonen created a map montage to show all global land area at minimal areal distortion. More details: Montesino Pouzal et al., 2014, https://t.co/3NpuRJ1f9K #OpenAccess @GeoUniHelsinki https://t.co/4Yp7rDwE2x",845248364191059968,2021-11-29 12:32:09+00:00,en,7,0,22,1,Twitter Web App,3_1465297159348174853,https://pbs.twimg.com/media/FFXIAMFWQAUeeiS.jpg,photo, ,DigitalGeographyLab,digigeolab,False,1345,365, 
+1465296990284271628,"Point Nemo: the place in the ocean that is farthest from land. This place is so remote that sometimes the closest people are actually astronauts on the International Space Station, which is totally wild to me. #30DayMapChallenge #Day29 #NULL https://t.co/K9WopQfnua",741653561314922496,2021-11-29 12:30:01+00:00,en,42,6,174,4,TweetDeck,3_1464766191822684161,https://pbs.twimg.com/media/FFPlFz6XwAEOpl8.png,photo, ,Kate Berg 🥔🗺️,pokateo_,False,4377,2293,"Grand Rapids, MI"
 1465296324144762885,"After going AWOL for most of the Map Challenge I'm back with one final map for the spatial geeks – the (0,0) point of every EPSG coordinate system in the proj database.
 
-#30DayMapChallenge Day 29: NULL https://t.co/0ZvP2JpVPJ",834726260232245249,2021-11-29 12:27:22+00:00,en,0,0,2,0,Twitter Web App,3_1465296316351672328,https://pbs.twimg.com/media/FFXHPHrUcAg-9gf.jpg,photo, ,Alan Thomas,atlight_alan,False,4,31
-1465295439717146636,OSM buildings🏢 with NULL values for Day 29 of the #30DayMapChallenge . Today's map was created by @geobach_za https://t.co/Fl7hhUFgOs,1109007483199213568,2021-11-29 12:23:51+00:00,en,1,0,5,0,Twitter for Android,3_1465295437141839874,https://pbs.twimg.com/media/FFXGb8XXEAIey_d.jpg,photo, ,UP Mappers,UPmappers,False,87,66
+#30DayMapChallenge Day 29: NULL https://t.co/0ZvP2JpVPJ",834726260232245249,2021-11-29 12:27:22+00:00,en,1,0,3,0,Twitter Web App,3_1465296316351672328,https://pbs.twimg.com/media/FFXHPHrUcAg-9gf.jpg,photo, ,Alan Thomas,atlight_alan,False,4,31,Melbourne
+1465295439717146636,OSM buildings🏢 with NULL values for Day 29 of the #30DayMapChallenge . Today's map was created by @geobach_za https://t.co/Fl7hhUFgOs,1109007483199213568,2021-11-29 12:23:51+00:00,en,1,0,5,0,Twitter for Android,3_1465295437141839874,https://pbs.twimg.com/media/FFXGb8XXEAIey_d.jpg,photo, ,UP Mappers,UPmappers,False,87,66,"Pretoria, South Africa"
 1465291953940037634,"#30DayMapChallenge Day 29: NULL
 
-Some places that used to be real now only exist on the map. https://t.co/fElXFbZrKH",1024584556110852096,2021-11-29 12:10:00+00:00,en,1,0,9,0,Twitter Web App,3_1465289751758577671,https://pbs.twimg.com/media/FFXBRAqXIAcFhqb.jpg,photo, ,Kontur,KonturInc,False,1012,1207
+Some places that used to be real now only exist on the map. https://t.co/fElXFbZrKH",1024584556110852096,2021-11-29 12:10:00+00:00,en,1,0,13,0,Twitter Web App,3_1465289751758577671,https://pbs.twimg.com/media/FFXBRAqXIAcFhqb.jpg,photo, ,Kontur,KonturInc,False,1016,1208,"Hawaii, USA"
 1465290271650889735,"#30DayMapChallenge Day 29: NULL
-The basic map I use for my language maps about the variation in the Dutch Language: a combination of the Netherlands and Flanders (northern part of Belgium) + Brussels. With the borders of the provinces of both countries. https://t.co/M4pr4KgFtq",846963504,2021-11-29 12:03:19+00:00,en,1,0,1,0,TweetDeck,3_1465289685853515844,https://pbs.twimg.com/media/FFXBNLJXsEQzUbw.png,photo, ,Miet 👩‍🦰 Ooms - blijft vrolijk buurtalen 🌈,BuurtaalMiet,False,1333,999
-1465289447591882757,"DAY TWENTY NINE - NULL ⛔️@pj_ballantyne has mapped towns called Malice at the Local Authority District level across Great Britain, as an ode to the legendary song by The Jam #30DayMapChallenge https://t.co/OCQLNBxFZz",2280343142,2021-11-29 12:00:02+00:00,en,1,0,5,1,TweetDeck,3_1463150010552528900,https://pbs.twimg.com/media/FE4nLrgXsAQvRNe.jpg,photo, ,GeoDataScience,geodatascience,False,5396,2376
+The basic map I use for my language maps about the variation in the Dutch Language: a combination of the Netherlands and Flanders (northern part of Belgium) + Brussels. With the borders of the provinces of both countries. https://t.co/M4pr4KgFtq",846963504,2021-11-29 12:03:19+00:00,en,1,0,1,0,TweetDeck,3_1465289685853515844,https://pbs.twimg.com/media/FFXBNLJXsEQzUbw.png,photo, ,Miet 👩‍🦰 Ooms - blijft vrolijk buurtalen 🌈,BuurtaalMiet,False,1334,999,"Limburg, België"
+1465289447591882757,"DAY TWENTY NINE - NULL ⛔️@pj_ballantyne has mapped towns called Malice at the Local Authority District level across Great Britain, as an ode to the legendary song by The Jam #30DayMapChallenge https://t.co/OCQLNBxFZz",2280343142,2021-11-29 12:00:02+00:00,en,1,0,7,1,TweetDeck,3_1463150010552528900,https://pbs.twimg.com/media/FE4nLrgXsAQvRNe.jpg,photo, ,GeoDataScience,geodatascience,False,5397,2376,Liverpool
 1465287071384301569,"#30DayMapChallenge Day 29 | Null
 
 Nothing but #Bangladesh 
-#QGIS https://t.co/cv2upTxpwP",771895849,2021-11-29 11:50:36+00:00,en,0,0,0,0,Twitter Web App,3_1465286882879627272,https://pbs.twimg.com/media/FFW-qBQUYAgUafL.png,photo, ,Padmanabha Chowdhury,PadmanabhaChy,False,6,26
+#QGIS https://t.co/cv2upTxpwP",771895849,2021-11-29 11:50:36+00:00,en,0,0,0,0,Twitter Web App,3_1465286882879627272,https://pbs.twimg.com/media/FFW-qBQUYAgUafL.png,photo, ,Padmanabha Chowdhury,PadmanabhaChy,False,5,29,Bangladesh
 1465283833717313536,"@WendersStefan Upon special request: 
 
 #30DayMapChallenge 
 Day 29 - NULL 
 
-A topographic map without BIELEFELD. 😏 https://t.co/2X7YGBpLH5",1139059532,2021-11-29 11:37:44+00:00,en,3,1,6,1,Twitter Web App,3_1465283672395984904,https://pbs.twimg.com/media/FFW7vJRXsAgf4Vl.jpg,photo, ,Ansgar Wolsing,_ansgar,False,369,1016
+A topographic map without BIELEFELD. 😏 https://t.co/2X7YGBpLH5",1139059532,2021-11-29 11:37:44+00:00,en,3,1,6,1,Twitter Web App,3_1465283672395984904,https://pbs.twimg.com/media/FFW7vJRXsAgf4Vl.jpg,photo, ,Ansgar Wolsing,_ansgar,False,380,1021,"Köln, Deutschland"
 1465283605454856201,"#30DayMapChallenge day 29 (null)
 
-Countries with null/no/0 registered Covid-19 cases as of 29 Nov 2021: island nations of Nauru 🇳🇷 and Tuvalu 🇹🇻, as well as liar states of Tajikistan 🇹🇯 and North Korea 🇰🇵. https://t.co/7jxrHo5jRk",963423777135759360,2021-11-29 11:36:49+00:00,en,5,1,10,0,Twitter Web App,3_1465282225931538439,https://pbs.twimg.com/media/FFW6a8xX0AcxuX8.jpg,photo, ,Ilya Ilyankou,ilyankou,False,431,400
+Countries with null/no/0 registered Covid-19 cases as of 29 Nov 2021: island nations of Nauru 🇳🇷 and Tuvalu 🇹🇻, as well as liar states of Tajikistan 🇹🇯 and North Korea 🇰🇵. https://t.co/7jxrHo5jRk",963423777135759360,2021-11-29 11:36:49+00:00,en,6,1,11,0,Twitter Web App,3_1465282225931538439,https://pbs.twimg.com/media/FFW6a8xX0AcxuX8.jpg,photo, ,Ilya Ilyankou,ilyankou,False,431,401,London
 1465283042637983749,"#30DayMapChallenge Day 29 - NULL
 Catchment delineation procedure with the new #QGIS #PCRaster Tools plugin results in a NULL island within the Rur catchment, caused by an open pit mine.
 #OpenData: SRTM, #OpenStreetMap (carnaval place names!)
-Video: https://t.co/d4QvpIodEp https://t.co/3UdAFUrCfM",760094405369946112,2021-11-29 11:34:35+00:00,en,2,0,17,0,Twitter Web App,3_1465280052787089410,https://pbs.twimg.com/media/FFW4cdLXEAIbSCQ.jpg,photo, ,Hans van der Kwast,hansakwast,False,4227,1318
-1465281050079289347,"#30DayMapChallenge day 29 : null. Carte post-historique peinte sur un vieux réacteur nucléaire, plaine de la Kolyma, XXIIIeme siècle #terminusradieux https://t.co/o2UBzLbWWJ",1189967197730430977,2021-11-29 11:26:40+00:00,fr,2,0,5,0,Twitter for Android,3_1465281042084945920,https://pbs.twimg.com/media/FFW5WCmWYAAtz3-.jpg,photo, ,Julien Dupont Kobri,Kartokobri,False,879,387
+Video: https://t.co/d4QvpIodEp https://t.co/3UdAFUrCfM",760094405369946112,2021-11-29 11:34:35+00:00,en,2,0,17,0,Twitter Web App,3_1465280052787089410,https://pbs.twimg.com/media/FFW4cdLXEAIbSCQ.jpg,photo, ,Hans van der Kwast,hansakwast,False,4230,1320,The Netherlands
+1465281050079289347,"#30DayMapChallenge day 29 : null. Carte post-historique peinte sur un vieux réacteur nucléaire, plaine de la Kolyma, XXIIIeme siècle #terminusradieux https://t.co/o2UBzLbWWJ",1189967197730430977,2021-11-29 11:26:40+00:00,fr,2,0,5,0,Twitter for Android,3_1465281042084945920,https://pbs.twimg.com/media/FFW5WCmWYAAtz3-.jpg,photo, ,Julien Dupont Kobri,Kartokobri,False,880,387, 
 1465280991040266245,"Day 29 #30DayMapChallenge and there is #NULL ing much going on. Just drawing blanks 😌
-#badmapjoke https://t.co/32z9TzdnK2",1412877030895628289,2021-11-29 11:26:26+00:00,en,1,0,1,0,Twitter for Android,3_1465280988834054144,https://pbs.twimg.com/media/FFW5S8OWQAAw77i.jpg,photo, ,Grachen Akoth,MapsGre,False,27,47
+#badmapjoke https://t.co/32z9TzdnK2",1412877030895628289,2021-11-29 11:26:26+00:00,en,1,0,2,0,Twitter for Android,3_1465280988834054144,https://pbs.twimg.com/media/FFW5S8OWQAAw77i.jpg,photo, ,Grachen Akoth,MapsGre,False,31,47, 
 1465280015625596930,"#30DayMapChallenge Raster
-Un raster a partir del núvol anterior, 10 cm de resolució https://t.co/7ed8P27Lq7",3501358169,2021-11-29 11:22:33+00:00,ca,1,0,1,0,Twitter for Android,3_1465280006188380169,https://pbs.twimg.com/media/FFW4ZvlXMAk6Y0z.jpg,photo, ,Víctor Coris,Victor_Celoni,False,32,127
+Un raster a partir del núvol anterior, 10 cm de resolució https://t.co/7ed8P27Lq7",3501358169,2021-11-29 11:22:33+00:00,ca,1,0,1,0,Twitter for Android,3_1465280006188380169,https://pbs.twimg.com/media/FFW4ZvlXMAk6Y0z.jpg,photo, ,Víctor Coris,Victor_Celoni,False,32,127, 
 1465280000698064896,"#30DayMapChallenge 3D
-Fotogrametria una mica més cartogràfica. 17 milions de punts a partir de 36 fotografies. https://t.co/Z1qZz77IkV",3501358169,2021-11-29 11:22:30+00:00,ca,1,1,1,0,Twitter for Android,3_1465279991181189120,https://pbs.twimg.com/media/FFW4Y3rXoAAJaqe.jpg,photo, ,Víctor Coris,Victor_Celoni,False,32,127
+Fotogrametria una mica més cartogràfica. 17 milions de punts a partir de 36 fotografies. https://t.co/Z1qZz77IkV",3501358169,2021-11-29 11:22:30+00:00,ca,1,1,1,0,Twitter for Android,3_1465279991181189120,https://pbs.twimg.com/media/FFW4Y3rXoAAJaqe.jpg,photo, ,Víctor Coris,Victor_Celoni,False,32,127, 
 1465279443572822026,"One of my most fun #30DayMapChallenge outputs: total &amp; average NUL(L) points accrued in #Eurovision finals 🎶 Country w/most snubs per appearance might surprise you…
 
-Thanks to @Datagraver for data &amp; @DylanMoriarty @pinakographos for country layer https://t.co/tKCVMVw9Ey",900161125,2021-11-29 11:20:17+00:00,en,1,0,5,0,Twitter Web App,16_1465278851567734784,https://pbs.twimg.com/tweet_video_thumb/FFW3WiSWUAAXjzd.jpg,animated_gif, ,amanda,acrobins,False,214,238
+Thanks to @Datagraver for data &amp; @DylanMoriarty @pinakographos for country layer https://t.co/tKCVMVw9Ey",900161125,2021-11-29 11:20:17+00:00,en,1,0,5,0,Twitter Web App,16_1465278851567734784,https://pbs.twimg.com/tweet_video_thumb/FFW3WiSWUAAXjzd.jpg,animated_gif, ,amanda,acrobins,False,214,238,London via Edmonton & Calgary
 1465279188643069952,"#30DayMapChallenge 
 Day 29 - NULL
 
 A topographic map without Cologne (Köln).
 
-Created in #rstats with {ggplot2} and some {ggfx} flair. https://t.co/6ErKkbtfqE",1139059532,2021-11-29 11:19:16+00:00,de,5,2,12,0,Twitter Web App,3_1465279175854637060,https://pbs.twimg.com/media/FFW3paWXwAQwqNE.jpg,photo, ,Ansgar Wolsing,_ansgar,False,369,1016
-1465277484040134657,"#30DayMapChallenge day 29: null. I’m a Eurovision Song Contest fan, so I made a map of the countries which received 0 points, the infamous ""nul points"". More at https://t.co/LDsU8x9HST https://t.co/G21v1HKiIC",840682774403133441,2021-11-29 11:12:30+00:00,en,4,0,5,1,Twitter for iPhone,3_1465277478281400323,https://pbs.twimg.com/media/FFW2GmZX0AMiRtf.jpg,photo, ,HistoCarte,HistoCarte,False,77,66
+Created in #rstats with {ggplot2} and some {ggfx} flair. https://t.co/6ErKkbtfqE",1139059532,2021-11-29 11:19:16+00:00,de,5,2,12,0,Twitter Web App,3_1465279175854637060,https://pbs.twimg.com/media/FFW3paWXwAQwqNE.jpg,photo, ,Ansgar Wolsing,_ansgar,False,380,1021,"Köln, Deutschland"
+1465277484040134657,"#30DayMapChallenge day 29: null. I’m a Eurovision Song Contest fan, so I made a map of the countries which received 0 points, the infamous ""nul points"". More at https://t.co/LDsU8x9HST https://t.co/G21v1HKiIC",840682774403133441,2021-11-29 11:12:30+00:00,en,4,0,5,1,Twitter for iPhone,3_1465277478281400323,https://pbs.twimg.com/media/FFW2GmZX0AMiRtf.jpg,photo, ,HistoCarte,HistoCarte,False,77,69, 
 1465276047071625222,"#30DayMapChallenge - Day 29: ""NULL""
-Where to retreat to get some peace and quiet 😁 Zones in Switzerland without 4G/LTE service: mountains and remote valleys play a major role. Coverage data by @bakomCH https://t.co/QKMATS4aen",336517784,2021-11-29 11:06:47+00:00,en,1,0,6,0,Twitter Web App,3_1465275727599841281,https://pbs.twimg.com/media/FFW0gsmXMAERxxx.jpg,photo, ,Luca Dall'Acqua,luca_northsouth,False,174,523
+Where to retreat to get some peace and quiet 😁 Zones in Switzerland without 4G/LTE service: mountains and remote valleys play a major role. Coverage data by @bakomCH https://t.co/QKMATS4aen",336517784,2021-11-29 11:06:47+00:00,en,1,0,6,0,Twitter Web App,3_1465275727599841281,https://pbs.twimg.com/media/FFW0gsmXMAERxxx.jpg,photo, ,Luca Dall'Acqua,luca_northsouth,False,175,523,"Lucerna, Svizzera"
 1465275589150007300,"Jour 29 du #30DayMapChallenge : Null
 
 Un petit essai cartographique sur les matchs nuls du championnat de Ligue 1 la saison dernière.
 
-Réalisée avec Affinity Designer (je l'essaie en ce moment😊) https://t.co/OLvrPWv9of",1311399091,2021-11-29 11:04:58+00:00,fr,4,1,20,0,Twitter Web App,3_1465275540273827840,https://pbs.twimg.com/media/FFW0VywXEAA8zXX.jpg,photo, ,Lubin Picard,Lubin_Picard,False,344,198
+Réalisée avec Affinity Designer (je l'essaie en ce moment😊) https://t.co/OLvrPWv9of",1311399091,2021-11-29 11:04:58+00:00,fr,4,1,21,0,Twitter Web App,3_1465275540273827840,https://pbs.twimg.com/media/FFW0VywXEAA8zXX.jpg,photo, ,Lubin Picard,Lubin_Picard,False,344,198, 
 1465274337842262018,"#30daymapchallenge Mapa de Detalle de la Zona de Afección de los huracanes ETA e IOTA que azotaron Nicaragua en 2020.
 
-@IGNSpain @comunidadign @geoinfinita @30daymap_tweets @andalgeos @achguate_  @Acontraelhambre #mapas  #geografia #GIS #teledeteccion #Huracan https://t.co/MftbEfNQQD",846732445823258625,2021-11-29 11:00:00+00:00,es,0,0,0,0,Twitter Web App,3_1465245712338280451,https://pbs.twimg.com/media/FFWZNlCWYAMNPQS.jpg,photo, ,GIS4tech,GIS4tech_UGR,False,300,437
+@IGNSpain @comunidadign @geoinfinita @30daymap_tweets @andalgeos @achguate_  @Acontraelhambre #mapas  #geografia #GIS #teledeteccion #Huracan https://t.co/MftbEfNQQD",846732445823258625,2021-11-29 11:00:00+00:00,es,0,0,0,0,Twitter Web App,3_1465245712338280451,https://pbs.twimg.com/media/FFWZNlCWYAMNPQS.jpg,photo, ,GIS4tech,GIS4tech_UGR,False,299,437,Pdsta. Fdo Gómez de la Cruz 61
 1465274066751967237,"#30DayMapChallenge Day 29: Null
 
 Today, for once, I have enough time to also contribute!  😁
 
-(Amazed how many people manage to produce content every day, I love following but have not enough time...) https://t.co/9sWBvrRQiv https://t.co/f5M8WY8cTw",820984412,2021-11-29 10:58:55+00:00,en,1,1,4,0,Twitter Web App,3_1465273851718381568,https://pbs.twimg.com/media/FFWyzgZXsAAqq6V.png,photo, ,"Helena Jambor, PhD",helenajambor,False,1907,905
+(Amazed how many people manage to produce content every day, I love following but have not enough time...) https://t.co/9sWBvrRQiv https://t.co/f5M8WY8cTw",820984412,2021-11-29 10:58:55+00:00,en,1,1,4,0,Twitter Web App,3_1465273851718381568,https://pbs.twimg.com/media/FFWyzgZXsAAqq6V.png,photo, ,"Helena Jambor, PhD",helenajambor,False,1908,905,"Dresden, Lüneburg, Berlin"
 1465272674729414657,"started with a map from the classic video game #SuperMetroid and then formed aggregated rasters  (by mean, median, and mode) since I was wondering if the color schemes for the biomes would be preserved.
 
 #30DayMapChallenge Day 29: NULL
 
-image source: https://t.co/G8k5Y21bjs https://t.co/bpkpWZnqay",754537285660573696,2021-11-29 10:53:23+00:00,en,1,0,1,0,Twitter Web App,3_1465271117120036865,https://pbs.twimg.com/media/FFWwUVOUYAEW529.jpg,photo, ,Derek Sollberger,DerekSollberger,False,339,710
+image source: https://t.co/G8k5Y21bjs https://t.co/bpkpWZnqay",754537285660573696,2021-11-29 10:53:23+00:00,en,1,0,1,0,Twitter Web App,3_1465271117120036865,https://pbs.twimg.com/media/FFWwUVOUYAEW529.jpg,photo, ,Derek Sollberger,DerekSollberger,False,339,710,"Merced, CA"
 1465272442222522369,"Everyone knows where Null Island is, but did you know that Nulltown is located at 39°34′47″N 85°09′30″W?
 
 #30DayMapChallenge day 29: NULL.
 
-Data: © OpenStreetMap contributors https://t.co/2vqyl1jd49",2198358416,2021-11-29 10:52:28+00:00,en,5,3,51,2,Twitter Web App,3_1465272128094281729,https://pbs.twimg.com/media/FFWxPLZXIAE-vPR.png,photo, ,Topi Tjukanov,tjukanov,False,15303,2500
+Data: © OpenStreetMap contributors https://t.co/2vqyl1jd49",2198358416,2021-11-29 10:52:28+00:00,en,5,3,52,2,Twitter Web App,3_1465272128094281729,https://pbs.twimg.com/media/FFWxPLZXIAE-vPR.png,photo, ,Topi Tjukanov,tjukanov,False,15348,2505,"Helsinki, Suomi"
 1465271317960302598,"#30DayMapChallenge 2021 🗺️ Day 29 - NULL
 
 Fixtures with the most 0:0 as result in the German Bundesliga
 
 Tools: #rstats
 
-Code: https://t.co/OXZkDHPlI1 https://t.co/Of8j6yN0n4",2745527973,2021-11-29 10:48:00+00:00,en,3,0,11,0,Twitter Web App,3_1465210913884155914,https://pbs.twimg.com/media/FFV5kCsXMAonRsf.jpg,photo, ,David Schoch,schochastics,False,1924,290
-1465271194794573824,"When travel restrictions are lifted, why not fly to Null Island on Air Null! A quick map for the #30DayMapChallenge, using a globe image made by @onestopmap #lovemaps #cartography #nullisland https://t.co/rDcs3zlzF2",109054515,2021-11-29 10:47:30+00:00,en,9,3,69,2,TweetDeck,3_1465270836206747651,https://pbs.twimg.com/media/FFWwD-vXwAMQ649.jpg,photo, ,Hans van der Maarel,redgeographics,False,2067,646
+Code: https://t.co/OXZkDHPlI1 https://t.co/Of8j6yN0n4",2745527973,2021-11-29 10:48:00+00:00,en,3,0,11,0,Twitter Web App,3_1465210913884155914,https://pbs.twimg.com/media/FFV5kCsXMAonRsf.jpg,photo, ,David Schoch,schochastics,False,1928,290, 
+1465271194794573824,"When travel restrictions are lifted, why not fly to Null Island on Air Null! A quick map for the #30DayMapChallenge, using a globe image made by @onestopmap #lovemaps #cartography #nullisland https://t.co/rDcs3zlzF2",109054515,2021-11-29 10:47:30+00:00,en,9,3,73,2,TweetDeck,3_1465270836206747651,https://pbs.twimg.com/media/FFWwD-vXwAMQ649.jpg,photo, ,Hans van der Maarel,redgeographics,False,2067,646,The Netherlands
 1465270282340425729,"#30DayMapChallenge Day 29. NULL
 
 'Little Yosemite Valley' 🧗
@@ -467,45 +467,45 @@ Potree: https://t.co/cP74s4OJ67
 
 Data: OpenTopography
 
-#PDAL #LiDAR #PointCloud #Entwine #Potree https://t.co/h0h782UsTr",1082711230459060224,2021-11-29 10:43:53+00:00,en,0,1,4,1,Twitter Web App,7_1465270106041298948,https://pbs.twimg.com/ext_tw_video_thumb/1465270106041298948/pu/img/AcFvP4Y0a76YZcvu.jpg,video, ,MapTheClouds,maptheclouds,False,401,506
-1465270110747344901,The worldwide #30DayMapChallenge has reached Estonian Land Board. For every day in November one new map will appear. 29th day category: NULL. You can see the whole gallery https://t.co/it1YIPjMyU https://t.co/uIG0Df1onX,193592650,2021-11-29 10:43:12+00:00,en,1,0,2,0,Twitter Web App,3_1465270076714672131,https://pbs.twimg.com/media/FFWvXxaWYAMa7xR.jpg,photo, ,Maa-amet,maaamet,False,174,89
+#PDAL #LiDAR #PointCloud #Entwine #Potree https://t.co/h0h782UsTr",1082711230459060224,2021-11-29 10:43:53+00:00,en,0,1,5,1,Twitter Web App,7_1465270106041298948,https://pbs.twimg.com/ext_tw_video_thumb/1465270106041298948/pu/img/AcFvP4Y0a76YZcvu.jpg,video, ,MapTheClouds,maptheclouds,False,419,543, 
+1465270110747344901,The worldwide #30DayMapChallenge has reached Estonian Land Board. For every day in November one new map will appear. 29th day category: NULL. You can see the whole gallery https://t.co/it1YIPjMyU https://t.co/uIG0Df1onX,193592650,2021-11-29 10:43:12+00:00,en,1,0,2,0,Twitter Web App,3_1465270076714672131,https://pbs.twimg.com/media/FFWvXxaWYAMa7xR.jpg,photo, ,Maa-amet,maaamet,False,174,89, 
 1465269502522937348,"#30daymapchallenge.
 
 Day 29: Null
 
 Map of the share of electricity that comes from hydropower by Madeleine Champion
 
-#gismapping #gis #cartography #maps #mapping #ngo #nonprofit #null #nulldata #hydropower #energy #world https://t.co/dFdhFELc0j",1255575072301088770,2021-11-29 10:40:47+00:00,en,0,0,2,0,Twitter Web App,3_1465269487159160832,https://pbs.twimg.com/media/FFWu1dJXMAA68g6.jpg,photo, ,GIS-E,GISE50189808,False,57,21
+#gismapping #gis #cartography #maps #mapping #ngo #nonprofit #null #nulldata #hydropower #energy #world https://t.co/dFdhFELc0j",1255575072301088770,2021-11-29 10:40:47+00:00,en,0,0,2,0,Twitter Web App,3_1465269487159160832,https://pbs.twimg.com/media/FFWu1dJXMAA68g6.jpg,photo, ,GIS-E,GISE50189808,False,57,21,"London, UK"
 1465263013049430017,"#30DayMapChallenge Day 29 ""NULL""
 
 Null as none, and NULL as more than none, and No Data.
 
-Data from the 2016 Irish Census. https://t.co/ezDmHhIuoO",1499547780,2021-11-29 10:15:00+00:00,en,3,0,18,0,TweetDeck,3_1464296536561659908,https://pbs.twimg.com/media/FFI58RuXsAQKtD4.jpg,photo, ,Heikki Vesanto,HeikkiVesanto,False,889,468
+Data from the 2016 Irish Census. https://t.co/ezDmHhIuoO",1499547780,2021-11-29 10:15:00+00:00,en,3,0,18,0,TweetDeck,3_1464296536561659908,https://pbs.twimg.com/media/FFI58RuXsAQKtD4.jpg,photo, ,Heikki Vesanto,HeikkiVesanto,False,894,468,"Dublin City, Ireland"
 1465259619564072971,"The end is drawing closer and closer to the #30DayMapChallenge. 
-Day 29 is #Null. We've created a map of #NullIsland for this category. https://t.co/ejm8Gcv8zm",49592380,2021-11-29 10:01:31+00:00,en,3,0,14,0,SocialPilot.co,3_1465259612693803011,https://pbs.twimg.com/media/FFWl2r5XMAMl86h.jpg,photo, ,Basemap,basemap,False,1663,1588
+Day 29 is #Null. We've created a map of #NullIsland for this category. https://t.co/ejm8Gcv8zm",49592380,2021-11-29 10:01:31+00:00,en,3,0,14,0,SocialPilot.co,3_1465259612693803011,https://pbs.twimg.com/media/FFWl2r5XMAMl86h.jpg,photo, ,Basemap,basemap,False,1664,1588,"Guildford, Surrey"
 1465259226528423937,"Day 29. NULL: Countries not affected by COVID'19. Any guesses about countries marked in orange and red🤔?
 NB! Covid'19 new variant ""omicron"" is very harmful and spreading fast. Get vaccinated and stay safe 😷
 @GemMsc 
-#30DayMapChallenge #Covid_19 https://t.co/6gyIhTV4ly",3326184955,2021-11-29 09:59:57+00:00,en,7,1,14,0,Twitter Web App,3_1465259174472863744,https://pbs.twimg.com/media/FFWldLZWUAA2LvR.jpg,photo, ,Abdullah Toqeer,Abbi_786,False,180,126
-1465258932461613064,"#30DayMapChallenge Day 29, NULL. According to Google Maps, there are at least 20 stores, restaurants etc. in Bangalore (Bengaluru), India, with the name Null. https://t.co/cUKBTPeFd3",1143779197107806208,2021-11-29 09:58:47+00:00,en,1,0,1,0,Twitter Web App,3_1465258777448431621,https://pbs.twimg.com/media/FFWlGEXWQAUIzzi.jpg,photo, ,Jonas Nelson,JonasNelson19,False,43,7
+#30DayMapChallenge #Covid_19 https://t.co/6gyIhTV4ly",3326184955,2021-11-29 09:59:57+00:00,en,8,1,14,0,Twitter Web App,3_1465259174472863744,https://pbs.twimg.com/media/FFWldLZWUAA2LvR.jpg,photo, ,Abdullah Toqeer,Abbi_786,False,181,126,"Tartu, Eesti"
+1465258932461613064,"#30DayMapChallenge Day 29, NULL. According to Google Maps, there are at least 20 stores, restaurants etc. in Bangalore (Bengaluru), India, with the name Null. https://t.co/cUKBTPeFd3",1143779197107806208,2021-11-29 09:58:47+00:00,en,1,0,1,0,Twitter Web App,3_1465258777448431621,https://pbs.twimg.com/media/FFWlGEXWQAUIzzi.jpg,photo, ,Jonas Nelson,JonasNelson19,False,45,7,Sweden
 1465257274805522436,"Day 29. NULL: Countries not affected by COVID'19. Any guesses about countries marked in orange and red 🤔?
 NB! Covid'19 new variant ""omicron"" is very harmful and spreading fast. Get vaccinated and stay safe 😷
 @GemMsc 
-#30DayMapChallenge #Covid_19 https://t.co/rquTLqvJgb",3326184955,2021-11-29 09:52:12+00:00,en,1,0,3,0,Twitter Web App,3_1465256725422948353,https://pbs.twimg.com/media/FFWjOn-WQAEDFcA.jpg,photo, ,Abdullah Toqeer,Abbi_786,False,180,126
+#30DayMapChallenge #Covid_19 https://t.co/rquTLqvJgb",3326184955,2021-11-29 09:52:12+00:00,en,1,0,3,0,Twitter Web App,3_1465256725422948353,https://pbs.twimg.com/media/FFWjOn-WQAEDFcA.jpg,photo, ,Abdullah Toqeer,Abbi_786,False,181,126,"Tartu, Eesti"
 1465254744700723211,"We updated our day 16 map for the #30DayMapChallenge with more accurate data. Check it out!  
 Map by @IvanVasilyev8 
-#hospital #mapmaking #maps https://t.co/geMFq0jjf0",34737662,2021-11-29 09:42:08+00:00,en,1,0,10,0,Twitter Web App,3_1465254248145375239,https://pbs.twimg.com/media/FFWg-bZWUAc2MAc.jpg,photo, ,Positium,positium,False,471,335
-1465254472096038914,#30daymapchallenge Day 29 - Null. This shows all the roads that are classified as 'Not Classified' within the Ordnance Survey Open Roads dataset across the Great Britain. @Cadcorp #gis #ordnancesurvey #openroads https://t.co/zuta3chbX6,92832101,2021-11-29 09:41:03+00:00,en,3,1,15,0,Buffer,3_1465254469181059072,https://pbs.twimg.com/media/FFWhLS0XMAALqMP.jpg,photo, ,Ian Usher,ian_usher1985,False,468,1885
+#hospital #mapmaking #maps https://t.co/geMFq0jjf0",34737662,2021-11-29 09:42:08+00:00,en,1,0,10,0,Twitter Web App,3_1465254248145375239,https://pbs.twimg.com/media/FFWg-bZWUAc2MAc.jpg,photo, ,Positium,positium,False,477,335,"Soola 8, Tartu, Estonia"
+1465254472096038914,#30daymapchallenge Day 29 - Null. This shows all the roads that are classified as 'Not Classified' within the Ordnance Survey Open Roads dataset across the Great Britain. @Cadcorp #gis #ordnancesurvey #openroads https://t.co/zuta3chbX6,92832101,2021-11-29 09:41:03+00:00,en,3,1,15,0,Buffer,3_1465254469181059072,https://pbs.twimg.com/media/FFWhLS0XMAALqMP.jpg,photo, ,Ian Usher,ian_usher1985,False,469,1886,Stevenage
 1465252019166490624,"#30DayMapChallenge Day 28 - The Earth is not flat
 
 Global underwater Internet cable infrastructure with Landing stations 🌐
 
 Map made using: Unfolded Studio
 https://t.co/8lpCHVV193
-@unfoldedinc https://t.co/k1yAKmGtEV",778134314311639044,2021-11-29 09:31:19+00:00,en,9,0,23,0,Twitter Web App,16_1465251860407898121,https://pbs.twimg.com/tweet_video_thumb/FFWezcYX0Ak7iFP.jpg,animated_gif, ,Marko Letic,NisamProgramer,False,500,621
-1465251230154903553,#30DayMapChallenge day 29: NULL. A line between NULL Island and the centroid of every country in the world. A map with NULL value. Country data by Natural Earth. https://t.co/tNO9CtcwTi,269294137,2021-11-29 09:28:10+00:00,en,1,0,5,0,Twitter Web App,3_1465243392259018752,https://pbs.twimg.com/media/FFWXGiEWUAA2hBq.jpg,photo, ,michelstuyts,michelstuyts,False,493,1481
-1465249780943175682,"#30DayMapChallenge #Day29: Null. The Hindu Kush, the Karakoram, and the Himalayas without any population structures. 3D rendering in #Aerialod and post-processing in #Photoshop. Taking full creative liberty here w blue hues and red tints since I didn't know what to do with Null. https://t.co/qZRACni9Wi",124852105,2021-11-29 09:22:25+00:00,en,1,0,6,0,Twitter Web App,3_1465248232481730562,https://pbs.twimg.com/media/FFWbgRTXsAIuEpe.jpg,photo, ,Asjad Naqvi,AsjadNaqvi,False,4682,764
-1465247208924606476,"#30DayMapChallenge Day 29, Null. Bathymetry data centred on 0 latitude, 0 longitude #NullIsland #QGIS #rayshader https://t.co/P7GKWs4OSt",1319832619052249089,2021-11-29 09:12:12+00:00,en,3,1,21,0,Twitter for iPhone,3_1465247186078158850,https://pbs.twimg.com/media/FFWajXJUUAIIaSp.jpg,photo, ,Charlie Verdel,CSVerdel,False,756,2056
+@unfoldedinc https://t.co/k1yAKmGtEV",778134314311639044,2021-11-29 09:31:19+00:00,en,9,0,23,0,Twitter Web App,16_1465251860407898121,https://pbs.twimg.com/tweet_video_thumb/FFWezcYX0Ak7iFP.jpg,animated_gif, ,Marko Letic,NisamProgramer,False,502,621,"Novi Sad, Republic of Serbia"
+1465251230154903553,#30DayMapChallenge day 29: NULL. A line between NULL Island and the centroid of every country in the world. A map with NULL value. Country data by Natural Earth. https://t.co/tNO9CtcwTi,269294137,2021-11-29 09:28:10+00:00,en,1,0,5,0,Twitter Web App,3_1465243392259018752,https://pbs.twimg.com/media/FFWXGiEWUAA2hBq.jpg,photo, ,michelstuyts,michelstuyts,False,493,1480,"Antwerp, Belgium"
+1465249780943175682,"#30DayMapChallenge #Day29: Null. The Hindu Kush, the Karakoram, and the Himalayas without any population structures. 3D rendering in #Aerialod and post-processing in #Photoshop. Taking full creative liberty here w blue hues and red tints since I didn't know what to do with Null. https://t.co/qZRACni9Wi",124852105,2021-11-29 09:22:25+00:00,en,1,0,7,0,Twitter Web App,3_1465248232481730562,https://pbs.twimg.com/media/FFWbgRTXsAIuEpe.jpg,photo, ,Asjad Naqvi,AsjadNaqvi,False,4688,768,"Vienna, Austria"
+1465247208924606476,"#30DayMapChallenge Day 29, Null. Bathymetry data centred on 0 latitude, 0 longitude #NullIsland #QGIS #rayshader https://t.co/P7GKWs4OSt",1319832619052249089,2021-11-29 09:12:12+00:00,en,3,2,21,0,Twitter for iPhone,3_1465247186078158850,https://pbs.twimg.com/media/FFWajXJUUAIIaSp.jpg,photo, ,Charlie Verdel,CSVerdel,False,758,2059,"Northern Territory, Australia"
 1465245854462357507,"*Road To Nowhere*
 How far is it to Null Island?
 #30DayMapChallenge 
@@ -513,21 +513,21 @@ Day 29: NULL
 Using @ArcGISOnline #WebAppBuilder
 Compare all or a selection of distances:
 'Chart' &gt; Use spatial filter to limit features &gt; Only features intersecting a user-defined area
-Map https://t.co/oXgWziAvuM https://t.co/c5DsoD99P5",2787878432,2021-11-29 09:06:49+00:00,en,6,1,10,1,Twitter Web App,7_1465244469901549571,https://pbs.twimg.com/ext_tw_video_thumb/1465244469901549571/pu/img/2qiLgoSVRyU2zSrl.jpg,video, ,BC,mildthing99,False,2576,2317
+Map https://t.co/oXgWziAvuM https://t.co/c5DsoD99P5",2787878432,2021-11-29 09:06:49+00:00,en,6,1,10,1,Twitter Web App,7_1465244469901549571,https://pbs.twimg.com/ext_tw_video_thumb/1465244469901549571/pu/img/2qiLgoSVRyU2zSrl.jpg,video, ,BC,mildthing99,False,2575,2318,"England, United Kingdom"
 1465244390574673922,"Day 29 of #30DayMapChallenge - NULL
-Countries on the Earths 0° latitude - the Equator https://t.co/OuIaRbIYzx",143859326,2021-11-29 09:01:00+00:00,en,43,10,267,2,Twitter Web App,3_1463913006820114434,https://pbs.twimg.com/media/FFDdH6GWQAIGwqi.jpg,photo, ,Nelson Schäfer,nello394,False,244,385
+Countries on the Earths 0° latitude - the Equator https://t.co/OuIaRbIYzx",143859326,2021-11-29 09:01:00+00:00,en,43,10,272,2,Twitter Web App,3_1463913006820114434,https://pbs.twimg.com/media/FFDdH6GWQAIGwqi.jpg,photo, ,Nelson Schäfer,nello394,False,269,386,"Munich, Germany"
 1465244182348451845,"#30DayMapChallenge 
 Day 29: NULL
 
 What is POINT(0,0) for the projected CRSs associated to Ecuador in https://t.co/qkfI7Y3n6e? Tbh, this should just be datum based but it's nice to have the whole group there. Idea from @smathermather 
 
-#RStats code: https://t.co/ASR9h9WGgs https://t.co/U1WhtdN6tK",233748559,2021-11-29 09:00:10+00:00,en,5,1,6,0,Twitter Web App,3_1465242683803377666,https://pbs.twimg.com/media/FFWWdS3XIAIj9iz.jpg,photo, ,Lorena Abad,loreabad6,False,1242,927
-1465243163581366274,@VerbanckSteven @Google @mapillary @Stad_Antwerpen You are correct I made a mistake. It's been a while since I used that dataset and I forgot to apply a filter to remove locations without images.  Here is the correct comparison. #oepsfoutje #30DayMapChallenge https://t.co/1i3EMyJPt7,269294137,2021-11-29 08:56:07+00:00,en,0,0,1,0,Twitter Web App,3_1465242381788319749,https://pbs.twimg.com/media/FFWWLtxXEAUP8Ml.jpg,photo, ,michelstuyts,michelstuyts,False,493,1481
+#RStats code: https://t.co/ASR9h9WGgs https://t.co/U1WhtdN6tK",233748559,2021-11-29 09:00:10+00:00,en,5,2,7,0,Twitter Web App,3_1465242683803377666,https://pbs.twimg.com/media/FFWWdS3XIAIj9iz.jpg,photo, ,Lorena Abad,loreabad6,False,1247,927,"Salzburg, Austria"
+1465243163581366274,@VerbanckSteven @Google @mapillary @Stad_Antwerpen You are correct I made a mistake. It's been a while since I used that dataset and I forgot to apply a filter to remove locations without images.  Here is the correct comparison. #oepsfoutje #30DayMapChallenge https://t.co/1i3EMyJPt7,269294137,2021-11-29 08:56:07+00:00,en,0,0,1,0,Twitter Web App,3_1465242381788319749,https://pbs.twimg.com/media/FFWWLtxXEAUP8Ml.jpg,photo, ,michelstuyts,michelstuyts,False,493,1480,"Antwerp, Belgium"
 1465242322409377796,"It's nearly the end of the #30DayMapChallenge! 
 
 I've been spending a lot of time this week playing #Pokemon #BrilliantDiamond - so I decided to take the game's map style and translate it to the real world!
 
-Here's a map of #Pikachu sightings in Co. Clare for today's NULL theme. https://t.co/JXe7qwGjqq",437801734,2021-11-29 08:52:47+00:00,en,1,0,13,1,Twitter for Android,3_1465242318886293505,https://pbs.twimg.com/media/FFWWIDcWUAE1a3d.jpg,photo, ,Antonia Blankenberg,MapsByAntonia,False,479,521
+Here's a map of #Pikachu sightings in Co. Clare for today's NULL theme. https://t.co/JXe7qwGjqq",437801734,2021-11-29 08:52:47+00:00,en,1,0,14,1,Twitter for Android,3_1465242318886293505,https://pbs.twimg.com/media/FFWWIDcWUAE1a3d.jpg,photo, ,Antonia Blankenberg,MapsByAntonia,False,483,523,"Dublin City, Ireland"
 1465237231942127619,"SAND/USDT SHORT 🛑
 Leverage 20x
 Entries 7.53
@@ -537,38 +537,38 @@ Target 3 6.96
 Target 4 6.0
 Target 5 5.0
 
-SL 8.05 #ad #0.1 ETH #بيتكوين #MANAUSDT #100 Shots #adoptmetrade #CELR #SANDUSDT #9News #21Nov #affiliate #IOTX #AION #ATH #30DayMapChallenge #Abiy #AddisAbaba https://t.co/5bPj8nenu5",1425251061988831238,2021-11-29 08:32:33+00:00,en,0,1,0,0,Twitter for iPhone,3_1465237171871309826,https://pbs.twimg.com/media/FFWRcdUWYAIhaXX.jpg,photo, ,PROGRESS TRADES,ProgressTrades,False,17,81
+SL 8.05 #ad #0.1 ETH #بيتكوين #MANAUSDT #100 Shots #adoptmetrade #CELR #SANDUSDT #9News #21Nov #affiliate #IOTX #AION #ATH #30DayMapChallenge #Abiy #AddisAbaba https://t.co/5bPj8nenu5",1425251061988831238,2021-11-29 08:32:33+00:00,en,0,1,0,0,Twitter for iPhone,3_1465237171871309826,https://pbs.twimg.com/media/FFWRcdUWYAIhaXX.jpg,photo, ,PROGRESS TRADES,ProgressTrades,False,18,81, 
 1465231052574576641,"#30DayMapChallenge #day29 - NULL
  Map of the South Pole 🧭#GoNorth 🗺️#NullMap
-🐧🐻‍❄️🤪🤔😵‍💫🤓🤡 https://t.co/qgRGCc8NCb",2247167180,2021-11-29 08:08:00+00:00,en,1,0,21,0,Twitter Web App,3_1464264843758915597,https://pbs.twimg.com/media/FFIdHg1X0A0GpFz.jpg,photo, ,Jean-Marc Viglino,jmviglino,False,262,11
+🐧🐻‍❄️🤪🤔😵‍💫🤓🤡 https://t.co/qgRGCc8NCb",2247167180,2021-11-29 08:08:00+00:00,en,1,0,22,0,Twitter Web App,3_1464264843758915597,https://pbs.twimg.com/media/FFIdHg1X0A0GpFz.jpg,photo, ,Jean-Marc Viglino,jmviglino,False,263,11,FR-94160 Saint-Mandé
 1465229286286274560,"CoDailychalleng: RT @PythonMaps: All roads lead to Rome. This map is visualises the famous roads built by the Roman empire.  Day 24 of the #30DayMapChallenge - Historical
-#Python #Data #DataScience #Geopython #mapsandmapping #Rome #DataVisualization #EU https://t.co/U5MmY6xU6i",2220729031,2021-11-29 08:00:59+00:00,en,0,0,4,0,IFTTT,3_1460709813009141762,https://pbs.twimg.com/media/FEV71fRWUAI-k-m.jpg,photo, ,XoceQ,Xoceqep,False,211,48
+#Python #Data #DataScience #Geopython #mapsandmapping #Rome #DataVisualization #EU https://t.co/U5MmY6xU6i",2220729031,2021-11-29 08:00:59+00:00,en,0,0,4,0,IFTTT,3_1460709813009141762,https://pbs.twimg.com/media/FEV71fRWUAI-k-m.jpg,photo, ,XoceQ,Xoceqep,False,209,48, 
 1465229042332880896,"Day 29: NULL #30DayMapChallenge Temperature of boiling water in degrees Celsius.
-https://t.co/eukQfWa0W0 https://t.co/2kMf9nsqKS",160578875,2021-11-29 08:00:00+00:00,en,1,0,11,0,Twitter Web App,3_1463803136175484930,https://pbs.twimg.com/media/FFB5MmDXsAIe3DG.jpg,photo, ,Xavier Olive,x00live,False,238,162
+https://t.co/eukQfWa0W0 https://t.co/2kMf9nsqKS",160578875,2021-11-29 08:00:00+00:00,en,1,0,11,0,Twitter Web App,3_1463803136175484930,https://pbs.twimg.com/media/FFB5MmDXsAIe3DG.jpg,photo, ,Xavier Olive,x00live,False,237,162,"Toulouse, France"
 1465227424807985153,"#30DayMapChallenge 2021 | Day 29 | NULL
 Point Nemo and other oceanic poles of inaccessibility
-#cARTography #MakingMapsPretty #ArcGISPro https://t.co/jFIFz8AsV9",374984100,2021-11-29 07:53:35+00:00,en,21,1,82,0,Twitter Web App,3_1465226784803364870,https://pbs.twimg.com/media/FFWH_2eXoAYsori.jpg,photo, ,Staridas Geography,StaridasGeo,False,1046,577
-1465226154999169031,"#30DayMapChallenge day 29  : null l'océan de la procrastination (en latitude l'indice d'urgence ressentie, en longitude le temps qui passe inexorablement) https://t.co/9FcnayO7GB",1189967197730430977,2021-11-29 07:48:32+00:00,fr,4,0,4,0,Twitter for Android,3_1465226147726348294,https://pbs.twimg.com/media/FFWHaxLX0AYlPV4.jpg,photo, ,Julien Dupont Kobri,Kartokobri,False,879,387
-1465225486959890433,"29. NULL: didn’t have data, so I post a cat pic🐈‍⬛😆Meet Sophie, our cat who has earned co-authorship for most of my maps as she is always around: late nights, early mornings when I’m usually working on the maps. She likes to sleep in the lego and play with it😃 #30DayMapChallenge https://t.co/bBGr40r1RY",47698876,2021-11-29 07:45:53+00:00,en,2,3,32,0,Twitter Web App,3_1465224792391434241,https://pbs.twimg.com/media/FFWGL4KWQAEzwre.jpg,photo, ,Evelyn,evelynuuemaa,False,1073,351
-1465225296324427781,#30DayMapChallenge Day 29 Null! Ever wanted to hike National parks where there's no people? According to the data these New South Wales parks have no official trails... according to the data 🤔😂 https://t.co/GXt3zFGiTp,14851579,2021-11-29 07:45:07+00:00,en,1,1,9,0,Twitter Web App,3_1465224446235459584,https://pbs.twimg.com/media/FFWF3uoVQAAzzwt.jpg,photo, ,Kylie Wilson,_kyliejane,False,552,161
+#cARTography #MakingMapsPretty #ArcGISPro https://t.co/jFIFz8AsV9",374984100,2021-11-29 07:53:35+00:00,en,22,1,84,0,Twitter Web App,3_1465226784803364870,https://pbs.twimg.com/media/FFWH_2eXoAYsori.jpg,photo, ,Staridas Geography,StaridasGeo,False,1058,578,Greece
+1465226154999169031,"#30DayMapChallenge day 29  : null l'océan de la procrastination (en latitude l'indice d'urgence ressentie, en longitude le temps qui passe inexorablement) https://t.co/9FcnayO7GB",1189967197730430977,2021-11-29 07:48:32+00:00,fr,5,0,3,0,Twitter for Android,3_1465226147726348294,https://pbs.twimg.com/media/FFWHaxLX0AYlPV4.jpg,photo, ,Julien Dupont Kobri,Kartokobri,False,880,387, 
+1465225486959890433,"29. NULL: didn’t have data, so I post a cat pic🐈‍⬛😆Meet Sophie, our cat who has earned co-authorship for most of my maps as she is always around: late nights, early mornings when I’m usually working on the maps. She likes to sleep in the lego and play with it😃 #30DayMapChallenge https://t.co/bBGr40r1RY",47698876,2021-11-29 07:45:53+00:00,en,2,4,34,0,Twitter Web App,3_1465224792391434241,https://pbs.twimg.com/media/FFWGL4KWQAEzwre.jpg,photo, ,Evelyn,evelynuuemaa,False,1116,353,Estonia
+1465225296324427781,#30DayMapChallenge Day 29 Null! Ever wanted to hike National parks where there's no people? According to the data these New South Wales parks have no official trails... according to the data 🤔😂 https://t.co/GXt3zFGiTp,14851579,2021-11-29 07:45:07+00:00,en,1,1,9,0,Twitter Web App,3_1465224446235459584,https://pbs.twimg.com/media/FFWF3uoVQAAzzwt.jpg,photo, ,Kylie Wilson,_kyliejane,False,553,161,Sydney or Tokyo
 1465222820317872130,"#30DayMapChallenge Day 29: Null
 @OrdnanceSurvey zoomstack names containing ""null.""
-Made in #QGIS. https://t.co/zB4Jriyj8C",1074378707438055426,2021-11-29 07:35:17+00:00,en,1,0,7,0,Twitter Web App,3_1465222741833957377,https://pbs.twimg.com/media/FFWEUhPWQAEVZXy.png,photo, ,Blandford Bread 💙,BlandfordBread,False,576,1080
+Made in #QGIS. https://t.co/zB4Jriyj8C",1074378707438055426,2021-11-29 07:35:17+00:00,en,1,0,7,0,Twitter Web App,3_1465222741833957377,https://pbs.twimg.com/media/FFWEUhPWQAEVZXy.png,photo, ,Blandford Bread 💙,BlandfordBread,False,576,1081,"South West, England"
 1465221027051589636,"1/3 #30DayMapChallenge 2021 29 - Null
 
-Nearly-null in this case.  Rubjerg Knude lighthouse, North Jutland, Denmark #rayshader #rstats.  The LiDAR @Kortforsyningen dates from 2015, when the lighthouse was at the point of being lost to the sea due to erosion of the coast.  But... https://t.co/D2Qx17cQ39",299559781,2021-11-29 07:28:09+00:00,en,14,2,101,0,Twitter Web App,3_1465014903484436482,https://pbs.twimg.com/media/FFTHSvDX0AIbYLi.jpg,photo, ,Neil Southall,neilcfd1,False,447,294
-1465220264560451586,"It has been fun participating in #30DayMapChallenge!  For Day 30, I am not sure what cartographers mean by ""metamapping"", so nevertheless I bring to you the Bounding Boxes of the World https://t.co/lol0cR5nWI",754537285660573696,2021-11-29 07:25:08+00:00,en,1,1,9,0,Twitter Web App,3_1465219805938475017,https://pbs.twimg.com/media/FFWBpoLUYAkdD96.jpg,photo, ,Derek Sollberger,DerekSollberger,False,339,710
+Nearly-null in this case.  Rubjerg Knude lighthouse, North Jutland, Denmark #rayshader #rstats.  The LiDAR @Kortforsyningen dates from 2015, when the lighthouse was at the point of being lost to the sea due to erosion of the coast.  But... https://t.co/D2Qx17cQ39",299559781,2021-11-29 07:28:09+00:00,en,18,2,112,0,Twitter Web App,3_1465014903484436482,https://pbs.twimg.com/media/FFTHSvDX0AIbYLi.jpg,photo, ,Neil Southall,neilcfd1,False,455,298,Ireland
+1465220264560451586,"It has been fun participating in #30DayMapChallenge!  For Day 30, I am not sure what cartographers mean by ""metamapping"", so nevertheless I bring to you the Bounding Boxes of the World https://t.co/lol0cR5nWI",754537285660573696,2021-11-29 07:25:08+00:00,en,1,1,9,0,Twitter Web App,3_1465219805938475017,https://pbs.twimg.com/media/FFWBpoLUYAkdD96.jpg,photo, ,Derek Sollberger,DerekSollberger,False,339,710,"Merced, CA"
 1465218359428063235,"Where do buses depart at exactly #null 'o clock in Hamburg? This map concludes the #30DayMapChallenge! 
-A big shout our to @tjukanov for organizing this fantastic November event! https://t.co/zIjrQ0EwCV",70192766,2021-11-29 07:17:33+00:00,en,1,1,9,1,Twitter Web App,3_1465217866274418689,https://pbs.twimg.com/media/FFV_4uXXsAErPUY.jpg,photo, ,Achim Tack,A_Tack,False,1815,1261
+A big shout our to @tjukanov for organizing this fantastic November event! https://t.co/zIjrQ0EwCV",70192766,2021-11-29 07:17:33+00:00,en,1,1,9,1,Twitter Web App,3_1465217866274418689,https://pbs.twimg.com/media/FFV_4uXXsAErPUY.jpg,photo, ,Achim Tack,A_Tack,False,1829,1263,"Hamburg, Germany"
 1465218270341091331,"#30DayMapChallenge 
 Day 29 : NULL
 I've checked there is no mountain to climb near Amsterdam, so I made this map for today 😉 
-""mountain = NULL"" 😇 https://t.co/1Cso0DBdn7",860412366323933185,2021-11-29 07:17:12+00:00,en,1,0,5,0,Twitter Web App,3_1465218147011678210,https://pbs.twimg.com/media/FFWAJEMWUAIhp9x.jpg,photo, ,BAOVOLA Marie Anna,BaovolaMada,False,513,1606
+""mountain = NULL"" 😇 https://t.co/1Cso0DBdn7",860412366323933185,2021-11-29 07:17:12+00:00,en,1,0,5,0,Twitter Web App,3_1465218147011678210,https://pbs.twimg.com/media/FFWAJEMWUAIhp9x.jpg,photo, ,BAOVOLA Marie Anna,BaovolaMada,False,515,1606,Madagascar
 1465216278625460228,"Grid square NX8665 (Kirkgunzeon, Dumfries and Galloway) doesn't have a single named feature on the Ordnance Survey. A field-name survey revealed 10 names.
-#30DayMapChallenge | Day 30 | NULL https://t.co/GUKGbA2trC",1081900377853829120,2021-11-29 07:09:17+00:00,en,4,3,27,3,Twitter Web App,3_1465215330545029121,https://pbs.twimg.com/media/FFV9lICX0AE8yBn.jpg,photo, ,D&G Place-Names,dgplacenames,False,1137,393
+#30DayMapChallenge | Day 30 | NULL https://t.co/GUKGbA2trC",1081900377853829120,2021-11-29 07:09:17+00:00,en,4,3,27,3,Twitter Web App,3_1465215330545029121,https://pbs.twimg.com/media/FFV9lICX0AE8yBn.jpg,photo, ,D&G Place-Names,dgplacenames,False,1152,393, 
 1465216185599995909,"Day29: NULL #30DayMapChallenge 
 A side-by-side showcase of the high-resolution raster of part of Mombasa City in Kenya of natural color vs null filled outputs in QGIS. #cartography #gischat @qgis
- #OpenSource @tjukanov https://t.co/SjyKnC0Vwp",269308570,2021-11-29 07:08:55+00:00,en,6,1,8,0,Twitter Web App,3_1465215813712068610,https://pbs.twimg.com/media/FFV-BP-XwAIdHyI.jpg,photo, ,Joseph Kariuki,JkariukiDev,False,314,38
+ #OpenSource @tjukanov https://t.co/SjyKnC0Vwp",269308570,2021-11-29 07:08:55+00:00,en,6,1,8,0,Twitter Web App,3_1465215813712068610,https://pbs.twimg.com/media/FFV-BP-XwAIdHyI.jpg,photo, ,Joseph Kariuki,JkariukiDev,False,314,38,Alpha Centauri
 1465213942985232388,"#30DayMapChallenge
 
 Day 29 - NULL
@@ -578,7 +578,7 @@ Día 29 - NULO
 Áreas sin población humana en Bolivia.
 
 Data source/Fuente datos: GHS-POP 2015, distribución de población 2015.European Commission 2019. GHSL datasets.
-Prepared/Elaborado: QGIS, LibreOffice Impress https://t.co/EWUa60ABjM",38113384,2021-11-29 07:00:01+00:00,es,1,0,4,0,Twitter Web App,3_1465146130560335874,https://pbs.twimg.com/media/FFU-pKAWQAIZO6I.png,photo, ,Eric Armijo,rcrmj,False,177,146
+Prepared/Elaborado: QGIS, LibreOffice Impress https://t.co/EWUa60ABjM",38113384,2021-11-29 07:00:01+00:00,es,1,1,6,0,Twitter Web App,3_1465146130560335874,https://pbs.twimg.com/media/FFU-pKAWQAIZO6I.png,photo, ,Eric Armijo,rcrmj,False,177,147,"Santa Cruz, Bolivia"
 1465213940011454464,"Day 29 of the #30DayMapChallenge - NULL
 
 Countries without railroads, and railroads.
@@ -588,81 +588,81 @@ Data: Natural Earth
 #30DaysOfPokemon Color Palette - MissingNo (which doesn't exist 😈)
 
 More on this map and more maps  - https://t.co/Dkle8cpdXC
-#30_ימי_מיפוי https://t.co/cfte98Gvf6",1174353681946484739,2021-11-29 07:00:00+00:00,en,1,0,7,0,Twitter Web App,3_1460943626910015493,https://pbs.twimg.com/media/FEZQfP7XoAUTwaY.jpg,photo, ,Dror Bogin,bogind2,False,163,292
+#30_ימי_מיפוי https://t.co/cfte98Gvf6",1174353681946484739,2021-11-29 07:00:00+00:00,en,1,0,7,0,Twitter Web App,3_1460943626910015493,https://pbs.twimg.com/media/FEZQfP7XoAUTwaY.jpg,photo, ,Dror Bogin,bogind2,False,169,292,Israel
 1465211030452244486,"#30DayMapChallenge 2021 Día 28: La Tierra no es plana. La Indicatriz de Tissot es un concepto del matemático francés Nicolas Auguste Tissot de 1859 que mide e ilustra las distorsiones de las proyecciones cartográficas, los círculos son identicos en sus dimensiones.
-@tjukanov https://t.co/pW4Ix4pM8i",7630312,2021-11-29 06:48:26+00:00,es,1,0,12,0,Twitter Web App,3_1465210864676622337,https://pbs.twimg.com/media/FFV5hLYX0AEKwCc.jpg,photo, ,Yúum-K'aak-Náab,jdeltoro1973,False,578,2120
+@tjukanov https://t.co/pW4Ix4pM8i",7630312,2021-11-29 06:48:26+00:00,es,1,0,13,0,Twitter Web App,3_1465210864676622337,https://pbs.twimg.com/media/FFV5hLYX0AEKwCc.jpg,photo, ,Yúum-K'aak-Náab,jdeltoro1973,False,580,2122,Guadalajara México
 1465210444101177346,"Day 29 - NULL
 Using Registers of Scotland Inspire Registered Titles data. Inverting the data to show the areas that are unregistered ... so that are NULL.
-#30DayMapChallenge https://t.co/bPIqzgEw91",1694963077,2021-11-29 06:46:06+00:00,en,1,0,2,0,Twitter Web App,3_1465209947407503361,https://pbs.twimg.com/media/FFV4rySX0AEeqJg.jpg,photo, ,Marcus Humphrey,92MBH,False,93,126
+#30DayMapChallenge https://t.co/bPIqzgEw91",1694963077,2021-11-29 06:46:06+00:00,en,1,0,2,0,Twitter Web App,3_1465209947407503361,https://pbs.twimg.com/media/FFV4rySX0AEeqJg.jpg,photo, ,Marcus Humphrey,92MBH,False,93,126,"Perth, Scotland"
 1465205690071457795,"#30DayMapChallenge, day 29 :  NULL.
 
-Ou plutôt nul : 2 cartes auxquelles vous avez échappé car tout n'a pas fonctionné comme prévu. La carte des aires de productions laitières des bleus de France (Blue). Le géoréférencement d'une carte un peu trop artistique de 1784 (Historical). https://t.co/F4qCB7bHcZ",821710176726241280,2021-11-29 06:27:13+00:00,fr,1,1,1,0,Twitter Web App,3_1465205683620663302,https://pbs.twimg.com/media/FFV0zmcX0AYMtK6.jpg,photo, ,Rémi,Re_Mi_La,False,262,386
+Ou plutôt nul : 2 cartes auxquelles vous avez échappé car tout n'a pas fonctionné comme prévu. La carte des aires de productions laitières des bleus de France (Blue). Le géoréférencement d'une carte un peu trop artistique de 1784 (Historical). https://t.co/F4qCB7bHcZ",821710176726241280,2021-11-29 06:27:13+00:00,fr,1,1,1,0,Twitter Web App,3_1465205683620663302,https://pbs.twimg.com/media/FFV0zmcX0AYMtK6.jpg,photo, ,Rémi,Re_Mi_La,False,261,386, 
 1465204628228919297,"@tjukanov Day 29 of #30DayMapChallenge (NULL) : taking raw yield map as an example coz those maps are highly popular in precision farming but they require of lot of cleaning to be used properly.
 
-Tool: #QGIS https://t.co/1dE5dFrgsp",1237617707106873344,2021-11-29 06:23:00+00:00,en,1,0,6,0,Twitter Web App,3_1463392755850301441,https://pbs.twimg.com/media/FE8D9UNWUAESh1Q.jpg,photo, ,Benjamin Nowak,BjnNowak,False,1133,762
+Tool: #QGIS https://t.co/1dE5dFrgsp",1237617707106873344,2021-11-29 06:23:00+00:00,en,1,0,6,0,Twitter Web App,3_1463392755850301441,https://pbs.twimg.com/media/FE8D9UNWUAESh1Q.jpg,photo, ,Benjamin Nowak,BjnNowak,False,1132,761,"Clermont-Ferrand, France"
 1465199932067827712,"#Day29 of #30DayMapChallenge: NULL / No Data.
-There was no representation of New Zealand's Rainbow Community in the 2018 census - meaning that it is difficult to find data to help target much-needed healthcare and support services to this often underlooked part of society. https://t.co/oVKeqLxHsk",93839237,2021-11-29 06:04:20+00:00,en,12,3,52,0,Twitter Web App,3_1465199713099993090,https://pbs.twimg.com/media/FFVvYEhUUAIID3H.jpg,photo, ,Andrew DC 🌈,andrewdc_nz,False,796,182
-1465198979046649861,"Untitled albums - when the attribute “album name” is &lt;NULL&gt;! 🤷 @joonalai made a map of untitled albums based on the origin of the band. Datasets by Natural Earth, Musicbrainz and Coverartarchive. Made with QGIS, Python and GlobeBuilder plugin. #30DayMapChallenge https://t.co/qBqndApUi1",973813309811187713,2021-11-29 06:00:33+00:00,en,1,0,2,0,Buffer,3_1465198976177741829,https://pbs.twimg.com/media/FFVutLRXIAUjhtr.jpg,photo, ,Gispo,gispofinland,False,995,298
-1465198638729252865,"Day 26: Simple choropleth map for burgers in #Texas. Tbh, I reallyyy love a good double cheeseburger! I think I could eat one everyday... #30DayMapChallenge https://t.co/ahAnMWSjc3",28102639,2021-11-29 05:59:12+00:00,en,1,0,3,0,Twitter Web App,3_1465198468159451136,https://pbs.twimg.com/media/FFVuPmwXMAABxub.jpg,photo, ,Phoebe L.,pheebely,False,307,196
+There was no representation of New Zealand's Rainbow Community in the 2018 census - meaning that it is difficult to find data to help target much-needed healthcare and support services to this often underlooked part of society. https://t.co/oVKeqLxHsk",93839237,2021-11-29 06:04:20+00:00,en,12,3,53,0,Twitter Web App,3_1465199713099993090,https://pbs.twimg.com/media/FFVvYEhUUAIID3H.jpg,photo, ,Andrew DC 🌈,andrewdc_nz,False,799,182,"Christchurch City, New Zealand"
+1465198979046649861,"Untitled albums - when the attribute “album name” is &lt;NULL&gt;! 🤷 @joonalai made a map of untitled albums based on the origin of the band. Datasets by Natural Earth, Musicbrainz and Coverartarchive. Made with QGIS, Python and GlobeBuilder plugin. #30DayMapChallenge https://t.co/qBqndApUi1",973813309811187713,2021-11-29 06:00:33+00:00,en,1,0,2,0,Buffer,3_1465198976177741829,https://pbs.twimg.com/media/FFVutLRXIAUjhtr.jpg,photo, ,Gispo,gispofinland,False,998,298,"Helsinki, Suomi"
+1465198638729252865,"Day 26: Simple choropleth map for burgers in #Texas. Tbh, I reallyyy love a good double cheeseburger! I think I could eat one everyday... #30DayMapChallenge https://t.co/ahAnMWSjc3",28102639,2021-11-29 05:59:12+00:00,en,1,0,3,0,Twitter Web App,3_1465198468159451136,https://pbs.twimg.com/media/FFVuPmwXMAABxub.jpg,photo, ,Phoebe L.,pheebely,False,311,204,"Austin, TX"
 1465188476861566985,"Day 29: Null #30DayMapChallenge 2021 @tjukanov
 World Map in #Null generated using #FME @SafeSoftware 
-Data Source: @ https://t.co/MU1Xcr9IKo https://t.co/A7NiFJ2cOJ",105407287,2021-11-29 05:18:49+00:00,en,0,0,4,0,Twitter Web App,3_1465188313111810052,https://pbs.twimg.com/media/FFVlAgQVUAQD0FW.jpg,photo, ,SRG,Saint_GIS,False,154,88
+Data Source: @ https://t.co/MU1Xcr9IKo https://t.co/A7NiFJ2cOJ",105407287,2021-11-29 05:18:49+00:00,en,0,0,4,0,Twitter Web App,3_1465188313111810052,https://pbs.twimg.com/media/FFVlAgQVUAQD0FW.jpg,photo, ,SRG,Saint_GIS,False,156,88,"Chennai, India"
 1465184565677408261,"#30DayMapChallenge 2021 Día 27: Mapa de calor. Esfuerzo pesquero de embarcaciones mexicanas durante 2019 según datos del Sistema de Localización y Monitoreo Satelital de Embarcaciones Pesqueras de la 
 @Conapesca
 @INEGI_INFORMA
  
-@tjukanov https://t.co/ivl0MFEKq7",7630312,2021-11-29 05:03:16+00:00,es,1,0,7,0,Twitter Web App,3_1465184530227154944,https://pbs.twimg.com/media/FFVhkT6WUAAImYG.jpg,photo, ,Yúum-K'aak-Náab,jdeltoro1973,False,578,2120
+@tjukanov https://t.co/ivl0MFEKq7",7630312,2021-11-29 05:03:16+00:00,es,1,0,8,0,Twitter Web App,3_1465184530227154944,https://pbs.twimg.com/media/FFVhkT6WUAAImYG.jpg,photo, ,Yúum-K'aak-Náab,jdeltoro1973,False,580,2122,Guadalajara México
 1465179283270385667,"#30DayMapChallenge,
 In the US, we say that there is 'nothing' in a place, when what we really mean is that there less development there. Often building itself, means loss.
 
-So, here is a #d3 figure that slowly hides lands effected by modern development to show more intact lands. https://t.co/EbIJVvf60a",822048926081712128,2021-11-29 04:42:17+00:00,en,2,1,14,0,Twitter Web App,16_1465178750056812547,https://pbs.twimg.com/tweet_video_thumb/FFVcT3GWUAM4wCt.jpg,animated_gif, ,Carl Churchill,Cchurchili,False,2711,1143
+So, here is a #d3 figure that slowly hides lands effected by modern development to show more intact lands. https://t.co/EbIJVvf60a",822048926081712128,2021-11-29 04:42:17+00:00,en,3,1,15,0,Twitter Web App,16_1465178750056812547,https://pbs.twimg.com/tweet_video_thumb/FFVcT3GWUAM4wCt.jpg,animated_gif, ,Carl Churchill,Cchurchili,False,2724,1143,CO / Tabeguache Ute Land
 1465178939798831104,"Día 15. Mapa sin usar computadora
  
 México en rosa mexicano. El territorio nacional representado con flores de buganvilia. Es de mis plantas favoritas. 
  
-#30DayMapChallenge https://t.co/g1ps8Vvc2n",3180922855,2021-11-29 04:40:55+00:00,es,82,4,558,8,Twitter Web App,3_1465175714890715142,https://pbs.twimg.com/media/FFVZjMOXEAYXIMX.jpg,photo, ,Cris,crisalpuche,False,258,535
-1465177101728993281,#30DayMapChallenge Day 28: The Earth is Not Flat... which is why we have to come up with complicated equations to figure out how to best display our world in 2D for different purposes https://t.co/ckOFO9wfkh,579246246,2021-11-29 04:33:37+00:00,en,1,0,7,0,Twitter Web App,3_1465176635754360836,https://pbs.twimg.com/media/FFVaYytXMAQVOcK.jpg,photo, ,cas 🌎,cas_maps,False,222,1149
+#30DayMapChallenge https://t.co/g1ps8Vvc2n",3180922855,2021-11-29 04:40:55+00:00,es,281,16,2456,27,Twitter Web App,3_1465175714890715142,https://pbs.twimg.com/media/FFVZjMOXEAYXIMX.jpg,photo, ,Cris,crisalpuche,False,332,559, 
+1465177101728993281,#30DayMapChallenge Day 28: The Earth is Not Flat... which is why we have to come up with complicated equations to figure out how to best display our world in 2D for different purposes https://t.co/ckOFO9wfkh,579246246,2021-11-29 04:33:37+00:00,en,1,0,7,0,Twitter Web App,3_1465176635754360836,https://pbs.twimg.com/media/FFVaYytXMAQVOcK.jpg,photo, ,cas 🌎,cas_maps,False,223,1150, 
 1465169140591775753,"#30DayMapChallenge Day 29 - Null
 
 Null is nothing. So i mapped former holes.
 
-Abandoned Mine Openings in Pictou County https://t.co/oeMFdTsBIe",21537132,2021-11-29 04:01:59+00:00,en,1,1,5,0,TweetDeck,3_1465168514512302086,https://pbs.twimg.com/media/FFVTAEuXsAY6LXv.jpg,photo, ,HalifaxShippingNews,HfxShippingNews,False,4879,1278
+Abandoned Mine Openings in Pictou County https://t.co/oeMFdTsBIe",21537132,2021-11-29 04:01:59+00:00,en,1,2,5,0,TweetDeck,3_1465168514512302086,https://pbs.twimg.com/media/FFVTAEuXsAY6LXv.jpg,photo, ,HalifaxShippingNews,HfxShippingNews,False,4879,1278,"Halifax, NS"
 1465164824673935361,"Day #25: Interactive - 
 
 Using NYC Tree Census data to see tree coverage within the 5 boroughs 
 
 See interactive version here: https://t.co/NOIk9GV6tg
 
-#30DayMapChallenge https://t.co/jEyGbHlZ8Q",281310591,2021-11-29 03:44:50+00:00,en,1,0,2,0,Twitter Web App,3_1465163991920123911,https://pbs.twimg.com/media/FFVO40wXoAcXlEB.jpg,photo, ,Taylor Johnston,TF_Johnston,True,1730,3011
+#30DayMapChallenge https://t.co/jEyGbHlZ8Q",281310591,2021-11-29 03:44:50+00:00,en,1,0,2,0,Twitter Web App,3_1465163991920123911,https://pbs.twimg.com/media/FFVO40wXoAcXlEB.jpg,photo, ,Taylor Johnston,TF_Johnston,True,1734,3013,CLE ➡️ NYC
 1465161368487677953,"Lo interesante de este mapa es que rota al igual de que la tierra. 
-#30DayMapChallenge  #Latierranoesplana https://t.co/axYV6FqRf1 https://t.co/4rx6mp0gZw",1058153682905296896,2021-11-29 03:31:06+00:00,es,1,0,3,0,Twitter Web App,3_1465160963515043840,https://pbs.twimg.com/media/FFVMIjEVUAAiKo1.jpg,photo, ,Emmanuel Espinoza,EI_Manny,False,116,50
+#30DayMapChallenge  #Latierranoesplana https://t.co/axYV6FqRf1 https://t.co/4rx6mp0gZw",1058153682905296896,2021-11-29 03:31:06+00:00,es,1,0,3,0,Twitter Web App,3_1465160963515043840,https://pbs.twimg.com/media/FFVMIjEVUAAiKo1.jpg,photo, ,Emmanuel Espinoza,EI_Manny,False,116,50,"Culiacán, Sinaloa"
 1465159462700953612,"#30DayMapChallenge 
 Día 28: La tierra no es plana
-Las antipodas son los puntos geográficos opuestos. Es decir, lo que esta al otro lado del mundo. https://t.co/Fwp92Jth8G",1352456228455256068,2021-11-29 03:23:31+00:00,es,1,1,2,1,Twitter for Android,3_1465159458376630276,https://pbs.twimg.com/media/FFVKw7_XwAQ3ZxT.jpg,photo, ,Guaiacum,Guaiacumac,False,116,46
+Las antipodas son los puntos geográficos opuestos. Es decir, lo que esta al otro lado del mundo. https://t.co/Fwp92Jth8G",1352456228455256068,2021-11-29 03:23:31+00:00,es,1,1,2,1,Twitter for Android,3_1465159458376630276,https://pbs.twimg.com/media/FFVKw7_XwAQ3ZxT.jpg,photo, ,Guaiacum,Guaiacumac,False,117,46,"Culiacán, Sinaloa"
 1465155250185281540,"Día 14. Mapa con una nueva herramienta. 
 
 Recorridos de Uber en París, primer trimestre 2020. Elaborado con https://t.co/dpEUceRJQs, es la primera vez que trabajo con esta herramienta y me sorprendió lo intuitiva que es y lo bonito que quedan los mapas.
  
-#30DayMapChallenge https://t.co/340203hAyD",3180922855,2021-11-29 03:06:47+00:00,es,3,0,19,0,Twitter Web App,3_1465152905141436417,https://pbs.twimg.com/media/FFVEzfSWQAEQGJ5.jpg,photo, ,Cris,crisalpuche,False,258,535
+#30DayMapChallenge https://t.co/340203hAyD",3180922855,2021-11-29 03:06:47+00:00,es,4,0,23,0,Twitter Web App,3_1465152905141436417,https://pbs.twimg.com/media/FFVEzfSWQAEQGJ5.jpg,photo, ,Cris,crisalpuche,False,332,559, 
 1465143611641761802,"#30DayMapChallenge 29 NULL.
 Central Boston parcels with 0% change in tree canopy from 2014 to 2019, data from https://t.co/CnTJU9z832
 
-#rstats code: https://t.co/5QkQkXIBbt https://t.co/1xjWMdSEty",1331215289825030147,2021-11-29 02:20:32+00:00,en,5,0,35,0,Twitter Web App,3_1465143535880097794,https://pbs.twimg.com/media/FFU8SIEX0AIcRcX.jpg,photo, ,leeolney,leeolney3,False,279,304
-1465142808721903622,Day 27: Heat map of solar power received from the Sun. (The grid function on qGIS was giving me issues of duplicating the Y axis annotations unless I move the map to a very particular extent - anyone know why?) #30DayMapChallenge #solar https://t.co/BrfFs0mBva,28102639,2021-11-29 02:17:21+00:00,en,2,0,6,0,Twitter Web App,3_1465142000869687301,https://pbs.twimg.com/media/FFU64xtXwAUalob.jpg,photo, ,Phoebe L.,pheebely,False,307,196
+#rstats code: https://t.co/5QkQkXIBbt https://t.co/1xjWMdSEty",1331215289825030147,2021-11-29 02:20:32+00:00,en,5,0,35,0,Twitter Web App,3_1465143535880097794,https://pbs.twimg.com/media/FFU8SIEX0AIcRcX.jpg,photo, ,leeolney,leeolney3,False,281,306, 
+1465142808721903622,Day 27: Heat map of solar power received from the Sun. (The grid function on qGIS was giving me issues of duplicating the Y axis annotations unless I move the map to a very particular extent - anyone know why?) #30DayMapChallenge #solar https://t.co/BrfFs0mBva,28102639,2021-11-29 02:17:21+00:00,en,2,0,8,0,Twitter Web App,3_1465142000869687301,https://pbs.twimg.com/media/FFU64xtXwAUalob.jpg,photo, ,Phoebe L.,pheebely,False,311,204,"Austin, TX"
 1465139645730238465,"#30DayMapChallenge 29: NULL
 Looking at how many ""NULL"" Google searches are performed within a 24 hr period.
 Alaska at top of the list. Why do you like looking for ""NULL"" so much?
 Using gtrendsR and usamap.
 https://t.co/N5PX2S9Ljs
 Thanks Laura
-#rspatial #rstats @markdonovan2020 https://t.co/ce2xzvm69R",3094607959,2021-11-29 02:04:47+00:00,en,4,0,1,0,Twitter Web App,3_1465138919251619846,https://pbs.twimg.com/media/FFU4FZyXsAYPZrs.jpg,photo, ,donojazz,donojazz62220,False,15,225
+#rspatial #rstats @markdonovan2020 https://t.co/ce2xzvm69R",3094607959,2021-11-29 02:04:47+00:00,en,4,0,1,0,Twitter Web App,3_1465138919251619846,https://pbs.twimg.com/media/FFU4FZyXsAYPZrs.jpg,photo, ,donojazz,donojazz62220,False,15,225,USA
 1465137469964181504,"Day 17: Land
 
 2020 data on residential dwellings, collected by the City of Melbourne's Census of Land Use and Employment (CLUE). 
 
 data: https://t.co/ljX4iVJK8k
 
-#30DayMapChallenge #rstats #rspatial https://t.co/91gcOuikb2",820847294073303040,2021-11-29 01:56:08+00:00,en,5,0,12,0,Twitter Web App,3_1465137382198439939,https://pbs.twimg.com/media/FFU2r70VcAMqFOQ.jpg,photo, ,Shandiya Balasubramaniam,ShandiyaB,False,457,812
+#30DayMapChallenge #rstats #rspatial https://t.co/91gcOuikb2",820847294073303040,2021-11-29 01:56:08+00:00,en,5,0,12,0,Twitter Web App,3_1465137382198439939,https://pbs.twimg.com/media/FFU2r70VcAMqFOQ.jpg,photo, ,Shandiya Balasubramaniam,ShandiyaB,False,457,813,Unceded Wurundjeri Country
 1465134609969074179,"#30DayMapChallenge
 
 Day 28 - The Earth is not flat
@@ -672,28 +672,28 @@ Día 28 - La Tierra no es plana
 Bolivia en el mundo.
 
 Data source/Fuente datos: EOX IT Services – imágenes; Natural Earth – límites.
-Prepared/Elaborado: QGIS + Globe Builder plugin, LibreOffice Impress https://t.co/HwGr1FZbIH",38113384,2021-11-29 01:44:46+00:00,es,1,0,6,0,Twitter Web App,3_1465133076355465220,https://pbs.twimg.com/media/FFUyxTTXwAQrZ8q.jpg,photo, ,Eric Armijo,rcrmj,False,177,146
+Prepared/Elaborado: QGIS + Globe Builder plugin, LibreOffice Impress https://t.co/HwGr1FZbIH",38113384,2021-11-29 01:44:46+00:00,es,1,0,6,0,Twitter Web App,3_1465133076355465220,https://pbs.twimg.com/media/FFUyxTTXwAQrZ8q.jpg,photo, ,Eric Armijo,rcrmj,False,177,147,"Santa Cruz, Bolivia"
 1465127585902379010,"Day #24: Historical - 
 
 Mapped all 76 of the National Historic Landmarks in Ohio
 
-#30DayMapChallenge https://t.co/Bwqia4Y27W",281310591,2021-11-29 01:16:51+00:00,en,1,0,8,0,Twitter Web App,3_1465127415827550215,https://pbs.twimg.com/media/FFUtn0MWUAcLCKv.jpg,photo, ,Taylor Johnston,TF_Johnston,True,1730,3011
+#30DayMapChallenge https://t.co/Bwqia4Y27W",281310591,2021-11-29 01:16:51+00:00,en,1,0,8,0,Twitter Web App,3_1465127415827550215,https://pbs.twimg.com/media/FFUtn0MWUAcLCKv.jpg,photo, ,Taylor Johnston,TF_Johnston,True,1734,3013,CLE ➡️ NYC
 1465117351611928579,"Day #23: GHSL Global Human Settlement Layer - 
 
 Used the human population dataset  (https://t.co/mXLf97M6y6) by EC JRC for this one
 
-#30DayMapChallenge https://t.co/85AsRNbv9X",281310591,2021-11-29 00:36:11+00:00,en,1,0,5,0,Twitter Web App,3_1465117345819602948,https://pbs.twimg.com/media/FFUkdqfXMAQuwQ8.jpg,photo, ,Taylor Johnston,TF_Johnston,True,1730,3011
+#30DayMapChallenge https://t.co/85AsRNbv9X",281310591,2021-11-29 00:36:11+00:00,en,1,0,5,0,Twitter Web App,3_1465117345819602948,https://pbs.twimg.com/media/FFUkdqfXMAQuwQ8.jpg,photo, ,Taylor Johnston,TF_Johnston,True,1734,3013,CLE ➡️ NYC
 1465115760582352896,"#30DayMapChallenge Day 28: The Earth is not flat.
 I am kinda limping over the finish line here with recent efforts.
-But here is a quick render of the world (Bonne projection) which is actually rather bumpy. Based on Blue Earth Bathymetry/GEBCO data using #QGIS and #Blender https://t.co/psExLtjACe",309734801,2021-11-29 00:29:52+00:00,en,5,0,34,0,Twitter Web App,3_1465114654175342602,https://pbs.twimg.com/media/FFUiA_VXMAodLvq.jpg,photo, ,Sam J,samwise_v,False,234,512
+But here is a quick render of the world (Bonne projection) which is actually rather bumpy. Based on Blue Earth Bathymetry/GEBCO data using #QGIS and #Blender https://t.co/psExLtjACe",309734801,2021-11-29 00:29:52+00:00,en,5,0,34,0,Twitter Web App,3_1465114654175342602,https://pbs.twimg.com/media/FFUiA_VXMAodLvq.jpg,photo, ,Sam J,samwise_v,False,234,516,"London, UK"
 1465114475133124613,"#30DayMapChallenge Day 29 - NULL.
 European places which names contain ""null"".
 Data source: https://t.co/OE9EiLDUo2
-Tool: R + packages rgdal, sf, tidyverse, showtext. #Rstats #ggplot2 https://t.co/dc8gSN8RPH",2593554955,2021-11-29 00:24:46+00:00,en,4,0,7,0,TweetDeck,3_1465114438932086785,https://pbs.twimg.com/media/FFUh0dfXwAEY18i.png,photo, ,Kapazitätsdiode,varaktor,False,62,197
+Tool: R + packages rgdal, sf, tidyverse, showtext. #Rstats #ggplot2 https://t.co/dc8gSN8RPH",2593554955,2021-11-29 00:24:46+00:00,en,4,0,8,0,TweetDeck,3_1465114438932086785,https://pbs.twimg.com/media/FFUh0dfXwAEY18i.png,photo, ,Kapazitätsdiode,varaktor,False,62,197, 
 1465111968533159936,"Map projections for day 28 #30DayMapChallenge 
-I am thinking geography would be easier if the earth was flat 🤔🌍🗺 https://t.co/Ac3uKoTRy2",553432676,2021-11-29 00:14:48+00:00,en,6,0,38,0,Twitter for iPhone,3_1465111960278777859,https://pbs.twimg.com/media/FFUfkLyXwAMAyg3.jpg,photo, ,Io Dogani,ioddg,False,143,403
+I am thinking geography would be easier if the earth was flat 🤔🌍🗺 https://t.co/Ac3uKoTRy2",553432676,2021-11-29 00:14:48+00:00,en,6,0,40,0,Twitter for iPhone,3_1465111960278777859,https://pbs.twimg.com/media/FFUfkLyXwAMAyg3.jpg,photo, ,Io Dogani,ioddg,False,146,405,Greece
 1465111848303435776,"2021 (día 28): The Earth is not flat
 Mapamundi. 1300. El mapamundi de Hereford fue elaborado por Haldingham y pertenece a ese grupo de mapas medievales Orbis Terrarum (OT).
 
-#30DayMapChallenge #MedievalMap #World #Procreate #AffinityDesigner https://t.co/UPv1I3SW2s",64875424,2021-11-29 00:14:19+00:00,es,2,1,2,0,Twitter for Mac,3_1465111811267739650,https://pbs.twimg.com/media/FFUfbgrXwAIdyPV.jpg,photo, ,jose barreda,barredajose,False,143,90
-1465109500399083520,"today’s directive for the #30DayMapChallenge is “The Earth is not flat.” And so I made a drawing in homage to the brilliant Agnes Denes, whose projection drawings I’ve long admired. Here is the Earth as an ice cream cone. https://t.co/bAKNtG9ueG",17847384,2021-11-29 00:04:59+00:00,en,8,3,95,0,Twitter for iPhone,3_1465109496573874176,https://pbs.twimg.com/media/FFUdUxxWUAAbw6V.jpg,photo, ,Jill Hubley,Jill_hubley,False,1550,1345
+#30DayMapChallenge #MedievalMap #World #Procreate #AffinityDesigner https://t.co/UPv1I3SW2s",64875424,2021-11-29 00:14:19+00:00,es,2,1,2,0,Twitter for Mac,3_1465111811267739650,https://pbs.twimg.com/media/FFUfbgrXwAIdyPV.jpg,photo, ,jose barreda,barredajose,False,152,92,Perú
+1465109500399083520,"today’s directive for the #30DayMapChallenge is “The Earth is not flat.” And so I made a drawing in homage to the brilliant Agnes Denes, whose projection drawings I’ve long admired. Here is the Earth as an ice cream cone. https://t.co/bAKNtG9ueG",17847384,2021-11-29 00:04:59+00:00,en,8,3,96,0,Twitter for iPhone,3_1465109496573874176,https://pbs.twimg.com/media/FFUdUxxWUAAbw6V.jpg,photo, ,Jill Hubley,Jill_hubley,False,1559,1345,NYC

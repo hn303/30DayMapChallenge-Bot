@@ -1,52 +1,52 @@
-tweet_id,text,author_id,created_at,lang,retweet_count,reply_count,like_count,quote_count,source,media_key,media_url,media_type,media_view,user_name,user_username,user_verified,user_followers_count,user_following_count
-1464018489014992902,Interactive map #25 https://t.co/ayqktyKqri #30DayMapChallenge #Soviet #Belfast https://t.co/GbZHf0AIzk,3308382005,2021-11-25 23:49:42+00:00,en,2,1,12,0,Twitter for Android,3_1464018480399896577,https://pbs.twimg.com/media/FFE9DRzX0AE0RTn.jpg,photo, ,Conor Graham #GeoSTEM Geography Jedi 🛰️⛰️🌋🌎🌏🌍,GeoConor,False,2767,5001
+tweet_id,text,author_id,created_at,lang,retweet_count,reply_count,like_count,quote_count,source,media_key,media_url,media_type,media_view,user_name,user_username,user_verified,user_followers_count,user_following_count,user_location
+1464018489014992902,Interactive map #25 https://t.co/ayqktyKqri #30DayMapChallenge #Soviet #Belfast https://t.co/GbZHf0AIzk,3308382005,2021-11-25 23:49:42+00:00,en,2,1,12,0,Twitter for Android,3_1464018480399896577,https://pbs.twimg.com/media/FFE9DRzX0AE0RTn.jpg,photo, ,Conor Graham #GeoSTEM Geography Jedi 🛰️⛰️🌋🌎🌏🌍,GeoConor,False,2778,5002,Northern Ireland
 1464013529803943936,"22. BORDER VIEWS
 
 Can you 'see' borders? In some cases you bet. There's been versions of this for the US/Mex border, let's go further and make every border viewable. Play on Nam June Paik's work, tho could be a browser Geoguesser like game w/ MB Sat.
 
-Borders – #30DayMapChallenge https://t.co/EAZjbdYw23",481724987,2021-11-25 23:30:00+00:00,en,1,1,2,0,Twitter Web App,3_1463917483266564100,https://pbs.twimg.com/media/FFDhMeKWYAQe3eL.jpg,photo, ,Dylan Moriarty,DylanMoriarty,True,1832,1339
-1464012345563361290,#30DayMapChallenge may have finished but couldn't resist one more image. Sentinel-2 SWIR of Stirling as you have never seen the city before (10-May-20). @Stirling_High bright spots in foreground; Dumyat in background. Thanks to @sentinel_hub for laying down the challenge. https://t.co/IxtKQWKAtJ,3437248613,2021-11-25 23:25:17+00:00,en,5,0,8,0,Twitter Web App,3_1464010889175216131,https://pbs.twimg.com/media/FFE2JaSXsAM2NyI.jpg,photo, ,SHS Space Science,SHS_Space,False,365,14
+Borders – #30DayMapChallenge https://t.co/EAZjbdYw23",481724987,2021-11-25 23:30:00+00:00,en,1,1,2,0,Twitter Web App,3_1463917483266564100,https://pbs.twimg.com/media/FFDhMeKWYAQe3eL.jpg,photo, ,Dylan Moriarty,DylanMoriarty,True,1833,1337,Wisconsin
+1464012345563361290,#30DayMapChallenge may have finished but couldn't resist one more image. Sentinel-2 SWIR of Stirling as you have never seen the city before (10-May-20). @Stirling_High bright spots in foreground; Dumyat in background. Thanks to @sentinel_hub for laying down the challenge. https://t.co/IxtKQWKAtJ,3437248613,2021-11-25 23:25:17+00:00,en,5,0,8,0,Twitter Web App,3_1464010889175216131,https://pbs.twimg.com/media/FFE2JaSXsAM2NyI.jpg,photo, ,SHS Space Science,SHS_Space,False,365,14, 
 1464011465032179712,"@pokateo_ @professorkao Try this
 #30DayMapChallenge 24: Historical 
 # 1861 KML railroad 
 https://t.co/4gbfIbUP1b &lt;- st_read(""1861_Railroad.kml"")
 mapview(https://t.co/4gbfIbUP1b[1])
-@markdonovan2020 https://t.co/8zPqhOs46l",3094607959,2021-11-25 23:21:47+00:00,en,0,0,0,0,Twitter Web App,3_1463323117816881157,https://pbs.twimg.com/media/FE7En2UXoAUZxcE.jpg,photo, ,donojazz,donojazz62220,False,14,225
+@markdonovan2020 https://t.co/8zPqhOs46l",3094607959,2021-11-25 23:21:47+00:00,en,0,0,0,0,Twitter Web App,3_1463323117816881157,https://pbs.twimg.com/media/FE7En2UXoAUZxcE.jpg,photo, ,donojazz,donojazz62220,False,15,225,USA
 1464010441118695430,"#30DayMapChallenge Day 25 - Interactive Map
 
 Simple GeoJSON loader app built on top of Unfolded Studio @unfoldedinc  using our Map SDK.
 
-Code available on CodePen: https://t.co/KVp77X5MU5 https://t.co/xdCEDF1Hag",778134314311639044,2021-11-25 23:17:43+00:00,en,2,1,2,0,Twitter Web App,16_1464010377214271495,https://pbs.twimg.com/tweet_video_thumb/FFE1rnFXoAcwckR.jpg,animated_gif, ,Marko Letic,NisamProgramer,False,496,620
+Code available on CodePen: https://t.co/KVp77X5MU5 https://t.co/xdCEDF1Hag",778134314311639044,2021-11-25 23:17:43+00:00,en,2,0,2,0,Twitter Web App,16_1464010377214271495,https://pbs.twimg.com/tweet_video_thumb/FFE1rnFXoAcwckR.jpg,animated_gif, ,Marko Letic,NisamProgramer,False,502,621,"Novi Sad, Republic of Serbia"
 1464010003279450112,"Además, en el #30DayMapChallenge el #Day24 es de mapas interactivos😀
 
 Así se ve #Navojoa en la elección a Gobernador de #Sonora 2021-2027 donde resulto ganador @AlfonsoDurazo.
 
-https://t.co/U5WFSzcxUy https://t.co/ap8nMkxvtT",54718338,2021-11-25 23:15:59+00:00,es,2,1,3,0,Twitter Web App,3_1464009617579642883,https://pbs.twimg.com/media/FFE0_ZOXEAMbzUw.jpg,photo, ,Luis Armando Moreno,dogomoreno,False,2088,754
+https://t.co/U5WFSzcxUy https://t.co/ap8nMkxvtT",54718338,2021-11-25 23:15:59+00:00,es,2,1,3,0,Twitter Web App,3_1464009617579642883,https://pbs.twimg.com/media/FFE0_ZOXEAMbzUw.jpg,photo, ,Luis Armando Moreno,dogomoreno,False,2096,755,"Hermosillo del Pitic, Son, Mx."
 1464008606525927431,"#30DayMapChallenge
 Day 25: Interactive map
 Bremer Schnitzeljagd - Findet den Lösungssatz!
-https://t.co/dgFhyhLOxu https://t.co/82MxluN2vl",91548216,2021-11-25 23:10:26+00:00,de,1,0,1,0,Twitter Web App,3_1464008486161981442,https://pbs.twimg.com/media/FFEz9iXXoAIhtpP.jpg,photo, ,Cord Niehaus,Cordster76,False,87,596
+https://t.co/dgFhyhLOxu https://t.co/82MxluN2vl",91548216,2021-11-25 23:10:26+00:00,de,1,0,1,0,Twitter Web App,3_1464008486161981442,https://pbs.twimg.com/media/FFEz9iXXoAIhtpP.jpg,photo, ,Cord Niehaus,Cordster76,False,89,606,"Bremen, Germany"
 1464008455166074880,"Día 25: #InteractiveMap. Hoy nos sumamos al Día Internacional Contra la Violencia de la Mujer #25N, con este estudio que realizamos para identificar las zonas más seguras de #Bogotá y cuánto cuesta vivir en ellas.
 https://t.co/1n7QCoYRk1
-#30DayMapChallenge #Map #Carto #niunamas https://t.co/NUhPdQMFp8",3081831303,2021-11-25 23:09:50+00:00,es,0,0,1,0,TweetDeck,3_1464008398836535302,https://pbs.twimg.com/media/FFEz4dDXEAYhB7g.jpg,photo, ,Properati Data,Properati_Data,False,1222,564
-1464007713386545161,"#30DayMapChallenge - 23,24 &amp; 25. 23=GHSL (new data to me), 24=overlaid on @EnvAgencyGeomat #Lidar showing some of the history here (&amp; to compensate for yesterdays terrible #HillfortsWednesday photo 😉) &amp; 25=interactivity is clicking to view I guess. #QGIS  #Aerialod https://t.co/zUvfZKcplq",2224550306,2021-11-25 23:06:53+00:00,en,1,1,4,0,Twitter Web App,3_1464007200850984961,https://pbs.twimg.com/media/FFEyyuNWQAEKqUY.jpg,photo, ,MonkeyOnTheMountainⓋ,Monk_Po,False,412,610
+#30DayMapChallenge #Map #Carto #niunamas https://t.co/NUhPdQMFp8",3081831303,2021-11-25 23:09:50+00:00,es,0,0,1,0,TweetDeck,3_1464008398836535302,https://pbs.twimg.com/media/FFEz4dDXEAYhB7g.jpg,photo, ,Properati Data,Properati_Data,False,1223,564, 
+1464007713386545161,"#30DayMapChallenge - 23,24 &amp; 25. 23=GHSL (new data to me), 24=overlaid on @EnvAgencyGeomat #Lidar showing some of the history here (&amp; to compensate for yesterdays terrible #HillfortsWednesday photo 😉) &amp; 25=interactivity is clicking to view I guess. #QGIS  #Aerialod https://t.co/zUvfZKcplq",2224550306,2021-11-25 23:06:53+00:00,en,2,1,8,0,Twitter Web App,3_1464007200850984961,https://pbs.twimg.com/media/FFEyyuNWQAEKqUY.jpg,photo, ,MonkeyOnTheMountainⓋ,Monk_Po,False,412,610,Rainbow Unicorn Mountain-SWUK
 1464006170465779717,"London Borough Population and change 1961-2015
 Use 📈Chart Widget📉 to explore variation along #UrbanTransects
 Webmap+geolocated charts made in @ArcGISOnline w @ONS data.
 🙏@VanishedLondon for the idea #Demography #NEA
 #30DayMapChallenge
 Day 26: Choropleth
-https://t.co/Ueo1LQIF3u https://t.co/QM3z4OLtS0",2787878432,2021-11-25 23:00:45+00:00,en,3,0,5,1,Twitter for Android,7_1464006140530991119,https://pbs.twimg.com/ext_tw_video_thumb/1464006140530991119/pu/img/N4KIfVRFqhCTsk3J.jpg,video, ,BC,mildthing99,False,2572,2313
+https://t.co/Ueo1LQIF3u https://t.co/QM3z4OLtS0",2787878432,2021-11-25 23:00:45+00:00,en,3,0,5,1,Twitter for Android,7_1464006140530991119,https://pbs.twimg.com/ext_tw_video_thumb/1464006140530991119/pu/img/N4KIfVRFqhCTsk3J.jpg,video, ,BC,mildthing99,False,2575,2318,"England, United Kingdom"
 1464004910844985350,"2021 (día 25): Interactive map
 Perú. Global Terrorism Database, 1970-2017. El mapa muestra la open-source database GDT de atentados en el país. El TimeLapse interactivo lo elaboramos en Kepler.
 
-#30DayMapChallenge #Peru #Kaggle #Urban #qGIS #Kepler  #Affinity https://t.co/1EWb7t66zp",64875424,2021-11-25 22:55:45+00:00,es,3,1,10,0,Twitter for Mac,3_1464004881019289600,https://pbs.twimg.com/media/FFEwrsKXwAACpDc.jpg,photo, ,jose barreda,barredajose,False,141,90
+#30DayMapChallenge #Peru #Kaggle #Urban #qGIS #Kepler  #Affinity https://t.co/1EWb7t66zp",64875424,2021-11-25 22:55:45+00:00,es,3,1,10,0,Twitter for Mac,3_1464004881019289600,https://pbs.twimg.com/media/FFEwrsKXwAACpDc.jpg,photo, ,jose barreda,barredajose,False,152,92,Perú
 1464003220439711752,"Lose yourself in the forest, you’ll find In ocean…
 
-#Thanksgiving #HappyThanksgiving #30DayMapChallenge #BlackFriday #BlackFridayAmazonSG #live #Politics #frankfurt #AmazonBlackFriday #fire #BiggBoss15 #Europe #Afghanistan #Canada #USA #Africa #Germany https://t.co/kieLKBHMyf",992037884889845760,2021-11-25 22:49:02+00:00,en,0,0,5,0,Twitter for iPhone,7_1464003083462189067,https://pbs.twimg.com/ext_tw_video_thumb/1464003083462189067/pu/img/soMzhghfZyPCSHly.jpg,video, ,Shuja.JR,shujaJR,False,17,78
+#Thanksgiving #HappyThanksgiving #30DayMapChallenge #BlackFriday #BlackFridayAmazonSG #live #Politics #frankfurt #AmazonBlackFriday #fire #BiggBoss15 #Europe #Afghanistan #Canada #USA #Africa #Germany https://t.co/kieLKBHMyf",992037884889845760,2021-11-25 22:49:02+00:00,en,0,0,5,0,Twitter for iPhone,7_1464003083462189067,https://pbs.twimg.com/ext_tw_video_thumb/1464003083462189067/pu/img/soMzhghfZyPCSHly.jpg,video, ,Shuja.JR,shujaJR,False,17,79,"Frankfurt, Germany"
 1464001893995266048,"#30DayMapChallenge Day 25: interactive map - GBFS explorer: lists GBFS feeds around the world - shows the actual bike status of a selected feed -  create a dedicated link to any feed (in the image: US - Citi Bike)
-https://t.co/F0RlKtQKLS https://t.co/pHmU4fGaRi",13181232,2021-11-25 22:43:46+00:00,en,1,0,2,0,Twitter Web App,3_1464001462409773063,https://pbs.twimg.com/media/FFEtks2WQAcvnyu.png,photo, ,Guenter Richter,grichter,False,209,93
-1463996867520262152,#30DayMapChallenge Day 25: interactive map. Check out our new function: dynamic feature clustering in #ArcGISPro 2.9! Map pattern can update dynamically to show number of shops and the most common type. Data is from OSM. https://t.co/T7ZYuuObFT,3536376796,2021-11-25 22:23:47+00:00,en,1,0,5,0,Twitter for iPhone,7_1463996830572679168,https://pbs.twimg.com/ext_tw_video_thumb/1463996830572679168/pu/img/SZvSHaqwXu9FSag9.jpg,video, ,Zihan Song,song_zihan,False,187,78
+https://t.co/F0RlKtQKLS https://t.co/pHmU4fGaRi",13181232,2021-11-25 22:43:46+00:00,en,1,0,2,0,Twitter Web App,3_1464001462409773063,https://pbs.twimg.com/media/FFEtks2WQAcvnyu.png,photo, ,Guenter Richter,grichter,False,209,93,rendilo.fori.oggetti
+1463996867520262152,#30DayMapChallenge Day 25: interactive map. Check out our new function: dynamic feature clustering in #ArcGISPro 2.9! Map pattern can update dynamically to show number of shops and the most common type. Data is from OSM. https://t.co/T7ZYuuObFT,3536376796,2021-11-25 22:23:47+00:00,en,1,0,7,0,Twitter for iPhone,7_1463996830572679168,https://pbs.twimg.com/ext_tw_video_thumb/1463996830572679168/pu/img/SZvSHaqwXu9FSag9.jpg,video, ,Zihan Song,song_zihan,False,201,78,"Redlands, CA"
 1463996649928339460,"#30DayMapChallenge Day 22. Boundaries
 
 'Non-Contiguous Cartogram' ➗
@@ -57,7 +57,7 @@ Live: https://t.co/f0BPbOcFFR
 
 Data: ANCPI, BEC, Alegeri 2019
 
-#D3js #QGIS https://t.co/xXtAPqGm9w",1082711230459060224,2021-11-25 22:22:55+00:00,en,1,0,2,0,Twitter Web App,3_1463996520064331776,https://pbs.twimg.com/media/FFEpFBLXsAAy-gM.jpg,photo, ,MapTheClouds,maptheclouds,False,393,456
+#D3js #QGIS https://t.co/xXtAPqGm9w",1082711230459060224,2021-11-25 22:22:55+00:00,en,1,1,2,1,Twitter Web App,3_1463996520064331776,https://pbs.twimg.com/media/FFEpFBLXsAAy-gM.jpg,photo, ,MapTheClouds,maptheclouds,False,419,543, 
 1463995347026460680,"#30DayMapChallenge Day 21. Elevation
 
 'Color perception and a perfect shape' 🇷🇴
@@ -68,15 +68,15 @@ Live: https://t.co/JG0FNef0ur
 
 Data: EU-DEM, OpenTopography, OpenStreetMap, MapTiler
 
-#Leaflet #QGIS https://t.co/vDxneeTfOS",1082711230459060224,2021-11-25 22:17:45+00:00,en,1,0,1,0,Twitter Web App,16_1463995296321581056,https://pbs.twimg.com/tweet_video_thumb/FFEn9yYXMAACI8k.jpg,animated_gif, ,MapTheClouds,maptheclouds,False,393,456
+#Leaflet #QGIS https://t.co/vDxneeTfOS",1082711230459060224,2021-11-25 22:17:45+00:00,en,1,1,2,1,Twitter Web App,16_1463995296321581056,https://pbs.twimg.com/tweet_video_thumb/FFEn9yYXMAACI8k.jpg,animated_gif, ,MapTheClouds,maptheclouds,False,419,543, 
 1463994658070188033,"#30DayMapChallenge Day 25: Interactive
 
 An interactive web map of 🌳 green London 💂‍♀️ perfect for those who enjoy zooming and panning around London's green spaces 
 
-https://t.co/WxlPdstEmJ https://t.co/OU2P6aKPu5",759988092,2021-11-25 22:15:00+00:00,en,1,2,10,0,Twitter Web App,3_1463993508742803458,https://pbs.twimg.com/media/FFEmVvIXsAIX29A.jpg,photo, ,Matthew Law,Iawmatthew,False,201,89
+https://t.co/WxlPdstEmJ https://t.co/OU2P6aKPu5",759988092,2021-11-25 22:15:00+00:00,en,1,2,10,0,Twitter Web App,3_1463993508742803458,https://pbs.twimg.com/media/FFEmVvIXsAIX29A.jpg,photo, ,Matthew Law,Iawmatthew,False,204,89, 
 1463991132614901772,"#30DayMapChallenge - Day 26: Choropleth map
 
-Road travel time and distance zones from Ilmajoki Finland. This kind of analysis can be converted to logistics cost zones or areas for delivery shipping or pickup collection. https://t.co/PfKhfIr2CM",36117325,2021-11-25 22:01:00+00:00,en,2,0,13,0,TweetDeck,3_1461966550102167555,https://pbs.twimg.com/media/FEny1NxX0AM_6ys.jpg,photo, ,Petri Helo,petrihelo,False,1163,1393
+Road travel time and distance zones from Ilmajoki Finland. This kind of analysis can be converted to logistics cost zones or areas for delivery shipping or pickup collection. https://t.co/PfKhfIr2CM",36117325,2021-11-25 22:01:00+00:00,en,2,0,15,1,TweetDeck,3_1461966550102167555,https://pbs.twimg.com/media/FEny1NxX0AM_6ys.jpg,photo, ,Petri Helo,petrihelo,False,1166,1393,"Vaasa, Finland"
 1463990783795683328,"#30DayMapChallenge Day 25: Interactive map 
 
 Interactive map showing all traffic accidents from 2003-2020 in the Netherlands. 
@@ -85,59 +85,59 @@ Check out the interactive map on: https://t.co/ifcxuW4gPn
 
 Data source: Bestand Geregistreerde Ongevallen. 
 
-#interactive #traffic #accidents #arcgis https://t.co/r3ukP6hwbo",1091106812852609027,2021-11-25 21:59:37+00:00,en,2,0,4,0,Twitter Web App,3_1463990492643921924,https://pbs.twimg.com/media/FFEjmLSXEAQ5Ih6.jpg,photo, ,MappleJuice,Mapple_juice,False,30,10
+#interactive #traffic #accidents #arcgis https://t.co/r3ukP6hwbo",1091106812852609027,2021-11-25 21:59:37+00:00,en,2,0,4,0,Twitter Web App,3_1463990492643921924,https://pbs.twimg.com/media/FFEjmLSXEAQ5Ih6.jpg,photo, ,MappleJuice,Mapple_juice,False,35,10,The Netherlands
 1463990307092156417,"So far each posted map for the #30DayMapChallenge was created on the day it has been posted. But today I had to warm-up a 5 year old project. It uses OSM to find kiosks and ORS to route you there (if you share your location).
-https://t.co/cSDHQl6EGT https://t.co/LUsOS4LV3L",1454920710812487680,2021-11-25 21:57:43+00:00,en,0,0,0,0,Twitter Web App,3_1463974989909176324,https://pbs.twimg.com/media/FFEVfzGXsAQZy11.jpg,photo, ,nordaufnordost,nordaufnordost,False,2,0
+https://t.co/cSDHQl6EGT https://t.co/LUsOS4LV3L",1454920710812487680,2021-11-25 21:57:43+00:00,en,0,0,0,0,Twitter Web App,3_1463974989909176324,https://pbs.twimg.com/media/FFEVfzGXsAQZy11.jpg,photo, ,nordaufnordost,nordaufnordost,False,2,0, 
 1463989604583985155,"We have a late entry into todays day #25  of the #30daymapchallenge, the theme is interactive so we have tried making an interactive map showing #PTAL in #KENT - CLICK THE LINK 
 
-https://t.co/ixGx6Yo0PW https://t.co/W2dfDBOEKm",49592380,2021-11-25 21:54:56+00:00,en,1,0,2,0,Twitter Web App,3_1463988971156000775,https://pbs.twimg.com/media/FFEiNnTX0AcIth1.jpg,photo, ,Basemap,basemap,False,1662,1588
+https://t.co/ixGx6Yo0PW https://t.co/W2dfDBOEKm",49592380,2021-11-25 21:54:56+00:00,en,1,0,2,0,Twitter Web App,3_1463988971156000775,https://pbs.twimg.com/media/FFEiNnTX0AcIth1.jpg,photo, ,Basemap,basemap,False,1664,1588,"Guildford, Surrey"
 1463986848494235650,"Day 26 of #30DayMapChallenge - Choropleth map
 Bivariate choropleth map showing Vaccination share vs. covid deaths/mln (EU-27)
-Python, Matplotlib, Cartopy https://t.co/6HIfmyISfh",1225029150433579010,2021-11-25 21:43:58+00:00,en,3,1,6,0,Twitter for Android,3_1463986842399821835,https://pbs.twimg.com/media/FFEgRtEWUAstybj.jpg,photo, ,Ivan D.,ivanziogeo,False,93,182
+Python, Matplotlib, Cartopy https://t.co/6HIfmyISfh",1225029150433579010,2021-11-25 21:43:58+00:00,en,3,1,6,0,Twitter for Android,3_1463986842399821835,https://pbs.twimg.com/media/FFEgRtEWUAstybj.jpg,photo, ,Ivan D.,ivanziogeo,False,93,184,"Oricola, Abruzzo"
 1463985176040521742,"#30DayMapChallenge 
 Día 24: Mapa Interactivo. 
 Conoce Mapa Jalisco, un geoportal donde podrás encontrar mucha información del estado y sus municipios.
-👁️👉 https://t.co/T9Ho9hBFfZ https://t.co/krpJkds9Ze",2239825712,2021-11-25 21:37:20+00:00,es,12,0,31,2,Twitter Web App,16_1463984207118548993,https://pbs.twimg.com/tweet_video_thumb/FFEd4T4VQAE95Lj.jpg,animated_gif, ,IIEG Jalisco,IIEGJ,False,5467,0
-1463984525743165441,#30DayMapChallenge - Day 25 - Behind the scenes and link to data from @MdsTransmodal and UNCTAD. https://t.co/npuZDBjsJP  #blender3d #dataviz #rstats #rspatial #gischat #maritime #transport 3/🧵 https://t.co/dnXDL4lshE,1186202364,2021-11-25 21:34:45+00:00,en,5,0,3,0,Twitter Web App,3_1463984268946948104,https://pbs.twimg.com/media/FFEd76NXwAg7fZz.jpg,photo, ,Julian Hoffmann,Julian_H0ffmann,False,696,1943
+👁️👉 https://t.co/T9Ho9hBFfZ https://t.co/krpJkds9Ze",2239825712,2021-11-25 21:37:20+00:00,es,12,0,31,2,Twitter Web App,16_1463984207118548993,https://pbs.twimg.com/tweet_video_thumb/FFEd4T4VQAE95Lj.jpg,animated_gif, ,IIEG Jalisco,IIEGJ,False,5475,0,"Jalisco, México"
+1463984525743165441,#30DayMapChallenge - Day 25 - Behind the scenes and link to data from @MdsTransmodal and UNCTAD. https://t.co/npuZDBjsJP  #blender3d #dataviz #rstats #rspatial #gischat #maritime #transport 3/🧵 https://t.co/dnXDL4lshE,1186202364,2021-11-25 21:34:45+00:00,en,5,0,4,0,Twitter Web App,3_1463984268946948104,https://pbs.twimg.com/media/FFEd76NXwAg7fZz.jpg,photo, ,Julian Hoffmann,Julian_H0ffmann,False,737,1953,"London, England"
 1463980571760201745,"#30DayMapChallenge - Day 25 - Interactive.
-Experimental map. Download interactive file and open it in your browser to explore the 7 seas: https://t.co/ASZOaCSfZi #blender3d #dataviz #rstats #rspatial #gischat #maritime #transport 2/🧵 https://t.co/tfdDsMhNeU",1186202364,2021-11-25 21:19:02+00:00,en,5,1,6,0,Twitter Web App,3_1463979739392192512,https://pbs.twimg.com/media/FFEZ0QTXMAAFlXa.jpg,photo, ,Julian Hoffmann,Julian_H0ffmann,False,696,1943
+Experimental map. Download interactive file and open it in your browser to explore the 7 seas: https://t.co/ASZOaCSfZi #blender3d #dataviz #rstats #rspatial #gischat #maritime #transport 2/🧵 https://t.co/tfdDsMhNeU",1186202364,2021-11-25 21:19:02+00:00,en,5,1,7,0,Twitter Web App,3_1463979739392192512,https://pbs.twimg.com/media/FFEZ0QTXMAAFlXa.jpg,photo, ,Julian Hoffmann,Julian_H0ffmann,False,737,1953,"London, England"
 1463978628572663816,"Interacting &amp; Connected Ports
 #30DayMapChallenge - Day 25 - Interactive.
-Port Liner Shipping Connectivity Index data from UNCTAD. Combined use of R #ggplot, #ggiraph,sf... and  #Blender3d.  Download interactive file ⬇️ #dataviz #rstats #rspatial #gischat #maritime #transport 1/🧵 https://t.co/91lgnTgVay",1186202364,2021-11-25 21:11:19+00:00,en,12,1,14,0,Twitter Web App,7_1463975375663517696,https://pbs.twimg.com/ext_tw_video_thumb/1463975375663517696/pu/img/a_eO-7gTAChDaOP7.jpg,video, ,Julian Hoffmann,Julian_H0ffmann,False,696,1943
-1463977830988107779,When I see the beautiful and inspiring maps of the #30DayMapChallenge and start to panic because mine are not that good… https://t.co/dqRJ9s943K,840682774403133441,2021-11-25 21:08:08+00:00,en,1,0,6,0,Twitter for iPhone,3_1463977827234164737,https://pbs.twimg.com/media/FFEYE89XMAEj1Bg.jpg,photo, ,HistoCarte,HistoCarte,False,76,66
+Port Liner Shipping Connectivity Index data from UNCTAD. Combined use of R #ggplot, #ggiraph,sf... and  #Blender3d.  Download interactive file ⬇️ #dataviz #rstats #rspatial #gischat #maritime #transport 1/🧵 https://t.co/91lgnTgVay",1186202364,2021-11-25 21:11:19+00:00,en,12,1,15,0,Twitter Web App,7_1463975375663517696,https://pbs.twimg.com/ext_tw_video_thumb/1463975375663517696/pu/img/a_eO-7gTAChDaOP7.jpg,video, ,Julian Hoffmann,Julian_H0ffmann,False,737,1953,"London, England"
+1463977830988107779,When I see the beautiful and inspiring maps of the #30DayMapChallenge and start to panic because mine are not that good… https://t.co/dqRJ9s943K,840682774403133441,2021-11-25 21:08:08+00:00,en,1,0,6,0,Twitter for iPhone,3_1463977827234164737,https://pbs.twimg.com/media/FFEYE89XMAEj1Bg.jpg,photo, ,HistoCarte,HistoCarte,False,77,69, 
 1463977475965440006,"Day 25: InteractiveMap | #30DayMapChallenge
 
-A few months ago, at Taller Sïranda we had the opportunity to collaborate with non-governmental organizations that work on issues related to water policy in Mexico. https://t.co/14AmcKhyVy",1163470661400047616,2021-11-25 21:06:44+00:00,en,2,1,2,0,Twitter Web App,3_1463976111583506443,https://pbs.twimg.com/media/FFEWhFqXsAssMUz.jpg,photo, ,Taller Sïranda,Taller_Siranda,False,337,159
+A few months ago, at Taller Sïranda we had the opportunity to collaborate with non-governmental organizations that work on issues related to water policy in Mexico. https://t.co/14AmcKhyVy",1163470661400047616,2021-11-25 21:06:44+00:00,en,2,1,2,0,Twitter Web App,3_1463976111583506443,https://pbs.twimg.com/media/FFEWhFqXsAssMUz.jpg,photo, ,Taller Sïranda,Taller_Siranda,False,340,159,México
 1463977260550172672,"Scots and English 'Cat' in Dumfries and Galloway Place-Names
 Map topic decided by Twitter poll:
 Deil/Devil place-names | 30.2%
 Something 3D | 13.2%
 Cat place-names | 37.7%
 More train stuff | 18.9%
-#30DayMapChallenge | Day 25 | Interactive https://t.co/DHTW407mUT",1081900377853829120,2021-11-25 21:05:52+00:00,en,4,1,28,1,Twitter Web App,3_1463976210564886530,https://pbs.twimg.com/media/FFEWm2ZXsAIPQQE.jpg,photo, ,D&G Place-Names,dgplacenames,False,1132,393
+#30DayMapChallenge | Day 25 | Interactive https://t.co/DHTW407mUT",1081900377853829120,2021-11-25 21:05:52+00:00,en,4,1,28,1,Twitter Web App,3_1463976210564886530,https://pbs.twimg.com/media/FFEWm2ZXsAIPQQE.jpg,photo, ,D&G Place-Names,dgplacenames,False,1152,393, 
 1463973246127296520,"Still catching up 😹
 #30DayMapChallenge Day 18: Water #QGIS #tjukanovstyles
 
 Reservoirs in #Georgia with an area of more than 1.5 sq. km. 
 Data: GeoNetwork catalogue of #NAPR
 
-@vizaxis https://t.co/UsFkGWUedo",739155214968717312,2021-11-25 20:49:55+00:00,en,2,1,7,0,Twitter Web App,3_1463971528865988610,https://pbs.twimg.com/media/FFESWVtXwAI9gkL.jpg,photo, ,Lika Zhvania,lizhvania,False,91,224
+@vizaxis https://t.co/UsFkGWUedo",739155214968717312,2021-11-25 20:49:55+00:00,en,2,1,7,0,Twitter Web App,3_1463971528865988610,https://pbs.twimg.com/media/FFESWVtXwAI9gkL.jpg,photo, ,Lika Zhvania,lizhvania,False,93,224,"Enschede, Nederland"
 1463968897879707653,"#30DayMapChallenge 
 Jour 25 - Carte interactive
 
 J'ai besoin de passer beaucoup plus de temps avec @Mapbox pour obtenir une carte utilisable, mais voici une carte expérimentale pour comparer la ville en 1766 et en 1820.
-https://t.co/apWnik9Ref https://t.co/E6BGupWb4n",3068008768,2021-11-25 20:32:39+00:00,fr,0,1,3,0,TweetDeck,7_1463967092319920130,https://pbs.twimg.com/ext_tw_video_thumb/1463967092319920130/pu/img/lGajm78_TlEkwdEg.jpg,video, ,CômeMS,Come_M_S,False,7,122
+https://t.co/apWnik9Ref https://t.co/E6BGupWb4n",3068008768,2021-11-25 20:32:39+00:00,fr,0,1,3,0,TweetDeck,7_1463967092319920130,https://pbs.twimg.com/ext_tw_video_thumb/1463967092319920130/pu/img/lGajm78_TlEkwdEg.jpg,video, ,CômeMS,Come_M_S,False,7,122,"Orsay, France"
 1463967357223718917,"Todays #30DayMapChallenge is ""interactive""... heres a couple of screen shots of a map of Switzerland that shows more roads the more you zoom in...
 Code: https://t.co/ESqLIsYzPD
-#RStats #leaflet https://t.co/8m5FhUaFYz",525654957,2021-11-25 20:26:31+00:00,en,3,0,4,0,Twitter Web App,3_1463966875554041858,https://pbs.twimg.com/media/FFEOHexWUAIZEMT.png,photo, ,Alan Haynes,aghaynes,False,122,190
+#RStats #leaflet https://t.co/8m5FhUaFYz",525654957,2021-11-25 20:26:31+00:00,en,3,0,4,0,Twitter Web App,3_1463966875554041858,https://pbs.twimg.com/media/FFEOHexWUAIZEMT.png,photo, ,Alan Haynes,aghaynes,False,124,190,"Oftringen, Schweiz"
 1463966179861557276,"#30DayMapChallenge 2021 | Day 25 (and day 26) | Interactive map (and chloropleth map) | using R and Shiny {sf}{tmap}{dplyr}{shiny}. #Rstats. 
-https://t.co/CFI1OkwF7q from this paper https://t.co/GHrztPpoJg https://t.co/nECZxCFudO",563607513,2021-11-25 20:21:51+00:00,en,3,0,9,0,Twitter Web App,3_1463965975217270815,https://pbs.twimg.com/media/FFENTEwVcB8671j.jpg,photo, ,Malcolm Campbell,CampbellMH,False,661,2146
+https://t.co/CFI1OkwF7q from this paper https://t.co/GHrztPpoJg https://t.co/nECZxCFudO",563607513,2021-11-25 20:21:51+00:00,en,3,0,9,0,Twitter Web App,3_1463965975217270815,https://pbs.twimg.com/media/FFENTEwVcB8671j.jpg,photo, ,Malcolm Campbell,CampbellMH,False,663,2151,"Christchurch, NZ"
 1463956973909680134,"#30DayMapChallenge 
 Day 25 - Interactive map
 
 I need to spend a lot more time with mapbox to make something usable.
 But here is an experimentation to show the city in 1766 and in 1850:
-https://t.co/apWnik9Ref https://t.co/zRtr0tFgf9",3068008768,2021-11-25 19:45:16+00:00,en,0,1,1,0,TweetDeck,7_1463948851589623817,https://pbs.twimg.com/ext_tw_video_thumb/1463948851589623817/pu/img/H9hANQ56kG2E_1a2.jpg,video, ,CômeMS,Come_M_S,False,7,122
+https://t.co/apWnik9Ref https://t.co/zRtr0tFgf9",3068008768,2021-11-25 19:45:16+00:00,en,0,1,1,0,TweetDeck,7_1463948851589623817,https://pbs.twimg.com/ext_tw_video_thumb/1463948851589623817/pu/img/H9hANQ56kG2E_1a2.jpg,video, ,CômeMS,Come_M_S,False,7,122,"Orsay, France"
 1463956692111183872,"#HumanTradeRoutes
 #Refugees #Wars #AnyOtherLeader 
 
@@ -153,25 +153,25 @@ This is a 🗺 (map).
 TikTok #ShineALight 
 
 Bye for now.
-Riki https://t.co/vUwKMI22pF",1442403707912527873,2021-11-25 19:44:09+00:00,en,0,0,0,0,Twitter for iPhone,16_1463956684267737096,https://pbs.twimg.com/tweet_video_thumb/FFEE2RRWUAgEK71.jpg,animated_gif, ,L. Riki Cheever,CheeverRiki,False,8,121
+Riki https://t.co/vUwKMI22pF",1442403707912527873,2021-11-25 19:44:09+00:00,en,0,0,0,0,Twitter for iPhone,16_1463956684267737096,https://pbs.twimg.com/tweet_video_thumb/FFEE2RRWUAgEK71.jpg,animated_gif, ,L. Riki Cheever,CheeverRiki,False,9,139, 
 1463955542288875521,"Day 25: Interactive Map
 First time using Qgis for making a web map about the most famous places in Makkah 🕋 glad that i try new way to make a map. 
- #30DayMapChallenge https://t.co/8eKBO1w43F",1454894840,2021-11-25 19:39:34+00:00,en,5,2,17,0,Twitter for iPhone,7_1463955466736881669,https://pbs.twimg.com/ext_tw_video_thumb/1463955466736881669/pu/img/j1Y1cWfqrEf3CSpc.jpg,video, ,Noura | نـوره,nourabw95,False,207,142
+ #30DayMapChallenge https://t.co/8eKBO1w43F",1454894840,2021-11-25 19:39:34+00:00,en,5,2,17,0,Twitter for iPhone,7_1463955466736881669,https://pbs.twimg.com/ext_tw_video_thumb/1463955466736881669/pu/img/j1Y1cWfqrEf3CSpc.jpg,video, ,Noura | نـوره,nourabw95,False,214,145,مكة المكرمة
 1463954878817001479,"#30DayMapChallenge - Day 25: Interactive map.
 A (very experimental) map of active #shortwave radio stations worldwide in 2020, according to the Bi Newsletter for DXers - SW Schedule A20.
-https://t.co/vrUeWxtA9G https://t.co/0G11BFipeH",2593554955,2021-11-25 19:36:56+00:00,en,1,0,4,0,TweetDeck,3_1463954266561949696,https://pbs.twimg.com/media/FFECpinXsAA4yQw.jpg,photo, ,Kapazitätsdiode,varaktor,False,62,197
+https://t.co/vrUeWxtA9G https://t.co/0G11BFipeH",2593554955,2021-11-25 19:36:56+00:00,en,1,0,6,0,TweetDeck,3_1463954266561949696,https://pbs.twimg.com/media/FFECpinXsAA4yQw.jpg,photo, ,Kapazitätsdiode,varaktor,False,62,197, 
 1463950744311107585,"#30DayMapChallenge Day 25: Interactive map. Using today to revive a project that fell by the way-side: Understanding the Comprehensive Mobility Plan for Bengaluru 2020. Some geo-ref done today! Link here: https://t.co/N5zFz1ibaX
-#rspatial #RStats https://t.co/GMKOK1s2JX",1222519447165886465,2021-11-25 19:20:30+00:00,en,3,1,4,0,Twitter Web App,3_1463950408070705163,https://pbs.twimg.com/media/FFD_I8nXsAsLdq8.jpg,photo, ,Anirudh,_anirudhgovind,False,313,1500
+#rspatial #RStats https://t.co/GMKOK1s2JX",1222519447165886465,2021-11-25 19:20:30+00:00,en,3,1,4,0,Twitter Web App,3_1463950408070705163,https://pbs.twimg.com/media/FFD_I8nXsAsLdq8.jpg,photo, ,Anirudh,_anirudhgovind,False,312,1500, 
 1463950624651890692,"Día 25: Mapa interactivo en #30DayMapChallenge 
 OSM 2008: A Year of Edits 😍 ""#interactive""
-https://t.co/eHChUddjBo https://t.co/3PfYtnhKNK",3194863402,2021-11-25 19:20:02+00:00,es,2,1,3,0,Twitter Web App,7_1463950276293967873,https://pbs.twimg.com/ext_tw_video_thumb/1463950276293967873/pu/img/NChz2ANlloD9FsRv.jpg,video, ,Cartografía Digital,digimaps,False,3731,184
+https://t.co/eHChUddjBo https://t.co/3PfYtnhKNK",3194863402,2021-11-25 19:20:02+00:00,es,2,1,3,0,Twitter Web App,7_1463950276293967873,https://pbs.twimg.com/ext_tw_video_thumb/1463950276293967873/pu/img/NChz2ANlloD9FsRv.jpg,video, ,Cartografía Digital,digimaps,False,3731,185,"Comunidad de Madrid, España"
 1463944636360179723,"Day 25 #30DayMapChallenge – interactive
 
 Early medieval, Pictish and Anglian / Saxon sites in Scotland from @HistEnvScot aka @welovehistory Canmore dataset.
 
 Interactive map at https://t.co/X6hrRe6RbM
 
-Click on a site to find out more, with links to full Canmore entries. https://t.co/loJL0kWSzo",1163073816270188545,2021-11-25 18:56:14+00:00,en,1,2,6,0,Twitter Web App,3_1463944565820379145,https://pbs.twimg.com/media/FFD504iWUAkBkMN.jpg,photo, ,D,64mien,False,11,59
+Click on a site to find out more, with links to full Canmore entries. https://t.co/loJL0kWSzo",1163073816270188545,2021-11-25 18:56:14+00:00,en,1,2,7,0,Twitter Web App,3_1463944565820379145,https://pbs.twimg.com/media/FFD504iWUAkBkMN.jpg,photo, ,D,64mien,False,12,63,"Aberlady, East Lothian"
 1463944321066049542,"#30DayMapChallenge 
 
 25. INTERACTIVE. Web map: marine traffic in the Balearic Islands by number of passengers.
@@ -179,7 +179,7 @@ Click on a site to find out more, with links to full Canmore entries. https://t.
 
 LINK: https://t.co/DGfVvfTh0O
 Tool: https://t.co/n17TRoKaFN
-Data: @IGNSpain https://t.co/omjxlqcTDa",769592708,2021-11-25 18:54:59+00:00,es,2,1,3,1,Twitter Web App,3_1463944018686062595,https://pbs.twimg.com/media/FFD5VCTXMAMYlax.jpg,photo, ,Valentín Sastre,valen_ibiza,False,376,585
+Data: @IGNSpain https://t.co/omjxlqcTDa",769592708,2021-11-25 18:54:59+00:00,es,2,1,3,1,Twitter Web App,3_1463944018686062595,https://pbs.twimg.com/media/FFD5VCTXMAMYlax.jpg,photo, ,Valentín Sastre,valen_ibiza,False,377,586,IBIZA / Barcelona
 1463944238798942214,"#30DayMapChallenge day 25 -- Interactive
 
 Explore the distance from an elderly program location to the nearest bus stop.
@@ -187,83 +187,83 @@ Explore the distance from an elderly program location to the nearest bus stop.
 #rstats code: 
 https://t.co/zU9zXN6wRG
 
-interactive version: https://t.co/yPR3dxiRCO https://t.co/XYfORx6lst",2167201254,2021-11-25 18:54:39+00:00,en,4,1,10,0,Twitter Web App,3_1463943539079925763,https://pbs.twimg.com/media/FFD45HoWUAMqOSn.png,photo, ,Amit Levinson,Amit_Levinson,False,693,1809
-1463942840371793922,"Day 25 #30DayMapChallenge - I am lazy, and tooltip is also ""Interactive map"" https://t.co/85QlWgsEy4",86087153,2021-11-25 18:49:06+00:00,en,1,0,3,0,Twitter Web App,3_1463942543826108430,https://pbs.twimg.com/media/FFD3_MBWQA4rHk-.jpg,photo, ,Дмитрий,DBusAI,False,34,247
+interactive version: https://t.co/yPR3dxiRCO https://t.co/XYfORx6lst",2167201254,2021-11-25 18:54:39+00:00,en,4,1,11,0,Twitter Web App,3_1463943539079925763,https://pbs.twimg.com/media/FFD45HoWUAMqOSn.png,photo, ,Amit Levinson,Amit_Levinson,False,691,1810,"Tel-Aviv, Israel"
+1463942840371793922,"Day 25 #30DayMapChallenge - I am lazy, and tooltip is also ""Interactive map"" https://t.co/85QlWgsEy4",86087153,2021-11-25 18:49:06+00:00,en,1,0,3,0,Twitter Web App,3_1463942543826108430,https://pbs.twimg.com/media/FFD3_MBWQA4rHk-.jpg,photo, ,Дмитрий,DBusAI,False,34,248,"Москва, Россия"
 1463942141168791557,"#30DayMapChallenge | Day 24 | Historical
 
-Highlighting the role of Chinese workers in the construction of the first transcontinental railroad in the US, 1865-69 https://t.co/sSAR3wvzOU",910889225448439808,2021-11-25 18:46:19+00:00,en,1,0,27,0,Twitter Web App,3_1463941976827609095,https://pbs.twimg.com/media/FFD3eLyXwAcLP2P.jpg,photo, ,Dennis Kao,professorkao,False,466,718
-1463942007357788162,"#30DayMapChallenge day 24 historical. Here is a map of Eusebio Francisco Kino’s explorations, often referred to as Father Kino, he was a Tyrolean Jesuit, missionary, geographer, explorer, cartographer and astronomer. https://t.co/JD7jcrIU5q",906459476,2021-11-25 18:45:47+00:00,en,1,1,7,0,Twitter for iPhone,3_1463942002584670222,https://pbs.twimg.com/media/FFD3frvVUA4rp9w.jpg,photo, ,matthew.hampton,CascadeCarto,False,448,309
+Highlighting the role of Chinese workers in the construction of the first transcontinental railroad in the US, 1865-69 https://t.co/sSAR3wvzOU",910889225448439808,2021-11-25 18:46:19+00:00,en,1,0,27,0,Twitter Web App,3_1463941976827609095,https://pbs.twimg.com/media/FFD3eLyXwAcLP2P.jpg,photo, ,Dennis Kao,professorkao,False,466,719, 
+1463942007357788162,"#30DayMapChallenge day 24 historical. Here is a map of Eusebio Francisco Kino’s explorations, often referred to as Father Kino, he was a Tyrolean Jesuit, missionary, geographer, explorer, cartographer and astronomer. https://t.co/JD7jcrIU5q",906459476,2021-11-25 18:45:47+00:00,en,1,1,7,0,Twitter for iPhone,3_1463942002584670222,https://pbs.twimg.com/media/FFD3frvVUA4rp9w.jpg,photo, ,matthew.hampton,CascadeCarto,False,448,309,Portland
 1463939705167355908,"We are developing the EDEO Sensing pipeline for processing huge amounts of satellite data in-house.
 
 Now our 1st case study is out. We processed 4500 #Sentinel2 tiles to map wildfires in Siberia.
 
 https://t.co/M0mQpMBGE9
-#30DayMapChallenge #ArtificialIntelligence #gischat #eochat https://t.co/v2i7vMFMaq",961696537075159040,2021-11-25 18:36:39+00:00,en,6,1,9,1,Twitter Web App,3_1463937017092444162,https://pbs.twimg.com/media/FFDy9fVXEAIBh4d.jpg,photo, ,EDEO,EDEO_GmbH,False,17,56
-1463939115808813057,"#30DayMapChallenge Day 25, Interactive!  My wife used my new interactive map tool https://t.co/9bMq4iM64t to make a 5 year wedding anniversary card of our cross country move this year! #HappyThanksgiving https://t.co/NdhubvyP1R",277272757,2021-11-25 18:34:18+00:00,en,1,0,2,0,Twitter Web App,3_1463938105107369997,https://pbs.twimg.com/media/FFDz80gVUA0JlEo.jpg,photo, ,Steve Cline,SteveClineBird,False,151,247
+#30DayMapChallenge #ArtificialIntelligence #gischat #eochat https://t.co/v2i7vMFMaq",961696537075159040,2021-11-25 18:36:39+00:00,en,6,1,9,1,Twitter Web App,3_1463937017092444162,https://pbs.twimg.com/media/FFDy9fVXEAIBh4d.jpg,photo, ,EDEO,EDEO_GmbH,False,17,56,"Bavaria, Germany"
+1463939115808813057,"#30DayMapChallenge Day 25, Interactive!  My wife used my new interactive map tool https://t.co/9bMq4iM64t to make a 5 year wedding anniversary card of our cross country move this year! #HappyThanksgiving https://t.co/NdhubvyP1R",277272757,2021-11-25 18:34:18+00:00,en,1,0,3,0,Twitter Web App,3_1463938105107369997,https://pbs.twimg.com/media/FFDz80gVUA0JlEo.jpg,photo, ,Steve Cline,SteveClineBird,False,150,248,"Vancouver, WA"
 1463938243263672322,"Day 25 - Interactive map
 Ok, today it was easy. Just take data for Dubno (which is probably one of the most data literate cities in Ukraine), upload it to Aspectum...done:
 https://t.co/cmDz8SwuuJ
 
 Dubno on https://t.co/Zug998uagX: https://t.co/7v4WpbeP3S
-#30DayMapChallenge https://t.co/k1CJXN022Q",14196303,2021-11-25 18:30:50+00:00,en,2,0,7,0,Twitter Web App,3_1463938214776000515,https://pbs.twimg.com/media/FFD0DNDX0AMsL_5.jpg,photo, ,yaroslav_sm,jaroslav_sm,False,152,93
-1463937393556398090,#30DayMapChallenge - Interactive Map / Carte interactive https://t.co/NtQP6wGQN7,860108779471462400,2021-11-25 18:27:27+00:00,en,1,0,2,0,Twitter Web App,16_1463937220419723266,https://pbs.twimg.com/tweet_video_thumb/FFDzJUyXIAI46k3.jpg,animated_gif, ,Mind The Map,cpchabert,False,2799,1333
-1463936019032543232,This is the only map I'm going to be interacting with for day 25 - interactive map #30DayMapChallenge #DayOff https://t.co/XpvPXZitte,1114069920092966912,2021-11-25 18:22:00+00:00,en,3,4,99,3,TweetDeck,3_1462843953049448451,https://pbs.twimg.com/media/FE0Q0ydXMAM2vvM.jpg,photo, ,Kate,KateEllen100,False,117,302
+#30DayMapChallenge https://t.co/k1CJXN022Q",14196303,2021-11-25 18:30:50+00:00,en,2,0,8,0,Twitter Web App,3_1463938214776000515,https://pbs.twimg.com/media/FFD0DNDX0AMsL_5.jpg,photo, ,yaroslav_sm,jaroslav_sm,False,158,96,Чернівці
+1463937393556398090,#30DayMapChallenge - Interactive Map / Carte interactive https://t.co/NtQP6wGQN7,860108779471462400,2021-11-25 18:27:27+00:00,en,1,0,2,0,Twitter Web App,16_1463937220419723266,https://pbs.twimg.com/tweet_video_thumb/FFDzJUyXIAI46k3.jpg,animated_gif, ,Mind The Map,cpchabert,False,2810,1337,"Paris, France"
+1463936019032543232,This is the only map I'm going to be interacting with for day 25 - interactive map #30DayMapChallenge #DayOff https://t.co/XpvPXZitte,1114069920092966912,2021-11-25 18:22:00+00:00,en,3,4,101,3,TweetDeck,3_1462843953049448451,https://pbs.twimg.com/media/FE0Q0ydXMAM2vvM.jpg,photo, ,Kate,KateEllen100,False,157,311, 
 1463932243597041664,"Accessing England's National Trails by public transport: an interactive map 🚌🚆 explore it here &gt;&gt;&gt; https://t.co/jKt7k7gOUz
 
-#30daymapchallenge #day25 #interactive #rstats #leaflet #arewethereyet https://t.co/flAUgmHgK5",1101617286,2021-11-25 18:07:00+00:00,en,11,0,34,1,Twitter Web App,3_1463931004079554561,https://pbs.twimg.com/media/FFDtffHXwAEooRd.png,photo, ,Helen McKenzie,helenmakesmaps,False,4258,961
-1463931342761168898,"A day late for #day24 of the #30DayMapChallenge, which the theme for was #historicalmaps. I've mapped historical meanders of the #Mississippi river, taking some inspiration from Fisk's classic 1944 meander maps. https://t.co/4jE2KuMWQK",925570614,2021-11-25 18:03:25+00:00,en,30,5,196,3,Twitter Web App,3_1463930720162922505,https://pbs.twimg.com/media/FFDtO9cXwAkyvZr.jpg,photo, ,Heather Chamberlain,HeatherCh100,False,579,922
+#30daymapchallenge #day25 #interactive #rstats #leaflet #arewethereyet https://t.co/flAUgmHgK5",1101617286,2021-11-25 18:07:00+00:00,en,11,0,34,1,Twitter Web App,3_1463931004079554561,https://pbs.twimg.com/media/FFDtffHXwAEooRd.png,photo, ,Helen McKenzie,helenmakesmaps,False,4382,967,London
+1463931342761168898,"A day late for #day24 of the #30DayMapChallenge, which the theme for was #historicalmaps. I've mapped historical meanders of the #Mississippi river, taking some inspiration from Fisk's classic 1944 meander maps. https://t.co/4jE2KuMWQK",925570614,2021-11-25 18:03:25+00:00,en,30,5,201,3,Twitter Web App,3_1463930720162922505,https://pbs.twimg.com/media/FFDtO9cXwAkyvZr.jpg,photo, ,Heather Chamberlain,HeatherCh100,False,601,929, 
 1463931339380510721,"#30DayMapChallenge Day 25: Interactive map
 
 Old vs New District Council boundaries in #Mauritius
 
 Link to interactive map =&gt; https://t.co/zsgcGu6DXe
 
-#Indian #Ocean https://t.co/ZWVPawdIdl",730663860152217600,2021-11-25 18:03:24+00:00,en,1,0,2,0,Twitter Web App,3_1463930922135339011,https://pbs.twimg.com/media/FFDtat2WQAMnTOI.jpg,photo, ,Sylvain POULAIN,GISCAN_LTD,False,208,457
+#Indian #Ocean https://t.co/ZWVPawdIdl",730663860152217600,2021-11-25 18:03:24+00:00,en,1,0,2,0,Twitter Web App,3_1463930922135339011,https://pbs.twimg.com/media/FFDtat2WQAMnTOI.jpg,photo, ,Sylvain POULAIN,GISCAN_LTD,False,209,458,Ile Maurice
 1463930482635251714,"Day #19: Island - 
 
 My island on Animal Crossing: New Horizons 😉
 
-#30DayMapChallenge https://t.co/Fgx4AhLtcb",281310591,2021-11-25 18:00:00+00:00,en,1,1,10,0,Twitter Web App,3_1463739771881234441,https://pbs.twimg.com/media/FFA_kTqXoAkL5pi.jpg,photo, ,Taylor Johnston,TF_Johnston,True,1725,3005
+#30DayMapChallenge https://t.co/Fgx4AhLtcb",281310591,2021-11-25 18:00:00+00:00,en,1,1,11,0,Twitter Web App,3_1463739771881234441,https://pbs.twimg.com/media/FFA_kTqXoAkL5pi.jpg,photo, ,Taylor Johnston,TF_Johnston,True,1734,3013,CLE ➡️ NYC
 1463930037556629512,"#30DayMapChallenge Day 25: Interactive map
-The Castle Dossier Map: A complete web map of castles in Switzerland and neighbouring countries. An interactive, multilingual web app mashing #OpenStreetMap with #Wikidata #WikiCommons (pics) and @Wikipedia https://t.co/OxY4xM8Ggk https://t.co/13vaLNF3MN",15557534,2021-11-25 17:58:14+00:00,en,1,0,4,1,Twitter Web App,3_1463929725903159298,https://pbs.twimg.com/media/FFDsVFiXwAI0jWs.png,photo, ,Stefan Keller,sfkeller,False,1799,302
-1463927340363399169,#30DayMapChallenge Day 25: Interactive Map - Russia's Kontinental Hockey League (KHL) see https://t.co/rO6X2FSJCK if you want to interact with it https://t.co/9JZTjnCSrD,2391754261,2021-11-25 17:47:31+00:00,en,1,0,2,0,Twitter Web App,3_1463926929334095877,https://pbs.twimg.com/media/FFDpyTgWUAUvmY4.jpg,photo, ,🌏Map of the Week,MapOfTheWeek,False,1071,370
+The Castle Dossier Map: A complete web map of castles in Switzerland and neighbouring countries. An interactive, multilingual web app mashing #OpenStreetMap with #Wikidata #WikiCommons (pics) and @Wikipedia https://t.co/OxY4xM8Ggk https://t.co/13vaLNF3MN",15557534,2021-11-25 17:58:14+00:00,en,1,0,4,1,Twitter Web App,3_1463929725903159298,https://pbs.twimg.com/media/FFDsVFiXwAI0jWs.png,photo, ,Stefan Keller,sfkeller,False,1797,302,Switzerland
+1463927340363399169,#30DayMapChallenge Day 25: Interactive Map - Russia's Kontinental Hockey League (KHL) see https://t.co/rO6X2FSJCK if you want to interact with it https://t.co/9JZTjnCSrD,2391754261,2021-11-25 17:47:31+00:00,en,1,0,2,0,Twitter Web App,3_1463926929334095877,https://pbs.twimg.com/media/FFDpyTgWUAUvmY4.jpg,photo, ,🌏Map of the Week,MapOfTheWeek,False,1076,370,"Arlington, MA"
 1463926456204111874,"Where are the worlds submarine cables?
  Day 25 of the #30DayMapChallenge - Interactive - It is not interactive but here is a link to the source (https://t.co/Uiera0GV5k). 
-Made with #Python using #matplotlib and #Numpy. #DataScience #DataVisualization #Map #data #DataScientist https://t.co/Y1vhkZhDdN",1349110409215795204,2021-11-25 17:44:00+00:00,en,14,0,39,0,Twitter Web App,3_1463892890019667973,https://pbs.twimg.com/media/FFDK09LXoAUg3hK.jpg,photo, ,Python Maps,PythonMaps,False,5814,2680
+Made with #Python using #matplotlib and #Numpy. #DataScience #DataVisualization #Map #data #DataScientist https://t.co/Y1vhkZhDdN",1349110409215795204,2021-11-25 17:44:00+00:00,en,14,0,44,0,Twitter Web App,3_1463892890019667973,https://pbs.twimg.com/media/FFDK09LXoAUg3hK.jpg,photo, ,Python Maps,PythonMaps,False,5913,2678,Planet Earth
 1463926204436598784,"Day 25: InteractiveMap | #30DayMapChallenge
-I know GIF's are not interactive maps but this year there is no ""GIF"" category, so I wanted to share you something I have made while the COVID-19 crisis last year. https://t.co/Xy7o5ECnSE",1263997606759403520,2021-11-25 17:43:00+00:00,en,1,1,4,0,Twitter Web App,7_1463925953797701633,https://pbs.twimg.com/ext_tw_video_thumb/1463925953797701633/pu/img/zekH3I-wq7momyzS.jpg,video, ,Sebastián Estremo,S_Estremo,False,278,126
+I know GIF's are not interactive maps but this year there is no ""GIF"" category, so I wanted to share you something I have made while the COVID-19 crisis last year. https://t.co/Xy7o5ECnSE",1263997606759403520,2021-11-25 17:43:00+00:00,en,1,1,4,0,Twitter Web App,7_1463925953797701633,https://pbs.twimg.com/ext_tw_video_thumb/1463925953797701633/pu/img/zekH3I-wq7momyzS.jpg,video, ,Sebastián Estremo,S_Estremo,False,288,128, 
 1463923395700183050,"#30DayMapChallenge
 Day 25 - Interactive Map
 
 An interactive map with {leaflet} presenting the results of the municipal election 2020 in each district in Cologne (Köln). You can switch between 3 layers - the election of the city council, district council, and mayor.
 
-#rstats https://t.co/x5mR23wrQB",1139059532,2021-11-25 17:31:50+00:00,en,4,1,5,0,Twitter Web App,16_1463917669065887755,https://pbs.twimg.com/tweet_video_thumb/FFDhXSUXEAsQxXj.jpg,animated_gif, ,Ansgar Wolsing,_ansgar,False,367,1014
+#rstats https://t.co/x5mR23wrQB",1139059532,2021-11-25 17:31:50+00:00,en,3,1,5,0,Twitter Web App,16_1463917669065887755,https://pbs.twimg.com/tweet_video_thumb/FFDhXSUXEAsQxXj.jpg,animated_gif, ,Ansgar Wolsing,_ansgar,False,380,1021,"Köln, Deutschland"
 1463919567793762306,"🌎Interactive. Urban agglomerations viewer.
 It is just nice to be hanging around checking the names and population of the world cities🤓
 🏙️Demo here: 
 https://t.co/lF13zaXFAQ 
 🧐Tutorial: https://t.co/ggX34p9OZh @TDataScience 
-#leaflet #UnitedNations #30DayMapChallenge https://t.co/OsIyX5a4Xc",1679103806,2021-11-25 17:16:37+00:00,en,1,0,15,0,Twitter Web App,16_1463918342851506185,https://pbs.twimg.com/tweet_video_thumb/FFDh-gXXsAkwaSo.jpg,animated_gif, ,Bryan R. Vallejo,BryanRVallejo,False,157,251
+#leaflet #UnitedNations #30DayMapChallenge https://t.co/OsIyX5a4Xc",1679103806,2021-11-25 17:16:37+00:00,en,1,0,16,0,Twitter Web App,16_1463918342851506185,https://pbs.twimg.com/tweet_video_thumb/FFDh-gXXsAkwaSo.jpg,animated_gif, ,Bryan R. Vallejo,BryanRVallejo,False,165,253,"Helsinki, Finland"
 1463917325850136589,"21. ONCE IN A LIFETIME
 
 Can you measure a life in movement? Ethically not great, but technically sure could. Would be neat to see the comparable spurts of energy, from early PACER exams to late life layabouts. Compare an athlete to a writer, etc.
 
-Movement – #30DayMapChallenge https://t.co/n8xTRQHCH4",481724987,2021-11-25 17:07:43+00:00,en,1,1,5,0,Twitter Web App,3_1463915851950829570,https://pbs.twimg.com/media/FFDfthCXsAITKHa.jpg,photo, ,Dylan Moriarty,DylanMoriarty,True,1832,1339
+Movement – #30DayMapChallenge https://t.co/n8xTRQHCH4",481724987,2021-11-25 17:07:43+00:00,en,1,1,5,0,Twitter Web App,3_1463915851950829570,https://pbs.twimg.com/media/FFDfthCXsAITKHa.jpg,photo, ,Dylan Moriarty,DylanMoriarty,True,1833,1337,Wisconsin
 1463915775719354372,"20. PLATEAUS OF PEOPLE
 
 Denver is famously the 'mile high city', but it's hard to see that given elevation occurs smoothly. Let's break that by averaging it out by urban voronoi's, making vast plateau's. Maybe good for a board game perhaps. 
 
-Elevation – #30DayMapChallenge https://t.co/QtsRcygNCy",481724987,2021-11-25 17:01:33+00:00,en,1,1,2,1,Twitter Web App,3_1463915061165056005,https://pbs.twimg.com/media/FFDe_fIWYAUa2on.jpg,photo, ,Dylan Moriarty,DylanMoriarty,True,1832,1339
+Elevation – #30DayMapChallenge https://t.co/QtsRcygNCy",481724987,2021-11-25 17:01:33+00:00,en,1,1,2,1,Twitter Web App,3_1463915061165056005,https://pbs.twimg.com/media/FFDe_fIWYAUa2on.jpg,photo, ,Dylan Moriarty,DylanMoriarty,True,1833,1337,Wisconsin
 1463915394222235648,"Day #18: Water -
 
 Bathymetry contours of Lake Erie and Lake Saint Clair with data from @NOAA 
 
-#30DayMapChallenge https://t.co/T63tNS05Vc",281310591,2021-11-25 17:00:02+00:00,en,1,1,9,0,Twitter Web App,3_1463736991191900161,https://pbs.twimg.com/media/FFA9CcyXoAER6i7.png,photo, ,Taylor Johnston,TF_Johnston,True,1725,3005
+#30DayMapChallenge https://t.co/T63tNS05Vc",281310591,2021-11-25 17:00:02+00:00,en,1,1,9,0,Twitter Web App,3_1463736991191900161,https://pbs.twimg.com/media/FFA9CcyXoAER6i7.png,photo, ,Taylor Johnston,TF_Johnston,True,1734,3013,CLE ➡️ NYC
 1463915236315082760,"#30DayMapChallenge Day 25 - Interactive map
 A #GEE app shows precipitation and actual evapotranspiration time series for a pixel.
 #OpenData: #GPM, #FAO #WaPOR, #ESA #WorldCover
 App: https://t.co/FxjzzULYUc
-Based on free tutorial at @GISOCW by @spareeth: https://t.co/qLnqBqz2GJ https://t.co/0eUt0Y5C33",760094405369946112,2021-11-25 16:59:25+00:00,en,11,0,45,0,Twitter Web App,16_1463912440446529547,https://pbs.twimg.com/tweet_video_thumb/FFDcm8MXMAsphjj.jpg,animated_gif, ,Hans van der Kwast,hansakwast,False,4221,1317
+Based on free tutorial at @GISOCW by @spareeth: https://t.co/qLnqBqz2GJ https://t.co/0eUt0Y5C33",760094405369946112,2021-11-25 16:59:25+00:00,en,12,0,46,0,Twitter Web App,16_1463912440446529547,https://pbs.twimg.com/tweet_video_thumb/FFDcm8MXMAsphjj.jpg,animated_gif, ,Hans van der Kwast,hansakwast,False,4230,1320,The Netherlands
 1463914144114040842,"25. 'Interactive map'
 
 Today's entry for the #30DayMapChallenge displays light pollution in Wales, with data from @eogatpayne @NOAA and @coschoolofmines.
@@ -272,7 +272,7 @@ https://t.co/XSkG3Vlr2M
 
 Thanks to our #GIS team for assembling this wonderful resource!
 
-@Esri @esriuk #GISchat #maps #UK https://t.co/eOfNvzzE9q",2295951570,2021-11-25 16:55:04+00:00,en,1,0,3,0,Hootsuite Inc.,3_1463914143103258627,https://pbs.twimg.com/media/FFDeKDFXEAMBqiK.png,photo, ,LUC,LUCtweeting,False,3639,874
+@Esri @esriuk #GISchat #maps #UK https://t.co/eOfNvzzE9q",2295951570,2021-11-25 16:55:04+00:00,en,1,0,3,0,Hootsuite Inc.,3_1463914143103258627,https://pbs.twimg.com/media/FFDeKDFXEAMBqiK.png,photo, ,LUC,LUCtweeting,False,3648,874,United Kingdom
 1463910126763622403,"Création d'une petite appli #RStats Shiny sur l'artificialisation, de A à Z 🔨🪛
 
 ▶️Explications : https://t.co/XZuf8wWWqJ
@@ -282,15 +282,15 @@ Thanks to our #GIS team for assembling this wonderful resource!
 Atelier #Dataviz #Geodataviz du mois de l'Inno. Pub. du @CeremaCom
 
 #ZAN #dataviz 
-#30DayMapChallenge Day 25. Interactive https://t.co/sZwUqIFmZF",488000929,2021-11-25 16:39:07+00:00,fr,6,2,24,0,Twitter Web App,16_1463908229323309072,https://pbs.twimg.com/tweet_video_thumb/FFDYx0iWQBAV-2Z.jpg,animated_gif, ,mathieu rajerison,datagistips,False,1845,837
+#30DayMapChallenge Day 25. Interactive https://t.co/sZwUqIFmZF",488000929,2021-11-25 16:39:07+00:00,fr,7,2,26,0,Twitter Web App,16_1463908229323309072,https://pbs.twimg.com/tweet_video_thumb/FFDYx0iWQBAV-2Z.jpg,animated_gif, ,mathieu rajerison,datagistips,False,1847,837,"Aix-en-Provence, France"
 1463905004905926659,"#30DayMapChallenge 
 Day 25 - Interactive Map
 My youngest putting together a map puzzle 🥰
 
-Happy Thanksgiving everyone! https://t.co/vHzEYpPiIz",748038863206088704,2021-11-25 16:18:45+00:00,en,0,1,3,0,Twitter Web App,7_1463904959498391557,https://pbs.twimg.com/ext_tw_video_thumb/1463904959498391557/pu/img/kWPPvYKvbJEYJjGB.jpg,video, ,Shannon Gonzales 🐙(she/her),yavannie24,False,556,1000
+Happy Thanksgiving everyone! https://t.co/vHzEYpPiIz",748038863206088704,2021-11-25 16:18:45+00:00,en,0,1,3,0,Twitter Web App,7_1463904959498391557,https://pbs.twimg.com/ext_tw_video_thumb/1463904959498391557/pu/img/kWPPvYKvbJEYJjGB.jpg,video, ,Shannon Gonzales 🐙(she/her),yavannie24,False,558,1000,"Sacramento, CA"
 1463902426851954692,"En su momento, la Nueva España tuvo una extensión de 7 657 000 km². Actualmente abarca los territorios de siete países: 🇨🇷, 🇳🇮,🇸🇻,🇭🇳,🇸🇻, 🇬🇹, 🇺🇸 y 🇲🇽. 
 
-Para este #30DayMapChallenge de mapas históricos, va un mapa con info de la William M. Scholl Center. https://t.co/2L18P4RCPc",883380487049302016,2021-11-25 16:08:31+00:00,es,1,0,6,0,Twitter Web App,3_1463901910977634320,https://pbs.twimg.com/media/FFDTCC3WYBAISAg.jpg,photo, ,Raúl Castellanos,rulocastellanos,False,954,1277
+Para este #30DayMapChallenge de mapas históricos, va un mapa con info de la William M. Scholl Center. https://t.co/2L18P4RCPc",883380487049302016,2021-11-25 16:08:31+00:00,es,1,0,6,0,Twitter Web App,3_1463901910977634320,https://pbs.twimg.com/media/FFDTCC3WYBAISAg.jpg,photo, ,Raúl Castellanos,rulocastellanos,False,955,1276,México
 1463902382597750795,"#30DayMapChallenge 
 Day 25: Interactive
 
@@ -298,38 +298,38 @@ Today is International Day for the Elimination of Violence against Women. Each �
 
 https://t.co/EZkqf8eack
 @UN_Women
-1/3 https://t.co/4NfgYZH9Yl",233748559,2021-11-25 16:08:20+00:00,en,3,2,21,0,Twitter Web App,16_1463898503743164424,https://pbs.twimg.com/tweet_video_thumb/FFDP7t7WUAgXwjD.jpg,animated_gif, ,Lorena Abad,loreabad6,False,1242,924
-1463902153811103752,Day 25 (interactive map) #30DayMapChallenge: Traffic accidents in Estonia (2011-2020) in daylight and dark time. Data: Estonian Transport Administration via Estonian Open Data Portal. Interactive map created with https://t.co/Khm7X7yi7S. Explore more: https://t.co/ncFFACkHlR https://t.co/tRfXMFQ4xQ,34737662,2021-11-25 16:07:26+00:00,en,1,0,6,0,Twitter Web App,3_1463901360693329920,https://pbs.twimg.com/media/FFDSiA5WQAAZBER.jpg,photo, ,Positium,positium,False,471,335
+1/3 https://t.co/4NfgYZH9Yl",233748559,2021-11-25 16:08:20+00:00,en,3,2,21,0,Twitter Web App,16_1463898503743164424,https://pbs.twimg.com/tweet_video_thumb/FFDP7t7WUAgXwjD.jpg,animated_gif, ,Lorena Abad,loreabad6,False,1247,927,"Salzburg, Austria"
+1463902153811103752,Day 25 (interactive map) #30DayMapChallenge: Traffic accidents in Estonia (2011-2020) in daylight and dark time. Data: Estonian Transport Administration via Estonian Open Data Portal. Interactive map created with https://t.co/Khm7X7yi7S. Explore more: https://t.co/ncFFACkHlR https://t.co/tRfXMFQ4xQ,34737662,2021-11-25 16:07:26+00:00,en,1,0,7,0,Twitter Web App,3_1463901360693329920,https://pbs.twimg.com/media/FFDSiA5WQAAZBER.jpg,photo, ,Positium,positium,False,477,335,"Soola 8, Tartu, Estonia"
 1463901994716995586,"#30DayMapChallenge Day 25:  Interactive Map
-East Anglia flood defenses infrastructure as Day 8: Blue. The web scene link in Reply allows you to fly around freehand... Or follow the bookmarks along the bottom from L to R to get a guided tour of the Fenlands waterways! https://t.co/Hfr3EQ4DmO",25663399,2021-11-25 16:06:48+00:00,en,1,1,2,0,Twitter Web App,3_1463901703661621252,https://pbs.twimg.com/media/FFDS1-jXEAQs3Ek.jpg,photo, ,Andrew Zolnai,azolnai,False,919,1526
-1463900944438108162,#30DayMapChallenge une carte (presque) interactive https://t.co/fjjA97KmPZ,1189967197730430977,2021-11-25 16:02:37+00:00,fr,1,0,2,0,Twitter for Android,3_1463900934078144523,https://pbs.twimg.com/media/FFDSJLoXIAsa2qJ.jpg,photo, ,Julien Dupont Kobri,Kartokobri,False,877,387
+East Anglia flood defenses infrastructure as Day 8: Blue. The web scene link in Reply allows you to fly around freehand... Or follow the bookmarks along the bottom from L to R to get a guided tour of the Fenlands waterways! https://t.co/Hfr3EQ4DmO",25663399,2021-11-25 16:06:48+00:00,en,1,1,2,0,Twitter Web App,3_1463901703661621252,https://pbs.twimg.com/media/FFDS1-jXEAQs3Ek.jpg,photo, ,Andrew Zolnai,azolnai,False,921,1529,"Cambridge, UK"
+1463900944438108162,#30DayMapChallenge une carte (presque) interactive https://t.co/fjjA97KmPZ,1189967197730430977,2021-11-25 16:02:37+00:00,fr,1,0,2,0,Twitter for Android,3_1463900934078144523,https://pbs.twimg.com/media/FFDSJLoXIAsa2qJ.jpg,photo, ,Julien Dupont Kobri,Kartokobri,False,880,387, 
 1463900676136787969,"#30DayMapChallenge 
 Day 25 - interactive map
 
 Churches by cult in Romania
 
 https://t.co/V8bLDX1RtP via 
-@unfoldedinc https://t.co/ksQShmb2NX",1453765598341705729,2021-11-25 16:01:33+00:00,en,2,0,7,0,Twitter Web App,3_1463900426634469379,https://pbs.twimg.com/media/FFDRrpQXIAMYCG4.jpg,photo, ,Alexandru Frantiuc,CompleteMaps,False,28,25
+@unfoldedinc https://t.co/ksQShmb2NX",1453765598341705729,2021-11-25 16:01:33+00:00,en,5,0,14,0,Twitter Web App,3_1463900426634469379,https://pbs.twimg.com/media/FFDRrpQXIAMYCG4.jpg,photo, ,Alexandru Frantiuc,CompleteMaps,False,37,31, 
 1463900295306661896,"Day #17: Land - 
 
 Ohio's terrestrial ecosystem coverage with data from @USGS 
 
-#30DayMapChallenge https://t.co/J0WZCOn7c2",281310591,2021-11-25 16:00:03+00:00,en,1,0,3,0,Twitter Web App,3_1463736713528987648,https://pbs.twimg.com/media/FFA8ySaX0AAYIga.jpg,photo, ,Taylor Johnston,TF_Johnston,True,1725,3005
+#30DayMapChallenge https://t.co/J0WZCOn7c2",281310591,2021-11-25 16:00:03+00:00,en,1,0,3,0,Twitter Web App,3_1463736713528987648,https://pbs.twimg.com/media/FFA8ySaX0AAYIga.jpg,photo, ,Taylor Johnston,TF_Johnston,True,1734,3013,CLE ➡️ NYC
 1463900293578563595,"#30DayMapChallenge Mapa de Movilidad de Turistas Nacionales en función de las rentas de origen y destino obtenido mediante Análisis de Datos, Análisis de Patrones y Sistemas de Información Geoespaciales.
 
-#GIS #Turismo #geografia #teledeteccion #maps @30daymap_tweets https://t.co/89X8ez1WmV",846732445823258625,2021-11-25 16:00:02+00:00,es,0,0,2,0,Twitter Web App,3_1463850082491637766,https://pbs.twimg.com/media/FFCj5OtXIAY4a8M.jpg,photo, ,GIS4tech,GIS4tech_UGR,False,299,437
+#GIS #Turismo #geografia #teledeteccion #maps @30daymap_tweets https://t.co/89X8ez1WmV",846732445823258625,2021-11-25 16:00:02+00:00,es,0,1,2,0,Twitter Web App,3_1463850082491637766,https://pbs.twimg.com/media/FFCj5OtXIAY4a8M.jpg,photo, ,GIS4tech,GIS4tech_UGR,False,299,437,Pdsta. Fdo Gómez de la Cruz 61
 1463899804820463625,"#30DayMapChallenge  25: Interractive Map
 2020 St Louis Homicides in clusters
 https://t.co/uzCHgfwVdk
-#rspatial #rstats @markdonovan2020 https://t.co/Pf0b4Jzb9m",3094607959,2021-11-25 15:58:06+00:00,en,2,0,1,0,Twitter Web App,3_1463899775137468421,https://pbs.twimg.com/media/FFDRFuPX0AUszZg.jpg,photo, ,donojazz,donojazz62220,False,14,225
+#rspatial #rstats @markdonovan2020 https://t.co/Pf0b4Jzb9m",3094607959,2021-11-25 15:58:06+00:00,en,2,0,1,0,Twitter Web App,3_1463899775137468421,https://pbs.twimg.com/media/FFDRFuPX0AUszZg.jpg,photo, ,donojazz,donojazz62220,False,15,225,USA
 1463896755737665543,"#30DayMapChallenge Day 25. Interactive map
 For my PhD project, I created this app to record the temporalities associated with each archaeological site in the @TheEES database.
-I used @official_php, @PostgreSQL, @postgis,  @getbootstrap (for styling) and @alwaysdata (host). https://t.co/Xe5cjdf5NE",23676785,2021-11-25 15:45:59+00:00,en,0,0,3,0,Twitter Web App,7_1463894799870836741,https://pbs.twimg.com/ext_tw_video_thumb/1463894799870836741/pu/img/FNRPjPaQDPn2sdgl.jpg,video, ,(っ◔◡◔)っ ★,ishiba,False,632,739
+I used @official_php, @PostgreSQL, @postgis,  @getbootstrap (for styling) and @alwaysdata (host). https://t.co/Xe5cjdf5NE",23676785,2021-11-25 15:45:59+00:00,en,0,0,3,0,Twitter Web App,7_1463894799870836741,https://pbs.twimg.com/ext_tw_video_thumb/1463894799870836741/pu/img/FNRPjPaQDPn2sdgl.jpg,video, ,(っ◔◡◔)っ ★,ishiba,False,634,741,"↲, cerca de Slumil K’ajxemk’op"
 1463895149424087047,"#30daymapchallenge
 
 Day 25: Interactive Map
 
-https://t.co/66lOwraIy5 https://t.co/ufyMh9a2y1",1255575072301088770,2021-11-25 15:39:36+00:00,en,1,0,1,0,Twitter Web App,3_1463895095489581063,https://pbs.twimg.com/media/FFDM1VMX0Acs8T4.jpg,photo, ,GIS-E,GISE50189808,False,57,21
+https://t.co/66lOwraIy5 https://t.co/ufyMh9a2y1",1255575072301088770,2021-11-25 15:39:36+00:00,en,1,0,1,0,Twitter Web App,3_1463895095489581063,https://pbs.twimg.com/media/FFDM1VMX0Acs8T4.jpg,photo, ,GIS-E,GISE50189808,False,57,21,"London, UK"
 1463894595113259018,"Day 25: Interactive #30DayMapChallenge 
 
 US Bikeshare trends maps showing 2019 and 2020 data side by side for easy comparison. The trend clearly shows a lower number of trips being made in 2020 for all cities.
@@ -337,263 +337,256 @@ US Bikeshare trends maps showing 2019 and 2020 data side by side for easy compar
 Check out our interactive maps here:
 https://t.co/XZCaZKxm8r
 
-1/2 https://t.co/6436C5zYlW",793464945971257350,2021-11-25 15:37:23+00:00,en,2,1,3,0,Twitter Web App,3_1463893376059817984,https://pbs.twimg.com/media/FFDLRP0XwAAaH3K.jpg,photo, ,Design for Movement,Steer_DfM,False,323,115
+1/2 https://t.co/6436C5zYlW",793464945971257350,2021-11-25 15:37:23+00:00,en,2,1,3,0,Twitter Web App,3_1463893376059817984,https://pbs.twimg.com/media/FFDLRP0XwAAaH3K.jpg,photo, ,Design for Movement,Steer_DfM,False,326,115,"Europe, N.America, LATAM, Asia"
 1463892734918463493,"#30DayMapChallenge - Día XXIV
 Historia de las migraciones
-Santa Cruz de la Palma fue uno de los puertos de salida migrante hacia América entre ssXIX-XX, es la capital de la isla del volcán que hoy está en erupción https://t.co/o66h9csSZd",601582057,2021-11-25 15:30:00+00:00,es,1,0,2,0,Twitter Web App,3_1463889463831154694,https://pbs.twimg.com/media/FFDHthoX0AYs4k0.jpg,photo, ,Sr Miguelo,MiguE_garva,False,337,525
+Santa Cruz de la Palma fue uno de los puertos de salida migrante hacia América entre ssXIX-XX, es la capital de la isla del volcán que hoy está en erupción https://t.co/o66h9csSZd",601582057,2021-11-25 15:30:00+00:00,es,1,0,2,0,Twitter Web App,3_1463889463831154694,https://pbs.twimg.com/media/FFDHthoX0AYs4k0.jpg,photo, ,Sr Miguelo,MiguE_garva,False,339,526,tu corazón
 1463891304795017226,"#30DayMapChallenge Día 25. Interactive
 Mapa interactivo de Marsella y las centralidades urbanas del sur de Francia.
 Fuente: https://t.co/Lxq8MbTuRP
 Instagram: dataurbana
-#DataUrbana #SocialDataScience #UrbanDataScience #SpatialDataScience #dataviz #python @tjukanov https://t.co/WXkMC14fcv",1270981983842287616,2021-11-25 15:24:19+00:00,es,1,0,2,0,Twitter Web App,7_1463891251086958600,https://pbs.twimg.com/ext_tw_video_thumb/1463891251086958600/pu/img/KMzpMP14GL5h-ihn.jpg,video, ,DataUrbana,Data_Urbana,False,76,167
+#DataUrbana #SocialDataScience #UrbanDataScience #SpatialDataScience #dataviz #python @tjukanov https://t.co/WXkMC14fcv",1270981983842287616,2021-11-25 15:24:19+00:00,es,2,0,2,0,Twitter Web App,7_1463891251086958600,https://pbs.twimg.com/ext_tw_video_thumb/1463891251086958600/pu/img/KMzpMP14GL5h-ihn.jpg,video, ,DataUrbana,Data_Urbana,False,78,167,Barcelona
 1463890053206212614,"#30DayMapChallenge Day 25: Interactive map
-""Puzzled Globe"" [still] https://t.co/S19NJn9ZYV",20668314,2021-11-25 15:19:21+00:00,en,1,1,60,2,Twitter for Android,3_1463890051390009348,https://pbs.twimg.com/media/FFDIPudUcAQOP_g.jpg,photo, ,Kenneth Field,kennethfield,False,15894,99
+""Puzzled Globe"" [still] https://t.co/S19NJn9ZYV",20668314,2021-11-25 15:19:21+00:00,en,1,1,60,2,Twitter for Android,3_1463890051390009348,https://pbs.twimg.com/media/FFDIPudUcAQOP_g.jpg,photo, ,Kenneth Field,kennethfield,False,15921,99,"Front room, Redlands CA"
 1463889811106713601,"#30DayMapChallenge Day 25: Interactive map
-""Puzzled Globe"" https://t.co/9azXcPuExd",20668314,2021-11-25 15:18:23+00:00,en,1,0,11,0,Twitter for Android,7_1463889752982114307,https://pbs.twimg.com/ext_tw_video_thumb/1463889752982114307/pu/img/M-bIHIHsMUZTb46d.jpg,video, ,Kenneth Field,kennethfield,False,15894,99
-1463888082936209411,#30DayMapChallenge #Day24 Interactive Map - Hospital locations and number of beds - my first time attempt ever in https://t.co/fseUewyvHP - please don't judge me - Data:https://t.co/vDVYBxn7my  S: https://t.co/hMhGh6fLSf - 6days2go https://t.co/mbIKgMQflC,2574612668,2021-11-25 15:11:31+00:00,en,1,1,3,0,Twitter Web App,3_1463886460042596360,https://pbs.twimg.com/media/FFDE-rpX0AgtN_o.jpg,photo, ,hannes reuter,hireuter,False,289,601
-1463885436040925194,"#30DayMapChallenge day 25 - interactive. I've created a fully interactive - complete with working volcanoes, glaciers and surrounding bathymetry - Minecraft map of Iceland. https://t.co/PdXmOYkMrk",798523409286266880,2021-11-25 15:01:00+00:00,en,4,2,33,1,Twitter for Android,3_1463885404483067909,https://pbs.twimg.com/media/FFDEBPYXoAUmA9g.jpg,photo, ,Dan Harris,DiasporaDan,False,1223,1854
+""Puzzled Globe"" https://t.co/9azXcPuExd",20668314,2021-11-25 15:18:23+00:00,en,1,0,11,0,Twitter for Android,7_1463889752982114307,https://pbs.twimg.com/ext_tw_video_thumb/1463889752982114307/pu/img/M-bIHIHsMUZTb46d.jpg,video, ,Kenneth Field,kennethfield,False,15921,99,"Front room, Redlands CA"
+1463888082936209411,#30DayMapChallenge #Day24 Interactive Map - Hospital locations and number of beds - my first time attempt ever in https://t.co/fseUewyvHP - please don't judge me - Data:https://t.co/vDVYBxn7my  S: https://t.co/hMhGh6fLSf - 6days2go https://t.co/mbIKgMQflC,2574612668,2021-11-25 15:11:31+00:00,en,1,1,3,0,Twitter Web App,3_1463886460042596360,https://pbs.twimg.com/media/FFDE-rpX0AgtN_o.jpg,photo, ,hannes reuter,hireuter,False,290,601, 
+1463885436040925194,"#30DayMapChallenge day 25 - interactive. I've created a fully interactive - complete with working volcanoes, glaciers and surrounding bathymetry - Minecraft map of Iceland. https://t.co/PdXmOYkMrk",798523409286266880,2021-11-25 15:01:00+00:00,en,4,2,33,1,Twitter for Android,3_1463885404483067909,https://pbs.twimg.com/media/FFDEBPYXoAUmA9g.jpg,photo, ,Dan Harris,DiasporaDan,False,1229,1857,"Grantown-on-Spey, Scotland"
 1463885186291011587,"Day #16: Urban -
 
 Used OpenStreetMap to show the top 5 urban cities in the U.S. 
 
-#30DayMapChallenge https://t.co/xT1eOokvAG",281310591,2021-11-25 15:00:00+00:00,en,1,0,4,0,Twitter Web App,3_1463735050198040579,https://pbs.twimg.com/media/FFA7ReBXwAMhdTZ.png,photo, ,Taylor Johnston,TF_Johnston,True,1725,3005
+#30DayMapChallenge https://t.co/xT1eOokvAG",281310591,2021-11-25 15:00:00+00:00,en,1,0,4,0,Twitter Web App,3_1463735050198040579,https://pbs.twimg.com/media/FFA7ReBXwAMhdTZ.png,photo, ,Taylor Johnston,TF_Johnston,True,1734,3013,CLE ➡️ NYC
 1463883049020579852,"#30DayMapChallenge Day 24: Historical
-Catching up with the challenge. This is a map series of 16th century Mexico City after the Uppsala Map. This was part of my Licenciatura thesis; I wrote it 12 years ago and it can be downloaded here https://t.co/TDh9GNend8. https://t.co/NhCJvWkLND",23676785,2021-11-25 14:51:31+00:00,en,0,0,2,0,Twitter Web App,3_1463881300536872960,https://pbs.twimg.com/media/FFDASW_WUAAfEv4.jpg,photo, ,(っ◔◡◔)っ ★,ishiba,False,632,739
+Catching up with the challenge. This is a map series of 16th century Mexico City after the Uppsala Map. This was part of my Licenciatura thesis; I wrote it 12 years ago and it can be downloaded here https://t.co/TDh9GNend8. https://t.co/NhCJvWkLND",23676785,2021-11-25 14:51:31+00:00,en,0,0,2,0,Twitter Web App,3_1463881300536872960,https://pbs.twimg.com/media/FFDASW_WUAAfEv4.jpg,photo, ,(っ◔◡◔)っ ★,ishiba,False,634,741,"↲, cerca de Slumil K’ajxemk’op"
 1463880690471157765,"#30DayMapChallenge Day 25 - Interactive
 
 Explore the Marine Incidents map from day 1 at https://t.co/5Pl2X418zK
-online covers all of Canada and Canadian Vessels around the world. https://t.co/F8pwJTpSO4",21537132,2021-11-25 14:42:08+00:00,en,1,2,7,0,TweetDeck,3_1463880400955129857,https://pbs.twimg.com/media/FFC_d_yWQAESADE.jpg,photo, ,HalifaxShippingNews,HfxShippingNews,False,4877,1278
+online covers all of Canada and Canadian Vessels around the world. https://t.co/F8pwJTpSO4",21537132,2021-11-25 14:42:08+00:00,en,1,2,7,0,TweetDeck,3_1463880400955129857,https://pbs.twimg.com/media/FFC_d_yWQAESADE.jpg,photo, ,HalifaxShippingNews,HfxShippingNews,False,4879,1278,"Halifax, NS"
 1463878641318711297,"Day 25: Interactive map
 
-My cartographic party trick is georeferencing old aerial photos and making comparison visualizations with them. Here's part of downtown #Montreal in 1947 and 2020, bracketing a significant bout of redevelopment. #30DayMapChallenge https://t.co/FVBTe8yBYt https://t.co/DbJBEmzYxO",278873782,2021-11-25 14:34:00+00:00,en,2,1,27,1,Twitter Web App,3_1463731374809042952,https://pbs.twimg.com/media/FFA37iIWUAgnT6R.jpg,photo, ,Map/,vtcraghead,False,3747,915
-1463878604820041729,#30DayMapChallenge Day 30 (Metamapping). Another literal interpretation looking at the number of facebook (meta) users in each country. https://t.co/DJtAh5dPtv,963902391643967488,2021-11-25 14:33:51+00:00,en,1,0,1,0,Twitter Web App,3_1463878432874455048,https://pbs.twimg.com/media/FFC9rcHWYAg_Z8z.jpg,photo, ,Nicola Rennie,nrennie35,False,891,705
+My cartographic party trick is georeferencing old aerial photos and making comparison visualizations with them. Here's part of downtown #Montreal in 1947 and 2020, bracketing a significant bout of redevelopment. #30DayMapChallenge https://t.co/FVBTe8yBYt https://t.co/DbJBEmzYxO",278873782,2021-11-25 14:34:00+00:00,en,2,1,27,1,Twitter Web App,3_1463731374809042952,https://pbs.twimg.com/media/FFA37iIWUAgnT6R.jpg,photo, ,Map/,vtcraghead,False,3752,916,"Burlington, VT"
+1463878604820041729,#30DayMapChallenge Day 30 (Metamapping). Another literal interpretation looking at the number of facebook (meta) users in each country. https://t.co/DJtAh5dPtv,963902391643967488,2021-11-25 14:33:51+00:00,en,1,0,2,0,Twitter Web App,3_1463878432874455048,https://pbs.twimg.com/media/FFC9rcHWYAg_Z8z.jpg,photo, ,Nicola Rennie,nrennie35,False,901,713,United Kingdom
 1463878389572546560,"Was I too lazy to pick a new dataset for this tool? Yes.
 Am I happier with the output for todays map? Also yes.
 #30DayMapChallenge Day 25: Interactive map made in kepler (screenshot below) with NOAA data
-https://t.co/kgoR5BkmcT https://t.co/N2vytgdqSe",579246246,2021-11-25 14:33:00+00:00,en,1,0,4,0,Twitter Web App,3_1463650657550934018,https://pbs.twimg.com/media/FE_uhK6XIAITwqg.jpg,photo, ,cas 🌎,cas_maps,False,220,1148
+https://t.co/kgoR5BkmcT https://t.co/N2vytgdqSe",579246246,2021-11-25 14:33:00+00:00,en,1,0,4,0,Twitter Web App,3_1463650657550934018,https://pbs.twimg.com/media/FE_uhK6XIAITwqg.jpg,photo, ,cas 🌎,cas_maps,False,223,1150, 
 1463877296511664131,"(A day late, but) #30DayMapChallenge day 24 #Historical - repeat of a map I used to do as an example with students: locations mentioned in It's Grim Up North, by The Justified Ancients of Mu Mu - released 30 years ago last month
 
-https://t.co/NFRyqxpRea https://t.co/jcWdoiCyeq",252519639,2021-11-25 14:28:39+00:00,en,1,0,4,0,TweetDeck,3_1463876848438362113,https://pbs.twimg.com/media/FFC8PNoWQAEmG8w.jpg,photo, ,Oliver Duke-Williams,oliver_dw,False,1042,1706
-1463876422058057735,#30DayMapChallenge Day 29 (Null). Finally made an isochrone map showing how far you can walk from Glasgow Central within 30 minutes. https://t.co/TDZWCZZ0BH,963902391643967488,2021-11-25 14:25:11+00:00,en,1,1,2,0,Twitter Web App,3_1463876054657941510,https://pbs.twimg.com/media/FFC7hAkWQAYKyua.jpg,photo, ,Nicola Rennie,nrennie35,False,891,705
+https://t.co/NFRyqxpRea https://t.co/jcWdoiCyeq",252519639,2021-11-25 14:28:39+00:00,en,1,0,4,0,TweetDeck,3_1463876848438362113,https://pbs.twimg.com/media/FFC8PNoWQAEmG8w.jpg,photo, ,Oliver Duke-Williams,oliver_dw,False,1047,1706,London
+1463876422058057735,#30DayMapChallenge Day 29 (Null). Finally made an isochrone map showing how far you can walk from Glasgow Central within 30 minutes. https://t.co/TDZWCZZ0BH,963902391643967488,2021-11-25 14:25:11+00:00,en,1,1,2,0,Twitter Web App,3_1463876054657941510,https://pbs.twimg.com/media/FFC7hAkWQAYKyua.jpg,photo, ,Nicola Rennie,nrennie35,False,901,713,United Kingdom
 1463876246547402758,"#30DayMapChallenge, día 25: Mapa interactivo
 
 En #ColombiaEnMapas puedes conocer la Red Geodésica Nacional, donde es posible descargar la posición de la estación seleccionada, ver una fotografía de la misma y obtener los ficheros RINEX.
 
-👉🏻 https://t.co/RkuuvyGs1h https://t.co/29A4QQSkEo",124492052,2021-11-25 14:24:29+00:00,es,3,0,4,0,Twitter Web App,3_1463876120063918083,https://pbs.twimg.com/media/FFC7k0OWQAMZMz4.jpg,photo, ,Instituto Geográfico Agustín Codazzi - IGAC,igacColombia,True,62883,2159
-1463875766391820293,#30DayMapChallenge Day 28 (Not Flat). An alternative map of the elevation data of Glen Coe and Ben Nevis from Day 21. https://t.co/esRd8sKFKt,963902391643967488,2021-11-25 14:22:34+00:00,en,1,1,2,0,Twitter Web App,3_1463875744799596552,https://pbs.twimg.com/media/FFC7O-QXIAgXsDS.jpg,photo, ,Nicola Rennie,nrennie35,False,891,705
-1463875444420272134,#30DayMapChallenge Day 27 (Heatmap). Literal interpretation of heatmap showing the average monthly temperatures in each of Scotland's cities. https://t.co/nNVSRuGMjh,963902391643967488,2021-11-25 14:21:18+00:00,en,1,1,0,0,Twitter Web App,3_1463875284659232768,https://pbs.twimg.com/media/FFC60MGWYAARJUF.jpg,photo, ,Nicola Rennie,nrennie35,False,891,705
-1463875017612140549,#30DayMapChallenge Day 26 (Choropleth map). Bivariate choropleth map showing the population and area of different Glasgow wards to look at population density. https://t.co/P6Lgnx7WFB,963902391643967488,2021-11-25 14:19:36+00:00,en,1,1,2,0,Twitter Web App,3_1463874506473287683,https://pbs.twimg.com/media/FFC6G5IXMAM5__L.jpg,photo, ,Nicola Rennie,nrennie35,False,891,705
+👉🏻 https://t.co/RkuuvyGs1h https://t.co/29A4QQSkEo",124492052,2021-11-25 14:24:29+00:00,es,3,0,4,0,Twitter Web App,3_1463876120063918083,https://pbs.twimg.com/media/FFC7k0OWQAMZMz4.jpg,photo, ,Instituto Geográfico Agustín Codazzi - IGAC,igacColombia,True,62944,2159,Colombia
+1463875766391820293,#30DayMapChallenge Day 28 (Not Flat). An alternative map of the elevation data of Glen Coe and Ben Nevis from Day 21. https://t.co/esRd8sKFKt,963902391643967488,2021-11-25 14:22:34+00:00,en,1,1,2,0,Twitter Web App,3_1463875744799596552,https://pbs.twimg.com/media/FFC7O-QXIAgXsDS.jpg,photo, ,Nicola Rennie,nrennie35,False,901,713,United Kingdom
+1463875444420272134,#30DayMapChallenge Day 27 (Heatmap). Literal interpretation of heatmap showing the average monthly temperatures in each of Scotland's cities. https://t.co/nNVSRuGMjh,963902391643967488,2021-11-25 14:21:18+00:00,en,1,1,0,0,Twitter Web App,3_1463875284659232768,https://pbs.twimg.com/media/FFC60MGWYAARJUF.jpg,photo, ,Nicola Rennie,nrennie35,False,901,713,United Kingdom
+1463875017612140549,#30DayMapChallenge Day 26 (Choropleth map). Bivariate choropleth map showing the population and area of different Glasgow wards to look at population density. https://t.co/P6Lgnx7WFB,963902391643967488,2021-11-25 14:19:36+00:00,en,1,1,2,0,Twitter Web App,3_1463874506473287683,https://pbs.twimg.com/media/FFC6G5IXMAM5__L.jpg,photo, ,Nicola Rennie,nrennie35,False,901,713,United Kingdom
 1463873356764102656,"#30DayMapChallenge Day 25: Interactive! 
 
 Did a relatively quick render of Mt. Baker inside Unity using terrainr ( my #rstats package: https://t.co/JQsloYeUk3 ). Video shows a manual flight around the terrain!
 
-Happy Thanksgiving if you celebrate! https://t.co/S96NZq7aCi",942194832491122688,2021-11-25 14:13:00+00:00,en,4,0,2,1,TweetDeck,7_1463551081900912649,https://pbs.twimg.com/ext_tw_video_thumb/1463551081900912649/pu/img/DNuQfvdQj1ZvuEly.jpg,video, ,Mike Mahoney,MikeMahoney218,False,1056,530
+Happy Thanksgiving if you celebrate! https://t.co/S96NZq7aCi",942194832491122688,2021-11-25 14:13:00+00:00,en,4,0,2,1,TweetDeck,7_1463551081900912649,https://pbs.twimg.com/ext_tw_video_thumb/1463551081900912649/pu/img/DNuQfvdQj1ZvuEly.jpg,video, ,Mike Mahoney,MikeMahoney218,False,1068,533,"Syracuse, NY"
 1463871588231565318,"#30DayMapChallenge 
 Day 22: Boundaries
 
-Map of #SriLanka's Divisional Secreteriats, coloured by population density. Data sourced from Global Administrative Areas and @citypopulation #dataviz #RStats https://t.co/STlvZ3iHc6",91949741,2021-11-25 14:05:58+00:00,en,2,1,0,0,TweetDeck,3_1463871507008929795,https://pbs.twimg.com/media/FFC3YTQVQAMHX27.png,photo, ,P • C,JediPro,False,377,284
+Map of #SriLanka's Divisional Secreteriats, coloured by population density. Data sourced from Global Administrative Areas and @citypopulation #dataviz #RStats https://t.co/STlvZ3iHc6",91949741,2021-11-25 14:05:58+00:00,en,2,1,0,0,TweetDeck,3_1463871507008929795,https://pbs.twimg.com/media/FFC3YTQVQAMHX27.png,photo, ,P • C,JediPro,False,377,284,"Mumbai, India"
 1463870089741144064,"Day #15: Map made without using a computer - 
 
 A gift for a friend... embroidered Alaska and the state's flower, forget-me-nots
 
-#30DayMapChallenge https://t.co/iuaqPUYRMS",281310591,2021-11-25 14:00:01+00:00,en,1,0,6,0,Twitter Web App,3_1463733819127865345,https://pbs.twimg.com/media/FFA6Jz7XoAEcP1W.jpg,photo, ,Taylor Johnston,TF_Johnston,True,1725,3005
+#30DayMapChallenge https://t.co/iuaqPUYRMS",281310591,2021-11-25 14:00:01+00:00,en,1,0,6,0,Twitter Web App,3_1463733819127865345,https://pbs.twimg.com/media/FFA6Jz7XoAEcP1W.jpg,photo, ,Taylor Johnston,TF_Johnston,True,1734,3013,CLE ➡️ NYC
 1463868982012878851,"#30DayMapChallenge Day 25: Interactive – ‘A Typographic Map of the World’ by Andrew E. Burgess is 
-made entirely of text and changes based on zoom level; showing population densities and geographical adjacency at large scales and landmass shapes at smaller scales. https://t.co/0oQQh3gdZO",438384837,2021-11-25 13:55:37+00:00,en,3,1,9,0,Twitter for Android,3_1463868977248153601,https://pbs.twimg.com/media/FFC1FDKXMAEaY8y.jpg,photo, ,Atlas of Design,NACIS_Atlas,False,5169,247
+made entirely of text and changes based on zoom level; showing population densities and geographical adjacency at large scales and landmass shapes at smaller scales. https://t.co/0oQQh3gdZO",438384837,2021-11-25 13:55:37+00:00,en,3,1,9,0,Twitter for Android,3_1463868977248153601,https://pbs.twimg.com/media/FFC1FDKXMAEaY8y.jpg,photo, ,Atlas of Design,NACIS_Atlas,False,5172,247, 
 1463866244193472527,"#30DayMapChallenge #Day25: Interactive map. Here I plot my Europe's #COVID19 regional tracker in an interactive @Datawrapper map to show changes in normalized cases for the past two weeks.
 
 https://t.co/7l9jTZbTGb
 
-More data and graphs on GitHub. Just follow the links. https://t.co/RKMxVG5zqn",124852105,2021-11-25 13:44:44+00:00,en,2,1,7,0,Twitter Web App,3_1463865717418303494,https://pbs.twimg.com/media/FFCyHTWXIAYAbay.jpg,photo, ,Asjad Naqvi,AsjadNaqvi,False,4655,763
-1463865775673036805,"Day 25 of the #30DayMapChallenge is interactive. I and several students have been working with @BikeAthens to make an online map of bike routes in Athens. We started in 2019 and, well, COVID. But we've got a first draft about done. Find out more here: https://t.co/3tJErluvZ7 https://t.co/PaBgIRU0oi",13215962,2021-11-25 13:42:52+00:00,en,2,0,7,0,Twitter Web App,3_1463865739916496911,https://pbs.twimg.com/media/FFCyInKWUA8dOuk.jpg,photo, ,Jerry Shannon,jerry_shannon,False,2101,1678
-1463864064770293768,"Day 25 of #30DayMapChallenge ""interactive""-- I give you the #narrative #infrastructure : a map of community stories assigned polygons so we can see how they mix. This allows us to propose new stories (i.e. development) using previous stories https://t.co/wBeIOSq6uz run on #Qgis https://t.co/Fb0ZoRZyGa",1407269477079736320,2021-11-25 13:36:04+00:00,en,0,0,0,0,Buffer,3_1463864060324286465,https://pbs.twimg.com/media/FFCwm2MXEAEq3ej.jpg,photo, ,NarrativeInfrastructure,NarrativePolicy,False,3,67
+More data and graphs on GitHub. Just follow the links. https://t.co/RKMxVG5zqn",124852105,2021-11-25 13:44:44+00:00,en,2,1,7,0,Twitter Web App,3_1463865717418303494,https://pbs.twimg.com/media/FFCyHTWXIAYAbay.jpg,photo, ,Asjad Naqvi,AsjadNaqvi,False,4688,768,"Vienna, Austria"
+1463865775673036805,"Day 25 of the #30DayMapChallenge is interactive. I and several students have been working with @BikeAthens to make an online map of bike routes in Athens. We started in 2019 and, well, COVID. But we've got a first draft about done. Find out more here: https://t.co/3tJErluvZ7 https://t.co/PaBgIRU0oi",13215962,2021-11-25 13:42:52+00:00,en,2,0,7,0,Twitter Web App,3_1463865739916496911,https://pbs.twimg.com/media/FFCyInKWUA8dOuk.jpg,photo, ,Jerry Shannon,jerry_shannon,False,2111,1682,"Athens, GA"
+1463864064770293768,"Day 25 of #30DayMapChallenge ""interactive""-- I give you the #narrative #infrastructure : a map of community stories assigned polygons so we can see how they mix. This allows us to propose new stories (i.e. development) using previous stories https://t.co/wBeIOSq6uz run on #Qgis https://t.co/Fb0ZoRZyGa",1407269477079736320,2021-11-25 13:36:04+00:00,en,0,0,0,0,Buffer,3_1463864060324286465,https://pbs.twimg.com/media/FFCwm2MXEAEq3ej.jpg,photo, ,NarrativeInfrastructure,NarrativePolicy,False,3,67,"Famagusta, Cyprus"
 1463857155052912645,"#30DayMapChallenge
 Day 25: Interactive Map - Night Runners
 https://t.co/nBUNRyFnLr
 
-In 2017, I ran my first Ragnar relay from Lancaster, PA to the Poconos. A 200 mile road race that took us from the farmlands of the Amish to the mountains of Jim Thorpe ""Switzerland of America"" https://t.co/ke1ppvKXz3",333524694,2021-11-25 13:08:37+00:00,en,2,0,8,0,Twitter Web App,3_1463856515836780547,https://pbs.twimg.com/media/FFCpvsyXoAMzf7J.jpg,photo, ,Christopher Pollard,CRVanPollard,False,1233,1207
+In 2017, I ran my first Ragnar relay from Lancaster, PA to the Poconos. A 200 mile road race that took us from the farmlands of the Amish to the mountains of Jim Thorpe ""Switzerland of America"" https://t.co/ke1ppvKXz3",333524694,2021-11-25 13:08:37+00:00,en,2,0,8,0,Twitter Web App,3_1463856515836780547,https://pbs.twimg.com/media/FFCpvsyXoAMzf7J.jpg,photo, ,Christopher Pollard,CRVanPollard,False,1236,1210,"Philadelphia,PA"
 1463856499722182659,"#30DayMapChallenge Day 25: Interactive Map.
 
 I repaired my ""crawl home app"" for today.
 
 It is an #rstats app that will find the shortest path to your bed that will allow you to stop at 3 pubs.
 Try it @ https://t.co/mamxNHKw1g
-{opencage} {osmdata} {openrouteservice} + custom A* https://t.co/3cjO20djDL",4345403860,2021-11-25 13:06:01+00:00,en,4,0,3,0,Twitter Web App,3_1463856450346885127,https://pbs.twimg.com/media/FFCpr40XIAcLI_Q.jpg,photo, ,Simon Coulombe,CoulSim,False,1747,562
-1463856126592696321,Day 25: An Interactive map for the #30DayMapChallenge @Zelbe04 created this map for her honours research project. The map visualizes rainfall🌧 data scraped  from OpenWeatherMap and SAWS. The interactive map can be found here https://t.co/HzTjxrdOxA https://t.co/H3I2SDL0ps,1109007483199213568,2021-11-25 13:04:32+00:00,en,4,0,10,2,Twitter for Android,3_1463856123996430340,https://pbs.twimg.com/media/FFCpY5EWYAQ5K8I.jpg,photo, ,UP Mappers,UPmappers,False,86,66
+{opencage} {osmdata} {openrouteservice} + custom A* https://t.co/3cjO20djDL",4345403860,2021-11-25 13:06:01+00:00,en,4,0,3,0,Twitter Web App,3_1463856450346885127,https://pbs.twimg.com/media/FFCpr40XIAcLI_Q.jpg,photo, ,Simon Coulombe,CoulSim,False,1748,564,"Québec, Canada"
+1463856126592696321,Day 25: An Interactive map for the #30DayMapChallenge @Zelbe04 created this map for her honours research project. The map visualizes rainfall🌧 data scraped  from OpenWeatherMap and SAWS. The interactive map can be found here https://t.co/HzTjxrdOxA https://t.co/H3I2SDL0ps,1109007483199213568,2021-11-25 13:04:32+00:00,en,4,0,11,2,Twitter for Android,3_1463856123996430340,https://pbs.twimg.com/media/FFCpY5EWYAQ5K8I.jpg,photo, ,UP Mappers,UPmappers,False,87,66,"Pretoria, South Africa"
 1463855690926247944,"24. 'Historical map' - BONUS 🎉
 
 Our spectacular #GIS team has produced not one, but TWO 'historical' maps for the #30DayMapChallenge 😮
 
 Today's entry is a #topographic map of the Lake District, made by our consultant Kim.
 
-#GISchat #historical #landuse #maps #cartography https://t.co/8gnxf7WD60",2295951570,2021-11-25 13:02:48+00:00,en,1,1,5,0,Hootsuite Inc.,3_1463855685733658634,https://pbs.twimg.com/media/FFCo_YaXMAoUiwZ.jpg,photo, ,LUC,LUCtweeting,False,3639,874
-1463854993845456903,"Late Day 24 of the #30DayMapChallenge. @geobach_za played around with the rendering options in QGIS yo create a ""historic"" map of Pretorja Central ⏳ https://t.co/WUNNnoOepR",1109007483199213568,2021-11-25 13:00:02+00:00,en,1,0,6,0,Twitter for Android,3_1463854965844332549,https://pbs.twimg.com/media/FFCoVenX0AUdhPh.jpg,photo, ,UP Mappers,UPmappers,False,86,66
+#GISchat #historical #landuse #maps #cartography https://t.co/8gnxf7WD60",2295951570,2021-11-25 13:02:48+00:00,en,1,1,5,0,Hootsuite Inc.,3_1463855685733658634,https://pbs.twimg.com/media/FFCo_YaXMAoUiwZ.jpg,photo, ,LUC,LUCtweeting,False,3648,874,United Kingdom
+1463854993845456903,"Late Day 24 of the #30DayMapChallenge. @geobach_za played around with the rendering options in QGIS yo create a ""historic"" map of Pretorja Central ⏳ https://t.co/WUNNnoOepR",1109007483199213568,2021-11-25 13:00:02+00:00,en,1,0,8,0,Twitter for Android,3_1463854965844332549,https://pbs.twimg.com/media/FFCoVenX0AUdhPh.jpg,photo, ,UP Mappers,UPmappers,False,87,66,"Pretoria, South Africa"
 1463852247452893184,"#30DayMapChallenge 
 Day 17:Land
 
-#landcover #Map #mapoftheday #Torreon #AnecdotasDelDorada https://t.co/h3yeGu2PFo",509087207,2021-11-25 12:49:07+00:00,en,2,0,8,0,Twitter for Android,3_1463852243493527554,https://pbs.twimg.com/media/FFCl3BEXIAIZ3m2.jpg,photo, ,Ihanelly,ihanelly_64,False,294,428
+#landcover #Map #mapoftheday #Torreon #AnecdotasDelDorada https://t.co/h3yeGu2PFo",509087207,2021-11-25 12:49:07+00:00,en,2,0,8,0,Twitter for Android,3_1463852243493527554,https://pbs.twimg.com/media/FFCl3BEXIAIZ3m2.jpg,photo, ,Ihanelly,ihanelly_64,False,296,429, 
 1463849558442754054,"And here's the complete ""poster"" version of the #LaLaLand map!
 More details in the @IlTermopolio article [ITA]:
 https://t.co/MaRWHZkXVP
-#30DayMapChallenge https://t.co/jFVWPahVym",148715617,2021-11-25 12:38:26+00:00,en,2,0,7,0,Twitter for iPhone,3_1463849551677304832,https://pbs.twimg.com/media/FFCjaVRXMAACQt2.jpg,photo, ,Federica Gaspari,fede_gaspari,False,531,399
+#30DayMapChallenge https://t.co/jFVWPahVym",148715617,2021-11-25 12:38:26+00:00,en,2,0,7,0,Twitter for iPhone,3_1463849551677304832,https://pbs.twimg.com/media/FFCjaVRXMAACQt2.jpg,photo, ,Federica Gaspari,fede_gaspari,False,577,405,Arona | Piacenza
 1463848693912719365,"#30DayMapChallenge 25: interactive map is all about cinemaps! 🎞
 I've been contributing to @IlTermopolio preparing articles about famous movie locations with Umap. My favorite one? It's the #LaLaLand themed one, a tour in the #CityofStars ✨
-Umap: https://t.co/NY8ynphwE7 https://t.co/GPDd2ehe6S",148715617,2021-11-25 12:35:00+00:00,en,3,1,11,0,Twitter Web App,3_1463559517418012673,https://pbs.twimg.com/media/FE-boHdXwAEL1Mt.jpg,photo, ,Federica Gaspari,fede_gaspari,False,531,399
+Umap: https://t.co/NY8ynphwE7 https://t.co/GPDd2ehe6S",148715617,2021-11-25 12:35:00+00:00,en,3,1,11,0,Twitter Web App,3_1463559517418012673,https://pbs.twimg.com/media/FE-boHdXwAEL1Mt.jpg,photo, ,Federica Gaspari,fede_gaspari,False,577,405,Arona | Piacenza
 1463845064929648643,"Reviving an old map for today's #30DayMapChallenge
 Day 25: Interactive 📲
 
 Slider map highlighting the Night Tube usage during its first 5 months of service - made last year as part of my Digital Viz module in CASA - brings back memories 🥲
 
-https://t.co/jxemo8iTZj https://t.co/Z5boH3VItf",32127911,2021-11-25 12:20:35+00:00,en,1,0,3,0,Twitter Web App,16_1463844881852424198,https://pbs.twimg.com/tweet_video_thumb/FFCfKg0WYAYGZ7G.jpg,animated_gif, ,Z,Zaaaana_,False,405,343
+https://t.co/jxemo8iTZj https://t.co/Z5boH3VItf",32127911,2021-11-25 12:20:35+00:00,en,1,0,3,0,Twitter Web App,16_1463844881852424198,https://pbs.twimg.com/tweet_video_thumb/FFCfKg0WYAYGZ7G.jpg,animated_gif, ,Z,Zaaaana_,False,408,349,TT
 1463844577085952002,"#30DayMapChallenge 
 Day 24 - historical map
 
 Romania as seen by Scheda, Josef Ritter in the 1850
 
-Source: https://t.co/AiWf3IuTQP https://t.co/DK5YPugNBO",1453765598341705729,2021-11-25 12:18:38+00:00,en,2,0,13,1,Twitter Web App,3_1463843602015080449,https://pbs.twimg.com/media/FFCeABDWUAErYiU.jpg,photo, ,Alexandru Frantiuc,CompleteMaps,False,28,25
-1463842563530665986,"Day 25, interactive map. Check which game animal you are likely to collide with in different municipalities around Mainland Finland. This is a collaborative effort between me and my colleagues Katja Löytynoja and Mervi Niemi #30DayMapChallenge https://t.co/t643hjOhT6 https://t.co/3x4dGF0UJt",1466897384,2021-11-25 12:10:38+00:00,en,2,0,8,0,Twitter for Android,16_1463841855649587201,https://pbs.twimg.com/tweet_video_thumb/FFCcaXVXoAESJVC.jpg,animated_gif, ,Matti Kokkonen,MattiJKokkonen,False,330,484
+Source: https://t.co/AiWf3IuTQP https://t.co/DK5YPugNBO",1453765598341705729,2021-11-25 12:18:38+00:00,en,2,0,13,1,Twitter Web App,3_1463843602015080449,https://pbs.twimg.com/media/FFCeABDWUAErYiU.jpg,photo, ,Alexandru Frantiuc,CompleteMaps,False,37,31, 
+1463842563530665986,"Day 25, interactive map. Check which game animal you are likely to collide with in different municipalities around Mainland Finland. This is a collaborative effort between me and my colleagues Katja Löytynoja and Mervi Niemi #30DayMapChallenge https://t.co/t643hjOhT6 https://t.co/3x4dGF0UJt",1466897384,2021-11-25 12:10:38+00:00,en,2,0,8,0,Twitter for Android,16_1463841855649587201,https://pbs.twimg.com/tweet_video_thumb/FFCcaXVXoAESJVC.jpg,animated_gif, ,Matti Kokkonen,MattiJKokkonen,False,331,483, 
 1463840459881603094,"#TidyTuesday #30DayMapChallenge
 Day 25 : Interactive Map | Asian Restaurants NH
 MAP: https://t.co/nPh4FWuBD2
-Full Analysis: https://t.co/WaG0zb2Wqk https://t.co/lHiMrAAFkE",1428864082329931777,2021-11-25 12:02:17+00:00,en,3,0,2,0,rstats2twitter,3_1463840458103209988,https://pbs.twimg.com/media/FFCbJBEWQAQYMh6.png,photo, ,Kraggle,JCraggy,False,33,22
-1463839894069940230,DAY TWENTY FIVE - INTERACTIVE MAP🕹@alexsingleton maps the Internet User Classification on the new @CDRC_UK mapmaker platform. Explore the map here: https://t.co/JcSi1DzqHs  #30DayMapChallenge https://t.co/AX9RXv2joa,2280343142,2021-11-25 12:00:02+00:00,en,3,0,25,0,TweetDeck,16_1463063309532504066,https://pbs.twimg.com/tweet_video_thumb/FE3YVBCXoAIR_cu.jpg,animated_gif, ,GeoDataScience,geodatascience,False,5389,2376
+Full Analysis: https://t.co/WaG0zb2Wqk https://t.co/lHiMrAAFkE",1428864082329931777,2021-11-25 12:02:17+00:00,en,3,0,2,0,rstats2twitter,3_1463840458103209988,https://pbs.twimg.com/media/FFCbJBEWQAQYMh6.png,photo, ,Kraggle,JCraggy,False,35,22,America
+1463839894069940230,DAY TWENTY FIVE - INTERACTIVE MAP🕹@alexsingleton maps the Internet User Classification on the new @CDRC_UK mapmaker platform. Explore the map here: https://t.co/JcSi1DzqHs  #30DayMapChallenge https://t.co/AX9RXv2joa,2280343142,2021-11-25 12:00:02+00:00,en,3,0,26,0,TweetDeck,16_1463063309532504066,https://pbs.twimg.com/tweet_video_thumb/FE3YVBCXoAIR_cu.jpg,animated_gif, ,GeoDataScience,geodatascience,False,5397,2376,Liverpool
 1463838561187377152,"#30DayMapChallenge - Day 25: ""Interactive map""
-Don't have much time for today's entry, I've just tried to show the commuters patterns in Switzerland (2018). Where are workers coming from? Data from @StatSchweiz displayed with https://t.co/ii5o8xi2xB - https://t.co/ErjTmilziG https://t.co/cLtGevXbpy",336517784,2021-11-25 11:54:44+00:00,en,1,0,1,0,Twitter Web App,3_1463838265673490434,https://pbs.twimg.com/media/FFCZJZoXoAIZxNa.jpg,photo, ,Luca Dall'Acqua,luca_northsouth,False,173,522
+Don't have much time for today's entry, I've just tried to show the commuters patterns in Switzerland (2018). Where are workers coming from? Data from @StatSchweiz displayed with https://t.co/ii5o8xi2xB - https://t.co/ErjTmilziG https://t.co/cLtGevXbpy",336517784,2021-11-25 11:54:44+00:00,en,1,0,1,0,Twitter Web App,3_1463838265673490434,https://pbs.twimg.com/media/FFCZJZoXoAIZxNa.jpg,photo, ,Luca Dall'Acqua,luca_northsouth,False,175,523,"Lucerna, Svizzera"
 1463835481481768964,"#30DayMapChallenge day 25: interactive 
 
 100% of the population of Santiago has a mountain peak in a 10km radius, 50% in a 4.5 km radius.
 
 interactive map made with #leaflet in #rstats: https://t.co/8EUfcE9QvT
 
-#rspatial https://t.co/ZbkNzIGLrl",83974993,2021-11-25 11:42:30+00:00,en,3,2,5,0,Twitter for iPhone,3_1463835474175348743,https://pbs.twimg.com/media/FFCWm6fWUAcztJq.jpg,photo, ,raimundos,raimun2,False,1005,785
+#rspatial https://t.co/ZbkNzIGLrl",83974993,2021-11-25 11:42:30+00:00,en,3,2,5,0,Twitter for iPhone,3_1463835474175348743,https://pbs.twimg.com/media/FFCWm6fWUAcztJq.jpg,photo, ,raimundos,raimun2,False,1007,810,Chile
 1463833447496142852,"#30DayMapChallenge | Day 25 | #interactivemap
 
 Shameless recycling - but the Natural Earth raster data is just too beautiful to not share!
 
 I uploaded them to a #tileserver so that they can be used in any #leaflet, #openlayer, or #mapbox web map.
 
-https://t.co/k8nVzIOjYW https://t.co/iZ5AiP9bqD",1307060010669793280,2021-11-25 11:34:25+00:00,en,1,0,8,0,Twitter Web App,3_1463832826953060360,https://pbs.twimg.com/media/FFCUM00X0AgYG2-.jpg,photo, ,Marco Sciaini,shinysci,False,290,746
-1463832020883320834,"Couldn't keep up the pace with #30DayMapChallenge this month.  For Day 25 (Interactive), I'll share one of my favorites from the book: a LISA map and scatterplot with linked brushing using #rstats, ggiraph, and Shiny https://t.co/e5j6e9GpBD https://t.co/IttHAhZl6e",144529492,2021-11-25 11:28:45+00:00,en,16,1,92,0,Twitter Web App,16_1463831860795039754,https://pbs.twimg.com/tweet_video_thumb/FFCTUlmWYAoQObu.jpg,animated_gif, ,Kyle Walker,kyle_e_walker,False,4943,384
-1463831415229984771,"I developed this preliminary shiny app https://t.co/39XI7SIzr5 for day 25 (interactive maps) of the #30DayMapChallenge which shows supermarket retail points in Great Britain. Thank you to @Geolytix for making this data #Opensource , allowing me to test and implement my ideas https://t.co/jVcjvXbprq",1456007676996038662,2021-11-25 11:26:20+00:00,en,4,1,2,1,Twitter for Android,16_1463831371642716170,https://pbs.twimg.com/tweet_video_thumb/FFCS4HXWQAoSBBz.jpg,animated_gif, ,Eniola Babatunde,eulerspatial,False,4,23
+https://t.co/k8nVzIOjYW https://t.co/iZ5AiP9bqD",1307060010669793280,2021-11-25 11:34:25+00:00,en,1,0,10,0,Twitter Web App,3_1463832826953060360,https://pbs.twimg.com/media/FFCUM00X0AgYG2-.jpg,photo, ,Marco Sciaini,shinysci,False,293,773,Freiburg im Breisgau
+1463832020883320834,"Couldn't keep up the pace with #30DayMapChallenge this month.  For Day 25 (Interactive), I'll share one of my favorites from the book: a LISA map and scatterplot with linked brushing using #rstats, ggiraph, and Shiny https://t.co/e5j6e9GpBD https://t.co/IttHAhZl6e",144529492,2021-11-25 11:28:45+00:00,en,16,1,92,0,Twitter Web App,16_1463831860795039754,https://pbs.twimg.com/tweet_video_thumb/FFCTUlmWYAoQObu.jpg,animated_gif, ,Kyle Walker,kyle_e_walker,False,4947,385,"Fort Worth, TX"
+1463831415229984771,"I developed this preliminary shiny app https://t.co/39XI7SIzr5 for day 25 (interactive maps) of the #30DayMapChallenge which shows supermarket retail points in Great Britain. Thank you to @Geolytix for making this data #Opensource , allowing me to test and implement my ideas https://t.co/jVcjvXbprq",1456007676996038662,2021-11-25 11:26:20+00:00,en,4,1,2,1,Twitter for Android,16_1463831371642716170,https://pbs.twimg.com/tweet_video_thumb/FFCS4HXWQAoSBBz.jpg,animated_gif, ,Eniola Babatunde,eulerspatial,False,4,23, 
 1463831077831602182,"#30DayMapChallenge 2021 🗺️ Day 25 - interactive
 
 A solution to the ""Traveling beer drinker problem"": Optimal route between 114 beer gardens around Munich.   
 
 Tools: #rstats (leaflet,osrm,TSP)
 
-Interactive Version: https://t.co/Mxth6yxEtS https://t.co/r0h3YTWoZR",2745527973,2021-11-25 11:25:00+00:00,en,4,0,15,0,Twitter Web App,3_1463804155093475331,https://pbs.twimg.com/media/FFB6H50WYAMoE9V.png,photo, ,David Schoch,schochastics,False,1919,290
+Interactive Version: https://t.co/Mxth6yxEtS https://t.co/r0h3YTWoZR",2745527973,2021-11-25 11:25:00+00:00,en,4,0,15,0,Twitter Web App,3_1463804155093475331,https://pbs.twimg.com/media/FFB6H50WYAMoE9V.png,photo, ,David Schoch,schochastics,False,1928,290, 
 1463829146874875905,"The Great Fire of London - Part 2
 #30DayMapChallenge - Day 24 - Historical. 
-Affected areas applied on Modern London #Lidar data. Experimental. Made in #Blender3d. Second version. #B3d #gischat #history #3dmap #dataviz 3/🧵 https://t.co/ExzhcEZqpr",1186202364,2021-11-25 11:17:19+00:00,en,14,1,58,0,Twitter for Android,3_1463829143683010565,https://pbs.twimg.com/media/FFCQ2bkXEAUO1v5.jpg,photo, ,Julian Hoffmann,Julian_H0ffmann,False,696,1943
+Affected areas applied on Modern London #Lidar data. Experimental. Made in #Blender3d. Second version. #B3d #gischat #history #3dmap #dataviz 3/🧵 https://t.co/ExzhcEZqpr",1186202364,2021-11-25 11:17:19+00:00,en,14,1,61,0,Twitter for Android,3_1463829143683010565,https://pbs.twimg.com/media/FFCQ2bkXEAUO1v5.jpg,photo, ,Julian Hoffmann,Julian_H0ffmann,False,737,1953,"London, England"
 1463829004494860292,"#30DayMapChallenge Day 16 - Urban/Rural
 Recently(ish) @Stats_NZ changed the official geographical classification system, which gave us better urban area definitions.
-#RStats code: https://t.co/lrpj97frNB https://t.co/dXmhaor7qo",33788841,2021-11-25 11:16:45+00:00,en,3,0,7,0,Twitter Web App,3_1463828644724236290,https://pbs.twimg.com/media/FFCQZYzUYAI0XEn.jpg,photo, ,suǝbbıɹɟ pıʌɐp,dakvid,False,550,463
+#RStats code: https://t.co/lrpj97frNB https://t.co/dXmhaor7qo",33788841,2021-11-25 11:16:45+00:00,en,3,0,7,0,Twitter Web App,3_1463828644724236290,https://pbs.twimg.com/media/FFCQZYzUYAI0XEn.jpg,photo, ,suǝbbıɹɟ pıʌɐp,dakvid,False,556,464,"Wellington, New Zealand"
 1463826078607286278,"The final entry in my @DublinInquirer neighborhood survey series. Interactive view of the results.
 
 https://t.co/TiG9qRSkX7
 
 Data from: @emmetatquiddity, @flngn, https://t.co/5rJh2EJuUf
 
-#30DayMapChallenge Day 25 ""Interactive"" https://t.co/BnfMwGzvVI",1499547780,2021-11-25 11:05:08+00:00,en,24,9,114,14,Twitter Web App,16_1463825563135660034,https://pbs.twimg.com/tweet_video_thumb/FFCNmA_WUAITlbT.jpg,animated_gif, ,Heikki Vesanto,HeikkiVesanto,False,889,468
+#30DayMapChallenge Day 25 ""Interactive"" https://t.co/BnfMwGzvVI",1499547780,2021-11-25 11:05:08+00:00,en,24,9,114,14,Twitter Web App,16_1463825563135660034,https://pbs.twimg.com/tweet_video_thumb/FFCNmA_WUAITlbT.jpg,animated_gif, ,Heikki Vesanto,HeikkiVesanto,False,894,468,"Dublin City, Ireland"
 1463822198603345924,"#30DayMapChallenge Day whatever 
 
 A cheap and serendipitous mishap map, which pretty much sums up my daily spatial data workflow. Despite being behind for this month, here's proof it takes little to make abstract attractive w #rstats Guess the proj
 
-Links and #R code #rspatial ⬇️ https://t.co/WV8bCd2uHX",2905624932,2021-11-25 10:49:43+00:00,en,4,1,11,0,Twitter Web App,3_1463820870942539780,https://pbs.twimg.com/media/FFCJU5NVQAQ4qlk.jpg,photo, ,Matt Malishev,darwinanddavis,False,310,379
+Links and #R code #rspatial ⬇️ https://t.co/WV8bCd2uHX",2905624932,2021-11-25 10:49:43+00:00,en,4,1,12,0,Twitter Web App,3_1463820870942539780,https://pbs.twimg.com/media/FFCJU5NVQAQ4qlk.jpg,photo, ,Matt Malishev,darwinanddavis,False,311,379,"Atlanta, GA"
 1463812726036353029,"#MorningMeditation
-Wake up seeking, searching, asking, fighting. Today's a new day. #30DayMapChallenge Map where u are &amp; what u wish 2 accomplish. In 30 days, see what steps you've TAKEN 2 actually accomplish your goals. #HappyThanksgiving #GoodMorning #Success #Work #Intentional https://t.co/64iAgi0EnK",1716144151,2021-11-25 10:12:04+00:00,en,0,0,0,0,Twitter for Android,16_1463812719568642056,https://pbs.twimg.com/tweet_video_thumb/FFCB6a-WYAg3r-q.jpg,animated_gif, ,Naj_Singhs,DashOfNaj,False,44,120
-1463804918049951747,"#30daymapchallenge Day 25 - Interactive Map. Cadcorp SIS WebMap, allows you to visualise and query spatial information over the web. Here it shows using the geolocate option and the power of the Local Knowledge Web Service to display key information https://t.co/85gemyB9ar #GIS https://t.co/ZWl3k3goAc",92832101,2021-11-25 09:41:03+00:00,en,2,0,5,0,Buffer,3_1463804914052874243,https://pbs.twimg.com/media/FFB60FKXwAMXyMM.jpg,photo, ,Ian Usher,ian_usher1985,False,468,1880
+Wake up seeking, searching, asking, fighting. Today's a new day. #30DayMapChallenge Map where u are &amp; what u wish 2 accomplish. In 30 days, see what steps you've TAKEN 2 actually accomplish your goals. #HappyThanksgiving #GoodMorning #Success #Work #Intentional https://t.co/64iAgi0EnK",1716144151,2021-11-25 10:12:04+00:00,en,0,0,0,0,Twitter for Android,16_1463812719568642056,https://pbs.twimg.com/tweet_video_thumb/FFCB6a-WYAg3r-q.jpg,animated_gif, ,Naj_Singhs,DashOfNaj,False,47,122,SmuleLaLaLand
+1463804918049951747,"#30daymapchallenge Day 25 - Interactive Map. Cadcorp SIS WebMap, allows you to visualise and query spatial information over the web. Here it shows using the geolocate option and the power of the Local Knowledge Web Service to display key information https://t.co/85gemyB9ar #GIS https://t.co/ZWl3k3goAc",92832101,2021-11-25 09:41:03+00:00,en,2,0,5,0,Buffer,3_1463804914052874243,https://pbs.twimg.com/media/FFB60FKXwAMXyMM.jpg,photo, ,Ian Usher,ian_usher1985,False,469,1886,Stevenage
 1463804625627361280,"When you go to Fort Portal look out for the coffee they make in the Tooro Region &amp; have a taste it's 👌👌
 #EkyootoHaMpango
 #EkyootoTooro #30DayMapChallenge #Travel
- https://t.co/WJGSYzNJRF",3325050370,2021-11-25 09:39:53+00:00,en,2,0,3,0,Twitter for Android,7_1463788162350731264,https://pbs.twimg.com/ext_tw_video_thumb/1463788162350731264/pu/img/IRrDpAH-ix4M128O.jpg,video, ,eric wobulenzi,Ssalieric3,False,2820,3076
+ https://t.co/WJGSYzNJRF",3325050370,2021-11-25 09:39:53+00:00,en,2,0,3,0,Twitter for Android,7_1463788162350731264,https://pbs.twimg.com/ext_tw_video_thumb/1463788162350731264/pu/img/IRrDpAH-ix4M128O.jpg,video, ,eric,Ssalieric3,False,2821,3077,kampala_Ugandan 
 1463798794915622915,"#30DayMapChallenge Day 25 Interactive
 
 Dot-to-dot mystery map
 
-#QGIS https://t.co/3uRwOv1jLK",223959960,2021-11-25 09:16:43+00:00,en,1,3,20,0,Twitter Web App,3_1463798756080500739,https://pbs.twimg.com/media/FFB1No7WQAM_pFO.jpg,photo, ,Kirsten Reilly,_penguin_runner,False,415,1220
-1463796157457522691,"#30DayMapChallenge Day 25, Interactive live map of output from UK power plants. https://t.co/UHtw8F5HlF https://t.co/k7vqaH5wUJ",1100674141886267393,2021-11-25 09:06:14+00:00,en,6,3,33,0,Twitter Web App,16_1463796071759585282,https://pbs.twimg.com/tweet_video_thumb/FFByxZDXoAIxmL3.jpg,animated_gif, ,Ayrton Bourn,AyrtonBourn,False,346,315
+#QGIS https://t.co/3uRwOv1jLK",223959960,2021-11-25 09:16:43+00:00,en,1,3,20,0,Twitter Web App,3_1463798756080500739,https://pbs.twimg.com/media/FFB1No7WQAM_pFO.jpg,photo, ,Kirsten Reilly,_penguin_runner,False,417,1221,"Stirling, Scotland"
+1463796157457522691,"#30DayMapChallenge Day 25, Interactive live map of output from UK power plants. https://t.co/UHtw8F5HlF https://t.co/k7vqaH5wUJ",1100674141886267393,2021-11-25 09:06:14+00:00,en,6,3,33,0,Twitter Web App,16_1463796071759585282,https://pbs.twimg.com/tweet_video_thumb/FFByxZDXoAIxmL3.jpg,animated_gif, ,Ayrton Bourn,AyrtonBourn,False,345,315,"Camden Town, London"
 1463794704466722821,"#30DayMapChallenge - Jour 25 - Interactive map
 
 Aujourd'hui, voyagez dans le temps avec une #carte des prénoms les plus donnés en France depuis 1930 !
 
 👉 https://t.co/TmNdtV7jMU
 
-Day 25 - a #map of the most popular first names in France since 1930! https://t.co/DsagULFmDe",98665397,2021-11-25 09:00:28+00:00,fr,1,0,4,0,Hootsuite Inc.,16_1463794701233016834,https://pbs.twimg.com/tweet_video_thumb/FFBxhncX0AI3ibD.jpg,animated_gif, ,Articque,Articque,False,694,912
+Day 25 - a #map of the most popular first names in France since 1930! https://t.co/DsagULFmDe",98665397,2021-11-25 09:00:28+00:00,fr,1,0,4,0,Hootsuite Inc.,16_1463794701233016834,https://pbs.twimg.com/tweet_video_thumb/FFBxhncX0AI3ibD.jpg,animated_gif, ,Articque,Articque,False,694,912,"Fondettes, France"
 1463792662838919173,"#30DayMapChallenge day 25: Interactive map. 
 I created a map with @OpenLayers using data from the open data WMS from 
 @Stad_Antwerpen and used @OpenStreetMap as a base map. By clicking on the map, data from the WMS can be requested as text in an info box.
 
-https://t.co/hxX67C1zmU https://t.co/cJfzT9I8zr",269294137,2021-11-25 08:52:21+00:00,en,0,0,2,0,Twitter Web App,3_1463792404364996609,https://pbs.twimg.com/media/FFBvb68XMAEUTYY.jpg,photo, ,michelstuyts,michelstuyts,False,493,1482
+https://t.co/hxX67C1zmU https://t.co/cJfzT9I8zr",269294137,2021-11-25 08:52:21+00:00,en,0,0,2,0,Twitter Web App,3_1463792404364996609,https://pbs.twimg.com/media/FFBvb68XMAEUTYY.jpg,photo, ,michelstuyts,michelstuyts,False,493,1480,"Antwerp, Belgium"
 1463792025468170243,"https://t.co/I2lujZ4zou - see where sun and shadow fall around the earth for any day of the year.
 
-#30DayMapChallenge Day 25 Interactive map - DEM data and vector tiles provided by @Mapbox #reactjs  #leaflet https://t.co/Wwp7ggMJxq",1057686396910002176,2021-11-25 08:49:49+00:00,en,0,0,1,0,Twitter Web App,7_1463790907795251203,https://pbs.twimg.com/ext_tw_video_thumb/1463790907795251203/pu/img/Vyg19hHUX7wGgQi7.jpg,video, ,truted,truted2,False,5,5
-1463790863486750721,"""the southern land not yet known"" from A.Ortelius (1570).
- 
-15th-17th cent.:
-Southern hemispehere is not discovered yet.
-It is known, the Earth is spherical. So, there must be for sure sth, what will balance the land mass which is north of the equator, right? 
-
-#30DayMapChallenge https://t.co/jtXU2Tjw7e",3494716935,2021-11-25 08:45:12+00:00,en,1,0,1,0,Twitter Web App,3_1463790824978882560,https://pbs.twimg.com/media/FFBt__RXoAAlbhk.jpg,photo, ,Eliška Vlčková,vlckel,False,269,164
+#30DayMapChallenge Day 25 Interactive map - DEM data and vector tiles provided by @Mapbox #reactjs  #leaflet https://t.co/Wwp7ggMJxq",1057686396910002176,2021-11-25 08:49:49+00:00,en,0,0,2,0,Twitter Web App,7_1463790907795251203,https://pbs.twimg.com/ext_tw_video_thumb/1463790907795251203/pu/img/Vyg19hHUX7wGgQi7.jpg,video, ,truted,truted2,False,6,5, 
 1463790788454887426,"#30_ימי_מיפוי
 והיום - זעיר פרובקציה בנושא גובה פני הים, נתוני psmsl בתחנות באורך של 50 שנים וסיווגן לפי השיפוע +גרף של הנתונים, כי היום הדרישה הייתה למפה אינטראקטיבית. הכנתי את זאת כבר לפני שנה אז אני מתעצל שוב. 
 אני נדהם מאיזה מפות אפשר לעשות עם כל כך מעט קוד
-#30DayMapChallenge https://t.co/VSl3Iia79W",2227560465,2021-11-25 08:44:54+00:00,iw,1,2,3,0,Twitter Web App,7_1463790462268055558,https://pbs.twimg.com/ext_tw_video_thumb/1463790462268055558/pu/img/zt7HjbJOONt_8ho6.jpg,video, ,Ido Klein עדו קליין,idoklein1,False,1163,829
-1463790410506059780,"#30DayMapChallenge, day 25, interactive map. What are your favourite sports? Check this map of public transport travel times to sports facilities in Jyväskylä! Map: Marisofia Nurmi, using #folium @LeafletJS , data: #Lipas, travel times: @MappleAnalytics. ➡️https://t.co/Bi0LxokrW9 https://t.co/uKuVc5WBmI",845248364191059968,2021-11-25 08:43:24+00:00,en,1,1,10,0,Twitter Web App,3_1463788920500539393,https://pbs.twimg.com/media/FFBsRIiWUAEhXUo.jpg,photo, ,DigitalGeographyLab,digigeolab,False,1338,365
+#30DayMapChallenge https://t.co/VSl3Iia79W",2227560465,2021-11-25 08:44:54+00:00,iw,1,2,3,0,Twitter Web App,7_1463790462268055558,https://pbs.twimg.com/ext_tw_video_thumb/1463790462268055558/pu/img/zt7HjbJOONt_8ho6.jpg,video, ,Ido Klein עדו קליין,idoklein1,False,1170,829,"Jerusalem, Israel"
+1463790410506059780,"#30DayMapChallenge, day 25, interactive map. What are your favourite sports? Check this map of public transport travel times to sports facilities in Jyväskylä! Map: Marisofia Nurmi, using #folium @LeafletJS , data: #Lipas, travel times: @MappleAnalytics. ➡️https://t.co/Bi0LxokrW9 https://t.co/uKuVc5WBmI",845248364191059968,2021-11-25 08:43:24+00:00,en,1,1,10,0,Twitter Web App,3_1463788920500539393,https://pbs.twimg.com/media/FFBsRIiWUAEhXUo.jpg,photo, ,DigitalGeographyLab,digigeolab,False,1345,365, 
 1463787427340988416,"25. Interactive Map
 #30DayMapChallenge 
 
-https://t.co/6gOZU3clKV https://t.co/sW3HppAQ2F",807289,2021-11-25 08:31:33+00:00,en,3,1,11,1,Twitter Web App,7_1463635308692611080,https://pbs.twimg.com/ext_tw_video_thumb/1463635308692611080/pu/img/wbFPAmwSdZXPf1A6.jpg,video, ,Martin Kleppe,aemkei,False,8657,404
+https://t.co/6gOZU3clKV https://t.co/sW3HppAQ2F",807289,2021-11-25 08:31:33+00:00,en,3,1,11,1,Twitter Web App,7_1463635308692611080,https://pbs.twimg.com/ext_tw_video_thumb/1463635308692611080/pu/img/wbFPAmwSdZXPf1A6.jpg,video, ,Martin Kleppe,aemkei,False,8660,404,"Hamburg, Germany"
 1463785988216479744,"For the interactive map day of #30DayMapChallenge I polished a bit an old favorite of mine: Internet speeds in France: https://t.co/jIHrZZn8gS
 
-Data from @Speedtest and visualized with @unfoldedinc. https://t.co/tkIJ4hKoLD",2198358416,2021-11-25 08:25:50+00:00,en,14,0,105,0,Twitter Web App,16_1463785786608963584,https://pbs.twimg.com/tweet_video_thumb/FFBpat4X0AAlGj7.jpg,animated_gif, ,Topi Tjukanov,tjukanov,False,15273,2501
+Data from @Speedtest and visualized with @unfoldedinc. https://t.co/tkIJ4hKoLD",2198358416,2021-11-25 08:25:50+00:00,en,15,0,113,0,Twitter Web App,16_1463785786608963584,https://pbs.twimg.com/tweet_video_thumb/FFBpat4X0AAlGj7.jpg,animated_gif, ,Topi Tjukanov,tjukanov,False,15348,2505,"Helsinki, Suomi"
 1463785440461348866,"Day 24: Historical #30DayMapChallenge
 
 Map showing listed buildings in Wales – there are over 30,000 of them!
-#GeoVis #GEOVIZ #History #Wales @Steer_Group https://t.co/URRy4F0Cl5",793464945971257350,2021-11-25 08:23:39+00:00,en,2,0,4,0,Twitter Web App,3_1463785210672259078,https://pbs.twimg.com/media/FFBo5MWXIAYdcDf.jpg,photo, ,Design for Movement,Steer_DfM,False,323,115
+#GeoVis #GEOVIZ #History #Wales @Steer_Group https://t.co/URRy4F0Cl5",793464945971257350,2021-11-25 08:23:39+00:00,en,2,0,4,0,Twitter Web App,3_1463785210672259078,https://pbs.twimg.com/media/FFBo5MWXIAYdcDf.jpg,photo, ,Design for Movement,Steer_DfM,False,326,115,"Europe, N.America, LATAM, Asia"
 1463785084692094982,"#30DayMapChallenge 2021 Day 25: Interactive map.
 
 A map I built for @Calwild to explore California's Wild &amp; Scenic Rivers. 
-https://t.co/ESjj6JocAs https://t.co/rISGvIyzBV",7159622,2021-11-25 08:22:14+00:00,en,1,1,8,0,Twitter Web App,3_1463784904404185093,https://pbs.twimg.com/media/FFBonXaXMAU3fpI.jpg,photo, ,Kurt Menke,geomenke,False,6038,2150
+https://t.co/ESjj6JocAs https://t.co/rISGvIyzBV",7159622,2021-11-25 08:22:14+00:00,en,1,1,8,0,Twitter Web App,3_1463784904404185093,https://pbs.twimg.com/media/FFBonXaXMAU3fpI.jpg,photo, ,Kurt Menke,geomenke,False,6072,2154,"Helsinge, Denmark"
 1463783602706071554,"#30DayMapChallenge 2021 - Day 25 - Interactive Map
 Here https://t.co/4VosSoiac6 are all the earthquakes of the seismic sequence that happened on Crete the previous months and escalated with serious impacts. Only events with magnitude ≥ 3R are shown
-#cARTography #MakingMapsPretty https://t.co/14l3E0o6d6",374984100,2021-11-25 08:16:21+00:00,en,1,0,7,0,Twitter Web App,3_1463783127369797638,https://pbs.twimg.com/media/FFBm_7cWUAYadNY.jpg,photo, ,Staridas Geography,StaridasGeo,False,1032,576
+#cARTography #MakingMapsPretty https://t.co/14l3E0o6d6",374984100,2021-11-25 08:16:21+00:00,en,1,0,7,0,Twitter Web App,3_1463783127369797638,https://pbs.twimg.com/media/FFBm_7cWUAYadNY.jpg,photo, ,Staridas Geography,StaridasGeo,False,1058,578,Greece
 1463779489238990850,"An easy one for #30DayMapChallenge Day 13 (Natural Earth data).
 Following many others, my personal bounding box, using Natural Earth country boundaries. There's much to explore with NE, but it will have to be another time! 🙃
-#RStats code: https://t.co/FRxzj1xKp9 https://t.co/XRX4F43M45",33788841,2021-11-25 08:00:00+00:00,en,3,0,5,0,Twitter Web App,3_1463700184303476737,https://pbs.twimg.com/media/FFAbkAcVIAE8v8Q.jpg,photo, ,suǝbbıɹɟ pıʌɐp,dakvid,False,550,463
+#RStats code: https://t.co/FRxzj1xKp9 https://t.co/XRX4F43M45",33788841,2021-11-25 08:00:00+00:00,en,3,0,5,0,Twitter Web App,3_1463700184303476737,https://pbs.twimg.com/media/FFAbkAcVIAE8v8Q.jpg,photo, ,suǝbbıɹɟ pıʌɐp,dakvid,False,556,464,"Wellington, New Zealand"
 1463779488353816578,"Day 25: interactive map #30DayMapChallenge A follow-up on yesterday's contribution, still based on @andre_ourednik historical map database. Not perfect, esp. for the choice of colours, but fun to watch.
-Do not miss the interactive version: https://t.co/y7XTgO2QOj https://t.co/I1zep3BFsJ",160578875,2021-11-25 08:00:00+00:00,en,1,1,2,0,Twitter Web App,3_1463266400492036101,https://pbs.twimg.com/media/FE6RCd0XoAULigS.png,photo, ,Xavier Olive,x00live,False,235,162
-1463778952569311233,The worldwide #30DayMapChallenge has reached Estonian Land Board. For every day in November one new map will appear. 25th day challenge: Interactive map. You can see the interactive map and whole gallery https://t.co/it1YIPjMyU https://t.co/NyRvAZtDDP,193592650,2021-11-25 07:57:52+00:00,en,1,1,1,0,Twitter Web App,3_1463778930117292034,https://pbs.twimg.com/media/FFBjLndXsAIfr-C.jpg,photo, ,Maa-amet,maaamet,False,174,89
-1463777701211394055,"Day 25: Interactive map. We called ourselves team sòrò soke and we decided to map locations of police harrasments in Lagos, Nigeria using tweets of some victims. Click on the link to view the map👇 @GemMsc @unitartu #30DayMapChallenge #QGIS https://t.co/1dEegeb42T https://t.co/INeRJ1hAzt",860502917253656576,2021-11-25 07:52:54+00:00,en,4,1,11,0,Twitter for Android,3_1463777698959011849,https://pbs.twimg.com/media/FFBiD9CXMAkIhMS.jpg,photo, ,Lilian Akudo Akanazu,akanazu_lilian,False,2208,257
+Do not miss the interactive version: https://t.co/y7XTgO2QOj https://t.co/I1zep3BFsJ",160578875,2021-11-25 08:00:00+00:00,en,1,1,2,0,Twitter Web App,3_1463266400492036101,https://pbs.twimg.com/media/FE6RCd0XoAULigS.png,photo, ,Xavier Olive,x00live,False,237,162,"Toulouse, France"
+1463778952569311233,The worldwide #30DayMapChallenge has reached Estonian Land Board. For every day in November one new map will appear. 25th day challenge: Interactive map. You can see the interactive map and whole gallery https://t.co/it1YIPjMyU https://t.co/NyRvAZtDDP,193592650,2021-11-25 07:57:52+00:00,en,1,1,1,0,Twitter Web App,3_1463778930117292034,https://pbs.twimg.com/media/FFBjLndXsAIfr-C.jpg,photo, ,Maa-amet,maaamet,False,174,89, 
+1463777701211394055,"Day 25: Interactive map. We called ourselves team sòrò soke and we decided to map locations of police harrasments in Lagos, Nigeria using tweets of some victims. Click on the link to view the map👇 @GemMsc @unitartu #30DayMapChallenge #QGIS https://t.co/1dEegeb42T https://t.co/INeRJ1hAzt",860502917253656576,2021-11-25 07:52:54+00:00,en,4,1,11,0,Twitter for Android,3_1463777698959011849,https://pbs.twimg.com/media/FFBiD9CXMAkIhMS.jpg,photo, ,Lilian Akudo Akanazu,akanazu_lilian,False,2208,257,"Tartu, Eesti"
 1463777046795108357,"It's day 25 of the #30DayMapChallenge! And happy #Thanksgiving to all who celebrate it! 
 
 Sticking with the two main themes of the day, today's interactive map shows key locations in #Hamilton the musical 
 
-Check it out here: https://t.co/cyVJjoH66D https://t.co/6J5Bx3cAie",437801734,2021-11-25 07:50:18+00:00,en,1,0,6,1,Twitter for Android,3_1463777044735709186,https://pbs.twimg.com/media/FFBhd33X0AISMzp.jpg,photo, ,Antonia Blankenberg,MapsByAntonia,False,473,520
-1463774903967043584,25. Interactive: cult stones and cross-trees in Estonia. Cross-trees are common in Southeastern Estonia where it was a funeral custom. Cult stones have had various purposes and are more common in Northern Estonia https://t.co/RExU6lyQq9  Data: EELIS #30DayMapChallenge #kepler https://t.co/DuVI6h5PCs,47698876,2021-11-25 07:41:47+00:00,en,3,0,31,0,Twitter Web App,3_1463774181917609985,https://pbs.twimg.com/media/FFBe3PCWUAEevVL.jpg,photo, ,Evelyn,evelynuuemaa,False,1061,350
-1463771964682559490,"#30DayMapChallenge (interactive) The scale of #deforestation can be hard to appreciate. To experiment with how to relate it - I put Hansen deforestation data into #Minecraft, where it is represented as voids in the landscape. https://t.co/hcKNjkCCjN",822048926081712128,2021-11-25 07:30:06+00:00,en,11,1,44,0,Twitter Web App,7_1463771521499893761,https://pbs.twimg.com/ext_tw_video_thumb/1463771521499893761/pu/img/-Yh-gLEkm6PtsP5y.jpg,video, ,Carl Churchill,Cchurchili,False,2696,1142
+Check it out here: https://t.co/cyVJjoH66D https://t.co/6J5Bx3cAie",437801734,2021-11-25 07:50:18+00:00,en,1,0,6,1,Twitter for Android,3_1463777044735709186,https://pbs.twimg.com/media/FFBhd33X0AISMzp.jpg,photo, ,Antonia Blankenberg,MapsByAntonia,False,483,523,"Dublin City, Ireland"
+1463774903967043584,25. Interactive: cult stones and cross-trees in Estonia. Cross-trees are common in Southeastern Estonia where it was a funeral custom. Cult stones have had various purposes and are more common in Northern Estonia https://t.co/RExU6lyQq9  Data: EELIS #30DayMapChallenge #kepler https://t.co/DuVI6h5PCs,47698876,2021-11-25 07:41:47+00:00,en,3,0,32,0,Twitter Web App,3_1463774181917609985,https://pbs.twimg.com/media/FFBe3PCWUAEevVL.jpg,photo, ,Evelyn,evelynuuemaa,False,1116,353,Estonia
+1463771964682559490,"#30DayMapChallenge (interactive) The scale of #deforestation can be hard to appreciate. To experiment with how to relate it - I put Hansen deforestation data into #Minecraft, where it is represented as voids in the landscape. https://t.co/hcKNjkCCjN",822048926081712128,2021-11-25 07:30:06+00:00,en,11,1,44,0,Twitter Web App,7_1463771521499893761,https://pbs.twimg.com/ext_tw_video_thumb/1463771521499893761/pu/img/-Yh-gLEkm6PtsP5y.jpg,video, ,Carl Churchill,Cchurchili,False,2724,1143,CO / Tabeguache Ute Land
 1463768979772747776,"#30DayMapChallenge
 https://t.co/tyRp20AfPr offers plenty of interactive maps for #Helsinki, #Espoo, and #Vantaa regions.
 
 Check it out here: https://t.co/gmx6bwQQ5s
 
-#Opensource, #Datavisualization, #urbanscience, #OpenData, #Dashboard https://t.co/jW4MWcL4lN",1363413193364811779,2021-11-25 07:18:14+00:00,en,1,1,1,0,Twitter Web App,3_1463768394122076165,https://pbs.twimg.com/media/FFBZmV0XIAUAniv.jpg,photo, ,Tigran Khachatryan,geometrein,False,12,50
+#Opensource, #Datavisualization, #urbanscience, #OpenData, #Dashboard https://t.co/jW4MWcL4lN",1363413193364811779,2021-11-25 07:18:14+00:00,en,1,1,1,0,Twitter Web App,3_1463768394122076165,https://pbs.twimg.com/media/FFBZmV0XIAUAniv.jpg,photo, ,Tigran Khachatryan,geometrein,False,12,50, 
 1463768081759625216,"#30DayMapChallenge Day 25, Interactive. Togo is the place to go!  :-P
-(Sorry, I didn't want to go through all the trouble of setting up a web server, so this is a recording from running on my local computer). https://t.co/lW0bHrNGPY",1143779197107806208,2021-11-25 07:14:40+00:00,en,4,0,18,0,Twitter Web App,7_1463767958212251649,https://pbs.twimg.com/ext_tw_video_thumb/1463767958212251649/pu/img/9E2G6JGuiIH-BXT2.jpg,video, ,Jonas Nelson,JonasNelson19,False,42,6
-1463767580724785154,"#30DayMapChallenge Day 24 historical! Here is the first railway in Australia, 1878. I wanted to go crazy with attempting an old map hand-drawn look only using QGIS (plus some SVG markers), this is as far as I got. I quite like my ship 😀 https://t.co/Q4KPcc9mPI",14851579,2021-11-25 07:12:41+00:00,en,1,1,23,0,Twitter Web App,3_1463767248703672322,https://pbs.twimg.com/media/FFBYjqzVUAI8ZmR.jpg,photo, ,Kylie Wilson,_kyliejane,False,552,161
-1463766215227228160,#30daymapchallenge #inkscape https://t.co/ITNVhn9DH4,233135248,2021-11-25 07:07:15+00:00,und,1,0,0,0,Twitter Web App,3_1463765997811388419,https://pbs.twimg.com/media/FFBXa23X0AMICX3.jpg,photo, ,Jrombf,jrombf,False,95,458
+(Sorry, I didn't want to go through all the trouble of setting up a web server, so this is a recording from running on my local computer). https://t.co/lW0bHrNGPY",1143779197107806208,2021-11-25 07:14:40+00:00,en,4,0,20,0,Twitter Web App,7_1463767958212251649,https://pbs.twimg.com/ext_tw_video_thumb/1463767958212251649/pu/img/9E2G6JGuiIH-BXT2.jpg,video, ,Jonas Nelson,JonasNelson19,False,45,7,Sweden
+1463767580724785154,"#30DayMapChallenge Day 24 historical! Here is the first railway in Australia, 1878. I wanted to go crazy with attempting an old map hand-drawn look only using QGIS (plus some SVG markers), this is as far as I got. I quite like my ship 😀 https://t.co/Q4KPcc9mPI",14851579,2021-11-25 07:12:41+00:00,en,1,1,23,0,Twitter Web App,3_1463767248703672322,https://pbs.twimg.com/media/FFBYjqzVUAI8ZmR.jpg,photo, ,Kylie Wilson,_kyliejane,False,553,161,Sydney or Tokyo
+1463766215227228160,#30daymapchallenge #inkscape https://t.co/ITNVhn9DH4,233135248,2021-11-25 07:07:15+00:00,und,1,0,0,0,Twitter Web App,3_1463765997811388419,https://pbs.twimg.com/media/FFBXa23X0AMICX3.jpg,photo, ,Jérôme Boeuf,jrombf,False,95,458,"Besançon, France"
 1463765416862359556,"Day 24 of #30DayMapChallenge, historical maps: very many years ago I scanned a collection of Oakland maps going back to the 1870s and created this still-working UI. It was also my first-ever OSM Mapnik render. 
 
 https://t.co/Qms0s1AV4D
 
-Amazingly the Microsoft URLs still work! https://t.co/bZvEs9YPfn",93046641,2021-11-25 07:04:05+00:00,en,1,1,5,0,TweetDeck,3_1463765158044471299,https://pbs.twimg.com/media/FFBWp-fVkAMBBdo.jpg,photo, ,Michal Migurski,michalmigurski,False,4674,12
+Amazingly the Microsoft URLs still work! https://t.co/bZvEs9YPfn",93046641,2021-11-25 07:04:05+00:00,en,1,1,6,0,TweetDeck,3_1463765158044471299,https://pbs.twimg.com/media/FFBWp-fVkAMBBdo.jpg,photo, ,Michal Migurski,michalmigurski,False,4680,12,Oakland CA
 1463764891664367616,"#30DayMapChallenge Day 25: Interactive map
 
 Take a #scrollytelling journey to the iconic #LordOfTheRings filming locations from the Shire to Mordor all located in New Zealand: https://t.co/m0MNUwljwR
 
-#builtwithmapbox #storytelling #lotr https://t.co/25p0ZqSsmh",1024584556110852096,2021-11-25 07:02:00+00:00,en,1,1,10,0,Twitter Web App,7_1463518675441532936,https://pbs.twimg.com/ext_tw_video_thumb/1463518675441532936/pu/img/YKhCN2JkFjaffhZe.jpg,video, ,Kontur,KonturInc,False,1009,1206
+#builtwithmapbox #storytelling #lotr https://t.co/25p0ZqSsmh",1024584556110852096,2021-11-25 07:02:00+00:00,en,1,1,12,0,Twitter Web App,7_1463518675441532936,https://pbs.twimg.com/ext_tw_video_thumb/1463518675441532936/pu/img/YKhCN2JkFjaffhZe.jpg,video, ,Kontur,KonturInc,False,1016,1208,"Hawaii, USA"
 1463764640102498309,"#30DayMapChallenge day 25 (interactive)
 
-London tube journeys according to 2017 TfL RODS survey data. I wish more recent data were available. Interactive @unfoldedinc map with station filtering: https://t.co/VCeYTzElt8 https://t.co/PEpgoFFc0V",963423777135759360,2021-11-25 07:01:00+00:00,en,2,0,8,0,Twitter Web App,3_1463560911839539204,https://pbs.twimg.com/media/FE-c5SFXsAQG7vK.jpg,photo, ,Ilya Ilyankou,ilyankou,False,431,399
+London tube journeys according to 2017 TfL RODS survey data. I wish more recent data were available. Interactive @unfoldedinc map with station filtering: https://t.co/VCeYTzElt8 https://t.co/PEpgoFFc0V",963423777135759360,2021-11-25 07:01:00+00:00,en,2,0,9,0,Twitter Web App,3_1463560911839539204,https://pbs.twimg.com/media/FE-c5SFXsAQG7vK.jpg,photo, ,Ilya Ilyankou,ilyankou,False,431,401,London
 1463764391871057922,"#30DayMapChallenge
 
 Day 25 - Interactive map
@@ -605,7 +598,7 @@ Municipios de Bolivia.
 Data source/Fuente datos: INE Bolivia, Censo de población y vivienda 2012.
 Prepared/Elaborado: Unfolded Studio, QGIS
 
-Map link: https://t.co/WGwbepo5Lw https://t.co/9ZCNO7XYSl",38113384,2021-11-25 07:00:01+00:00,es,1,0,2,0,Twitter Web App,3_1463729869666365443,https://pbs.twimg.com/media/FFA2j7CXsAMVCSr.jpg,photo, ,Eric Armijo,rcrmj,False,177,144
+Map link: https://t.co/WGwbepo5Lw https://t.co/9ZCNO7XYSl",38113384,2021-11-25 07:00:01+00:00,es,1,0,2,0,Twitter Web App,3_1463729869666365443,https://pbs.twimg.com/media/FFA2j7CXsAMVCSr.jpg,photo, ,Eric Armijo,rcrmj,False,177,147,"Santa Cruz, Bolivia"
 1463764388557377539,"Day 25 of the #30DayMapChallenge - Interactive map
 
 Our Honeymoon trip through Scotland, England and (a bit of) Wales
@@ -615,25 +608,25 @@ Data: Me, MapLibre GL JS Tiles  background
 #30DaysOfPokemon Color Palette - Clefable
 
 Link to the map https://t.co/PRkTaEyF3p
-#30_ימי_מיפוי https://t.co/fdb18Qv29O",1174353681946484739,2021-11-25 07:00:00+00:00,en,1,1,5,0,Twitter Web App,3_1462710994057191424,https://pbs.twimg.com/media/FEyX5jnWYAAzxmW.jpg,photo, ,Dror Bogin,bogind2,False,161,291
+#30_ימי_מיפוי https://t.co/fdb18Qv29O",1174353681946484739,2021-11-25 07:00:00+00:00,en,1,1,5,0,Twitter Web App,3_1462710994057191424,https://pbs.twimg.com/media/FEyX5jnWYAAzxmW.jpg,photo, ,Dror Bogin,bogind2,False,169,292,Israel
 1463762238054051848,"Today, following yesterday's rendering
-I have rendered a geology map from @IGME1849. Impressive que clarity of cretaceous materials everywhere (hard materials) and then the more soft materials in purple colours (rivers Cabriel and Cautaban). #30DayMapChallenge #Blender3D #jalance https://t.co/QPFjSQZahJ",718494860,2021-11-25 06:51:27+00:00,en,5,0,16,0,Twitter for Android,3_1463762235797479434,https://pbs.twimg.com/media/FFBT_4RXIAoHjt9.jpg,photo, ,GeoMariano,Geo_mpm,False,818,1282
+I have rendered a geology map from @IGME1849. Impressive que clarity of cretaceous materials everywhere (hard materials) and then the more soft materials in purple colours (rivers Cabriel and Cautaban). #30DayMapChallenge #Blender3D #jalance https://t.co/QPFjSQZahJ",718494860,2021-11-25 06:51:27+00:00,en,5,0,16,0,Twitter for Android,3_1463762235797479434,https://pbs.twimg.com/media/FFBT_4RXIAoHjt9.jpg,photo, ,GeoMariano,Geo_mpm,False,818,1284,"Lower Stondon, England"
 1463761234008936449,"Day 25 - Interactive Map
 Scottish Carbon using datasets openly available through ArcGIS Online and Living Atlas.
 Interactive Map Link - https://t.co/z2c7V9by33
-#30DayMapChallenge https://t.co/OmeD8Adm32",1694963077,2021-11-25 06:47:28+00:00,en,1,0,1,0,Twitter Web App,3_1463761118992678913,https://pbs.twimg.com/media/FFBS-32WQAEV2HF.jpg,photo, ,Marcus Humphrey,92MBH,False,93,126
-1463760062158147586,"#30daymapchallenge  jour 25 carte interactive (low tech), Blitz Covid,un jeu de plateau (de 2 à 7,8 milliards de joueurs). But : arriver sain et sauf en 202?. Jeu en constante évolution, à actualiser sans cesse https://t.co/lyxLzlRR6O",1189967197730430977,2021-11-25 06:42:48+00:00,fr,2,0,5,0,Twitter for Android,3_1463760058270031876,https://pbs.twimg.com/media/FFBSBIWXIAQmzKi.jpg,photo, ,Julien Dupont Kobri,Kartokobri,False,877,387
+#30DayMapChallenge https://t.co/OmeD8Adm32",1694963077,2021-11-25 06:47:28+00:00,en,1,0,1,0,Twitter Web App,3_1463761118992678913,https://pbs.twimg.com/media/FFBS-32WQAEV2HF.jpg,photo, ,Marcus Humphrey,92MBH,False,93,126,"Perth, Scotland"
+1463760062158147586,"#30daymapchallenge  jour 25 carte interactive (low tech), Blitz Covid,un jeu de plateau (de 2 à 7,8 milliards de joueurs). But : arriver sain et sauf en 202?. Jeu en constante évolution, à actualiser sans cesse https://t.co/lyxLzlRR6O",1189967197730430977,2021-11-25 06:42:48+00:00,fr,2,1,6,0,Twitter for Android,3_1463760058270031876,https://pbs.twimg.com/media/FFBSBIWXIAQmzKi.jpg,photo, ,Julien Dupont Kobri,Kartokobri,False,880,387, 
 1463758596106334208,"#30DayMapChallenge - Day 25 - Interactive
 
 How did precipitation change in Ghana, Burkina Faso and Niger in the last years compared to the long-term mean?
 
 Created using R + shiny. Code: https://t.co/oIhlgsYrpy
 
-Interactive version to try out: https://t.co/SkXwouzd2U https://t.co/ppuKenh9bE",733390000809730049,2021-11-25 06:36:59+00:00,en,2,1,11,0,Twitter Web App,16_1463755550949322755,https://pbs.twimg.com/tweet_video_thumb/FFBN6xRXMAMndun.jpg,animated_gif, ,Richard Vogg,richard_vogg,False,338,342
+Interactive version to try out: https://t.co/SkXwouzd2U https://t.co/ppuKenh9bE",733390000809730049,2021-11-25 06:36:59+00:00,en,2,1,12,0,Twitter Web App,16_1463755550949322755,https://pbs.twimg.com/tweet_video_thumb/FFBN6xRXMAMndun.jpg,animated_gif, ,Richard Vogg,richard_vogg,False,347,345,Germany
 1463756839183536131,"Only a few more days left in the #30DayMapChallenge!
 Today is #interactive mapping day and using @unfoldedinc visualized how many buses depart per stop in Hamburg.
 
-https://t.co/cykY5Sf6hp https://t.co/Pous5cUvny",70192766,2021-11-25 06:30:00+00:00,en,1,0,5,1,Twitter Web App,3_1463470277774479362,https://pbs.twimg.com/media/FE9Kdr4XEAI5xSq.jpg,photo, ,Achim Tack,A_Tack,False,1812,1261
+https://t.co/cykY5Sf6hp https://t.co/Pous5cUvny",70192766,2021-11-25 06:30:00+00:00,en,1,0,5,1,Twitter Web App,3_1463470277774479362,https://pbs.twimg.com/media/FE9Kdr4XEAI5xSq.jpg,photo, ,Achim Tack,A_Tack,False,1829,1263,"Hamburg, Germany"
 1463756031633334272,"Day 25 or #30DayMapChallenge: Interactive
 
 Donostiako atari guztiak, kalearen arabera koloreztatuak. 
@@ -641,63 +634,63 @@ Donostiako atari guztiak, kalearen arabera koloreztatuak.
 Datuak: OpenData Donostia
 Softwarea: Unfolded (izugarri erraza)
 
-Interaktiboa: https://t.co/8oPejzYTdz https://t.co/mtkIaOGLGj",19770809,2021-11-25 06:26:47+00:00,eu,1,1,4,0,Twitter Web App,3_1463755857812987904,https://pbs.twimg.com/media/FFBOMobXIAAS62s.jpg,photo, ,Galder Gonzalez🔻,theklaneh,False,9277,1307
-1463754033055760385,"For the Interactive Map Day 25 #30DayMapChallenge, I've collaborated with @recifs, @mootari on @observablehq to build this fun game! Using #TensorflowJS and #facemesh, you have to use your nose to match places around the globe. Happy Thanksgiving Map Day! https://t.co/BogM22Z3Qn https://t.co/w9ttQ8cwaQ",18874859,2021-11-25 06:18:51+00:00,en,18,3,94,9,Twitter Web App,7_1463751049110425604,https://pbs.twimg.com/ext_tw_video_thumb/1463751049110425604/pu/img/I72bzgNYMgRethi1.jpg,video, ,Radamés Ajna,radamar,False,942,717
+Interaktiboa: https://t.co/8oPejzYTdz https://t.co/mtkIaOGLGj",19770809,2021-11-25 06:26:47+00:00,eu,1,1,4,0,Twitter Web App,3_1463755857812987904,https://pbs.twimg.com/media/FFBOMobXIAAS62s.jpg,photo, ,Galder Gonzalez🔻,theklaneh,False,9277,1309,Euskal Herria
+1463754033055760385,"For the Interactive Map Day 25 #30DayMapChallenge, I've collaborated with @recifs, @mootari on @observablehq to build this fun game! Using #TensorflowJS and #facemesh, you have to use your nose to match places around the globe. Happy Thanksgiving Map Day! https://t.co/BogM22Z3Qn https://t.co/w9ttQ8cwaQ",18874859,2021-11-25 06:18:51+00:00,en,20,3,103,10,Twitter Web App,7_1463751049110425604,https://pbs.twimg.com/ext_tw_video_thumb/1463751049110425604/pu/img/I72bzgNYMgRethi1.jpg,video, ,Radamés Ajna,radamar,False,943,717,"The Bay Area, CA"
 1463750956600807424,"#30DayMapChallenge 
 Day 25: Interactive Map
 Interactive map with a table on the contact tracing locations of interest for COVID-19 in NZ. Create in #rstats #rshiny, using the data from the Ministry of Health. 
 Interactive map: https://t.co/OzCWFRvPm2
-Code: https://t.co/bbgR9tVmBe https://t.co/CwpWjYfDae",42303649,2021-11-25 06:06:37+00:00,en,3,0,5,0,Twitter Web App,3_1463750302662737921,https://pbs.twimg.com/media/FFBJJR4VQAEIFoq.jpg,photo, ,Kevin Chang,kevin_ct_chang,False,47,534
-1463749950186086404,"Day 24 #30DayMapChallenge historical places - ""pubs"") https://t.co/b02VNuflx8",86087153,2021-11-25 06:02:37+00:00,en,1,0,2,0,Twitter Web App,3_1463749870414610432,https://pbs.twimg.com/media/FFBIwHoWQAAqmMN.jpg,photo, ,Дмитрий,DBusAI,False,34,247
-1463749320549838850,Today’s #30DayMapChallenge theme was an interactive map. 🗺️✨ @kovalainenaa divided Japan into bar areas and pray areas based on dataset from OSM. The map was done with QGIS and qgis2web plugin. See the full map here 👉 https://t.co/UGaCa2GI4l https://t.co/PzL8eedq6U,973813309811187713,2021-11-25 06:00:07+00:00,en,3,0,13,0,Buffer,7_1463749304120717315,https://pbs.twimg.com/ext_tw_video_thumb/1463749304120717315/pu/img/Ju6pGdmXvpgrlg_2.jpg,video, ,Gispo,gispofinland,False,993,298
+Code: https://t.co/bbgR9tVmBe https://t.co/CwpWjYfDae",42303649,2021-11-25 06:06:37+00:00,en,4,0,8,0,Twitter Web App,3_1463750302662737921,https://pbs.twimg.com/media/FFBJJR4VQAEIFoq.jpg,photo, ,Kevin Chang,kevin_ct_chang,False,49,534,New Zealand
+1463749950186086404,"Day 24 #30DayMapChallenge historical places - ""pubs"") https://t.co/b02VNuflx8",86087153,2021-11-25 06:02:37+00:00,en,1,0,2,0,Twitter Web App,3_1463749870414610432,https://pbs.twimg.com/media/FFBIwHoWQAAqmMN.jpg,photo, ,Дмитрий,DBusAI,False,34,248,"Москва, Россия"
+1463749320549838850,Today’s #30DayMapChallenge theme was an interactive map. 🗺️✨ @kovalainenaa divided Japan into bar areas and pray areas based on dataset from OSM. The map was done with QGIS and qgis2web plugin. See the full map here 👉 https://t.co/UGaCa2GI4l https://t.co/PzL8eedq6U,973813309811187713,2021-11-25 06:00:07+00:00,en,3,0,13,0,Buffer,7_1463749304120717315,https://pbs.twimg.com/ext_tw_video_thumb/1463749304120717315/pu/img/Ju6pGdmXvpgrlg_2.jpg,video, ,Gispo,gispofinland,False,998,298,"Helsinki, Suomi"
 1463748176880582657,"#30DayMapChallenge | 25 | Interactive Map
 Vancouver bikeways, traffic signals and view cones, data from City of Vancouver. Created in #rstats with {tmap}.
 
-Interactive map and code: https://t.co/pjG3R50uyd https://t.co/LPAF3TrF3s",1331215289825030147,2021-11-25 05:55:35+00:00,en,8,0,22,0,Twitter Web App,3_1463748077530005505,https://pbs.twimg.com/media/FFBHHwnWQAEZnrD.jpg,photo, ,leeolney,leeolney3,False,276,303
-1463742672103952384,Lost forever. Everything that has gone into history #30DayMapChallenge 25.11.2021 Interactive map https://t.co/Xy0pxzDa45 https://t.co/3gm7MgYN6e,936104214719320064,2021-11-25 05:33:42+00:00,en,1,0,2,0,Twitter Web App,16_1463742479866503173,https://pbs.twimg.com/tweet_video_thumb/FFBCB7sXoAUljXw.jpg,animated_gif, ,Ingo Valgma,IngoValgma,False,45,416
+Interactive map and code: https://t.co/pjG3R50uyd https://t.co/LPAF3TrF3s",1331215289825030147,2021-11-25 05:55:35+00:00,en,8,0,22,0,Twitter Web App,3_1463748077530005505,https://pbs.twimg.com/media/FFBHHwnWQAEZnrD.jpg,photo, ,leeolney,leeolney3,False,281,306, 
+1463742672103952384,Lost forever. Everything that has gone into history #30DayMapChallenge 25.11.2021 Interactive map https://t.co/Xy0pxzDa45 https://t.co/3gm7MgYN6e,936104214719320064,2021-11-25 05:33:42+00:00,en,1,0,2,0,Twitter Web App,16_1463742479866503173,https://pbs.twimg.com/tweet_video_thumb/FFBCB7sXoAUljXw.jpg,animated_gif, ,Ingo Valgma,IngoValgma,False,45,416,Estonia
 1463740896105701381,"#30DayMapChallenge Day 24 Historical 
 
 ""... La ville serait-elle entièrement planifiée selon des plans d’urbanisme imposés d’en haut ? ... Au contraire, une grande majorité de la fabrication urbaine est impensée.""
 
-https://t.co/xLlEKyqWF2 https://t.co/oJiXr6bqLC",1238816326459822081,2021-11-25 05:26:39+00:00,fr,4,0,8,1,Twitter Web App,3_1463740890556608515,https://pbs.twimg.com/media/FFBAlbDXMAMQF9R.jpg,photo, ,{Chôros{,ChorosTweets,False,146,625
+https://t.co/xLlEKyqWF2 https://t.co/oJiXr6bqLC",1238816326459822081,2021-11-25 05:26:39+00:00,fr,4,0,8,1,Twitter Web App,3_1463740890556608515,https://pbs.twimg.com/media/FFBAlbDXMAMQF9R.jpg,photo, ,{Chôros{,ChorosTweets,False,149,626, 
 1463731555705131011,"Day 25:Interactive #30DayMapChallenge 2021 @tjukanov
 World Countries and #Urban #Population 2018 
 #GeoJSON for map generated using #FME @SafeSoftware 
 Visualization using @unfoldedinc Studio 
 Data Source: @UN World Urbanization Prospects: The 2018 Revision
-https://t.co/bjsukWJWhW https://t.co/uSQnqiafxw",105407287,2021-11-25 04:49:32+00:00,en,0,0,3,0,Twitter Web App,3_1463731414915227650,https://pbs.twimg.com/media/FFA393iaIAIZegH.jpg,photo, ,SRG,Saint_GIS,False,154,88
+https://t.co/bjsukWJWhW https://t.co/uSQnqiafxw",105407287,2021-11-25 04:49:32+00:00,en,0,0,4,0,Twitter Web App,3_1463731414915227650,https://pbs.twimg.com/media/FFA393iaIAIZegH.jpg,photo, ,SRG,Saint_GIS,False,156,88,"Chennai, India"
 1463730700956409857,"تصویر ماهواره ای ۲ آذر ۱۴۰۰ از کوه دماوند که با ارتفاع ۵۶۱۰ متری بلندترین کوه ایران و بلندترین آتشفشان آسیا و خاورمیانه است.
 #نماد_ایران
 #30DayMapChallenge 
-@sentinel_hub https://t.co/gIwUGNe8Ng",1251715976757940224,2021-11-25 04:46:08+00:00,fa,3,0,13,0,Twitter for Android,3_1463730693016625155,https://pbs.twimg.com/media/FFA3T2QXoAMaSki.jpg,photo, ,Tiznegar,tiznegar,False,237,325
+@sentinel_hub https://t.co/gIwUGNe8Ng",1251715976757940224,2021-11-25 04:46:08+00:00,fa,3,0,13,0,Twitter for Android,3_1463730693016625155,https://pbs.twimg.com/media/FFA3T2QXoAMaSki.jpg,photo, ,Tiznegar,tiznegar,False,237,325, 
 1463728531246960642,"A 2-in1 today: days 20 and 22, movement and boundaries
 
 Isochrones showing how far you can walk from the centre of Melbourne in 15, 30, 45, and 60 minutes
 
 code: https://t.co/0eQW6R2kf6
 
-#30DayMapChallenge #rstats #rspatial https://t.co/wJVAf8yZOX",820847294073303040,2021-11-25 04:37:31+00:00,en,7,3,26,2,Twitter Web App,3_1463728446572404736,https://pbs.twimg.com/media/FFA1RFmVIAAiS1i.jpg,photo, ,Shandiya Balasubramaniam,ShandiyaB,False,456,811
+#30DayMapChallenge #rstats #rspatial https://t.co/wJVAf8yZOX",820847294073303040,2021-11-25 04:37:31+00:00,en,7,3,26,2,Twitter Web App,3_1463728446572404736,https://pbs.twimg.com/media/FFA1RFmVIAAiS1i.jpg,photo, ,Shandiya Balasubramaniam,ShandiyaB,False,457,813,Unceded Wurundjeri Country
 1463726207674032130,"We love todays #30DayMapChallenge ‘Interactive Map’ theme because https://t.co/yOQ7v9hiSe makes maps interactive! 🗺️
 
 Our Visual Collaboration Tool (VCT) lets you draw &amp; comment on maps. Upload maps and use VCT to complete today’s challenge.
 
-Try it now: https://t.co/3FC2bMqjMe https://t.co/GP4QOQJRQS",959750470678986752,2021-11-25 04:28:17+00:00,en,2,0,3,0,Sendible,7_1463726157296193536,https://pbs.twimg.com/ext_tw_video_thumb/1463726157296193536/pu/img/DkAMAQJ8wrZGAvAv.jpg,video, ,Soar.Earth,Soar_Earth,False,2673,814
+Try it now: https://t.co/3FC2bMqjMe https://t.co/GP4QOQJRQS",959750470678986752,2021-11-25 04:28:17+00:00,en,3,0,6,0,Sendible,7_1463726157296193536,https://pbs.twimg.com/ext_tw_video_thumb/1463726157296193536/pu/img/DkAMAQJ8wrZGAvAv.jpg,video, ,Soar.Earth,Soar_Earth,False,2680,814,Earth
 1463725175187324930,"Mention someone here with u
 https://t.co/ikyIDowpsE
 
 Booking are now open
 Birthday function on floating raft
 
-#BCFlood #BCStorm #gandhara #khanpur #islamabadian #30DayMapChallenge #aarsbl21 #aarsbl21 #BCFlood #bobandung https://t.co/KeIctRZhla",1463180094378102786,2021-11-25 04:24:11+00:00,en,0,0,0,0,Twitter for Android,7_1463725105620598788,https://pbs.twimg.com/ext_tw_video_thumb/1463725105620598788/pu/img/w-OCLtw1atLByeZF.jpg,video, ,GANDHARA CASTLE RESORT,Gandhararesort,False,1,6
+#BCFlood #BCStorm #gandhara #khanpur #islamabadian #30DayMapChallenge #aarsbl21 #aarsbl21 #BCFlood #bobandung https://t.co/KeIctRZhla",1463180094378102786,2021-11-25 04:24:11+00:00,en,0,0,0,0,Twitter for Android,7_1463725105620598788,https://pbs.twimg.com/ext_tw_video_thumb/1463725105620598788/pu/img/w-OCLtw1atLByeZF.jpg,video, ,GANDHARA CASTLE RESORT,Gandhararesort,False,1,6, 
 1463722143146024960,"Día 14/16 (las elecciones me tenían en otra)
 Desafíos: Nueva herramienta + Urbano/Rural 
 
 Aquí se muestra la distribución bivariada entre la población rural y urbana de la VI Región usando #R
 
-#30DayMapChallenge https://t.co/8sXzyjsomq",1247748376986148864,2021-11-25 04:12:08+00:00,es,1,0,1,0,Twitter Web App,3_1463722036669390855,https://pbs.twimg.com/media/FFAvb-2XIAc8Aq2.jpg,photo, ,manu 🏳️‍🌈🌳,untalmaniconaji,False,255,926
+#30DayMapChallenge https://t.co/8sXzyjsomq",1247748376986148864,2021-11-25 04:12:08+00:00,es,1,0,1,0,Twitter Web App,3_1463722036669390855,https://pbs.twimg.com/media/FFAvb-2XIAc8Aq2.jpg,photo, ,manu 🏳️‍🌈🌳,untalmaniconaji,False,258,929,Chile
 1463717201660153856,"#30DayMapChallenge
 Día 24: Histórico 
-Elaboración propia con información de imágenes satelital y planos de la ciudad. https://t.co/AgVKOAsUaA",1352456228455256068,2021-11-25 03:52:30+00:00,es,3,1,11,1,Twitter for Android,3_1463717193741385734,https://pbs.twimg.com/media/FFArCFiWQAYlU0Y.jpg,photo, ,Guaiacum,Guaiacumac,False,115,46
+Elaboración propia con información de imágenes satelital y planos de la ciudad. https://t.co/AgVKOAsUaA",1352456228455256068,2021-11-25 03:52:30+00:00,es,3,1,11,1,Twitter for Android,3_1463717193741385734,https://pbs.twimg.com/media/FFArCFiWQAYlU0Y.jpg,photo, ,Guaiacum,Guaiacumac,False,117,46,"Culiacán, Sinaloa"
 1463705740498157571,"Merchant view. 
 
 thimes of fish meeting at river banks to aqwire current
@@ -705,19 +698,19 @@ thimes of fish meeting at river banks to aqwire current
 may we prosper in the times we are in.
 *^
 
-#NFTartist #30DayMapChallenge #OpenSeaNFT #NFTLAUNCH https://t.co/AUaedu4eZX",1387842125581242370,2021-11-25 03:06:57+00:00,en,0,1,1,0,Twitter for iPhone,3_1463705735586631686,https://pbs.twimg.com/media/FFAgnIlX0AYjeCa.jpg,photo, ,21cry to,21merchants,False,15,169
+#NFTartist #30DayMapChallenge #OpenSeaNFT #NFTLAUNCH https://t.co/AUaedu4eZX",1387842125581242370,2021-11-25 03:06:57+00:00,en,0,1,1,0,Twitter for iPhone,3_1463705735586631686,https://pbs.twimg.com/media/FFAgnIlX0AYjeCa.jpg,photo, ,21cry to,21merchants,False,17,178,A Space
 1463705094076174341,"Need to make this map a little bit fancier but that's happening after I'm done w/ #30DayMapChallenge 
 Day 24: Historical 🦖
 Overlay of current major roads on a historical map of Trinidad's railways!
-https://t.co/HrKOGbMGaM https://t.co/sPKftTddZt",32127911,2021-11-25 03:04:23+00:00,en,1,0,6,0,Twitter Web App,3_1463704883996016643,https://pbs.twimg.com/media/FFAf1kKWQAMEBm7.jpg,photo, ,Z,Zaaaana_,False,405,343
-1463703612983554057,as a toponym modernization watcher(?) I was delighted by Secretary of the Interior Deb Haaland's announcement last week that features on federal lands with a derogatory term in their name will be changed #30DayMapChallenge https://t.co/orKqI2igdo,14913762,2021-11-25 02:58:30+00:00,en,6,0,36,0,Twitter Web App,3_1463703058488209410,https://pbs.twimg.com/media/FFAeLTnXsAIJfKW.jpg,photo, ,vicky johnson-dahl,hurricanevicky,False,1176,832
+https://t.co/HrKOGbMGaM https://t.co/sPKftTddZt",32127911,2021-11-25 03:04:23+00:00,en,1,0,8,0,Twitter Web App,3_1463704883996016643,https://pbs.twimg.com/media/FFAf1kKWQAMEBm7.jpg,photo, ,Z,Zaaaana_,False,408,349,TT
+1463703612983554057,as a toponym modernization watcher(?) I was delighted by Secretary of the Interior Deb Haaland's announcement last week that features on federal lands with a derogatory term in their name will be changed #30DayMapChallenge https://t.co/orKqI2igdo,14913762,2021-11-25 02:58:30+00:00,en,6,0,36,0,Twitter Web App,3_1463703058488209410,https://pbs.twimg.com/media/FFAeLTnXsAIJfKW.jpg,photo, ,vicky johnson-dahl,hurricanevicky,False,1183,833,"Washington, DC"
 1463694188290232320,"Día 24: mapa histórico
 Plano Catastral del partido de General Pueyrredon (provincia de Buenos Aires, Argentina) elaborado por Carlos de Chapeaurouge (1905)
 Fuente: https://t.co/JAuFXTneAx
-#30DayMapChallenge https://t.co/ZiSi6BulS8",402826093,2021-11-25 02:21:03+00:00,es,1,0,2,0,Twitter Web App,3_1463694035042852868,https://pbs.twimg.com/media/FFAV-EqWYAQBByn.jpg,photo, ,Gabi Calderon,GabiCalderon18,False,187,892
+#30DayMapChallenge https://t.co/ZiSi6BulS8",402826093,2021-11-25 02:21:03+00:00,es,1,0,2,0,Twitter Web App,3_1463694035042852868,https://pbs.twimg.com/media/FFAV-EqWYAQBByn.jpg,photo, ,Gabi Calderon,GabiCalderon18,False,186,896,Mar del Plata | Argentina
 1463693224782876675,"Here I revised a map that I had made for @bisexualscience .  Over 4 aggregate surveys, in this metric---Global Acceptance Index of LGBT populations---Iceland ranked the highest with a score of 8.9 (other end of the spectrum around 2.0)
 
-#30DayMapChallenge Day 24: Historical Map https://t.co/y4bVkBJkxP",754537285660573696,2021-11-25 02:17:13+00:00,en,4,1,6,0,Twitter Web App,16_1463692894259204101,https://pbs.twimg.com/tweet_video_thumb/FFAU7q6VUAUSMle.jpg,animated_gif, ,Derek Sollberger,DerekSollberger,False,338,709
+#30DayMapChallenge Day 24: Historical Map https://t.co/y4bVkBJkxP",754537285660573696,2021-11-25 02:17:13+00:00,en,4,1,6,0,Twitter Web App,16_1463692894259204101,https://pbs.twimg.com/tweet_video_thumb/FFAU7q6VUAUSMle.jpg,animated_gif, ,Derek Sollberger,DerekSollberger,False,339,710,"Merced, CA"
 1463692604567134212,"#30DayMapChallenge
 
 Day 24 - Historical map
@@ -727,21 +720,21 @@ Día 24 - Mapa histórico
 Misiones jesuíticas de Moxos y Chiquitos, Bolivia.
 
 Data source/Fuente datos: Wikipedia, Natural Earth.
-Prepared/Elaborado: QGIS https://t.co/Jj1ELMOB4V",38113384,2021-11-25 02:14:45+00:00,pt,1,0,3,0,Twitter Web App,3_1463692011530297350,https://pbs.twimg.com/media/FFAUISfXIAYTrVm.jpg,photo, ,Eric Armijo,rcrmj,False,177,144
-1463692195895005184,#30DayMapChallenge 2021 | Day 24 | Historical map | Townlands | Bhailte Fearainn | Toonlann | using R {sf}{tmap}{dply}. #Rstats. using open data https://t.co/6hLF83KAha https://t.co/rLFjXcdIF2,563607513,2021-11-25 02:13:08+00:00,en,3,1,1,0,Twitter Web App,3_1463690801804763140,https://pbs.twimg.com/media/FFATB36UYAQpOwC.png,photo, ,Malcolm Campbell,CampbellMH,False,661,2146
+Prepared/Elaborado: QGIS https://t.co/Jj1ELMOB4V",38113384,2021-11-25 02:14:45+00:00,pt,1,0,4,0,Twitter Web App,3_1463692011530297350,https://pbs.twimg.com/media/FFAUISfXIAYTrVm.jpg,photo, ,Eric Armijo,rcrmj,False,177,147,"Santa Cruz, Bolivia"
+1463692195895005184,#30DayMapChallenge 2021 | Day 24 | Historical map | Townlands | Bhailte Fearainn | Toonlann | using R {sf}{tmap}{dply}. #Rstats. using open data https://t.co/6hLF83KAha https://t.co/rLFjXcdIF2,563607513,2021-11-25 02:13:08+00:00,en,3,1,1,0,Twitter Web App,3_1463690801804763140,https://pbs.twimg.com/media/FFATB36UYAQpOwC.png,photo, ,Malcolm Campbell,CampbellMH,False,663,2151,"Christchurch, NZ"
 1463682594692685824,"🗺️NEW🗺️ #30DayMapChallenge GHSL+Historical
 Besides population and area, I was surprised to find measures such as PM2.5, flood, soil... in the GHS Urban Center Database 🤩
-Interactive version: https://t.co/YE9SGq19Gb https://t.co/sCPHmqXoQ9",1160963883860762624,2021-11-25 01:34:59+00:00,en,3,1,42,1,Twitter Web App,3_1463679428840464386,https://pbs.twimg.com/media/FFAIr4UVIAICaZ8.jpg,photo, ,Wendy Shijia,ShijiaWendy,False,2638,1220
+Interactive version: https://t.co/YE9SGq19Gb https://t.co/sCPHmqXoQ9",1160963883860762624,2021-11-25 01:34:59+00:00,en,3,1,42,1,Twitter Web App,3_1463679428840464386,https://pbs.twimg.com/media/FFAIr4UVIAICaZ8.jpg,photo, ,Wendy Shijia,ShijiaWendy,False,2652,1226,"Shanghai, China"
 1463677478858366979,"today's #30DayMapChallenge prompt is 'historical.' 
 I love old maps of NYC &amp; @brooklynhistory has an amazing collection. the one (below, right) of average rent in Brooklyn in 1940 by block is awesome. 
-I recreated it the best I could (below left) with 2019 @uscensusbureau data https://t.co/t9Ni0PSM1o",17847384,2021-11-25 01:14:39+00:00,en,9,5,36,0,Twitter Web App,3_1463677262134484993,https://pbs.twimg.com/media/FFAGtwtXoAEXZUh.jpg,photo, ,Jill Hubley,Jill_hubley,False,1538,1345
+I recreated it the best I could (below left) with 2019 @uscensusbureau data https://t.co/t9Ni0PSM1o",17847384,2021-11-25 01:14:39+00:00,en,9,5,37,0,Twitter Web App,3_1463677262134484993,https://pbs.twimg.com/media/FFAGtwtXoAEXZUh.jpg,photo, ,Jill Hubley,Jill_hubley,False,1559,1345,NYC
 1463672532901502983,"#30DayMapChallenge Day 25 - Interactive #Map. Threatened Species in Papua. #DataViz created using #GoogleMyMaps and @IUCNRedList data.
 
-👉 Map Link: https://t.co/gfo920knJX https://t.co/yKk9aQVzQr",1461953521255739394,2021-11-25 00:55:00+00:00,en,0,0,2,0,Twitter Web App,7_1463563968870436864,https://pbs.twimg.com/ext_tw_video_thumb/1463563968870436864/pu/img/vCQKZdw9vZGTsiDm.jpg,video, ,G.Seta,ariaezta,False,10,56
+👉 Map Link: https://t.co/gfo920knJX https://t.co/yKk9aQVzQr",1461953521255739394,2021-11-25 00:55:00+00:00,en,0,0,2,0,Twitter Web App,7_1463563968870436864,https://pbs.twimg.com/ext_tw_video_thumb/1463563968870436864/pu/img/vCQKZdw9vZGTsiDm.jpg,video, ,G.Seta,ariaezta,False,11,56,JC4R+F5
 1463663664951697412,"Day 24: Historical map
 #30DayMapChallenge
-Battles on the territory of Ukraine. Based on Wikidata. https://t.co/ytpQFmSNL6",14992557,2021-11-25 00:19:45+00:00,en,54,11,228,3,Twitter Web App,3_1463662443100577800,https://pbs.twimg.com/media/FE_5PLgXIAgc3fx.jpg,photo, ,gontsa,gontsa,False,5062,1463
+Battles on the territory of Ukraine. Based on Wikidata. https://t.co/ytpQFmSNL6",14992557,2021-11-25 00:19:45+00:00,en,54,11,228,3,Twitter Web App,3_1463662443100577800,https://pbs.twimg.com/media/FE_5PLgXIAgc3fx.jpg,photo, ,gontsa,gontsa,False,5142,1467,"Cherkasy, Ukraine"
 1463663433014992902,"2021 (día 24): Historical map
 Ciudad de Lima. Perú. Plano Scenographico de la Capital. El mapa original fue elaborado por Pedro Nolasco Mere a fines del siglo XVII, se publicó a mediados del XVIII y recopilado por Juan Günther.
 
-#30DayMapChallenge #Peru #Lima #Urban #Affinity https://t.co/Qf9uwo5dkK",64875424,2021-11-25 00:18:50+00:00,es,4,0,9,0,Twitter for Mac,3_1463663379650945027,https://pbs.twimg.com/media/FE_6FsbXoAMbA0x.jpg,photo, ,jose barreda,barredajose,False,141,90
+#30DayMapChallenge #Peru #Lima #Urban #Affinity https://t.co/Qf9uwo5dkK",64875424,2021-11-25 00:18:50+00:00,es,4,0,9,0,Twitter for Mac,3_1463663379650945027,https://pbs.twimg.com/media/FE_6FsbXoAMbA0x.jpg,photo, ,jose barreda,barredajose,False,152,92,Perú
