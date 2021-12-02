@@ -33,14 +33,14 @@ Top favorited tweets refers to the tweets get many `liked`/:heart:. The faviorit
 |  **22** <br/>**[Boundaries](daily/day22_Boundaries.md)**    |   **23** <br/>**[Data challenge 3: GHSL Global Human Settlement Layer](daily/day23_Data%20challenge%203.md)**   |   **24** <br/>**[Historical map](daily/day24_Historical%20map.md)**   |   **25** <br/>**[Interactive map](daily/day25_Interactive%20map.md)**   |   **26** <br/>**[Choropleth map](daily/day26_Choropleth%20map.md)**   |   **27** <br/>**[Heatmap](daily/day27_Heatmap.md)**   |   **28** <br/>**[The Earth is not flat](daily/day28_The%20Earth%20is%20not%20flat.md)**   |  
 | **29** <br/>**[NULL](daily/day29_NULL.md)**    |  **30** <br/> **[Metamapping day](daily/day30_Metamapping%20day.md)**   |     |     |     |     |     | 
 
-<!-- ### Users Langauge
+### Users Langauge
 
-Tweets with `#30DayMapChallenge` hashtag from 2020-11-01 to 2020-12-02 are in **32** languages (Twitter account setting) including `es`, `en`, `fr`, `und`, `de`, `ru`, `lt`, `lv`, `no`, `tr`, `in`, `nl`, `pt`, `ja`, `et`, `ro`, `ca`, `ht`, `tl`, `pl`, `sv`, `da`, `it`, `bg`, `fi`, `eu`, `ar`, `vi`, `cy`, `ko`, `is`, `uk`.
+Tweets with `#30DayMapChallenge` hashtag from 2021-11-01 to 2021-12-01 are in **32** languages (Twitter account setting) including `es`, `en`, `fr`, `und`, `de`, `ru`, `lt`, `lv`, `no`, `tr`, `in`, `nl`, `pt`, `ja`, `et`, `ro`, `ca`, `ht`, `tl`, `pl`, `sv`, `da`, `it`, `bg`, `fi`, `eu`, `ar`, `vi`, `cy`, `ko`, `is`, `uk`.
 
 ### Users Location
 By geocoding users location in their profile, I plot the map of distribution of users who involvs in this event. Geocoding process is conducted via https://geocode.localfocus.nl/
 
-![images](./user_loc.png) -->
+![images](./user_loc.png)
 
 <!-- ### Map Wall
 
