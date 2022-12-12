@@ -1,0 +1,880 @@
+tweet_id,text,author_id,created_at,lang,retweet_count,reply_count,like_count,quote_count,source,media_key,media_url,media_type,media_view,user_name,user_username,user_verified,user_followers_count,user_following_count,user_location
+1463658678121291776,"Día 26: #HistoricalMap. Las elecciones hacen parte fundamental de la historia de las ciudades y por eso quisimos entender cómo influyen en el precio de las propiedades de #Quito y #Guayaquil 🏡🇪🇨.
+https://t.co/fqmwwefVQS
+#30DayMapChallenge #Map #QGIS #datosabiertos #data https://t.co/T2c8Qr3jNz",3081831303,2021-11-24 23:59:56+00:00,es,1,0,1,0,Twitter Web App,3_1463658614686691328,https://pbs.twimg.com/media/FE_1wVjXMAAqU29.jpg,photo, ,Properati Data,Properati_Data,False,1223,564, 
+1463647367559847936,"#30DayMapChallenge Day 25 - Interactive
+New Zealand has 16 RCs, 65 TAs, 130 LBs/CBs, 226 Wards, 21 DHBs, 65 GEs &amp; 7 MEs. And together they create 446 intersections - now you can explore in Leaflet!
+small (4MB): https://t.co/YiTBtvPqli (1/2)
+#RStats code: https://t.co/1VmVZHltcK https://t.co/1YBD57H3os",33788841,2021-11-24 23:15:00+00:00,en,5,1,13,0,Twitter Web App,16_1463369724645953536,https://pbs.twimg.com/tweet_video_thumb/FE7vAuSVUAAgDx3.jpg,animated_gif, ,suǝbbıɹɟ pıʌɐp,dakvid,False,556,464,"Wellington, New Zealand"
+1463647067788742659,"#30DayMapChallenge Day 19. Islands
+
+'Islands peek' 🌴
+
+First 15 Most Populated Islands in the World.
+
+Live: https://t.co/FMdhuqRy4d
+
+Data: GeoNames, MapTiler, NASADEM, Procedural GL JS
+
+#ProceduralGLJS #D3js https://t.co/Fbmw2SNbop",1082711230459060224,2021-11-24 23:13:48+00:00,en,0,1,5,1,Twitter Web App,16_1463646936565702658,https://pbs.twimg.com/tweet_video_thumb/FE_rIlKWYAIKu4P.jpg,animated_gif, ,MapTheClouds,maptheclouds,False,419,543, 
+1463646890340360192,"All roads lead to Rome.  
+
+#30DayMapChallenge Day 24 Historical
+
+Beginner learning to drive in #R. Made with #ggplot2 https://t.co/cmQPY90Tbh",38052918,2021-11-24 23:13:06+00:00,en,1,0,14,0,Twitter Web App,3_1463646243666673665,https://pbs.twimg.com/media/FE_qgP6WQAEnL6e.png,photo, ,Ryan Hart,ryanahart,False,263,381,"Charlotte, NC"
+1463646630356258816,"Day 24 of the #30DayMapChallenge is a map of Manhattan’s #historical shoreline, and its landfill expansion to today’s boundary at South Street. https://t.co/TTtX3ktQFl",3906146132,2021-11-24 23:12:04+00:00,en,2,1,20,1,Twitter for iPhone,3_1463646626585595904,https://pbs.twimg.com/media/FE_q2iZVUAArPAb.jpg,photo, ,Justyna Goworowska,JGoworowska,False,265,349,"Portland, OR"
+1463645957317353473,#30DayMapChallenge 2021 - Day 24: Historical https://t.co/oGeE6CrnTZ,1180074260385206277,2021-11-24 23:09:24+00:00,en,2,1,2,0,Twitter for Android,3_1463645952141631489,https://pbs.twimg.com/media/FE_qPR5XIAEquaU.jpg,photo, ,Aaron Koelker,AaronKoelker,False,237,283,"Tallahassee, FL"
+1463645119022776320,"Day 24 of the #30DayMapChallenge and its topic is historical map. As the theme I choose the Hanseatic league.
+I played around with the styling possibillity in QGIS and gave my best to create an old looking map - in 2 hours. https://t.co/lOb9psyu4u",1454920710812487680,2021-11-24 23:06:04+00:00,en,0,0,1,0,Twitter Web App,3_1463645017025691651,https://pbs.twimg.com/media/FE_pY2UWQAM8Yun.jpg,photo, ,nordaufnordost,nordaufnordost,False,2,0, 
+1463642136688185345,"#30DayMapChallenge Higher resolution of King Sound, Kimberley region of Western Australia from Sentinel-2. Composite of True Colour (B04,B03,B02) in water area and SWIR over land. Acquired 11-Nov-21. (Data @sentinel_hub &amp; @ESA_EO) https://t.co/IIwbHzk3n5",3437248613,2021-11-24 22:54:13+00:00,en,2,0,3,0,Twitter Web App,3_1463641628061712388,https://pbs.twimg.com/media/FE_mTlcXwAQ2kd1.jpg,photo, ,SHS Space Science,SHS_Space,False,365,14, 
+1463641936451932161,"Day 24- #30DayMapChallenge - Historical
+Today we go back into Alberta, to look at some old schoolhouse districts. These date back to the 1940's when cars were less accessible and walking to school, even in the rural areas were normal across the prairies. https://t.co/YQunZ5LrcP",223258375,2021-11-24 22:53:25+00:00,en,1,1,3,0,Twitter Web App,3_1463635813590130692,https://pbs.twimg.com/media/FE_hBI2UYAQ_A3d.jpg,photo, ,Jeff Deurloo,jdeurloo10,False,413,4566,"Lethbridge, Alberta"
+1463641508352073731,"#30DayMapChallenge | Day 22 | #Boundaries
+
+The world's terrestrial borders along water 🔵 and on land 🟢 based on the finest resolution data provided by NaturalEarth. Made in #rstats with #ggplot2.
+#rspatial #gischat #dataviz https://t.co/JdUWqDp7Wr",3092381638,2021-11-24 22:51:43+00:00,en,6,1,24,0,Twitter Web App,3_1463641491482501125,https://pbs.twimg.com/media/FE_mLopWYAUQOKj.jpg,photo, ,Cédric Scherer,CedScherer,False,13776,1937,"Berlin, Germany"
+1463641224963932169,"#30DayMapChallenge Time lapse over past few weeks of King Sound, Kimberley region of Western Australia from Sentinel-3 SLSTR instrument. Development of fire scars is obvious. (Data @sentinel_hub &amp; @ESA_EO) https://t.co/C4eWy1ZxSJ",3437248613,2021-11-24 22:50:35+00:00,en,2,0,2,0,Twitter Web App,16_1463640639715827713,https://pbs.twimg.com/tweet_video_thumb/FE_laDkWYAEjBYP.jpg,animated_gif, ,SHS Space Science,SHS_Space,False,365,14, 
+1463639015765286913,"#30DayMapChallenge day 24: historical map. Ptolemy’s Geography contains the oldest known data.I used the coordinates to drew the map for the British Isles, and kept the Greek names. More at https://t.co/LDsU8x9HST https://t.co/kRJQQNm5aG",840682774403133441,2021-11-24 22:41:49+00:00,en,2,0,4,0,Twitter for iPhone,3_1463639010031644675,https://pbs.twimg.com/media/FE_j7MhXMAMaZVZ.jpg,photo, ,HistoCarte,HistoCarte,False,77,69, 
+1463638098903019526,"#30DayMapChallenge
+Day 24: Historical map
+Maiden Voyage of United States
+https://t.co/dYxI1KuTBO https://t.co/ulQ1Ft25s7",91548216,2021-11-24 22:38:10+00:00,en,1,0,1,0,Twitter Web App,3_1463637508525281287,https://pbs.twimg.com/media/FE_ijy-WUAcbS2N.jpg,photo, ,Cord Niehaus,Cordster76,False,89,606,"Bremen, Germany"
+1463637735588118533,"#30DayMapChallenge Day 15. Map made without computer
+
+'Earth Maps' 🌱
+
+I couldn't find the hexagonal grid pancake(!), so here are the butterfly population, the 3D ants' volcano, the mushrooms aerial and the urban bricks. 
+
+Live: https://t.co/XMGXDkC77p https://t.co/NYYJUPUGWp",1082711230459060224,2021-11-24 22:36:43+00:00,en,1,1,4,1,Twitter Web App,3_1463636865131634689,https://pbs.twimg.com/media/FE_h-WJWYAELHuR.jpg,photo, ,MapTheClouds,maptheclouds,False,419,543, 
+1463637077866651648,#30DayMapChallenge Day 24: Historical. You might recognize the data if you have tried the Learn ArcGIS Map Venice lesson. Had fun applying different style on a familiar dataset. Made with #ArcGISPro https://t.co/0xL06qXZTk,3536376796,2021-11-24 22:34:07+00:00,en,2,0,15,0,Twitter for iPhone,3_1463637061634719745,https://pbs.twimg.com/media/FE_iJyLVgAEZXVx.jpg,photo, ,Zihan Song,song_zihan,False,201,78,"Redlands, CA"
+1463636117073371141,"#30DayMapChallenge Day 14. Map with a new tool
+
+'Stormy timelapse' 🌩️
+
+Map the clouds in Manhattan. :)
+
+Live: https://t.co/UGDAaPnNAw
+
+Data: OSM Buildings, Google Satellite
+
+#Blender #Blender3D #BlenderGIS https://t.co/Rw8n6HA8ar",1082711230459060224,2021-11-24 22:30:18+00:00,en,4,1,3,1,Twitter Web App,7_1463635717431701508,https://pbs.twimg.com/ext_tw_video_thumb/1463635717431701508/pu/img/_UKv1iQv54nNS6Pm.jpg,video, ,MapTheClouds,maptheclouds,False,419,543, 
+1463634551863926787,"#30DayMapChallenge - Day 24: Historical Map.
+The 1840-1845-1850-1855-1861-1870 Railroad System in America.
+Data source: https://t.co/WIl1UapLgX
+Tools: R + packages #ggplot2/rgdal/sf/showtext and Inkscape. https://t.co/yLS3TdYhiJ",2593554955,2021-11-24 22:24:04+00:00,en,2,0,2,0,TweetDeck,3_1463634304127406085,https://pbs.twimg.com/media/FE_fpRqXEAUPpqM.jpg,photo, ,Kapazitätsdiode,varaktor,False,62,197, 
+1463632915674378244,"#30DayMapChallenge Day 24 - Historical
+Recycling this geological map for Covilhã (20B from LNEG), Portugal, 1975 + some hillshading
+1:50000
+#QGIS https://t.co/5TGcJ7rap2",180939408,2021-11-24 22:17:34+00:00,en,1,0,4,0,Twitter Web App,3_1463632532759617544,https://pbs.twimg.com/media/FE_eCKzXoAgTHVb.jpg,photo, ,torts,tgsousa_,False,1010,1150, 
+1463632559443628033,Made a map of places in Edinburgh that are gone but not forgotten using information from reddit (https://t.co/hU9vJeWLkD) for the #30DayMapChallenge - day 24 (historical). Check the full version out here: https://t.co/bSst7sNONE. Great memories of the legendary Mr Boni's! https://t.co/2Twu22iBuW,446611170,2021-11-24 22:16:09+00:00,en,1,1,6,0,Twitter Web App,3_1463632355265069058,https://pbs.twimg.com/media/FE_d31lXwAILX4u.jpg,photo, ,Mark Cherrie,mark_cherrie,False,209,498,UK
+1463631754883969030,"The theme for #Day24 of the #30DayMapChallenge is ""historical map"", so I prepared in #RStats a map of the archeological sites of #Crete island in #Greece using #OpenData from https://t.co/QCZkGpgd8O. As usual, my code is on my #GitHub https://t.co/ih0Z6IM4ou https://t.co/pCXihnoDpF",130984257,2021-11-24 22:12:57+00:00,en,1,0,3,0,Twitter Web App,3_1463631713633021957,https://pbs.twimg.com/media/FE_dSfUXsAU6fn1.png,photo, ,Ioannis Nicolis,i_nicolis,False,157,504, 
+1463631618606837761,"#30DayMapChallenge Historic
+For today's map, I took the Bromley Atlas 1910 map from Open Data Philly and placed current OpenStreetMap highways over it. I've labeled just some of the biggest changes from 111 years ago... https://t.co/n5QnhUJ4K2",2911550919,2021-11-24 22:12:25+00:00,en,1,0,5,0,Twitter Web App,3_1463630567468060675,https://pbs.twimg.com/media/FE_cPxhWUAMDLkq.jpg,photo, ,Philip Pierdomenico,PhilPierdo,False,409,291,"Philadelphia, PA"
+1463631165273825281,"Another map topic by request, this time for @K00GS 
+#30DayMapChallenge Day 24: Historical - Extent of the Roman Empire https://t.co/cSNXK59bwt",579246246,2021-11-24 22:10:37+00:00,en,1,0,6,0,Twitter Web App,3_1463630984885293064,https://pbs.twimg.com/media/FE_coEhX0Agt72-.jpg,photo, ,cas 🌎,cas_maps,False,223,1150, 
+1463629379318149121,"explored the GHSL (Global Human Settlement Layer) data and graphed a couple of pollution metrics for transportation in urban areas in California and Nevada.  (Of course, this exposition simply correlates with population)
+
+#30DayMapChallenge Day 23: GHSL https://t.co/euXKj5V6pr",754537285660573696,2021-11-24 22:03:31+00:00,en,1,2,3,0,Twitter Web App,3_1463629234505617410,https://pbs.twimg.com/media/FE_bCL2VkAIoKNc.jpg,photo, ,Derek Sollberger,DerekSollberger,False,339,710,"Merced, CA"
+1463628901146636296,"#30DayMapChallenge day 23, GHSL. Just a quick one here... #RStats 
+Code: https://t.co/YwLqmHbO1d https://t.co/AZk4ryRKrP",525654957,2021-11-24 22:01:37+00:00,en,3,0,6,0,Twitter Web App,3_1463628537848598542,https://pbs.twimg.com/media/FE_aZomXEA4gnaN.png,photo, ,Alan Haynes,aghaynes,False,124,190,"Oftringen, Schweiz"
+1463628787665547265,"Today's #30DayMapChallenge map of the #paleogeography of the Rhine-Meuse Delta, but now rendered with #aerialod. Current rivers at the surface, older abandoned streams in the subsurface. https://t.co/oHlWhJByTL https://t.co/iRVq8ZDbBw",760094405369946112,2021-11-24 22:01:10+00:00,en,1,0,15,0,Twitter Web App,3_1463628073803386882,https://pbs.twimg.com/media/FE_Z-n5XEAIad5x.jpg,photo, ,Hans van der Kwast,hansakwast,False,4230,1320,The Netherlands
+1463625036774920202,"#30DayMapChallenge 
+Day 24: Historical map
+
+1806ko mapa. Antzuolako erroten uren erabileraren liskarrek eraginda sortua.
+
+Iturria: https://t.co/zKudUFoCVY https://t.co/MofWJvIfKX",270842014,2021-11-24 21:46:16+00:00,eu,2,0,2,0,Twitter for Android,3_1463625028067639304,https://pbs.twimg.com/media/FE_XNVpXwAgkAjv.jpg,photo, ,Ion Lizarazu,Ionliz,False,364,260, 
+1463623283442520064,"#30DayMapChallenge 
+Día 24. Mapa Histórico 
+Plano de la ""Ysla de Mescala"" situada al S. E. del campamento de Tlachichilco, año de 1824 a una escala de 500 varas castellana con medidas de 31 x 40 cm. Lo puedes observar en visualizar en:
+https://t.co/yayo2M59xS https://t.co/FpWOaRBd7l",2239825712,2021-11-24 21:39:18+00:00,es,4,0,5,0,Twitter Web App,3_1463622563053985793,https://pbs.twimg.com/media/FE_U92wUYAEXSsb.jpg,photo, ,IIEG Jalisco,IIEGJ,False,5475,0,"Jalisco, México"
+1463623137631907844,"#30DayMapChallenge | Day 24 | #historicalmap
+
+Freiburg 1944
+
+#RStats  #rspatial #rayshader
+@OGD_Freiburg @OGD_Freiburg @freiburg https://t.co/ozWRkKoPhR",1307060010669793280,2021-11-24 21:38:43+00:00,de,4,2,16,0,Twitter Web App,3_1463623127188058119,https://pbs.twimg.com/media/FE_VesUXMAc7Hbo.jpg,photo, ,Marco Sciaini,shinysci,False,293,773,Freiburg im Breisgau
+1463621640923795456,"#30DayMapChallenge Day 24: Historical. Exploring the GHSL datasets again - here's a population distribution map of Leuven based on data from 1975.
+#rspatial #RStats https://t.co/rX8EPrcO1D",1222519447165886465,2021-11-24 21:32:46+00:00,en,3,1,4,0,Twitter Web App,3_1463621513421201411,https://pbs.twimg.com/media/FE_UAwkXIAMnWCZ.png,photo, ,Anirudh,_anirudhgovind,False,312,1500, 
+1463621530412273664,"#30DayMapChallenge 
+Day 24 - Historical Map
+
+Cologne (Köln) was founded by the Romans as Colonia Claudia Ara Agrippinensium (CCAA) in AD 50. Hence, today I created a map which shows the extent of the Roman Empire at that time - with some historical map flair.
+
+#rstats https://t.co/8ZX6iSiEjj",1139059532,2021-11-24 21:32:20+00:00,en,4,1,7,1,Twitter Web App,3_1463621410736287751,https://pbs.twimg.com/media/FE_T6yCXsAc8MaA.jpg,photo, ,Ansgar Wolsing,_ansgar,False,380,1021,"Köln, Deutschland"
+1463620750619906058,"#30DayMapChallenge 
+
+24. HISTORICAL. @UNESCO Cultural World Heritage Sites.
+24. HISTÓRICO. Sitios declarados Patrimonio Mundial Cultural de la @UNESCO_es. https://t.co/dV1r9oZ9vq",769592708,2021-11-24 21:29:14+00:00,es,3,0,5,1,Twitter Web App,3_1463620715198963727,https://pbs.twimg.com/media/FE_TSS9WYA8JXxU.jpg,photo, ,Valentín Sastre,valen_ibiza,False,377,586,IBIZA / Barcelona
+1463616727716143106,"Day 24 - Historical map
+Chernivtsi is a city with a rich history, so not surprising that almost every street in the city was renamed at a certain time period.
+And that's how the city map might look in case each street had only the initial name.
+#30DayMapChallenge https://t.co/SUNcdeHqxv",14196303,2021-11-24 21:13:15+00:00,en,3,1,21,1,Twitter Web App,3_1463616337830420482,https://pbs.twimg.com/media/FE_PTf_XIAI-7gZ.jpg,photo, ,yaroslav_sm,jaroslav_sm,False,158,96,Чернівці
+1463616637291180040,"#30DayMapChallenge
+
+Day 24: Historical
+
+Mapping the ports and coastal sailing routes in 🏴󠁧󠁢󠁥󠁮󠁧󠁿 and 🏴󠁧󠁢󠁷󠁬󠁳󠁿  1540-1914
+
+From a paper by U of Cambridge and California Irvine. Using the lovely watercolor tiles by @stamen
+
+It’s a historical map, I’m absolutely using historical ligatures 🎻 https://t.co/0OSgLzyuD4",1422832836,2021-11-24 21:12:53+00:00,en,1,0,4,1,Twitter for Android,3_1463616625526116354,https://pbs.twimg.com/media/FE_PkPvXEAItIgJ.jpg,photo, ,Alvin,alvinometric,False,601,502,Freedom-Day Fiefdom 
+1463615302806249472,"#30DayMapChallenge 
+Day 24 - Historical map
+
+Route of Discovery of Ilha de Vera Cruz in 1500, now Brazil
+By: Lucas de Morais Teixeira
+
+#QGIS #Brazil #Portugal #Sea #Ocean #Discovery  #History #Lisboa #Portoseguro https://t.co/rAllDZm5pg",1027773119208062982,2021-11-24 21:07:35+00:00,pt,0,0,3,0,Twitter Web App,3_1463615278609313792,https://pbs.twimg.com/media/FE_OV2FXsAAtpD8.jpg,photo, ,Lucas Morais Teixeira,lucaobala_,False,56,263,"Maceió, Brasil"
+1463614490335920143,"For the historical #30DayMapChallenge theme, here's a version of the classical map from John Snow showing the locations of cholera victims in 1854. #RStats #OSM
+Code here: https://t.co/ch1ki2HjoE https://t.co/nUKZL0ZD21",525654957,2021-11-24 21:04:21+00:00,en,4,0,8,0,Twitter Web App,3_1463614226010943492,https://pbs.twimg.com/media/FE_NYk2XMAQ-2lH.png,photo, ,Alan Haynes,aghaynes,False,124,190,"Oftringen, Schweiz"
+1463612386615595009,"Day 24: HistoricalMap | #30DayMapChallenge 
+Verdun Treaty for Cecilia Reyes Diego's thesis project https://t.co/QfjenLu9lQ",1263997606759403520,2021-11-24 20:56:00+00:00,en,6,0,18,0,Twitter Web App,3_1453103604865318923,https://pbs.twimg.com/media/FCp2B53WQAsKjzk.jpg,photo, ,Sebastián Estremo,S_Estremo,False,288,128, 
+1463610975282774017,"#30DayMapChallenge #day24 ▶️Historical map, 1815 Vienna congress, a new european territorial order, work in progress for this unfinished narrative map😅😆🧐😇 @IGNFrance #Éduthèque #Édugéo datas from @maglhistoire 🔽🔽🔽https://t.co/MNgvA7LWye https://t.co/XxJJt8RRVh",4121790137,2021-11-24 20:50:23+00:00,en,2,0,3,0,Twitter Web App,3_1463610899755851786,https://pbs.twimg.com/media/FE_KW9lWYAoMV3M.jpg,photo, ,Mathieu Chartier,mathieuchartie2,False,429,395,"N Côte-d'Or, Bourgogne, France"
+1463607101838790659,"@mikefarnworthbc @marcomendicino @JustinTrudeau @jjhorgan @CanadaUN @Canada @rcmpgrcpolice @CommrRCMPGRC @UN @git_hetxwit🎞️https://t.co/hrGW3BbaTX Following the raid on @Gidimten, the same paramilitary pipeline cops began an occupation of the small town of 🇨🇦#NewHazelton on #Gitxsan Lax'yip. #30DayMapChallenge #Histoirede #Canada #iPhone13 #GALA #HumanRights #InternationalMensDay #crise https://t.co/8HGvwACE3K",1325996362756972545,2021-11-24 20:35:00+00:00,en,0,1,0,0,Twitter for Android,7_1463606830278623240,https://pbs.twimg.com/ext_tw_video_thumb/1463606830278623240/pu/img/WkDS6Ml-9t3AyrSR.jpg,video, ,LValie,LValie1,False,54,160, 
+1463600455985020930,#30DayMapChallenge #Day24 Historical Map - The GDR created a public and a 'military' version of the 200:000 basemap- judge yourself for the differences  Data:GDR -&gt; https://t.co/ZJOMO7twvy  S: QGIS - 7days2go https://t.co/e9kzrRyIML,2574612668,2021-11-24 20:08:35+00:00,en,1,1,6,0,Twitter Web App,3_1463600030863011840,https://pbs.twimg.com/media/FE_AeTzXMAAeWek.jpg,photo, ,hannes reuter,hireuter,False,290,601, 
+1463600377350303751,"Eeek! Once I started playing with Blender, I couldn't stop! Second historical map for Day 24. Geological Map of Himalaya and Tibet. #30DayMapChallenge https://t.co/b9eWpk8742",28102639,2021-11-24 20:08:16+00:00,en,2,1,13,0,Twitter Web App,3_1463599560916447234,https://pbs.twimg.com/media/FE_AC9HXsAIXroB.jpg,photo, ,Phoebe L.,pheebely,False,311,204,"Austin, TX"
+1463598439665704960,"#30DayMapChallenge: Historical map. 
+The center of #Tampere was quite different ~20 years back 😎
+The backround is aerial photo from 1999 and highlighted parts are rebuilt or built since that. 
+
+Data from @tamperekaupunki https://t.co/BFlK2RMOmZ",4165067548,2021-11-24 20:00:35+00:00,en,2,0,8,0,Twitter Web App,3_1463596403972784128,https://pbs.twimg.com/media/FE-9LMlWQAAxixy.jpg,photo, ,mari isomäki,maritalvikki,False,138,341, 
+1463598299718451202,"One of my favorite #QGIS plugin for day 24: a 3D view of a 1793 Cornwall map made using QGIS2threejs 🏴󠁧󠁢󠁥󠁮󠁧󠁿
+Interactive version here ➡ https://t.co/cpmQYfAkmv
+#30DayMapChallenge https://t.co/6I1UN4FgIX",148715617,2021-11-24 20:00:01+00:00,en,1,0,24,0,TweetDeck,3_1463558260666114051,https://pbs.twimg.com/media/FE-ae9sXoAMnRYP.jpg,photo, ,Federica Gaspari,fede_gaspari,False,577,405,Arona | Piacenza
+1463597343123648515,#30DayMapChallenge Historical Les cartes historiques sont aussi nombreuses sur le site. Celle-ci a demandé beaucoup de temps de collecte de données. Elle s’attache à la place de la Normandie dans la traite transatlantique https://t.co/QqMUopa51M https://t.co/I8FEPCetLz,2500728854,2021-11-24 19:56:13+00:00,fr,10,0,29,0,Twitter for iPhone,3_1463597309271416836,https://pbs.twimg.com/media/FE-9_5FXIAQYuc4.jpg,photo, ,jc fichet,cartolycee,False,3754,1978,Verneuil-sur-Avre
+1463596902256103438,"Yet another historical map for Day 24 of #30DayMapChallenge. This time, it's a 1904 map of Tacna, Arica, Tarapacá, and Antofagasta, Chile. Tacna is now part of Peru, as agreed in the 1929 Treaty of Lima.
+
+#rayshader adventures, an #rstats tale https://t.co/0ucvu1T9V1",946151815,2021-11-24 19:54:28+00:00,en,3,0,9,0,Twitter Web App,3_1463596510378090498,https://pbs.twimg.com/media/FE-9RY-WYAI7tLR.jpg,photo, ,flotsam,researchremora,False,2778,970,the ivory bowl
+1463596604858908674,"#30DayMapChallenge Day 24, Historical! The fall is a great time to remember history. Notice the Border of PA and Delaware is a listed! Do a dive on that boarder, and learn some cool history. Made with https://t.co/8nctJyTCbD https://t.co/rMTkU81qLU",277272757,2021-11-24 19:53:17+00:00,en,1,0,4,0,Twitter Web App,3_1463595670141427716,https://pbs.twimg.com/media/FE-8ge2UYAQO7Q1.jpg,photo, ,Steve Cline,SteveClineBird,False,150,248,"Vancouver, WA"
+1463595160923631623,#30DayMapChallenge Day 24 - Historical Map. I love these! https://t.co/iuQcpfL2FI,16178541,2021-11-24 19:47:33+00:00,en,2,0,4,0,Twitter for iPhone,3_1463595155777155073,https://pbs.twimg.com/media/FE-8CisUcAE1ySc.jpg,photo, ,Randy Bonds Jr,randybondsjr,False,313,566,"Yakima, WA"
+1463592914664181762,"missed yesterday's #30DayMapChallenge, so I'm doing two maps today. yesterday's prompt was Global Human Settlement Layer data. I grabbed some GHS-POP data of NYC and leaned into the raster. Color scheme c/o Pac-man https://t.co/no0FDuUm8F",17847384,2021-11-24 19:38:37+00:00,en,1,0,4,0,Twitter Web App,3_1463592870938656776,https://pbs.twimg.com/media/FE-59jAXwAgI5dI.jpg,photo, ,Jill Hubley,Jill_hubley,False,1559,1345,NYC
+1463591658499592195,"Day 24 of #30DayMapChallenge - Historical Map.
+Geological map from 1959 with a hill shade blend. https://t.co/qRDfvv0e8k",2163188711,2021-11-24 19:33:38+00:00,en,2,0,4,0,Twitter Web App,3_1463591620893458438,https://pbs.twimg.com/media/FE-40yOXwAYor9r.jpg,photo, ,tYsOn,tyson_okoth,False,766,658, 
+1463591371437129740,"Day 24: Historical Map
+
+Historic old market in Arabia before Islam
+
+ #30DayMapChallenge https://t.co/zc0pUlZHNN",1454894840,2021-11-24 19:32:29+00:00,en,2,0,7,0,Twitter for iPhone,3_1463591355364618250,https://pbs.twimg.com/media/FE-4lVDXMAoPSKc.jpg,photo, ,Noura | نـوره,nourabw95,False,214,145,مكة المكرمة
+1463586639209500677,"Late for #30DayMapChallenge Day 21: Elevation
+
+Here you can see differences in Baltic countries every 50m in elevation. https://t.co/kWFtEX7hlj",1101324580973658112,2021-11-24 19:13:41+00:00,en,1,1,6,1,Twitter Web App,16_1463585616508166147,https://pbs.twimg.com/tweet_video_thumb/FE-zXSJXIAMvd3K.jpg,animated_gif, ,grabrielius,GrabrBrabr,False,834,607,"Vilnius, Lithuania"
+1463586613687209985,"Late for #30DayMapChallenge Day 21: Elevation
+
+1st ever map made by me with python. My 3rd map ever.
+
+Always thought that LT has much less mountains than LV and EE. I proved myself wrong while doing this map.
+
+Big thanks for huge help with this to @lizhvania https://t.co/pXnwbB5R5x",1101324580973658112,2021-11-24 19:13:35+00:00,en,3,2,30,2,Twitter Web App,3_1463584138217328648,https://pbs.twimg.com/media/FE-yBPFXEAgKNVW.jpg,photo, ,grabrielius,GrabrBrabr,False,834,607,"Vilnius, Lithuania"
+1463583522749362176,30 years of railroads in the continental United States for the #30DayMapChallenge #Day24 #Historical. Data from https://t.co/jSn2KHHnNi and https://t.co/iPBDovXfEx https://t.co/9fCVurGogs,741653561314922496,2021-11-24 19:01:18+00:00,en,6,2,44,1,Twitter Web App,16_1463583298144378887,https://pbs.twimg.com/tweet_video_thumb/FE-xQVkXIAcII06.jpg,animated_gif, ,Kate Berg 🥔🗺️,pokateo_,False,4377,2293,"Grand Rapids, MI"
+1463582066847666182,"#30DayMapChallenge Day 24 Historical
+
+Didn't have time to make one today but here is a map I still need to find a frame for and put up! (Yes it is currently held down by a penguin, a deer, a minibrick frog and a lego pirate)
+
+Carte Ancienne - La Savoie en 1605 https://t.co/pC14VElERo",223959960,2021-11-24 18:55:31+00:00,en,1,0,11,0,Twitter for Android,3_1463582063030898701,https://pbs.twimg.com/media/FE-wIcaXEA0Xjko.jpg,photo, ,Kirsten Reilly,_penguin_runner,False,417,1221,"Stirling, Scotland"
+1463580976647266305,"For the #30DayMapChallenge #historical theme, here's an animation I did comparing the original San Francisco waterfront and location of Long Bridge, to today's Mission Bay &amp; Dogpatch - with the 3rd street MUNI T line following the exact path of the 1867 bridge. https://t.co/eoy5Z6kFtF",17564946,2021-11-24 18:51:11+00:00,en,1,0,2,0,Twitter Web App,7_1463580846061801473,https://pbs.twimg.com/ext_tw_video_thumb/1463580846061801473/pu/img/o5s5OwVxh1YwHd5c.jpg,video, ,William Pryor (Pirate),Hey_Billy,False,212,990, 
+1463577982610685963,"The #QGISOpenDay is on Friday!
+
+Don't miss out on the amazing open session at 15h00 UTC.
+
+@hansakwast and @klaskarlsson will show us how to make their fantastic 3D maps from the #30DayMapChallenge . 
+
+Click for more info and links: https://t.co/DpD1siFA5H https://t.co/7kW86Ava5p",271327412,2021-11-24 18:39:17+00:00,en,31,0,72,0,TweetDeck,3_1463575307433263112,https://pbs.twimg.com/media/FE-p_N2XwAgA0EF.jpg,photo, ,QGIS,qgis,True,53875,75,worldwide
+1463577953514708994,My entry for #30DayMapChallenge day 24. #Chester printed in #3D from @dataenvagency #LiDAR #opendata https://t.co/715i2yHGsD,470402184,2021-11-24 18:39:10+00:00,en,3,2,42,0,Twitter Web App,3_1463577827383648260,https://pbs.twimg.com/media/FE-sR5ZXIAQGoio.jpg,photo, ,John Murray,MurrayData,False,6086,6611,"Chester, UK"
+1463577100053450757,"Day 24 of the #30DayMapChallenge ... #historical.
+
+Here's the California Retrofuture…a 1879 Department of the Interior map with 218’ of sea level rise—if all the world’s ice caps melted.
+
+https://t.co/iPojjtBNyQ https://t.co/SR5H3Ctgne",399072114,2021-11-24 18:35:47+00:00,en,3,0,7,0,Twitter Web App,3_1463577034051887107,https://pbs.twimg.com/media/FE-rjuAVIAMDMLZ.jpg,photo, ,Conspiracy of Cartographers,JeffreyLinn,False,661,599,"Seattle, WA"
+1463576045295222788,"#30DayMapChallenge Day 24: Historical
+I georeferenced my Afica by #Toto shaped vinyl picture disc -  with its map from the early 80s - and gave it the old modern DEM treatment in #Blender #b3d https://t.co/tOK1Tx6Hn2",309734801,2021-11-24 18:31:35+00:00,en,16,3,84,1,Twitter Web App,3_1463575954639495172,https://pbs.twimg.com/media/FE-qk44XIAQzXf6.jpg,photo, ,Sam J,samwise_v,False,234,516,"London, UK"
+1463574730557038592,Fan of The Smiths? A historically-styled map of the locations which they reckon were panicking in their 1986 song Panic - by our @GeospatialCDT PhD student Chris Larkin #30DayMapChallenge #day24 #thesmiths https://t.co/pGtpgV8QF3,773777640,2021-11-24 18:26:22+00:00,en,7,0,26,2,Twitter Web App,3_1463573074696187909,https://pbs.twimg.com/media/FE-n9QQXsAUh_b-.jpg,photo, ,Geospatial Newcastle,GeospatialNCL,False,677,254,Newcastle-upon-Tyne
+1463572306589110277,"#30DayMapChallenge 2021 day 24: Historical #Map
+
+1865's old map of #Mauritius and #Reunion island
+
+#Indian #Ocean #Mascarene https://t.co/kJObg8Z86K",730663860152217600,2021-11-24 18:16:44+00:00,en,1,0,4,0,Twitter Web App,3_1463571849862864900,https://pbs.twimg.com/media/FE-m19ZWYAQvnvo.jpg,photo, ,Sylvain POULAIN,GISCAN_LTD,False,209,458,Ile Maurice
+1463571294276964355,"#30DayMapChallenge 
+day 22. boundaries
+Ethiopia: the escarpment of the Rift Valley and two big rivers
+Blue Nile (Abay in amharic) flows in deep gorges in the north highlands and joins white Nile in Sudan; Awash flows across savannah and desert and will not reach the sea 
+fabio https://t.co/tSJBmtrNw4",566341543,2021-11-24 18:12:43+00:00,en,2,0,4,0,Twitter Web App,3_1463571123220717582,https://pbs.twimg.com/media/FE-mLqcXIA4-Gx0.jpg,photo, ,Fabio Artoni,fiftylemons,False,23,110, 
+1463571275562033152,"#30DayMapChallenge day 24, (kind of) historical map.
+
+Composite of three #Landsat SWIR bands from 1985, 2002 and 2020 showing Las Vegas growth. Black colour represents city's extent in 1985, blue in 2002, and green - in 2020. https://t.co/bzkfYtod6e",75868477,2021-11-24 18:12:38+00:00,en,5,2,29,0,Twitter Web App,3_1463570950650273804,https://pbs.twimg.com/media/FE-mBnkXIAwEe-r.jpg,photo, ,Ewa Grabska-Szwagrzyk,egrabska,False,393,161,"Cracow, Poland"
+1463568616809451526,"For #30DayMapChallenge Day 24: Historical, we reimagined the famous John Snow Cholera Map of Soho using OSMM Topography Layer and Open Zoomstack.
+
+The cholera death data and pump location data comes courtesy of Robin Wilson at @unisouthampton https://t.co/GxpGLeObHx",22614266,2021-11-24 18:02:04+00:00,en,6,0,33,2,Hootsuite Inc.,3_1463568613181378572,https://pbs.twimg.com/media/FE-j5j0WUAwA1Qp.jpg,photo, ,Ordnance Survey,OrdnanceSurvey,True,63086,3721,"Southampton, UK"
+1463564916187619333,"#30DayMapChallenge 
+Day 24: Historical
+
+Humboldt's travels through the Americas
+I have been fascinated with this scientist and since I read The Invention of Nature by @andrea_wulf I wanted to learn more and more!
+
+#RStats #RSpatial https://t.co/J5yPUqZtFY",233748559,2021-11-24 17:47:22+00:00,en,14,8,66,4,Twitter Web App,3_1463562354239713295,https://pbs.twimg.com/media/FE-eNPcXsA8LSmG.jpg,photo, ,Lorena Abad,loreabad6,False,1247,927,"Salzburg, Austria"
+1463563964969885699,"#30DayMapChallenge Day 24: Historical
+
+10th to 15th April 1912 https://t.co/0wUb551HOE",759988092,2021-11-24 17:43:35+00:00,en,2,1,4,0,Twitter Web App,3_1463563487007883266,https://pbs.twimg.com/media/FE-fPLVWQAIhwDh.jpg,photo, ,Matthew Law,Iawmatthew,False,204,89, 
+1463563564912766977,"All roads lead to Rome. This map is visualises the famous roads built by the Roman empire.  Day 24 of the #30DayMapChallenge - Historical
+#Python #Data #DataScience #Geopython #mapsandmapping #Rome #DataVisualization #EU https://t.co/JMlIdJ6bXM",1349110409215795204,2021-11-24 17:42:00+00:00,en,56,2,162,6,Twitter Web App,3_1460709813009141762,https://pbs.twimg.com/media/FEV71fRWUAI-k-m.jpg,photo, ,Python Maps,PythonMaps,False,5913,2678,Planet Earth
+1463563050464825350,"Here is my map for Day 24 (Historical) of the #30DayMapChallenge. Map shows discovered roads and buildings in the ruins of Pompeii. 
+
+Code: https://t.co/PlJrvUgnIQ
+
+Full Image: https://t.co/hyVuKDUF4z
+
+#rstats #dataviz #rspatial #tidyverse #ggplot2 https://t.co/syNWUpPIo2",1386748474176286727,2021-11-24 17:39:57+00:00,en,4,3,32,0,Twitter Web App,3_1463562903466958849,https://pbs.twimg.com/media/FE-etNeWYAElhSs.jpg,photo, ,Blake Robert Mills,BlakeRobMills,False,319,253,"New York, USA"
+1463562506182574087,"#30daymapchallenge 
+Day 24: Historical map
+
+Set in 1815 on the Carolina coast this map is one of the few historically set maps I have drawn.
+#mapping #30daychallenge #historic #historicmap #mapart #cartographer #mapmaker #mapper #handdrawn #fictionalmap  #mapmaking #worldbuilding https://t.co/gpZ2QmvxVs",1702059680,2021-11-24 17:37:47+00:00,en,0,2,13,0,Twitter for Android,3_1463562503728906244,https://pbs.twimg.com/media/FE-eV8VXwAQoV7-.jpg,photo, ,David Nuttall,Artimaps_DavidN,False,606,339,"Huntsville, AL"
+1463558974544961538,"#30DayMapChallenge 
+Jour 24 - Carte historique
+
+J'ai géo-référencé 3 anciennes cartes du terroir de la seigneurie d'Orsay pour pouvoir faire une image du territoire d'Orsay lors de la révolution (approx). https://t.co/qs3dZIoCRu",3068008768,2021-11-24 17:23:45+00:00,fr,0,1,1,0,TweetDeck,3_1463558030071672839,https://pbs.twimg.com/media/FE-aRiqXsAc3tKO.jpg,photo, ,CômeMS,Come_M_S,False,7,122,"Orsay, France"
+1463557678584811523,"#30DayMapChallenge 
+Day 24 - Historical Map
+
+Today I georeferenced 3 old maps of the town to show what the land looked like during the revolution (aprox). https://t.co/MJ7YqSqFDj",3068008768,2021-11-24 17:18:36+00:00,en,0,1,1,0,TweetDeck,3_1463556885785858061,https://pbs.twimg.com/media/FE-ZO73X0A0W6L3.jpg,photo, ,CômeMS,Come_M_S,False,7,122,"Orsay, France"
+1463557509579522049,"#30DayMapChallenge 24, Historical: modern buildings and roads clipped to Boston's 1630 shoreline (via https://t.co/vVB48gkjRd). Just an exercise in using D3 and HTML canvas tricks to render old-timey effects, which I attempted to demonstrate a while back:  https://t.co/TZpl3uIfq8 https://t.co/P2rXZNzh6l",17448055,2021-11-24 17:17:56+00:00,en,3,3,12,0,Twitter Web App,3_1463555138933698564,https://pbs.twimg.com/media/FE-XpQVXMAQ66xN.jpg,photo, ,Andy Woodruff,awoodruff,False,6702,580,"Belmont, Massachusetts"
+1463556161626591234,"Las series temporales en #infrarrojo color (NIR, R, G) de #Sentinel2 nos permiten 
+
+👉diferenciar clones de #chopo entre si por las diferencias de vigor (+ rojo brillante, +vigor)
+
+👉 detectar patologías/estrés (zonas claras)
+
+@sentinel_hub for #30DayMapChallenge 
+
+#leonesp https://t.co/qeijWfQmJB",725708439129841664,2021-11-24 17:12:35+00:00,es,8,1,17,1,Twitter for Android,16_1463556140785143809,https://pbs.twimg.com/tweet_video_thumb/FE-YjkhXEAEmW4r.jpg,animated_gif, ,Esc. Ing. Agraria y Forestal (Campus Ponferrada),forestalesponfe,False,1270,465,"Ponferrada, Spain"
+1463555260316741634,"@tjukanov Day 24. Historical map.
+
+Again @rebennett_ with a little bit of history and culture. Join the journey of Jason and the Argonauts around the Mediterranean!
+
+#30DayMapChallenge https://t.co/kdpABFEMqG",22914910,2021-11-24 17:09:00+00:00,en,2,1,5,0,TweetDeck,3_1463532849341083649,https://pbs.twimg.com/media/FE-DX1IXMAEgmuP.jpg,photo, ,Avenza Systems Inc.,Avenza,False,1367,188,"Toronto, ON"
+1463555221301379079,"#30DayMapChallenge Day 24: Historic Map
+Wind force &amp; direction, decimated from CLIWOC (tall ships captains logs 1750-1855) on Rumsey 1790 base-map in Spilhaus projection. Early historic climate data until just about when modern meteorological data started being collected ~ 1880s https://t.co/D5l5BhXRcO",25663399,2021-11-24 17:08:50+00:00,en,1,1,4,0,Twitter Web App,3_1463554147643531268,https://pbs.twimg.com/media/FE-WvjfXoAQZBod.jpg,photo, ,Andrew Zolnai,azolnai,False,921,1529,"Cambridge, UK"
+1463553001247834116,"#30DayMapChallenge Dia 24: Mapa històric
+Quico Sabaté a Sant Celoni.
+Ortofoto 1956
+Resum que vaig fer a història d'Espanya de 2n de Batxillerat. https://t.co/DOTmHNr1l6",3501358169,2021-11-24 17:00:01+00:00,ca,1,0,2,0,Twitter Web App,3_1455096270364844032,https://pbs.twimg.com/media/FDGKWTUXoAAzStZ.jpg,photo, ,Víctor Coris,Victor_Celoni,False,32,127, 
+1463549799542706177,"#30DayMapChallenge #Day24: Historical map. A colonial record from a 100 years ago, when the British were settling Punjab. Below is an excerpt from an inspection report from 1921 for one village (out of hundreds). Only a handful of people have ever seen these archival records. https://t.co/orrywfSU0a",124852105,2021-11-24 16:47:18+00:00,en,1,2,21,0,Twitter Web App,3_1463548948396843009,https://pbs.twimg.com/media/FE-SA6yXIAEPxB0.jpg,photo, ,Asjad Naqvi,AsjadNaqvi,False,4688,768,"Vienna, Austria"
+1463548970614075398,"#30DayMapChallenge Day 24 (Historical)
+
+Part 2/2:
+
+I've had some fun this year warping shaded relief to fit seamlessly onto very old maps.
+
+More on the process here: https://t.co/67eH0DcrUb https://t.co/IOloSzqkQa",243497005,2021-11-24 16:44:00+00:00,en,3,0,26,0,TweetDeck,3_1463548144696836098,https://pbs.twimg.com/media/FE-RSIxWQAI85Kq.jpg,photo, ,Daniel P. Huffman,pinakographos,False,9340,95,"Madison, WI"
+1463547536749301766,"#30DayMapChallenge Day 24 (Historical)
+
+Part 1/2:
+
+Here's a snippet of a map I just completed for a client, made in a style inspired by old USGS topographic maps. It's not yet published, so I won't yet share the whole thing. https://t.co/yxvIiv81tG",243497005,2021-11-24 16:38:18+00:00,en,2,6,55,0,TweetDeck,3_1463547053334843403,https://pbs.twimg.com/media/FE-QSnIX0AsOk56.jpg,photo, ,Daniel P. Huffman,pinakographos,False,9340,95,"Madison, WI"
+1463545784251691012,"Towns with the highest number of listed buildings per 1,000 residents 
+
+#30daymapchallenge #day24 #historic #qgis data from @HistoricEngland https://t.co/2CFbABeOvx",1101617286,2021-11-24 16:31:20+00:00,en,6,2,67,0,Twitter Web App,3_1463545697794506756,https://pbs.twimg.com/media/FE-PDtWXwAQYeY5.jpg,photo, ,Helen McKenzie,helenmakesmaps,False,4382,967,London
+1463545539455242247,"24. 'Historical map'
+
+Today's entry for the #30DayMapChallenge was developed by our Principle #GIS Consultant, Joe 🌐
+
+It centres around sites of #historical and #cultural importance (and our office!) in Glasgow's Hillhead:
+
+https://t.co/g3cJZkX4mp
+
+#LIDAR #GISchat #mapping #3D https://t.co/Y3RCaB9O1U",2295951570,2021-11-24 16:30:22+00:00,en,1,0,3,0,Hootsuite Inc.,3_1463545535764250636,https://pbs.twimg.com/media/FE-O6RvWQAwvFes.jpg,photo, ,LUC,LUCtweeting,False,3648,874,United Kingdom
+1463544669061660681,"#30DayMapChallenge Day 24: Historical
+
+History lives on in the names we give our schools.
+I originally envisioned this map for Day 1: Points, but I liked the historical ""battle map"" look &amp; feel (courtesy of @John_M_Nelson's  watercolor style) so much that I decided to save it! https://t.co/EfJIsiodB8",1278340072689958913,2021-11-24 16:26:55+00:00,en,4,2,43,1,Twitter Web App,3_1463544348377862145,https://pbs.twimg.com/media/FE-N1KYX0AE1Qam.jpg,photo, ,David Sherman,CartoDBS,False,94,98,"Austin, TX"
+1463542379667988484,Third submission made with Aerialod and it's time to play with the turntable option for day 23 of #30DayMapChallenge - Data Challenge 3: GHSL 👥 https://t.co/UhpfjTqWeu,148715617,2021-11-24 16:17:49+00:00,en,1,0,7,0,TweetDeck,16_1463541800786878475,https://pbs.twimg.com/tweet_video_thumb/FE-Lg33WYAsNDsO.jpg,animated_gif, ,Federica Gaspari,fede_gaspari,False,577,405,Arona | Piacenza
+1463541986812649474,"Day 24, #30DayMapChallenge: historical! A 1941 USGS topographic map of Nestucca Bay, Oregon.
+
+#rayshader adventures, an #rstats tale https://t.co/qptxUO1HFu",946151815,2021-11-24 16:16:15+00:00,en,6,1,55,0,Twitter Web App,3_1463541718536577033,https://pbs.twimg.com/media/FE-LcFdWYAkIIuR.jpg,photo, ,flotsam,researchremora,False,2778,970,the ivory bowl
+1463541733652901895,"Ever wondered where the ingredients for your beautiful Thanksgiving feast are coming from? Well, we've made a map showing farmland density across the US. And it turns out, probably Iowa. Check it out here: https://t.co/yqccwdyx2h 🦃🌽🥧 #30DayMapChallenge https://t.co/9E7zCyoCHd",1255361139476742145,2021-11-24 16:15:15+00:00,en,5,0,6,0,Twitter Web App,3_1463541358032048133,https://pbs.twimg.com/media/FE-LHGeX0AUYPSf.jpg,photo, ,Unfolded,unfoldedinc,False,2124,146,"San Francisco,CA"
+1463540898709577735,#30DayMapChallenge 2021 | Day 24 Historical Map | Migration of families in the US between 1830 and 1857 derived from family tree data. One of the first historical migration flow maps of US. Our preprint in press @cartographyGIS to see other periods  https://t.co/TIt1oAOVMh https://t.co/AAGwzy5Ybb,203130075,2021-11-24 16:11:56+00:00,en,2,0,7,0,Twitter Web App,3_1463537897559277576,https://pbs.twimg.com/media/FE-H9rNXwAgCr3G.jpg,photo, ,Caglar Koylu,caglarkoylu,False,300,465, 
+1463540660435394565,"#30daymapchallenge Who can beat 3088 historical maps – high resolution – and properly mapped and presented by »Chronoscope World«? https://t.co/3bw2Kb7Bek
+Intro video: https://t.co/WknEIqV9P5
+
+#geoux #geoixd #history #oldmaps #cartography #eculture https://t.co/sU9i9Hmz6m",853214807826325508,2021-11-24 16:10:59+00:00,en,1,0,7,0,Twitter Web App,3_1463539631845171203,https://pbs.twimg.com/media/FE-Jin7WYAM0640.jpg,photo, ,Chrono Research Lab,chronohh,False,1228,2168,"Hamburg, Germany"
+1463539173256740866,"25. Interactive map – speak and fly! 🛫
+
+A lightweight frontend-only voice-controlled Leaflet map for flyin' around in the world in less than 70 lines of code for  #30DayMapChallenge.
+
+GitHub: https://t.co/lTJWLCkJ9f
+Demo: https://t.co/UWCdCQ7chj
+
+#gis #gischat #js #javascript https://t.co/mgnmI8nGNv",1401802995726270465,2021-11-24 16:05:04+00:00,en,3,0,4,0,Twitter Web App,3_1463538850324791305,https://pbs.twimg.com/media/FE-I1IiXwAkiqtH.jpg,photo, ,Dominik Weckmüller,DomeGIS,False,1,10,Bonn | Trier | Milano
+1463538867856891911,"#30DayMapChallenge 2021 day 23: Historical Map
+A temporal animation showing the evolution of the Yolla Bolly-Middle Eel Wilderness since 1930 #QGIS @Calwild https://t.co/RC9tQbaOy3",7159622,2021-11-24 16:03:51+00:00,en,2,1,13,0,Twitter Web App,16_1463538114996195336,https://pbs.twimg.com/tweet_video_thumb/FE-IKVOX0Agotf2.jpg,animated_gif, ,Kurt Menke,geomenke,False,6072,2154,"Helsinge, Denmark"
+1463533032539926538,"Day 24 of the #30DayMapChallenge is historical. I've been parsing the 1958 Directory of Athens and spent the morning creating a lookup table for the occupational/demographic codes. Maps show geocoded addresses (~65% of entries) for 4: professors, workers, secretaries, and widows. https://t.co/MQKRO3zrRN",13215962,2021-11-24 15:40:40+00:00,en,3,1,13,0,Twitter Web App,3_1463532857176072192,https://pbs.twimg.com/media/FE-DYSUXoAAy0Pb.jpg,photo, ,Jerry Shannon,jerry_shannon,False,2111,1682,"Athens, GA"
+1463532050502369280,"Fast map for today's #30DayMapChallenge (""Historical"") -- historical districts in Boston, MA https://t.co/0yPX8MhMdF",942194832491122688,2021-11-24 15:36:46+00:00,en,1,0,4,0,Twitter Web App,3_1463531945447591946,https://pbs.twimg.com/media/FE-CjN3XEAovBhM.jpg,photo, ,Mike Mahoney,MikeMahoney218,False,1068,533,"Syracuse, NY"
+1463531965949386762,#30DayMapChallenge Day 25 (Interactive). Using the {leaflet} package in #rstats to map out Glasgow again. Static version below and interactive version here: https://t.co/kEAmuunsTO https://t.co/S8zS2Ae5Bc,963902391643967488,2021-11-24 15:36:26+00:00,en,2,1,4,0,Twitter Web App,3_1463531734067204104,https://pbs.twimg.com/media/FE-CW6aWUAgH1ZF.png,photo, ,Nicola Rennie,nrennie35,False,901,713,United Kingdom
+1463531897531908098,"Well only a week later I've finally got a decent Census Block population map of Jacksonville, higher population = taller features &amp; purple color.  Made in #ObservableHQ with Mapbox, still trying to keep the #30DayMapChallenge fire burning... https://t.co/AZ13MkUbKL",1231780311941492738,2021-11-24 15:36:10+00:00,en,1,0,2,0,Twitter Web App,3_1463530998021472257,https://pbs.twimg.com/media/FE-BsEbXwAE6vZZ.jpg,photo, ,Location Artistry,LocationArtist,False,209,910,southwest Michigan
+1463531893610188803,"#30daymapchallenge • Jour 24 
+""Carte historique""
+
+🗺 Île-aux-Moines (Morbihan)
+🧭 #ileauxmoines #morbihan #historicalmap #cartographie https://t.co/Z7hbos47hU",1352020785670533123,2021-11-24 15:36:09+00:00,fr,1,1,0,0,Twitter for Android,3_1463531890120474632,https://pbs.twimg.com/media/FE-Cf_wWQAgoXa0.jpg,photo, ,Geobjectif,geobjectif,False,15,19,France
+1463531353958502403,"#30daymapchallenge 
+Day 16: Urban/Rural
+
+#thekingofthenorth #mexico🇲🇽 #mapoftheday #map #AnecdotasDelDorada https://t.co/Rshj3vvWBn",509087207,2021-11-24 15:34:00+00:00,en,1,0,4,0,Twitter for Android,3_1463531349155926022,https://pbs.twimg.com/media/FE-CAggWUAYx_oG.jpg,photo, ,Ihanelly,ihanelly_64,False,296,429, 
+1463531146642276356,"#30DayMapChallenge Day 24 - Historical
+
+Yet another 3D vintage map in the sea of Twitter timeline - a “hillshaded” 1957 map of Victoria Harbour, #HongKong made by British War Office. https://t.co/g9OY6maWoj",985921631439568896,2021-11-24 15:33:11+00:00,en,2,1,5,0,Twitter for iPhone,3_1463531124244705284,https://pbs.twimg.com/media/FE-BzapVcAQoi2R.jpg,photo, ,Kenneth Wong,Kenneth_KHW,False,309,259,Hong Kong
+1463531070687698945,"Catching up
+#30DayMapChallenge Day 23: Data challenge 3: GHSL Global Human Settlement Layer
+
+Built-up area density in #Georgia by 2015.
+
+Data: European Commission; GHSL - Global Human Settlement Layer. Aggregated from 30 m. Resolution 250 m.
+
+@vizaxis https://t.co/sL7kNnPrJO",739155214968717312,2021-11-24 15:32:53+00:00,en,2,0,4,0,Twitter Web App,3_1463531041268944904,https://pbs.twimg.com/media/FE-BuliX0Ag6kza.jpg,photo, ,Lika Zhvania,lizhvania,False,93,224,"Enschede, Nederland"
+1463531033567981571,"Satellite image of the day: Burning Man, 2019 via Sentinel-2 (custom script to adjust contrast). 40.76, -119.2 via @sentinel_hub for #30DayMapChallenge https://t.co/vY0jJJybRh",910623276778405888,2021-11-24 15:32:44+00:00,en,10,5,69,1,Twitter Web App,3_1463530467844448272,https://pbs.twimg.com/media/FE-BNNXUYBAhlkq.jpg,photo, ,AI6YR,ai6yrham,False,29374,1611,DM04
+1463529749922385923,#30DayMapChallenge - Día XXIII https://t.co/lKasy9Y5u7,601582057,2021-11-24 15:27:38+00:00,es,2,0,4,0,Twitter Web App,3_1463529691793571850,https://pbs.twimg.com/media/FE-AgCWXwAoem0e.jpg,photo, ,Sr Miguelo,MiguE_garva,False,339,526,tu corazón
+1463527326109552653,"It was really hard to pick a historical topic for Day 24 of the #30DayMapChallenge, but NDP HQ personally furnished the data, so I went with the 1991 Saskatchewan election.
+
+Really makes you wonder if plebiscites are a good tool for distracting the public with... 🤔 https://t.co/zTz8RQxrJD",851149914725916672,2021-11-24 15:18:00+00:00,en,7,6,61,0,Twitter Web App,3_1461486546096427014,https://pbs.twimg.com/media/FEg-RTgXEAY_0Ri.jpg,photo, ,Alex McPhee,ksituan,False,4018,189,Val Marie / Treaty 4
+1463527029542989825,"#30DayMapChallenge 
+Day 24: Historical map
+
+A ""Kalmberg's map"", sheet P.IV, at National Archive. 
+
+Iitti municipality mid 19th century. 
+Names and places of houses, also locations of crofts.
+An area where a couple of hard-to-trace orphan kids wandered. https://t.co/R5YUBphB9N",1573244712,2021-11-24 15:16:49+00:00,en,1,1,5,0,Twitter Web App,3_1463527022060359687,https://pbs.twimg.com/media/FE9-Eo0X0AcS673.jpg,photo, ,Inkeri Lantta,ilantta,False,34,102,"Varkaus, Finland"
+1463525590540115972,"The @OpenStreetMap community in Ireland (@osm_ie) has an ongoing project to map all of the buildings in Ireland.
+
+This is a time lapse of those 1,831,044 buildings being added to the map.
+
+Made in #QGIS with the temporal controller.
+
+#30DayMapChallenge Day 24 ""Historical"" https://t.co/4GmU5eZbHW",1499547780,2021-11-24 15:11:06+00:00,en,8,3,40,3,Twitter Web App,16_1463525463373058056,https://pbs.twimg.com/tweet_video_thumb/FE98p6QXEAg4-VE.jpg,animated_gif, ,Heikki Vesanto,HeikkiVesanto,False,894,468,"Dublin City, Ireland"
+1463523789422006275,"#30DayMapChallenge Day 24: Historical Map
+""Turn the page back"" [still] https://t.co/wuANVnJ0gd",20668314,2021-11-24 15:03:57+00:00,en,1,0,6,0,Twitter for Android,3_1463523787161309184,https://pbs.twimg.com/media/FE97IV4VkAA683g.jpg,photo, ,Kenneth Field,kennethfield,False,15921,99,"Front room, Redlands CA"
+1463523667355189249,"#30DayMapChallenge Day 24: Historical Map
+""Turn the page back"" https://t.co/Je7Wk1NZZq",20668314,2021-11-24 15:03:27+00:00,en,1,0,16,0,Twitter for Android,7_1463523610610466822,https://pbs.twimg.com/ext_tw_video_thumb/1463523610610466822/pu/img/60qEJONjONlU_yHM.jpg,video, ,Kenneth Field,kennethfield,False,15921,99,"Front room, Redlands CA"
+1463523460618113025,"#30DayMapChallenge day 24: historical
+
+the Inca people called Apu Wamani to Cerro el Plomo, protector of the Mapocho Valley. This is the recreated route from the center of Santiago to this ceremonial place
+
+#rstats #rspatial #rayshader #mountains https://t.co/X0unWWDbpQ",83974993,2021-11-24 15:02:38+00:00,en,4,1,4,0,Twitter Web App,3_1463523250303119360,https://pbs.twimg.com/media/FE96pF7XsAAzz5M.jpg,photo, ,raimundos,raimun2,False,1007,810,Chile
+1463522798211633160,"Day 24: HistoricalMap | #30DayMapChallenge
+The most audacious military feat of antiquity: Hanibal Barca's Second Punic War
+Clément Méléard https://t.co/DUMGh7FHCg",1163470661400047616,2021-11-24 15:00:00+00:00,ro,1,1,10,0,Twitter Web App,3_1462558435116044291,https://pbs.twimg.com/media/FEwNJdRX0AMmmqY.jpg,photo, ,Taller Sïranda,Taller_Siranda,False,340,159,México
+1463520927933767682,Historic map prompt for #30DayMapChallenge today. This is inspired by a couple of the English Authors (Beale and Bennett) who Herman Melville drew on during the writing of #MobyDick This is based on an early 19th century map of the pacific. https://t.co/Lny1EtrfB7,19870047,2021-11-24 14:52:34+00:00,en,4,0,12,0,Twitter for iPad,3_1463520919956111361,https://pbs.twimg.com/media/FE94hctWQAE5VdX.jpg,photo, ,Caroline Hack,CarolineHack,False,1765,1995,"Norfolk, UK"
+1463520530531688450,"historical census tract coverage in Ohio, 1940-1990 #30DayMapChallenge https://t.co/hojBjnqdyV",902234700961509376,2021-11-24 14:51:00+00:00,en,1,1,11,0,Twitter Web App,3_1463504576393662464,https://pbs.twimg.com/media/FE9pqIMaUAAoXE6.png,photo, ,Scott N. Markley,snmarkley,False,677,608,"Athens, GA"
+1463518534114451456,#30DayMapChallenge Day 24 (Historic). Plotting the historic counties of the UK and trying out the {MapColoring} package in #rstats to find the minimal number of colours (4) needed to colour the map (although only 3 for Scotland). https://t.co/2BgzCppTLt,963902391643967488,2021-11-24 14:43:04+00:00,en,2,1,4,0,Twitter Web App,3_1463518394922287106,https://pbs.twimg.com/media/FE92OeOXwAId5-L.jpg,photo, ,Nicola Rennie,nrennie35,False,901,713,United Kingdom
+1463518171504197633,#30DayMapChallenge Day 23 (GHSL) https://t.co/PWcx4z689Q,963902391643967488,2021-11-24 14:41:37+00:00,en,1,1,3,0,Twitter Web App,3_1463518012712144900,https://pbs.twimg.com/media/FE914OYX0AQDhyo.jpg,photo, ,Nicola Rennie,nrennie35,False,901,713,United Kingdom
+1463517082490966021,#30DayMapChallenge carte historique de l'Europe après les decolonisations aztèques (entre autres). Une carte dystopique https://t.co/w8wwTkP4Vk,1189967197730430977,2021-11-24 14:37:17+00:00,fr,1,0,9,0,Twitter for Android,3_1463517073620058119,https://pbs.twimg.com/media/FE91Bj_XwActlR9.jpg,photo, ,Julien Dupont Kobri,Kartokobri,False,880,387, 
+1463516695067308034,"#30DayMapChallenge 2021 Day 24: Historical map
+
+Of the #Carneddau mountains, there are 4 with names of historical figures from the Welsh royal family
+
+The chart and maps show two alternative views on how they might have all been related
+
+https://t.co/sTbworSs11
+
+#MountainToponymy https://t.co/uAbVTFzrE7",1033206985,2021-11-24 14:35:45+00:00,en,3,1,2,0,Twitter Web App,3_1463514638369312772,https://pbs.twimg.com/media/FE9yzz-WUAQA6M_.jpg,photo, ,Phil Tarr,CasegFraith,False,526,862,United Kingdom
+1463515498428125190,Day 24 #30DayMapChallenge A fake historic map of Las Vegas complete with an ad for Wagon Lumber https://t.co/WdfiBLR7Yw,2391754261,2021-11-24 14:31:00+00:00,en,2,2,24,0,TweetDeck,3_1463244061075292163,https://pbs.twimg.com/media/FE58uJAXwAMGX9U.jpg,photo, ,🌏Map of the Week,MapOfTheWeek,False,1076,370,"Arlington, MA"
+1463515427691139072,"#30DayMapChallenge 
+Day 24 - Historical Map
+Viking Routes (9th - 11th Centuary).
+Cheating a bit today and posting a map I made from a couple years ago. 
+
+(Check out @John_M_Nelson's awesome blogs about tattered map sandwhiches.) https://t.co/vd9Ru9wSa7",748038863206088704,2021-11-24 14:30:43+00:00,en,1,1,8,0,Twitter Web App,3_1463514399046389772,https://pbs.twimg.com/media/FE9yl4bUUAwgxe2.jpg,photo, ,Shannon Gonzales 🐙(she/her),yavannie24,False,558,1000,"Sacramento, CA"
+1463515088388861958,"Day 24 #30DayMapChallenge : Historical Map
+1840 Agustin Codazzi's Political and topographic Colombian Map. Those years, Colombian territory included present-day parts of Venezuela, Ecuador, Perou, Brazil and Panama https://t.co/OgrhiPXBsb",1458114928670388231,2021-11-24 14:29:22+00:00,en,4,0,31,0,Twitter Web App,3_1463514367266336772,https://pbs.twimg.com/media/FE9ykCCXMAQLvaq.jpg,photo, ,Maps of Colombia - Mapas de Colombia,ColombianMaps,False,5612,20,Colombia
+1463511988991143938,"HISTORICAL boundary changes in Edmonton #yeg using @OpenDataEdm data. The city's spatial footprint more than doubled in size in the 80s, but hasn't changed much since. #30DayMapChallenge https://t.co/4iOmMfYxOk",900161125,2021-11-24 14:17:03+00:00,en,2,2,6,1,Twitter Web App,3_1463511826172456964,https://pbs.twimg.com/media/FE9wQHuXsAQE5ay.jpg,photo, ,amanda,acrobins,False,214,238,London via Edmonton & Calgary
+1463511876453736454,Day 24 in #30DayMapChallenge Historical Map: History is right under our feet. The red circles indicate remains of tar kilns in Finland: pits where tar was burnt/extracted out of trees. Discovering new sites every day! @MapsNorway @tjukanov read more 👇 https://t.co/bjz5wK2BDJ,741266268,2021-11-24 14:16:36+00:00,en,2,2,8,1,Twitter Web App,3_1463511698132852740,https://pbs.twimg.com/media/FE9wIqvWYAQ9ynq.jpg,photo, ,Floris Groesz,SirJanosFroglez,False,73,173, 
+1463511472848482311,"🗺️ ¿Sabías que en #ColombiaEnMapas también tienes acceso a la cartografía histórica del país? 
+
+Mira este mapa de 1976 del descubrimiento, conquista e independencia 👉🏻 https://t.co/8l6tCpeDh1
+
+😍 Día 24 del #30DayMapChallenge https://t.co/QkrWBMB4hl",124492052,2021-11-24 14:15:00+00:00,es,12,0,19,0,Twitter Web App,3_1463495676898197507,https://pbs.twimg.com/media/FE9hkG_WQAMPctZ.jpg,photo, ,Instituto Geográfico Agustín Codazzi - IGAC,igacColombia,True,62944,2159,Colombia
+1463511191985262592,"#Happywhales in Ecuador coast (Puerto López). October. 
+#30DayMapChallenge 
+
+📸 by @erikamb_92 https://t.co/AXCYOXQV3q https://t.co/ApWhHadmmq",2589392639,2021-11-24 14:13:53+00:00,es,2,0,4,0,Twitter for iPhone,7_1463510969666215941,https://pbs.twimg.com/ext_tw_video_thumb/1463510969666215941/pu/img/7TlHCYTGfwJF9rAm.jpg,video, ,Mario,GuallpaX,False,202,819,Cuenca
+1463511088167804929,"#30DayMapChallenge 
+Day 23 (delayed) - Data Challenge: GHSL
+
+Spatial scan data of the population distribution in Puerto Rico, expressed as the number of people per cell in the year 2015.
+Database: GHSL - Global Human Settlement Layer / CIESIN GPWv4.10 (2015)
+By: Lucas M Teixeira https://t.co/PNH9izTsWq",1027773119208062982,2021-11-24 14:13:28+00:00,en,1,0,4,0,Twitter Web App,3_1463511021901991938,https://pbs.twimg.com/media/FE9vhTlWUAIg5we.jpg,photo, ,Lucas Morais Teixeira,lucaobala_,False,56,263,"Maceió, Brasil"
+1463510525195784196,"Día 24 #30DayMapChallenge 
+#MapaHistorico #HistoricalMap
+
+Mercator (1569) y el mapa que cuadró el globo.
+
+Está proyección supuso una revolución en la navegación a partir del s.XVI.
+
+En su contra tiene la distorsión que sufren los territorios a medida que se alejan del ecuador. https://t.co/YpzuTq3IO4",1156302488884121601,2021-11-24 14:11:14+00:00,es,1,1,1,0,Twitter for Android,3_1463510514592538633,https://pbs.twimg.com/media/FE9vDxtWYAk_VO-.jpg,photo, ,Pablo Otero,Pablo__Otero,False,99,486,Madrid
+1463509727636295684,"#30DayMapChallenge - Day24 Historic
+
+#LSWT oder better #LakeIce temperature of lakes in #SchleswigHolstein mapped with Landsat5. Feb 1986 was very cold. Even the #Kiel fjord and the #BalticSea were frozen. How valuable the Landsat archive is. 
+
+data: #Landsat 5 by @USGSLandsat https://t.co/KlpBCQsGEx",1328807058465054720,2021-11-24 14:08:04+00:00,en,0,0,2,0,Twitter Web App,3_1463508136288002050,https://pbs.twimg.com/media/FE9s5V1XIAI-TeB.png,photo, ,Dr. Katja Kuhwald,KatjaKuhwald,False,214,343,"Kiel, Germany"
+1463507708028485640,"Its #HistoricalMap for today's #30DayMapChallenge. You'll find over 250,000 historical maps on our Map Images Website - which is your favourite?
+https://t.co/UVjOyYMlla https://t.co/KySycRrK49",1119210314,2021-11-24 14:00:02+00:00,en,9,2,26,0,Twitter Web App,16_1463477794453737473,https://pbs.twimg.com/tweet_video_thumb/FE9RTNsWUAEpfGt.jpg,animated_gif, ,NLS Map Collections,natlibscotmaps,False,13096,1122,Edinburgh
+1463506885882036238,"#30DayMapChallenge Day 24: Historical – Check out ‘The Way of the Framers’ by Daniel Huffman, which maps out the streets of Madison, Wisconsin, using the signatures of their namesakes. https://t.co/Z8poD9cJtp",438384837,2021-11-24 13:56:46+00:00,en,2,1,11,0,Twitter for Android,3_1463506879087357960,https://pbs.twimg.com/media/FE9rwKZXsAgDy6R.jpg,photo, ,Atlas of Design,NACIS_Atlas,False,5172,247, 
+1463504181122277379,"#30DayMapChallenge  day 24, I tried to learn about rendering in #QGIS. Have some way to go but happy I learnt something. https://t.co/VZ2BUShQ3P",1412877030895628289,2021-11-24 13:46:02+00:00,en,1,0,2,0,Twitter for Android,3_1463504177473232903,https://pbs.twimg.com/media/FE9pS6GXoActBSO.jpg,photo, ,Grachen Akoth,MapsGre,False,31,47, 
+1463503280315809792,Late entry to Day 23 of the #30DayMapChallenge @terisha_pillay1 created a map using GHS data. https://t.co/WvWj8q1811,1109007483199213568,2021-11-24 13:42:27+00:00,en,1,0,7,0,Twitter for Android,3_1463503276117217284,https://pbs.twimg.com/media/FE9oecSWUAQ5ico.jpg,photo, ,UP Mappers,UPmappers,False,87,66,"Pretoria, South Africa"
+1463503061322768384,"Day 24 of #30DayMapChallenge: Historical map
+
+Intsumisioa eta desertzioa Lehen Mundu Gerran Mauleko barrutian (1916-11-23 arte)
+
+Softwarea: InkScape
+Datuak: APDA + Gaindegia https://t.co/LGJ8JGBuKX",19770809,2021-11-24 13:41:35+00:00,eu,5,1,5,0,Twitter Web App,3_1463502829474226179,https://pbs.twimg.com/media/FE9oEcaXIAMGaL7.jpg,photo, ,Galder Gonzalez🔻,theklaneh,False,9277,1309,Euskal Herria
+1463502150810710025,"Day 24 data challenge : GHSL
+Using the global human settlement layer to map thr probability of built up areas in Gauteng. #30DayMapChallenge 
+@UPmappers https://t.co/CQDbzqYof0",3761815227,2021-11-24 13:37:57+00:00,en,1,0,1,0,Twitter for Android,3_1463502141562273800,https://pbs.twimg.com/media/FE9ncZvXwAgKBfG.jpg,photo, ,Terisha,terisha_pillay1,False,40,189,"Pretoria, South Africa"
+1463502123593879553,"Day 23 of #30DayMapChallenge: GHS data
+
+Kubako biztanleria.
+
+Softwarea: QGIS + Photoshop + Aeroloid https://t.co/vYCb62P8v7",19770809,2021-11-24 13:37:51+00:00,tl,1,1,2,0,Twitter Web App,3_1463502115398209542,https://pbs.twimg.com/media/FE9na4RX0AYTt-J.jpg,photo, ,Galder Gonzalez🔻,theklaneh,False,9277,1309,Euskal Herria
+1463501908773982215,Day 24 of the #30DayMapChallenge:  Historical Map…This historical design map of #Central Park in NYC from John Bogart and Otto Sibeth demonstrated the detail and work put into creating a park that 150yrs later slill amazes with tranquility amongst chaos. #FavoritePlaces https://t.co/tM7TqUWvLc,276280627,2021-11-24 13:37:00+00:00,en,1,0,7,0,TweetDeck,3_1462546062258835465,https://pbs.twimg.com/media/FEwB5QyVkAkFI0y.jpg,photo, ,Patrick Nelson,pnelson917,False,232,488,"Phoenix, AZ"
+1463501634407964679,"Day 24: Historical map
+
+This lovely index map - rectified and superimposed on present day imagery - shows the overview of Montréal's first islandwide aerial survey, from 1947-49. The images are now hosted by @MTL_DO #30DayMapChallenge https://t.co/jWrmVu7PGY https://t.co/4PlVRrOGKr",278873782,2021-11-24 13:35:54+00:00,en,1,1,3,0,Twitter Web App,3_1463500067390820359,https://pbs.twimg.com/media/FE9ljq2XEAcmU2s.jpg,photo, ,Map/,vtcraghead,False,3752,916,"Burlington, VT"
+1463501114708475906,"Day 24 (historical): Today, the global number of mobile cellular subscriptions is 108 per 100 people (World Bank estimate in 2020). 40 years ago the world looked very different. Made with @matplotlib
+Map by @IvanVasilyev8 &amp; @egleryytli 
+#30DayMapChallenge #maps #mobiledata https://t.co/d1hSmJagHh",34737662,2021-11-24 13:33:50+00:00,en,2,1,8,1,Twitter Web App,3_1463500240695267328,https://pbs.twimg.com/media/FE9ltwdXEAA1tRd.jpg,photo, ,Positium,positium,False,477,335,"Soola 8, Tartu, Estonia"
+1463497194116423691,"#30DayMapChallenge 
+Day 24 : Historical map
+No edition today 😇
+This shows Madagascar map in 1537 by Gaspar VIEJAS.
+You can find more historical photos at the Geographic and Hydrographic Institute of Madagascar. https://t.co/POifqy4pkf",860412366323933185,2021-11-24 13:18:16+00:00,en,1,0,4,0,Twitter Web App,3_1463496876020350984,https://pbs.twimg.com/media/FE9ip6EWQAg8sAp.png,photo, ,BAOVOLA Marie Anna,BaovolaMada,False,515,1606,Madagascar
+1463496322187620358,"#30DayMapChallenge Day 24: Historical Map - Map of Tokugawa Gosanke Mito branch territory, Japan
+
+飛び入り参加
+しかも日本語でご容赦
+
+御三家その②
+水戸徳川家領分図
+
+家康の十男頼宣より始まる御三家の一つ。
+幕末には15代将軍慶喜を輩出。 https://t.co/w5PXCihJLR",1218470445541806080,2021-11-24 13:14:48+00:00,ja,7,1,17,1,Twitter Web App,3_1463494917544878081,https://pbs.twimg.com/media/FE9g36LaIAEZvVl.jpg,photo, ,遙嶽,yaoyue00085856,False,693,142,日本のどこか
+1463495413898567682,"Double dose de carte aujourd'hui pour le #30DayMapChallenge : historical
+
+J'ai eu la chance de réaliser l'année dernière une carte qui est apparue dans un livre sur la Guerre de 1870
+
+C'est un peu l'inverse de celle de ce matin : une carte historique dans un style moderne 😁 https://t.co/rlyE1WzCKa",1311399091,2021-11-24 13:11:11+00:00,fr,1,0,7,0,Twitter for Android,3_1463495400749510660,https://pbs.twimg.com/media/FE9hUCQXsAQJ3V7.jpg,photo, ,Lubin Picard,Lubin_Picard,False,344,198, 
+1463493570980102157,"#30DayMapChallenge Mapa de Perfiles obtenidos mediante Mapas Auto-organizados (SOM) en el Corredor Seco centroamericano 
+
+#GIS #teledeteccion #geografia #centroamerica @IGNSpain @geoinfinita https://t.co/TrSYWYSi3j",846732445823258625,2021-11-24 13:03:52+00:00,es,1,0,2,0,Twitter Web App,3_1463493242142572548,https://pbs.twimg.com/media/FE9fWY0XwAQGXbh.jpg,photo, ,GIS4tech,GIS4tech_UGR,False,299,437,Pdsta. Fdo Gómez de la Cruz 61
+1463493499857297415,"Day 24, #30DayMapChallenge: historical. A 1930 USGS topographic map of Yosemite National Park.
+
+#rayshader adventures, an #rstats tale https://t.co/fR1AdrWuIV",946151815,2021-11-24 13:03:35+00:00,en,4,2,21,0,Twitter Web App,3_1463493495243612164,https://pbs.twimg.com/media/FE9flHsXIAQv7kp.jpg,photo, ,flotsam,researchremora,False,2778,970,the ivory bowl
+1463492877472968706,"#pangea 250 million years ago
+Day 24 of #30DayMapChallenge: historical map https://t.co/VSyeQq1KmT",26062194,2021-11-24 13:01:07+00:00,en,1,1,5,1,Twitter Web App,3_1463492859416526858,https://pbs.twimg.com/media/FE9fAHDXwAokyVC.jpg,photo, ,Patrick Mast,patrick_mast,False,59,137,"Hamburg, Germany"
+1463492480494616578,"#30DayMapChallenge - Day 23 - Data Challenge: GHSL
+
+The area around the river Ruhr in Germany is called Ruhrgebiet. The Global Human Settlement Layer data shows that it is densely populated.
+
+Made with R. Code: https://t.co/ngBpYAvsR9 https://t.co/qecr2Bh45c",733390000809730049,2021-11-24 12:59:32+00:00,en,1,0,10,0,Twitter Web App,3_1463491198837010433,https://pbs.twimg.com/media/FE9dfc6XMAEWJcZ.jpg,photo, ,Richard Vogg,richard_vogg,False,347,345,Germany
+1463491118138540032,"#Poland divided in half by fast moving melting front. True color image captured by #Sentinel3 satellite on Feb. 22, 2021. Data processed in @sentinel_hub 
+
+#30DayMapChallenge #Polska https://t.co/nbZjUte5DX",1368902640181145600,2021-11-24 12:54:07+00:00,en,5,0,25,0,Twitter Web App,3_1463490715980341260,https://pbs.twimg.com/media/FE9dDWIXIAw27hp.jpg,photo, ,kosmi,kosmi64833127,False,489,200, 
+1463490270327099398,Day 23 - Data Challenge: GHSL - Global Human Settlement Layer @EU_ScienceHub  #30DayMapChallenge and a map of #Asia! This is my first initial map and I plan to expand it a bit with some ~labels~! #GISchat #anotherdayanothermap 🌏 https://t.co/BkYAnnyzit,1183213291188834305,2021-11-24 12:50:45+00:00,en,7,2,64,1,Twitter Web App,3_1463489634139361280,https://pbs.twimg.com/media/FE9cEX9X0AALvwK.jpg,photo, ,Ayeisha Sheldon,ayeishasheldon1,False,203,315,"Geneva, Switzerland"
+1463488751422820353,"#30DayMapChallenge, day 24, historical map: Hundred years of Helsinki through its buildings. Buildings rendered based on completion year, overlayed with present day coastline. Processing in @qgis , video rendered in @shotcutapp. Data by @kaupunkimittaus,🗺by @tadusk0 https://t.co/rq9cnnSqHl",845248364191059968,2021-11-24 12:44:43+00:00,en,6,0,22,0,Twitter Web App,7_1463488705147064322,https://pbs.twimg.com/ext_tw_video_thumb/1463488705147064322/pu/img/-9P06u32FESJd02z.jpg,video, ,DigitalGeographyLab,digigeolab,False,1345,365, 
+1463487638917238790,"⏳ Last call to take part in @sentinel_hub for #30DayMapChallenge and win very-high resolution 🛰️ #satellite data 👉 @airbus #Pleiades. Do you already know what you will use it for? 🤩
+
+👀ℹ️👉 https://t.co/xnvNhaAxvI
+
+The #challenge ends today at midnight (UTC). ⌛️ https://t.co/T2nR5fomhr",2912566559,2021-11-24 12:40:18+00:00,en,5,0,10,0,Twitter Web App,3_1463485648724238337,https://pbs.twimg.com/media/FE9YcZIXIAE-Uvr.jpg,photo, ,Sentinel Hub,sentinel_hub,False,29367,444, 
+1463487000787439616,"#30DayMapChallenge - Day 24- Historical.
+My neighborhood in 1927.
+Thanks again to @sarahbellmaps for BellTopo Sans! https://t.co/RaSeRu0nih",92863619,2021-11-24 12:37:45+00:00,en,2,0,8,0,TweetDeck,3_1463486801218351108,https://pbs.twimg.com/media/FE9ZfegXsAQG0Rn.jpg,photo, ,Scott Ritter,scottwritter,False,297,638,Connecticut
+1463485014906228738,"#30DayMapChallenge
+Day 24: Historical | Skating Among Giants
+
+This summer I skated among the coastal redwoods in California. Here I am pushing under these historic giants alongside a vintage 3D topo map from Special Agent Charles Sargent (Redwood Forest Distribution in CA,  1881) https://t.co/HgRrBCt2J5",333524694,2021-11-24 12:29:52+00:00,en,3,2,30,0,Twitter Web App,3_1463483760045867010,https://pbs.twimg.com/media/FE9WudQWQAIN-64.jpg,photo, ,Christopher Pollard,CRVanPollard,False,1236,1210,"Philadelphia,PA"
+1463483856141619211,"#30DayMapChallenge Día 24. Historical Map
+Mapa de hitos y lugares históricos en Paris.
+Fuentes: https://t.co/HywjQRLzTc y https://t.co/uObv4uiWvS
+Instagram: dataurbana
+#DataUrbana #SocialDataScience #UrbanDataScience #SpatialDataScience #dataviz #python @tjukanov https://t.co/RmqzEq01cr",1270981983842287616,2021-11-24 12:25:16+00:00,es,1,0,3,0,Twitter Web App,3_1463483807055683592,https://pbs.twimg.com/media/FE9WxMYXIAg9YtD.jpg,photo, ,DataUrbana,Data_Urbana,False,78,167,Barcelona
+1463481977022070786,"The Great Fire of London
+#30DayMapChallenge - Day 24 - Historical. 
+Affected areas applied on Modern London Lidar data. Experimental. Made in #Blender3d. First version, will revisit it. #B3d #gischat #history #3dmap #dataviz 1/n https://t.co/cSORiZPCpz",1186202364,2021-11-24 12:17:48+00:00,en,38,10,258,9,Twitter for Android,3_1463481947863359493,https://pbs.twimg.com/media/FE9VE-WXoAUSB_q.jpg,photo, ,Julian Hoffmann,Julian_H0ffmann,False,737,1953,"London, England"
+1463479384371773443,"Day 24 of #30DayMapChallenge Historic Maps
+In the beginning the Universe was created. This had made many people very angry and has been widely regarded as a bad move
+
+Not quite the universe but some plate tectonics from ~240 Ma made using GPLate and using data from https://t.co/8Tm1KoPH5Z",1318518242080661504,2021-11-24 12:07:30+00:00,en,1,1,7,0,Twitter Web App,7_1463478567841509382,https://pbs.twimg.com/ext_tw_video_thumb/1463478567841509382/pu/img/UwrkPwAIO4Tl6Jvu.jpg,video, ,Christoph Er,dataisawesomeo,False,199,580, 
+1463477555407704074,"日本列島に降った雨がどの海に流れるのか、可視化してみた。
+
+分水嶺、雨粒どうしが別々の海に注いでいくのが神秘的。トンネルを抜けると気候や植生が変わることも。
+隆起と侵食が作り上げた天然の境界線、ずっと眺めていられそう…🧐
+
+#30DayMapChallenge Day 3: Polygons - Watershed, Japan https://t.co/IaFETNbCxT",967719352932843521,2021-11-24 12:00:13+00:00,ja,295,4,881,14,Twitter Web App,3_1463475707938762758,https://pbs.twimg.com/media/FE9PZw0acAYLz1x.jpg,photo, ,にゃんこそば🌘データ可視化,ShinagawaJP,False,40971,711,東京 品川区
+1463477501448048649,"#30DayMapChallenge Day 24 - Historical map
+#Paleogeography of the Rhine-Meuse Delta. Great dataset made by colleagues from @UU_PhysGeog and available through @DANS_knaw_nwo. Places added from #OpenStreetMap and background hillshade from AHN3 @PDOK_online. #QGIS 1/2 https://t.co/OizH3SAhia",760094405369946112,2021-11-24 12:00:01+00:00,en,8,1,41,1,Twitter Web App,3_1463474140795576322,https://pbs.twimg.com/media/FE9N-iwXIAIeWVJ.jpg,photo, ,Hans van der Kwast,hansakwast,False,4230,1320,The Netherlands
+1463477150003122176,"#30DayMapChallenge Day 24: Historical Map
+
+Atlas Tyrolensis, the first map of #Tirol based on a geodetic survey, created by Peter Anich and Blasius Hueber between 1760-1770. Overlay: current day OSM data on buildings, streets, and water.
+
+Historical map:
+https://t.co/7TMsmJIsWd https://t.co/SYFr9SBuhe",14707170,2021-11-24 11:58:37+00:00,en,2,0,7,0,Twitter Web App,3_1463458454278922241,https://pbs.twimg.com/media/FE8_td7WYAEN0k7.jpg,photo, ,مارتين🚡Martin,MartinBangratz,False,1220,1310,Cologne/Aachen/Innsbruck
+1463471115918057472,#30DayMapChallenge day 24 - history.  The kingdoms of England at around 800AD. Made using @inkarnaterpg https://t.co/zFZQCGZTnP,798523409286266880,2021-11-24 11:34:38+00:00,en,9,4,70,0,Twitter for Android,3_1463470350780538886,https://pbs.twimg.com/media/FE9Kh72XIAY1jQ-.jpg,photo, ,Dan Harris,DiasporaDan,False,1229,1857,"Grantown-on-Spey, Scotland"
+1463470868818841604,"#30DayMapChallenge I haven't had time to fully participate in this, but I wanted to create something at least. Here is an annotated map of Okinawa Island, inspired by The New York Times, and thanks to @Amit_Levinson for functions used. #RStats 
+
+https://t.co/uCACObMY9W https://t.co/uFfTyAkhrx",892500834327703554,2021-11-24 11:33:39+00:00,en,4,0,4,0,Twitter Web App,3_1463470723226222596,https://pbs.twimg.com/media/FE9K3nUVQAQ9t2H.jpg,photo, ,Alex Elfering,anelfering,False,325,764,"Iowa, USA"
+1463469948987224069,#30DayMapChallenge Day 24: #Historical map - We are working on producing historical #boundaries to accompany the release of past #census data. Here is a preview of the #Northampton area which has undergone some boundary changes. https://t.co/JWbWgdElkY,2248416469,2021-11-24 11:30:00+00:00,en,3,0,5,0,TweetDeck,3_1463466863808163841,https://pbs.twimg.com/media/FE9HW93XMAEpSW_.jpg,photo, ,ONS Geography,ONSgeography,True,6543,166,"Titchfield, Fareham"
+1463469947976175619,"#30DayMapChallenge Historical Map
+Evolution des tracés hydrographiques rennais d'après les cartes de @ArchivesRennes 
+#QGIS #Rennes https://t.co/ql8w0k8WNG",1353147127355072513,2021-11-24 11:30:00+00:00,fr,3,0,12,0,Twitter Web App,16_1461741200814358528,https://pbs.twimg.com/tweet_video_thumb/FEkl4KQXwAAi7DZ.jpg,animated_gif, ,Hennenfent Lou,LouHennenfent,False,12,72, 
+1463469817504186368,The twenty-third day of the #30DayMapChallenge is an accessibility comparison between Horse and cart and the modern car to St. Paul's Cathedral 275 years apart (1746 and present day 2021 respectively). 🐴🚗🗺️ https://t.co/w7uUgE5Tvr,49592380,2021-11-24 11:29:29+00:00,en,1,1,10,1,SocialPilot.co,3_1463469813183959046,https://pbs.twimg.com/media/FE9KCpJWUAY4Emy.png,photo, ,Basemap,basemap,False,1664,1588,"Guildford, Surrey"
+1463467946387427336,"#30DayMapChallenge Day 24: Historic map
+This map uses ships' voyage data from CLIWOC and base maps from #naturalearth to map some of the voyages of a ship called Busbridge of the East India Cº. in the 18th century. #gis #QGIS https://t.co/KLeyAW9sPa",1074378707438055426,2021-11-24 11:22:02+00:00,en,3,0,6,0,Twitter Web App,3_1463467746931486722,https://pbs.twimg.com/media/FE9IKXwXsAILQBp.jpg,photo, ,Blandford Bread 💙,BlandfordBread,False,576,1081,"South West, England"
+1463467255833018372,"Día 23 #30DayMapChallenge #GHSL
+Primer mapa/gif creado con éxito, con el crecimiento urbano de Madrid y ciudades periféricas en los años 1975, 1990, 2000 y 2015. https://t.co/jKYdotUd0v",1156302488884121601,2021-11-24 11:19:18+00:00,es,1,1,4,0,Twitter for Android,7_1463467245275910145,https://pbs.twimg.com/ext_tw_video_thumb/1463467245275910145/pu/img/F8bm1iTQkvkxEZTc.jpg,video, ,Pablo Otero,Pablo__Otero,False,99,486,Madrid
+1463466576842272781,Bit late for #30DayMapChallenge entry. Experimenting with new tools #Aerialod https://t.co/uasxe5Bh1Q,220956068,2021-11-24 11:16:36+00:00,en,4,2,41,0,Twitter Web App,3_1463465995780202498,https://pbs.twimg.com/media/FE9GkcNXoAITobZ.jpg,photo, ,Nathan Shaw,nkshaw,False,80,317, 
+1463465418539024384,"#30DayMapChallenge 2021 🗺️ Day 24 - historical
+
+A humble try to recreate Minards map of french wine exports with contemporary data
+
+Tools: #rstats (a lot of packages)
+
+Code: https://t.co/VUSnI71IAY
+
+HighRes: https://t.co/HKqZkajxXp https://t.co/CGlVLxTfAX",2745527973,2021-11-24 11:12:00+00:00,en,8,1,33,0,Twitter Web App,3_1463247138712956931,https://pbs.twimg.com/media/FE5_hSGXsAMO10I.jpg,photo, ,David Schoch,schochastics,False,1928,290, 
+1463462580916301827,"#30DayMapChallenge Day 24. Check out these two historical maps on @Soar_Earth. Topographic map of Palanpur, India 1954
+https://t.co/SEPi6l8E07 &amp; Declassified - Goderich, Canada, 1978 from @USGS https://t.co/VOOnC8MkHw. Tell me where you know on the map by clicking the links. https://t.co/95dECznfRK",410241434,2021-11-24 11:00:43+00:00,en,2,1,10,1,Twitter for Android,3_1463462528273498117,https://pbs.twimg.com/media/FE9DamvWQAUZ7cg.jpg,photo, ,Caleb Fagunloye,Paragon41,False,239,450,"Washington, DC"
+1463462230138228736,Día 24: Mapa histórico en #30DayMapChallenge https://t.co/BcZXib5efr,3194863402,2021-11-24 10:59:20+00:00,es,3,1,7,0,Twitter Web App,3_1463462199712702470,https://pbs.twimg.com/media/FE9DHewWYAYqmWx.jpg,photo, ,Cartografía Digital,digimaps,False,3731,185,"Comunidad de Madrid, España"
+1463461498081013760,"#30DayMapChallenge Day 09 - Monochrome
+I split New Zealand's population into quarters, in both directions.
+Inspired by similar maps by others; took much longer than I expected to figure out, but I learned 🤷‍♂️
+#RStats code: https://t.co/SZdx99FAf6 https://t.co/88ubbtzKp6",33788841,2021-11-24 10:56:25+00:00,en,3,0,12,0,Twitter Web App,3_1463460856834846725,https://pbs.twimg.com/media/FE9B5UJUcAU1MDi.jpg,photo, ,suǝbbıɹɟ pıʌɐp,dakvid,False,556,464,"Wellington, New Zealand"
+1463461405693296644,"🚨🙏🏻PLEASE LIKE AND SHARE to support vital research. We need access to costly highly detailed satellite images to study #whale strandings from space. 
+
+Help us get the most likes and shares to win imagery as part of @sentinel_hub #30DayMapChallenge.  
+Why is it so important? 1/4 https://t.co/hlJJkHP7oq",1372486585296506885,2021-11-24 10:56:03+00:00,en,54,5,94,1,Twitter for iPhone,3_1463461401519927297,https://pbs.twimg.com/media/FE9CZBQXMAECDLD.jpg,photo, ,Penny Clarke,PennyJClarke,False,169,253,Cambridge
+1463461033205448710,"24. Historical: UNESCO World Heritage sites 🏛️ by category (Cultural, Natural, Mixed)
+Data: UNESCO WHC
+@GemMsc 
+ #30DayMapChallenge https://t.co/pLNeq42ZXv",3326184955,2021-11-24 10:54:34+00:00,en,6,2,16,0,Twitter Web App,3_1463460660822560770,https://pbs.twimg.com/media/FE9Bt58WUAIh6E4.jpg,photo, ,Abdullah Toqeer,Abbi_786,False,181,126,"Tartu, Eesti"
+1463456637495255040,#30DayMapChallenge Day 24: Historical Map. My map is not really historical. It is the contemporary situation compared with a map based on data of the 20th century. Subject: dialect words in the Netherlands and Flanders for  'butterfly' https://t.co/4C5g8WwGsz,846963504,2021-11-24 10:37:06+00:00,en,1,0,7,0,TweetDeck,3_1463455518404620293,https://pbs.twimg.com/media/FE89Ck8XsAU26DP.jpg,photo, ,Miet 👩‍🦰 Ooms - blijft vrolijk buurtalen 🌈,BuurtaalMiet,False,1334,999,"Limburg, België"
+1463454392829595649,"#30DayMapChallenge 2021 | Day 24 | Historical Map
+The insular group of Minor Cyclades in the #Cyclades Archipelago in the middle of the #Aegean Sea, illustrated with a historical look and feel!
+#cARTography #MakingMapsPretty #ArcGISPro 
+Location: https://t.co/C0IgWLgr9H https://t.co/er48ZzKlWy",374984100,2021-11-24 10:28:11+00:00,en,2,4,52,1,Twitter Web App,3_1463453523396513797,https://pbs.twimg.com/media/FE87Oc9X0AU4ejW.jpg,photo, ,Staridas Geography,StaridasGeo,False,1058,578,Greece
+1463454256724332547,"#30DayMapChallenge
+Urmia Lake #TIZNEGAR Custom  script to show the salinity of the soil and the salt dragon that the lake swallows more and more every day
+@sentinel_hub 
+@ESA_EO 
+@NASAEarth https://t.co/o2bVBVuSgC",1251715976757940224,2021-11-24 10:27:39+00:00,en,4,0,34,1,Twitter for Android,3_1463454252857278471,https://pbs.twimg.com/media/FE8746aXwAcBgiw.jpg,photo, ,Tiznegar,tiznegar,False,237,325, 
+1463453229702950914,#30DayMapChallenge - Carte historique - La guerre froide en Asie 1948-1980 https://t.co/08K1JDAL2q,860108779471462400,2021-11-24 10:23:34+00:00,es,6,0,13,0,Twitter Web App,3_1463452956217548801,https://pbs.twimg.com/media/FE86tcDXoAEN3Wt.jpg,photo, ,Mind The Map,cpchabert,False,2810,1337,"Paris, France"
+1463452890635374595,"*The going is hard*
+🏇 A century at Gatwick ✈️
+@OrdnanceSurvey six inch map 1888-1913 v Present day 
+#GeographyTeacher #GIS #Airports #ChangingPlaces #Impermeable #30DayMapChallenge
+Day 24: Historical Map
+Go back in time with the excellent @natlibscotmaps https://t.co/Xl05rK6Myp https://t.co/qwHktnji6e",2787878432,2021-11-24 10:22:13+00:00,en,3,0,6,1,Twitter for Android,7_1463452870695702533,https://pbs.twimg.com/ext_tw_video_thumb/1463452870695702533/pu/img/Fq2lYZNbeB7zKZLN.jpg,video, ,BC,mildthing99,False,2575,2318,"England, United Kingdom"
+1463450570237296647,"#30DayMapChallenge Day 24: Historical map
+
+Real-time notifications are as important as extensive historical data in disaster management.
+Get Kontur Event Feed to have both: https://t.co/8FaVRC6tZs https://t.co/RXLoNYuKEw",1024584556110852096,2021-11-24 10:13:00+00:00,en,1,1,11,0,Twitter Web App,3_1463147256165670917,https://pbs.twimg.com/media/FE4krWnXoAUotyr.jpg,photo, ,Kontur,KonturInc,False,1016,1208,"Hawaii, USA"
+1463447802596392961,"#30DayMapChallenge #historical #interactive 
+
+Die staatlichen #DDR-Karten im #Geoportal: Entdecke interaktiv Unterschiede zw. den Ausgaben ""Staat"" &amp; ""Volk"". 
+
+The state maps of #EastGermany: Compare both versions by using the sliding tool.
+
+👉 https://t.co/zoYdObyjVR
+
+@GDI_DE https://t.co/9ahlkxaQf1",833617709271285760,2021-11-24 10:02:00+00:00,de,1,0,14,0,Twitter Web App,7_1463123273437388800,https://pbs.twimg.com/ext_tw_video_thumb/1463123273437388800/pu/img/gxF9FVaXZ-mMGh1S.jpg,video, ,Bundesamt für Kartographie und Geodäsie,BKG_Bund,False,3926,535,"Frankfurt am Main, Deutschland"
+1463447782363209728,"#30DayMapChallenge Day 24: Historical Mapping
+Search and explore historic and present day @OrdnanceSurvey maps of Great Britain side-by-side. See how your area has changed (or not) over the past century... https://t.co/IvXIVPaDeb
+
+(Historic maps digitised by @natlibscotmaps) https://t.co/A4JTaXloHK",491313936,2021-11-24 10:01:55+00:00,en,5,0,9,0,Twitter Web App,7_1463447666306826244,https://pbs.twimg.com/ext_tw_video_thumb/1463447666306826244/pu/img/Y08wfWxhVa3xggPN.jpg,video, ,Ahmad Barclay,bothness,False,2832,644,Fareham / Beirut
+1463447304505937923,"#30DayMapChallenge Day 24- #HistoricalMap
+ 
+Fireballs Map of Reaching Earth between Apr 15, 1988 - Nov 08, 2021.
+These data are taken from NASA.
+
+15/04/1988 - 08/11/2021 Tarihleri Arasında Yeryüzüne Ulaşan Meteor Haritası
+ 
+https://t.co/Y4Y9ppdi97
+
+#Başarsoft #GIS #CBS #MapInfo https://t.co/eu2bmhdZOW",164172121,2021-11-24 10:00:01+00:00,tr,1,0,4,0,Twitter Web App,7_1463056932835577857,https://pbs.twimg.com/ext_tw_video_thumb/1463056932835577857/pu/img/piQBhQ200cgSPCkK.jpg,video, ,Başarsoft,basarsoft,False,1633,41,ANKARA-İSTANBUL-SAN FRANCISCO
+1463446292106039302,"I had a lot of fun with this one. Whilst the theme is 'historic', I went more 'retro' and designed the garden of my new house in the style of Zelda Links Awakening, my favourite retro game! #30DayMapChallenge https://t.co/V1VxLbrWRf",1114069920092966912,2021-11-24 09:56:00+00:00,en,2,1,12,0,TweetDeck,3_1463260154326130692,https://pbs.twimg.com/media/FE6LW5CXoAQn4vA.jpg,photo, ,Kate,KateEllen100,False,157,311, 
+1463444515612676096,"🚰What ever happened to the Haweswater villages?🚰
+Mardale + Measandbeck 🔎'Spy'🔎 Bartholomew ½in 1897-1907 v Now, using excellent @natlibscotmaps
+#GeographyTeacher #GIS #Dams #ChangingPlaces #30DayMapChallenge
+Day 24: Historical Map
+Go back in time here: https://t.co/Y7hf5EmR2N https://t.co/aRgrGYzXAJ",2787878432,2021-11-24 09:48:56+00:00,en,6,0,9,1,Twitter for Android,7_1463444484906172418,https://pbs.twimg.com/ext_tw_video_thumb/1463444484906172418/pu/img/ON1B9nahMeYO1RQi.jpg,video, ,BC,mildthing99,False,2575,2318,"England, United Kingdom"
+1463442701148372994,"#TidyTuesday #30DayMapChallenge
+Day 24 : Historical Map | Portsmouth NH | https://t.co/hZVXGx01MG https://t.co/qnCgmaTr9f",1428864082329931777,2021-11-24 09:41:44+00:00,en,3,0,3,0,rstats2twitter,3_1463442697629454340,https://pbs.twimg.com/media/FE8xYT1X0AQbYlO.jpg,photo, ,Kraggle,JCraggy,False,35,22,America
+1463442528942837762,"#30daymapchallenge Day 24 - Historical Map. In 1984 Dr John Snow used GIS to identify the source location of an outbreak of Cholera. This is where GIS all started. Red -Water Pumps, Blue - Location of residents with cholera. @Cadcorp #gis #johnsnow #2021 https://t.co/lj2MOBJccA",92832101,2021-11-24 09:41:03+00:00,en,1,1,4,0,Buffer,3_1463442525755219974,https://pbs.twimg.com/media/FE8xOTjXIAYrZhg.jpg,photo, ,Ian Usher,ian_usher1985,False,469,1886,Stevenage
+1463441066040905736,"Day 24 | hystorical map for #30DayMapChallenge 
+Our entry is a 1873 geological map of Ischia Island, Italy
+
+#ischia #italy #map #gis #oldmap #History #mapcommunity https://t.co/nUrARJ9UbE",1316116835327148035,2021-11-24 09:35:14+00:00,en,6,0,35,0,Twitter Web App,3_1463440212525211648,https://pbs.twimg.com/media/FE8vHqGWYAAb3Li.jpg,photo, ,VizArt,hellovizart,False,1014,204, 
+1463440275813109763,"#30DayMapChallenge Day 24 - Historical Map
+While browsing https://t.co/roVY1LRPnV, stumbled upon a route of the tram in 1939 in Mulhouse, France. And here it is :) This tramline functioned during 1882-1956 period. Tools: plotly (Python). https://t.co/ZQvb4y1TDL",1456684848345718791,2021-11-24 09:32:05+00:00,en,0,1,3,0,Twitter for iPhone,3_1463440271094521863,https://pbs.twimg.com/media/FE8vLESXIAcT8Ii.jpg,photo, ,datavizlover,datavizlover_,False,7,0, 
+1463435779930308608,"#30DayMapChallenge Day24 - Historical Map
+or in this case, a map about history. Ancient Remains in Sweden represented by contour lines that indicate where known remains are concentrated.
+Data from: https://t.co/j1y6ULEcTg (open data) https://t.co/eQOBmYe3SO",56323078,2021-11-24 09:14:13+00:00,en,2,0,12,0,Twitter Web App,3_1463434859817443333,https://pbs.twimg.com/media/FE8qQFtXoAUzXWn.jpg,photo, ,Klas Karlsson,klaskarlsson,False,5330,82,"Eksjö, Sweden"
+1463435371904122888,"#30DayMapChallenge
+Day 24 - Historical
+
+The sewer network in Lisbon, Portugal, in 1882. https://t.co/C7k8RQEv1j",14075285,2021-11-24 09:12:36+00:00,en,0,0,3,0,TweetDeck,3_1463435324005269504,https://pbs.twimg.com/media/FE8qrG8XwAAeU9J.jpg,photo, ,jpamado,jpamado,False,35,352, 
+1463435241381584897,"¿Qué zonas de Granada capital están a más de 500 metros de una parada de autobús?
+
+Jugando con R, {osmdata} y buffers. Código adaptado (con bastante esfuerzo, porque: ""código en GitHub"" != ""código reproducible"") del #30DayMapChallenge de anirudhgovind: https://t.co/jhU3jkE3oQ https://t.co/UYxdLmexZo",963009722113757185,2021-11-24 09:12:05+00:00,es,3,0,9,0,Buffer,3_1463435234482040835,https://pbs.twimg.com/media/FE8ql5cXsAMHfhO.jpg,photo, ,Daniel Redondo Sánchez,dredondosanchez,False,691,212,"Granada, España"
+1463434624885874693,"#30DayMapChallenge Day 24, Historical map. 1950 USGS topographic map of Santa Monica and Beverly Hills. One major difference compared to modern elevation data: the Santa Monica and San Diego freeways didn’t exist in 1950 #QGIS #rayshader https://t.co/FnFXL0DV5D",1319832619052249089,2021-11-24 09:09:38+00:00,en,6,3,56,1,Twitter for iPhone,3_1463434581642596353,https://pbs.twimg.com/media/FE8p_5bUUAEBBwH.jpg,photo, ,Charlie Verdel,CSVerdel,False,758,2059,"Northern Territory, Australia"
+1463434038740492289,"#30DayMapChallenge 
+Day24 - Historical
+
+I'm a total sucker for these combinations of old maps and elevation data, so discovering I could make them was *extremely* exciting.
+
+This is a beautiful 1960s map of Las Vegas. https://t.co/zNrFJhZ99Q",2213909976,2021-11-24 09:07:18+00:00,en,4,1,23,0,Twitter Web App,3_1463432683913101317,https://pbs.twimg.com/media/FE8oRb1WQAUSHDt.jpg,photo, ,Colin Angus,VictimOfMaths,False,14874,684, 
+1463433075606626306,"#30daymapchallenge
+
+Day 21: Historical 
+
+Map of the city of Toronto, Canada by Yuanyuan Xie
+
+#cartography #mapping #maps #historical #canada #toronto #gis #gismapping https://t.co/meEtnBxnLU",1255575072301088770,2021-11-24 09:03:29+00:00,tl,0,0,3,0,Twitter Web App,3_1463433011358224387,https://pbs.twimg.com/media/FE8okfqWUAMpYc2.jpg,photo, ,GIS-E,GISE50189808,False,57,21,"London, UK"
+1463432826158821376,"November 13-27, 1941:
+
+The Battle of Gonder (ጎንደር) was the last stand of the Italian forces in Italian East Africa during the Second World War. The battle took place in November 1941, during the East African Campaign.
+
+#30DayMapChallenge. Day 24 - Historical Map. https://t.co/elO6uOShND",1425835867147444232,2021-11-24 09:02:29+00:00,en,6,1,9,0,Twitter Web App,3_1463431017361027078,https://pbs.twimg.com/media/FE8mwbcXsAY_d4Z.jpg,photo, ,Map Infographics,MapInfographics,False,25,24,Kenya
+1463431542408101889,"#30DayMapChallenge 
+Day 24, Historical
+
+This is literally an assignment for a class I'm handing in today, explaining the distribution of businesses in a town using space syntax tools.
+The gist, not to look at current spatial patterns, but of mid 20th century, when CBD evolved https://t.co/1sYJAfXvdI",51414990,2021-11-24 08:57:23+00:00,en,1,0,6,0,Twitter Web App,3_1463431382873649152,https://pbs.twimg.com/media/FE8nFtFXsAAq43h.jpg,photo, ,HD,HarelDan,False,3104,1228,"174/37, 36SYB"
+1463431055138975752,"Raids of SMS Emden in Indian Ocean during Aug-Nov 1914. 
+
+#30DayMapChallenge Day 24 - Historical Map https://t.co/gXT8m5WlEM",2543362932,2021-11-24 08:55:27+00:00,en,1,1,4,0,Twitter Web App,3_1463430393844367361,https://pbs.twimg.com/media/FE8mMIqagAEcQBp.jpg,photo, ,Vajira,VajiraL,False,332,661,Riddermark
+1463427892617134081,"24. Historical Map
+#30DayMapChallenge 
+
+https://t.co/6AG7LRD9Zs https://t.co/QuAyQ1Q1SD",807289,2021-11-24 08:42:53+00:00,en,2,1,9,1,Twitter Web App,7_1463265458623238152,https://pbs.twimg.com/ext_tw_video_thumb/1463265458623238152/pu/img/LjpBxCT3e6Q5SQNU.jpg,video, ,Martin Kleppe,aemkei,False,8660,404,"Hamburg, Germany"
+1463427594779516934,#30DayMapChallenge day 24: Historical.  Comparing forests in Flanders in 1775 and 2018. Data from @digi_vlaanderen. https://t.co/gRWdeSIkAL,269294137,2021-11-24 08:41:42+00:00,en,1,0,9,1,Twitter Web App,3_1463427522717179910,https://pbs.twimg.com/media/FE8jlA4WYAYKtMo.jpg,photo, ,michelstuyts,michelstuyts,False,493,1480,"Antwerp, Belgium"
+1463427525842026498,"#30DayMapChallenge jour 24 carte historique. L'année 2020 face au coronavirus : mesures de confinement, zones d'attestation obligatoire et de couvre-feu, ligne de changement de masque et quelques morts célèbres https://t.co/qdtUEtF34Q",1189967197730430977,2021-11-24 08:41:25+00:00,fr,2,1,2,0,Twitter Web App,3_1463427039969652737,https://pbs.twimg.com/media/FE8jI6gXsAEoH0a.jpg,photo, ,Julien Dupont Kobri,Kartokobri,False,880,387, 
+1463424771618656260,"#30DayMapChallenge - day 24: historical map
+
+This map tells the story of operation Dynamo. At the beginning of WWII, more than three hundred thousand soldiers of the British expeditionary force were surrounded by the Germans at the beaches around Dunkirk. https://t.co/apDqwxXqAV",791292018,2021-11-24 08:30:29+00:00,en,3,2,18,0,Twitter Web App,3_1463424709907857409,https://pbs.twimg.com/media/FE8hBSWWQAEcGIp.jpg,photo, ,Britt Lonneville,BrittLonneville,False,279,429, 
+1463424649488846849,"#30DayMapChallenge 2021 24 - Historical
+Building age data @INSPIRE_EU @Het_Kadaster overlaid on LiDAR height data (from https://t.co/Sm0VEFXOXs) for Zutphen, Netherlands.  Rendered in #rayshader #rstats h/t @dr_xeo https://t.co/xDhUesUKQY",299559781,2021-11-24 08:30:00+00:00,en,7,0,65,0,Twitter Web App,3_1463168707929198606,https://pbs.twimg.com/media/FE44MAqWUA4fHh5.jpg,photo, ,Neil Southall,neilcfd1,False,455,298,Ireland
+1463424397411332098,"Historical Day of the #30DayMapChallenge! 
+
+I was so heavily inspired by a previous map by @DiasporaDan that I had to go and check out the dataset
+
+This is historical European boundaries over the last century https://t.co/oFKjX2jeBO",437801734,2021-11-24 08:29:00+00:00,en,3,1,6,1,Twitter for Android,3_1463424394806583301,https://pbs.twimg.com/media/FE8gu8gWYAUWwLD.jpg,photo, ,Antonia Blankenberg,MapsByAntonia,False,483,523,"Dublin City, Ireland"
+1463424025678471168,"This is my first ever attempt using Blender to do this kind of maps. The image and Elevation data comes from @IGNSpain. After seeing all of the great maps from @geo_spatialist, finally I have done my own. Lots to correct and learn still #30DayMapChallenge #Blender3D #maps https://t.co/f2IjEFsWmv",718494860,2021-11-24 08:27:31+00:00,en,2,0,15,0,Twitter for Android,3_1463424023015088130,https://pbs.twimg.com/media/FE8gZTeWYAI81ut.jpg,photo, ,GeoMariano,Geo_mpm,False,818,1284,"Lower Stondon, England"
+1463423751421374467,"And one of the world's best places (but please don't tell anyone 🤫). Bay of Txingudi, the border between my two Countries Hondarribia🇪🇸 Hendaye🇫🇷 la Corniche and Saint Jean de Luz. The perfect end for my @sentinel_hub #30DayMapChallenge. https://t.co/IHtbLkoxth",118147850,2021-11-24 08:26:26+00:00,en,1,0,11,0,Twitter Web App,3_1463421956087328774,https://pbs.twimg.com/media/FE8eg_kXsAYMF6i.jpg,photo, ,Rafa Cereceda,Rafacereceda,True,2919,2520,Lyon - Madrid
+1463422053298675714,"We have raised almost two-third of funds for improving elevation and point cloud data tools in #QGIS. Help us reach the target so that we can start the work: #30DayMapChallenge 
+https://t.co/FxjntJixKN https://t.co/X5opUoTjc9",453028244,2021-11-24 08:19:41+00:00,en,13,0,41,1,Twitter Web App,3_1463421968322019328,https://pbs.twimg.com/media/FE8ehtJWQAAceJ4.png,photo, ,Lutra Consulting,lutraconsulting,False,4193,633,Global
+1463421429601480709,Some hope to end this @sentinel_hub #30DayMapChallenge. Land recovery after 2019 Valleseco wildfire in Gran Canaria 🤗 #Sentinel2  SWIR https://t.co/KCxj6YxIqe,118147850,2021-11-24 08:17:12+00:00,en,3,1,9,0,Twitter Web App,16_1463420606846750726,https://pbs.twimg.com/tweet_video_thumb/FE8dSdQWUAYKoXS.jpg,animated_gif, ,Rafa Cereceda,Rafacereceda,True,2919,2520,Lyon - Madrid
+1463421168585744391,"#30DayMapChallenge 
+Day 20: Movement
+
+Catching up with a dataset from #HappyWhale avvessed via @GBIF , showing the best months to go Humpback Whale watching in the South Pacific!
+
+Featured📦 {gganimate} &amp; {ggimage}
+Created in #RStats, code: https://t.co/veZOVrQZOn https://t.co/i6vmMtRxso",233748559,2021-11-24 08:16:10+00:00,en,6,0,14,1,Twitter Web App,16_1463421092106850308,https://pbs.twimg.com/tweet_video_thumb/FE8dus_X0AQW5xN.jpg,animated_gif, ,Lorena Abad,loreabad6,False,1247,927,"Salzburg, Austria"
+1463420813508550661,"#30DayMapChallenge day 24 (historical)
+
+The map of utmost historical importance: countries that participated in, but never won Eurovision as of 2021. Geopolitics? Data from Wikipedia https://t.co/OIcGQPeLxA",963423777135759360,2021-11-24 08:14:45+00:00,en,8,2,33,4,Twitter Web App,3_1463420211017793538,https://pbs.twimg.com/media/FE8c7arXwAIfhWI.jpg,photo, ,Ilya Ilyankou,ilyankou,False,431,401,London
+1463417100068798465,"Day 24: historical map #30DayMapChallenge A non-geographical map: how many countries did these European cities see? Based on @andre_ourednik historical map database (with some manual fixes) https://t.co/C6RyGDcCTW
+Interactive version with a dynamic legend: https://t.co/y7XTgO2QOj https://t.co/mdtKGLzLo9",160578875,2021-11-24 08:00:00+00:00,en,2,0,7,0,Twitter Web App,3_1462928052028067845,https://pbs.twimg.com/media/FE1dT_kWUAUgPK_.png,photo, ,Xavier Olive,x00live,False,237,162,"Toulouse, France"
+1463416753988542466,Day 24: Historical map. Found this beautiful map of #Prague from 1823. Played with Blender again! Modern day DEM from JAXA. #30DayMapChallenge https://t.co/gfhyJFoeTW,28102639,2021-11-24 07:58:37+00:00,en,1,1,9,0,Twitter Web App,3_1463416259727572993,https://pbs.twimg.com/media/FE8ZVa-XwAEFahB.jpg,photo, ,Phoebe L.,pheebely,False,311,204,"Austin, TX"
+1463415431918592002,"#30DayMapChallenge #day24 - Historical map
+#SaintBelec slab: oldest #3D map in Europe, dating from the Early #BronzeAge - 4,000-year-old - #StoneMap @Inrap @IGNFrance 
+🗺️#StoryMap 👉https://t.co/BxXSB0cnQW https://t.co/uJJr8jfrxI",2247167180,2021-11-24 07:53:22+00:00,en,4,0,15,0,Twitter Web App,3_1463412310156918787,https://pbs.twimg.com/media/FE8VvhrWQAMhmhA.jpg,photo, ,Jean-Marc Viglino,jmviglino,False,263,11,FR-94160 Saint-Mandé
+1463414426325893128,"#30DayMapChallenge 2021 Día 23: GHSL - Global Human Settlement Layer. Espacios construidos por actividad humana en el Área Metropolitana de Guadalajara con información proveniente del proyecto Global Human Settlement Layer de la @ESA_EO 
+@tjukanov https://t.co/wQZDV61Iee",7630312,2021-11-24 07:49:22+00:00,es,1,0,5,0,Twitter Web App,3_1463414329970241536,https://pbs.twimg.com/media/FE8XlGEXsAA83aO.jpg,photo, ,Yúum-K'aak-Náab,jdeltoro1973,False,580,2122,Guadalajara México
+1463414286940876805,#30daymapchallenge #inkscape https://t.co/Yr1vFaUKDZ,233135248,2021-11-24 07:48:49+00:00,und,1,0,1,0,Twitter Web App,3_1463412812458471426,https://pbs.twimg.com/media/FE8WMw5XsAIl9he.jpg,photo, ,Jérôme Boeuf,jrombf,False,95,458,"Besançon, France"
+1463413013520781312,24. Historical: Estonia in Europe with a twist 😉 on historical style map #30DayMapChallenge https://t.co/T7YRV76hZ6,47698876,2021-11-24 07:43:45+00:00,en,7,3,39,0,Twitter Web App,3_1463412238367268870,https://pbs.twimg.com/media/FE8VrWPXIAY10Tf.jpg,photo, ,Evelyn,evelynuuemaa,False,1116,353,Estonia
+1463412672142192644,"Historical data you never thought you needed know. The roofs of Lesmahagow parish.
+
+Data extracted from the OS Name Books 1858-1861, Lanarkshire Volumes 44/45 by me. A fun edition to my own dataset. 
+
+#30DayMapChallenge | Day 24 | Historical https://t.co/rBXUHJMO2G",16735351,2021-11-24 07:42:24+00:00,en,2,1,13,1,Twitter for iPhone,3_1463412667280941057,https://pbs.twimg.com/media/FE8WEUEWYAEl_mN.jpg,photo, ,tookiebunten,tookiebunten,False,1086,2012,"South Lanarkshire, Scotland"
+1463411311623249925,"#30DayMapChallenge - Historical
+
+Quelques théâtres et monuments anciens, une carte de la Grèce, un peu délavée 
+
+(Si vous cherchez des données sur la Grèce ancienne : https://t.co/xkxpel3TIu) https://t.co/nktxfdw0Mg",2367649759,2021-11-24 07:37:00+00:00,fr,6,0,27,1,TweetDeck,3_1454870028445261826,https://pbs.twimg.com/media/FDC8lSfXoAIO3IZ.jpg,photo, ,Gaëlle Sutton,Gaelle_Sutton,False,2779,1716,Paris
+1463410721316868099,"Day 24 #30DayMapChallenge 
+I am using the occasion to share the map of Denmark by Mercator from 1595. It’s from the book of Peder Dam “Kortlægningen af Danmark” published by Lindhardt and Ringhof. I know it’s cheating, but it gave me a reason to flip through the book this morning https://t.co/jgszl7xcck",223123391,2021-11-24 07:34:39+00:00,en,1,0,3,0,Twitter Web App,3_1463410310614761476,https://pbs.twimg.com/media/FE8T7IzWQAQL2f_.jpg,photo, ,Denitza Voutchkova,DenitzaV,False,305,260,Denmark
+1463406899571924996,"Day 24. Historical shapefiles. These shapefiles have been discontinued but are still the easiest to access online
+https://t.co/SzjbN0lArf
+#30DayMapChallenge https://t.co/PbF2ZEahAS",201856958,2021-11-24 07:19:28+00:00,en,4,1,34,0,TweetDeck,16_1463406859084304385,https://pbs.twimg.com/tweet_video_thumb/FE8QyO2XEAEC-_l.jpg,animated_gif, ,Fil,recifs,False,2716,2528,Sur la carte de France
+1463405732628414470,"#30_ימי_מיפוי 
+והיום - מפות היסטוריות, שכבת המבנים של תל אביב לפי שנת בנייה של המבנה. מאוד פשוט ומאוד מעניין
+#30DayMapChallenge https://t.co/9g4jB9i90j",2227560465,2021-11-24 07:14:50+00:00,iw,2,2,9,0,Twitter Web App,7_1463405400766787589,https://pbs.twimg.com/ext_tw_video_thumb/1463405400766787589/pu/img/jilu-cvgXWY1Rbr-.jpg,video, ,Ido Klein עדו קליין,idoklein1,False,1170,829,"Jerusalem, Israel"
+1463404103300788225,"#30DayMapChallenge - Day 24: ""Historical map""
+The Travels of Marco Polo (1271 - 1295). I have always liked maps showing the routes of explorers. This is my first attempt to make one. Base map: Natural Earth. Created with @qgis and Illustrator. https://t.co/o7WOosNG8o",336517784,2021-11-24 07:08:21+00:00,en,1,0,6,0,Twitter Web App,3_1463403154108817414,https://pbs.twimg.com/media/FE8NakvXoAYOB5j.jpg,photo, ,Luca Dall'Acqua,luca_northsouth,False,175,523,"Lucerna, Svizzera"
+1463403575489568770,"Voilà ma carte pour le Day 21 - Elevation
+
+Vous pouvez voir trois sommets montagneux du Parc naturel régional des Préalpes d'Azur. 
+
+J'attends vos commentaires ! 😌
+
+#géographie #carte #cartographie #geography #map #sig #gis #qgis #illustrator #30DayMapChallenge https://t.co/ZkP2BIbRyx",1386941882270461954,2021-11-24 07:06:15+00:00,fr,0,0,1,0,Twitter for Android,3_1463403567331610627,https://pbs.twimg.com/media/FE8NyoHXEAMR_Vu.jpg,photo, ,𝐀𝐂𝐚𝐫𝐭𝐨,ACarto_alecle,False,18,513,Besançon
+1463403475002298370,"Global Human Settlement Layer (GHSL) is the day #23 dataset for #30DayMapChallenge ∩ #plottertwitter.
+
+This view of SF, Oakland, and Berkeley from the southwest preserves the Molleweide-projected 1km population pixels of GHSL. Out on the edge of the globe they’re very stretched. https://t.co/MZV8d2Hiw3",93046641,2021-11-24 07:05:51+00:00,en,1,2,20,0,TweetDeck,3_1463402536757387265,https://pbs.twimg.com/media/FE8M2o7UYAEffMP.jpg,photo, ,Michal Migurski,michalmigurski,False,4680,12,Oakland CA
+1463403285843480577,"Voici ma carte pour le Day 20 - Mouvement
+
+J'ai décidé de représenter les zones de sismicité en France.
+
+Qu'en dites-vous ? 😊
+
+#géographie #carte #cartographie #geography #map #sig #gis #qgis #illustrator #30DayMapChallenge https://t.co/I5jcg2X3LP",1386941882270461954,2021-11-24 07:05:06+00:00,fr,0,0,0,0,Twitter for Android,3_1463403277664595968,https://pbs.twimg.com/media/FE8NhxBXMAA2geS.jpg,photo, ,𝐀𝐂𝐚𝐫𝐭𝐨,ACarto_alecle,False,18,513,Besançon
+1463402715783041025,"#30DayMapChallenge Day 23: #Historicalmap
+
+This map showing the #bathymetry around the #IberianPeninsula was published in the “Natural History” (1896) of Odón de Buen, professor at @UniBarcelona.
+
+#OdonDeBuen was also the founder of @IEOoceanografia.
+
+@Calvoroy #odonizando #maps https://t.co/671GL2sYKf",1118437362080546816,2021-11-24 07:02:50+00:00,en,4,0,10,1,Twitter for Mac,3_1463402708866682884,https://pbs.twimg.com/media/FE8NAqFX0AQyjlH.jpg,photo, ,José Luis Casamor,batidivulga,False,1218,599,Planeta Océano ~ Planet Ocean
+1463402289100738564,"Je vous présente ma carte pour le Day 19 - Ile
+
+Et pourquoi pas le Japon ? 🤔
+
+Qu'en dites vous ? 😌
+
+#géographie #carte #cartographie #geography #map #sig #gis #qgis #illustrator #30DayMapChallenge https://t.co/ETm33QGorz",1386941882270461954,2021-11-24 07:01:09+00:00,fr,0,0,1,0,Twitter for Android,3_1463402284054896641,https://pbs.twimg.com/media/FE8Mn7iWYAE633F.jpg,photo, ,𝐀𝐂𝐚𝐫𝐭𝐨,ACarto_alecle,False,18,513,Besançon
+1463402005011976195,"Day 24 of the #30DayMapChallenge - Historical map
+
+John Snow's Cholera Map
+
+Data: John Snow's Cholera Data by Dr Robin Wilson +OpenStreetMap background
+
+#30DaysOfPokemon Color Palette - Kabutops 
+
+More on this map and more maps  - https://t.co/Dkle8cpdXC
+#30_ימי_מיפוי https://t.co/HS4WGAPf14",1174353681946484739,2021-11-24 07:00:01+00:00,en,5,1,8,0,Twitter Web App,3_1462323149048061953,https://pbs.twimg.com/media/FEs3KAXXIAE-779.jpg,photo, ,Dror Bogin,bogind2,False,169,292,Israel
+1463400486057521152,"Railway stations in the region 100 years ago. 76 then, 7 today. Gars ye greet.
+#30DayMapChallenge | Day 24 | Historical https://t.co/fBl1fnAKyc",1081900377853829120,2021-11-24 06:53:59+00:00,en,14,4,54,3,Twitter Web App,3_1463398145925201921,https://pbs.twimg.com/media/FE8I3DzWQAEHcrc.jpg,photo, ,D&G Place-Names,dgplacenames,False,1152,393, 
+1463399851220213762,"As a kid my way to school passed Missouri, Arkansas, Illinois and many other interesting places. For day 24 in #30DayMapChallenge I made a historical map of farm names in Surju in 1850 using #QGIS. Backstory on the map👇 https://t.co/h2WXyQ7F6y",1331146264411598849,2021-11-24 06:51:27+00:00,en,20,1,94,9,Twitter Web App,3_1463398745698152454,https://pbs.twimg.com/media/FE8JZ-IXMAYEhgu.jpg,photo, ,Ago Tominga,AgoTominga,False,20,10, 
+1463397045381709827,"#30DayMapChallenge 23: Global Human Settlement Layer
+Continuando con la ZMVM, es el turno de ver el desarrollo de acuerdo a los datos del proyecto GHSL https://t.co/67ugv7gYYz",309950945,2021-11-24 06:40:18+00:00,es,1,0,2,0,Twitter Web App,3_1463392894979432449,https://pbs.twimg.com/media/FE8EFagUYAEwxuB.jpg,photo, ,Mr. Brightside,edgareslahostia,False,157,833,En algún lugar de la galaxia
+1463396458539929605,The worldwide #30DayMapChallenge has reached Estonian Land Board. For every day in November one new map will appear. 24th day challenge: Historical map. You can see the whole gallery https://t.co/it1YIPjMyU https://t.co/mvSJ4FRGiz,193592650,2021-11-24 06:37:58+00:00,en,1,0,2,0,Twitter Web App,3_1463396437782405121,https://pbs.twimg.com/media/FE8HToeXoAEdTtS.jpg,photo, ,Maa-amet,maaamet,False,174,89, 
+1463395098679517184,"Day 24 - Historical
+I created style set based off the Ordnance Survey Maps 25 inch 1st edition, Scotland, 1855-1882, with the nearby Berwick-upon-Tweed being surveyed in 1855, using modern OS data but in a historical style.
+#30DayMapChallenge https://t.co/byb6wdfAqi",1694963077,2021-11-24 06:32:34+00:00,en,1,0,3,0,Twitter Web App,3_1463395014030118912,https://pbs.twimg.com/media/FE8GAwlX0AAEsGg.jpg,photo, ,Marcus Humphrey,92MBH,False,93,126,"Perth, Scotland"
+1463394451901095941,"Jour 24 du #30DayMapChallenge : Historical
+
+Petit test d'une carte dans le ""Style J.Minard"" représentant les déplacements des parisiens vers différents départements pendant le confinement au printemps 2020.
+Les données utilisées sont considérées comme expérimentales par l'INSEE. https://t.co/UTe8y1HJZ5",1311399091,2021-11-24 06:30:00+00:00,fr,4,4,50,0,Twitter Web App,3_1463293043478601738,https://pbs.twimg.com/media/FE6pRSrXoAozxLm.jpg,photo, ,Lubin Picard,Lubin_Picard,False,344,198, 
+1463394451829575683,"About 56 years ago, several Hamburg transport companies formed the #HVV - the worlds first transport association was established.
+I created this #historical map for the #30DayMapChallenge https://t.co/74iQ5LAY1c",70192766,2021-11-24 06:30:00+00:00,en,2,0,6,1,Twitter Web App,3_1463135583509831684,https://pbs.twimg.com/media/FE4aD6lWYAQg73S.jpg,photo, ,Achim Tack,A_Tack,False,1829,1263,"Hamburg, Germany"
+1463390130379571205,Day 24 #30DayMapChallenge GHSL https://t.co/F1Cvk2WAlj,86087153,2021-11-24 06:12:50+00:00,en,1,0,1,0,Twitter Web App,3_1463390109538172929,https://pbs.twimg.com/media/FE8BjR7XwAEdpv0.png,photo, ,Дмитрий,DBusAI,False,34,248,"Москва, Россия"
+1463389965275049985,"#30DayMapChallenge Day 24 : Historical Map
+
+Orthossini, a mutant map mixing XXI th century &amp; XVIII th
+
+Pollution (data by @AtmoSud) is materialized by aerial imagery on Cassini map
+
+Location : Marseille
+
+#cartography #climatechange https://t.co/cfDRbCjwBn",488000929,2021-11-24 06:12:10+00:00,en,4,0,18,0,Twitter Web App,3_1463389625100161024,https://pbs.twimg.com/media/FE8BHFQWUAAcL3s.jpg,photo, ,mathieu rajerison,datagistips,False,1847,837,"Aix-en-Provence, France"
+1463389417624637440,"Layers of history in #Helsinki. Several historical maps from @kaupunkimittaus overlayed using blending modes and transparency in QGIS. 
+
+#30DayMapChallenge day 24. https://t.co/JVLWJSOI9d",2198358416,2021-11-24 06:10:00+00:00,en,7,1,81,2,Twitter Web App,3_1456588101338415104,https://pbs.twimg.com/media/FDbXKSxWQAACsFT.jpg,photo, ,Topi Tjukanov,tjukanov,False,15348,2505,"Helsinki, Suomi"
+1463387741790613504,"#30DayMapChallenge day 23: Historical. Meet the first @metro_madrid map , inaugurated on October 1919. Nowadays @metro_madrid has 12+ lines and 317 stations. https://t.co/SE6GSTW4Pn",121572923,2021-11-24 06:03:20+00:00,en,1,0,7,0,Twitter for iPhone,3_1463387737000759298,https://pbs.twimg.com/media/FE7_ZLiX0AI-4Nw.jpg,photo, ,dieghernan ن,dhernangomez,False,276,332,"Madrid, España"
+1463386918452961281,"Have you ever tried to mimic a map you own? 👀 @SannaJokela1 did a new version of an old map she has hanging on the bedroom wall. Done with QGIS using datasets from Intact Forest Landscapes, Global Agricultural Lands in 2000 and Natural Earth. #30DayMapChallenge https://t.co/0oHW5wRh7o",973813309811187713,2021-11-24 06:00:04+00:00,en,2,0,4,1,Buffer,3_1463386915051343872,https://pbs.twimg.com/media/FE7-pViXEAA7_7t.jpg,photo, ,Gispo,gispofinland,False,998,298,"Helsinki, Suomi"
+1463384552446074885,"#30DayMapChallenge, day 24, Historical map: in 1972, the first year data for Finnish municipalities is available, only 11 small municipalities in Åland had a share of more than 7% of population age 75 or over. For comparison, in 2020 only 12 municipalities have a share under 7%. https://t.co/xFlrpzMtQT",490477903,2021-11-24 05:50:40+00:00,en,2,1,18,0,Twitter Web App,3_1463094009329500167,https://pbs.twimg.com/media/FE30P-sWQAck9o2.jpg,photo, ,Tuomas Lehto,LehtoTuomas,False,266,277,Helsinki
+1463378583120928768,"#30DayMapChallenge Day 24, Historical. When georeferencing old maps, remember that it was very difficult to get the longitudes correct back then. Using the lat/long grid for referencing might not work well, as this map shows. https://t.co/xknGkANTFY",1143779197107806208,2021-11-24 05:26:57+00:00,en,1,0,6,0,Twitter Web App,3_1463378443236782084,https://pbs.twimg.com/media/FE728NkXsAQada9.jpg,photo, ,Jonas Nelson,JonasNelson19,False,45,7,Sweden
+1463377272744906755,#30daymapchallenge day 24 - historical map - borders of 1880. Historical country GIS data from Thinkquest. Made with tmap #rstats #rspatial package. https://t.co/p69fLelfUd,3331095159,2021-11-24 05:21:44+00:00,en,4,0,5,0,Twitter Web App,3_1463377261340643330,https://pbs.twimg.com/media/FE713aqX0AIy_qb.png,photo, ,Jan-Philipp Kolb,JanPhilippKolb,False,207,569,"Mannheim, Baden-Württemberg"
+1463376537248579584,"Day 22 of the #30daymapchallenge. The topic is boundaries. I downloaded the level 3 boundaries of #India with #rstats package #raster. raster::getData('GADM', country='IND', level=3) https://t.co/T7Vi2du9GX",3331095159,2021-11-24 05:18:49+00:00,en,4,1,5,0,Twitter Web App,3_1463376524023848961,https://pbs.twimg.com/media/FE71Mf8WYAE0NMK.png,photo, ,Jan-Philipp Kolb,JanPhilippKolb,False,207,569,"Mannheim, Baden-Württemberg"
+1463371549587738625,"#30DayMapChallenge Day 24 - Historical #Map. A long history going back to the ancient world in 250 million years ago. 
+
+#DataViz created using #GPlates with Mollweide projection. https://t.co/E8Bnkmul0R",1461953521255739394,2021-11-24 04:59:00+00:00,en,1,1,9,0,Twitter Web App,7_1463370810307932161,https://pbs.twimg.com/ext_tw_video_thumb/1463370810307932161/pu/img/gqcwnsR1Pa8TzfGp.jpg,video, ,G.Seta,ariaezta,False,11,56,JC4R+F5
+1463370019077701635,"Day 24:Historical #30DayMapChallenge 2021 @tjukanov
+UNESCO World Heritages Sites in #India 2021
+Map generated using MapnikRasterizer #FME @SafeSoftware
+Data Sources: @UNESCO World Heritage Sites
+https://t.co/e3sW9IrI46
+India Map: DIVA-GIS https://t.co/bw5DgV0iv0 https://t.co/aqOaYDComH",105407287,2021-11-24 04:52:55+00:00,en,0,0,3,0,Twitter Web App,3_1463369858888859655,https://pbs.twimg.com/media/FE7vIiYVgAcgfN0.jpg,photo, ,SRG,Saint_GIS,False,156,88,"Chennai, India"
+1463368078947807233,"Day 23: Data challenge 3: GHSL Global Human Settlement Layers #30DayMapChallenge 2021 @tjukanov
+GHS Functional Urban Areas (GHS-FUA)
+Map generated using MapnikRasterizer #FME @SafeSoftware
+Data Sources:
+GHS-FUA R2019A-PID:https://t.co/mkQqseKnjr https://t.co/LM6auWDlvQ",105407287,2021-11-24 04:45:12+00:00,en,1,0,4,0,Twitter Web App,3_1463367878200098820,https://pbs.twimg.com/media/FE7tVPvVgAQcLBJ.jpg,photo, ,SRG,Saint_GIS,False,156,88,"Chennai, India"
+1463367599085993985,"#30DayMapChallenge knocking off Day 16:Rural/Urban and Day:23 GHSL Data Challenge with this GIF of urbanisation in southern India using the GHSL Settlement Model (SMOD) data.
+
+Reading how they developed the GHSL-SMOD was very interesting! #geospatial #gischat #QGIS https://t.co/TaxHfza2ZW",1117471915151626240,2021-11-24 04:43:18+00:00,en,2,0,9,0,Twitter Web App,16_1463365659614748678,https://pbs.twimg.com/tweet_video_thumb/FE7rUG3XoAYjM_Z.jpg,animated_gif, ,Valeria Meraz,valeriamerazc,False,131,435,The Anthropocene
+1463364406817873921,"#Day24 of #30DayMapChallenge: Historical. 
+Current and abandoned mining operations on the West Coast, New Zealand in a historical style. 
+This one was a bit of fun to do, throwing some gold nuggets around the map! https://t.co/nT20Riab6n",93839237,2021-11-24 04:30:37+00:00,en,8,2,55,2,Twitter Web App,3_1463363898489249796,https://pbs.twimg.com/media/FE7ptmKVIAQ7Rot.jpg,photo, ,Andrew DC 🌈,andrewdc_nz,False,799,182,"Christchurch City, New Zealand"
+1463364098775785474,"¿Hasta dónde podemos llegar partiendo de #Hermosillo, #Sonora y con 4 horas de camino?
+
+Si bien no participo en el #30DayMapChallenge, de ver dan ganas.
+
+Mapa de isócronas con información obtenida desde el paquete {osrm}, a partir del ejemplo de @VictimOfMaths.
+#RStats #Rspatial https://t.co/r604h9fP7s",54718338,2021-11-24 04:29:23+00:00,es,8,1,31,0,Twitter Web App,3_1463364026436661253,https://pbs.twimg.com/media/FE7p1CzXsAUqbrq.jpg,photo, ,Luis Armando Moreno,dogomoreno,False,2096,755,"Hermosillo del Pitic, Son, Mx."
+1463362891348946949,"#30DayMapChallenge
+Día 23: GHSL
+Área construida en países de América del Norte https://t.co/l39Dydlfgw",1352456228455256068,2021-11-24 04:24:35+00:00,es,1,1,2,0,Twitter for Android,3_1463362889604120581,https://pbs.twimg.com/media/FE7oy3xXwAU15-U.jpg,photo, ,Guaiacum,Guaiacumac,False,117,46,"Culiacán, Sinaloa"
+1463362818426683392,"Over 17 Million Datapoints the UK water quality data provides many opportunities of focus. I've included sea water, estuarine and storm sewer discharges 2000 - 2020 for your review and consideration. https://t.co/z7SiwjiXjT Waste does not disappear #RStats #30DayMapChallenge https://t.co/5xQkdjf5AI",827996690397462528,2021-11-24 04:24:18+00:00,en,4,0,1,0,Twitter Web App,3_1463358847091941387,https://pbs.twimg.com/media/FE7lHkPXIAsQiq1.jpg,photo, ,Jeremy Brown,VoiceloflReason,False,249,1806,Attiwonderonk Neutral Lands
+1463358760844357633,"Day 23 - #30DayMapChallenge - Data Challenge 3: GHSL
+
+For today, I decided to leave North America for once and map of Netherlands. One can really see how urbanized Noord and Zuid Holland are compared to the rest of the country. https://t.co/6iv72GIzYW",223258375,2021-11-24 04:08:11+00:00,en,1,0,5,0,Twitter Web App,3_1463358626630758402,https://pbs.twimg.com/media/FE7k6u9UcAIF1oE.png,photo, ,Jeff Deurloo,jdeurloo10,False,413,4566,"Lethbridge, Alberta"
+1463358115873640455,"#30DayMapChallenge day 24 Historical Map of the extent of mud and ash from the Tarawera Volcano eruption in 1886, Aotearoa NZ. Created with QGIS &amp; Blender, as per @pinakographos tutorial https://t.co/gRbZtUA5H4",40137926,2021-11-24 04:05:37+00:00,en,7,1,40,1,Twitter Web App,3_1463356885407395846,https://pbs.twimg.com/media/FE7jVYZUcAYy4db.jpg,photo, ,Ian Fish,budbongo,False,89,177,NZ
+1463357705721024519,"#30DayMapChallenge Day 24: Historical map.
+
+Very quick map of Middle Haast from NZ Heritage Maps. Historic map draped over relief shading. Made using QGIS and GIMP.
+
+Data from: 
+https://t.co/HJ8GKepDNW
+https://t.co/8BiG8wXYwc https://t.co/1F6vcfunaY",1310659130290388992,2021-11-24 04:03:59+00:00,en,5,1,19,0,Twitter Web App,3_1463357511776432128,https://pbs.twimg.com/media/FE7j51zVcAAvrd2.jpg,photo, ,Emory Beck,MapHustle,False,248,114,"Wellington, New Zealand"
+1463357239952130052,"#30DayMapChallenge Day 24 - Historic
+
+British shipping routes 1750-1850 https://t.co/5HrzMKrKyY",21537132,2021-11-24 04:02:08+00:00,en,2,2,10,0,TweetDeck,3_1463357157060005893,https://pbs.twimg.com/media/FE7jlMYWUAUHQ04.jpg,photo, ,HalifaxShippingNews,HfxShippingNews,False,4879,1278,"Halifax, NS"
+1463352278228815872,"Also just need to add a 2nd entry for today's #30DayMapChallenge simply because my data looks like the Ice Kingdom
+London daytime population at elevation view for 01/2011 https://t.co/Xe9Ub8CPAh",32127911,2021-11-24 03:42:25+00:00,en,1,0,3,1,Twitter Web App,3_1463352177624289283,https://pbs.twimg.com/media/FE7fDWiXEAMr864.jpg,photo, ,Z,Zaaaana_,False,408,349,TT
+1463346278012698625,"Patting myself on the back for not fearing either GHSL or Aerialod for today's #30DayMapChallenge - thanks @undertheraedar for the tutorials!
+
+Day 23: GHSL 🌍
+3D map of EU28 highlighting daytime and nighttime population in 01/2011
+https://t.co/pv13UXRiZG https://t.co/DniKjhbLnD",32127911,2021-11-24 03:18:34+00:00,en,3,1,13,0,Twitter Web App,3_1463346162132557824,https://pbs.twimg.com/media/FE7ZlNFXoAA3ZDU.jpg,photo, ,Z,Zaaaana_,False,408,349,TT
+1463344082076540933,"I've never used GHSL before, but was inspired by @DylanMoriarty &amp; co's recent feature on Africa's rising cities to explore the growth in built up presence along the Bight of Benin, 1975-2015  #30DayMapChallenge https://t.co/E5ncwoQSlv",14913762,2021-11-24 03:09:51+00:00,en,4,1,24,0,Twitter Web App,16_1463344071741775882,https://pbs.twimg.com/tweet_video_thumb/FE7XrhxXoAo5pAA.jpg,animated_gif, ,vicky johnson-dahl,hurricanevicky,False,1183,833,"Washington, DC"
+1463341609307807745,"#30DayMapChallenge #Day23 Settlement.
+A little corner of Borneo, where my love for Geography started. The country was small, so my teachers taught us more about the rest of the world. Here's a look at the main district. Peta dibuat dengan #PyGMT, kode di https://t.co/viyAYe5su3 https://t.co/eA7ur3phpb",1371277058140041219,2021-11-24 03:00:01+00:00,en,1,0,3,0,TweetDeck,3_1463336018761814021,https://pbs.twimg.com/media/FE7QWyFVEAUVxvQ.jpg,photo, ,伟吉,weiji14_,False,48,50, 
+1463334453804032005,"#30DayMapChallenge Day 23 GHSL! Using the Built data, the progression of built up Sydney from 1975 to 2015. https://t.co/LVVeKMv7TH",14851579,2021-11-24 02:31:35+00:00,en,3,1,12,0,Twitter Web App,3_1463334384983891971,https://pbs.twimg.com/media/FE7O3ryUYAMKPV4.jpg,photo, ,Kylie Wilson,_kyliejane,False,553,161,Sydney or Tokyo
+1463334367464407050,"#30DayMapChallenge 24 Historical.
+Downtown Portland buildings built year. 
+
+Data source: Open Data Portland https://t.co/2hH4ywToPX. 
+#rstats code: https://t.co/SU7fNUVVxF https://t.co/Ya6PryQ23q",1331215289825030147,2021-11-24 02:31:15+00:00,en,24,1,177,0,Twitter Web App,3_1463332788917215237,https://pbs.twimg.com/media/FE7Nax-XoAUfiPw.jpg,photo, ,leeolney,leeolney3,False,281,306, 
+1463329008246931459,#30DayMapChallenge (Historical) Mapping immigrant populations in #England with #d3 and @observablehq. Thanks to @tjukanov for linking https://t.co/T5EJkeyclP where I found my data source! https://t.co/XXgXoFn0aq,822048926081712128,2021-11-24 02:09:57+00:00,en,2,1,23,0,Twitter Web App,16_1463328685977604098,https://pbs.twimg.com/tweet_video_thumb/FE7Jr9VVkAIMwDo.jpg,animated_gif, ,Carl Churchill,Cchurchili,False,2724,1143,CO / Tabeguache Ute Land
+1463323226898145284,"#30DayMapChallenge 24: Historical 
+Just love Mapview, it's so easy.  Here's the code for the map
+
+# 1861 KML railroad data: https://t.co/WGiibQXgre
+https://t.co/4gbfIbUP1b &lt;- st_read(""1861_Railroad.kml"")
+mapview(https://t.co/4gbfIbUP1b[1])
+
+#rspatial #rstats @markdonovan2020 https://t.co/8zPqhOs46l",3094607959,2021-11-24 01:46:59+00:00,en,3,0,7,0,Twitter Web App,3_1463323117816881157,https://pbs.twimg.com/media/FE7En2UXoAUZxcE.jpg,photo, ,donojazz,donojazz62220,False,15,225,USA
+1463323215938441220,"Day 23, #30DayMapChallenge: GHSL! These are monthly daytime and nighttime populations for Europe in 2011.
+
+Had _a lot_ of failures and ended up settling for this.
+
+#rayshader adventures, an #rstats tale https://t.co/OGVDCFsRte",946151815,2021-11-24 01:46:56+00:00,en,3,0,12,0,Twitter Web App,7_1463322357364314112,https://pbs.twimg.com/ext_tw_video_thumb/1463322357364314112/pu/img/n1uA5zoe9e2nmg4i.jpg,video, ,flotsam,researchremora,False,2778,970,the ivory bowl
+1463306605320093697,"Day 23 - Global Human Settlement Layer (GHSL) #30DayMapChallenge 
+I have taken inspiration from @leeolney3, downloaded data from https://t.co/kc41K2StoB, and made a
+#map of Italy population 2015. #infographics 
+@R4DScommunity #population with raster!!! #rstats #rspatials https://t.co/nYbqepnoBV",285509027,2021-11-24 00:40:56+00:00,en,1,1,5,0,Twitter Web App,3_1463306537116520451,https://pbs.twimg.com/media/FE61iuZWUAMsRIs.jpg,photo, ,Federica Gazzelloni®,FGazzelloni,False,2257,4415,World
+1463300908473798664,"#30DayMapChallenge Sentinel-2 SWIR image of Lake District, NW England from 19-Sep-2020. Processed using 3D function in #EOBrowser. Wast Water (black due to absorption of IR by water) in bottom RH corner. Scafell Pike in centre. (Data @sentinel_hub &amp; @ESA_EO) 2/2 https://t.co/t9QJM5oiT5",3437248613,2021-11-24 00:18:18+00:00,en,2,0,9,0,Twitter Web App,3_1463300435213758465,https://pbs.twimg.com/media/FE6v_jCXMAEQ4Dq.jpg,photo, ,SHS Space Science,SHS_Space,False,365,14, 
+1463300803427377155,Day 23 of #30DayMapChallenge is Global Human Settlement Layer. It's an amazing dataset that we have worked with repeatedly. Here we visualize the population change in Bangkok derived from the 250m grid. More cities and code is here: https://t.co/5FrdP3g278 https://t.co/CzCXIbYDwe,2251009748,2021-11-24 00:17:53+00:00,en,1,1,6,0,Twitter Web App,3_1463300521544982529,https://pbs.twimg.com/media/FE6wEkpVIAE3bw8.jpg,photo, ,Jens von Bergmann,vb_jens,False,8203,1011,Vancouver
+1463300535151431691,"Día 23: Data challenge 3 - Global Human Settlement Layer (GHSL)
+Área construida del partido de General Pueyrredon (provincia de Buenos Aires, Argentina) en diferentes períodos, según datos obtenidos de GHSL:
+https://t.co/mUXF1qlHlm
+#30DayMapChallenge https://t.co/7coDgsTxA9",402826093,2021-11-24 00:16:49+00:00,es,1,0,2,0,Twitter Web App,3_1463300486543593481,https://pbs.twimg.com/media/FE6wCiQWUAkXMHb.jpg,photo, ,Gabi Calderon,GabiCalderon18,False,186,896,Mar del Plata | Argentina
+1463300483666386948,"#30DayMapChallenge 
+Day 23 - GHSL
+
+Global Human Settlement Layer - population data for Romania #blender https://t.co/iihrdey4kw",1453765598341705729,2021-11-24 00:16:36+00:00,en,2,0,9,0,Twitter Web App,3_1463299906442088460,https://pbs.twimg.com/media/FE6vgxNX0Aw5P86.jpg,photo, ,Alexandru Frantiuc,CompleteMaps,False,37,31, 
+1463299323379265537,"#30DayMapChallenge Sentinel-2 SWIR image of Lake District, NW England from 19-Sep-2020. Centred on Scafell Pike tallest mountain in England. (Data @sentinel_hub &amp; @ESA_EO) 1/2 https://t.co/W9BIfgQDI7",3437248613,2021-11-24 00:12:00+00:00,en,2,0,14,0,Twitter Web App,3_1463298538251636743,https://pbs.twimg.com/media/FE6uRITWUAcbNJR.jpg,photo, ,SHS Space Science,SHS_Space,False,365,14, 
+1463298683093483521,F U K the MAY TRIX I’m Off-GRID BABYYYYY!!! #singyourdialect #GBBO #cryptocurrecy #แอนชิลี #ChampionsLeague #RushHour1stWin #poet114 #30DayMapChallenge #tinyhouse #tinyhome #containerhouse #diy #IndiaWantsCrypto #genelgrev #1CentDream #agriculture https://t.co/EzrHbbooYt,1043551142406279169,2021-11-24 00:09:27+00:00,en,1,0,1,0,Twitter for iPhone,7_1463298675157786627,https://pbs.twimg.com/ext_tw_video_thumb/1463298675157786627/pu/img/UfAqTH43JzxSDDkq.jpg,video, ,the AWAKENED Poet114,magdyhaddad1111,False,585,3020,United States

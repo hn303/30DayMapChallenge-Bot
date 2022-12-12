@@ -1,0 +1,777 @@
+tweet_id,text,author_id,created_at,lang,retweet_count,reply_count,like_count,quote_count,source,media_key,media_url,media_type,media_view,user_name,user_username,user_verified,user_followers_count,user_following_count,user_location
+1459665209375797262,Physical map of Bulgaria! Using the #30DayMapChallenge Day 13 to learn more about the motherland. https://t.co/eggD4Wf1IB,741653561314922496,2021-11-13 23:31:19+00:00,en,1,3,42,1,Twitter Web App,3_1459664569245261829,https://pbs.twimg.com/media/FEHFMS0WYAUtvx-.jpg,photo, ,Kate Berg 🥔🗺️,pokateo_,False,4377,2293,"Grand Rapids, MI"
+1459663129193951236,"Second entry for #30DayMapChallenge, Day 13, #NaturalEarth, complete! This time, it's rivers of the world.
+
+#rayrender adventures, an #rstats tale https://t.co/EVOkERYBh6 https://t.co/zyFha5pN09",946151815,2021-11-13 23:23:03+00:00,en,7,0,41,0,Twitter Web App,7_1459663110197981184,https://pbs.twimg.com/ext_tw_video_thumb/1459663110197981184/pu/img/OsEYQ92GE9DZPAej.jpg,video, ,flotsam,researchremora,False,2778,970,the ivory bowl
+1459662924193185797,"Day 13: Natural Earth #30DayMapChallenge Norway and its neighbours, made with Natural Earth data and added a bit of flag colouring myself (and one little lake).
+@tjukanov @MapsNorway https://t.co/Gq7apQltJo",741266268,2021-11-13 23:22:15+00:00,en,1,0,2,0,Twitter Web App,3_1459662582034403330,https://pbs.twimg.com/media/FEHDYn4XEAI-Ins.jpg,photo, ,Floris Groesz,SirJanosFroglez,False,73,173, 
+1459659850594627584,"#30DayMapChallenge Natural Earth
+
+code: https://t.co/LDv1dgZHmG https://t.co/CWUS6Qh2S3",2348651125,2021-11-13 23:10:02+00:00,en,1,0,3,0,Twitter Web App,3_1459659829539184644,https://pbs.twimg.com/media/FEHA4aCXIAQPymL.jpg,photo, ,Ciro Ramirez Suastegui,Cramsuig,False,247,712,"Wembury, England"
+1459659755765571590,"Okay, here we go. 
+#30DayMapChallenge - map with a new tool https://t.co/5vxdBw7hya",1139059532,2021-11-13 23:09:39+00:00,en,1,0,3,0,Twitter Web App,3_1459659625213665290,https://pbs.twimg.com/media/FEHAsg3XIAon4-i.jpg,photo, ,Ansgar Wolsing,_ansgar,False,380,1021,"Köln, Deutschland"
+1459657520730021892,"#30DayMapChallenge
+Day 14: Map with a new tool
+Mauttabelle 14. November 2021 - Toll routes in Germany
+
+new tool: https://t.co/cxKkd19Zq6
+data source: https://t.co/vlP5yaxvYZ https://t.co/wGDA31ZmJA",91548216,2021-11-13 23:00:46+00:00,en,2,0,6,0,Twitter Web App,3_1459657467994988550,https://pbs.twimg.com/media/FEG-u8mWYAYgf20.jpg,photo, ,Cord Niehaus,Cordster76,False,89,606,"Bremen, Germany"
+1459655492318474240,"#30daymapchallenge Day 13: Natural Earth Data Challenge.
+Voronoi diagram for Antarctica’s scientific stations 🇦🇶 Polygons show areas based on closest scientific station, points show the station location and the ice shows the outline of Antarctica #QGIS
+Data: Natural Earth, 2020 https://t.co/ftIROnogMb",1117471915151626240,2021-11-13 22:52:43+00:00,en,1,1,11,0,Twitter for iPhone,3_1459655478955450371,https://pbs.twimg.com/media/FEG87K2XoAM7N8z.jpg,photo, ,Valeria Meraz,valeriamerazc,False,131,435,The Anthropocene
+1459654639054249986,Day 13: Natural Earth. Long distance hiking trails of Western Canada over a Natural Earth. #30DayMapChallenge https://t.co/TvgmIlmlFM,198918596,2021-11-13 22:49:19+00:00,en,1,0,4,1,Twitter Web App,3_1459654580019470337,https://pbs.twimg.com/media/FEG8G2DVIAE-oij.jpg,photo, ,Morgan Moe,MorganSMoe,False,400,163,Calgary AB
+1459654191140380673,"#30DayMapChallenge Natural Earth
+For today's map I'm seeing what I can do with Natural Earth layers, map rotations, and a limited color palette (diverging ColorBrewer ramp). So here's northeast US with urban areas and roads. I'm pleased with the result; I hope you are too 😀 https://t.co/CK4T0hXkyG",2911550919,2021-11-13 22:47:32+00:00,en,1,0,12,0,Twitter Web App,3_1459653449667203077,https://pbs.twimg.com/media/FEG7FDKWUAUws1R.jpg,photo, ,Philip Pierdomenico,PhilPierdo,False,409,291,"Philadelphia, PA"
+1459653143931801601,"#30DayMapChallenge day 13: Natural Earth. Here's the grey base map along with ports from NE, adding in commercial shipping routes from the World Bank. https://t.co/sSjXjJ0HEL",13215962,2021-11-13 22:43:23+00:00,en,1,3,15,0,Twitter Web App,3_1459653122754859008,https://pbs.twimg.com/media/FEG6yBUX0AA60E-.jpg,photo, ,Jerry Shannon,jerry_shannon,False,2111,1682,"Athens, GA"
+1459651013238046723,"#30DayMapChallenge | Day 10 | #Raster
+
+European population in urban and rural areas. 
+@EU_Eurostat's GEOSTAT spatial grid as it is (1 km² resolution) and an aggregated version with a grid of 5 km² cells. 
+
+Made in #rstats with #ggplot2. #rspatial #gischat #dataviz #maps https://t.co/Q09J9Dlu1f",3092381638,2021-11-13 22:34:55+00:00,en,7,4,55,1,Twitter Web App,3_1459650581828718592,https://pbs.twimg.com/media/FEG4eHoX0AAoL_V.jpg,photo, ,Cédric Scherer,CedScherer,False,13776,1937,"Berlin, Germany"
+1459647939987615748,#30DayMapChallenge #day13 is a data challenge with #NaturalEarth data - here's a map of the 54 countries in the UN Africa region https://t.co/pIYz2EGzPM,925570614,2021-11-13 22:22:42+00:00,en,1,2,13,0,Twitter Web App,3_1459647740800028677,https://pbs.twimg.com/media/FEG14v-WUAUjAyx.jpg,photo, ,Heather Chamberlain,HeatherCh100,False,601,929, 
+1459644276904804360,A bit late for #30DayMapChallenge day 12: population. This one was more difficult than I thought. The Poles circa 1900 and the border of the recreated Poland in 1923. More at https://t.co/LDsU8x9HST https://t.co/tcsr2nAeL3,840682774403133441,2021-11-13 22:08:09+00:00,en,2,0,4,0,Twitter for iPhone,3_1459644272722993152,https://pbs.twimg.com/media/FEGyu4YWYAAPyBq.jpg,photo, ,HistoCarte,HistoCarte,False,77,69, 
+1459643524719251460,"Day 13: NaturalEarth | #30DayMapChallenge
+
+The arrival of homo sapiens to the continent we now call America via Beringia was made possible by the lowering of the mean sea level that occurred at the end of the Pleistocene era. https://t.co/nxaIgEt0Re",1163470661400047616,2021-11-13 22:05:09+00:00,en,3,0,11,0,Twitter Web App,3_1459643447959293961,https://pbs.twimg.com/media/FEGx-35XEAk5YM2.jpg,photo, ,Taller Sïranda,Taller_Siranda,False,340,159,México
+1459643381697687561,"Day 13: NaturalEarth | #30DayMapChallenge
+
+La llegada del homo sapiens al continente que hoy llamamos América por Beringia fue posible gracias al descenso del nivel medio del mar que se suscitó en la etapa final de Pleistoceno. https://t.co/dmR3cz8IpD",1163470661400047616,2021-11-13 22:04:35+00:00,es,8,1,26,0,Twitter Web App,3_1459643325070327815,https://pbs.twimg.com/media/FEGx3uGWQAclWai.jpg,photo, ,Taller Sïranda,Taller_Siranda,False,340,159,México
+1459640169305419776,"Here is my map for Day 13 (Natural Earth) of the #30DayMapChallenge. Simple map showing major cities and roads of the world. Map looks best when viewed in full. 
+
+Code: https://t.co/dU8XawuNet
+
+Full Image: https://t.co/C7B6dCmZIv
+
+#rstats #dataviz #rspatial #tidyverse #ggplot2 https://t.co/Fxv3lJks4n",1386748474176286727,2021-11-13 21:51:49+00:00,en,8,1,24,0,Twitter Web App,3_1459640000371470339,https://pbs.twimg.com/media/FEGu2MoXsAMRyjf.jpg,photo, ,Blake Robert Mills,BlakeRobMills,False,319,253,"New York, USA"
+1459639073350504450,"#30DayMapChallenge
+Day 13 - Data challenge 2: Natural Earth
+
+The river course of the Rhine (Rhein). 
+Using Natural Earth data for the course and the shaded relief.
+
+Created with #rstats https://t.co/Ck6nXoRBd1",1139059532,2021-11-13 21:47:28+00:00,en,5,2,23,0,Twitter Web App,3_1459638861336821762,https://pbs.twimg.com/media/FEGtz5ZWQAIMY9W.jpg,photo, ,Ansgar Wolsing,_ansgar,False,380,1021,"Köln, Deutschland"
+1459639038189748224,"@sentinel_hub @Airbus @ESA_EO @CopernicusEU @eoscenefrom @GIS_and_Beers @AuroraIntel @Pierre_Markuse @DEarthAfrica @GEOSEC2025 @OSINTtechniques @earsc Mila city Landslide 2020/08/07 Earthquake-Induced Landslide 
+#30DayMapChallenge https://t.co/AJp7zDJOiC",1173600285270450178,2021-11-13 21:47:20+00:00,en,0,0,3,0,Twitter Web App,16_1459637950166315012,https://pbs.twimg.com/tweet_video_thumb/FEGs-3BXsAQF5ui.jpg,animated_gif, ,la désolation de Smaug,Dr_lyes_,False,91,162, 
+1459638873093545987,Decided to keep it simple for the second data challenge of #30DayMapChallenge with some ocean data from Natural Earth https://t.co/OWsCZZt5FN,579246246,2021-11-13 21:46:40+00:00,en,1,0,7,0,Twitter Web App,3_1459638773646512135,https://pbs.twimg.com/media/FEGtuyuWUAcZq1L.jpg,photo, ,cas 🌎,cas_maps,False,223,1150, 
+1459637779105779714,"#NaturalEarth
+One of Hamburg’s biggest rivers is the Elbe. 🌊
+Coming from a mountain in Czech Republic it is flowing through Hamburg up to the North Sea 🛳🦀
+
+Map: 
+@GMapsPlatform with Natural Earth Data GeoJSON
+
+#30DayMapChallenge https://t.co/coEZwPp6U2",1024961639194550273,2021-11-13 21:42:19+00:00,en,1,0,7,1,Twitter Web App,3_1459637547055919111,https://pbs.twimg.com/media/FEGsnZUXMAcCKUn.jpg,photo, ,Binicodes,binicodes,False,203,369,"Hamburg, Deutschland"
+1459635851646935042,#30DayMapChallenge 13 - A couple of #bathymetry #maps(?) from Natural Earth via #QGIS &amp; a quick rinse through #GIMP. https://t.co/vZ37vRpaNA,2224550306,2021-11-13 21:34:40+00:00,en,0,0,4,0,Twitter Web App,3_1459635103869636613,https://pbs.twimg.com/media/FEGqZLvXEAUcwUG.jpg,photo, ,MonkeyOnTheMountainⓋ,Monk_Po,False,412,610,Rainbow Unicorn Mountain-SWUK
+1459635120202297346,"#30DayMapChallenge - Day 13 - Natural Earth
+
+I really like to work with the rnaturalearth package in R to map countries. Today I experimented with the ne_download function but it was harder to find complete datasets.
+
+I used {ggfx} to add glow.
+
+Code: https://t.co/5xXqNLfKgp https://t.co/EM1unUvqAZ",733390000809730049,2021-11-13 21:31:46+00:00,en,0,0,10,0,Twitter Web App,3_1459633345164460033,https://pbs.twimg.com/media/FEGoy0DXwAEXB_7.jpg,photo, ,Richard Vogg,richard_vogg,False,347,345,Germany
+1459632938887307264,@sentinel_hub @Airbus @ESA_EO @CopernicusEU @eoscenefrom @GIS_and_Beers @AuroraIntel @Pierre_Markuse @DEarthAfrica @GEOSEC2025 @OSINTtechniques @earsc The Ministro Hales mine in Chile #30DayMapChallenge https://t.co/yjQKmZAHjC,1173600285270450178,2021-11-13 21:23:05+00:00,en,2,1,13,2,Twitter Web App,16_1459632408345681920,https://pbs.twimg.com/tweet_video_thumb/FEGn8SIXoAA3cOE.jpg,animated_gif, ,la désolation de Smaug,Dr_lyes_,False,91,162, 
+1459632809862176772,"Day 13 of #30DayMapChallenge - Natural Earth
+Map Quiz - ?EU27 Capitals?
+Python, Cartopy, Matplotlib https://t.co/Fy1TCEJDIm",1225029150433579010,2021-11-13 21:22:35+00:00,en,2,1,11,1,Twitter Web App,3_1459632710285209607,https://pbs.twimg.com/media/FEGoN28XMAcUVSN.jpg,photo, ,Ivan D.,ivanziogeo,False,93,184,"Oricola, Abruzzo"
+1459632348958498816,"Day 13, #30DayMapChallenge: #NaturalEarth! Everyone in my little family is sick but I'm the least sick and needed something I can let run and forget, i.e. #rayrender, so I can look after my preciouses. :) Another one is in the works.
+
+#rayrender adventures, an #rstats tale https://t.co/uSQsJdiMx4",946151815,2021-11-13 21:20:45+00:00,en,5,2,34,1,Twitter Web App,7_1459632333116657668,https://pbs.twimg.com/ext_tw_video_thumb/1459632333116657668/pu/img/doSk0GIb2w8KtRUJ.jpg,video, ,flotsam,researchremora,False,2778,970,the ivory bowl
+1459631680680046601,"#30DayMapChallenge day 13 - Natural Earth. I grabbed all the rivers and roads, and mapped w/ @d3js_org using an orthographic projection https://t.co/OrMTDDyK5Q",17847384,2021-11-13 21:18:05+00:00,en,1,0,7,0,Twitter Web App,3_1459631563822538755,https://pbs.twimg.com/media/FEGnLICXIAMjlyW.jpg,photo, ,Jill Hubley,Jill_hubley,False,1559,1345,NYC
+1459629613106225158,"#30DayMapChallenge días 12 #population y 13 #NaturalEarth.
+
+Lugares poblados v2 orden invertido y con rótulos.
+
+Efecto luciérnagas de @John_M_Nelson, datos de #NaturalEarth y una bonita tipografía de @sarahbellmaps. https://t.co/iTqFsxmqWI",1205192839145111557,2021-11-13 21:09:53+00:00,es,1,0,10,0,Twitter Web App,7_1459629151586029576,https://pbs.twimg.com/ext_tw_video_thumb/1459629151586029576/pu/img/zag7XO24yBtQRbMS.jpg,video, ,Pedro Suárez 🔗 x-y.es,x_y_es,False,4901,162,Las Palmas de Gran Canaria
+1459628973885997064,"#30DayMapChallenge | Day 13 | #NaturalEarth
+
+I use the 10m geographic regions from https://t.co/fBmWA7Rmru very often when I am looking for geographic regions such as mountain ranges, deserts, river deltas and so on.
+
+https://t.co/AfgnhmSvVg https://t.co/BVC4RF8Bo1",2853392963,2021-11-13 21:07:20+00:00,en,2,0,11,0,Twitter Web App,7_1459628086010462213,https://pbs.twimg.com/ext_tw_video_thumb/1459628086010462213/pu/img/TF-5Q0Gsl2lbnY7Q.jpg,video, ,GEOlayers,GEOlayers,False,568,477,Leipzig
+1459625239021772803,Day 13 #30DayMapChallenge - just rivers from natural earth https://t.co/1Or3EklbH9,86087153,2021-11-13 20:52:30+00:00,en,1,0,2,0,Twitter Web App,3_1459625183749234707,https://pbs.twimg.com/media/FEGhXwaWYBMH-Mb.jpg,photo, ,Дмитрий,DBusAI,False,34,248,"Москва, Россия"
+1459624468842782723,"Day 13: Natural Earth  
+
+I live here!
+#Kuwait
+#QGiS 3.20
+#Esri_physical_map
+
+ #30DayMapChallenge https://t.co/JNPuDewRQB",2744656034,2021-11-13 20:49:26+00:00,en,4,0,8,0,Twitter Web App,3_1459624013689405455,https://pbs.twimg.com/media/FEGgTpmWQA8WxDl.jpg,photo, ,🇰🇼 Geographic,Husain_Qamber,False,9597,1017,دولة الكويت
+1459624386261045252,"Day 13: Natural Earth                                 30 mins map, mñeh.  #30DayMapChallenge https://t.co/DVWD3pne2E",1455446885695623173,2021-11-13 20:49:06+00:00,en,0,0,2,0,Twitter for iPhone,3_1459624380334579722,https://pbs.twimg.com/media/FEGgo_dXoAo6DH7.jpg,photo, ,Oscar Zarate,micoroscas,False,9,45,"Tartu, Eesti"
+1459622457367830529,"#30DayMapChallenge Day 13: Natural Earth data. I don't use NE data often &amp; w/ my self-imposed restriction to make a map of Leuven, it fell apart. SO here is a map of roads from NE (in red) vs. OSM. Railways, pop. places, &amp; urban areas didn't work either.
+#rspatial #RStats https://t.co/MYSC5FZgYC",1222519447165886465,2021-11-13 20:41:26+00:00,en,3,1,6,0,Twitter Web App,3_1459621573439234052,https://pbs.twimg.com/media/FEGeFm9XoAQ29uK.png,photo, ,Anirudh,_anirudhgovind,False,312,1500, 
+1459622362664611841,"#30DayMapChallenge 
+Day 13: Natural Earth - Galapagos Albatrosses
+
+@MovebankTeam has some incredibly useful &amp; informative animal movement data. Spent this morning researching w/ my 11 y.o. daughter where different animal species live and their migratory ranges. https://t.co/0I9xOyvmTL",333524694,2021-11-13 20:41:04+00:00,en,2,0,15,0,Twitter Web App,3_1459622234583187456,https://pbs.twimg.com/media/FEGesF6XwAApYVV.jpg,photo, ,Christopher Pollard,CRVanPollard,False,1236,1210,"Philadelphia,PA"
+1459620278607044608,"Day 13 - Natural Earth. Downloaded populated places shapefile on my phone, opened and labeled in an app called Locus GIS. Simple but kinda fun! With the added bonus that I didn't have to go upstairs to my computer.
+
+#30DayMapChallenge https://t.co/xEnHXgy3rN",356554442,2021-11-13 20:32:47+00:00,en,1,0,1,0,Twitter for Android,3_1459620276422025221,https://pbs.twimg.com/media/FEGc6HMXoAU3FDF.jpg,photo, ,Greg with two g's,It_me_Greg,False,139,1085,"Houston, TX"
+1459619262088241162,"#30DayMapChallenge Day 13: Natural Earth
+
+Topic: Major Coral Reefs in the Pacific Ocean
+Platform: @ArcGISOnline https://t.co/SD8nvbzKPv",585486734,2021-11-13 20:28:45+00:00,en,1,0,4,0,Twitter Web App,3_1459619240743428109,https://pbs.twimg.com/media/FEGb90_WYA01yx5.jpg,photo, ,Manushi Majumdar,Manushi_M,False,145,510,"Washington, DC"
+1459617768651857924,"Day 13: Data challenge 2: Natural Earth
+Without Us. For the first time for the #30DayMapChallenge, it will be an angry map.
+Usually, I don't use this offensive dataset.  Use https://t.co/rDvZO28BAl instead of Natural Earth... https://t.co/G6TeOEO1I3",14992557,2021-11-13 20:22:49+00:00,en,17,1,76,1,Twitter Web App,3_1459613145920688129,https://pbs.twimg.com/media/FEGWbEAX0AEbUkC.jpg,photo, ,gontsa,gontsa,False,5142,1467,"Cherkasy, Ukraine"
+1459617706550956035,@sdg_adn7 @timdooley @AnoushehAnsari @StrucGeology @Big_Ol_World @AAPG @claraexplores @EvaLongoria And here is the beautiful #Sentinel2 image which shows location of that salt diapir and its neighbor ones.  @sentinel_hub for #30DayMapChallenge #zagros #Iran #ShahAlamdar #salt #diapir https://t.co/EW7OJZJKYt,1905445471,2021-11-13 20:22:34+00:00,en,1,1,10,0,Twitter Web App,3_1459614154466238468,https://pbs.twimg.com/media/FEGXVxIXoAQCba0.jpg,photo, ,Faramarz Nilfouroushan🛰️📐🌏,FNilfouroushan,False,811,734,"University of Gävle, Sweden"
+1459615187175194627,"#30DayMapChallenge #Day12 NaturalEarth - 50km population again from day10 on 3 #NaturalEarth  background (hsh,chsd, LUhsd) - please vote which background you prefer - 18days2go https://t.co/zF0oOuJu37",2574612668,2021-11-13 20:12:33+00:00,en,2,1,8,0,TweetDeck,3_1459614916759928835,https://pbs.twimg.com/media/FEGYCI5WQAMahR2.jpg,photo, ,hannes reuter,hireuter,False,290,601, 
+1459614414026547218,"#30DayMapChallenge Day 13 Natural Earth 
+
+Glaciated Area https://t.co/FvW1Tl4aqF",117610391,2021-11-13 20:09:29+00:00,en,1,0,18,0,Twitter for iPhone,3_1459614411627319301,https://pbs.twimg.com/media/FEGXkvIWUAUVURW.jpg,photo, ,laura,LauraSmithCarto,False,83,100, 
+1459607278219374592,"A belated Day 12, an update of my population map from last year's #30DayMapChallenge https://t.co/xhkx3sjKq8",579246246,2021-11-13 19:41:07+00:00,en,2,0,11,0,Twitter Web App,3_1459607229452201990,https://pbs.twimg.com/media/FEGRCrcXMAYk7Re.jpg,photo, ,cas 🌎,cas_maps,False,223,1150, 
+1459607274163515397,"#30_ימי_מיפוי
+והפעם - naturalearth, מפה עולמית של מדינות לפי מספר המדינות שהן גובלות בהן. הפעם עובדים עם R ולא עם qgis, כי אני עצלן ומנצל סקריפטים ישנים. בגלל שלא הייתי הכי ברור, אצרף בציוץ הבא את המפה והקישור לגיסט בגיטהאב
+#30DayMapChallenge https://t.co/mj5IGujTBl",2227560465,2021-11-13 19:41:07+00:00,iw,3,2,8,0,Twitter Web App,7_1459606762894643204,https://pbs.twimg.com/ext_tw_video_thumb/1459606762894643204/pu/img/sF2JvNdGpjnmyXNu.jpg,video, ,Ido Klein עדו קליין,idoklein1,False,1170,829,"Jerusalem, Israel"
+1459606318088699911,"#30daymapchallenge
+
+Day 13: Natural Earth
+
+Ocean bathymetry, rivers, lakes and land from the Natural Earth dataset. Made in QGIS using the Globe Marker plugin.
+
+#30daymapchallenge #mapping #volunteering #gismapping #bathymetry #opensource #database
+
+Great work Connie Harpur! https://t.co/FoZSJDgtVk",1255575072301088770,2021-11-13 19:37:19+00:00,en,2,0,10,1,Twitter Web App,3_1459606303693852673,https://pbs.twimg.com/media/FEGQMyuX0AEflaF.jpg,photo, ,GIS-E,GISE50189808,False,57,21,"London, UK"
+1459606277462675458,"El meu bounding box.
+
+#30DayMapChallenge Dia 13: Natural Earth. 
+
+inspirat per @geomenke https://t.co/ShRgVM6yqs",235702214,2021-11-13 19:37:09+00:00,en,1,1,6,0,Twitter Web App,3_1459606060172558341,https://pbs.twimg.com/media/FEGP-niXwAUJ8gZ.jpg,photo, ,Joan Sales Favà,JoanSales,False,520,467,"Poblenou, Barcelona (CCCP)"
+1459605484177174531,"Uno de los ecosistemas más vulnerables ante el cambio climático son los humedales. En este mapa puedes ver dónde se sitúan.
+https://t.co/sl7MYX9Buq
+Day 13 of #30DayMapChallenge https://t.co/pidDPssi7O",364201719,2021-11-13 19:34:00+00:00,es,1,1,2,0,Twitter Web App,3_1458881417681715204,https://pbs.twimg.com/media/FD78635WQAQR9yK.jpg,photo, ,Libertad,LibertadChC,False,496,702, 
+1459604583211147266,"¿Cómo se visualiza la diferencia entre la población total de hombres y mujeres en México? ♂️♀️
+
+Para este #30DayMapChallenge van dos mapas con información del @INEGI_INFORMA del censo 2020.  
+
+Descarga los datos en esta liga: 
+https://t.co/0TVsxaldpP https://t.co/5DumY6suwA",883380487049302016,2021-11-13 19:30:25+00:00,es,1,0,4,0,Twitter Web App,3_1459604328755261442,https://pbs.twimg.com/media/FEGOZ1gUcAIQ4-P.jpg,photo, ,Raúl Castellanos,rulocastellanos,False,955,1276,México
+1459603409082933260,A relief map of the Balkans/Italy/S Europe for day 13 of #30DayMapChallenge: Natural Earth data. An adventure in QGIS. 🌍 https://t.co/1iId2V7mxN,3092393211,2021-11-13 19:25:45+00:00,en,1,1,11,0,Twitter Web App,3_1459603093910429703,https://pbs.twimg.com/media/FEGNR9WXoAckOB2.jpg,photo, ,Iva Brunec,IvaBrunec,False,1217,818,"Philadelphia, PA"
+1459602466719223812,"Time lapse of the Sentinel-1 #satellite image showing the giant icebergs at the edge of the Larsen Ice Shelf (@sentinel_hub for #30DayMapChallenge). -67.3, -60.2. If the rest of the shelves here break up it would dramatically increase sea level rise. #climate #change. https://t.co/C82FS0uZ1x",910623276778405888,2021-11-13 19:22:00+00:00,en,18,5,68,1,Twitter Web App,16_1459600738443616261,https://pbs.twimg.com/tweet_video_thumb/FEGLI2jUYAUVopd.jpg,animated_gif, ,AI6YR,ai6yrham,False,29374,1611,DM04
+1459598841284550656,"#30DayMapChallenge
+Día 13: Mapa realizado con las bases de datos de Natural Earth.
+
+Ríos y lagos de América del Norte 🏞️ https://t.co/HVx1wixfL6",1352456228455256068,2021-11-13 19:07:36+00:00,es,2,1,1,0,Twitter for Android,3_1459598839007088646,https://pbs.twimg.com/media/FEGJaSmXEAYQBKh.jpg,photo, ,Guaiacum,Guaiacumac,False,117,46,"Culiacán, Sinaloa"
+1459596236592455681,"#30DayMapChallenge Day 13, Indigenous Place Names in SW British Columbia with a Natural Earth basemap and rivers layer https://t.co/T2anBrVfvt",2391754261,2021-11-13 18:57:15+00:00,en,2,0,4,0,Twitter Web App,3_1459595876679266304,https://pbs.twimg.com/media/FEGGt3EXsAA7-x8.jpg,photo, ,🌏Map of the Week,MapOfTheWeek,False,1076,370,"Arlington, MA"
+1459594111644839951,#30DayMapChallenge day...10 or 11? Population and NE. Coral Reefs - will they survive humans? https://t.co/tvTjNbWaSy,44530833,2021-11-13 18:48:48+00:00,en,1,0,3,0,Twitter Web App,3_1459593857222557700,https://pbs.twimg.com/media/FEGE4UAXwAQoDkz.jpg,photo, ,Andrew French,andrewrfrench,False,475,1873,"Wisconsin, USA"
+1459592192654295048,Ehem... #30DayMapChallenge ??? https://t.co/mj3eM7NWAQ https://t.co/ofsmlxTGBF,962911429052518400,2021-11-13 18:41:11+00:00,pl,2,3,15,2,Twitter Web App,3_1459591074595364880,https://pbs.twimg.com/media/FEGCWV6WYBAdmdF.jpg,photo, ,Guillermo de Anda-Jáuregui,gdeandajauregui,False,1735,1330,Mexico
+1459591643015921670,"Día 13: #NaturalEarth. Comparamos el antes y el después del desarrollo urbano de Bogotá durante las últimas dos décadas 🇨🇴. 
+https://t.co/cM5pmTdXno
+#30DayMapChallenge #Map #GIS #GoogleEarth #datosabiertos https://t.co/z3wmEbfRrs",3081831303,2021-11-13 18:39:00+00:00,es,0,1,2,0,TweetDeck,3_1459224286556835841,https://pbs.twimg.com/media/FEA0wd_X0AEi2bg.jpg,photo, ,Properati Data,Properati_Data,False,1223,564, 
+1459591151321767939,"#30DayMapChallenge Day 13: Natural Earth data
+
+✈️Airport locations and Voronoi diagram: each cell defines a region closest to a given airport.
+
+ @Natural_Earth https://t.co/D4rJysW0H4",41654209,2021-11-13 18:37:03+00:00,en,3,0,14,1,Twitter Web App,3_1459590818063388672,https://pbs.twimg.com/media/FEGCHaQXEAAMOpx.jpg,photo, ,Charles,CharlesTroupin,False,1247,2645,🇧🇪  🇪🇺  🇮🇨
+1459589529413689347,"#30DayMapChallenge Day 13: Natural Earth
+
+Simple natural earth bathymetry data with an azimutal #projection https://t.co/sicm3d4mwl",730663860152217600,2021-11-13 18:30:36+00:00,en,2,0,4,0,Twitter Web App,3_1459589238362677252,https://pbs.twimg.com/media/FEGArdaXIAQTCeS.jpg,photo, ,Sylvain POULAIN,GISCAN_LTD,False,209,458,Ile Maurice
+1459589466981638159,"Oceans, #NaturalEarth open data, Round Earth and #SAPHANA for today's #30DayMapChallenge 
+
+More: https://t.co/10mGjqt5fv https://t.co/Xpy4ZRzIXd",138823701,2021-11-13 18:30:21+00:00,en,1,0,4,0,Twitter Web App,3_1459585955602608140,https://pbs.twimg.com/media/FEF9sYLXsAwIuPP.jpg,photo, ,Віталій /vɪˌtælij/,Sygyzmundovych,False,3459,999,Wrocław 💻 World
+1459589272948903943,"#30DayMapChallenge · Natural Earth
+
+Map showing all cities with more than 100,000 inhabitants. 
+
+#Rstats code: https://t.co/5kcLIO1RL3 https://t.co/KyUs3ZUiuZ",1117096616492662786,2021-11-13 18:29:35+00:00,en,3,1,5,0,Twitter Web App,3_1459589058527645696,https://pbs.twimg.com/media/FEGAg_eWUAAHRw-.jpg,photo, ,Thom-Ivar van Dijk,ThomIvar,False,2453,202, 
+1459589194855165954,"Rarely have an excuse to use bathymetry but Natural Earth has such nice, well organized data! #30DayMapChallenge https://t.co/QqZk04HRJg",14913762,2021-11-13 18:29:16+00:00,en,3,2,38,0,Twitter Web App,16_1459589117881335817,https://pbs.twimg.com/tweet_video_thumb/FEGAkclXwAk5LV1.jpg,animated_gif, ,vicky johnson-dahl,hurricanevicky,False,1183,833,"Washington, DC"
+1459589172914798596,"#30DayMapChallenge
+Day 13: Data challenge 2 - Natural Earth
+And today regions of Japan in Pokemon palette! https://t.co/EhkILmzMfD",1103150306152587264,2021-11-13 18:29:11+00:00,en,1,0,4,0,Twitter Web App,3_1459589050105581569,https://pbs.twimg.com/media/FEGAggGX0AEip60.jpg,photo, ,Александр Зуев,Zuev34W,False,28,136,"Volgograd, Russia"
+1459588113878159361,"#30DayMapChallenge Day 13: Natural Earth
+It may not look much but this is my first animation done in #b3d, a spinning-globe thing with Natural Earth hypsometric tint and populated places layer https://t.co/o31QnkUlg0",309734801,2021-11-13 18:24:58+00:00,en,1,1,7,0,Twitter Web App,7_1459586893750972416,https://pbs.twimg.com/ext_tw_video_thumb/1459586893750972416/pu/img/Ol6WJIMl2vuE4AeG.jpg,video, ,Sam J,samwise_v,False,234,516,"London, UK"
+1459587581293707264,"Día 13: Data challenge 2 - Natural Earth 
+Batimetría de la costa atlántica argentina con datos obtenidos de https://t.co/jxVwNrtB6g
+#30DayMapChallenge https://t.co/zmvNhvJdEE",402826093,2021-11-13 18:22:51+00:00,es,1,0,2,0,Twitter Web App,3_1459587528332353545,https://pbs.twimg.com/media/FEF_H7DXIAkfocV.jpg,photo, ,Gabi Calderon,GabiCalderon18,False,186,896,Mar del Plata | Argentina
+1459587451220021251,"#30DayMapChallenge 
+Jour 13 - Natural Earth
+
+Ne pouvant pas utiliser les données de https://t.co/JbLaXT5OSB à l'échelle de la ville, j'ai essayé de reprendre les couleurs trouvé dans le quick-start-kit pour afficher le même type de carte. https://t.co/AHY4omFAim",3068008768,2021-11-13 18:22:20+00:00,fr,0,1,0,0,TweetDeck,3_1459586635868389382,https://pbs.twimg.com/media/FEF-T-XXwAYE_Ma.jpg,photo, ,CômeMS,Come_M_S,False,7,122,"Orsay, France"
+1459586064784449536,"@Bruitparif @openstreetmap #30DayMapChallenge 
+Day 13 - Natural Earth
+
+Since I cannot use any Natural Earth data at this scale, I tried to show the same kind of map using the color from the quick start kit found on the website. https://t.co/4Sjpwk8WXK",3068008768,2021-11-13 18:16:50+00:00,en,0,2,1,0,TweetDeck,3_1459584252547321866,https://pbs.twimg.com/media/FEF8JPzWUAo735o.jpg,photo, ,CômeMS,Come_M_S,False,7,122,"Orsay, France"
+1459584991302664198,"#30DayMapChallenge - Day 13: ""Natural Earth""
+Maximum and minimum Arctic Sea Ice Extents on Natural Earth raster. Sea Ice data: 
+@NSIDC https://t.co/zzkyaABzmH",336517784,2021-11-13 18:12:34+00:00,en,1,0,5,0,Twitter Web App,3_1459584921190776833,https://pbs.twimg.com/media/FEF8wKsXwAEa0px.jpg,photo, ,Luca Dall'Acqua,luca_northsouth,False,175,523,"Lucerna, Svizzera"
+1459583295105163276,"Day 13 of #30DayMapChallenge, Natural Earth (Gray Earth raster data). Thanks to @CedScherer for the tips and help with this one!
+
+#RStats code: https://t.co/MesE8Oc5NF https://t.co/SboHP8PiLp",1002212251,2021-11-13 18:05:49+00:00,en,7,1,52,0,Twitter Web App,3_1459582720963719181,https://pbs.twimg.com/media/FEF6wGNXMA0SnmL.jpg,photo, ,Georgios Karamanis,geokaramanis,False,4049,240,"Uppsala, Sweden"
+1459582751196299269,"#30DayMapChallenge Day 13, Natural Earth data.
+When I saw that there was a dataset with reefs, I remembered my visit to the Great Barrier Reef maybe 25 years ago. Better map it now, who knows if it is still there in another 25 years? :-( https://t.co/70i9tpWKFi",1143779197107806208,2021-11-13 18:03:40+00:00,en,2,0,2,0,Twitter Web App,3_1459582363273465862,https://pbs.twimg.com/media/FEF6bRtXEAYFcmb.jpg,photo, ,Jonas Nelson,JonasNelson19,False,45,7,Sweden
+1459582086998859779,"#30DayMapChallenge Day 13: Natural Earth Data Challenge
+
+An ocean floor depth (bathymetry) map  of the North Atlantic with a twist - replicating a stacked paper cut map. Using a guide from John Nelson's paper cut map of the Great Lakes, and vector data sets from Natural Earth. https://t.co/8Ao9ILnHft",22614266,2021-11-13 18:01:01+00:00,en,3,2,31,0,Hootsuite Inc.,3_1459582084880773121,https://pbs.twimg.com/media/FEF6LEnXsAETI9-.jpg,photo, ,Ordnance Survey,OrdnanceSurvey,True,63086,3721,"Southampton, UK"
+1459581828155596805,"#30DayMapChallenge 
+Día 13. Mapa realizado con las bases de datos de Natural Earth, que representa las áreas urbanas del mundo. https://t.co/x9AiF74ytD",2239825712,2021-11-13 18:00:00+00:00,es,5,0,8,0,Twitter Web App,3_1459276608896831489,https://pbs.twimg.com/media/FEBkWB5VEAEAZuF.png,photo, ,IIEG Jalisco,IIEGJ,False,5475,0,"Jalisco, México"
+1459581636102791168,"#30DayMapChallenge 13. diena, Natural Earth dati. Ūdens. Baltjas jūra, upes un ezeri. https://t.co/6InsEBPsbP",461965493,2021-11-13 17:59:14+00:00,lv,1,2,7,0,Twitter Web App,3_1459581407639003138,https://pbs.twimg.com/media/FEF5jpsWYAIMlaS.jpg,photo, ,Kristīne,kriksine,False,488,402, 
+1459580671870087173,"#30DayMapChallenge | Day 13 | #NaturalEarth 
+
+I wrote a blog post today how to deploy a tileserver on #heroku to serve the beautiful NE basemaps (or your own data) - either to your local GIS, your #Rstats shiny or fully fledged #svelte app!
+
+https://t.co/RaVX6CwajD https://t.co/WEmnufvm9J",1307060010669793280,2021-11-13 17:55:24+00:00,en,5,1,19,0,Twitter Web App,7_1459579513726242828,https://pbs.twimg.com/ext_tw_video_thumb/1459579513726242828/pu/img/pCv8r4onQTPqTm5l.jpg,video, ,Marco Sciaini,shinysci,False,293,773,Freiburg im Breisgau
+1459578650781696003,"Time to catch up with the #30DayMapChallenge... two days late but #day11 had the theme of #3D. I don't tend to make maps in 3D, but it was fun to try a 3D map of #population for Zambia. Of course using @WorldPopProject @grid3global data! https://t.co/16vERryAZ4",925570614,2021-11-13 17:47:22+00:00,en,4,0,25,0,Twitter Web App,3_1459578635954835465,https://pbs.twimg.com/media/FEF3CUXWUAkpADu.png,photo, ,Heather Chamberlain,HeatherCh100,False,601,929, 
+1459578271461482498,"#30DayMapChallenge day 13 natural earth (2). Une carte-souche de l'évolution et des extinctions sur la planète, avec prospective (ambitieuse) pour le milliard d'année à venir https://t.co/MkmK1yS2i0",1189967197730430977,2021-11-13 17:45:52+00:00,fr,1,0,8,0,Twitter for Android,3_1459578268215033861,https://pbs.twimg.com/media/FEF2s6bWQAURZTQ.jpg,photo, ,Julien Dupont Kobri,Kartokobri,False,880,387, 
+1459578053542092807,"The railroads of the world! Day 13 of the #30DayMapChallenge - NaturalEarth data.
+This map was made with #Python using #matplotlib and #pandas. #DataScience #Data #DataVisualization #infrastructure https://t.co/OEhrtblgr5",1349110409215795204,2021-11-13 17:45:00+00:00,en,24,0,56,1,Twitter Web App,3_1458128624767410193,https://pbs.twimg.com/media/FDxQQjwXIBEqe3B.jpg,photo, ,Python Maps,PythonMaps,False,5913,2678,Planet Earth
+1459577565283299340,"#30DayMapChallenge días 12 #Population y 13 #NaturalEarth.
+
+Lugares poblados.
+
+Abusando del efecto luciérnagas de @John_M_Nelson.
+
+Datos de Natural Earth. https://t.co/I0hZngeXgy",1205192839145111557,2021-11-13 17:43:03+00:00,es,10,4,56,1,Twitter Web App,7_1459577085266178057,https://pbs.twimg.com/ext_tw_video_thumb/1459577085266178057/pu/img/ynmKUWlk_clRrpPD.jpg,video, ,Pedro Suárez 🔗 x-y.es,x_y_es,False,4901,162,Las Palmas de Gran Canaria
+1459574948377333768,"If there is a line between science and art, it is called cartography. And I love crossing that line. 
+Minor islands from Natural Earth data. In @ArcGISPro 
+#30daymapchallenge https://t.co/vkOU7hlibo",3494716935,2021-11-13 17:32:39+00:00,en,8,1,70,1,Twitter for Android,3_1459574942715064322,https://pbs.twimg.com/media/FEFzrV-XsAIpkUo.jpg,photo, ,Eliška Vlčková,vlckel,False,271,166,Česká republika
+1459574665081466881,"Day 13: Natural Earth shaded relief, with my personal minimum bounding geometry (with some interior points I originally thought might be contenders) #30DayMapChallenge https://t.co/4Pwrr873ae",275677658,2021-11-13 17:31:32+00:00,en,2,1,14,0,Twitter Web App,3_1459574360172384259,https://pbs.twimg.com/media/FEFzJb1X0AMjQ67.jpg,photo, ,Keith Jenkins,kgjenkins,False,1324,201,Ithaca
+1459572463675793415,"#30DayMapChallenge Day 13 - Natural Earth Data
+Got the bathymetry for the whole world, but gave a special attention to South America to made this one here :)
+Yes I see some lines in the middle of nowhere but I'll let it pass since it's very artistic (?)
+#QGIS #NaturalEarth https://t.co/MonFMr0xNP",180939408,2021-11-13 17:22:47+00:00,en,1,1,9,0,Twitter Web App,3_1459572123584933888,https://pbs.twimg.com/media/FEFxHP5XsAACWbk.jpg,photo, ,torts,tgsousa_,False,1010,1150, 
+1459570278208475136,"Day 02: Lines | #30DayMapChallenge
+
+Mapa de flujos de matrimonios registrados en Q.Roo por entidad federativa; México, 2015.
+Elaborado en QGIS 'Hanover' 3.16
+Tamaño A4 297*210 mm
+Proyección: Albers Equal Area Conic
+Escala: 1:11,000,000.
+Fuente de datos: Tabulados INEGI. https://t.co/oY7xqBkk4k",1051527936,2021-11-13 17:14:06+00:00,es,2,2,5,0,Twitter Web App,3_1459570257140486144,https://pbs.twimg.com/media/FEFvam2VkAAM7QG.jpg,photo, ,Eduardo AC Jurado,lalocruzjurado,False,111,465,"Xochimilco, Distrito Federal"
+1459569006411763713,"Day 15: Inequality in Colombia: Colombian Departments by Gini Index
+#30DayMapChallenge https://t.co/KipqCYCq5Q",1458114928670388231,2021-11-13 17:09:03+00:00,it,7,0,28,1,Twitter Web App,3_1459568908541771782,https://pbs.twimg.com/media/FEFuMG7WQAY_yax.png,photo, ,Maps of Colombia - Mapas de Colombia,ColombianMaps,False,5612,20,Colombia
+1459568993795141633,"#30DayMapChallenge Dia 13: Natural Earth, cartografia gratis/oberta de la terra.
+Gaigs (Garrulus glandarius) a Ornitho .eus i .cat amb una base raster i com vaig passar de línies-&gt;raster-&gt;fins a punts per trobar les coordenades del mapa 1. https://t.co/APBk79duXW",3501358169,2021-11-13 17:09:00+00:00,ca,1,0,3,0,Twitter Web App,3_1458483062543732736,https://pbs.twimg.com/media/FD2SnjXX0AADcmp.jpg,photo, ,Víctor Coris,Victor_Celoni,False,32,127, 
+1459567847626227721,"Day 13 - Natural Earth
+I never use Natural Earth data. But challenge is challenge.
+So here few reasons why I don't really like this data source.
+#30DayMapChallenge https://t.co/2gsk1LQHKG",14196303,2021-11-13 17:04:26+00:00,en,12,9,89,3,Twitter Web App,3_1459567644923863042,https://pbs.twimg.com/media/FEFtCjlXIAINLA0.png,photo, ,yaroslav_sm,jaroslav_sm,False,158,96,Чернівці
+1459567670400110595,"#30DayMapChallenge Day 13 Data Challenge: Natural Earth
+
+Blue Planet🌍
+
+Natural Earth Data: Bathemetry, Lakes, Rivers and Glaciated areas
+
+#QGIS https://t.co/rPDDOjSYf1",223959960,2021-11-13 17:03:44+00:00,en,1,1,9,0,Twitter Web App,3_1459567651802472450,https://pbs.twimg.com/media/FEFtC9NWYAId1mU.jpg,photo, ,Kirsten Reilly,_penguin_runner,False,417,1221,"Stirling, Scotland"
+1459566980814409732,"#30DayMapChallenge 
+Day 1⃣2⃣-Population
+Huge fan of @leeolney3  submission especially the South African🇿🇦 Population for Tiddy Tuesday  submission so I replicated It for Tanzania Population 🇹🇿https://t.co/cBTIDFZGqn https://t.co/MTiByzxWTR",1354114698837422082,2021-11-13 17:01:00+00:00,en,1,0,4,0,Twitter Web App,3_1459560164890140682,https://pbs.twimg.com/media/FEFmPKSWYAo_u-1.png,photo, ,Swaz_725 ,725Hemed,False,310,1470, 
+1459565051082334214,"In lieu of real participation in today's #30DayMapChallenge, a drive-by tweet with a screenshot of all 1:10m scale Natural Earth vector layers. Such an incredible, life-changing (for cartographers, anyway) data set; thanks @kelsosCorner, @MtnMapper, and all contributors! https://t.co/yD5urQCbnb",17448055,2021-11-13 16:53:20+00:00,en,1,1,19,0,Twitter Web App,3_1459564889375137794,https://pbs.twimg.com/media/FEFqiKXWYAIk9y5.jpg,photo, ,Andy Woodruff,awoodruff,False,6702,580,"Belmont, Massachusetts"
+1459563589489016842,"Urban Areas on Earth - Behind the scenes and Zoom.
+
+#30DayMapChallenge - Day 13 -  Natural Earth.
+#NaturalEarth  data and #NASA imagery. Experimental map of our #HABITAT. #urban  #b3d #world #SDGs #dataviz #planet 2/n https://t.co/DCwJCDU0w2",1186202364,2021-11-13 16:47:31+00:00,en,0,0,8,0,Twitter Web App,3_1459562601260716033,https://pbs.twimg.com/media/FEFoc-eXEAETF0Q.jpg,photo, ,Julian Hoffmann,Julian_H0ffmann,False,737,1953,"London, England"
+1459562953817083906,"#30DayMapChallenge 
+Day 1⃣1⃣-3D📦
+Arusha Area in Tanzania🇹🇿 showing Mt-Kilimanjaro🏔️ And Mt-Meru⛰️ using #QGIS and #blender and Esri National Geographic Base Map
+#gischat https://t.co/U2f9dG4NDX",1354114698837422082,2021-11-13 16:45:00+00:00,en,2,1,9,0,Twitter Web App,3_1459556032418615306,https://pbs.twimg.com/media/FEFienoXEAokKkr.jpg,photo, ,Swaz_725 ,725Hemed,False,310,1470, 
+1459562892404088838,"#30DayMapChallenge 
+day 2: lines
+it's only a draft and I'm very late, but I like the curves of Omo river across the floodplain
+thanks
+fabio https://t.co/1rgOgFQGpR",566341543,2021-11-13 16:44:45+00:00,en,1,0,5,0,Twitter Web App,3_1459562846463868933,https://pbs.twimg.com/media/FEForP7WQAUIlTw.jpg,photo, ,Fabio Artoni,fiftylemons,False,23,110, 
+1459560219005046794,"Urban Areas on Earth - 
+#30DayMapChallenge - Day 13 -  Natural Earth.
+#NaturalEarth  data and #NASA imagery. Experimental map of our #HABITAT. #SDGs11  #b3d #world #SDGs #dataviz #planet 1/n https://t.co/trz91noWvP",1186202364,2021-11-13 16:34:08+00:00,en,6,2,40,1,Twitter Web App,3_1459559538693218304,https://pbs.twimg.com/media/FEFlqthXoAAsSjZ.jpg,photo, ,Julian Hoffmann,Julian_H0ffmann,False,737,1953,"London, England"
+1459559180424130568,"#30DayMapChallenge 
+Day 1⃣0⃣-Raster 
+A Raster Map Of Tanzania🇹🇿 Mean Monthly Temperature Between 1970-2000 through #RStats https://t.co/NxVvRxIseU",1354114698837422082,2021-11-13 16:30:00+00:00,en,5,1,5,0,Twitter Web App,3_1459554520388849666,https://pbs.twimg.com/media/FEFhGm4X0AIpF3q.png,photo, ,Swaz_725 ,725Hemed,False,310,1470, 
+1459558207819501570,"#30DayMapChallenge 
+Day  13 - Natural Earth
+
+Reversed relief #blender #ArcGISPro 
+
+Thank you @pinakographos  for the tutorials https://t.co/sbEphtIAmW",1453765598341705729,2021-11-13 16:26:08+00:00,en,2,1,14,0,Twitter Web App,3_1459556380529070094,https://pbs.twimg.com/media/FEFiy4cXEA4Jc3i.jpg,photo, ,Alexandru Frantiuc,CompleteMaps,False,37,31, 
+1459556447864373250,"Some day 13 process notes:
+
+- This beer label has changed a bit over time, but it's a carto-classic.
+- I love manipulating geometries with @postgis - the possibilities are endless.
+- The new @Mapbox projections are opening up some cool paths. 
+
+#30DayMapChallenge https://t.co/8Lxhlwbpq1 https://t.co/DiFdqlAaOo",278873782,2021-11-13 16:19:09+00:00,en,1,0,4,0,Twitter Web App,3_1459555438614265861,https://pbs.twimg.com/media/FEFh8DiXwAUQV25.jpg,photo, ,Map/,vtcraghead,False,3752,916,"Burlington, VT"
+1459555907491155978,Día 13 - Natural Earth- Este es un mapa de Costa Rica utilizando una capa de Natural Earth 2. #30daymapchallenge #30daymapchallengebot https://t.co/HLQ6xTpFJz,3784370418,2021-11-13 16:17:00+00:00,es,1,0,6,0,Twitter Web App,3_1459374646856499203,https://pbs.twimg.com/media/FEC9glwXwAMhUkO.png,photo, ,Michelle Jones,michjonescr,False,298,495,"San José, Costa Rica"
+1459555420964597768,"#30DayMapChallenge day 13 -- Natural Earth.
+
+Haven't been out of the country recently...
+
+Thanks to @FlorianZenoni and @EcoDynIZW's d6berlin package for the relevant code pieces 🙏
+
+#rstats code: 
+https://t.co/P2OIZ9rXQX https://t.co/CplILZHOA4",2167201254,2021-11-13 16:15:04+00:00,en,5,2,12,1,Twitter Web App,3_1459554891534319617,https://pbs.twimg.com/media/FEFhcNgWQAE6cmi.jpg,photo, ,Amit Levinson,Amit_Levinson,False,691,1810,"Tel-Aviv, Israel"
+1459554815286120449,"#30DayMapChallenge Day 13: Natural Earth
+
+EU countries re-organized: if their area-rank matched 1.) their GDP and 2.) their population ranks.
+
+Made with Natural Earth. Free vector and raster map data @ https://t.co/kpr0aJ0Dvt.
+
+#AUGISDay https://t.co/YT9vzwFYSG",2741743694,2021-11-13 16:12:39+00:00,en,2,0,6,0,Twitter Web App,3_1459554797850349569,https://pbs.twimg.com/media/FEFhWwgWUAErxgC.jpg,photo, ,Jörg Schullehner,JorgSchullehner,False,99,175,Denmark
+1459554397525098497,"#30DayMapChallenge 
+ Day 1⃣0⃣-Monochrome⚫️⚪️
+A what if EAC🇧🇮🇰🇪🇷🇼🇸🇸🇹🇿🇺🇬 was drawn in a through #RStats 
+Package called #Rgeoboundaries ...and My earliest R-Map too https://t.co/hR8usmLtds",1354114698837422082,2021-11-13 16:11:00+00:00,en,3,1,1,0,Twitter Web App,3_1459552600811048966,https://pbs.twimg.com/media/FEFfW35XEAYXho7.jpg,photo, ,Swaz_725 ,725Hemed,False,310,1470, 
+1459552331440312323,"Day 13: Natural Earth 🌍 
+
+A mosaic of nasa's blue marble.
+Using blender
+
+ #30DayMapChallenge https://t.co/QkEfXlBeQo",1454894840,2021-11-13 16:02:47+00:00,en,6,0,17,0,Twitter for iPhone,3_1459552314545557511,https://pbs.twimg.com/media/FEFfGNeWUAcHKZC.jpg,photo, ,Noura | نـوره,nourabw95,False,214,145,مكة المكرمة
+1459551629498220546,"Back to #30DayMapChallenge ∩ #plottertwitter with Natural Earth Data, day #13.
+
+Today’s plot features NE 1:110m populated places in Western Europe rendered in fine Windows Terminal font. Pushing the precision shapes possible with a technical pen. https://t.co/hc9lrYSxKd",93046641,2021-11-13 16:00:00+00:00,en,4,1,13,0,TweetDeck,3_1459365724686721026,https://pbs.twimg.com/media/FEC1ZQFVIAI07Uj.jpg,photo, ,Michal Migurski,michalmigurski,False,4680,12,Oakland CA
+1459551208524427265,"#30DayMapChallenge
+Day 13: Data challenge 2 - Natural Earth 
+Planet Earth https://t.co/NdQ9zChGBx",91548216,2021-11-13 15:58:19+00:00,en,1,0,6,0,Twitter Web App,3_1459551165839024131,https://pbs.twimg.com/media/FEFeDWNXoAMOTYE.jpg,photo, ,Cord Niehaus,Cordster76,False,89,606,"Bremen, Germany"
+1459547602710577153,"All the Hutterite colonies in North America.
+
+I use Natural Earth data for most of my base maps, so Day 13 of the #30DayMapChallenge didn't take any special effort. https://t.co/0hoJsrVR9q",851149914725916672,2021-11-13 15:44:00+00:00,en,43,6,210,4,Twitter Web App,3_1458701293879545916,https://pbs.twimg.com/media/FD5ZGScX0Dwc1Zj.jpg,photo, ,Alex McPhee,ksituan,False,4018,189,Val Marie / Treaty 4
+1459546221819932677,"#30DayMapChallenge Day 12 - Population
+Four ways to bisect the population of Israel: in each of these maps, the amount of people living in the blue area is about the same as in the yellow area https://t.co/0Vhud1h3TI",1106613698829975559,2021-11-13 15:38:30+00:00,en,11,1,53,0,Twitter Web App,3_1459545868613337091,https://pbs.twimg.com/media/FEFZPAgWQAM--E4.jpg,photo, ,Ron Asherov,ronasherov,False,1266,878, 
+1459545824975892481,"#30DayMapChallenge Day 13: Natural Earth
+
+Elevation raster, El Salvador 🇸🇻
+Data:  Natural Earth.
+Tool: opensource #QGIS  Author: Víctor René Véliz https://t.co/0sb7JVxTr3",1410690928210235396,2021-11-13 15:36:56+00:00,ro,3,0,2,0,Twitter Web App,3_1459545211495927820,https://pbs.twimg.com/media/FEFYowjWUAw1Vwe.jpg,photo, ,SIG UCA,sig_uca,False,71,105,El Salvador
+1459544141944299529,"#30DayMapChallenge Day 13: Natural Earth
+Continuing to play with textures to try and get a gold leaf style going on. Finding shiny is tough but at least something is evolving 🤣 https://t.co/51W92jyrnW",134939026,2021-11-13 15:30:15+00:00,en,1,0,11,0,Twitter Web App,3_1459543252307218443,https://pbs.twimg.com/media/FEFW2uAXEAsE9N4.png,photo, ,JonoPatterson,JonoPatterson,False,253,636,Lancashire
+1459543497934086145,"#30DayMapChallenge | Day 13 | #NaturalEarth 
+
+Rivers, lakes and oceans across the globe. Liking @mapbox studio more and more. Simple workflow and lots of customization options. Explore yourself over at: https://t.co/1EWk9USvyn 
+#svelte #maps #gischat #spatialjs https://t.co/d7XdOPBKt0",975473648,2021-11-13 15:27:41+00:00,en,3,1,7,0,Twitter Web App,3_1459542270689034247,https://pbs.twimg.com/media/FEFV9lMWQActEnv.jpg,photo, ,Stefan Reifenberg,Reyfenberg,False,158,488,Freiburg im Breisgau
+1459543318606528517,"Density map of small islands (2km square or less in size) in South East Asia and Australia. Was going to have a day off #30DayMapChallenge today, but picked up a half made map from earlier in the challenge. #NaturalEarth https://t.co/llYZAle0Ql",1114069920092966912,2021-11-13 15:26:58+00:00,en,1,0,14,0,Twitter Web App,3_1459542666702643205,https://pbs.twimg.com/media/FEFWUodWYAUj8Mi.jpg,photo, ,Kate,KateEllen100,False,157,311, 
+1459542868486508548,"#30DayMapChallenge - #3D - Day 11
+
+In the next days we will work at #classroom with glaciomarine environments. These are #glacial troughs in the #seafloor off the northern #Antarctic Peninsula.
+
+#marinegeology #bathymetry #geomorphology #polarscience https://t.co/5CvkbGsw8L",1118437362080546816,2021-11-13 15:25:11+00:00,en,1,0,9,0,Twitter for Mac,3_1459542860810932227,https://pbs.twimg.com/media/FEFWf7kX0AMKmOj.jpg,photo, ,José Luis Casamor,batidivulga,False,1218,599,Planeta Océano ~ Planet Ocean
+1459541066831605763,"#30DayMapChallenge
+DEM OF THE AIRSPACE ON WHICH I PROVIDE AIR TRAFFIC CONTROL SERVICES.
+Tools: Python , PyQGIS, QGIS https://t.co/ZRqRxB8JdS",1409616360175460355,2021-11-13 15:18:01+00:00,en,0,0,1,0,Twitter Web App,3_1459541026486603780,https://pbs.twimg.com/media/FEFU1KLX0AQuqYF.png,photo, ,YOUNKAP NINA Duplex,YounkapD,False,2,88,"Cameroon, Far North Region"
+1459539702156042246,"13. Natural Earth
+#30DayMapChallenge https://t.co/mfDLA5S7qn",807289,2021-11-13 15:12:36+00:00,en,1,1,11,1,Twitter for Android,3_1459539699249385475,https://pbs.twimg.com/media/FEFTn51XEAMrnbC.jpg,photo, ,Martin Kleppe,aemkei,False,8660,404,"Hamburg, Germany"
+1459539061132206081,"For the #30DayMapChallenge we have been creating maps but also teaching YOU to create them. In our latest blog, Chelsey, a beginner in #MAPublisher has some tips on how to start from zero a Population map. 
+
+https://t.co/EmmwOpbF1g https://t.co/mB2GpTNdF1",22914910,2021-11-13 15:10:03+00:00,en,1,0,3,0,Hootsuite Inc.,3_1459539057554472964,https://pbs.twimg.com/media/FEFTCjVXwAQLWKz.jpg,photo, ,Avenza Systems Inc.,Avenza,False,1367,188,"Toronto, ON"
+1459537374921334796,"Delayed #30DayMapChallenge Day 6: Red.
+
+3d render of a Mars Crater. Data from https://t.co/AmaByyX0VX
+
+#rstats #rayshader https://t.co/jhx9P6MbWH",19301110,2021-11-13 15:03:21+00:00,en,6,1,24,0,Twitter Web App,3_1459537054795276302,https://pbs.twimg.com/media/FEFRN-eXoA4jf7e.png,photo, ,Michael Schramm 💧📊,MPSchramm,False,792,589,"College Station, TX"
+1459537285448404993,"#30DayMapChallenge Day 13: Natural Earth
+
+Hypsometric maps are often falsely perceived as representing vegetation or climate regions. Cross-blended hypsometric tints by Natural Earth solve this problem by using modified elevation colors for different regions. https://t.co/ifJgtlFYQb",1024584556110852096,2021-11-13 15:03:00+00:00,en,3,1,14,0,Twitter for iPhone,16_1459537141738971142,https://pbs.twimg.com/tweet_video_thumb/FEFRTCXXIAY-Uw1.jpg,animated_gif, ,Kontur,KonturInc,False,1016,1208,"Hawaii, USA"
+1459537178891997186,"#30DayMapChallenge Day 13: Natural Earth Data
+""Thank you @MtnMapper. Thank you @kelsosCorner"" [still] https://t.co/AAHqt8DUxL",20668314,2021-11-13 15:02:34+00:00,en,4,2,42,1,Twitter for Android,3_1459537176178216976,https://pbs.twimg.com/media/FEFRVCqUUBA0e5Q.jpg,photo, ,Kenneth Field,kennethfield,False,15921,99,"Front room, Redlands CA"
+1459537065591201799,"#30DayMapChallenge Day 13: Natural Earth Data
+""Thank you @MtnMapper. Thank you @kelsosCorner"" https://t.co/ow2hlY1mVS",20668314,2021-11-13 15:02:07+00:00,en,3,0,21,1,Twitter for Android,7_1459537021534621696,https://pbs.twimg.com/ext_tw_video_thumb/1459537021534621696/pu/img/lzU4hYBK__XHN13G.jpg,video, ,Kenneth Field,kennethfield,False,15921,99,"Front room, Redlands CA"
+1459536534785433603,Day 13 of #30DayMapChallenge: Natural Earth.  Natural Earth data are built into the idbr #rstats package thanks to the rnaturalearth package; this makes visualization of global demographic concepts straightforward. Learn how in Ch.12 of my book: https://t.co/HjkCVhA0vT #rspatial https://t.co/hPDNQEnAqm,144529492,2021-11-13 15:00:01+00:00,en,4,0,13,0,Twitter Web App,3_1456640078181240838,https://pbs.twimg.com/media/FDcGbvmXEAYYwH9.jpg,photo, ,Kyle Walker,kyle_e_walker,False,4947,385,"Fort Worth, TX"
+1459534222612480006,"#30DayMapChallenge Day 13 - Natural Earth.
+The Pacific plate in full view.
+Sources: https://t.co/vP3fNR4nuH for bathymetric data, https://t.co/61CHxp9S8y for world tectonic plate datasets.
+Tools: R + packages rgdal/sf/#ggplot2/RColorBrewer and Gimp. #Rstats https://t.co/pz0RYgZ6VE",2593554955,2021-11-13 14:50:50+00:00,en,5,0,5,0,TweetDeck,3_1459534175342678017,https://pbs.twimg.com/media/FEFOmXrX0AEE4mS.jpg,photo, ,Kapazitätsdiode,varaktor,False,62,197, 
+1459533987240718338,"Day 13: Natural Earth data
+
+Had to back out a bit from Montréal for this one, but it was a good opportunity to take a crack at @Unibroue's Fin du Monde label art. 
+
+🙏 to the folks who maintain this data - it's a cartographer's dream. #30DayMapChallenge https://t.co/3nWYOBnCAd https://t.co/8mslBZafrA",278873782,2021-11-13 14:49:54+00:00,en,1,2,9,1,Twitter Web App,3_1459533568695275520,https://pbs.twimg.com/media/FEFODDvXEAA5CcN.jpg,photo, ,Map/,vtcraghead,False,3752,916,"Burlington, VT"
+1459533721493778433,"Jour 13 du #30DayMapChallenge : Natural Earth
+
+Un beau planisphère simpliste représentant la bathymétrie.
+
+Réalisé avec #QGIS https://t.co/kQgYaimHdm",1311399091,2021-11-13 14:48:50+00:00,fr,1,0,14,0,Twitter Web App,3_1459533611200299016,https://pbs.twimg.com/media/FEFOFiFWQAgvC_K.jpg,photo, ,Lubin Picard,Lubin_Picard,False,344,198, 
+1459533155782647814,"#30DayMapChallenge | Day 13 | #NaturalEarth
+
+Shaded relief map of the world, shown as a Bonne projection. Made in #rstats with #ggplot2.
+#rspatial #gischat #design #maps https://t.co/anwe9ZOc92",3092381638,2021-11-13 14:46:35+00:00,en,15,5,102,1,Twitter Web App,3_1459532966837821441,https://pbs.twimg.com/media/FEFNgBpXIAEhnsh.jpg,photo, ,Cédric Scherer,CedScherer,False,13776,1937,"Berlin, Germany"
+1459533083435143181,"Day 12: Population. Grizzly Bear Population in British Columbia, Canada. #30DayMapChallenge https://t.co/txS4pCLptA",198918596,2021-11-13 14:46:18+00:00,en,2,0,10,0,Twitter Web App,3_1459532895266037763,https://pbs.twimg.com/media/FEFNb3BUYAMruo3.jpg,photo, ,Morgan Moe,MorganSMoe,False,400,163,Calgary AB
+1459532754782146560,"#30DayMapChallenge Day 13: Natural Earth! 
+
+My first time using this data set! I grabbed the administrative boundaries and railroad data sets to plot global railways. https://t.co/FLKfAeljJR",942194832491122688,2021-11-13 14:45:00+00:00,en,1,0,9,0,TweetDeck,3_1457897104932843520,https://pbs.twimg.com/media/FDt9sVKXsAAgMhM.jpg,photo, ,Mike Mahoney,MikeMahoney218,False,1068,533,"Syracuse, NY"
+1459530321670586371,"Jour 13 du #30DayMapChallenge, consacré aux données Natural Earth : j'ai choisi d'exploiter la donnée intitulée ""Minor islands"". Il me semble qu'il en manque quelques unes (à voir quelle est leur définition d'une île aussi). Réalisation #QGIS https://t.co/DU3EnaNnmH",195802419,2021-11-13 14:35:20+00:00,fr,4,0,14,0,Twitter Web App,3_1459530242935209985,https://pbs.twimg.com/media/FEFLBeUXwAEd295.jpg,photo, ,Menileda,Menileda,False,72,232,IDF
+1459527631309660163,"#30DayMapChallenge 
+Day 13 - Natural Earth Data (https://t.co/MEGgkNVcrK)
+The Falkland Islands https://t.co/gzDho6Pg8B",748038863206088704,2021-11-13 14:24:38+00:00,en,1,1,15,0,Twitter Web App,3_1459527212240048130,https://pbs.twimg.com/media/FEFIREGVkAI20n0.jpg,photo, ,Shannon Gonzales 🐙(she/her),yavannie24,False,558,1000,"Sacramento, CA"
+1459527028928131072,"#30DayMapChallenge - Natural #Earth - Day 13
+
+#Bathymetry of the #MediterraneanSea.
+
+This color shaded relief map has been generated with data from @EMODnet https://t.co/4Y8TGPWF1m",1118437362080546816,2021-11-13 14:22:15+00:00,en,0,0,6,0,Twitter for Mac,3_1459527024125562882,https://pbs.twimg.com/media/FEFIGHUWUAI01Ol.jpg,photo, ,José Luis Casamor,batidivulga,False,1218,599,Planeta Océano ~ Planet Ocean
+1459521439439237121,#30DayMapChallenge Day 13: Data Challenge Natural Earth - We don’t always use our own boundaries when creating maps. Here is an example where we used Natural Earth boundaries. Cheers! 🥂 Data is available here https://t.co/bL2UlbrdGP https://t.co/3w1mKlmn8l,2248416469,2021-11-13 14:00:02+00:00,en,1,0,9,0,TweetDeck,3_1459514510499319809,https://pbs.twimg.com/media/FEE8tubXEAEqg0x.png,photo, ,ONS Geography,ONSgeography,True,6543,166,"Titchfield, Fareham"
+1459520313318940682,"#30DayMapChallenge Day 11: 3D – a fantasy landscape that helped us explain how climate models work (does this count as a ""map""?). Natural world by @anjalemcke, #Minecraft world by me 🧊
+
+https://t.co/3A3Pm9JJoK https://t.co/tW0FFLmHag",250600119,2021-11-13 13:55:33+00:00,en,5,0,15,0,Twitter Web App,16_1459518269887590405,https://pbs.twimg.com/tweet_video_thumb/FEFAIjPXsAUPbF2.jpg,animated_gif, ,Adina Renner,adinarenner,False,836,898,"Zurich, Switzerland"
+1459520301692301314,"I had a very mappy week – and inadvertently participated in the #30DayMapChallenge (seriously, how do you do it?) 🌐🗺️😍 
+
+Day 10: Raster with @gebcobathymetry and @NASAEarthData DEM HGT (although the GIF does not do it justice), animation by @jonasoesch 
+
+https://t.co/qe8AUlWfTf https://t.co/wWpv6KZHi6",250600119,2021-11-13 13:55:31+00:00,en,0,1,17,0,Twitter Web App,16_1459518980738138119,https://pbs.twimg.com/tweet_video_thumb/FEFAx7XWQActrP_.jpg,animated_gif, ,Adina Renner,adinarenner,False,836,898,"Zurich, Switzerland"
+1459518816732524550,"#30DayMapChallenge day 13: NaturalEarth
+
+I believe with any project that I work on, at some point, I am coming back to https://t.co/1EJm7dyIOV - and if it is just to create a quick basemap for further editing... https://t.co/8dPIjjPULA",1049757274649051137,2021-11-13 13:49:37+00:00,en,1,0,6,0,Twitter Web App,3_1459518062965764096,https://pbs.twimg.com/media/FEE_8gZXMAApbfa.jpg,photo, ,Vincent Haburaj,jjvhab,False,26,74,"Leipzig, Germany"
+1459518406936383499,#30DayMapChallenge 2021 - Day 13: Natural Earth Data https://t.co/rsRJjhnkaV,1180074260385206277,2021-11-13 13:47:59+00:00,tl,1,1,4,0,Twitter for Android,3_1459518395255332879,https://pbs.twimg.com/media/FEFAP2RXoA8SNeo.jpg,photo, ,Aaron Koelker,AaronKoelker,False,237,283,"Tallahassee, FL"
+1459517666683723784,"#30DayMapChallenge (NatEarth) 
+
+One of my favorite parts of it are the historic, and modern basemaps. I simply differenced them with @ArcGISPro Blending modes, and highlighted the divergences over N. #China, a area that has seen dramatic change since the arrival of humans. https://t.co/ayrQr0mgZS",822048926081712128,2021-11-13 13:45:02+00:00,en,2,2,50,0,Twitter Web App,3_1459516852917391361,https://pbs.twimg.com/media/FEE-2EnWUAEPZrJ.jpg,photo, ,Carl Churchill,Cchurchili,False,2724,1143,CO / Tabeguache Ute Land
+1459516889000857601,"Get addicted to this, buttt my device 😭. Tutorial by @klaskarlsson 
+#30DayMapChallenge https://t.co/Ybm6FXF4xs",1169857420228620290,2021-11-13 13:41:57+00:00,en,0,1,2,0,Twitter Web App,3_1459516027243429894,https://pbs.twimg.com/media/FEE-GAvVgAYxDrQ.jpg,photo, ,Ifanwahyudi,Ifanwahyudiii,False,14,168, 
+1459513485075914756,"One more population graph. Vantaanjoki and the nearest @Tilastokeskus population grids visualized. The height of the bar describes the amount of residents per one 1km x 1km grid.
+
+Dunno why the bars are in some cases floating 😅 #30DayMapChallenge https://t.co/TxsM5mWbsI",1412573438,2021-11-13 13:28:25+00:00,en,2,0,4,0,Twitter for iPhone,3_1459513479505788936,https://pbs.twimg.com/media/FEE7xtrWQAgEdpH.jpg,photo, ,Adam Saada,persikkata,False,321,526,"Helsinki, Finland"
+1459512949257740289,"Day 13 - Data challenge 2: Natural Earth
+
+Urban areas and river network in Northern Italy
+
+Data: 
+https://t.co/wLMWxwPryr for basemap and urban areas
+
+https://t.co/xECFSLe4Tk for river network
+
+#30DayMapChallenge https://t.co/diCUkvU8md",2555652062,2021-11-13 13:26:18+00:00,en,1,0,4,0,Twitter Web App,3_1459512081343029249,https://pbs.twimg.com/media/FEE6gVHXoAE6Toi.jpg,photo, ,Rodolfo Roseto,rodolforoseto,False,147,768,"Bari, Foggia, Troia"
+1459512945658843143,"Salar de Uyuni is the world's largest salt flat, a place of stunning and outworldly landscapes. . It's a geographical feature you can identify even from the moon. 
+
+Made with QGIS using data from Natural Earth.
+#30DayMapChallenge Day 13 - Data challenge 2: Natural Earth https://t.co/XtqycKMV2X",2543362932,2021-11-13 13:26:17+00:00,en,1,0,7,0,Twitter Web App,3_1459512898410397697,https://pbs.twimg.com/media/FEE7P47aQAENB-m.jpg,photo, ,Vajira,VajiraL,False,332,661,Riddermark
+1459512874766852098,"🤣I don't know which daily challenge topic it belongs to. Just sharing my outcome for participating in @geomundus 
+Always proud as an Erasmus student!
+#30DayMapChallenge #QGIS #Erasmus https://t.co/rXLL5li2mP",4803263322,2021-11-13 13:26:00+00:00,en,4,1,12,1,Twitter Web App,3_1459512339472998412,https://pbs.twimg.com/media/FEE6vWuWYAwidOb.jpg,photo, ,Nianhua Liu,liunianhua,False,64,358,"Salzburg, Austria"
+1459511204423086082,"Hung oot tae dry
+#30DayMapChallenge | Day 13 | Natural Earth https://t.co/vCSRynfVxJ",1081900377853829120,2021-11-13 13:19:22+00:00,tl,21,1,128,3,Twitter Web App,3_1459510775651909635,https://pbs.twimg.com/media/FEE5UVCWQAMM7dM.jpg,photo, ,D&G Place-Names,dgplacenames,False,1152,393, 
+1459509315987914757,"#30DayMapChallenge Day 13 | Data Challenge: Natural Earth
+
+#Coralreefs in the Pacific region.
+#QGIS 
+#NaturalEarth https://t.co/ZiIRzwUJ4h",771895849,2021-11-13 13:11:51+00:00,en,0,0,2,0,Twitter Web App,3_1459509069685821443,https://pbs.twimg.com/media/FEE3xB0VkAMnTUv.png,photo, ,Padmanabha Chowdhury,PadmanabhaChy,False,5,29,Bangladesh
+1459506764274192388,"@KonturInc Don't want to even touch my laptop today and tomorrow, so for me, it's also Day 14 of #30DayMapChallenge 
+Surprisingly, I've only used @CARTO as Cartoframes, but never tried the platform itself. It's great!
+Data from my bachelor's thesis
+https://t.co/MoMSj8Hgrp https://t.co/ieIjj1mjVn",1102680264554303489,2021-11-13 13:01:43+00:00,en,1,1,4,0,Twitter Web App,7_1459506199393705984,https://pbs.twimg.com/ext_tw_video_thumb/1459506199393705984/pu/img/pQMjxH05pDuA15vE.jpg,video, ,Mikhail Topnikov,mtopnikov,False,48,97,"Moscow, Russia"
+1459504381976584200,"#30DayMapChallenge 2021 day 13: Natural Earth
+
+My personal bounding box https://t.co/amb2pz5kf7",7159622,2021-11-13 12:52:15+00:00,en,3,5,70,3,Twitter Web App,3_1459504336137076736,https://pbs.twimg.com/media/FEEzdf-XwAAmrBs.jpg,photo, ,Kurt Menke,geomenke,False,6072,2154,"Helsinge, Denmark"
+1459501468369788931,"#30DayMapChallenge 
+Día 12 #Nature
+
+Aplicaciones SIG para la teledetección en la Reserva Natural del Ngorongoro, Serengueti y Lago Mayara.
+
+Datos obtenidos de Earth Explorer (EEUU) correspondientes al satélite Landsat 8 el 2 de abril de 2013. https://t.co/gqLx0nPZU6",1156302488884121601,2021-11-13 12:40:40+00:00,es,1,1,4,0,Twitter for Android,3_1459501460350283780,https://pbs.twimg.com/media/FEEw2G1XsAQ_q9v.jpg,photo, ,Pablo Otero,Pablo__Otero,False,99,486,Madrid
+1459500618830303233,"Prompt for #30DayMapChallenge is Natural Earth. This is the geological map from #Alta #Norway (photographed by me at the fab adjacent museum in 2014) digitally printed on fabric, with details from the stunning petroglyphs overlaid using organza and freehand #MachineEmbroidery https://t.co/QwLcYVRHSa",19870047,2021-11-13 12:37:18+00:00,en,2,0,5,0,Twitter for iPad,3_1459500612270313475,https://pbs.twimg.com/media/FEEwEvfWUAMYxzI.jpg,photo, ,Caroline Hack,CarolineHack,False,1765,1995,"Norfolk, UK"
+1459499608644767753,"#30DayMapChallenge 2021 | Day 13
+Natural Earth (data challenge 2)
+
+The Eastern Hemisphere
+
+#cARTography #MakingMapsPretty #ArcGISPro #MapsForAdobe https://t.co/6sfoMOHv8o",374984100,2021-11-13 12:33:17+00:00,en,17,0,125,0,Twitter Web App,3_1459498932590063617,https://pbs.twimg.com/media/FEEui-MXsAEhxg_.jpg,photo, ,Staridas Geography,StaridasGeo,False,1058,578,Greece
+1459498770996027392,"I am so late with these maps, but here is the population density of Finland from south to North done by @qgis and @Blender
+
+#30DayMapChallenge https://t.co/1SO6gxkVT8",1412573438,2021-11-13 12:29:57+00:00,en,7,1,48,0,Twitter Web App,3_1459497708062924801,https://pbs.twimg.com/media/FEEtbseWYAEX4gH.jpg,photo, ,Adam Saada,persikkata,False,321,526,"Helsinki, Finland"
+1459498440132595721,"World timezones 
+
+#30daymapchallenge #day13 #naturalearth #qgis https://t.co/LF8UwHQ3Oh",1101617286,2021-11-13 12:28:38+00:00,en,3,0,70,0,Twitter Web App,3_1459497976234139654,https://pbs.twimg.com/media/FEEtrTfWYAY5mI1.jpg,photo, ,Helen McKenzie,helenmakesmaps,False,4382,967,London
+1459498341230911489,"Taking refuge in memories when there is a lack of inspiration for maps... so here's a simple overview of 2019 travels with data from Flixbus account, OpenStreetMap and, of course, Natural Earth Data (boundaries, basemap, cities and populated areas) for #30DayMapChallenge🚍 https://t.co/XLGVok3C1a",148715617,2021-11-13 12:28:15+00:00,en,4,0,11,0,Twitter Web App,3_1459497244734992386,https://pbs.twimg.com/media/FEEtAucXMAI9iPX.jpg,photo, ,Federica Gaspari,fede_gaspari,False,577,405,Arona | Piacenza
+1459497589590700035,"#30DayMapChallenge Dia 12: Població
+PAÏSOS CATALANS
+→ Població per Comarques amb etiquetes de text
+→ Població per Municipis amb símbols graduats https://t.co/FmHxmIBCol",3314746668,2021-11-13 12:25:16+00:00,ca,1,1,6,0,Twitter Web App,3_1459496608480043016,https://pbs.twimg.com/media/FEEsbsNXIAggHwn.jpg,photo, ,Marc Oller,marcollergarcia,False,917,193, 
+1459496238064226308,#30DayMapChallenge Natural Earth x Kelso - The man. The myth. The legend. I appreciate everything you've done in GIS/ open source/ etc over the past ten years. #gischat https://t.co/sgFQFZU0Lx,4669435267,2021-11-13 12:19:53+00:00,en,2,0,20,0,Twitter Web App,3_1459495723624550403,https://pbs.twimg.com/media/FEEroL3X0AM0GS6.jpg,photo, ,Justin Meyers,MapMakinMeyers,False,1823,4442,"y,x"
+1459495727202115584,"#30DayMapChallenge 
+Day 13: Natural Earth
+
+Map of urban areas in Egypt.
+Data sourced from Natural Earth
+#dataviz #rstats https://t.co/nIRTR4aRco",91949741,2021-11-13 12:17:52+00:00,en,1,1,3,0,TweetDeck,3_1459495550902943745,https://pbs.twimg.com/media/FEEreIbVQAEPTXO.png,photo, ,P • C,JediPro,False,377,284,"Mumbai, India"
+1459493872942391306,"Parte 2
+#30DayMapChallenge https://t.co/XU81SMowIO",1254286157363494917,2021-11-13 12:10:30+00:00,es,1,0,1,0,Twitter Web App,3_1459493748379996161,https://pbs.twimg.com/media/FEEp1NgX0AEKARF.jpg,photo, ,BRUNO WEISS,brunoweiss85,False,25,61,"Guarulhos, Brasil"
+1459493490119913474,"Resultados das eleições presidenciais por estado, de 1989 em diante (considerando a % dos votos válidos - Segue o fio).
+Autoria da página do Instagram @brflagmap
+ #30DayMapChallenge https://t.co/VoajR4cCLX",1254286157363494917,2021-11-13 12:08:58+00:00,pt,2,1,4,0,Twitter Web App,3_1459493458180284418,https://pbs.twimg.com/media/FEEpkUbXoAIsywT.jpg,photo, ,BRUNO WEISS,brunoweiss85,False,25,61,"Guarulhos, Brasil"
+1459492905391960073,"Day 13 and Data challenge 2 of the #30DayMapChallenge . The challenge being using Natural Earth data. @terisha_pillay1 used the Bathemetry, rivers and shaded relief datasets. 🗺 https://t.co/C1AswIvzcG",1109007483199213568,2021-11-13 12:06:39+00:00,en,1,0,12,0,Twitter for Android,3_1459492902636244997,https://pbs.twimg.com/media/FEEpD-3WUAUWc2m.jpg,photo, ,UP Mappers,UPmappers,False,87,66,"Pretoria, South Africa"
+1459491516276252672,"#30DayMapChallenge day 13 natural earth. L'Amafrique du sud, ses milieux naturels et son relief. L'intérieur du continent a déjà été complètement exploité https://t.co/12i26cHxVQ",1189967197730430977,2021-11-13 12:01:08+00:00,fr,1,1,9,0,Twitter for Android,3_1459491513449205762,https://pbs.twimg.com/media/FEEnzHvWUAIc4J1.jpg,photo, ,Julien Dupont Kobri,Kartokobri,False,880,387, 
+1459491240429309954,"#30DayMapChallenge Day 13, Natural Earth!  Love me some glaciers. Made with https://t.co/9bMq4iM64t https://t.co/j1k4HMFVWr",277272757,2021-11-13 12:00:02+00:00,en,1,0,4,0,Twitter Web App,3_1459397063406338050,https://pbs.twimg.com/media/FEDR5Z6VQAIsjQR.jpg,photo, ,Steve Cline,SteveClineBird,False,150,248,"Vancouver, WA"
+1459491231260712963,"DAY THIRTEEN - DATA CHALLENGE 2: NATURAL EARTH ⛰ @SianTeesdale has mapped transport infrastructure in California, using Natural Earth data #30DayMapChallenge https://t.co/UOBraP4xzz",2280343142,2021-11-13 12:00:00+00:00,en,4,0,19,1,TweetDeck,3_1458108592649908227,https://pbs.twimg.com/media/FDw-CiTXsAMyzkJ.jpg,photo, ,GeoDataScience,geodatascience,False,5397,2376,Liverpool
+1459490863890026504,"#30DayMapChallenge Day 13 ""Natural Earth"" Data
+
+Some generative ""art"" with #QGIS and Natural Earth data.
+
+#MapsAlmostWithoutNewZealand #Sorry https://t.co/WhKIH7KpYk",1499547780,2021-11-13 11:58:32+00:00,en,0,2,6,0,Twitter Web App,3_1459490025943543809,https://pbs.twimg.com/media/FEEmciWXMAEKK_w.jpg,photo, ,Heikki Vesanto,HeikkiVesanto,False,894,468,"Dublin City, Ireland"
+1459489742861393921,"これはどこの世界の地図でしょう？🤔
+
+見慣れた地図も、表現ひとつで全く変わった印象を与えることができますね。
+
+#30dayMapChallenge Day 13: Natural Earth 
+Tool: #QGIS https://t.co/8nBE1PApIF",1451340075548119041,2021-11-13 11:54:05+00:00,ja,2,0,8,0,Twitter Web App,3_1459485976947216384,https://pbs.twimg.com/media/FEEiw2qaUAAFx3t.jpg,photo, ,データサイエンス+AI科🏫専門学校東京テクニカルカレッジ,ttc_dsai,False,18,29,東京都中野区東中野4-2-3
+1459489435628806155,"#30DayMapChallenge day 13 - Natural Earth data. Using a load of blended shaded reliefs I've gone with another vintage style today, this time showing the claims and research stations of Antarctica. Labeling was a proper effort for this one. https://t.co/XLEW60tyoz",798523409286266880,2021-11-13 11:52:52+00:00,en,15,6,112,1,Twitter for Android,3_1459489431430254593,https://pbs.twimg.com/media/FEEl57nWUAE5yO0.jpg,photo, ,Dan Harris,DiasporaDan,False,1229,1857,"Grantown-on-Spey, Scotland"
+1459489056493031425,"#30DayMapChallenge Día 13. DataChallenge2 NaturalEarth
+Mapa de GDP por país en Asia (Sur, Este y Sudeste) y las ciudades y mega ciudades en estas regiones, utilizando la base de datos Natural Earth
+Fuente: https://t.co/bzT1CXh4A5
+Instagram: dataurbana
+#DataUrbana #dataviz #python https://t.co/eCZkSl96qV",1270981983842287616,2021-11-13 11:51:21+00:00,es,1,0,3,0,Twitter Web App,3_1459489036645642244,https://pbs.twimg.com/media/FEEli87XMAQzNCs.jpg,photo, ,DataUrbana,Data_Urbana,False,78,167,Barcelona
+1459488579579691010,"Day 13: Natural Earth
+All* the medium #rasters
+Data: #NaturalEarth 
+Tools: @QGIS @ArcGISPro @Screen2Gif
+#30DayMapChallenge #GIS #gischat  
+*excluded the ""no water"" versions and bathymetry (.psd file) https://t.co/Xd37zTfLZi",52190652,2021-11-13 11:49:28+00:00,en,1,1,12,0,Twitter Web App,16_1459488393495293958,https://pbs.twimg.com/tweet_video_thumb/FEEk9hAXsAYH6C9.jpg,animated_gif, ,Oliver Burdekin,burdGIS,False,1809,3458,"Wakefield, England"
+1459487283841835009,"#30DayMapChallenge 2021 🗺️ Day 13 - Natural Earth Data Challenge
+
+This is a recreation of my recreation of a map by Minard
+(https://t.co/aq1acELPa0) using NE data
+
+Tools: #rstats ({roughsf},{sf})
+
+HighRes: https://t.co/NrQAv9NMPe https://t.co/vPVNyW7nRv",2745527973,2021-11-13 11:44:19+00:00,en,4,1,9,0,TweetDeck,3_1459487169614163968,https://pbs.twimg.com/media/FEEj2RsXsAAA4Ki.jpg,photo, ,David Schoch,schochastics,False,1928,290, 
+1459486503130873864,"@KonturInc #30DayMapChallenge Day 13. Natural Earth
+A map with some #LordoftheRings vibes :) https://t.co/QNXXnqSrhm",1102680264554303489,2021-11-13 11:41:12+00:00,en,1,1,8,0,Twitter Web App,3_1459486442212704256,https://pbs.twimg.com/media/FEEjL76WQAAFx9e.jpg,photo, ,Mikhail Topnikov,mtopnikov,False,48,97,"Moscow, Russia"
+1459486340073013250,#30DayMapChallenge day#13 - Natural Earth - raster data from Natural Earth showing bathymetry of the Atlantic Ocean #Atlantic #GIS #Bathymetry #midatlanticridge #ocean https://t.co/1goyLIinM0,179094335,2021-11-13 11:40:34+00:00,en,0,0,3,0,Twitter for Android,3_1459486333819404290,https://pbs.twimg.com/media/FEEjFoHXwAIIbDw.jpg,photo, ,sarah☻,sarah_wilson7,False,143,346,"Dublin City, Ireland"
+1459484057826377732,"#30DayMapChallenge 2021 Day 13: Natural Earth
+
+No time for a Challenge today, as it will require learning QGIS. So, I am submitting the #RightToRoam map I made last year for which I downloaded and cropped Natural Earth's Admin Map Units SHP file and coloured it in using Paint https://t.co/GcKYthOlP5",1033206985,2021-11-13 11:31:29+00:00,en,1,0,5,0,Twitter Web App,3_1459483428571725827,https://pbs.twimg.com/media/FEEgchOWQAMNtt-.png,photo, ,Phil Tarr,CasegFraith,False,526,862,United Kingdom
+1459481695556718595,Seeing as I’ve posted a few maps now all referencing Lesmahagow Parish. I though some of you might like to know where it is. #30DayMapChallenge | Day 13 | Data Challenge 2: Natural Earth https://t.co/elS9cWV2gy,16735351,2021-11-13 11:22:06+00:00,en,1,0,9,0,Twitter for iPhone,3_1459481689416159236,https://pbs.twimg.com/media/FEEe3SXWUAQOI3h.jpg,photo, ,tookiebunten,tookiebunten,False,1086,2012,"South Lanarkshire, Scotland"
+1459481318090231808,"I used #NaturalEarth data to create different maps for the 7th-grade Geography of Continents and Oceans schoolbook. Here's one of the maps - Climate Map of North America (in this map also data from https://t.co/Gt52wVYmGo).
+Day 13 of #30DayMapChallenge https://t.co/WwZNvkkGFV",113368957,2021-11-13 11:20:36+00:00,en,3,0,21,0,Twitter Web App,3_1459479330329972743,https://pbs.twimg.com/media/FEEct-FX0Ac7m4E.jpg,photo, ,Igor Rosca,IgorRoshka,False,33,127,Germany
+1459478700362289153,"#30DayMapChallenge day 13: NaturalEarth
+
+Railroads in Japan by electric designation (raster from NASA worldview)
+
+Ineptly made with @qgis, but you would *not* believe the fun I had. https://t.co/wgt4OjIgNq",3317926678,2021-11-13 11:10:12+00:00,en,2,0,6,0,Twitter for iPhone,3_1459478689138323464,https://pbs.twimg.com/media/FEEcIpdXsAgBeyE.jpg,photo, ,Lorenzo,ProcessNamed,False,400,77, 
+1459471027587719174,#30DayMapChallenge day 13: Natural Earth. I used several water related #NaturalEarth data sources and combined them in @QGIS. https://t.co/uRxNUzsvAT,269294137,2021-11-13 10:39:43+00:00,en,1,0,2,0,Twitter for Android,3_1459471019228475398,https://pbs.twimg.com/media/FEEVKM0XMAY-JmN.jpg,photo, ,michelstuyts,michelstuyts,False,493,1480,"Antwerp, Belgium"
+1459470653858353158,"#naturalearth #30DayMapChallenge
+Day13:Natural Earth. The first time to join this challenge. https://t.co/0JKEC8fh5L",949696867926978560,2021-11-13 10:38:14+00:00,en,3,2,6,0,Twitter for iPhone,3_1459470642458525697,https://pbs.twimg.com/media/FEEU0RPaAAEl2gB.jpg,photo, ,Wei,WeiDuhun,False,53,367,Beijing
+1459470529279279110,"#30DayMapChallenge Day 13 - #NaturalEarth
+Globe with 1:50m Gray Earth (shaded relief, hypsography and ocean bottom), country boundaries, rivers and lakes.
+Software: #QGIS with Globe Builder plugin, https://t.co/6TA0XJEeUg
+#OpenData: Natural Earth, https://t.co/9vLzCOwPpc https://t.co/ythNtR9v7k",760094405369946112,2021-11-13 10:37:44+00:00,en,2,0,46,0,Twitter Web App,3_1459470088889901058,https://pbs.twimg.com/media/FEEUUDCXIAIc3PF.jpg,photo, ,Hans van der Kwast,hansakwast,False,4230,1320,The Netherlands
+1459470225573822467,"#30DayMapChallenge | Day 12 | #Population #Germany #Landkreise
+
+One day to late, but better late than never 😜🗺️ https://t.co/S0rGtiDrf7",2853392963,2021-11-13 10:36:32+00:00,en,0,0,4,0,Twitter Web App,7_1459470150701359105,https://pbs.twimg.com/ext_tw_video_thumb/1459470150701359105/pu/img/9jL50kCaQC_C6K-h.jpg,video, ,GEOlayers,GEOlayers,False,568,477,Leipzig
+1459468545708937216,"#30DayMapChallenge Natural Earth: #ISSTempus 
+Click the space ship at https://t.co/Tr92U0CBzn
+@DLR_en @astro_matthias @raumschifferde https://t.co/gbOoI180Le",853214807826325508,2021-11-13 10:29:51+00:00,en,1,1,1,0,Twitter Web App,3_1459467999228960770,https://pbs.twimg.com/media/FEESaacXoAIGlWs.jpg,photo, ,Chrono Research Lab,chronohh,False,1228,2168,"Hamburg, Germany"
+1459467286855700482,"A mosaic of @nasa's blue marble and #NaturalEarth's beautiful raster.
+Day 13 of #30DayMapChallenge: natural earth https://t.co/msmKhMNP2S",26062194,2021-11-13 10:24:51+00:00,en,1,1,4,1,Twitter Web App,3_1459466034277195784,https://pbs.twimg.com/media/FEEQoCbXIAgoXct.jpg,photo, ,Patrick Mast,patrick_mast,False,59,137,"Hamburg, Germany"
+1459466961390346241,"I had a lot of fun messing with #NaturalEarth data for today's #30DayMapChallenge map! 
+
+There's a lot of data there, so endless possibilities - definitely worth checking out the data source if you haven't yet! https://t.co/CL1ePygZci",437801734,2021-11-13 10:23:33+00:00,en,5,0,18,0,Twitter for Android,3_1459466958483644418,https://pbs.twimg.com/media/FEERd1XWYAIk79c.jpg,photo, ,Antonia Blankenberg,MapsByAntonia,False,483,523,"Dublin City, Ireland"
+1459466148169359365,"#30DayMapChallenge day 13 I will keep it simple with #badpuns. Yes, am that kind of #cartographer who uses humour to hide not knowing what to map.
+Source: #esri #GoogleEarth https://t.co/S4R6v2JYO2",1412877030895628289,2021-11-13 10:20:19+00:00,en,0,0,3,0,Twitter for Android,3_1459466145661128704,https://pbs.twimg.com/media/FEEQuhXXEAAilIe.jpg,photo, ,Grachen Akoth,MapsGre,False,31,47, 
+1459465464560685061,"#30DayMapChallenge #Day13: Natural earth. Here I show the rate of consumption of ground water. Many areas of the globe are consuming ground water faster than it is replenished. Data from the GAP3 raster (EarthStat, U. of Minnesota). Fig made in #Stata with my own color scheme, https://t.co/p87yPnG2y1",124852105,2021-11-13 10:17:36+00:00,en,2,1,18,0,Twitter Web App,3_1459464089974067201,https://pbs.twimg.com/media/FEEO23VX0AEKbrm.jpg,photo, ,Asjad Naqvi,AsjadNaqvi,False,4688,768,"Vienna, Austria"
+1459464376340164611,"#30DayMapChallenge Day 12: Population.
+Province of Lleida, population in 100m square grid.
+QGIS + Blender + Inkscape https://t.co/625kfpRlCM",69918773,2021-11-13 10:13:17+00:00,en,3,0,14,1,Twitter Web App,3_1459464010479374336,https://pbs.twimg.com/media/FEEOyPMXEAAVSfl.jpg,photo, ,Gerard M. Porras 🗺️🏃🏽,Gerardathletics,False,889,1393,Utrecht
+1459461576642154501,My contribution for day 10 of the #30daymapchallenge. A raster map of satellite-derived land cover data and shaded relief. I used data from https://t.co/5S1yP8UdAo and the #rstats package sp. https://t.co/tpTCwtB0U1,3331095159,2021-11-13 10:02:10+00:00,en,3,0,3,0,Twitter Web App,3_1459461559944626178,https://pbs.twimg.com/media/FEEMjmPWQAIxgbD.png,photo, ,Jan-Philipp Kolb,JanPhilippKolb,False,207,569,"Mannheim, Baden-Württemberg"
+1459461540143411203,"Unlucky for some but not so much for us here at #Basemap !
+Number 13 of the #30DayMapChallenge is Data Challenge 2: Natural Earth. Our video transition shows the difference between using #NaturalEarthData and #OrdnanceSurvey data. Which would you use? https://t.co/0ls5wqD45Z",49592380,2021-11-13 10:02:01+00:00,en,0,0,3,0,SocialPilot.co,7_1459461528936226823,https://pbs.twimg.com/ext_tw_video_thumb/1459461528936226823/pu/img/CeTEPwxy7RlRa-Cp.jpg,video, ,Basemap,basemap,False,1664,1588,"Guildford, Surrey"
+1459461036013068290,"#30DayMapChallenge 
+
+13. #NaturalEarth Data. Time zones.
+13. Datos de Natural Earth (https://t.co/N3TI012RC0). Husos horarios. https://t.co/dPmkOPkMlJ",769592708,2021-11-13 10:00:01+00:00,es,1,0,6,1,Twitter Web App,3_1458924968738275330,https://pbs.twimg.com/media/FD8kh4OXwAIWV5O.jpg,photo, ,Valentín Sastre,valen_ibiza,False,377,586,IBIZA / Barcelona
+1459460790994493440,"#30DayMapChallenge 
+day 13 - Natural Earth
+
+data: ne_10m_ocean https://t.co/DQ0ZIzHAyi",1311757794417283072,2021-11-13 09:59:02+00:00,en,1,0,2,0,Twitter Web App,3_1459460652582547458,https://pbs.twimg.com/media/FEELuyDXsAI9OVn.jpg,photo, ,mjeż.gis,mjezgis,False,18,26, 
+1459456269551554561,"#30daymapchallenge Day 13 - Natural Earth. Using the Gray Earth with Shaded Relief and Hypsography raster base map, with European lighthouses overlaid over the top from EMODnet Human Activities portal. @Cadcorp #gis #naturalearth @EMODnet https://t.co/k7CJaPala0",92832101,2021-11-13 09:41:04+00:00,en,2,0,4,0,Buffer,3_1459456265336377351,https://pbs.twimg.com/media/FEEHvaSX0AcFKwN.jpg,photo, ,Ian Usher,ian_usher1985,False,469,1886,Stevenage
+1459453019012149248,"Day 13, Natural Earth. Airports according to Natural Earth. #30DayMapChallenge https://t.co/mdW49hz0WM",1466897384,2021-11-13 09:28:09+00:00,en,1,0,6,0,Twitter Web App,16_1459452162166214660,https://pbs.twimg.com/tweet_video_thumb/FEEEAkyX0AQwk5_.jpg,animated_gif, ,Matti Kokkonen,MattiJKokkonen,False,331,483, 
+1459449897682444288,"#30DayMapChallenge 
+day 12 - population https://t.co/GATrgpr0Pm",1311757794417283072,2021-11-13 09:15:45+00:00,en,1,0,10,0,Twitter Web App,3_1459449788131430402,https://pbs.twimg.com/media/FEEB2Y0X0AIfddm.jpg,photo, ,mjeż.gis,mjezgis,False,18,26, 
+1459448965070479362,#30DayMapChallenge day 13: Natural Earth. Catholics in the world. Countries from Natural Earth. More at https://t.co/LDsU8x9HST https://t.co/NL7hbAu6vO,840682774403133441,2021-11-13 09:12:03+00:00,en,2,0,4,0,Twitter for iPhone,3_1459448960318382082,https://pbs.twimg.com/media/FEEBGM-XIAIKhDx.jpg,photo, ,HistoCarte,HistoCarte,False,77,69, 
+1459445939517730817,"#30DayMapChallenge
+
+Day 13 - Natural Earth
+South America - Main urban areas (&gt; 2 million).
+
+Día 13 - Natural Earth
+Sudamérica - Áreas urbanas principales (&gt; 2 millones hab).
+
+Data source/Fuente datos: Natural Earth, Wikipedia.
+Prepared/Elaborado: QGIS &amp; Inkscape https://t.co/ViGHhIbHRq",38113384,2021-11-13 09:00:01+00:00,es,1,0,6,0,Twitter Web App,3_1459366911947513856,https://pbs.twimg.com/media/FEC2eW-XIAAcc68.jpg,photo, ,Eric Armijo,rcrmj,False,177,147,"Santa Cruz, Bolivia"
+1459443725105516544,"Day 13 of #30DayMapChallenge: Natural Earth
+
+Bizkaiko Golkoaren batimetria, NaturalEarth bildumatik hartua. Oso erraza da bertako datuekin mota askotako mapak egitea.
+
+Geruza gehigarriak: OpenStreetMap HillShading
+Softwarea: QGis
+Koloreak: Coolor https://t.co/0asHALrXbs",19770809,2021-11-13 08:51:13+00:00,eu,1,1,5,0,Twitter Web App,3_1459443711989977091,https://pbs.twimg.com/media/FED8UtbXEAMs-V6.jpg,photo, ,Galder Gonzalez🔻,theklaneh,False,9277,1309,Euskal Herria
+1459442748839194624,"#Day13 of #30DayMapChallenge: Natural Earth.
+Venturing back towards interactive maps, here's a web map of Global Methane emissions per capita, created using Natural Earth and OWID country data.
+Access it here: https://t.co/wKClD9qQwL https://t.co/RDO95ZgHpS",93839237,2021-11-13 08:47:21+00:00,en,2,0,5,0,Twitter Web App,3_1459442590571372549,https://pbs.twimg.com/media/FED7Tb0VIAUPEPP.jpg,photo, ,Andrew DC 🌈,andrewdc_nz,False,799,182,"Christchurch City, New Zealand"
+1459441757159055362,"Day 13 - Data challenge 2: Natural Earth
+Using Natural Earth ocean bottom data and turning it into land. With the land masses as ocean.
+#30DayMapChallenge https://t.co/RRVxQGfJdQ",1694963077,2021-11-13 08:43:24+00:00,en,1,0,8,0,Twitter Web App,3_1459441389050253313,https://pbs.twimg.com/media/FED6NfzX0AEC0kZ.jpg,photo, ,Marcus Humphrey,92MBH,False,93,126,"Perth, Scotland"
+1459441656990773249,13 Natural Earth data. #30DayMapChallenge #QGIS only. The world of the past !! https://t.co/uhWNk8D6On,387562177,2021-11-13 08:43:00+00:00,en,1,0,6,0,Twitter Web App,3_1459440626450247681,https://pbs.twimg.com/media/FED5hG5XMAEvywD.png,photo, ,Totò Fiandaca,totofiandaca,False,704,108,Italy
+1459439323552620550,Day 12 of the #30DayMapChallenge sourced from the VPL visit last week: a population map of ethnic groups in 1962 Kenya https://t.co/2BPEopt2Fi,281195030,2021-11-13 08:33:44+00:00,en,1,1,6,0,Twitter for iPhone,3_1459439319127494659,https://pbs.twimg.com/media/FED4VAvVEAM-zFX.jpg,photo, ,Max Kittner (he/him),mapboymax,False,573,599,unceded land
+1459438530342502404,"#30DayMapChallenge 
+Day 10, 12: Raster &amp; Population
+
+Map of raster population density data for the Korean peninsula.
+Data sourced from @ciesin, #NASAsedac, Natural Earth
+#dataviz #rstats https://t.co/ynOLpLf3YS",91949741,2021-11-13 08:30:35+00:00,en,1,1,4,0,TweetDeck,3_1459437832255119364,https://pbs.twimg.com/media/FED2-dtVIAQGEgA.png,photo, ,P • C,JediPro,False,377,284,"Mumbai, India"
+1459436754574925826,"#30DayMapChallenge 
+Day 12 - Population
+
+Cologne, Germany, residents by country of birth outside Germany as of 2014.
+
+The view is morphing between a Mollweide projection, a contiguous cartogram and a Dorling cartogram using {gganimate} 📦 https://t.co/fefBBKQz2n",1139059532,2021-11-13 08:23:31+00:00,en,2,0,10,0,Twitter Web App,16_1459436723662954500,https://pbs.twimg.com/tweet_video_thumb/FED1974XIAQcYHO.jpg,animated_gif, ,Ansgar Wolsing,_ansgar,False,380,1021,"Köln, Deutschland"
+1459435844972994563,"#30DayMapChallenge - Natural Earth
+Écozones (ou biomes) de la Terre (pour Forest peoples programme) https://t.co/61BCEau2vT",252009888,2021-11-13 08:19:55+00:00,fr,6,0,36,0,Twitter Web App,3_1459435832629202952,https://pbs.twimg.com/media/FED1KEhXEAgQ_vR.jpg,photo, ,Agnès Stienne,odilon72,False,937,566,Le Mans
+1459434994703777792,"#30DayMapChallenge 
+Día 12: population.
+
+Cartograma de la población por estado en México.
+
+#RStats #dataviz #Datavisualization https://t.co/LNYHVFG2SX",546345736,2021-11-13 08:16:32+00:00,es,2,0,3,0,Twitter Web App,3_1459434504628678656,https://pbs.twimg.com/media/FEDz8xVXMAAAB5O.jpg,photo, ,David Martínez,jodaMacer,False,67,469,Ciudad de México.
+1459431881280311301,"#30DayMapChallenge day 13 (Natural Earth)
+
+This map is composed solely of Natural Earth bathymetry layers, coloured in sequential blues from colorbrewer, and is in azimuthal equidistant projection. https://t.co/JZrwS2SVSS",963423777135759360,2021-11-13 08:04:10+00:00,en,7,1,67,0,Twitter for iPhone,3_1459431873294307331,https://pbs.twimg.com/media/FEDxjm2XEAMB9XA.jpg,photo, ,Ilya Ilyankou,ilyankou,False,431,401,London
+1459431085033631748,"#30DayMapChallenge Day 13
+
+* obtained map data from Natural Earth (today's theme)
+* downsampled with the R #terra package
+* applied a new color scheme https://t.co/kyiHWF2HkJ",754537285660573696,2021-11-13 08:01:00+00:00,en,1,0,4,0,Twitter Web App,3_1459423300036087810,https://pbs.twimg.com/media/FEDpwk-UUAILod-.jpg,photo, ,Derek Sollberger,DerekSollberger,False,339,710,"Merced, CA"
+1459430839997976578,#NaturalEarth is a great resource for the #30DayMapChallenge - here I had a look at the railway lines of Hamburg https://t.co/cKZA8WL6vV,70192766,2021-11-13 08:00:01+00:00,en,1,1,10,1,Twitter Web App,3_1455997102690127873,https://pbs.twimg.com/media/FDS9ppPX0AEQhqb.jpg,photo, ,Achim Tack,A_Tack,False,1829,1263,"Hamburg, Germany"
+1459430834889498630,"Day 13: Natural Earth #30DayMapChallenge Borders are a human achievement: they are imperfect, changing and subject to disputes. Natural Earth contains only few of them, Wikipedia has its own incomplete yet longer list: https://t.co/g2WE6uTCw3
+Details in https://t.co/oXO3A69QyI https://t.co/9hXlLcDIuT",160578875,2021-11-13 08:00:00+00:00,en,1,0,4,0,Twitter Web App,3_1458200492526510084,https://pbs.twimg.com/media/FDyRn0BXoAQwiRF.png,photo, ,Xavier Olive,x00live,False,237,162,"Toulouse, France"
+1459429323224408065,"#30DayMapChallenge Day 13 NaturalEarthData
+Wrapping data around the dateline is not that easy. GIS software could be better at this... Also tried a different projection for this. https://t.co/95CsK53Eqt",56323078,2021-11-13 07:54:00+00:00,en,3,0,20,0,Twitter Web App,3_1457284750004166656,https://pbs.twimg.com/media/FDlQwlSXoAAyYMG.jpg,photo, ,Klas Karlsson,klaskarlsson,False,5330,82,"Eksjö, Sweden"
+1459427746874937347,"#30DayMapChallenge - 3D/population
+
+Avian airstrike - Aircraft-bird strikes across Australia 2008-2017
+
+Nice, rich dataset and will probably use this again for a deeper analysis
+
+Aims
+- Wrangle these data for another analysis ✅ 
+
+Made with #rstats #rspatial 
+Links and #R code ⬇️ https://t.co/Q89brNIXAO",2905624932,2021-11-13 07:47:44+00:00,en,2,1,7,0,Twitter Web App,3_1459426440349290499,https://pbs.twimg.com/media/FEDsnXjVEAMhWPK.jpg,photo, ,Matt Malishev,darwinanddavis,False,311,379,"Atlanta, GA"
+1459425901213630469,"Animation du géoïde qui colle bien au thème du #30DayMapChallenge du jour. Ce n'est évidemment pas de moi. D'ailleurs, si jamais qqun en connaît la source. Je l'ai perdue depuis un moment. https://t.co/c6VZHZMinF",494171107,2021-11-13 07:40:24+00:00,fr,1,1,7,0,Twitter for Android,16_1459425884214079490,https://pbs.twimg.com/tweet_video_thumb/FEDsG_yXMAIfzZN.jpg,animated_gif, ,Rémi Guédon,RGuedonHG,False,477,264, 
+1459420011890622471,"All Natural Earth 10m polygons rendered with no fill 10% line opacity using QGIS. 
+
+#30DayMapChallenge day 13: Natural Earth. https://t.co/u1xklRp1zh",2198358416,2021-11-13 07:17:00+00:00,en,1,0,70,0,Twitter Web App,3_1459148594188103685,https://pbs.twimg.com/media/FD_v6l8XsAU1a0E.png,photo, ,Topi Tjukanov,tjukanov,False,15348,2505,"Helsinki, Suomi"
+1459417749055324161,"#30DayMapChallenge 
+Day 13 : Natural Earth
+Disputed areas in Indian Ocean is mapped here according to the data from #NaturalEarth https://t.co/SMf7tSLUVy",860412366323933185,2021-11-13 07:08:00+00:00,en,1,0,4,0,Twitter Web App,3_1459417695590522883,https://pbs.twimg.com/media/FEDkqWyXoAMrLVk.jpg,photo, ,BAOVOLA Marie Anna,BaovolaMada,False,515,1606,Madagascar
+1459417503453560834,13 Natural Earth data. #30DayMapChallenge Showing only shallow waters up to 200m. Prepared using Qgis and rendered in Blender https://t.co/lE7xev8zqN,363276700,2021-11-13 07:07:02+00:00,en,28,2,195,2,Twitter Web App,7_1459417443357634562,https://pbs.twimg.com/ext_tw_video_thumb/1459417443357634562/pu/img/FoARHNNZfvwe0utU.jpg,video, ,Steven Kay,stevefaeembra,False,1257,424,Edinburgh
+1459417016578760707,"#30DayMapChallenge Day 13: Natural Earth challenge
+Turning Day 11 Graphic Design (w various NE layers) scene into a map. L to R we have Biodiversity Intactness from Natural History Museum data portal, global mean temperature shown already and Human Footprint 2009 from Dryad Data. https://t.co/GRgCjZ91Uu",25663399,2021-11-13 07:05:06+00:00,en,2,1,6,0,Twitter Web App,3_1459416278884622338,https://pbs.twimg.com/media/FEDjX5JXIAIzYWH.jpg,photo, ,Andrew Zolnai,azolnai,False,921,1529,"Cambridge, UK"
+1459415736934297603,"Day 13 of the #30DayMapChallenge - Data challenge 2: Natural Earth
+
+Just a bunch of Natural Earth layers
+
+#30DaysOfPokemon Color Palette(s) - Nidoqueen and Nidoking
+
+More on this map and more maps  - https://t.co/Dkle8cpdXC
+#30ימימיפוי https://t.co/bm7KLwlNGS",1174353681946484739,2021-11-13 07:00:00+00:00,en,2,1,11,0,Twitter Web App,3_1455522211633287173,https://pbs.twimg.com/media/FDMNvWMX0AUqZOq.jpg,photo, ,Dror Bogin,bogind2,False,169,292,Israel
+1459415621255544832,13. Natural Earth: What time is at the poles? 🤔 See the thread below. Time zones are from the Natural Earth dataset which is probably one of the datasets that I use the most 🤩 Thanks to all the contributors! 🙏#30DayMapChallenge #QGIS #NaturalEarth https://t.co/TlzVYETmbv,47698876,2021-11-13 06:59:33+00:00,en,16,1,84,0,Twitter Web App,3_1459414808768438272,https://pbs.twimg.com/media/FEDiCUiWYAAEKCo.jpg,photo, ,Evelyn,evelynuuemaa,False,1116,353,Estonia
+1459410433060655105,"Day 12 of the #30DayMapChallenge - Population
+Was little busy today making a trip up to Edmonton to the #canmnt beat Costa Rica in #WCQ2022 hence it is a little late, but here is a quick riding population map of the most over-represent (in parliament) region of the country. https://t.co/NV9xGaxfuv",223258375,2021-11-13 06:38:56+00:00,en,1,0,5,0,Twitter Web App,3_1459409731022245893,https://pbs.twimg.com/media/FEDdawdUUAUEJPA.jpg,photo, ,Jeff Deurloo,jdeurloo10,False,413,4566,"Lethbridge, Alberta"
+1459407125277335554,Day 12 of the #30DayMapChallenge:  Population…Population density.  Plenty of white space to expand. #IMNOS https://t.co/9Q84gnRvWT,276280627,2021-11-13 06:25:47+00:00,en,1,0,6,0,Twitter Web App,3_1459406906527678464,https://pbs.twimg.com/media/FEDa2WZVgAAof4I.jpg,photo, ,Patrick Nelson,pnelson917,False,232,488,"Phoenix, AZ"
+1459400654804463617,For today in #30DayMapChallenge the idea was to use datasets by Natural Earth Data. 🗺️ With those datasets @posiki made this map of Baltic Sea region using QGIS. https://t.co/ei793kjnIq,973813309811187713,2021-11-13 06:00:05+00:00,en,2,0,7,0,Buffer,3_1459400650752733185,https://pbs.twimg.com/media/FEDVKN0XMAEAJB0.jpg,photo, ,Gispo,gispofinland,False,998,298,"Helsinki, Suomi"
+1459398620848046080,"Day 13 (Natural Earth) of #30DayMapChallenge : Disputed areas in the world
+
+Tool: #QGIS https://t.co/zd7SUxsZR0",1237617707106873344,2021-11-13 05:52:00+00:00,en,1,1,8,0,Twitter Web App,3_1459398602988609537,https://pbs.twimg.com/media/FEDTTBTWYAEpOWA.jpg,photo, ,Benjamin Nowak,BjnNowak,False,1132,761,"Clermont-Ferrand, France"
+1459395438268719104,"#30DayMapChallenge 2021 Day 12: Population
+#Oregon's dense population of volcanic vents. #geology #map Shaded relief: Natural Earth, Vent data: https://t.co/xlTrcXvkuj https://t.co/HrCLBDuATv",869709367737634816,2021-11-13 05:39:21+00:00,en,4,0,22,0,Twitter Web App,3_1459394149573005316,https://pbs.twimg.com/media/FEDPPzCVEAQjCcv.jpg,photo, ,Daniel Coe,geo_coe,False,3423,196,"Olympia, WA"
+1459395041483313153,"#30DayMapChallenge #NorthDakota #SouthDakota 
+
+Day 12 - Population
+
+I lived in ND for a couple of years. Always thought it should combine with SD. https://t.co/bBx0uCna7u",14182494,2021-11-13 05:37:46+00:00,en,0,0,1,0,Twitter Web App,3_1459394370172375040,https://pbs.twimg.com/media/FEDPco1UUAA7JAP.jpg,photo, ,joelfeik,joelfeik,False,6,182,"Vancouver, WA"
+1459390748701478918,The worldwide #30DayMapChallenge has reached Estonian Land Board. For every day in November one new map will appear. 13th day data challenge: Natural Earth. You can see the whole gallery https://t.co/it1YIPjMyU https://t.co/noj62iVoFD,193592650,2021-11-13 05:20:43+00:00,en,1,0,1,0,Twitter Web App,3_1459390732561797122,https://pbs.twimg.com/media/FEDMI5rX0AISYUo.jpg,photo, ,Maa-amet,maaamet,False,174,89, 
+1459386017035657222,#30DayMapChallenge day 12 and looking at population. Quick one of Bighorn Sheep range (green) in Colorado with humans living in the red and sheep migration corridors in yellow. Might dive into this data for a more polished map later. Have a great weekend! https://t.co/F98T3ntMWZ,26189414,2021-11-13 05:01:55+00:00,en,1,1,3,0,Twitter for iPhone,7_1459385921392943108,https://pbs.twimg.com/ext_tw_video_thumb/1459385921392943108/pu/img/iPapPtUU7WnaZ6mA.jpg,video, ,Mike Floyd 🦉,mike_floyd_co,False,169,583,"Colorado, USA"
+1459375929084444675,"I'm hoping to go into the office on Monday after a break of 55 days. So for #30DayMapChallenge Day 08 (blue) here's Wellington CBD centred on the office, in the corporate colour(s).
+#rstats code: https://t.co/0zjbALwAlD https://t.co/KVfKeFMGNt",33788841,2021-11-13 04:21:50+00:00,en,6,1,50,0,Twitter Web App,3_1459375788545871872,https://pbs.twimg.com/media/FEC-jC4VEAAW9FU.jpg,photo, ,suǝbbıɹɟ pıʌɐp,dakvid,False,556,464,"Wellington, New Zealand"
+1459371393183887361,"#30DayMapChallenge Day 13 - Natural Earth
+
+Timezones of Atlantic Canada
+A map made entirely with data from https://t.co/qf7wZcb5hN https://t.co/UaVLR8QDe0",21537132,2021-11-13 04:03:48+00:00,en,1,1,6,0,TweetDeck,3_1459371212069605382,https://pbs.twimg.com/media/FEC6YqLXEAYjImQ.jpg,photo, ,HalifaxShippingNews,HfxShippingNews,False,4879,1278,"Halifax, NS"
+1459370234129707011,#30DayMapChallenge day 12: Population. Population density in China by district.#ArcGISPro https://t.co/36AVCSsnzG,3536376796,2021-11-13 03:59:12+00:00,en,3,1,28,0,Twitter for iPhone,7_1459370161509523461,https://pbs.twimg.com/ext_tw_video_thumb/1459370161509523461/pu/img/xpBxwb3XnRmcAHHQ.jpg,video, ,Zihan Song,song_zihan,False,201,78,"Redlands, CA"
+1459368371322040323,"This was originally a map of the US Bison population but then I wondered how that matched up with places with Buffalo in the name. The answer is, like most things, ""eh, sort of."" Happy to argue with anyone about Buffalo vs Bison though (they're not the same!!!) #30DayMapChallenge https://t.co/eEXrdAob6r",14913762,2021-11-13 03:51:48+00:00,en,6,6,55,1,Twitter Web App,3_1459367724983934976,https://pbs.twimg.com/media/FEC3NrxWYAABXSo.jpg,photo, ,vicky johnson-dahl,hurricanevicky,False,1183,833,"Washington, DC"
+1459367547170701315,Day 12: Population: People vs. Cattle #30DayMapChallenge https://t.co/A0sIbI5S07,275677658,2021-11-13 03:48:31+00:00,en,16,2,97,2,Twitter Web App,3_1459367505860993026,https://pbs.twimg.com/media/FEC3A7eXoAIXl-M.jpg,photo, ,Keith Jenkins,kgjenkins,False,1324,201,Ithaca
+1459365021939642379,"#30DayMapChallenge
+Day 13 - Natural Earth
+
+Italy with shaded relief and water
+Database: Natural Earth
+By: Lucas de Morais Teixeira
+
+#QGIS #Europe #Relief #Italy #Ocean #NaturalEarth https://t.co/X7MP5JF9xF",1027773119208062982,2021-11-13 03:38:29+00:00,en,0,0,3,0,Twitter Web App,3_1459364299500097541,https://pbs.twimg.com/media/FEC0GS2XEAUv_PX.jpg,photo, ,Lucas Morais Teixeira,lucaobala_,False,56,263,"Maceió, Brasil"
+1459363971459285000,"For #30DayMapChallenge Day 06 (red) I tried to make a red rātā flower with all the Rata Streets. Not quite as fancy as I'd hoped, but interesting to try 😀
+#rstats code: https://t.co/AKuKd53fDg https://t.co/aBqdrBJzeO",33788841,2021-11-13 03:34:19+00:00,en,5,1,12,0,Twitter Web App,3_1459363841658130432,https://pbs.twimg.com/media/FECzrpQVEAA9001.jpg,photo, ,suǝbbıɹɟ pıʌɐp,dakvid,False,556,464,"Wellington, New Zealand"
+1459360013827325953,"Day #6: Red - 
+
+Cities in the United States with ""red"" associated names
+#30DayMapChallenge https://t.co/PRIUao6FTv",281310591,2021-11-13 03:18:35+00:00,en,1,1,6,0,Twitter Web App,3_1459359926653009927,https://pbs.twimg.com/media/FECwHwuXwAcdfz8.jpg,photo, ,Taylor Johnston,TF_Johnston,True,1734,3013,CLE ➡️ NYC
+1459356845349519360,"#30DayMapChallenge Day 13 Data challenge 2: Natural Earth. 
+
+Code: https://t.co/LJlUoIfuWk
+Tools: #rstats, {rnaturalearth}, {sf}, {tmap} https://t.co/T0g9Qds4yC",1331215289825030147,2021-11-13 03:06:00+00:00,en,3,0,16,0,Twitter Web App,3_1459356788118233089,https://pbs.twimg.com/media/FECtRExXoAEVACB.jpg,photo, ,leeolney,leeolney3,False,281,306, 
+1459354531221884939,"Día 7. Verde
+
+Pérdida de cobertura arbórea en la península de Yucatán, 2000-2020. No es precisamente verde, pero no puedo no visualizar este problema. La información la pueden encontrar aquí: https://t.co/wmMJwUC9WS
+
+#30DayMapChallenge https://t.co/2K9XZ8jpLp",3180922855,2021-11-13 02:56:48+00:00,es,4,0,14,0,Twitter Web App,3_1459347819584704519,https://pbs.twimg.com/media/FEClHCYWUAcZUNC.jpg,photo, ,Cris,crisalpuche,False,332,559, 
+1459352762773389314,"Here is my map for Day 12 (Population) of the #30DayMapChallenge. Used ward maps from @nypl and NYS Census data to show changes in population from 1703 to 1855. 
+
+Code: https://t.co/vngGftDGTL
+
+Full Image: https://t.co/EydSxHsMVY
+
+#rstats #dataviz #rspatial #tidyverse #ggplot2 https://t.co/NL5S0PPgDs",1386748474176286727,2021-11-13 02:49:46+00:00,en,6,2,21,0,Twitter Web App,3_1459352750060453889,https://pbs.twimg.com/media/FECpmB1XwAEfZZh.jpg,photo, ,Blake Robert Mills,BlakeRobMills,False,319,253,"New York, USA"
+1459349989671403520,"Today's #30DayMapChallenge prompt is population. 
+
+Here is most of the adult population of downtown Juneau and Douglas geocoded and sorted by gender. 
+
+All genders set to same color and not releasing the data/interactive bc ppl are creepy. https://t.co/NvfEEVVx7Q",2436168180,2021-11-13 02:38:45+00:00,en,1,3,19,1,Twitter for Android,3_1459349968473387010,https://pbs.twimg.com/media/FECnEHnVcAIykP_.jpg,photo, ,will muldoon,WillMuldoon,False,3122,3190,"Juneau, AK"
+1459348509442797570,"#30DayMapChallenge 
+Día 12: Población
+
+Fuente: Elaboración propia con datos del censo 2020 https://t.co/o4IX4dyEmx",1352456228455256068,2021-11-13 02:32:52+00:00,es,3,1,3,0,Twitter for Android,3_1459348504220819464,https://pbs.twimg.com/media/FEClu42UYAgjYoN.jpg,photo, ,Guaiacum,Guaiacumac,False,117,46,"Culiacán, Sinaloa"
+1459347212018892802,"#30daymapchallenge Day 12: Population
+Number of endemic amphibian populations listed as Critically Endangered, Extinct in the Wild or Extinct on the IUCN Red List if Threatened Species 2021 by country. 
+Interesting to see the distribution of this issue but still so so simplified! https://t.co/1T7ayBESIy",1117471915151626240,2021-11-13 02:27:43+00:00,en,1,0,3,0,Twitter for iPhone,3_1459346878315868161,https://pbs.twimg.com/media/FECkQP4XsAE_WKa.jpg,photo, ,Valeria Meraz,valeriamerazc,False,131,435,The Anthropocene
+1459344953709146115,"For #30DayMapChallenge Day 12 - Population: A dot-density map of native speakers of indigenous languages in Canada, made using data from the 2016 census. https://t.co/mwHsxdtp7a",4431048141,2021-11-13 02:18:44+00:00,en,2,3,12,0,Twitter Web App,3_1459343495248891912,https://pbs.twimg.com/media/FEChLU-WUAgYqcp.jpg,photo, ,Corwan Groux,CorwanGroux,False,74,165,Location Varies
+1459344733441077252,"#30DayMapChallenge
+Day 12: Population 
+Quick choropleth maps from QGIS highlighting population density in Washington State, in 1900 vs. 1990
+
+https://t.co/wDdPM8T9ev https://t.co/ay2ODOQVuO",32127911,2021-11-13 02:17:52+00:00,en,1,0,4,0,Twitter Web App,3_1459344552955977730,https://pbs.twimg.com/media/FECiI5PXoAIy4ta.jpg,photo, ,Z,Zaaaana_,False,408,349,TT
+1459341394569400327,"#30daymapchallenge 
+Day 5: Data Challenge 1: Open Street Map
+
+#Kolkata #India #OpenStreetMap #mapoftheday #AnecdotasDelDorada https://t.co/587V9JqR91",509087207,2021-11-13 02:04:36+00:00,en,1,0,5,0,Twitter for Android,3_1459341391046361089,https://pbs.twimg.com/media/FECfQ2NXwAEUFqZ.jpg,photo, ,Ihanelly,ihanelly_64,False,296,429, 
+1459338624823091200,"Una de las joyas que me encontré gracias a este #30DayMapChallenge es esta pagina que desarrolló @BojanSavric la cual te orienta para saber qué parámetros de proyección utilizar a la hora de cartografiar una determinada área.
+👇👇👇
+https://t.co/XxQjkofuKp https://t.co/dTElJE5yJe",1263997606759403520,2021-11-13 01:53:36+00:00,es,10,1,47,2,Twitter Web App,3_1459338293456343042,https://pbs.twimg.com/media/FECcciyXEAIlDwv.jpg,photo, ,Sebastián Estremo,S_Estremo,False,288,128, 
+1459338596821835780,"Day 11: 3D. First time trying out Blender. 30m SRTM from NASA with Sentinel-2 imagery overlaid. Rogers Pass, British Columbia, Canada. #30DayMapChallenge https://t.co/NgoVH1pPDr",198918596,2021-11-13 01:53:29+00:00,en,1,0,8,1,Twitter Web App,3_1459337691300970502,https://pbs.twimg.com/media/FECb5flVQAYH_vi.jpg,photo, ,Morgan Moe,MorganSMoe,False,400,163,Calgary AB
+1459335145429909510,"#30DayMapChallenge  13:  NATURAL EARTH
+Global Airport dataset from Natural Earth filtered to large US Airports
+#rspatial #rstats @markdonovan2020 https://t.co/Q1JCwNzGJD",3094607959,2021-11-13 01:39:46+00:00,en,2,0,3,0,Twitter Web App,3_1459335048298127363,https://pbs.twimg.com/media/FECZfpoWYAM0ojf.jpg,photo, ,donojazz,donojazz62220,False,15,225,USA
+1459331260522893319,"Caí un poco tarde pero acá va uno
+Day 12: Population
+Día 12: Población
+
+#30DayMapChallenge 
+Densidad poblacional en asentamientos informales de CABA.
+Si querés jugar con el mapa, acá el link.https://t.co/SwNJZc4mh6 https://t.co/gvfFOgHwIP",381890273,2021-11-13 01:24:20+00:00,es,1,0,2,0,Twitter Web App,3_1459331187386822662,https://pbs.twimg.com/media/FECV-6nXMAYgohE.png,photo, ,Sixto,sixtocristiani,False,838,1158, 
+1459324870358044673,"#30DayMapChallenge  Day 12 population
+I do hazard planning and research. Knowing who lives where is critical in our work. I thought it might be interesting to use the Columbia River basin as an extent for this effort. #GIS #Geography https://t.co/bVFAJbzoJr",898324652,2021-11-13 00:58:56+00:00,en,0,0,3,0,Twitter Web App,3_1459324800850034690,https://pbs.twimg.com/media/FECQLK6VgAIc3c9.jpg,photo, ,Lon Ottosen,LonOttosen,False,306,480,Eastern WA
+1459324681656451073,"#30DayMapChallenge Population
+In a switch from my forest cover map, here is NLCD developed land in Pennsylvania. With hillshade, it's clear that most population patterns really come to a halt as soon as the terrain isn't flat anymore (notable exception: Pittsburgh) https://t.co/7nAoLKQQAz",2911550919,2021-11-13 00:58:11+00:00,en,10,1,42,1,Twitter Web App,3_1459324508523962373,https://pbs.twimg.com/media/FECP6J6XoAUavZ4.jpg,photo, ,Philip Pierdomenico,PhilPierdo,False,409,291,"Philadelphia, PA"
+1459322042520588290,"Day 12: Population
+Día 12: Población
+
+#30DayMapChallenge 
+
+No me pude decidir mientras miraba el #DebateCiudadyVivienda así que hice 4 mapas sobre población infantil, adultos mayores, migrantes y pueblos originarios 🤓 https://t.co/twNB7NPmXs",2380934868,2021-11-13 00:47:42+00:00,es,1,1,9,0,Twitter Web App,3_1459321922303541252,https://pbs.twimg.com/media/FECNjnfXwAQb_a3.png,photo, ,Juanizio Correa 🌳,Juanizio_C,False,17511,6362,"Santiago, Chile"
+1459321577825259525,"#30DayMapChallenge Día 12 #Population
+
+Vuelvo a rescatar un mapa realizado durante la carrera junto a Javier Para.
+
+Mostrando la densidad de población por km² en los municipios de la provincia de Badajoz para el año 2012. https://t.co/tmXNKtMmPq",1156302488884121601,2021-11-13 00:45:51+00:00,es,1,1,3,0,Twitter for Android,3_1459321572167139332,https://pbs.twimg.com/media/FECNPPIWQAQycwA.jpg,photo, ,Pablo Otero,Pablo__Otero,False,99,486,Madrid
+1459317675369316352,"2021 (día 12): Population
+Zona central de Perú. Red de estructuras urbanas. Construimos el mapa en base a la información Landsat, Impervious Surface Percentage (GMIS) proporcionada por Socioeconomic Data and Applications Center
+
+#30DayMapChallenge #Peru #qGIS #Affinity https://t.co/4eqsqYghXQ",64875424,2021-11-13 00:30:21+00:00,es,1,0,7,0,Twitter for Mac,3_1459317643962368003,https://pbs.twimg.com/media/FECJqlbWQAMvXKc.jpg,photo, ,jose barreda,barredajose,False,152,92,Perú
+1459317029106855938,"Day 12: Population
+#30DayMapChallenge
+Population density. Chernihiv region. Ukraine
+Data: OpenStreetMap contributors, https://t.co/QTxI6tamcS https://t.co/0FHT7MeOll",14992557,2021-11-13 00:27:47+00:00,en,6,2,38,0,Twitter Web App,3_1459316721752461313,https://pbs.twimg.com/media/FECI057X0AE5XIU.jpg,photo, ,gontsa,gontsa,False,5142,1467,"Cherkasy, Ukraine"
+1459316497470394372,"#30DayMapChallenge 12 - Bivariate look at #cat population (est.) linked to human population, by postcode district, albeit using non-contemporaneous temporal data (I was digging pretty deep for data here!) via #QGIS &amp; #GIMP. (Unknown artist, thanks for the GIMP cat brush👍) https://t.co/nq5gzJOAno",2224550306,2021-11-13 00:25:40+00:00,en,0,0,4,0,Twitter Web App,3_1459315515747409921,https://pbs.twimg.com/media/FECHutNXIAEKXNa.jpg,photo, ,MonkeyOnTheMountainⓋ,Monk_Po,False,412,610,Rainbow Unicorn Mountain-SWUK
+1459314371893477383,"The topic for day 12 of #30DayMapChallenge is ""Population"". This dot-density map of the Central Vancouver Peninsula in 2016 when the area reached a population of ~1M, contrasts a 1931 Bartholomew map forecasting a population of 1M by 1960. Details: https://t.co/1IC9RMusgH https://t.co/uLwwdEu6x5",2251009748,2021-11-13 00:17:13+00:00,en,1,1,6,0,Twitter Web App,3_1459313150856032263,https://pbs.twimg.com/media/FECFlDTUcAcvaL1.jpg,photo, ,Jens von Bergmann,vb_jens,False,8203,1011,Vancouver

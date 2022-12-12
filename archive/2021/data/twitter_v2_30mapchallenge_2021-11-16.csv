@@ -1,0 +1,829 @@
+tweet_id,text,author_id,created_at,lang,retweet_count,reply_count,like_count,quote_count,source,media_key,media_url,media_type,media_view,user_name,user_username,user_verified,user_followers_count,user_following_count,user_location
+1460757120815620101,"#30DayMapChallenge Day 16: Urban/Rural
+
+A first experiment using #mapdeck, an R wrapper for https://t.co/QkFzY9ZBlF and Mapbox, to create an interactive web map of a thoroughly urban chunk of Barcelona
+
+https://t.co/b3lHz9ShC2 https://t.co/p5FrL6a47d",759988092,2021-11-16 23:50:11+00:00,en,14,1,110,2,Twitter Web App,3_1460755629094617088,https://pbs.twimg.com/media/FEWlgVfWQAAuzNW.jpg,photo, ,Matthew Law,Iawmatthew,False,204,89, 
+1460753217420206081,"#30DayMapChallenge Day 16 - Urban/Rural
+Made a Rural/Urban interface for Beiras e Serra da Estrela (NUTSIII) in Portugal using @DGTerritorio's COS2018. 
+Managed to highlight the most important cities of this low population density region of Portugal.
+#QGIS https://t.co/oj6B2CTlI1",180939408,2021-11-16 23:34:41+00:00,en,1,0,7,0,Twitter Web App,3_1460753181852540930,https://pbs.twimg.com/media/FEWjR4zXoAII-e4.jpg,photo, ,torts,tgsousa_,False,1010,1150, 
+1460747528752803842,"Day 16 - Urban/Rural  #30DayMapChallenge 
+The Netherlands has a very interesting resource for spatial open data (thankfully to @hansakwast) #OpenData: @statistiekcbs {cbsodataR}
+I looked at the number of schools nearby the urban area.
+@R4DScommunity #RStats #maps #Infographics https://t.co/MbXh5UmB1I",285509027,2021-11-16 23:12:04+00:00,en,0,1,4,0,Twitter Web App,3_1460746929080524803,https://pbs.twimg.com/media/FEWdl7aWYAM8Acd.jpg,photo, ,Federica Gazzelloni®,FGazzelloni,False,2257,4415,World
+1460745322347515904,"#30DayMapChallenge 2021 Day 6: Red
+
+Area affected by wildfires, Chile 2017 ft. @cvgiraldo 🌻
+
+Using data from @CedeusChile and @pachadotdev {chilemapas}
+
+Still learning how to deal with {sf}, thanks to @sporella and @richard_vogg for sharing their code, I learnt a lot! https://t.co/pvhiyp69km",250129147,2021-11-16 23:03:18+00:00,en,3,5,11,0,Twitter Web App,3_1460743282909237253,https://pbs.twimg.com/media/FEWaRsXX0AUqmPJ.jpg,photo, ,Sara Acevedo,saryace,False,289,241,"Santiago, Chile"
+1460742058004652037,"#30DayMapChallenge day 16 urban/rural: concentrazione e dispersione nel consumo del suolo, Italia - prevalenza degli indici, fonte: ISPRA https://t.co/6emaAIQCxO",13181232,2021-11-16 22:50:20+00:00,it,5,0,15,0,Twitter Web App,3_1460740358413991943,https://pbs.twimg.com/media/FEWXndxXwAcLcR9.jpg,photo, ,Guenter Richter,grichter,False,209,93,rendilo.fori.oggetti
+1460740676740694017,"#30DayMapChallenge – Day 1
+Global heating demand per capita HDpc for the residential sector. HDpc classes come from spatially-resolved unsupervised machine learning k-means.
+Code to be shared soon😅
+#R #raster #rasterVis #rgdal #sp #latticeExtra
+#dataviz #RStats #ggplot2 #r4ds https://t.co/mmfiADeKmu",951851591761563648,2021-11-16 22:44:51+00:00,en,3,2,8,1,Twitter Web App,3_1460739789234360322,https://pbs.twimg.com/media/FEWXGVaX0AIH6-2.jpg,photo, ,Diego Moya,dmoyaec,False,1640,1661, 
+1460739990858698758,"#30DayMapChallenge
+Day 16 - Urban/Rural
+
+TIL there is a town called Cologne in Minnesota, USA.
+Cologne, MN was founded by German settlers and named after Cologne, Germany (Köln).
+
+Created with #rstats and {ggplot2} https://t.co/M3ROoBpTjT",1139059532,2021-11-16 22:42:07+00:00,en,3,4,12,0,Twitter Web App,3_1460739978703642628,https://pbs.twimg.com/media/FEWXRXPXoAQasPf.jpg,photo, ,Ansgar Wolsing,_ansgar,False,380,1021,"Köln, Deutschland"
+1460738972146184202,A day late for Day 15 of the #30DayMapChallenge but I made a map of Colorado with my whiteboard eraser. Definitely shaped different than Wyoming 💀. Even added in the Rocky Mountains in the middle https://t.co/1qjWY7hs15,2719547953,2021-11-16 22:38:04+00:00,en,1,2,7,0,Twitter Web App,3_1460738876763475973,https://pbs.twimg.com/media/FEWWROMXEAUwNzU.jpg,photo, ,Jesse Pisel,geologyjesse,False,653,329, 
+1460738366148808704,"#30DayMapChallenge Day 16: Urban/ rural. 
+With the time change, rural become urban.
+
+made with the tool https://t.co/sngxoYaHoU
+ share by @giswqs https://t.co/uSsWcDSdE5",41500240,2021-11-16 22:35:40+00:00,en,4,0,6,0,Twitter Web App,16_1460738240861057025,https://pbs.twimg.com/tweet_video_thumb/FEWVsNRaMAEXETK.jpg,animated_gif, ,yunjinzh,yunjinzh,False,117,861, 
+1460737841646891010,#30DayMapChallenge Day15 map made without using a computer. Father and Daughter treasure map https://t.co/lCZAHZricx,563607513,2021-11-16 22:33:35+00:00,en,1,1,7,0,Twitter Web App,3_1460737829982539779,https://pbs.twimg.com/media/FEWVUSoVkAMx-5y.jpg,photo, ,Malcolm Campbell,CampbellMH,False,663,2151,"Christchurch, NZ"
+1460736682517573636,"#30DayMapChallenge 
+Día 16. Conoce la distribución de la población rural y urbana por municipio. https://t.co/VSylbh0nxS",2239825712,2021-11-16 22:28:58+00:00,es,3,0,8,0,Twitter Web App,3_1460736535360274432,https://pbs.twimg.com/media/FEWUI7yVgAACj64.jpg,photo, ,IIEG Jalisco,IIEGJ,False,5475,0,"Jalisco, México"
+1460735953736187911,"#30DayMapChallenge #day16 - urban/rural
+
+I mapped settlement density and urban/rural classification in Rwanda. Not convinced this map works, and including different rural classes as well just created visual chaos... but embracing the opportunity to try things that may not work https://t.co/z6SBeoLR7K",925570614,2021-11-16 22:26:05+00:00,en,4,0,19,0,Twitter Web App,3_1460735793106931717,https://pbs.twimg.com/media/FEWTdurWUAUb1aq.jpg,photo, ,Heather Chamberlain,HeatherCh100,False,601,929, 
+1460732661446627328,"#30DayMapChallenge 
+
+Localidades rurales vs localidades urbanas en México según @INEGI_INFORMA 
+
+#Day16 #Urban #Rural https://t.co/LoC9HgNSyY",790584781771722753,2021-11-16 22:13:00+00:00,es,6,0,22,0,Twitter Web App,3_1457154891873497094,https://pbs.twimg.com/media/FDjap2DXsAY8hjT.jpg,photo, ,Roberto Aguilar Celis,geogracelis,False,334,430,Ciudad de México
+1460731415872614402,"Another entry to #30DayMapChallenge day 14, new tool. Connecting QGIS to a docker container running osm2pgsql and postgres/postgis. Energy generators in Scotland... now just need to remind myself how to do HSTORE queries in postgres to just get wind turbines 🤔 https://t.co/1vexot2Ldp",363276700,2021-11-16 22:08:03+00:00,en,2,3,11,0,Twitter Web App,3_1460731173546692617,https://pbs.twimg.com/media/FEWPQ1eXEAk3nWM.png,photo, ,Steven Kay,stevefaeembra,False,1257,424,Edinburgh
+1460729576913522695,"#30DayMapChallenge Day 16: Urban/ rural. Today's map looks at the intersection density of all `highway` elements from OSM data in the Leuven area.
+#rspatial #RStats https://t.co/Xj87rpRUeo",1222519447165886465,2021-11-16 22:00:44+00:00,en,2,1,7,0,Twitter Web App,3_1460729496177360902,https://pbs.twimg.com/media/FEWNvMyWQAYirCu.png,photo, ,Anirudh,_anirudhgovind,False,312,1500, 
+1460729389906341891,"#30DayMapChallenge 2021 16 - urban/rural
+A re-post, but fits the theme for the day well.  Urban growth of Amsterdam, @INSPIRE_EU @Het_Kadaster building age data overlaid on LiDAR height data (from https://t.co/Sm0VEFGe5U).  Rendered in #rayshader #rstats h/t @dr_xeo https://t.co/tORrHJZ4Xh",299559781,2021-11-16 22:00:00+00:00,en,19,1,81,0,Twitter Web App,7_1460729269852774408,https://pbs.twimg.com/ext_tw_video_thumb/1460729269852774408/pu/img/Qukosf3SVXS57ugB.jpg,video, ,Neil Southall,neilcfd1,False,455,298,Ireland
+1460727512082882568,"Day 16 - Urban\rural
+This simple map shows which population type prevails in each raion (new admin divisions).
+You may say that numbers are for 2001 and heavily outdated. That's true but that's best what we have.
+So Ukraine definitely needs a census
+#30DayMapChallenge https://t.co/wAnzvJPZlH",14196303,2021-11-16 21:52:32+00:00,en,2,0,6,0,Twitter Web App,3_1460727427265708035,https://pbs.twimg.com/media/FEWL2xfXwAMvlRg.jpg,photo, ,yaroslav_sm,jaroslav_sm,False,158,96,Чернівці
+1460724671972790277,#30daymapchallenge day#16 - Urban/rural - Australia showing urban areas in yellow #GIS #Australia #urbanareas https://t.co/GNZJj2C17T,179094335,2021-11-16 21:41:15+00:00,en,1,0,3,0,Twitter for Android,3_1460724668160258052,https://pbs.twimg.com/media/FEWJWLBXsAQMXNd.jpg,photo, ,sarah☻,sarah_wilson7,False,143,346,"Dublin City, Ireland"
+1460724663789793286,#30DayMapChallenge - 16 Natural England #OpenData Provisional Agricultural Land Classification showing the mix of land types in SW England. #Map via #QGIS then through #GIMP to give it a kinda 1980's faded #geography #atlas textbook kinda look. https://t.co/6O9MflUMTt,2224550306,2021-11-16 21:41:13+00:00,en,1,1,6,0,Twitter Web App,3_1460724418477449223,https://pbs.twimg.com/media/FEWJHo4WYAcF3Xj.jpg,photo, ,MonkeyOnTheMountainⓋ,Monk_Po,False,412,610,Rainbow Unicorn Mountain-SWUK
+1460723307859386381,"Super late today!
+
+#30DayMapChallenge - Day 16 - Urban/Rural.
+
+We mapped both. Start with a map of Amsterdam (around 1914) and you can see rural areas decrease and urban areas increase. We used DSM from @PDOK_online to highlight buildings growth. https://t.co/0Y7XWX4p0g",1316116835327148035,2021-11-16 21:35:50+00:00,en,4,1,26,0,Twitter Web App,7_1460721884392312838,https://pbs.twimg.com/ext_tw_video_thumb/1460721884392312838/pu/img/Nh7rgjmtNgIndDEF.jpg,video, ,VizArt,hellovizart,False,1014,204, 
+1460722332012535816,"🌎Urban areas by census units #EC 
+Urban sectors classified by source (i.e. orthoimage, google maps, etc), all the rest is rurality. 🏙️ https://t.co/oFYHOYMVgV 
+@unfoldedinc #30DayMapChallenge #INEC https://t.co/LGWSCIAP6w",1679103806,2021-11-16 21:31:57+00:00,en,1,0,0,0,Twitter Web App,3_1460722216623124487,https://pbs.twimg.com/media/FEWHHeVXsAc-_cJ.jpg,photo, ,Bryan R. Vallejo,BryanRVallejo,False,165,253,"Helsinki, Finland"
+1460722237728768010,"#30DayMapChallenge day 16. more than half way done! today's prompt is urban/rural, so I grabbed USDA rural-urban continuum codes: https://t.co/9o7BMCBeRJ and made a choropleth: https://t.co/SUxKKXcjuF https://t.co/1T0m2yf3Av",17847384,2021-11-16 21:31:35+00:00,en,1,0,6,0,Twitter Web App,3_1460722003539857411,https://pbs.twimg.com/media/FEWG7EiXEAMS8l_.jpg,photo, ,Jill Hubley,Jill_hubley,False,1559,1345,NYC
+1460721841547350017,"Día 16: #Urban. Entérate cuales son los comercios que predominan al interior de cada barrio de Buenos Aires 🇦🇷.
+https://t.co/zuUPnJEsd2
+#30DayMapChallenge #Map #GIS #Carto #datosabiertos #Argentina https://t.co/RIIbq7dyzW",3081831303,2021-11-16 21:30:00+00:00,es,0,0,4,0,TweetDeck,3_1460712613831131142,https://pbs.twimg.com/media/FEV-YhJWQAYrQzj.jpg,photo, ,Properati Data,Properati_Data,False,1223,564, 
+1460720897132843012,"#30DayMapChallenge - Day 16: ""Urban/rural""
+Swiss agglomerations. Data: @StatSchweiz https://t.co/lrr8HDmH8o",336517784,2021-11-16 21:26:15+00:00,en,2,0,1,0,Twitter Web App,3_1460720570182610948,https://pbs.twimg.com/media/FEWFno3XMAQn1_i.jpg,photo, ,Luca Dall'Acqua,luca_northsouth,False,175,523,"Lucerna, Svizzera"
+1460720317752655874,"#30DayMapChallenge Day 16: Urban/Rural - I focused on the urban side, looking at building height in London. Created in #RStats https://t.co/7Z6Mgl04G3",46426450,2021-11-16 21:23:57+00:00,en,2,1,8,0,Twitter Web App,3_1460720237725237258,https://pbs.twimg.com/media/FEWFUSXWQAojFjb.jpg,photo, ,Joshua Copping,JoshCopping,False,242,194,United Kingdom
+1460716100761571331,"#30DayMapChallenge 
+Day 16: Urban/Rural
+
+A proxy of urbanity with distance to the nearest hospital in 🇪🇨
+Recycled some code from day 4 and day 10 for this one, and used {osmextract} by @a_gilardi5 
+
+Created in #RStats
+
+Code: https://t.co/vQnnJ4li9v https://t.co/cPX9NoSiFH",233748559,2021-11-16 21:07:11+00:00,en,6,0,21,0,Twitter Web App,3_1460715835320901636,https://pbs.twimg.com/media/FEWBUCIXIAQ8xrw.jpg,photo, ,Lorena Abad,loreabad6,False,1247,927,"Salzburg, Austria"
+1460714259567026180,"#30DayMapChallenge Day 16 : Urban
+
+Inspiration from @ONSgeography for this one. 
+
+England and Wales Rural / Urban areas.
+
+81.9% of the population live in Urban areas... that's a lot of land left for hiking.
+
+Code: https://t.co/zc0LuC9n2A…
+
+#RStats #Dataviz https://t.co/R8KzjrfHtq",1241476312222642179,2021-11-16 20:59:52+00:00,en,2,0,5,0,Twitter Web App,3_1460714235797946373,https://pbs.twimg.com/media/FEV_27cXwAUJ3ot.jpg,photo, ,Near and Distant,NearandDistant,False,123,383, 
+1460711810684887045,"Día 14: #MapWithANewTool. Utilizamos la herramienta de #Mapbox Story Map para ir por los puntos más atractivos para vivir si eres estudiante. 
+https://t.co/oUo8ymchDx
+
+#30DayMapChallenge #Map #GIS #builtiwthmapbox #datosabiertos #Colombia #Bogotá https://t.co/YVdErAuir4",3081831303,2021-11-16 20:50:09+00:00,es,0,0,3,0,TweetDeck,3_1460711741508268037,https://pbs.twimg.com/media/FEV9lvfXsAU-9yH.jpg,photo, ,Properati Data,Properati_Data,False,1223,564, 
+1460710032169971713,"#30DayMapChallenge Day 16: Urban - Rural.
+After two years here, it still amazes me how dense this country is compared to my homeland. The second map is a colour-blind friendlier version.
+Data: GHS-SMOD
+#QGIS https://t.co/AVPfa6Ye3z",69918773,2021-11-16 20:43:05+00:00,en,3,0,9,0,Twitter Web App,3_1460708250454745088,https://pbs.twimg.com/media/FEV6aiTWYAA1wom.jpg,photo, ,Gerard M. Porras 🗺️🏃🏽,Gerardathletics,False,889,1393,Utrecht
+1460709740779130889,"Day 16: Urban
+
+Riyadh City, using ArcGisPro
+
+ #30DayMapChallenge https://t.co/VofMFh0Av9",1454894840,2021-11-16 20:41:55+00:00,en,8,0,21,0,Twitter for iPhone,3_1460709721334243330,https://pbs.twimg.com/media/FEV7wJwWYAIBzNm.jpg,photo, ,Noura | نـوره,nourabw95,False,214,145,مكة المكرمة
+1460709105379819521,"Day 16: Urban / Rural
+Día 16: Urbano / Rural
+
+#30DayMapChallenge 
+
+Los geógrafos tenemos claro que definir el límite entre lo urbano y lo rural es una bolsa de gatos teórica, asi que les dejo este mapa con los usos de suelo del Gran Valpito con datos de @conaf_minagri ❤️ https://t.co/BgfP0Vaf02",2380934868,2021-11-16 20:39:24+00:00,es,1,2,5,0,Twitter Web App,3_1460709083292614658,https://pbs.twimg.com/media/FEV7LA3XwAIm7-X.png,photo, ,Juanizio Correa 🌳,Juanizio_C,False,17511,6362,"Santiago, Chile"
+1460708710272192516,"Slight tweak... #30DayMapChallenge Day 16 Urban/Rural
+
+Thought the jitter plot might be better in this situation... https://t.co/DiwxbUBsxi",910889225448439808,2021-11-16 20:37:49+00:00,en,1,0,1,0,Twitter Web App,3_1460708437717884937,https://pbs.twimg.com/media/FEV6lb6XIAkCcpG.jpg,photo, ,Dennis Kao,professorkao,False,466,719, 
+1460707936754413568,"Day 14: new tool
+Día 14: nueva herramienta
+
+#30DayMapChallenge 
+
+Esta es una joyita desarrollada por el @CPE_UDLA el índice de la ciudad de los 15 minutos, donde aplicamos una cachá de nuevas herramientas como el PCA, Mahalanobis y Geodas https://t.co/4JE3PmWJsM",2380934868,2021-11-16 20:34:45+00:00,es,1,4,9,0,Twitter Web App,3_1460707862678757384,https://pbs.twimg.com/media/FEV6D9uWYAg6Mz5.png,photo, ,Juanizio Correa 🌳,Juanizio_C,False,17511,6362,"Santiago, Chile"
+1460707924570001408,"Day 13: Natural earth
+Día 13: Natural
+
+#30DayMapChallenge 
+
+Este va con cariño para el gran @estebanarasi y para todos quienes luchan por la protección y conservación de los humedales en nuestro país! https://t.co/whEKRqHq4D",2380934868,2021-11-16 20:34:42+00:00,es,2,2,4,0,Twitter Web App,3_1460707196350746628,https://pbs.twimg.com/media/FEV5dLdX0AQQ3n3.png,photo, ,Juanizio Correa 🌳,Juanizio_C,False,17511,6362,"Santiago, Chile"
+1460707006193586176,"Day 16 of #30DayMapChallenge
+The #urban area of a small town in Austria and the #rural mountains in the background. Made with #Aerialod https://t.co/BT0Zp7dG7c",143859326,2021-11-16 20:31:03+00:00,en,6,2,60,1,Twitter Web App,3_1460706947402027020,https://pbs.twimg.com/media/FEV5OsDX0Aw6egm.jpg,photo, ,Nelson Schäfer,nello394,False,269,386,"Munich, Germany"
+1460704985562370048,"#30DayMapChallenge Day 12: Urban/Rural.
+Blender render with nightlight data from NASA Black Marble. #Blender3D  #b3d https://t.co/vfyihZe1Ey",1274785600466550785,2021-11-16 20:23:01+00:00,en,11,2,122,1,Twitter Web App,3_1460704120638218245,https://pbs.twimg.com/media/FEV2qJiXIAUGWc-.jpg,photo, ,spatial_occasions,spatialoccasio1,False,455,104,"Stockholm, Sweden"
+1460703958184431623,"Day 9 - Monochrome: The Moon 🌜
+
+Featuring data from:
+✔️https://t.co/xVc7bSeHvj
+
+✔️https://t.co/ixep8lw9l9
+
+#30DayMapChallenge https://t.co/sisMNoFggH",912708187077398529,2021-11-16 20:18:56+00:00,en,3,1,5,0,Twitter Web App,3_1460702178658635778,https://pbs.twimg.com/media/FEV05HGWUAIkTiD.jpg,photo, ,Tommy 🗺️,CartoRedux,False,692,265,"New York, NY"
+1460703824201621508,"#30DayMapChallenge | Day 16 | #urban #rural
+
+Urban-rural catchment areas in 2021 for #europe. 
+Data from the @FAO - really interesting patterns! Just look how #London and #Paris stand out 🤓
+
+#RStats  #rspatial #rayshader https://t.co/cbV56boyFN",1307060010669793280,2021-11-16 20:18:24+00:00,en,2,0,8,0,Twitter Web App,3_1460703785584627715,https://pbs.twimg.com/media/FEV2WpXXEAMK0ht.jpg,photo, ,Marco Sciaini,shinysci,False,293,773,Freiburg im Breisgau
+1460702213651714049,"#30DayMapChallenge Día 16 #UrbanRural
+
+Mapa de Red de Asentamientos en el ámbito de Torrelaguna, Talamanca del Jarama, El Vellón, Patones, Torremocha del Jarama y Valdepiélagos. https://t.co/pS9KVSKlA1",1156302488884121601,2021-11-16 20:12:00+00:00,es,1,1,2,0,Twitter for Android,3_1460702204818567172,https://pbs.twimg.com/media/FEV06ojXMAQkW-w.jpg,photo, ,Pablo Otero,Pablo__Otero,False,99,486,Madrid
+1460699714588975115,"#30DayMapChallenge 16. diena, urbanizācija.  Paldies @dodieslv https://t.co/wDSOnPnvDN",461965493,2021-11-16 20:02:05+00:00,lv,2,0,8,0,Twitter Web App,16_1460699289605263365,https://pbs.twimg.com/tweet_video_thumb/FEVyQ8iWUAUjUj2.jpg,animated_gif, ,Kristīne,kriksine,False,488,402, 
+1460699302993477637,"Jour 16 du #30DayMapChallenge : Urbain / Rural
+
+J'ai tenté de représenter la dualité espace urbain / espace rural avec la vitesse moyenne sur les routes sarthoises.
+
+Réalisée avec #QGIS https://t.co/fwdRDfaTnG",1311399091,2021-11-16 20:00:26+00:00,fr,6,3,24,0,Twitter Web App,3_1460699188342231042,https://pbs.twimg.com/media/FEVyLDTXEAIfSUL.jpg,photo, ,Lubin Picard,Lubin_Picard,False,344,198, 
+1460698734782820372,Day 16 of #30DayMapChallenge: urban rural https://t.co/NnZM5jJSxx,26062194,2021-11-16 19:58:11+00:00,en,1,1,6,1,Twitter Web App,3_1460698558638743552,https://pbs.twimg.com/media/FEVxmZeWYAApPbK.png,photo, ,Patrick Mast,patrick_mast,False,59,137,"Hamburg, Germany"
+1460697890079318022,"#30DayMapChallenge day 16: urban/rural - urban regions in the EU and their share of the total population.
+I’ve merged the population for some adjacent areas, not sure if this is a good idea (or if some regions prefer not to be merged?). https://t.co/Pcw9i3TOle",3302833893,2021-11-16 19:54:50+00:00,en,1,0,8,0,Twitter Web App,3_1460697393582727174,https://pbs.twimg.com/media/FEVwilTWYAYZS7w.jpg,photo, ,Flooh Perlot,drawingdata,False,1446,166,"Vienna, Austria"
+1460697085888667653,"Day 16: Urban/rural
+Urban and rural area. Kyiv region, Ukraine
+#30DayMapChallenge
+Data: OpenStreetMap contributors. https://t.co/8qRHf6sxVm",14992557,2021-11-16 19:51:38+00:00,ro,9,0,77,4,Twitter Web App,3_1460696419526975488,https://pbs.twimg.com/media/FEVvp4qXIAAB6iK.jpg,photo, ,gontsa,gontsa,False,5142,1467,"Cherkasy, Ukraine"
+1460695667752329216,"Day 16: Urban_Rural | #30DayMapChallenge 
+Markets in Mexico City and their urban-rural dynamics. This map was published in master degree thesis project of my friend @A78916024. https://t.co/qSUOkRvPKY",1263997606759403520,2021-11-16 19:46:00+00:00,en,1,0,7,0,Twitter Web App,3_1460695534377836545,https://pbs.twimg.com/media/FEVu2XOXIAE2rgO.jpg,photo, ,Sebastián Estremo,S_Estremo,False,288,128, 
+1460693502979891201,"#30DayMapChallenge - Day 16: Urban/rural.
+In the city of Zittau/Germany, a ""green ring"" of parks and lawns still marks the course of the former city wall, which was almost completely demolished in 1869.
+Tools: QGIS + Inkscape https://t.co/i8WRHkRTKP",2593554955,2021-11-16 19:37:24+00:00,en,4,0,13,0,TweetDeck,3_1460693414920564739,https://pbs.twimg.com/media/FEVs6_oXsAMQJUv.jpg,photo, ,Kapazitätsdiode,varaktor,False,62,197, 
+1460690456753455109,"#30DayMapChallenge
+Day 16: Urban / rural
+#Bremen und umzu https://t.co/CsH0dzA53k",91548216,2021-11-16 19:25:17+00:00,de,1,0,2,0,Twitter Web App,3_1460690068792881152,https://pbs.twimg.com/media/FEVp4OVXMAAFa9J.jpg,photo, ,Cord Niehaus,Cordster76,False,89,606,"Bremen, Germany"
+1460690397735305221,"#30DayMapChallenge day 15, mitose ou volcanisme, allez savoir https://t.co/SRt2QIf894",1189967197730430977,2021-11-16 19:25:03+00:00,fr,2,0,16,0,Twitter for Android,3_1460690386117181443,https://pbs.twimg.com/media/FEVqKsdXwAMDY9w.jpg,photo, ,Julien Dupont Kobri,Kartokobri,False,880,387, 
+1460690182030643201,Ok belatedly therefore quick and easy. #30daymapchallenge - day 11 a 3d map of the globe. I used the #rstats package globe. https://t.co/UJvIHAQF4Z,3331095159,2021-11-16 19:24:12+00:00,en,4,0,3,0,Twitter Web App,3_1460690109431435266,https://pbs.twimg.com/media/FEVp6luWUAIyHgi.png,photo, ,Jan-Philipp Kolb,JanPhilippKolb,False,207,569,"Mannheim, Baden-Württemberg"
+1460689840018710530,"#30DayMapChallenge Day 16. Urban/rural
+
+It was in Perote 2006 when I excavated my first mammoth, but it was in el Mirador, Singuilucan 2007 when I enjoyed it the most. This map was created in ArcMap 8, I am recycling a map because today I did not have time to create a new one. https://t.co/Dt5lKdpWvO",23676785,2021-11-16 19:22:50+00:00,en,1,1,2,0,Twitter Web App,3_1460687099930238988,https://pbs.twimg.com/media/FEVnLadWYAwiO3W.jpg,photo, ,(っ◔◡◔)っ ★,ishiba,False,634,741,"↲, cerca de Slumil K’ajxemk’op"
+1460689199305314310,"#Urban/rural
+Do you recognize this place? ;)
+
+Map: @GMapsPlatform Vector Map with tilt, and cloud-based Map Styling
+
+#30DayMapChallenge https://t.co/xf6TiQLqSq",1024961639194550273,2021-11-16 19:20:18+00:00,en,0,5,9,1,Twitter Web App,3_1460689141725900810,https://pbs.twimg.com/media/FEVpCQvXsAoEy22.jpg,photo, ,Binicodes,binicodes,False,203,369,"Hamburg, Deutschland"
+1460688359333023748,"Day 16 of #30DayMapChallenge - Urban/Rural.
+Using data from the Humanitarian Data Exchange platform. A view of the cities in Kenya using roads and buildings data available publicly.
+Tools: @qgis 
+Data source: Humanitarian Data exchange
+https://t.co/u6CB6e2b7z https://t.co/a9nMY5jKRF",2163188711,2021-11-16 19:16:57+00:00,en,4,0,7,0,Twitter Web App,3_1460688062304993282,https://pbs.twimg.com/media/FEVoDblXwAIZ9xH.jpg,photo, ,tYsOn,tyson_okoth,False,766,658, 
+1460684851011407873,Abbottsford #BC #Canada before and after the atmospheric river flooding - flooded image taken 2021-11-16 14:20:21 UTC (5 hours ago!). Via Sentinel-1 (synthetic aperture radar). Via @sentinel_hub for #30DayMapChallenge https://t.co/Mi3kFp4sOQ,910623276778405888,2021-11-16 19:03:01+00:00,en,100,7,210,18,Twitter Web App,16_1460684573671493636,https://pbs.twimg.com/tweet_video_thumb/FEVk4XaVEAQAUmJ.jpg,animated_gif, ,AI6YR,ai6yrham,False,29374,1611,DM04
+1460683061461499911,"This weeks schedule!
+~Skylar 
+#100DaysOfCode #earthquake #CodeNewbie #30DayMapChallenge #EmmaRose #Countdown #DEVCommunity #Crypto #100xgem #taekook #AAVE #IndonesiaMasters2021 #OleOutNow #OurJAEYUNiverseDay #javascript #HotTrendingSongs #에스파가_광야로_간지_벌써_1주년 https://t.co/xm3oZ0ATor",1361011039186345988,2021-11-16 18:55:54+00:00,en,1,0,3,0,Twitter for iPhone,3_1460683058244464641,https://pbs.twimg.com/media/FEVjgKAXsAECi_R.jpg,photo, ,TheMedicaZone,TMedicazone,False,28,50, 
+1460680730426724353,"#30_ימי_מיפוי
+וביום ה16 - מודל לבחינת ההבדל בין עיר וכפר במטרופולין חיפה, על בסיס חיבור בין מקטעים של רשת הדרכים. במחשבה שנייה - זה מאפשר הבחנה בין אזורים ולא בתוך אזורים, המדד שבחרתי לא 100% מדויק
+#30DayMapChallenge https://t.co/dYsuppnl4R",2227560465,2021-11-16 18:46:38+00:00,iw,1,1,2,0,Twitter Web App,7_1460680390184775680,https://pbs.twimg.com/ext_tw_video_thumb/1460680390184775680/pu/img/LPqZn01M2Qvnrk_F.jpg,video, ,Ido Klein עדו קליין,idoklein1,False,1170,829,"Jerusalem, Israel"
+1460680416814407685,Mapping just some of the weird and wonderful urban legends of Bristol for day 16 of the #30DayMapChallenge https://t.co/70gRtzOF7B,1114069920092966912,2021-11-16 18:45:24+00:00,en,3,0,12,0,Twitter Web App,3_1460679901443461122,https://pbs.twimg.com/media/FEVgoaAXEAIFPav.jpg,photo, ,Kate,KateEllen100,False,157,311, 
+1460679879914045447,"It's not me but I liked the pic and thought: the night before a day off is more satisfying than the actual day off…why is that?!
+
+#kaipaynter
+#actress #30DaysOf90sSongs #5amwritersclub #30DayMapChallenge #6YearsOfPurpose #11Novembre https://t.co/sHcDTDwDnq",1261187945995702278,2021-11-16 18:43:16+00:00,en,0,0,0,0,Twitter for Android,3_1460679874906136576,https://pbs.twimg.com/media/FEVgm3JXoAACK3i.jpg,photo, ,Kai Paynter,kai_paynter,False,13,5, 
+1460679513780727810,Day 16 #30DayMapChallenge - Urban/Rural. Doing some #openstreetmap mapping in rural areas of Jutland in Denmark - adding surface tags https://t.co/whjjr0yWSv,37453678,2021-11-16 18:41:48+00:00,en,1,0,2,0,Twitter Web App,3_1460679219751620623,https://pbs.twimg.com/media/FEVgAugXEA8TPvD.jpg,photo, ,Søren Johannessen,neogeografen,False,1571,1349,"Copenhagen, Denmark"
+1460677774805512206,"#30DayMapChallenge Rural/urbain. La définition de ces deux concepts me paraissant délicate, j'ai axé(très humblement) la carto sur l'artificialisation des sols aux alentours de Paris. Données #CorineLandCover 2018 et Mode d'Occupation des Sols 2017 de l'@linstitutPR
+ pour l'IDF. https://t.co/V9wIferQlq",195802419,2021-11-16 18:34:54+00:00,fr,40,5,152,5,Twitter Web App,3_1460677608241303558,https://pbs.twimg.com/media/FEVei7KXEAYSRT6.jpg,photo, ,Menileda,Menileda,False,72,232,IDF
+1460675786550042630,"#30DayMapChallenge · Urban/Rural
+
+Map showing urban areas in Europe.
+
+#Rstats code: https://t.co/wtpyMl8i2j https://t.co/DLL73kEw4M",1117096616492662786,2021-11-16 18:27:00+00:00,en,5,2,13,0,Twitter Web App,3_1460659280189829122,https://pbs.twimg.com/media/FEVN4F2XsAIzY3B.jpg,photo, ,Thom-Ivar van Dijk,ThomIvar,False,2453,202, 
+1460675763380883458,"For URBAN/RURAL #30DayMapChallenge I'm looking at food growing and farming sites across London, bringing a bit of the rural into the urban, I guess. Maybe one for you @j_wils? 
+
+I suspect the data for Westminster &amp; H&amp;F is incomplete... https://t.co/lAXuUCciJD",900161125,2021-11-16 18:26:54+00:00,en,2,3,7,1,Twitter Web App,3_1460675752517644298,https://pbs.twimg.com/media/FEVc26DXMAoIEy8.jpg,photo, ,amanda,acrobins,False,214,238,London via Edmonton & Calgary
+1460675721689550852,"Day 16 #30DayMapChallenge - the only rural in #osmnx from 'Московская область', very strange... https://t.co/ArAMBxnBtm",86087153,2021-11-16 18:26:44+00:00,und,1,0,1,0,Twitter Web App,3_1460675559122518028,https://pbs.twimg.com/media/FEVcrpmXwAwP-V8.jpg,photo, ,Дмитрий,DBusAI,False,34,248,"Москва, Россия"
+1460675350833377281,"#30DayMapChallenge
+
+16. URBAN/RURAL.
+16. URBANO/RURAL. https://t.co/UUb3DGQ4I3",769592708,2021-11-16 18:25:16+00:00,es,2,0,4,1,Twitter Web App,3_1460675276833267714,https://pbs.twimg.com/media/FEVcbN_XoAIC7CB.jpg,photo, ,Valentín Sastre,valen_ibiza,False,377,586,IBIZA / Barcelona
+1460673482367410180,"Day 16 #30DayMapChallenge - Urban/Rural.
+
+Dedicating this one to my former city, Queens. Map of buildings by year built, data from @NYCPlanning. Long Island City lights up with newer buildings compared to other areas deeper in Queens. 🏙️ #RStats
+
+Code 🔗: https://t.co/xjANgQUQtr https://t.co/NPSUtIPp2z",379406678,2021-11-16 18:17:50+00:00,en,4,1,19,0,Twitter Web App,3_1460671070445395969,https://pbs.twimg.com/media/FEVYmX-WYAEbOif.jpg,photo, ,Tanya Shapiro,tanya_shapiro,False,410,307,"St Petersburg, FL"
+1460672700230213633,"Changing shape of Phewa Lake, Nepal🇳🇵as detected by Landsat 8, NDWI.
+---
+Sources say it is shrinking due to man-made causes. 
+https://t.co/M0kR22LKwU
+---
+@sentinel_hub for #30DayMapChallenge https://t.co/dq8PxynJxx",4888080752,2021-11-16 18:14:44+00:00,en,3,0,12,0,Twitter Web App,16_1460670534425858053,https://pbs.twimg.com/tweet_video_thumb/FEVYHLJVUAUw9sl.jpg,animated_gif, ,KSab T. Magar🇳🇵,ksabmagar7,False,1,3,Nepal
+1460672554939699201,"#30DayMapChallenge day 15: map without a computer.
+I made this map when I was 10yo discovering my new home at Uni of Nottingham’s Broadgate Park. Some buildings were still under construction so I walked around them trying to estimate their shapes and proportions. https://t.co/Z1WJxKpm6o",1117471915151626240,2021-11-16 18:14:09+00:00,en,2,2,10,0,Twitter for iPhone,3_1460672471833710606,https://pbs.twimg.com/media/FEVZ38jXEA41A11.jpg,photo, ,Valeria Meraz,valeriamerazc,False,131,435,The Anthropocene
+1460670174709915659,"Day 16: Urban/ Rural. 
+St.Catharines and Niagara-on-the-Lake are perfect neighbours with different landscapes. 
+#30DayMapChallenge https://t.co/Qlgx53XGu6",911567709166587905,2021-11-16 18:04:42+00:00,en,1,0,4,0,Twitter Web App,3_1460664208882819079,https://pbs.twimg.com/media/FEVSW-qWYAcaRsy.jpg,photo, ,Elsie Xie,Y2Xie,False,18,180,"Ontario, Canada"
+1460669944157249541,Day 16 of the #30DayMapChallenge:  Urban/Rural…Where Rural become Urban.  @NASA SEDAC data for probably urban expansion. #IMNOS https://t.co/wt5U7vZSNJ,276280627,2021-11-16 18:03:47+00:00,en,1,0,6,0,Twitter Web App,3_1460669877530681344,https://pbs.twimg.com/media/FEVXg8BUYAAoIc2.jpg,photo, ,Patrick Nelson,pnelson917,False,232,488,"Phoenix, AZ"
+1460669472826605573,"The OS GeoDataViz team have been working with @Rose_Road to create maps that help service users to navigate routes that might present accessibility difficulties. For #30DayMapChallenge Day 16: Urban &amp; Rural, here's a sneak peek of the first draft produced in this collaboration 👇 https://t.co/RzFMqbRdy9",22614266,2021-11-16 18:01:54+00:00,en,8,0,16,0,Hootsuite Inc.,3_1460669467726434309,https://pbs.twimg.com/media/FEVXJFYX0AUEA45.jpg,photo, ,Ordnance Survey,OrdnanceSurvey,True,63086,3721,"Southampton, UK"
+1460669433744089091,"#30DayMapChallenge Day 16 Urban/Rural
+
+Interactive version here: https://t.co/hwe0luYdk9 https://t.co/BRJmUijOGm",910889225448439808,2021-11-16 18:01:45+00:00,en,1,1,12,1,Twitter Web App,3_1460668902057418760,https://pbs.twimg.com/media/FEVWoKGXoAgPn91.jpg,photo, ,Dennis Kao,professorkao,False,466,719, 
+1460669129107640320,"#30daymapchallenge 
+Day 16: Urban/rural
+
+The lights at night shows the significant density difference between the urban and rural areas in this US Midwestern night map.
+
+#nightphotography #map #nightlights #night #citylights #cityatnight #nightmap #cartography #aerialmapping https://t.co/w5vdTGbMgL",1702059680,2021-11-16 18:00:32+00:00,en,0,0,5,0,Twitter for Android,3_1460669126662410245,https://pbs.twimg.com/media/FEVW1O0X0AU4blP.jpg,photo, ,David Nuttall,Artimaps_DavidN,False,606,339,"Huntsville, AL"
+1460667479584301059,"Giving up smoking is the easiest thing in the world. I know because I’ve done it thousands of times.
+
+#BLUEWAVE2022 #FoodieBeauty #FoodieBeauty #30DayMapChallenge #life #PaulRudd #NaNoWriMo21 #AdamKutnerPowerPlay #DisabilityTwitter #inspirationalquotes https://t.co/3scIxpKJUf",1446868375041413123,2021-11-16 17:53:59+00:00,en,0,0,2,0,Twitter for iPhone,3_1460667451830681600,https://pbs.twimg.com/media/FEVVTvlXwAAQ4x9.jpg,photo, ,Wanda,beverlywanda96,False,85,456,United States
+1460666645958045700,"#30DayMapChallenge  16: Urban/rural
+Mapping USDA Rural Urban RUCA
+Commuting Area Codes (RUCA) to designate ""Rural"" areas. Population numbers based on old decennial.
+County geographic data current and updated 09/01/2021
+https://t.co/uak4P59AOG
+
+#rspatial #rstats 
+@markdonovan2020 https://t.co/bilSoWwLv2",3094607959,2021-11-16 17:50:40+00:00,en,3,0,1,0,Twitter Web App,3_1460666627893207041,https://pbs.twimg.com/media/FEVUjyLXoAE9Men.jpg,photo, ,donojazz,donojazz62220,False,15,225,USA
+1460666426088321026,"Día 16: Rural_Urbano | #30DayMapChallenge
+El paisaje de la cuenca de México ha cambiado dramáticamente en las últimas décadas. La transformación del paisaje rural ha significado, entre otras cosas, el entubamiento de ríos como el Churubusco. https://t.co/hFriEGdGCx https://t.co/2fOPMsceKI",1163470661400047616,2021-11-16 17:49:48+00:00,es,4,0,6,1,Twitter Web App,3_1460666306005401601,https://pbs.twimg.com/media/FEVURDDVgAEd8hu.jpg,photo, ,Taller Sïranda,Taller_Siranda,False,340,159,México
+1460666165529874437,"#30DayMapChallenge 
+Jour 16 - Urbain/Rural
+
+Voici l'évolution d' @Orsaynotreville depuis 1766.
+
+Créé d'après les cartes de @IGNFrance ( https://t.co/c5Y1CUB4Y9 ) et du magnifique livre ""Orsay - 999 - 1999"" du ""Comité d'histoire locale d'Orsay et des environs"". https://t.co/abaHaEmCch",3068008768,2021-11-16 17:48:46+00:00,fr,0,1,4,1,TweetDeck,16_1460664967263305735,https://pbs.twimg.com/tweet_video_thumb/FEVTDH2WQActq2L.jpg,animated_gif, ,CômeMS,Come_M_S,False,7,122,"Orsay, France"
+1460666051868332041,"Day 16: Urban_Rural | #30DayMapChallenge
+
+The landscape of the Mexico Basin has changed dramatically in recent decades. The transformation of the rural landscape has meant, among other things, the canalization of rivers such as the Churubusco.
+https://t.co/hFriEGdGCx https://t.co/0N6SiT6cBC",1163470661400047616,2021-11-16 17:48:19+00:00,en,6,0,7,0,Twitter Web App,3_1460665903234752513,https://pbs.twimg.com/media/FEVT5mnVIAEv5qN.jpg,photo, ,Taller Sïranda,Taller_Siranda,False,340,159,México
+1460663950606057475,"#30DayMapChallenge 
+16 - Urban/Rural
+
+This is the evolution of the urban area in the city since 1766.
+
+Made with maps from @IGNFrance ( https://t.co/c5Y1CUB4Y9 ) and a wonderful book : Orsay : 999-1999"" from ""Comité d'histoire locale d'Orsay et des environs"". https://t.co/0FpJzXOy1w",3068008768,2021-11-16 17:39:58+00:00,en,0,1,0,0,TweetDeck,16_1460661022906368005,https://pbs.twimg.com/tweet_video_thumb/FEVPdh-XwAU4533.jpg,animated_gif, ,CômeMS,Come_M_S,False,7,122,"Orsay, France"
+1460663100739395593,"Day 16: Rural / Urban #30DayMapChallenge 
+
+Here's a twist on Rural (Country) v Urban (Rap) for you... Check out how West v Swift would have turned out based on Google Trends results for each state over the last 5 years.
+#electoralvotes #comparison #datatrends #statistics #mapping https://t.co/t8ibRXhgaP",793464945971257350,2021-11-16 17:36:35+00:00,en,1,0,4,0,Twitter Web App,3_1460660370868162565,https://pbs.twimg.com/media/FEVO3k8WUAU0Ufn.jpg,photo, ,Design for Movement,Steer_DfM,False,326,115,"Europe, N.America, LATAM, Asia"
+1460662664271745029,"I liked this dataset so much, I made a few more maps with it. 
+
+This is London (the black ring is the M25). I love the patterns in this.
+
+#30DayMapChallenge https://t.co/F55YNVD82S",2213909976,2021-11-16 17:34:51+00:00,en,20,13,171,3,Twitter Web App,3_1460661777990139907,https://pbs.twimg.com/media/FEVQJe4XwAMP2YQ.jpg,photo, ,Colin Angus,VictimOfMaths,False,14874,684, 
+1460662251380039682,"#30DayMapChallenge 
+Day 16: Urban/Rural
+
+Map of urban and rural areas in New Zealand, according to official classification. Data sourced from @Stats_NZ #dataviz #RStats https://t.co/5gK0ErUHhc",91949741,2021-11-16 17:33:13+00:00,en,1,1,0,0,TweetDeck,3_1460662016410992641,https://pbs.twimg.com/media/FEVQXXEVQAEOdNu.png,photo, ,P • C,JediPro,False,377,284,"Mumbai, India"
+1460661888036048896,"#30DayMapChallenge - Día XV
+Otro mapa fallido https://t.co/F16c80x6bt",601582057,2021-11-16 17:31:46+00:00,es,1,0,1,0,Twitter Web App,3_1460661853466542086,https://pbs.twimg.com/media/FEVQN4DWQAYvYRx.jpg,photo, ,Sr Miguelo,MiguE_garva,False,339,526,tu corazón
+1460661445473886215,"Populated places of the world! Each point shows an urban area with more than 1000 people. Day 16 of the #30DayMapChallenge - Urban/Rural. 
+This map was made with #Python using #matplotlib and #pandas. #DataScience #Data #DataVisualization #art #Human #humanity https://t.co/9NJVhf8YEy",1349110409215795204,2021-11-16 17:30:01+00:00,en,15,2,38,2,Twitter Web App,3_1459302561618538496,https://pbs.twimg.com/media/FEB78rUXMAA627f.jpg,photo, ,Python Maps,PythonMaps,False,5913,2678,Planet Earth
+1460656284668203012,"#30DayMapChallenge
+Day 16: Urban/rural
+
+Euskal herriko gaua nola argitzen den https://t.co/e9p2bnvVSl",270842014,2021-11-16 17:09:30+00:00,eu,3,1,8,0,Twitter Web App,3_1460656238090457089,https://pbs.twimg.com/media/FEVLHBJXEAEnnZT.jpg,photo, ,Ion Lizarazu,Ionliz,False,364,260, 
+1460656169584889859,"#30DayMapChallenge | Day 15 | urban/rural 
+
+Visualizing street noise in #Freiburg. Cool to see the difference between inner and outer city as well as day and night. Done in @mapbox. 
+
+Explore yourself: https://t.co/SrjYFILsoz
+
+#maps #gischat #javascript #Germany https://t.co/TEC2xZo6br",975473648,2021-11-16 17:09:03+00:00,en,10,1,38,0,Twitter Web App,7_1460654155001905161,https://pbs.twimg.com/ext_tw_video_thumb/1460654155001905161/pu/img/GjurZa0brWx4d519.jpg,video, ,Stefan Reifenberg,Reyfenberg,False,158,488,Freiburg im Breisgau
+1460655669699301389,#30DayMapChallenge #inkscape https://t.co/eeFYlPGvYX,233135248,2021-11-16 17:07:03+00:00,und,1,0,2,0,Twitter Web App,3_1460655545577267201,https://pbs.twimg.com/media/FEVKetVWYAEGSs2.jpg,photo, ,Jérôme Boeuf,jrombf,False,95,458,"Besançon, France"
+1460653903909822464,"#30DayMapChallenge Dia 16: Urbà/Rural
+Es podia triar, jo he fet ambdós, la part il·luminada és a 5 km d'una estació de tren la resta com si no existís. https://t.co/AIH3z3zQp8",3501358169,2021-11-16 17:00:02+00:00,ca,1,0,1,0,Twitter Web App,3_1455095876578422785,https://pbs.twimg.com/media/FDGJ_YWXsAECSW4.jpg,photo, ,Víctor Coris,Victor_Celoni,False,32,127, 
+1460653745633738757,"#30DayMapChallenge - Day 16 -  Urban vs Rural.
+Eggsperimental map of Greater London, Inner London and the Central Activities Zone (CAZ), first version. Made in #Blender3d.
+ #Egg #b3d #map #Urban #City #dataviz #gischat #Art 1/n https://t.co/RZAPAt63jE",1186202364,2021-11-16 16:59:25+00:00,en,10,5,122,0,Twitter Web App,3_1460652964209647617,https://pbs.twimg.com/media/FEVIIc_WYAEv-Le.jpg,photo, ,Julian Hoffmann,Julian_H0ffmann,False,737,1953,"London, England"
+1460651549332545538,Urban vs Rural in metro Charlotte #30DayMapChallenge Day 16 https://t.co/np2XUhkfsO,2391754261,2021-11-16 16:50:41+00:00,it,1,0,5,0,Twitter Web App,3_1460651315558813715,https://pbs.twimg.com/media/FEVGofSXEBMq7RP.jpg,photo, ,🌏Map of the Week,MapOfTheWeek,False,1076,370,"Arlington, MA"
+1460650997278257155,"Field Names of Killymingan, Kirkgunzeon
+I love directional naming systems: Field Below Cottage &gt; Field Above Cottage &gt; Field Below Hill.
+Fishburn doesn't appear on the OS and is a remarkably rare name in Scotland.
+#30DayMapChallenge | Day 16 | Rural https://t.co/s6G4vEc4Cp",1081900377853829120,2021-11-16 16:48:29+00:00,en,4,5,24,0,Twitter Web App,3_1460649673321070605,https://pbs.twimg.com/media/FEVFI5eXwA0CbWc.jpg,photo, ,D&G Place-Names,dgplacenames,False,1152,393, 
+1460650614388494337,"#30DayMapChallenge Day 16, Urban-Rural! Did you know @PennDOTNews has it's own Urban Areas different than the Census? Made with https://t.co/9bMq4iM64t.
+PS,  #GISDay is tomorrow! https://t.co/nXCV7CmlUB",277272757,2021-11-16 16:46:58+00:00,en,1,0,4,0,Twitter Web App,3_1460649451375120384,https://pbs.twimg.com/media/FEVE7-qVUAAuYYE.jpg,photo, ,Steve Cline,SteveClineBird,False,150,248,"Vancouver, WA"
+1460650144282648587,"#30DayMapChallenge Day 16 - Urban Rural
+#World_Imagery_Wayback
+#kuwait 
+wafra farms _ south _ Kuwait
+From 2014 to 2021 https://t.co/uPuWjsfo2x",2744656034,2021-11-16 16:45:06+00:00,en,4,0,12,0,Twitter Web App,16_1460649489199423496,https://pbs.twimg.com/tweet_video_thumb/FEVE-LkWYAgznN5.jpg,animated_gif, ,🇰🇼 Geographic,Husain_Qamber,False,9597,1017,دولة الكويت
+1460649975004676098,"#30DayMapChallenge #Day16 Urban/Rural - This year not the usual Urban/Rural/DEGURBA classification(s) - instead Labour Market Concentration Index for Functional Urban Areas (FUA) done by colleague @mgiannopoulos - VIS:https://t.co/XvcpLrcSUV  S:Leaflet.js, - 15days2go https://t.co/iMKwi4pkOr",2574612668,2021-11-16 16:44:26+00:00,en,2,0,5,0,Twitter Web App,3_1460648858707505152,https://pbs.twimg.com/media/FEVEZezXMAAKtI2.png,photo, ,hannes reuter,hireuter,False,290,601, 
+1460649945535594499,"#30DayMapChallenge Day 16: Urban/Rural
+And today a typical example of Russian residential development at Saint-Petesburg.
+Data - Open Street Map
+#qgis #Aerialod #photoshop #OSM https://t.co/aogxZ0luHL",1103150306152587264,2021-11-16 16:44:19+00:00,en,1,0,10,0,Twitter Web App,3_1460649596871397380,https://pbs.twimg.com/media/FEVFEcrWUAQyGTu.jpg,photo, ,Александр Зуев,Zuev34W,False,28,136,"Volgograd, Russia"
+1460649569491038216,"16. Urban / Rural
+#30DayMapChallenge https://t.co/VvgOmJ0ESF",807289,2021-11-16 16:42:49+00:00,es,1,1,10,1,Twitter Web App,3_1460649412020031491,https://pbs.twimg.com/media/FEVE5sDWUAMG4bq.jpg,photo, ,Martin Kleppe,aemkei,False,8660,404,"Hamburg, Germany"
+1460648313099751426,"#30DayMapChallenge 
+
+Urban and rural 
+
+Rural-urban commuting area (RUCA)  zones in Michigan https://t.co/XbfmX1E4Co",77623399,2021-11-16 16:37:50+00:00,ro,1,0,4,0,TweetDeck,3_1460648293222912004,https://pbs.twimg.com/media/FEVD4kNVEAQbCI6.png,photo, ,Dr. Peter Larson,pslarson2,False,1003,1680,"Ann Arbor, MI"
+1460647611271159808,"#30DayMapChallenge Day 16 - Urban/Rural
+Degree of urbanisation in the Netherlands 2020 based on address density per postal code area.
+Internet provider down today. Fibre cables damaged by digging works. So had to reuse downloaded data from day 12.
+#OpenData: @statistiekcbs
+#QGIS https://t.co/pgg03F6ECq",760094405369946112,2021-11-16 16:35:02+00:00,en,3,1,23,0,Twitter for Android,3_1460647601322221572,https://pbs.twimg.com/media/FEVDQSrWYAQ-SoW.jpg,photo, ,Hans van der Kwast,hansakwast,False,4230,1320,The Netherlands
+1460646268854755331,"#30DayMapChallenge 2021 | Day 16 | Urban/Rural
+I select rural, so here are some crops in mainland Greece!
+#cARTography #MakingMapsPretty #ArcGISPro 
+
+Location: https://t.co/3yEiIvuyub https://t.co/hcfvMdn6cY",374984100,2021-11-16 16:29:42+00:00,en,1,0,28,0,Twitter Web App,3_1460645476986986496,https://pbs.twimg.com/media/FEVBUo6XIAA6oTh.jpg,photo, ,Staridas Geography,StaridasGeo,False,1058,578,Greece
+1460646162185306116,"Day 16 of #30DayMapChallenge, ubran/rural. Changes in degree of urbanisation in Greece, data from @EU_Eurostat. Only small changes since the data is from 2018 and 2021
+
+#RStats code: https://t.co/MesE8Oc5NF https://t.co/LFf3jYgJAT",1002212251,2021-11-16 16:29:17+00:00,en,2,0,21,0,Twitter Web App,3_1460646089971879939,https://pbs.twimg.com/media/FEVB4UdWUAMulyk.jpg,photo, ,Georgios Karamanis,geokaramanis,False,4049,240,"Uppsala, Sweden"
+1460645247109767173,"New Data Vis Dispatch! The #30DayMapChallenge is still running strong, and that can only mean one thing: lots of maps in this week's edition 🌍.
+
+If you stay until the end of the dispatch, we also have a surprise for you: a bunch of job opportunities.
+https://t.co/P87WdMghqF https://t.co/h3RCzUW45l",500573974,2021-11-16 16:25:39+00:00,en,20,4,87,1,Hootsuite Inc.,3_1460645242768609283,https://pbs.twimg.com/media/FEVBHAYWUAMlGtw.jpg,photo, ,Datawrapper,Datawrapper,False,17891,673,"Berlin, Germany"
+1460642568295915522,"🗺️ #30DayMapChallenge, día 16: mapa urbano/rural
+
+Base de datos vectorial básica a escala 1:25.000 del municipio Almaguer (Cauca), generada por el IGAC a partir de restitución fotogramétrica.
+
+Para consulta y descarga ingresa a 👉🏻 https://t.co/iUsol1pTgb https://t.co/qVXmvNQhWt",124492052,2021-11-16 16:15:00+00:00,es,5,2,7,0,Twitter Web App,3_1460636611880919044,https://pbs.twimg.com/media/FEU5Qn0XoAQS_pK.jpg,photo, ,Instituto Geográfico Agustín Codazzi - IGAC,igacColombia,True,62943,2159,Colombia
+1460642482031575045,"#30DayMapChallenge (urban vs. rural) inspired by the #Canadian maps of @ksituan, I decided to show the most densely populated part of #Canada, from Toronto to Quebec (City). https://t.co/DhojneB4VZ",822048926081712128,2021-11-16 16:14:39+00:00,en,3,1,46,0,Twitter Web App,3_1460642455821471753,https://pbs.twimg.com/media/FEU-kyMX0AkV4aR.jpg,photo, ,Carl Churchill,Cchurchili,False,2724,1143,CO / Tabeguache Ute Land
+1460640500592033805,"#30DayMapChallenge Day 16 - Urban/Rural.
+
+Using Podaris to explore Rural-Urban classification of Oxfordshire, England, with darker shades indicating more rural areas of the county. https://t.co/3QtuBkiBkz",1322134106,2021-11-16 16:06:47+00:00,en,1,0,2,0,TweetDeck,3_1460640416303308805,https://pbs.twimg.com/media/FEU8uEZWYAU6OCI.jpg,photo, ,Podaris,Podaris,False,477,817,"London, UK"
+1460640094361202688,"16. 'Urban'
+
+Today's output for the #30DayMapChallenge explores the #urbanrealm 🏙️
+
+This map was created by our #GIS Consultant Ryan, and it displays trees and #greenspace within the City of Bristol 🌲
+
+#GISchat #dataviz #mapping #ecology #urbangreening #urban #landuse https://t.co/h5qT24v486",2295951570,2021-11-16 16:05:10+00:00,en,2,0,4,0,Hootsuite Inc.,3_1460640089269313550,https://pbs.twimg.com/media/FEU8bCGXoA4xptY.jpg,photo, ,LUC,LUCtweeting,False,3649,874,United Kingdom
+1460639673248743430,"#30DayMapChallenge Day 16 - Urban/Rural
+
+A set of 8 major asian cities, in 10 km x 10 km “squares”. Always fun to compare between urban forms and their morphologies.
+
+Made with #QGIS https://t.co/pD5BJWaLKd",985921631439568896,2021-11-16 16:03:30+00:00,en,4,1,27,0,Twitter for iPhone,3_1460639656723185669,https://pbs.twimg.com/media/FEU8B2vVgAUY0Jt.jpg,photo, ,Kenneth Wong,Kenneth_KHW,False,309,259,Hong Kong
+1460638075164545027,"🗺️Population density map of Venezuela
+
+Día 12- Population -#30DayMapChallenge #maps   #cartography #mapas #gischat #Venezuela 
+Data: @WorldPopProject https://t.co/OsHimh5sUC",1154257288158298112,2021-11-16 15:57:09+00:00,es,4,0,12,0,Twitter Web App,3_1460637633617539077,https://pbs.twimg.com/media/FEU6MGFXMAUNzNS.jpg,photo, ,geoscéntricos 🗺️,geoscentricos,False,864,303,Ciudad de México
+1460637773434605571,"#30DayMapChallenge day 16: urban/rural
+
+trail running is mostly associated to rural areas but some cities like Santiago have the privilege to hold urban trails. Cerro calan is the closest one to my home
+
+#rstats #rspatial #dataviz https://t.co/zzwU4mme1l",83974993,2021-11-16 15:55:57+00:00,en,2,1,5,0,Twitter Web App,3_1460637746628894722,https://pbs.twimg.com/media/FEU6SrFXoAIigrr.png,photo, ,raimundos,raimun2,False,1007,810,Chile
+1460636024665636870,More Canadians live inside this circle than outside of it. Day 16 of the #30DayMapChallenge (urban/rural). https://t.co/houF7vC63q,851149914725916672,2021-11-16 15:49:00+00:00,en,34,8,164,4,Twitter Web App,3_1460518147602231300,https://pbs.twimg.com/media/FETNhF_XsAQT4p4.jpg,photo, ,Alex McPhee,ksituan,False,4018,189,Val Marie / Treaty 4
+1460635206529044482,"The theme for day 16 of the #30DayMapChallenge is Urban/Rural, so here's a map I made a while ago of land parcels in Manitoba. The large parcels are mostly farm land. The zoomed in version better shows the urban parcels. Naturally FME was involved in the making! https://t.co/jwmIcdoqpN",94454747,2021-11-16 15:45:45+00:00,en,0,0,4,0,Hootsuite Inc.,3_1460635204465442821,https://pbs.twimg.com/media/FEU3-syXwAUw-kw.jpg,photo, ,FME Evangelist,FMEEvangelist,False,2025,396,"Vancouver, Canada"
+1460634567019274246,"Cheating with Google Maps screenshots for Urban/Rural day of #30DayMapChallenge, thinking about how American small rural towns are in some ways as ""urban"" as many American big cities (e.g., walkability). These are the seats of the 4 lowest population counties in Ohio. https://t.co/LRDpGu1pjh",17448055,2021-11-16 15:43:12+00:00,en,1,3,13,1,Twitter Web App,3_1460634146385055753,https://pbs.twimg.com/media/FEU3BHIWUAkowgz.jpg,photo, ,Andy Woodruff,awoodruff,False,6702,580,"Belmont, Massachusetts"
+1460633504505544708,#30DayMapChallenge En septiembre de 1998 la Declaración Mebarak estableció esta zona como un área única en el mundo en la que no se encuentran ojos así como los que tienes tú https://t.co/APNj8KqX8x,893898867489595392,2021-11-16 15:38:59+00:00,es,200,11,658,25,Twitter for Android,3_1460633501917757448,https://pbs.twimg.com/media/FEU2bmTXwAgTCpc.jpg,photo, ,Hannah Montana,simellamojavier,False,175,223, 
+1460633438558511113,"The Republic of #Moldova, a small rural country on the border of the European Union #EU  with a frozen conflict (Transnistria).
+ #Urban vs #rural   
+#30DayMapChallenge 
+2021 Day 16: Urban/rural
+Made with QGIS https://t.co/fhbbNrz8is",113368957,2021-11-16 15:38:43+00:00,en,2,0,9,0,Twitter Web App,3_1460633182009704461,https://pbs.twimg.com/media/FEU2I-jWQA0tYvU.jpg,photo, ,Igor Rosca,IgorRoshka,False,33,127,Germany
+1460633133704003587,"#30DayMapChallenge Day 16: Urban/Rural.
+Starting to run low on energy and ideas now, so just another quick map again this time of the greater Birmingham area based on #ONS urban-rural classification, made with #QGIS https://t.co/2OIX7UHdll",309734801,2021-11-16 15:37:30+00:00,en,1,0,5,0,Twitter for Android,3_1460633124010926083,https://pbs.twimg.com/media/FEU2FmfXIAMgfoI.jpg,photo, ,Sam J,samwise_v,False,234,516,"London, UK"
+1460632661207179264,"#30DayMapChallenge Day 16: Urban/Rural
+
+The juxtaposition of this farmland and the metropolis just across the river in #CitiesSkylines. https://t.co/cbrqgMHx31",384202950,2021-11-16 15:35:38+00:00,en,1,0,3,0,Twitter Web App,3_1460632330935091200,https://pbs.twimg.com/media/FEU1XcDWQAAABHT.jpg,photo, ,Matias Codesal,maticodes,False,323,443,"Raleigh, NC"
+1460632505053286408,"Playing catch-up this week on the #30DayMapChallenge 
+
+Here's Day 8 - Blue: The Global Ocean. Made with #NaturalEarth land, bathymetry, lakes, and rivers in @ArcGISPro. Finishing in #AffinityPhoto and #AffinityDesigner. https://t.co/UqMwfm3eic",912708187077398529,2021-11-16 15:35:01+00:00,en,3,2,38,2,Twitter Web App,3_1460632310936702976,https://pbs.twimg.com/media/FEU1WRjXEAA0k4Q.jpg,photo, ,Tommy 🗺️,CartoRedux,False,692,265,"New York, NY"
+1460631673138298884,"#30DayMapChallenge Day 16 - Urban
+Streets named after towns
+A line between two towns means one town has a street named after the other. It is colored according to the name of the street, so all e.g. green lines correspond to streets named after Jerusalem https://t.co/2Y59JU4WKo",1106613698829975559,2021-11-16 15:31:42+00:00,en,2,2,19,0,Twitter Web App,3_1460631254202736640,https://pbs.twimg.com/media/FEU0Yw6WYAAhXKi.jpg,photo, ,Ron Asherov,ronasherov,False,1266,878, 
+1460630758096347138,#30DayMapChallenge 2021 - Day 16: Urban/Rural https://t.co/dmkcPnWi3T,1180074260385206277,2021-11-16 15:28:04+00:00,en,1,1,4,0,Twitter for Android,3_1460630755508473859,https://pbs.twimg.com/media/FEUz7vIX0AMXjlM.jpg,photo, ,Aaron Koelker,AaronKoelker,False,237,283,"Tallahassee, FL"
+1460630214669701133,"Mapping #Dublin neighborhoods from the @DublinInquirer neighborhood survey, with at least 20 responses. In order of response count.
+
+Starting with Kimmage.
+
+Data from: @emmetatquiddity, @flngn, https://t.co/RRRhk7nALy
+
+#30DayMapChallenge Day 17 ""Urban"" Throwback to 3, 4, and 5. https://t.co/OCS6ngHNNU",1499547780,2021-11-16 15:25:55+00:00,en,28,12,108,12,Twitter Web App,3_1460630064538820610,https://pbs.twimg.com/media/FEUzThEXoAIsN9x.jpg,photo, ,Heikki Vesanto,HeikkiVesanto,False,894,468,"Dublin City, Ireland"
+1460629372340215810,"#30DayMapChallenge Day 16: Urban/Rural
+
+Light pollution from human settlements from afar looks just like the night sky it drowns out.
+
+Tool: QGIS
+Data: GFZ Data Services. https://t.co/W7HFzftx1D https://t.co/BXIXxaGJfb",14707170,2021-11-16 15:22:34+00:00,en,1,0,8,0,Twitter Web App,3_1460626650090065920,https://pbs.twimg.com/media/FEUwMxQWUAAqdn8.jpg,photo, ,مارتين🚡Martin,MartinBangratz,False,1220,1310,Cologne/Aachen/Innsbruck
+1460629255067471876,Day 16: Rural vs Urban. Banff National Park using light pollution data to highlight urban areas. #30daymapchallenge https://t.co/Mlu6ZxDyuY,198918596,2021-11-16 15:22:06+00:00,en,1,0,8,1,Twitter for Android,3_1460629240227971078,https://pbs.twimg.com/media/FEUyjiRWQAYwRtP.jpg,photo, ,Morgan Moe,MorganSMoe,False,400,163,Calgary AB
+1460627510132187148,"#TidyTuesday #30DayMapChallenge
+Day 16 : Urban Rural | Boston Urban(black) Rural(green) Areas
+Global Rural-Urban Mapping Project https://t.co/pk1Vhdkoo9 https://t.co/tRdSDdHdHr",1428864082329931777,2021-11-16 15:15:10+00:00,en,3,0,5,0,rstats2twitter,3_1460627506734813187,https://pbs.twimg.com/media/FEUw-ogX0AMckUW.png,photo, ,Kraggle,JCraggy,False,35,22,America
+1460627337347837961,Day 16- Urban/Rural #30DayMapChallenge A timelapse of the growth of Kampala from 1986-2021. I used https://t.co/832rbEZJyc to create it. https://t.co/KpjnpYBXom,1018781775030620162,2021-11-16 15:14:29+00:00,en,4,0,20,0,Twitter Web App,16_1460626577855758337,https://pbs.twimg.com/tweet_video_thumb/FEUwIkKWQAEQqE0.jpg,animated_gif, ,Shamillah,Shammie_n,False,701,923,"Kampala, Uganda"
+1460626941803905033,"#30DayMapChallenge Day 15: Map made without using a computer
+
+I can't keep up with you all, so I'm just going to play my favorite games that involve mapmaking. This is a game called Cartographers.
+
+#gischat #cartography #boardgames https://t.co/IR3giQdPDc",384202950,2021-11-16 15:12:54+00:00,en,2,0,5,0,Twitter Web App,3_1460626674006036481,https://pbs.twimg.com/media/FEUwOKWXEAEDRvl.jpg,photo, ,Matias Codesal,maticodes,False,323,443,"Raleigh, NC"
+1460626748178149386,"#30daymapchallenge Nov 16 Urban/Rural Interesting as urban and rural merge. @CityofOxnard has this happening.  a difficult challenge for city-level staff. Urban, Suburban, and Rural all merging as parcel development occurs. @nearmap content. https://t.co/tFz13VINnu",17435433,2021-11-16 15:12:08+00:00,en,1,0,3,0,Twitter Web App,3_1460626645707112455,https://pbs.twimg.com/media/FEUwMg7XwAcBs9N.jpg,photo, ,Small Town Mapper 🗺🍀,CharlesRobbins,False,796,954,"South Carolina, USA"
+1460626453742108685,"#30DayMapChallenge Day 16 Urban/Rural
+
+The largest and smallest Miami in the US. https://t.co/axfFSLuPKf",117610391,2021-11-16 15:10:58+00:00,en,1,0,4,0,Twitter for iPhone,3_1460626449451425802,https://pbs.twimg.com/media/FEUwBF0XoAoRpEY.jpg,photo, ,laura,LauraSmithCarto,False,83,100, 
+1460625601962790915,"Internal migration is a main driver of urbanization. As per 2012 census data, Gampaha district saw the highest net internal migration in Sri Lanka. 
+
+#30DayMapChallenge Day 16 urban/rural https://t.co/QTHuF8qczs",2543362932,2021-11-16 15:07:35+00:00,en,31,6,128,6,Twitter Web App,3_1460625567938940929,https://pbs.twimg.com/media/FEUvNx7akAEmhYH.jpg,photo, ,Vajira,VajiraL,False,332,661,Riddermark
+1460623517297389572,"#30DayMapChallenge 2021 day 16: Urban/Rural
+
+New Mexico Wilderness - as holes in the vast road network. This shows how little intact landscape is left. #QGIS #Wilderness https://t.co/wAprwlQv0t",7159622,2021-11-16 14:59:18+00:00,en,3,2,34,0,Twitter Web App,3_1460623022608596999,https://pbs.twimg.com/media/FEUs5n1XwAcC8o3.jpg,photo, ,Kurt Menke,geomenke,False,6072,2154,"Helsinge, Denmark"
+1460622121328017410,"#30DayMapChallenge 
+Day 16 - Urban/Rural
+Wildland-Urban Interface Areas in California 
+
+(Areas where Forested Lands overlap with Urban/infrasturctures. These areas are prone to higher damge risks from wildfires and can be located in both rural and more urban areas.) https://t.co/2l5yY2vgU6",748038863206088704,2021-11-16 14:53:45+00:00,en,3,1,15,0,Twitter Web App,3_1460621583584677891,https://pbs.twimg.com/media/FEUrl3DVUAMQkb2.jpg,photo, ,Shannon Gonzales 🐙(she/her),yavannie24,False,558,1000,"Sacramento, CA"
+1460621667512643585,Map I made using the City of Boulder's open #gis #data hub site of buildings for the #30DayMapChallenge   Map on everyone! https://t.co/QvL7bqAv7M,18056084,2021-11-16 14:51:57+00:00,en,1,0,4,0,Twitter Web App,3_1460621484154445831,https://pbs.twimg.com/media/FEUrgEpUYAcLkko.jpg,photo, ,josephkerski,josephkerski,False,10730,1993,USA
+1460620925230063621,"#30DayMapChallenge Day 16: Urban/rural!
+
+Here's a population map showing the urban/rural split of the USA -- each census block group has a point at its centroid which is one step brighter per 1,000 people.
+
+#rstats code at https://t.co/KrOjYaWNOs https://t.co/s81fHQquH5",942194832491122688,2021-11-16 14:49:00+00:00,en,2,1,15,0,TweetDeck,3_1460268089422008321,https://pbs.twimg.com/media/FEPqFyrWUAEEffj.jpg,photo, ,Mike Mahoney,MikeMahoney218,False,1068,533,"Syracuse, NY"
+1460620515534643207,My one and only #30DayMapChallenge entry. There's a reason they don't let me make maps. https://t.co/XZuQRktY1o,12405802,2021-11-16 14:47:22+00:00,en,2,2,16,0,Twitter Web App,3_1460620254955069450,https://pbs.twimg.com/media/FEUqYhhWYAoXhkd.jpg,photo, ,Bill Dollins,billdollins,False,4572,670,"Morganza, MD"
+1460620142308593664,"#30DayMapChallenge Day 16: Urban/Rural
+
+A quick map on a busy day! Here is imagery of Albany, NY, and its surrounding cities, with urban area highlighted using a blend mode. Some parts of the urban footprint are just as green as the rural countryside around them! https://t.co/RX0DQ7tMrX",1278340072689958913,2021-11-16 14:45:53+00:00,en,1,0,6,1,Twitter Web App,3_1460619670201913346,https://pbs.twimg.com/media/FEUp2fJVUAI90eC.jpg,photo, ,David Sherman,CartoDBS,False,94,98,"Austin, TX"
+1460619940831145989,"Big shout to @sgillies, ""The Other Matthew Perry"", and the whole Rasterio crew for some excellent raster processing tools. I used a bunch of them here, including my new favorite vectorizing command, ""rio shapes"". #30DayMapChallenge  https://t.co/wmmMEIUIQ2 https://t.co/przz71gD5N https://t.co/WDS4b2zNOs",278873782,2021-11-16 14:45:05+00:00,en,1,0,7,0,Twitter Web App,3_1460619054356611072,https://pbs.twimg.com/media/FEUpSo8XwAArSur.jpg,photo, ,Map/,vtcraghead,False,3752,916,"Burlington, VT"
+1460619894127480838,"#30DayMapChallenge day 16 is urban/rural. Here's Atlanta's summer daytime heat islands. Much more that could be done with the ""island"" effect, but I think this was a decent first draft. From ongoing work with @DrShepherd2013, @snmarkley, @yangjiaxin_wei, and Steve Holloway. https://t.co/ledzrjcBlP",13215962,2021-11-16 14:44:54+00:00,en,4,0,17,1,Twitter Web App,3_1460619863450337289,https://pbs.twimg.com/media/FEUqBvDWQAku9H1.jpg,photo, ,Jerry Shannon,jerry_shannon,False,2111,1682,"Athens, GA"
+1460619798459654154,"Day 16 in #30DayMapChallenge Urban/rural: Motorway 444 marks a clear boundary between the urban areas of Sandnes, Norway and the rural landscape on the other side.
+#BlomFORESTVIEW #lidar #visualization
+@tjukanov @MapsNorway @BlomNorway https://t.co/evAEVn9CxT",741266268,2021-11-16 14:44:31+00:00,en,1,0,9,0,Twitter Web App,3_1460619458314186763,https://pbs.twimg.com/media/FEUpqJzXMAsKYk2.jpg,photo, ,Floris Groesz,SirJanosFroglez,False,73,173, 
+1460619770806558728,"#30DayMapChallenge
+Day 16: Urban/Rural - African Penguins
+I’ve always been fascinated w/ urban wildlife &amp; recently watched Penguin Town on Netflix w/ my daughters. The show &amp; these ""jackass"" penguins are incredible to watch. Mapping their habitat along the southern African Coast https://t.co/i1Hb3Sdrb6",333524694,2021-11-16 14:44:25+00:00,en,1,0,9,0,Twitter Web App,3_1460618323490742280,https://pbs.twimg.com/media/FEUooGQXoAgrQ5F.jpg,photo, ,Christopher Pollard,CRVanPollard,False,1236,1210,"Philadelphia,PA"
+1460618949612216321,Cultural map of Bulgaria for #30DayMapChallenge Day 16 urban/rural. https://t.co/XvvLVLrdTC,741653561314922496,2021-11-16 14:41:09+00:00,en,1,3,17,0,Twitter Web App,3_1460618754824544260,https://pbs.twimg.com/media/FEUpBNGXIAQ3soL.jpg,photo, ,Kate Berg 🥔🗺️,pokateo_,False,4377,2293,"Grand Rapids, MI"
+1460617784816197635,"Día 16: Urbano/Rural en #30DayMapChallenge 
+#urban #rural https://t.co/5n71pztD8K",3194863402,2021-11-16 14:36:31+00:00,es,2,1,3,0,Twitter Web App,3_1460617311174418434,https://pbs.twimg.com/media/FEUntLFWYAIL4U8.jpg,photo, ,Cartografía Digital,digimaps,False,3731,185,"Comunidad de Madrid, España"
+1460614577411047429,"#day16 Urban/rural #30DayMapChallenge ▶️an exemple with Lyon metropole urban area and peri-urbanization. A narrative map inspired by @Geoconfluences  and @c_didier_fevre 
+@IGNFrance #Éduthèque teasing for a futur pedagogic notebook #Édugéo!▶️▶️ https://t.co/gYGxIlKYYS https://t.co/g5RlvFeRpQ",4121790137,2021-11-16 14:23:46+00:00,en,2,0,4,0,Twitter Web App,3_1460613754522148867,https://pbs.twimg.com/media/FEUkeJhXoAMaPP3.jpg,photo, ,Mathieu Chartier,mathieuchartie2,False,429,395,"N Côte-d'Or, Bourgogne, France"
+1460613364439076870,"#30DayMapChallenge Day 16: Urban/Rural
+""The urban/rural divide"" [still] https://t.co/IrX0C4Ecke",20668314,2021-11-16 14:18:57+00:00,en,1,2,41,1,Twitter for Android,3_1460613361708584960,https://pbs.twimg.com/media/FEUkHSLUUAAeTut.jpg,photo, ,Kenneth Field,kennethfield,False,15921,99,"Front room, Redlands CA"
+1460613238052188165,"#30DayMapChallenge Day 16: Urban/Rural
+""The urban/rural divide"" https://t.co/DxyvKbWPJK",20668314,2021-11-16 14:18:27+00:00,en,1,0,8,0,Twitter for Android,7_1460613165016702976,https://pbs.twimg.com/ext_tw_video_thumb/1460613165016702976/pu/img/94y1wGyOmCcdkQXU.jpg,video, ,Kenneth Field,kennethfield,False,15921,99,"Front room, Redlands CA"
+1460611865571119107,My friend @olivia_and_leo requested this map and I could not resist. Cities and towns of the US with islands in their name that are not/are not on actual islands for Day 16: Urban/Rural of #30DayMapChallenge https://t.co/CjwtiTlH9k,579246246,2021-11-16 14:13:00+00:00,en,2,2,13,1,Twitter Web App,3_1460485528713900032,https://pbs.twimg.com/media/FESv2bKXMAAPlB6.jpg,photo, ,cas 🌎,cas_maps,False,223,1150, 
+1460610022740746240,"I've skipped a few days... so for #30DayMapChallenge Day 16 - Urban/Rural, one of the most remote cities in the world - Petropavlovsk-Kamchatsky buildings (+surrounding areas) on the kamchatka peninsula. Made with #rstats #rspatial. I'm loving blending rayshader with tmap! https://t.co/YvMe4sUWMT",4016856743,2021-11-16 14:05:40+00:00,en,5,3,26,0,Twitter Web App,3_1460609974875398144,https://pbs.twimg.com/media/FEUhCJPXIAAazMM.jpg,photo, ,Hugh Graham,hughagraham,False,678,467,"Exeter, England"
+1460609896626409484,"How i scroll down my timeline 
+
+#30DayMapChallenge #b8tor #BBCBreakfast #BBCStrictly #Bbclove #dlfreak #LikeForLikes #FolloForFolloBack #RetweeetPlease #ebonysolo #ebonycontent #TikTok #blackdickmatters #viral #Trending #Cumlouder #DaBaby #DLguys https://t.co/HkAdhPTcJi",1936499682,2021-11-16 14:05:10+00:00,en,0,0,1,0,Twitter for iPhone,3_1460609892872601602,https://pbs.twimg.com/media/FEUg9XwXwAIMi2b.jpg,photo, ,Fantasy,CumNPlayWithJey,False,642,733,Outer space 🪐 
+1460609579130269701,Day 16 #30DayMapChallenge - First entry and first visual produced in Blender! Showing Edinburgh's public and private greenspaces https://t.co/TUYlRM0wmL,1316675467,2021-11-16 14:03:55+00:00,en,0,0,3,0,Twitter Web App,3_1460609169103507457,https://pbs.twimg.com/media/FEUgTPgX0AEvgzE.jpg,photo, ,Felix coupe,Felix_Coupe,False,6,75, 
+1460609416034725888,"From zero to a whole map. 
+
+A beginner map-making guide to learn how to create a map for the #30DayMapChallenge using #MAPublisher, finding data and breaking it down. 
+
+https://t.co/4Ct5l299KC https://t.co/DJNpdewLkM",22914910,2021-11-16 14:03:16+00:00,en,1,0,3,0,Hootsuite Inc.,3_1460609414633865232,https://pbs.twimg.com/media/FEUghiLXwBA5mm8.jpg,photo, ,Avenza Systems Inc.,Avenza,False,1367,188,"Toronto, ON"
+1460608364774412291,"#30DayMapChallenge
+Day 16 - Urban/Rural
+
+Urban areas in Europe - visualization of night lights from Visible Infrared Imaging Radiometer Suite (VIIRS) 
+made in #QGIS https://t.co/7MqOa6UquG",75868477,2021-11-16 13:59:05+00:00,en,9,0,59,1,Twitter Web App,3_1460608290883264516,https://pbs.twimg.com/media/FEUfgH4WYAQUQO-.jpg,photo, ,Ewa Grabska-Szwagrzyk,egrabska,False,393,161,"Cracow, Poland"
+1460607133335146502,"#30DayMapChallenge
+Day 16 - Urban vs Rural
+
+Urban vs Rural distribution in Romania https://t.co/6lPwcli4WC",1453765598341705729,2021-11-16 13:54:12+00:00,in,4,0,25,2,Twitter Web App,3_1460606581377310721,https://pbs.twimg.com/media/FEUd8neXoAEC9Tn.jpg,photo, ,Alexandru Frantiuc,CompleteMaps,False,37,31, 
+1460606978804404224,"Día 16: urbano/rural
+Parcelas urbanas y rurales en el área serrana del partido de General Puyerredon (provincia de Buenos Aires, Argentina) en base al catastro territorial disponible en: https://t.co/WeBDQkz3e2
+#30DayMapChallenge https://t.co/QLdeRHhWD7",402826093,2021-11-16 13:53:35+00:00,es,1,0,2,0,Twitter Web App,3_1460605963912818698,https://pbs.twimg.com/media/FEUdYrPXMAo91yI.jpg,photo, ,Gabi Calderon,GabiCalderon18,False,186,896,Mar del Plata | Argentina
+1460601045776695303,"16. NEW YORK, REVERSED
+
+What would the state look like demographically speaking if you moved the pop of the city to the rest of the state and vice versa? Would you see more varying income levels in Manhattan, or whole towns of diff races?
+
+Urban/Rural – #30DayMapChallenge https://t.co/N8B4fHm0tv",481724987,2021-11-16 13:30:00+00:00,en,1,2,9,0,Twitter Web App,3_1460325577358037004,https://pbs.twimg.com/media/FEQeYB7X0AwScRI.jpg,photo, ,Dylan Moriarty,DylanMoriarty,True,1833,1337,Wisconsin
+1460599810227159041,"My #30DayMapChallenge entry for Day 16 (Urban/Rural)
+Map displays public transport journey times to Ireland's cities https://t.co/ktBUkFDsso",942183109,2021-11-16 13:25:06+00:00,en,2,1,14,0,Twitter for Android,3_1460599806821294085,https://pbs.twimg.com/media/FEUXySSWYAUbgkG.jpg,photo, ,Ciarán Maguire,ciaran_mag1,False,173,529, 
+1460598778369650692,"#30DayMapChallenge Day 16: Urban/Rural
+
+Urban development in Dubai between 1984 and 2021.
+#landsat #mapping #mapplejuice #satellite #timelapse https://t.co/o8QJvAdpLR",1091106812852609027,2021-11-16 13:21:00+00:00,en,2,0,3,0,Twitter Web App,7_1460598683272159244,https://pbs.twimg.com/ext_tw_video_thumb/1460598683272159244/pu/img/vLaLQCx81ul80M0F.jpg,video, ,MappleJuice,Mapple_juice,False,35,10,The Netherlands
+1460597323474554884,"Day 1. ”A Portrait”
+A work to love one from my creative period.
+#30DayMapChallenge https://t.co/KqSUSUqVJl",2396273877,2021-11-16 13:15:13+00:00,en,1,1,5,0,Twitter Web App,3_1460596380997763072,https://pbs.twimg.com/media/FEUUq4GXwAA84cA.jpg,photo, ,Tabula rasa,Hominis_simplex,False,93,1006, 
+1460596952903696390,"Construction and expansion of Salar de Atacama - large evaporation ponds complex in #Chile. 
+1994-2021 timelapse created using #Landsat 4,5 and 8 true color images. 
+Satellite data processed in @sentinel_hub 
+
+#30DayMapChallenge #Atacama #Antofagasta  #Lithium https://t.co/TrIVYxNqxo",1368902640181145600,2021-11-16 13:13:44+00:00,en,15,0,40,0,Twitter Web App,7_1460596783046963202,https://pbs.twimg.com/ext_tw_video_thumb/1460596783046963202/pu/img/Mmzk_Fs16ga0Ojij.jpg,video, ,kosmi,kosmi64833127,False,489,200, 
+1460596193218629633,"#30DayMapChallenge 
+
+Urban and rural
+
+Going to just place an image from a paper I just published in @MalariaJournal on the urban and rural continuum in #Malawi
+
+We created a composite measure of urbanicity and applied it to a point grid in Malawi. https://t.co/QsyXP79N4z",77623399,2021-11-16 13:10:43+00:00,en,3,0,12,0,TweetDeck,3_1460595984363184129,https://pbs.twimg.com/media/FEUUTyhUYAE1I69.jpg,photo, ,Dr. Peter Larson,pslarson2,False,1003,1680,"Ann Arbor, MI"
+1460595435412803594,"What are the most common English supermarkets in different areas?
+
+#30daymapchallenge #day16 #qgis #urbanrural https://t.co/V5uKgOAnFt",1101617286,2021-11-16 13:07:43+00:00,en,40,10,274,6,Twitter Web App,3_1460595090968256517,https://pbs.twimg.com/media/FEUTfyXXoAUWLz3.jpg,photo, ,Helen McKenzie,helenmakesmaps,False,4382,967,London
+1460594249649377287,"Day 16: Urban/rural
+
+On the drive from Vermont to Montréal, I'm always struck by how abruptly the city emerges from the farmland surrounding it. I've used Esri's 10m LULC data to try to capture the lines between crops and buildings. #30DayMapChallenge https://t.co/wmmMEID7rs https://t.co/awcBJ1x2UV",278873782,2021-11-16 13:03:00+00:00,en,1,0,8,1,Twitter Web App,3_1460436803664719873,https://pbs.twimg.com/media/FESDiQNXsAECf9K.jpg,photo, ,Map/,vtcraghead,False,3752,916,"Burlington, VT"
+1460593517043105799,"Day 16: Urban/rural
+Living walls* of #Leeds
+Data: @osmuk, @mapbox
+Tools: @Blender and #blenderosm https://t.co/JpxaZNuZaj
+*walls textured with cabbage, bamboo and potatoes (@pokateo_ )
+#30DayMapChallenge  #GIS  #gischat #osm https://t.co/RvspUWMopi",52190652,2021-11-16 13:00:05+00:00,en,2,1,11,0,Twitter Web App,3_1460593212255526914,https://pbs.twimg.com/media/FEURybnWYAId4Gh.jpg,photo, ,Oliver Burdekin,burdGIS,False,1809,3458,"Wakefield, England"
+1460592343288012802,"Day 15 #30DayMapChallenge map without a pc.
+
+My attempt to make a nerdy world map from actual nerds failed in many ways 🤣 
+1. My kids ate half the nerds.
+2. Surface stickiness of nerds.
+3. Europe.
+
+😆🤪 https://t.co/kTNjmVMZWW",134939026,2021-11-16 12:55:25+00:00,en,1,0,4,0,Twitter for Android,3_1460592340440162306,https://pbs.twimg.com/media/FEUQ_r2XoAIq4-f.jpg,photo, ,JonoPatterson,JonoPatterson,False,253,636,Lancashire
+1460590844206010370,"Day 15: 🇺🇦 #Map made without using a computer #30DayMapChallenge hand drawn by 'gontsa': https://t.co/3kzaM24TpW
+🗺️ «Black Sea and Black Trail» (old trade trail) https://t.co/whG7sTPXLp",921409205080412161,2021-11-16 12:49:28+00:00,en,0,0,0,0,Twitter Web App,3_1460589903503364097,https://pbs.twimg.com/media/FEUOx1jXEAE5M8K.jpg,photo, ,app4soft 💉💉 #УкрТві🇺🇦🦖☄️,app4soft,False,387,5,Ukraine
+1460590473849016326,"Day 16- #30DayMapChallenge 
+Theme: Urban/Rural.
+
+Global Rural Population in 2020 using data by the World Bank and selecting a colour blind friendly palette using Color Brewer. https://t.co/ZpkKzmEgQn",2149588681,2021-11-16 12:48:00+00:00,en,1,0,5,0,Twitter for Android,3_1460590471626035207,https://pbs.twimg.com/media/FEUPS5-XEAcJeZc.jpg,photo, ,Claire Powell,Pow__C,False,110,229, 
+1460590354978246664,"Day 16- #30DayMapChallenge 
+Theme: Urban/Rural.
+
+Global Rural Population in 2020 using data by the World Bank and selecting a colour blind friendly palette using Color Brewer. https://t.co/gzTVlAjEhn",2149588681,2021-11-16 12:47:31+00:00,en,1,0,1,0,Twitter for Android,3_1460590352528809985,https://pbs.twimg.com/media/FEUPL-TXoAEh1pT.jpg,photo, ,Claire Powell,Pow__C,False,110,229, 
+1460588353183793152,"#30DayMapChallenge Urban/Rural: 
+In Cerrejón, Columbia  native inhabitants fight against exploitation of their lands for coal feeding the urban hunger for energy. Here is a timelapse of the mines eating land and people
+
+made with @giswqs Streamlit App https://t.co/lRCHtnwmEf https://t.co/4Uws2zcthL",110208812,2021-11-16 12:39:34+00:00,en,0,0,4,0,Twitter Web App,16_1460587322085421059,https://pbs.twimg.com/tweet_video_thumb/FEUMblBXMAM5FW9.jpg,animated_gif, ,Ben Jamin',Terranigmus,False,46,158,Germany
+1460587722620518403,"#30DayMapChallenge
+Day 16 - Urban/Rural
+
+Using some lovely data from the Valuation Office Agency (from 2014), here is the modal (i.e. most common) construction date for dwellings in each neighborhood in England. 
+
+Made in #RStats https://t.co/XrRlDS7Gxk",2213909976,2021-11-16 12:37:04+00:00,en,5,2,44,1,Twitter Web App,3_1460586794286825476,https://pbs.twimg.com/media/FEUL820XwAQSQD6.jpg,photo, ,Colin Angus,VictimOfMaths,False,14874,684, 
+1460586031477100550,"#30DayMapChallenge Día 16. Urban/Rural
+Mapa de la huella urbana en Europa Occidental utilizando la base Natural Earth.
+Fuente: https://t.co/bzT1CXh4A5
+Instagram: dataurbana
+#DataUrbana #SocialDataScience #UrbanDataScience #SpatialDataScience #dataviz #python @tjukanov https://t.co/A7cvqhnrvx",1270981983842287616,2021-11-16 12:30:20+00:00,es,1,0,5,0,Twitter Web App,3_1460586018395074563,https://pbs.twimg.com/media/FEULPsZXMAMs9yJ.jpg,photo, ,DataUrbana,Data_Urbana,False,78,167,Barcelona
+1460585947964264453,"It's day 16 of #30DayMapChallenge: a ""Battle"" of Urban/Rural with landuse data for the municipality of Cremona (Italy) 🏙🌿
+Data from Geoportale Lombardia, basemap from Bing satellite
+Tools: QGIS and GIMP https://t.co/B8dk5ZFXiL",148715617,2021-11-16 12:30:01+00:00,en,5,0,24,0,TweetDeck,16_1459975696751730694,https://pbs.twimg.com/tweet_video_thumb/FELgKTGXIAYHwg3.jpg,animated_gif, ,Federica Gaspari,fede_gaspari,False,577,405,Arona | Piacenza
+1460585648935604229,"Rural Urban Classification (2011) of England and Wales
+#30DayMapChallenge day 16: Urban/Rural 🗺️🏙️ https://t.co/RTDtVhXkUK",1121807869932908546,2021-11-16 12:28:49+00:00,en,1,0,10,0,Twitter Web App,3_1460584751954337795,https://pbs.twimg.com/media/FEUKF-iXIAMJydU.jpg,photo, ,Lena Kilian,lenakilian_,False,77,196,Leeds
+1460584938068058116,"@qgis #30DayMapChallenge Day 16: Urban/rural
+
+The map below shows world agglomerations’ growth in the past 70 years. The UN estimates the number of people in urban areas overtook the number in rural settings in 2007. https://t.co/q3eiLPAycW",1024584556110852096,2021-11-16 12:26:00+00:00,en,2,1,13,0,Twitter Web App,7_1460584345962483720,https://pbs.twimg.com/ext_tw_video_thumb/1460584345962483720/pu/img/WOg1km-wWPBNHP63.jpg,video, ,Kontur,KonturInc,False,1016,1208,"Hawaii, USA"
+1460583912648884231,"#30DayMapChallenge
+MADE WITHOUT A COMPUTER
+
+This is a snapshot of a draft map I’m making as a gift for some friends. There’s more to it than this (including color and more refined typography) but that includes some more personal locations, so here you go! https://t.co/A9sOkvADbn",1301891827,2021-11-16 12:21:55+00:00,en,1,0,3,0,Twitter Web App,3_1460583596788490240,https://pbs.twimg.com/media/FEUJCvNXIAAcRZQ.jpg,photo, ,Christopher Archuleta,Geodesy_,False,170,563,"Madison, WI"
+1460581552820264961,"#30DayMapChallenge 
+Day 16: Urban/Rural
+
+Residential area of the municipality of Flores de Goiás, Brazil
+Database: Geofabrik / OpenStreetMaps
+By: Lucas de Morais Teixeira
+
+#QGIS #urban #rural #residencial #Brazil #goias #FloresdeGoias #map #geofabrik #OpenStreetMap https://t.co/yMhZFCZQsE",1027773119208062982,2021-11-16 12:12:33+00:00,ca,0,1,4,0,Twitter Web App,3_1460581456368054283,https://pbs.twimg.com/media/FEUHGJhXMAsi0kW.jpg,photo, ,Lucas Morais Teixeira,lucaobala_,False,56,263,"Maceió, Brasil"
+1460580364586405891,"#30DayMapChallenge Day 16 | Urban/Rural
+
+#Dhaka, the capital city of #Bangladesh has almost 70-80% built up areas. 
+#QGIS 
+Data Source: #Esri Global LULC 2020 https://t.co/qz215oskVV",771895849,2021-11-16 12:07:49+00:00,en,0,0,2,0,Twitter Web App,3_1460579996221595649,https://pbs.twimg.com/media/FEUFxKDUYAEjpDK.png,photo, ,Padmanabha Chowdhury,PadmanabhaChy,False,5,29,Bangladesh
+1460579119948001280,"#30DayMapChallenge 
+16天：新工具制图
+使用prettymaps制作地图，安装好各种依赖之后，粘贴，修改主页代码就能出图了。 https://t.co/gJK2yzTtVO",1449404853634035718,2021-11-16 12:02:53+00:00,zh,0,0,4,0,Twitter for Android,3_1460579088306143232,https://pbs.twimg.com/media/FEUE8TzaAAAz2cF.png,photo, ,ShihanWong,wong_shihan,False,4,35, 
+1460578406387666947,DAY SIXTEEN: URBAN/RURAL 🌃 /🏕 doesn't need to be binary. @darribas &amp; @martinfleis introduce the Spatial Signatures as a more nuanced way to look at the landscape w/ urban lenses. Wanna know more? https://t.co/cr01HVnFVX #30DayMapChallenge 📅🌍 https://t.co/PfIE3JVN5v,2280343142,2021-11-16 12:00:02+00:00,en,11,0,46,3,TweetDeck,3_1460550272191799296,https://pbs.twimg.com/media/FETqu_aXoAAwtbO.jpg,photo, ,GeoDataScience,geodatascience,False,5397,2376,Liverpool
+1460577930015383559,"#30DayMapChallenge day 16 - theme urban / rural. A simple one for today, rural population of the world 2018. https://t.co/ZXMpHHNn6J",798523409286266880,2021-11-16 11:58:09+00:00,en,1,0,7,0,Twitter for Android,3_1460577926752182279,https://pbs.twimg.com/media/FEUD4srXIAc5kr6.jpg,photo, ,Dan Harris,DiasporaDan,False,1229,1857,"Grantown-on-Spey, Scotland"
+1460576467536908295,#30DayMapChallenge Map Without a computer Day 15: an imagined archipelago in pen and pencil https://t.co/x1KVxYQcch,26189414,2021-11-16 11:52:20+00:00,en,1,0,5,0,Twitter for iPhone,3_1460576458502393859,https://pbs.twimg.com/media/FEUCjPBVUAMojtF.jpg,photo, ,Mike Floyd 🦉,mike_floyd_co,False,169,583,"Colorado, USA"
+1460575563647787008,"#30DayMapChallenge Day 16: Urban / rural
+Esri Model Builder on USGS Global GIS DVD in National  Geographic style for southernmost Kazakhstan, from stockyards in the southern plains, around the mountain range, to processing plants in the city of Shymkent. https://t.co/iBWbKRln0o https://t.co/zZvaSJyVkn",25663399,2021-11-16 11:48:45+00:00,en,1,0,1,0,Twitter Web App,3_1460573806922280977,https://pbs.twimg.com/media/FEUAI5HXsBENgp_.jpg,photo, ,Andrew Zolnai,azolnai,False,921,1529,"Cambridge, UK"
+1460573477157625865,"Urban growth in Africa. Most rapidly growing urban agglomerations with names. Data from @SWAC_OECD 👉🏼 https://t.co/3mTwvPhYp7
+
+#30DayMapChallenge Day 16: Urban/rural https://t.co/Q9S83Ykhas",2198358416,2021-11-16 11:40:27+00:00,en,14,0,80,3,Twitter Web App,3_1460573225285476352,https://pbs.twimg.com/media/FET_nCWWYAAramz.jpg,photo, ,Topi Tjukanov,tjukanov,False,15348,2505,"Helsinki, Suomi"
+1460572355256672257,"#30DayMapChallenge 2021 🗺️ Day 16 - Urban/Rural
+
+Global Urban-Rural Catchment Areas with Eckert I projection.  
+
+Tools: #rstats ({terra},{sf},{ggplot2})
+
+HighRes: https://t.co/bc6yI2Cagq https://t.co/Ah9Z58PDbZ",2745527973,2021-11-16 11:36:00+00:00,en,4,0,10,0,Twitter Web App,3_1460365930823917584,https://pbs.twimg.com/media/FERDE6TXoBAifWg.jpg,photo, ,David Schoch,schochastics,False,1928,290, 
+1460572094446583809,"Day 14 of  #30DayMapChallenge  - Map with a new tool. R + Rayshader. La Palma (again) uses data from Coppernicus Emergency Management Service - Mapping, SRTM and Opentopography. https://t.co/FpNplwkOTn",1318518242080661504,2021-11-16 11:34:58+00:00,en,1,1,9,0,Twitter Web App,3_1460571075725647877,https://pbs.twimg.com/media/FET9p6nWYAUAaBR.jpg,photo, ,Christoph Er,dataisawesomeo,False,199,580, 
+1460572018236178433,"#30DayMapChallenge 2021 Day 16: Urban/rural
+
+I am being lazy!
+
+There are only two places in the world named Calgary. One is urban and one is rural
+
+I am retweeting my @googlemaps map from Day 12, amended to show which is which!  I am also including @openstreetmap maps for both https://t.co/F9rc95ElbY",1033206985,2021-11-16 11:34:39+00:00,en,1,1,3,2,Twitter Web App,3_1460571242692583433,https://pbs.twimg.com/media/FET9zonXoAkj2aX.jpg,photo, ,Phil Tarr,CasegFraith,False,526,862,United Kingdom
+1460567166017810434,#30DayMapChallenge day 16 urban conditions de circulation du coronavirus dans les principales agglomérations du Clustland. Évitez le périphérique de Bisou-Bisou et la rocade est de Contanamera qui reste aussi très encombrée https://t.co/ND0bZPaZXo,1189967197730430977,2021-11-16 11:15:23+00:00,fr,1,0,4,0,Twitter for Android,3_1460567152734392329,https://pbs.twimg.com/media/FET6FkVWUAkyRC_.jpg,photo, ,Julien Dupont Kobri,Kartokobri,False,880,387, 
+1460565984499142656,"#30DayMapChallenge 
+Day 16 : Urban/rural
+Urban areas in Africa according to the Natural Earth data source. The map is coupled with heat map of populated areas! https://t.co/txGg6dQym9",860412366323933185,2021-11-16 11:10:41+00:00,en,3,0,9,0,Twitter Web App,3_1460565967092736003,https://pbs.twimg.com/media/FET5AjeWYAMbxbA.jpg,photo, ,BAOVOLA Marie Anna,BaovolaMada,False,515,1606,Madagascar
+1460565639953797133,"Running a few days behind #30DayMapChallenge, but day 14 (new tool) gave a good excuse to install Generic Mapping Tools: https://t.co/h8OYBkRYyi https://t.co/XTOMlFeB7m",2198358416,2021-11-16 11:09:19+00:00,en,2,0,52,0,Twitter Web App,3_1460565457073844224,https://pbs.twimg.com/media/FET4i3gXsAAhgrf.jpg,photo, ,Topi Tjukanov,tjukanov,False,15348,2505,"Helsinki, Suomi"
+1460558576003563520,"#30daymapchallenge.
+
+Day 16: Urban/Rural 
+
+#cartography #mapping #maps #urban #rural #Kenya #isiolotown #gis #gismapping
+
+Map of Isiolo town in Kenya by Grachen Akoth https://t.co/ntBjM6ALNy",1255575072301088770,2021-11-16 10:41:15+00:00,ht,0,0,3,0,Twitter Web App,3_1460558558593003522,https://pbs.twimg.com/media/FETyRUqXsAIQOXy.jpg,photo, ,GIS-E,GISE50189808,False,57,21,"London, UK"
+1460557411190775808,"#30DayMapChallenge #Day16: Urban/Rural. Here the ""urban fabric"" of Berlin &amp; Vienna is plotted in @Stata (using #TaylorSwift #Red scheme🥳). Urban fabric is defined as the % share of built-up area that fully covers a land patch. &gt;80% = soil, trees are almost not visible. https://t.co/84P9LIuIdH",124852105,2021-11-16 10:36:37+00:00,en,7,0,50,0,Twitter Web App,3_1460556391211573251,https://pbs.twimg.com/media/FETwTKiXoAMT1ju.jpg,photo, ,Asjad Naqvi,AsjadNaqvi,False,4688,768,"Vienna, Austria"
+1460556148176793603,"Day 15 - Map made without using a computer #30DayMapChallenge
+
+An imaginary Earth from an imaginary heart that already love maps.
+
+Source: My dear son Francisco ;)
+
+#maps #love https://t.co/XAq5y8KJCW",908802680,2021-11-16 10:31:36+00:00,en,2,1,7,0,Twitter Web App,3_1460555934342733826,https://pbs.twimg.com/media/FETv4kkWYAIFrGM.jpg,photo, ,Miguel Marques,mmmgeo,False,101,158,"Lisbon, Portugal"
+1460555704171995139,"#30DayMapChallenge day 16: Urban/Rural. Distribution of people and hospitals in Belgium. Data from @openstreetmap, @Statbel_nl and NGI-IGN. https://t.co/MTRt054TfG",269294137,2021-11-16 10:29:50+00:00,en,1,0,4,0,Twitter for Android,3_1460555698257940487,https://pbs.twimg.com/media/FETvq1FWUAcNinA.jpg,photo, ,michelstuyts,michelstuyts,False,493,1480,"Antwerp, Belgium"
+1460551179948199943,"#30DayMapChallenge day 16 (urban/rural)
+
+European DEGURBA system classifies areas into rural, town/suburb, and city categories based on % of population living in urban centers. Data: https://t.co/HpuMWYfUeB https://t.co/GU3pVnuH4H",963423777135759360,2021-11-16 10:11:51+00:00,en,109,23,507,26,Twitter Web App,3_1460549490885238786,https://pbs.twimg.com/media/FETqBg0XoAIOcj3.jpg,photo, ,Ilya Ilyankou,ilyankou,False,431,401,London
+1460549349780467721,"#30DayMapChallenge 16 Urban/Rural. Percentage of county's total population represented by the urban population, in Texas.
+
+Data source: https://t.co/PKRsmKrCZr
+#rstats code: https://t.co/M8QmTq4Ahl https://t.co/x0jTfvUARE",1331215289825030147,2021-11-16 10:04:35+00:00,en,2,0,16,0,Twitter Web App,3_1460548487754534912,https://pbs.twimg.com/media/FETpHH3X0AAeNr-.jpg,photo, ,leeolney,leeolney3,False,281,306, 
+1460548631732244483,"Day 16 of #30DayMapChallenge 2021 – Urban/Rural
+
+Why not both? The urban-rural continuum of Jakarta. Pockets of dense settlement with rural aspects of its demography
+
+5 of many Kampung Kota (City Village) of Jakarta. https://t.co/C4t2JgCGcC",950010366779564043,2021-11-16 10:01:44+00:00,en,3,1,4,1,Twitter Web App,7_1460548495169884160,https://pbs.twimg.com/ext_tw_video_thumb/1460548495169884160/pu/img/gJ57vHegatDqzJx-.jpg,video, ,alv irl,alv_irl,False,220,468, 
+1460548445266190341,Tuesday 16th of November and the day 16 of the #30DayMapChallenge. The category for today's map is.... #Urban/#Rural. So we've created a video of #MiltonKeynes' road network going which highlights it becoming more urbanised and developed since 2011. https://t.co/JXztvUVK4C,49592380,2021-11-16 10:00:59+00:00,en,1,0,2,0,SocialPilot.co,7_1460548415679606793,https://pbs.twimg.com/ext_tw_video_thumb/1460548415679606793/pu/img/HXIFfm26hAm3mgT2.jpg,video, ,Basemap,basemap,False,1664,1588,"Guildford, Surrey"
+1460548199639257088,"#30DayMapChallenge Day 16: Urban/rural - The Rural/Urban Classification (RUC) is an official statistic used to distinguish #rural and #urban areas, and is produced at a range of scales from OA to LAD. Here is an example of the RUC classification at #LSOA for #Yorkshire &amp; #Humber https://t.co/oAMvUq38L5",2248416469,2021-11-16 10:00:01+00:00,en,1,1,11,0,TweetDeck,3_1460291095380869126,https://pbs.twimg.com/media/FEP_A6jXwAY0zyI.jpg,photo, ,ONS Geography,ONSgeography,True,6543,166,"Titchfield, Fareham"
+1460547178003369988,"A day late but what the heck, when the maps are this good what’s the hurry? Ladies and gentlemen, for the Ministry’s first foray in to the #30daymapchallenge, we give you the rectangular states of the USA #day15 #mapwithoutacomputer https://t.co/0Ygn2mln7B",862916381595099137,2021-11-16 09:55:57+00:00,en,6,1,38,0,Twitter for iPhone,3_1460547168251662338,https://pbs.twimg.com/media/FETn6UVX0AIZ4_c.jpg,photo, ,The Ministry Of Maps,MinistryOfMaps,False,255,16,London Towne
+1460546444255969281,"Is it a #whale? #Lake #Balaton again, 2021-10-09, UWQV for slightly darkening the land, #3D. #Swirl @ #Tihany straits and along N coast - This is how #Sentinel2 helps #limnology understand lake currents. @sentinel_hub for #30DayMapChallenge, now I can't stop ;~) #sciart #scicomm https://t.co/kcx8Tm1ZDy",2788367426,2021-11-16 09:53:02+00:00,en,8,0,13,0,Twitter Web App,3_1460545026694463493,https://pbs.twimg.com/media/FETl9qaWQAUqJCT.jpg,photo, ,András Zlinszky,azlinszky,False,249,116,"Tihany, Lake Balaton, Hungary"
+1460546360596389889,"Day 16 of the #30DayMapChallenge takes as to the growing town of #Isiolo that is relatively, the mid-point of #kenya.
+#OSMdata https://t.co/AroIKGu1vx",1412877030895628289,2021-11-16 09:52:42+00:00,en,2,0,7,0,Twitter for Android,3_1460546358188941313,https://pbs.twimg.com/media/FETnLKnXoAEqrEw.jpg,photo, ,Grachen Akoth,MapsGre,False,31,47, 
+1460544441551261696,"I've been really keen to try out {rayshader} but struggled a little. I'll stop and release my first attempt, for #30DayMapChallenge Day 10 (raster).
+Easily adapting Amit's code to show Kāpiti Island, which I can see from my lounge.
+My #rstats code: https://t.co/eScrZAAI3o https://t.co/5xCmObZVGK https://t.co/vbwnFHReZT",33788841,2021-11-16 09:45:05+00:00,en,4,1,12,0,Twitter Web App,3_1460544397234163714,https://pbs.twimg.com/media/FETlZBfUUAIIE0y.png,photo, ,suǝbbıɹɟ pıʌɐp,dakvid,False,556,464,"Wellington, New Zealand"
+1460543159964942338,#30DayMapChallenge Map without using computer. Le canal Yang Tsé/Nil/Mekong enfin achevé https://t.co/UpVhV88g2l,1189967197730430977,2021-11-16 09:39:59+00:00,fr,1,0,8,2,Twitter for Android,3_1460543148296445954,https://pbs.twimg.com/media/FETkQU1XIAIZJRu.jpg,photo, ,Julien Dupont Kobri,Kartokobri,False,880,387, 
+1460537970071535622,"This train is running late...cartography....then..drainage ordering.. Rotring pen..
+Not done using.. Arc... #30DayMapChallenge #30daysmapchallenge https://t.co/pgGoHnT04x",2240301877,2021-11-16 09:19:22+00:00,en,1,0,2,0,Twitter for Android,3_1460537960080629761,https://pbs.twimg.com/media/FETfiVOUYAErGvl.jpg,photo, ,Swapna,swapna_apsrsac,False,355,1286,India
+1460537368574889985,"#30DayMapChallenge 
+Day 16 - Urban/Rural
+
+Trees of Cologne
+
+Created with #rstats and {ggplot2} https://t.co/gg7hj7SF9T",1139059532,2021-11-16 09:16:58+00:00,en,3,0,14,1,Twitter Web App,3_1460537348589072384,https://pbs.twimg.com/media/FETe-vPXsAALRcC.jpg,photo, ,Ansgar Wolsing,_ansgar,False,380,1021,"Köln, Deutschland"
+1460536978773094405,"#30DayMapChallenge Urban/rural. Taken from my old publication (https://t.co/cDycdZKUqO, that's why it lacks attribution - @GUGiKgovpl 2001 topographic map as a background) on how a village of Rury Wizytkowskie became a bustling residential district of Lublin (Poland). https://t.co/dfTmJkZ9GA",1293985495781974016,2021-11-16 09:15:25+00:00,en,1,0,1,0,Twitter Web App,3_1460536948582490112,https://pbs.twimg.com/media/FETendGXoAAXC50.jpg,photo, ,Kamil Nieścioruk 🇵🇱🌐💾🚴🏃🏸,mapdoktor,False,18,16,"Lublin, Poland"
+1460535365505331202,"Day 13 of  #30DayMapChallenge  - Natural Earth 
+Volcano eruption in La Palma, Spain. Made using 
+Copernicus Emergency Management Service - Mapping ([EMSR546] La Palma: Grading Product, Monitoring 51, version 1, release 1, RTP Map #01) + SRTM + #Aerialod https://t.co/K3DkJ4hQu3",1318518242080661504,2021-11-16 09:09:01+00:00,en,0,1,4,0,Twitter Web App,3_1460534720266223619,https://pbs.twimg.com/media/FETclv-XwAM6GrY.png,photo, ,Christoph Er,dataisawesomeo,False,199,580, 
+1460533366516699136,"I tried out https://t.co/rozN5W6yjj for #30DayMapChallenge Day 14 (use a new tool) and threw in all NZ imports and exports for 5 years.
+Interactive: https://t.co/bEl6bvx6EA
+Not great - would be better to pare back the countries - &amp; not crossing the dateline 💩 for NZ https://t.co/nLNpGlQaUS",33788841,2021-11-16 09:01:04+00:00,en,1,1,3,0,Twitter Web App,3_1460532617015558145,https://pbs.twimg.com/media/FETarUwVgAEwad6.jpg,photo, ,suǝbbıɹɟ pıʌɐp,dakvid,False,556,464,"Wellington, New Zealand"
+1460530724025556994,"Day 16: Urban/Rural
+
+We're over halfway through the #30DayMapChallenge! 
+
+It's hard to define exact boundaries of what's urban and rural. The data below is from @CSOIreland and OSM - do you draw the urban boundary with population density or is there another metric to use? https://t.co/eQQ3sknLLA",437801734,2021-11-16 08:50:34+00:00,en,2,0,27,0,Twitter for Android,3_1460530721659969549,https://pbs.twimg.com/media/FETY9AAWYA0ZXGz.jpg,photo, ,Antonia Blankenberg,MapsByAntonia,False,483,523,"Dublin City, Ireland"
+1460530562767233032,"#30DayMapChallenge Day 16 Urban/Rural
+
+Scottish Government Urban Rural Classification (8-Fold)
+
+#QGIS #OpenSource https://t.co/BQ8IFmGQPX",223959960,2021-11-16 08:49:56+00:00,en,4,0,10,0,Twitter Web App,3_1460530389219479556,https://pbs.twimg.com/media/FETYppkXEAQc4SO.jpg,photo, ,Kirsten Reilly,_penguin_runner,False,417,1221,"Stirling, Scotland"
+1460528327106699266,#30daymapchallenge Day 16 - Urban/Rural - Weighted hotspot map based on output areas population numbers to highlight Urban Areas. @Cadcorp #gis #kde #hotspot #urbanrural https://t.co/bAtiQFbDSP,92832101,2021-11-16 08:41:03+00:00,en,4,0,10,0,Buffer,3_1460528323986137088,https://pbs.twimg.com/media/FETWxb-XIAAkn9U.jpg,photo, ,Ian Usher,ian_usher1985,False,469,1886,Stevenage
+1460528109023744003,"Day 16 and Urban/Rural in the #30DayMapChallenge. The share of Finnish population living in #rural areas was 26.7 % in 2020. However, looking at regions or especially municipalities gives you a whole new perspecive: in 217 of 309 municipalities the share was 80 % or higher. https://t.co/92qXYjb9vv",490477903,2021-11-16 08:40:11+00:00,en,1,0,6,0,Twitter Web App,3_1460527515156586498,https://pbs.twimg.com/media/FETWCW2XoAIE3Yd.jpg,photo, ,Tuomas Lehto,LehtoTuomas,False,266,277,Helsinki
+1460526954550079489,"#30DayMapChallenge
+Day 16: Rural/Urban: Ministry of Municipal Rural Affairs MOMRA. KSA Riyadh https://t.co/l9BOFMTTlU",3310104332,2021-11-16 08:35:35+00:00,ca,1,0,2,0,Twitter for Android,3_1460526928478318596,https://pbs.twimg.com/media/FETVgNTXsAQ9F5F.jpg,photo, ,Mohammad Kourani,MKourani2017,False,8,48,Kingdom of Saudi Arabia
+1460524926662758401,"On calm #autumn days, mist rising from #Lake #Balaton forms fog in the valleys, with the tops of volcanic #mesa hills sticking out. Old @USGSLandsat pic from 1983 november, a few days after I was born. @sentinel_hub for #30DayMapChallenge #sciart #scicomm #remotesensing #history https://t.co/jXfzYiaBcu",2788367426,2021-11-16 08:27:32+00:00,en,5,0,14,0,Twitter Web App,3_1460523428398706689,https://pbs.twimg.com/media/FETSUefXMAE_vx9.jpg,photo, ,András Zlinszky,azlinszky,False,249,116,"Tihany, Lake Balaton, Hungary"
+1460522149819695105,@GeotoZee 's map is of Urban-Rural Catchment areas - how far an area is from a large city (population &gt; 5 million) based on travel time. Day 16 of the #30DayMapChallenge https://t.co/2u8kxmlZr3,1109007483199213568,2021-11-16 08:16:30+00:00,en,2,0,6,1,Twitter for Android,3_1460522146283900929,https://pbs.twimg.com/media/FETRJ2PX0AE2YjB.jpg,photo, ,UP Mappers,UPmappers,False,87,66,"Pretoria, South Africa"
+1460522072459948032,Scottish Government Urban/Rural Classification for LEW parish #30DayMapChallenge | Day 16 | Urban/Rural https://t.co/zRjBlThnjq,16735351,2021-11-16 08:16:11+00:00,en,1,1,8,0,Twitter for iPhone,3_1460522068001308678,https://pbs.twimg.com/media/FETRFSnWQAY-4_e.jpg,photo, ,tookiebunten,tookiebunten,False,1086,2012,"South Lanarkshire, Scotland"
+1460521945968033792,"#30DayMapChallenge 16 : rural/urbain, le rapport de force et les clivages qu'il suscite. La puissance de la ruralité dans un contexte développement continu des principales métropoles (quoique...). Mon petit #cARTo du Texas. Aussi visible sur https://t.co/f7ZEPezYPn https://t.co/H7yCY1ZgTV",494171107,2021-11-16 08:15:41+00:00,fr,3,1,18,0,Twitter for Android,3_1460521934916132865,https://pbs.twimg.com/media/FETQ9i1XoAE6Mdt.jpg,photo, ,Rémi Guédon,RGuedonHG,False,477,264, 
+1460519227203502083,"#30DayMapChallenge Day 16. Urban-Rural
+Ceremonial #Dorset population densities by LSOA. Data @ONS; basemap @Esri; using #qgis2threejs and made in #QGIS. https://t.co/zhKY0PFDp1",1074378707438055426,2021-11-16 08:04:53+00:00,en,2,0,5,0,Twitter Web App,3_1460519176993394689,https://pbs.twimg.com/media/FETOdAxWUAEDNQj.jpg,photo, ,Blandford Bread 💙,BlandfordBread,False,576,1081,"South West, England"
+1460518180359589894,"Here I played out an arithmetic hypothesis that I can simply apply a conditional statement to previous data about vegetation to answer the theme of #30DayMapChallenge Day 16: Urban/Rural.  For a simple calculation and about 10 minutes of work, I am satisfied with the results! https://t.co/OGvdspp0Zc",754537285660573696,2021-11-16 08:00:43+00:00,en,3,1,6,0,Twitter Web App,3_1460517536915623936,https://pbs.twimg.com/media/FETM9jAVkAAmqc7.jpg,photo, ,Derek Sollberger,DerekSollberger,False,339,710,"Merced, CA"
+1460518005847298050,"Day 16: urban/rural #30DayMapChallenge Corsica, one point per farm (randomised inside the city borders), categories mapped to the main activity of the city. https://t.co/yHag6f6YAA
+Details in https://t.co/oXO3A69QyI https://t.co/iCYMWDxaJU",160578875,2021-11-16 08:00:02+00:00,en,3,0,8,0,Twitter Web App,3_1458954338970259457,https://pbs.twimg.com/media/FD8_Pc3WUAE9FGg.jpg,photo, ,Xavier Olive,x00live,False,237,162,"Toulouse, France"
+1460515954308354049,16. Urban/rural: rural taken over by urban mapped as built-up area from GHSL data 🏞️🏬🏣 #30DayMapChallenge #QGIS https://t.co/PufHm4k1bI,47698876,2021-11-16 07:51:53+00:00,en,18,1,97,1,Twitter Web App,16_1460515902642868226,https://pbs.twimg.com/tweet_video_thumb/FETLea3WUAI1Lu1.jpg,animated_gif, ,Evelyn,evelynuuemaa,False,1116,353,Estonia
+1460515865904959492,#30DayMapChallenge - Urban-Rural https://t.co/qC3rda8hPM,252009888,2021-11-16 07:51:32+00:00,es,14,1,54,7,Twitter Web App,3_1460515845587849218,https://pbs.twimg.com/media/FETLbGUX0AIuQ0e.jpg,photo, ,Agnès Stienne,odilon72,False,937,566,Le Mans
+1460515108975788032,"Day 16 - Urban/Rural
+Map using OS Zoomstack showing the urban areas of Great Britain.
+#30DayMapChallenge https://t.co/mUv3WjFSES",1694963077,2021-11-16 07:48:31+00:00,en,1,0,3,0,Twitter Web App,3_1460515057494896642,https://pbs.twimg.com/media/FETKtOcXsAIRALr.jpg,photo, ,Marcus Humphrey,92MBH,False,93,126,"Perth, Scotland"
+1460512028465016834,"#30DayMapChallenge day 16 : urban.Les principales agglomérations de White Year Island (Muertacultura, Clownabad, Festosh...) et les sites archéologiques du spectacle vivant engloutis (ruines de Pompidup, colosse de Roadie, etc) en période de confinement . Une carte intermittente https://t.co/z65LhLVGz1",1189967197730430977,2021-11-16 07:36:17+00:00,fr,1,0,5,0,Twitter Web App,3_1460511869039489025,https://pbs.twimg.com/media/FETHzohXMAEpQge.jpg,photo, ,Julien Dupont Kobri,Kartokobri,False,880,387, 
+1460511202120019974,"#30DayMapChallenge  Day16 - Urban/Rural
+Where do people live in Sweden? https://t.co/tOYqsfaqHY",56323078,2021-11-16 07:33:00+00:00,en,3,2,34,0,Twitter Web App,3_1459831831935733762,https://pbs.twimg.com/media/FEJdUQ5WUAIV8Wj.jpg,photo, ,Klas Karlsson,klaskarlsson,False,5330,82,"Eksjö, Sweden"
+1460507834098069512,"#30DayMapChallenge day 16: urban/rural. Constantinople in the 14th c., the map I wish I could have made for my PhD… More at https://t.co/LDsU8x9HST https://t.co/4qDuLgoNEa",840682774403133441,2021-11-16 07:19:37+00:00,en,2,0,2,0,Twitter for iPhone,3_1460507829014519812,https://pbs.twimg.com/media/FETEIeQWYAQ0CNg.jpg,photo, ,HistoCarte,HistoCarte,False,77,69, 
+1460505201207558144,"Day 16 of #30DayMapChallenge is urban. Using Natural Earth data, which itself used MODIS data to define areas of dense human habitation
+Code: https://t.co/1MFtIyM3Lw
+#RStats https://t.co/GLSeusDOx9",525654957,2021-11-16 07:09:09+00:00,en,2,0,4,0,Twitter Web App,3_1460505064259399683,https://pbs.twimg.com/media/FETBnivXMAMnLC4.png,photo, ,Alan Haynes,aghaynes,False,124,190,"Oftringen, Schweiz"
+1460505070529912834,"Day 16 of #30DayMapChallenge: urban/rural
+
+Gipuzkoako abere-azienda biztanleriarekin alderatuta. Donostia eta Ordizia dira azienda txikiena dutenak biztanleekin alderatuta. Orexak handiena. Aia da animalia gehien dituena.
+
+Datuak: OpenData Euskadi + OSM hillshade
+Softwarea: QGis https://t.co/xiAURHQ1u7",19770809,2021-11-16 07:08:38+00:00,eu,4,2,10,0,Twitter Web App,3_1460504974589370369,https://pbs.twimg.com/media/FETBiUsXIAEBXrV.jpg,photo, ,Galder Gonzalez🔻,theklaneh,False,9277,1309,Euskal Herria
+1460504373709221889,"#30DayMapChallenge Day 16, Urban/Rural. There are 21 countys in Sweden, and their percentage of densely populated land ('urban areas') varies from 0.2 - 13%. 
+Yes, I know it's overkill to use both pie charts and choropleth areas.
+Data from https://t.co/t3TISt5nB6 https://t.co/LF2leB8lNa",1143779197107806208,2021-11-16 07:05:52+00:00,en,1,0,0,0,Twitter Web App,3_1460503346582859779,https://pbs.twimg.com/media/FETADj5XMAMKUUu.jpg,photo, ,Jonas Nelson,JonasNelson19,False,45,7,Sweden
+1460504362959183874,"What I saw on my morning walk some lives ago 🍁🍂 
+
+#30DayMapChallenge
+Day 15: Map made without a computer https://t.co/732z91L0Nx",1265955927494197249,2021-11-16 07:05:49+00:00,en,0,0,7,0,Twitter for iPhone,3_1460504353660448769,https://pbs.twimg.com/media/FETA-LjXsAEt8ym.jpg,photo, ,Ceren Dolma,ceren_do,False,127,330,"Belfast, Northern Ireland"
+1460502899637825538,"Day 16 of #30DayMapChallenge (Urban / Rural): Rural population in Europe
+
+Size of the 'moon chart' shows the total population of each country and green part the percentage of rural population based on FAO data. 
+
+Tool #RStats #Rspatial https://t.co/yf5tlqY96e",1237617707106873344,2021-11-16 07:00:00+00:00,en,2,1,10,0,Twitter Web App,3_1460480612528238594,https://pbs.twimg.com/media/FESrYQ8XMAIe-Sd.png,photo, ,Benjamin Nowak,BjnNowak,False,1132,761,"Clermont-Ferrand, France"
+1460502899545370627,"#30DayMapChallenge
+
+Day 16 - Urban/rural
+Bolivia - urban/rural municipalities.
+
+Día 16 - Urbano/rural
+Bolivia - municipios urbanos y rurales.
+
+Data source/Fuente datos: INE Bolivia. Censo de Población y Vivienda 2012.
+Prepared/Elaborado: QGIS &amp; LibreOffice Impress https://t.co/Fik1xCvd38",38113384,2021-11-16 07:00:00+00:00,es,4,0,10,1,Twitter Web App,3_1460110458753536006,https://pbs.twimg.com/media/FENauerWUAYybus.png,photo, ,Eric Armijo,rcrmj,False,177,147,"Santa Cruz, Bolivia"
+1460502898807353345,"Day 16 of the #30DayMapChallenge - Urban/Rural
+
+Urban areas of Italy, colored by scale rank
+
+#30DaysOfPokemon Color Palette - Scyther
+
+More on this map and more maps  - https://t.co/Dkle8cGPmc
+#30ימימיפוי https://t.co/WLeVsfGpdo",1174353681946484739,2021-11-16 07:00:00+00:00,en,1,0,2,0,Twitter Web App,3_1457603552222879744,https://pbs.twimg.com/media/FDpytUGXoAAFRj7.jpg,photo, ,Dror Bogin,bogind2,False,169,292,Israel
+1460499972508499970,The worldwide #30DayMapChallenge has reached Estonian Land Board. For every day in November one new map will appear. 16th day category: urban/rural. You can see the whole gallery https://t.co/it1YIPjMyU https://t.co/RpWk8SUhVU,193592650,2021-11-16 06:48:22+00:00,en,1,0,3,0,Twitter Web App,3_1460499920008400899,https://pbs.twimg.com/media/FES88G6WUAM37A4.jpg,photo, ,Maa-amet,maaamet,False,174,89, 
+1460497666270535681,"Día 9. Monocromo 
+
+Guadalajara, 2021. Algo simple para terminar el día. Con información de @openstreetmap 
+
+#30DayMapChallenge https://t.co/9IY9hjUizy",3180922855,2021-11-16 06:39:13+00:00,es,5,1,15,0,Twitter Web App,3_1460496767183642631,https://pbs.twimg.com/media/FES6EluWYAcoSjl.jpg,photo, ,Cris,crisalpuche,False,332,559, 
+1460497446283493382,"#30daymapchallenge  map without using a computer
+
+my daughter (future paleontologist) told me, that I don’t know anything about dinosaurs and finally she draw all map 🦕 https://t.co/dG6JjTPSSs",2902589494,2021-11-16 06:38:20+00:00,en,1,0,13,0,Twitter for iPhone,3_1460497441002774531,https://pbs.twimg.com/media/FES6rz5WYAMiq1J.jpg,photo, ,Patrycja Krajczyńska,mapsbyp,False,1211,1136,Poland
+1460495347541626884,"When it comes to #urban/#rural divide in public transport, lights go out quite early in some Hamburg suburbs #30DayMapChallenge https://t.co/1ZVHTDWv7J",70192766,2021-11-16 06:30:00+00:00,en,5,1,24,2,Twitter Web App,16_1456581011958030341,https://pbs.twimg.com/tweet_video_thumb/FDbQtoxWYAUZKff.jpg,animated_gif, ,Achim Tack,A_Tack,False,1829,1263,"Hamburg, Germany"
+1460495342181306369,"#30DayMapChallenge 15: Sin Usar Computadora
+En este caso es un mapa de isolíneas de la temperatura máxima que hubo el día de hoy en la Ciudad de México. Los puntos negros son la ubicación de las estaciones los cuales se toman para su interpolación https://t.co/3MaWxPBVpH",309950945,2021-11-16 06:29:58+00:00,es,0,0,4,0,Twitter Web App,3_1460494662200823808,https://pbs.twimg.com/media/FES4KEDVkAAWPKI.jpg,photo, ,Mr. Brightside,edgareslahostia,False,157,833,En algún lugar de la galaxia
+1460495094604312576,"16 Urban/Rural map of Iceland. Using CORINE data, #qgis and Blender #b3d. See also Friðarsúlan, the Imagine Peace Tower near Reykjavík https://t.co/bNGCD4i79n #30DayMapChallenge https://t.co/HDqGI2tqxN",363276700,2021-11-16 06:28:59+00:00,is,4,0,11,0,Twitter Web App,3_1460494873191137280,https://pbs.twimg.com/media/FES4WWDWQAAXTxD.jpg,photo, ,Steven Kay,stevefaeembra,False,1257,424,Edinburgh
+1460493185126256640,"Day 15 of the #30DayMapChallenge - map made without using a computer.
+ Yeah, I missed yesterday, but here is crudely drawn map of North American. No projection, scale or accuracy promised on this. https://t.co/97hPsjenFc",223258375,2021-11-16 06:21:24+00:00,en,1,0,3,0,Twitter Web App,3_1460489500472197120,https://pbs.twimg.com/media/FESzdnHVQAAlBoA.jpg,photo, ,Jeff Deurloo,jdeurloo10,False,413,4566,"Lethbridge, Alberta"
+1460487946939899904,"Urban or rural? 🌆🏕️ Riku visualized the metropolitan areas of different cities: urban, rural and areas that are between the two. Maps made with QGIS, datasets from Copernicus Urban Atlas. #30DayMapChallenge https://t.co/UzMHICxeZT",973813309811187713,2021-11-16 06:00:35+00:00,en,1,0,4,0,Buffer,3_1460487942506520582,https://pbs.twimg.com/media/FESyC7PXoAYdOd2.jpg,photo, ,Gispo,gispofinland,False,998,298,"Helsinki, Suomi"
+1460485757336915974,Day 15: MapWithoutComputer | #30DayMapChallenge https://t.co/fqR73FyTIg,1051527936,2021-11-16 05:51:53+00:00,en,1,1,9,0,Twitter for Android,3_1460485755260727298,https://pbs.twimg.com/media/FESwDnHVcAIsqmX.jpg,photo, ,Eduardo AC Jurado,lalocruzjurado,False,111,465,"Xochimilco, Distrito Federal"
+1460483117731381249,Falling behind with #30DayMapChallenge and this one’s from the archive: @TheMissingMaps U.K. 2nd Anniversary Party Cake in Nov 2016. That means 7 years of MMP - I can’t imagine how many more flags the cake would need! Thank you &amp; congrats to all past &amp; current contributors! https://t.co/IQPXVN02HM,444491705,2021-11-16 05:41:24+00:00,en,1,0,2,0,Twitter for iPhone,3_1460483114443051010,https://pbs.twimg.com/media/FEStp5TVkAIf8U4.jpg,photo, ,Jo Wilkin,joannawilkin,False,225,331,"Bay Area, CA"
+1460482278446944259,"#30DayMapChallenge #Cartographers 
+
+Day 15 - Map made without using a computer
+
+I played Cartographers with my 7 year old son tonight. Fun game! Here are our maps: https://t.co/bJi3nMvwLQ",14182494,2021-11-16 05:38:04+00:00,en,0,0,2,0,Twitter Web App,3_1460482075979497485,https://pbs.twimg.com/media/FESstcuVQA0_LHs.jpg,photo, ,joelfeik,joelfeik,False,6,182,"Vancouver, WA"
+1460482164521201671,Been slacking on the #30DayMapChallenge so I'm going to skip ahead to Day 15: maps made without a computer. I just finished this fictional map a few days ago! Took three weeks or so to do and is inspired by my visit to Montreal last month https://t.co/M6H8jY6P5K,281195030,2021-11-16 05:37:37+00:00,en,1,1,9,0,Twitter Web App,3_1460481042653986818,https://pbs.twimg.com/media/FESrxTSVQAITtsR.jpg,photo, ,Max Kittner (he/him),mapboymax,False,573,599,unceded land
+1460480665338580997,"#30DayMapChallenge #Blender #TwinCities 
+
+Day 14 - Map with a new tool
+
+I downloaded Blender. I followed a workflow. But it I wasn't feeling it, so I just made this spinning egg of the Twin Cities. https://t.co/Lw6NMh4RIt",14182494,2021-11-16 05:31:39+00:00,en,0,1,4,0,Twitter Web App,16_1460480567061876739,https://pbs.twimg.com/tweet_video_thumb/FESrVnkVkAM1W1w.jpg,animated_gif, ,joelfeik,joelfeik,False,6,182,"Vancouver, WA"
+1460475643221528580,"16. Urban/Rural - #30DayMapChallenge.
+
+Using the #Urban areas Natural Earth Data, the #Nairobi City Metro-area #map is created to show the secondary school enrollment in 2019. Larger symbol sizes represents a higher enrollment in the school for all streams in that specific year. https://t.co/0kIv9Jfob0",781455687444463616,2021-11-16 05:11:42+00:00,en,1,0,8,0,Twitter for Android,3_1460475640503627784,https://pbs.twimg.com/media/FESm22tUcAgNfQS.jpg,photo, ,Kamau Ʈhiong'o (TKM),musaTHIONGO,False,881,102,My YouTube Channel - 👇
+1460475152504926211,For Day 15 #30DayMapChallenge - A map of the Mt.Muhavura trail. This was also my first hike 😅 https://t.co/nB28Idb2eS,1018781775030620162,2021-11-16 05:09:45+00:00,en,6,2,27,0,Twitter for iPhone,3_1460475141180301315,https://pbs.twimg.com/media/FESmZylXIAM7XLY.jpg,photo, ,Shamillah,Shammie_n,False,701,923,"Kampala, Uganda"
+1460474873877200899,"#30DayMapChallenge | Day 7 - Green
+
+Map of Urban tree density in Pittsburgh.
+Done with QGIS and Figma. #GIS https://t.co/PF6e0GW7q4",1348602459841728514,2021-11-16 05:08:38+00:00,en,1,0,3,1,Twitter Web App,3_1460474471538573312,https://pbs.twimg.com/media/FESlyz-VQAA97Bl.jpg,photo, ,Schubert de Abreu,schubertda1,False,122,175,"Goa, India"
+1460474613087944712,"#30DayMapChallenge Day 15: Map made without using a computer
+
+the final real life version of the bricks map of NZ, it's hard not to want to spend ridiculous amounts and make an A0 version...
+
+hang on I can prob use this for day 14 as well! https://t.co/jspbVR3B5Q",1068081944364109824,2021-11-16 05:07:36+00:00,en,3,0,19,0,Twitter Web App,3_1460473797757128706,https://pbs.twimg.com/media/FESlLl8UUAImuAv.jpg,photo, ,Pete King,o_Whereabouts,False,595,410,"Wellington, New Zealand"
+1460473357376397313,"#30DayMapChallenge Day 16 - Urban/Rural
+
+Areas protected by Municipal Hydrants. Halifax open Data once again.
+
+@HRMFireNews https://t.co/UXLtIK1RlW",21537132,2021-11-16 05:02:37+00:00,en,1,1,6,0,TweetDeck,3_1460473307120259075,https://pbs.twimg.com/media/FESkvCLX0AMXw9o.jpg,photo, ,HalifaxShippingNews,HfxShippingNews,False,4879,1278,"Halifax, NS"
+1460472930123624452,"#30DayMapChallenge Day 14: Map with a new tool
+
+Tonight, I tried my hand at Campaign Cartographer 3 to make a fantasy map of my hometown. Too much to try to do in one night, but it was fun. https://t.co/Ri33qygYPq",384202950,2021-11-16 05:00:55+00:00,en,1,0,7,0,Twitter Web App,3_1460472894149079040,https://pbs.twimg.com/media/FESkW_vXsAAfw5a.jpg,photo, ,Matias Codesal,maticodes,False,323,443,"Raleigh, NC"
+1460466653230252034,"Día 8. Azul
+
+Corrientes marinas del mundo. A veces se nos olvida lo vitales que son para el equilibrio térmico de nuestro planeta.
+
+#30DayMapChallenge https://t.co/BLqgKQqUkv",3180922855,2021-11-16 04:35:58+00:00,es,3,1,21,0,Twitter Web App,3_1460466249222217734,https://pbs.twimg.com/media/FESeUNdWYAYUi9W.jpg,photo, ,Cris,crisalpuche,False,332,559, 
+1460462685066199043,"#Day16 (Urban) and #Day17 (Land) of #30DayMapChallenge.
+Christchurch's Major Cycleway Network, shown by land-use zone within 500m of all the completed and planned major cycle routes. https://t.co/Xmc27gX1ke",93839237,2021-11-16 04:20:12+00:00,en,12,4,47,2,Twitter Web App,3_1460462600160890881,https://pbs.twimg.com/media/FESa_zpVUAE6F3r.jpg,photo, ,Andrew DC 🌈,andrewdc_nz,False,799,182,"Christchurch City, New Zealand"
+1460455763768340487,"#30DayMapChallenge 
+Día 15: Mapa sin usar computadora 
+Áreas verdes cercanas a la ciudad de Culiacán y que deberían contar con mecanismos de conservación  🌳 https://t.co/CQGh2CoXSe",1352456228455256068,2021-11-16 03:52:42+00:00,es,4,2,10,1,Twitter for Android,3_1460455760186413057,https://pbs.twimg.com/media/FESUxqwVkAE0Yh8.jpg,photo, ,Guaiacum,Guaiacumac,False,117,46,"Culiacán, Sinaloa"
+1460455445382922243,"Yamal Peninsula, #Siberia. @sentinel_hub for #30DayMapChallenge. Recently, many massive deep holes formed by explosion of methane gas from beneath the permafrost discovered here. Researchers are worried climate change could trigger a tipping point in methane released by thawing. https://t.co/42aAoXfepb",910623276778405888,2021-11-16 03:51:26+00:00,en,20,4,51,0,Twitter Web App,3_1460453752616325129,https://pbs.twimg.com/media/FESS8z-VEAkgdqN.jpg,photo, ,AI6YR,ai6yrham,False,29374,1611,DM04
+1460451398131195908,#miami #containerhouse #poet114 #30DayMapChallenge #music #spotify #Awakening #SpiderManNoWayHome #IBetYouThinkAboutMeMusicVideo #ฟรังนรีกุล #QatarGP #Treasure #cblive #BrazilianGP #DOGEYCOIN #TheVoice #1CentDream https://t.co/Mtlb75nQuF,1043551142406279169,2021-11-16 03:35:21+00:00,und,1,0,1,0,Twitter for iPhone,3_1460451389675429889,https://pbs.twimg.com/media/FESQzRVUYAEniK6.jpg,photo, ,the AWAKENED Poet114,magdyhaddad1111,False,585,3020,United States
+1460436666095706117,"#30DayMapChallenge Day 15 - maps without using a computer(ish): #cityscope #Andorra 
+#locationdata #geospatial https://t.co/JYmdcMUv2M",2718780569,2021-11-16 02:36:49+00:00,en,1,0,7,0,Twitter Web App,3_1460436589457416194,https://pbs.twimg.com/media/FESDVyOXoAIzxmd.jpg,photo, ,Ariel Noyman,relnox,False,292,57,MIT Media Lab
+1460434095603920903,Día 15 - Mapa hecho a mano - Puntos de interés UCR - Costa Rica. #30DayMapChallenge https://t.co/8Ztl60wHrR,3784370418,2021-11-16 02:26:36+00:00,es,1,0,18,0,Twitter Web App,3_1460434069771235330,https://pbs.twimg.com/media/FESBDHqXsAIAGw8.jpg,photo, ,Michelle Jones,michjonescr,False,298,495,"San José, Costa Rica"
+1460430340145565702,"Day 15 - Map without a computer - #30DayMapChallenge 
+
+birds eye view of my favorite summer spot https://t.co/e47WwBwZP9",998412541574365184,2021-11-16 02:11:41+00:00,en,1,0,19,0,Twitter for iPhone,3_1460430333392797699,https://pbs.twimg.com/media/FER9pokVQAM0m6y.jpg,photo, ,Lourdes,MapperLou,False,532,726,"Oregon, USA"
+1460425875917320198,"Day 15 of #30DayMapChallenge - Map made without using a computer, this was fun! Production of white and black beans in Mexico with a tendency of more white beans in the north and black beans in the south. https://t.co/Rp4NlIcH4z",1453419747178164227,2021-11-16 01:53:56+00:00,en,1,0,8,0,Twitter Web App,3_1460425221798772742,https://pbs.twimg.com/media/FER5AGZWQAYD-4f.jpg,photo, ,binarybias,binarybias_,False,5,21, 
+1460424730037522432,"#30DayMapChallenge Day 14 - Maps made without using a computer 
+
+My Lego world map https://t.co/l3X6NurQqk",634782060,2021-11-16 01:49:23+00:00,en,7,4,76,1,Twitter for iPhone,3_1460424722043211780,https://pbs.twimg.com/media/FER4jAqVkAQalO0.jpg,photo, ,Shan He,heshan_cheri,False,4257,231,San Francisco
+1460422299170086918,I was recently gifted with some beautiful old photos of #Chicago and figured I'd show them off for today's #30DayMapChallenge Day 15: Map without a computer https://t.co/MkXxtZUvOL,579246246,2021-11-16 01:39:44+00:00,en,2,0,6,0,Twitter for Android,3_1460422297081290754,https://pbs.twimg.com/media/FER2V2-XIAIJUGm.jpg,photo, ,cas 🌎,cas_maps,False,223,1150, 
+1460420042898776067,"Day 15: Map made without using a computer
+#30DayMapChallenge 1/2
+Black Sea and Black Trail (old trade trail)
+For a long time I could not think of what to draw. Because of this, he came up with a problem - to draw from memory. Without tools, one pen and pencil. 5 attempts... https://t.co/fPOneSIh8S",14992557,2021-11-16 01:30:46+00:00,en,14,2,110,1,Twitter Web App,3_1460419390952943616,https://pbs.twimg.com/media/FERzsszXsAAyo9C.jpg,photo, ,gontsa,gontsa,False,5142,1467,"Cherkasy, Ukraine"
+1460415352416845825,"#30DayMapChallenge Day 15 Map made without a computer.  
+The “real” 3D map. https://t.co/IGl0ojkATm",70339979,2021-11-16 01:12:07+00:00,en,1,0,3,0,Twitter for iPhone,3_1460415341817839616,https://pbs.twimg.com/media/FERwBAmVQAAGt-q.jpg,photo, ,Khairil F. Faisal,kffaisal,False,275,545, 
+1460414583890497543,"Day 15, #30DayMapChallenge: Map without a computer! Hopefully this Fuller projection/Dymaxion globe counts, though technically I had to print it out before butchering the icosahedron with my crappy craft skills. 
+
+This is why I #rayverse. 😋 https://t.co/2Ec7gtX0Xt",946151815,2021-11-16 01:09:04+00:00,en,1,1,17,0,Twitter Web App,3_1460414354516590597,https://pbs.twimg.com/media/FERvHinXwAU8X1m.jpg,photo, ,flotsam,researchremora,False,2778,970,the ivory bowl
+1460413860016390144,#30DayMapChallenge Day 15: Map made without using a computer.👢 https://t.co/ClT86IAruX,3536376796,2021-11-16 01:06:12+00:00,en,1,0,45,0,Twitter for iPhone,3_1460413850428198913,https://pbs.twimg.com/media/FERuqMvVUAEumjm.jpg,photo, ,Zihan Song,song_zihan,False,201,78,"Redlands, CA"
+1460412111721537538,"This one is a bit much, but I enjoyed drawing it. Central London🟠 overlaid on downtown Toronto🔵. Parks shaded in green, water shaded in blue. It's cool to see the overlap! Day 15 of the #30DayMapChallenge: mapping without a computer. https://t.co/MxLT68xBwG",3092393211,2021-11-16 00:59:15+00:00,en,1,4,34,1,Twitter Web App,3_1460411911917481984,https://pbs.twimg.com/media/FERs5XOXMAAAj-y.jpg,photo, ,Iva Brunec,IvaBrunec,False,1217,818,"Philadelphia, PA"
+1460400122379001856,Day 15 of #30DayMapChallenge .. Covid cases in Germany .. it seems I had a @BrikBook  MacBook cover https://t.co/HB47dtsSf3,317158835,2021-11-16 00:11:36+00:00,en,4,1,24,1,Twitter for iPhone,3_1460400113659039746,https://pbs.twimg.com/media/FERiKnSWUAIr2Y5.jpg,photo, ,Tereza Iofciu,terezaif,False,1257,1330,Hamburg
+1460398841551892484,"#30DayMapChallenge The @ESO 🔭on Cerro Paranal, Chile. They are looking up into the Universe whilst Sentinel-2 is looking down on them, 12-Nov-21. (@sentinel_hub &amp; @ESA_EO) https://t.co/QSGhQiDM0N",3437248613,2021-11-16 00:06:31+00:00,en,1,0,10,0,Twitter Web App,3_1460398099516600325,https://pbs.twimg.com/media/FERgVYBXsAU2LR8.jpg,photo, ,SHS Space Science,SHS_Space,False,365,14, 
+1460398388239912966,"2021 (día 15): Map made without using a computer
+Ciudades imaginarias. Boceto de ciudad imaginaria hecho con tinta china y lápices acuarelables sobre papel. Parte del diseño de un juego descartado.
+
+#30DayMapChallenge #ImaginaryCities #Maps https://t.co/AzTfS7Ru6q",64875424,2021-11-16 00:04:43+00:00,es,2,0,8,0,Twitter for Mac,3_1460398364349157385,https://pbs.twimg.com/media/FERgkymX0AkCgLQ.jpg,photo, ,jose barreda,barredajose,False,152,92,Perú

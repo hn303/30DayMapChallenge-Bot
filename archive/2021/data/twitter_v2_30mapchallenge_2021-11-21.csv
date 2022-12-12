@@ -1,0 +1,708 @@
+tweet_id,text,author_id,created_at,lang,retweet_count,reply_count,like_count,quote_count,source,media_key,media_url,media_type,media_view,user_name,user_username,user_verified,user_followers_count,user_following_count,user_location
+1462566653326237702,"#30DayMapChallenge Day 21 Elevation
+
+Spent some time today learning how to make 3D maps in QGIS. This valley in North Bend, Washington was the result. https://t.co/baQZzSLt7F",117610391,2021-11-21 23:40:37+00:00,en,1,0,7,0,Twitter for iPhone,3_1462566649815605257,https://pbs.twimg.com/media/FEwUnnaXoAk8x_4.jpg,photo, ,laura,LauraSmithCarto,False,83,100, 
+1462564482652143616,#30DayMapChallenge Day 21: Elevation. Changbai Mountain in China. #ArcGISPro https://t.co/7yEB2HjPx8,3536376796,2021-11-21 23:32:00+00:00,en,1,0,25,0,Twitter for iPhone,3_1462564472543842304,https://pbs.twimg.com/media/FEwSo4cVEAAjTAR.jpg,photo, ,Zihan Song,song_zihan,False,201,78,"Redlands, CA"
+1462563687848423424,"#30DayMapChallenge - Day 22: Boundaries.
+Fishing regions along the coastline of South America.
+Done with #QGIS.
+Data source: https://t.co/bIH19e3kV3 https://t.co/48noqCm3W6",2593554955,2021-11-21 23:28:50+00:00,en,2,0,3,0,TweetDeck,3_1462563529463148554,https://pbs.twimg.com/media/FEwRx_MXsAojcAM.jpg,photo, ,Kapazitätsdiode,varaktor,False,62,197, 
+1462558845088247811,"*Canadian Pacific*
+❓How many Canadas fit within the boundaries of The Pacific Ocean? #GIS  #Scale #GeographyTeacher
+❗Spoiler alert &gt;16 Canadas
+&gt; Compare areas using the excellent MapFight web app: https://t.co/Jslawy7zeG
+#GeographyTeacher
+#30DayMapChallenge 
+Day 22: Boundaries https://t.co/JFCFkYyKyI",2787878432,2021-11-21 23:09:36+00:00,en,3,0,6,1,Twitter for Android,3_1462558843066634244,https://pbs.twimg.com/media/FEwNhNAX0AQgpA1.jpg,photo, ,BC,mildthing99,False,2575,2318,"England, United Kingdom"
+1462558755040776199,"#30DayMapChallenge Day 21 Elevation
+
+Haute-Savoie Joy Plot
+
+#QGIS #copernicus https://t.co/J6YkFPFjAR",223959960,2021-11-21 23:09:14+00:00,en,1,0,4,0,Twitter for Android,3_1462558752142417921,https://pbs.twimg.com/media/FEwNb6SWYAEjApI.jpg,photo, ,Kirsten Reilly,_penguin_runner,False,417,1221,"Stirling, Scotland"
+1462557815915036673,"For #30DayMapChallenge day 21 (elevation), here's a #rayshader version of my day 1 (points), using the same palette. 
+Code: https://t.co/mAomkpQMc7 
+The data is from the SFSO https://t.co/sTLfQLX3fL",525654957,2021-11-21 23:05:30+00:00,en,3,0,4,0,Twitter Web App,3_1462557485303316495,https://pbs.twimg.com/media/FEwMSK8XwA8B48I.png,photo, ,Alan Haynes,aghaynes,False,124,190,"Oftringen, Schweiz"
+1462557235217944576,"The border between England and Wales sometimes follows old meanders, not the current river course.
+#LiDAR data for valley of River Vyrnwy nr Llanymynech (Eng to N, Wales to S). #ElevationTintedHillside #GIS #SwipeMap @ArcGISOnline
+#30DayMapChallenge 
+Day 22: Boundaries https://t.co/hAEHy58TnT",2787878432,2021-11-21 23:03:12+00:00,en,7,0,23,2,Twitter for Android,16_1462557208353333250,https://pbs.twimg.com/tweet_video_thumb/FEwMCDOWYAIPzpx.jpg,animated_gif, ,BC,mildthing99,False,2575,2318,"England, United Kingdom"
+1462556838973644807,"*Canadian Pacific*
+❓How many Canadas fit within the boundaries of The Pacific Ocean? #GIS  #Scale #Area #GeographyTeacher
+❗Spoiler alert: Over twice as many as we can see here, using
+@thetruesize https://t.co/ISs4ueB4sp
+#30DayMapChallenge 
+Day 22: Boundaries https://t.co/RnnbS5PFyg",2787878432,2021-11-21 23:01:38+00:00,en,3,1,3,1,Twitter for Android,3_1462556836909965317,https://pbs.twimg.com/media/FEwLsbfWYAUBIL_.jpg,photo, ,BC,mildthing99,False,2575,2318,"England, United Kingdom"
+1462556255386488833,"#30DayMapChallenge
+Day 21: Elevation
+Highest points of the German states
+(most boring map so far) https://t.co/6aPgupKRLH",91548216,2021-11-21 22:59:18+00:00,en,1,0,3,0,Twitter Web App,3_1462556036917874691,https://pbs.twimg.com/media/FEwK93SX0AMtTqN.jpg,photo, ,Cord Niehaus,Cordster76,False,89,606,"Bremen, Germany"
+1462555596041895937,"#30DayMapChallenge Day 21: Elevation #QGIS 🗺️
+
+ Reserva Natural Parcial de la Ría de Villaviciosa (#Asturias, ES) 🌿🦅🏞️ https://t.co/TCPGChJIii",1054684076207230976,2021-11-21 22:56:41+00:00,es,1,0,6,0,Twitter Web App,3_1462554676075900928,https://pbs.twimg.com/media/FEwJupwXMAAZQSy.jpg,photo, ,GiSjon,gis_jon,False,4,5,Gijón
+1462554401403555844,"#30DayMapChallenge - 21 - Today's amble around Little 
+#Dartmouth using data from my #Garmin. (Variation crossing the river later in the day, or altitude adjustment on the hoof from updated ephemeris data? 🤔) #Map via &gt; #QGIS &gt; #GIMP. https://t.co/klAtQVhA0r",2224550306,2021-11-21 22:51:56+00:00,en,0,0,1,0,Twitter Web App,3_1462554273640816640,https://pbs.twimg.com/media/FEwJXOkXIAAOD2H.jpg,photo, ,MonkeyOnTheMountainⓋ,Monk_Po,False,412,610,Rainbow Unicorn Mountain-SWUK
+1462551776486297602,"Day 21: Elevation
+#30DayMapChallenge
+Chornohora (literally: ""Black Mountain"") is the highest mountain range in Western Ukraine. 
+Data: SRTM, OSM. Tools: QGIS, Blender, Inkscape. https://t.co/gI26Jn57ZP",14992557,2021-11-21 22:41:31+00:00,en,27,3,124,4,Twitter Web App,3_1462551477717770240,https://pbs.twimg.com/media/FEwG0e8XIAAfb9x.jpg,photo, ,gontsa,gontsa,False,5142,1467,"Cherkasy, Ukraine"
+1462547426800123907,"Stumbled onto my past at the local library. 25 years ago I produced the maps for this @NatGeo book, along with legendary relief artist Tibor Tóth. Also made a handful of proofs that went to space aboard Space Shuttle Atlantis STS 79! A wonderful memory.
+
+#30DayMapChallenge https://t.co/gcPMglTdYd",1666589234,2021-11-21 22:24:14+00:00,en,2,0,2,0,Twitter for iPhone,3_1462547414426939397,https://pbs.twimg.com/media/FEwDH-AVcAU_1j7.jpg,photo, ,Lou Spirito,THIRTY81Project,False,1358,461,"Anaheim, CA"
+1462547060993888261,#30DayMapChallenge Day21 and the theme is #Elevation which in this case is rendered with the 1979 #Geology of #Colorado by Ogden Tweto as a basemap. Love that color scheme. https://t.co/BGJgDD4djO,26189414,2021-11-21 22:22:46+00:00,en,1,0,2,0,TweetDeck,3_1462543364360790017,https://pbs.twimg.com/media/FEv_cOVUYAEo3Hr.jpg,photo, ,Mike Floyd 🦉,mike_floyd_co,False,169,583,"Colorado, USA"
+1462545753864167424,"Catching up
+#30DayMapChallenge Day 13: Data challenge 2: Natural Earth
+
+Glaciated areas of #Georgia according to #NaturalEarthData
+
+@vizaxis https://t.co/y6N47GCF7c",739155214968717312,2021-11-21 22:17:35+00:00,en,4,1,4,0,Twitter Web App,3_1462543102644736005,https://pbs.twimg.com/media/FEv_M_XWUAUy9V2.jpg,photo, ,Lika Zhvania,lizhvania,False,93,224,"Enschede, Nederland"
+1462544600573386761,"#30DayMapChallenge 
+
+Los tres volcanes de mayor altitud en México: Pico de Orizaba, Popocatépetl e Iztaccíhuatl
+
+#Day21 #Elevation #R #rayshader https://t.co/qjAsxIk1MC",790584781771722753,2021-11-21 22:13:00+00:00,es,6,0,19,0,Twitter Web App,3_1457159274786967558,https://pbs.twimg.com/media/FDjeo9rX0AYo8U8.jpg,photo, ,Roberto Aguilar Celis,geogracelis,False,334,430,Ciudad de México
+1462542231659819011,"Day 21 of the #30DayMapChallenge: elevation maps of my favorite/most memorable 2021 US hikes (so far). 🏔️💜
+Trail data: @AllTrails.
+Code: https://t.co/PdyfaZcDmI https://t.co/S1x9kyrpsL",3092393211,2021-11-21 22:03:35+00:00,en,1,2,17,0,Twitter Web App,3_1462541956265951232,https://pbs.twimg.com/media/FEv-KQxWQAA7iGw.png,photo, ,Iva Brunec,IvaBrunec,False,1217,818,"Philadelphia, PA"
+1462542024507199496,"#30DayMapChallenge 
+Day 21: Elevation
+
+Chimborazo volcano, the highest peak in the world measured from the center of the Earth.
+
+Created in #RStats, code: https://t.co/zW0PkjIN3k
+
+Running behind but hope to catch up! https://t.co/be21VDTfWa",233748559,2021-11-21 22:02:46+00:00,en,4,0,28,0,Twitter Web App,3_1462542009730842625,https://pbs.twimg.com/media/FEv-NX8XwAEsp3f.jpg,photo, ,Lorena Abad,loreabad6,False,1247,927,"Salzburg, Austria"
+1462540583004639233,#30DayMapChallenge Day 21: Elevation https://t.co/RkL0VmtvAV,1274785600466550785,2021-11-21 21:57:02+00:00,en,5,0,58,0,Twitter Web App,3_1462533686608416773,https://pbs.twimg.com/media/FEv2o55WUAU2ZPO.jpg,photo, ,spatial_occasions,spatialoccasio1,False,455,104,"Stockholm, Sweden"
+1462540478092513283,"@GMapsPlatform 21. Elevation
+#30DayMapChallenge https://t.co/VM6h04wWq1",807289,2021-11-21 21:56:37+00:00,en,3,1,16,1,Twitter Web App,3_1462540162899054594,https://pbs.twimg.com/media/FEv8h39XEAIetT5.png,photo, ,Martin Kleppe,aemkei,False,8660,404,"Hamburg, Germany"
+1462539425787883520,"#30DayMapChallenge Day 21: Elevation.
+A very quick Joyplot map of Mexico made in #qgis, with a little nod to the 1986 World Cup logo. https://t.co/eYgh9PxRU1",309734801,2021-11-21 21:52:26+00:00,en,3,1,22,0,Twitter Web App,3_1462537975364005899,https://pbs.twimg.com/media/FEv6iiwXMAs9VOl.jpg,photo, ,Sam J,samwise_v,False,234,516,"London, UK"
+1462538811624202246,"#30DayMapChallenge | Day 19 +21 | #island #elevation
+
+🇨🇾 + ⛰️
+
+Some late evening catching up - two in one. A @JAXA_en elevation model of #Cyprus (one of the biggest islands in the Mediterranean Sea).
+
+#RStats  #rspatial #rayshader https://t.co/aS4BYe5Cw6",1307060010669793280,2021-11-21 21:50:00+00:00,en,2,1,11,0,Twitter Web App,3_1462538775234547720,https://pbs.twimg.com/media/FEv7RGgXEAg99jx.jpg,photo, ,Marco Sciaini,shinysci,False,293,773,Freiburg im Breisgau
+1462538315412946949,"#30DayMapChallenge day 19s theme was island. Here's bathymetry around the Balearic islands. Data from OSM and Natural Earth.
+Code: https://t.co/AtLqOxaBNt
+#RStats https://t.co/OisM2NyfCa",525654957,2021-11-21 21:48:01+00:00,en,2,0,4,0,Twitter Web App,3_1462538155794567178,https://pbs.twimg.com/media/FEv6tC6XEAoEYK_.jpg,photo, ,Alan Haynes,aghaynes,False,124,190,"Oftringen, Schweiz"
+1462538187625189380,"How the Danish Solar Thermal District heating network has developed over the past decade. Data from https://t.co/eoN8TnAegi #voroni plot done with #R #tmap and #sf 
+
+code: https://t.co/XFw3I3mNVc #30DayMapChallenge #30daymapchallengebot https://t.co/FcpbcutFXr",958624329775935489,2021-11-21 21:47:31+00:00,en,0,0,0,0,Twitter Web App,16_1462538026425401350,https://pbs.twimg.com/tweet_video_thumb/FEv6lg-WQAYi9wI.jpg,animated_gif, ,Blaise Kelly,BlaiseKe11y,False,79,289,"Utrecht, The Netherlands"
+1462537977087807490,"DYOR NFA
+
+ @BlockchainGaming #Xbox20 #UnrealEngine #Unity #Metaverse #meta #BNB $BNB #100DaysOfCode #XboxSeriesX #30DayMapChallenge #100xgem #100daysofcodechallenge #Airdrops #Crypto #BinanceSmartChain $ORE 
+#100xgem #indiedev #gaming #blockchain #BATTLEFIELD2042 #100DaysOfCode https://t.co/WwWcCbvuy0",1390206873178099712,2021-11-21 21:46:41+00:00,tl,3,1,3,0,Twitter for iPhone,7_1462537936474456065,https://pbs.twimg.com/ext_tw_video_thumb/1462537936474456065/pu/img/vepqDcO1LPkXKVRi.jpg,video, ,DoomsDay Coins 🔱,kevinmu76333681,False,424,944,crypto
+1462536066347511811,"#30DayMapChallenge Day 21 (Elevation).
+
+This heatmap shows where I /experience/ elevation, which is when I climb trees. It accounts for where I climb most often, and where I climb the highest.
+
+I was born to soar.
+
+I created this map live on YouTube: https://t.co/SwBci9aKEM https://t.co/sXDSwWpGAS",243497005,2021-11-21 21:39:05+00:00,en,2,1,36,3,TweetDeck,3_1462535098860027905,https://pbs.twimg.com/media/FEv37G8XwAEQ2zk.jpg,photo, ,Daniel P. Huffman,pinakographos,False,9340,95,"Madison, WI"
+1462532808979750915,#30DayMapChallenge Day 21 - Elevation. Another rainbow themed one 🌈 graphs are the maximum elevation at that relative longitude/latitude ⛰️ https://t.co/QeZwWd9cZw,1322964052142936066,2021-11-21 21:26:08+00:00,en,36,8,521,4,Twitter for Android,3_1462532801136406539,https://pbs.twimg.com/media/FEv11XQXsAsydKc.jpg,photo, ,GeospatialJess,GeospatialJ,False,332,118, 
+1462532420549361675,"#30DayMapChallenge 
+Day 21 (😪) - Elevation
+
+Topographic Map of North Rhine-Westphalia and Cologne, Germany (Köln) using SRTM data and the Fall palette from {rcartocolor} 📦.
+
+Created in #rstats with {ggplot2} https://t.co/mD9ts8df9A",1139059532,2021-11-21 21:24:36+00:00,en,3,2,10,0,Twitter Web App,3_1462532389981368328,https://pbs.twimg.com/media/FEv1dblXsAgTIfS.jpg,photo, ,Ansgar Wolsing,_ansgar,False,380,1021,"Köln, Deutschland"
+1462528794443628549,"Another one from my personal bucket list and another deep dive in QGIS. Thanks to @cartocalypse's script.
+Day 21 of #30DayMapChallenge: elevation https://t.co/t05euOxDft",26062194,2021-11-21 21:10:11+00:00,en,1,1,9,1,Twitter Web App,3_1462527045565653002,https://pbs.twimg.com/media/FEvwmWFXoAort5x.png,photo, ,Patrick Mast,patrick_mast,False,59,137,"Hamburg, Germany"
+1462528607876694016,"Day 21, #30DayMapChallenge: elevation! Here's an elevation map of the Arctic circle.
+
+#rayshader adventures, an #rstats tale https://t.co/gDvBT8Qu9L",946151815,2021-11-21 21:09:27+00:00,en,20,6,170,3,Twitter Web App,3_1462528604970049544,https://pbs.twimg.com/media/FEvyBHUWYAg_bSo.jpg,photo, ,flotsam,researchremora,False,2778,970,the ivory bowl
+1462527920740585477,"🗺️NEW🗺️ #30DayMapChallenge D21 Elevation
+The Lancang-Mekong river basin
+Tools: QGIS, Blender, Figma https://t.co/k33ySuBSUy",1160963883860762624,2021-11-21 21:06:43+00:00,en,3,1,51,0,Twitter Web App,3_1462527868953501696,https://pbs.twimg.com/media/FEvxWRcVIAAKJGa.jpg,photo, ,Wendy Shijia,ShijiaWendy,False,2652,1226,"Shanghai, China"
+1462526658070540288,"Day 21 of the #30DayMapChallenge, #Elevation. 
+
+Los Angeles  #retrofuture maps…
+
+Four 1928 USGS maps from a larger series, in an row, west to east. I’ve added shaded terrain and 66m of sea level rise.
+
+Click through the link for the full series
+
+https://t.co/DONXTb9Z80 https://t.co/aVwIwJAqDH",399072114,2021-11-21 21:01:42+00:00,en,2,0,7,0,Twitter for iPhone,3_1462526649690324992,https://pbs.twimg.com/media/FEvwPTVVgAA8mkJ.jpg,photo, ,Conspiracy of Cartographers,JeffreyLinn,False,661,599,"Seattle, WA"
+1462521722624786443,Day 21: Elevation. #30DayMapChallenge  A fresh version of a (much) earlier ENVD studio project. https://t.co/rroGWZxAq0,3349884328,2021-11-21 20:42:05+00:00,en,7,10,175,6,Twitter Web App,3_1462521583583563780,https://pbs.twimg.com/media/FEvroanXEAQwuJ_.jpg,photo, ,Margot Carpenter,margot_carto,False,887,961,"Belfast, ME"
+1462519288875687947,"Day19 - Islands #30DayMapChallenge 
+The Japanese Archipelago is the largest island country in East Asia and has 6,852 islands of which 260 are inhabited. #madewithR {ggplot2}(https://t.co/8vQhjN7XpV)
+@R4DScommunity #rstats #maps #Infographics 
+GitHub: https://t.co/0yH8xElKNU https://t.co/tvveBj1vw0",285509027,2021-11-21 20:32:25+00:00,en,4,1,8,0,Twitter Web App,3_1462519192356331530,https://pbs.twimg.com/media/FEvpdOmXIAomISX.jpg,photo, ,Federica Gazzelloni®,FGazzelloni,False,2257,4415,World
+1462518506155618306,"Population Density of Switzerland
+#30DayMapChallenge - Day 21 -  Elevation.
+Experimental map made in #blender3d. Data from WorldPop 2020, exaggerated topographic elevation from SRTM, Google Satellite, and artistic liberties ofc.
+#3dmap #gischat #dataviz #b3d #3d #Demographics 1/n https://t.co/RF6MVi0Th7",1186202364,2021-11-21 20:29:18+00:00,en,25,3,163,2,Twitter Web App,3_1462516659898437637,https://pbs.twimg.com/media/FEvnJ0dWUAUmM-o.jpg,photo, ,Julian Hoffmann,Julian_H0ffmann,False,737,1953,"London, England"
+1462517828876079106,"#30DayMapChallenge 21. Elevation. Here's a map of Golden Gate Canyon State Park, CO, I've been working on. I started this because the official map is packed full of info, but could do better with elevation. First map I can say that is more #ArcGISMapsforAdobe than #ArcGISPro https://t.co/F9bKLAEKfi",1491031412,2021-11-21 20:26:37+00:00,en,1,0,17,0,Twitter Web App,3_1462517142260047872,https://pbs.twimg.com/media/FEvnl5ZUYAAHMwv.jpg,photo, ,Joe Peters,JPeterPeters,False,514,1100,"Westminster, CO"
+1462517613460955139,"#30DayMapChallenge Day 21 - Elevation
+Tried to make a ""tanaka contours"" style, but something went wrong. Anyway I've enjoyed the process and the result (for now)
+São Paulo City
+Attention: the dark blue areas are not necessarily rivers XD the highlighted area is a part of downtown https://t.co/KfYQCmlJYW",180939408,2021-11-21 20:25:45+00:00,en,1,0,11,0,Twitter Web App,3_1462516880263028739,https://pbs.twimg.com/media/FEvnWpYXIAMt3nw.jpg,photo, ,torts,tgsousa_,False,1010,1150, 
+1462516380142551048,"#30DayMapChallenge | Day 20 | #movement
+
+A correlated random walk on an artificial elevation model.
+
+#RStats  #rspatial #rayrender https://t.co/Clk2eJBz4O",1307060010669793280,2021-11-21 20:20:51+00:00,en,4,1,23,0,Twitter Web App,3_1462516342767210500,https://pbs.twimg.com/media/FEvm3XDX0AQbW0B.jpg,photo, ,Marco Sciaini,shinysci,False,293,773,Freiburg im Breisgau
+1462514221309214732,#elevation in #pointcloud for #day21 #30DayMapChallenge @HexGeospatial #ERDAS #IMAGINE https://t.co/DHGRmOBaqj,424357259,2021-11-21 20:12:17+00:00,en,0,0,2,0,TweetDeck,3_1462514191223463936,https://pbs.twimg.com/media/FEvk6H7XoAAeZQF.png,photo, ,Richard Goodman 💙,dbgoody,False,264,1399,Inside too much
+1462513801971052545,"Day 21 of the #30DayMapChallenge is elevation. Used the walkthrough by @evelynuuemaa to do my first Tanaka contours. This is @sarahksshannon's favorite stretch of the AT, including a few miles that she helps manage. Walkthrough here: https://t.co/fux7xDpSPj https://t.co/VvtnylfEua",13215962,2021-11-21 20:10:37+00:00,en,1,0,10,0,Twitter Web App,3_1462513718827401219,https://pbs.twimg.com/media/FEvkeoHXwAMSc4T.jpg,photo, ,Jerry Shannon,jerry_shannon,False,2111,1682,"Athens, GA"
+1462511547411013636,"#30DayMapChallenge 2021 Day 21 : Elevation
+
+De la reine des Pyrénées au magnifique lac d’Oô.
+
+Avec les données RGE ALTI de l’@IGNFrance (merci encore pour l’ouverture des données!!), au superbe #rayshader pour le rendu, et comme toujours @qgis
+ pour la préparation des données. https://t.co/EDaCeMchUd",154261653,2021-11-21 20:01:39+00:00,fr,5,2,31,0,Twitter Web App,3_1462511527911690251,https://pbs.twimg.com/media/FEvifGUXEAs1z64.jpg,photo, ,Cedric Rossi,cedricr,False,938,361,"Toulouse, France"
+1462511133307330562,"Day 21: Elevation | #30DayMapChallenge
+What do you think about this elevation map of Mount Vesuvius made with #Blender? Beautiful isn’t it? But not as much as the volcano by itself!
+@S_Estremo https://t.co/nP7SAoIb4L",1163470661400047616,2021-11-21 20:00:00+00:00,en,2,0,11,0,Twitter Web App,3_1455641148513558532,https://pbs.twimg.com/media/FDN56YmXoAQXCFs.jpg,photo, ,Taller Sïranda,Taller_Siranda,False,340,159,México
+1462510852729458693,"#30DayMapChallenge 
+Day 21 - #elevation
+
+Highest elevation in each Mexican State (in meters)
+
+Please notice Tacaná between Chiapas and Guatemala 🇬🇹 . Few people realize it is over 4,000 masl https://t.co/elQIUH4ttr",1305980793035071490,2021-11-21 19:58:54+00:00,en,17,2,84,1,Twitter Web App,3_1462510369604358145,https://pbs.twimg.com/media/FEvhbrSX0AEuGs8.jpg,photo, ,Mapoteca de pZZ,mapoteca_mx,False,5109,327, 
+1462508814213828614,"#30DayMapChallenge Day 21: Elevation. My map today shows which portions of the city are above/ below the area's mean elevation (36m).
+#rspatial #RStats https://t.co/p3z8mkWTpM",1222519447165886465,2021-11-21 19:50:48+00:00,en,2,1,17,0,Twitter Web App,3_1462508306547806216,https://pbs.twimg.com/media/FEvfjlzXEAgepVE.png,photo, ,Anirudh,_anirudhgovind,False,312,1500, 
+1462506156979597322,https://t.co/VrmtkWZ3Zp for #day20 #movement #30DayMapChallenge @HexGeospatial #Luciad https://t.co/U1TTMjvMhk,424357259,2021-11-21 19:40:14+00:00,und,1,0,3,0,TweetDeck,3_1462506131427889157,https://pbs.twimg.com/media/FEvdk-2XEAU-4AJ.jpg,photo, ,Richard Goodman 💙,dbgoody,False,264,1399,Inside too much
+1462504773295431685,"#30daymapchallenge 
+Day 21: #elevation 
+
+Bathymetric and land contours!
+
+Fictional islands between Shetland and Faroe. 
+Hand-drawn on board.
+
+#elevationmap #contours #depthcontours #bathymetry #contourmap #lineart #cartography #mapmaker #handdrawnmaps #islands #coastline #fiction https://t.co/8fCkOlFPzX",1702059680,2021-11-21 19:34:44+00:00,en,0,1,23,0,Twitter for Android,3_1462504770397163533,https://pbs.twimg.com/media/FEvcVwnWUA0XssF.jpg,photo, ,David Nuttall,Artimaps_DavidN,False,606,339,"Huntsville, AL"
+1462503582796767234,"Day 21: Elevation | #30DayMapChallenge
+My favorite volcanoes in the world are in southern Italy and obviously Mount Vesuvius and Stromboli are two of them. These are two efforts I have made with #Blender3d some time ago... https://t.co/9TcKItuuNM",1263997606759403520,2021-11-21 19:30:00+00:00,en,4,0,4,0,Twitter Web App,3_1460307335772004352,https://pbs.twimg.com/media/FEQNyOuWYAAF-KM.jpg,photo, ,Sebastián Estremo,S_Estremo,False,288,128, 
+1462503029211598853,Selection of #island named #roads from @OrdnanceSurvey #OpenRoads #OpenData for #day19 of #30DayMapChallenge @HexGeospatial #GeoMedia https://t.co/Y7tEXjqyyq,424357259,2021-11-21 19:27:48+00:00,en,0,0,3,0,TweetDeck,3_1462503003139809284,https://pbs.twimg.com/media/FEvau5EXIAQ49C8.jpg,photo, ,Richard Goodman 💙,dbgoody,False,264,1399,Inside too much
+1462500154444025857,#30DayMapChallenge Day 22 (Boundaries) Trying out the {roughsf} package in #rstats to map the boundaries of the Shetland Islands. https://t.co/4bzmp3wzuO,963902391643967488,2021-11-21 19:16:23+00:00,en,2,1,8,0,Twitter Web App,3_1462499973371777025,https://pbs.twimg.com/media/FEvX-iTX0AEZVHH.png,photo, ,Nicola Rennie,nrennie35,False,901,713,United Kingdom
+1462499666860326919,#30DayMapChallenge Day 21 (Elevation) using #rayshader and #rstats for a 3D map around Ben Nevis and Glen Coe. https://t.co/xRPJTbX6Hu,963902391643967488,2021-11-21 19:14:27+00:00,en,1,1,6,0,Twitter Web App,3_1462499507107774467,https://pbs.twimg.com/media/FEvXjZVXwAMfZxS.png,photo, ,Nicola Rennie,nrennie35,False,901,713,United Kingdom
+1462499232699629574,#30DayMapChallenge Day 20 (Movement) looking at ships journeys around the UK in #rstats https://t.co/svmboT1wji,963902391643967488,2021-11-21 19:12:43+00:00,en,1,1,6,0,Twitter Web App,3_1462499120258727942,https://pbs.twimg.com/media/FEvXM4NXwAYRiSY.jpg,photo, ,Nicola Rennie,nrennie35,False,901,713,United Kingdom
+1462497992208961539,"#30DayMapChallenge, day 21, elevation. As with many stadiums, the stands higher up are steeper than the ones closest to the pitch at Camp Nou, Barcelona. The main stand is a little lower than the opposite one (Lateral), which is 48 meters high. Camp Nou has a capacity of 99 354. https://t.co/LJ1GZu0ZDs",490477903,2021-11-21 19:07:47+00:00,en,1,0,2,0,Twitter Web App,3_1462497327680266242,https://pbs.twimg.com/media/FEvVkiVXIAI41-f.jpg,photo, ,Tuomas Lehto,LehtoTuomas,False,266,277,Helsinki
+1462496884090675202,"Day 21: Elevation
+
+Despite @awoodruff's valiant mentoring - and all the clever layering I could muster - I've failed to draw real Tanaka contours for Montréal. However, the result - as is fortunately often the case - is pretty enough. #30DayMapChallenge https://t.co/CWKrVTnqKA https://t.co/GHu1J80Uhh",278873782,2021-11-21 19:03:23+00:00,en,1,1,11,1,Twitter Web App,3_1462496313795305481,https://pbs.twimg.com/media/FEvUphUWYAkIqhp.jpg,photo, ,Map/,vtcraghead,False,3752,916,"Burlington, VT"
+1462495199607889925,"Playing catch-up again with the #30DayMapChallenge... the theme for #day20 (yesterday) was #movement. Here's a map of areas of the New Forest I've explored on foot, based on @Strava data and classified as either a run or walk. #NewForest https://t.co/60LaD5CPbC",925570614,2021-11-21 18:56:42+00:00,en,2,1,10,0,Twitter Web App,3_1462495009446453263,https://pbs.twimg.com/media/FEvTdmPWYA8_mPb.jpg,photo, ,Heather Chamberlain,HeatherCh100,False,601,929, 
+1462493333411012609,"#30DayMapChallenge day 21 - elevation. I hadn't used Blender in about four years, so decided to do something with it. Turns out in the intervening years, @domlysz released the GIS add-on, and it's amazing! Here's Mount St. Helens, slightly exaggerated. https://t.co/16jJGbpS4q",17847384,2021-11-21 18:49:17+00:00,en,2,0,4,0,Twitter Web App,3_1462493184311894028,https://pbs.twimg.com/media/FEvRzXFXIAwMQy7.jpg,photo, ,Jill Hubley,Jill_hubley,False,1559,1345,NYC
+1462492638658105363,"Day 21 - Elevation
+Cheremosh River as some mighty tree
+#30DayMapChallenge https://t.co/jyqKL3C0hl",14196303,2021-11-21 18:46:31+00:00,en,3,0,9,0,Twitter Web App,3_1462492619465019401,https://pbs.twimg.com/media/FEvRSe3X0Ak4gAB.jpg,photo, ,yaroslav_sm,jaroslav_sm,False,158,96,Чернівці
+1462492509247090690,"Day 21 of #30DayMapChallenge - Elevation. 
+Using blending modes on DEM hill shades with base maps to quickly visualize the slope of an area. 
+Tool used: @qgis https://t.co/rvbgEGC2MS",2163188711,2021-11-21 18:46:00+00:00,en,1,0,4,0,Twitter Web App,3_1462492352757612549,https://pbs.twimg.com/media/FEvRC9TXwAUR48l.jpg,photo, ,tYsOn,tyson_okoth,False,766,658, 
+1462492025169797123,"Pour ce 21ème jour du #30DayMapChallenge consacré à l'élévation, voici deux reliefs bien connus des Héraultais : le #PicSaintLoup et l'Hortus. Données #IGN et réalisation #QGIS https://t.co/XtRyvD7zfQ",195802419,2021-11-21 18:44:05+00:00,fr,1,1,7,0,Twitter Web App,3_1462491538215383047,https://pbs.twimg.com/media/FEvQTi5XsAcJ-tu.jpg,photo, ,Menileda,Menileda,False,72,232,IDF
+1462489528619442176,"#30DayMapChallenge - Elevation
+Côte sauvage again 😳 https://t.co/OAEedo5t6H",252009888,2021-11-21 18:34:10+00:00,fr,2,0,5,0,Twitter Web App,3_1462489482553352195,https://pbs.twimg.com/media/FEvOb49WYAMCvKw.jpg,photo, ,Agnès Stienne,odilon72,False,937,566,Le Mans
+1462485476326223872,"Day 21 (elevation) of #30DayMapChallenge: A mark left by an ancient giant - Kaali meteorite crater in Saaremaa, DEM data from Estonian Land Board, instructions from https://t.co/4QPPuUerWf by Travis M. White, tools QGIS and R. Data visualization by @egleryytli https://t.co/6s2je1GSe5",34737662,2021-11-21 18:18:03+00:00,en,12,3,62,2,Twitter Web App,3_1462484978147766274,https://pbs.twimg.com/media/FEvKVsvXsAIWR-Q.jpg,photo, ,Positium,positium,False,477,335,"Soola 8, Tartu, Estonia"
+1462483951092645893,"#30DayMapChallenge 
+Día 21: elevación. 
+Conoce a través de legos las alturas que tiene Jalisco. Los de color morado representan los sitios más altos y los de verde son los de menor elevación. https://t.co/V4eoaYHUeb",2239825712,2021-11-21 18:12:00+00:00,es,11,2,44,1,Twitter Web App,3_1461823035078365186,https://pbs.twimg.com/media/FElwTipUUAI9tht.jpg,photo, ,IIEG Jalisco,IIEGJ,False,5475,0,"Jalisco, México"
+1462483042430328848,#30DayMapChallenge #Day21 Elevation - Stayed at #Rügen theme - Highest point is the Piekberg (161m) close to National Park #Jasmund @Kreidekueste - Data: © Copernicus DEM 90m https://t.co/WVbz3M1KJZ OSM contributors Positron S: QGIS - 10days2go https://t.co/aCxP4WFtsG,2574612668,2021-11-21 18:08:23+00:00,en,1,1,2,0,Twitter Web App,3_1462461290752917513,https://pbs.twimg.com/media/FEu0y6UWQAkyxiH.jpg,photo, ,hannes reuter,hireuter,False,290,601, 
+1462481728816230404,River Cycle - #30DayMapChallenge Day 18-Water https://t.co/SCbw7xzVc9,44530833,2021-11-21 18:03:10+00:00,en,2,0,8,0,Twitter Web App,3_1462481413257797638,https://pbs.twimg.com/media/FEvHGMfXoAYCc7R.jpg,photo, ,Andrew French,andrewrfrench,False,475,1873,"Wisconsin, USA"
+1462481252506820619,"#30_ימי_מיפוי
+והערב - נשתמש בנתונים הירושלמים כדי לייצר שכבת רסטר גבהים מפנקת של העיר עם idw. האמת שלקח לזה ממש מלא זמן לרוץ, ולא בטוח שidw היא הבחירה הנכונה, אבל מה זה משנה, העיקר שנהנים
+#30DayMapChallenge https://t.co/D3og7iqCNE",2227560465,2021-11-21 18:01:16+00:00,iw,1,0,1,0,Twitter Web App,7_1462480996251717636,https://pbs.twimg.com/ext_tw_video_thumb/1462480996251717636/pu/img/AWRNzPuD93HZLC02.jpg,video, ,Ido Klein עדו קליין,idoklein1,False,1170,829,"Jerusalem, Israel"
+1462480390204141570,"Day 21: Mount Taranaki, with inverted elevation #30DayMapChallenge https://t.co/ixJsBLfKW6",275677658,2021-11-21 17:57:51+00:00,en,5,2,27,1,Twitter Web App,7_1462480304501936142,https://pbs.twimg.com/ext_tw_video_thumb/1462480304501936142/pu/img/6OakOl3GmZeSAY8D.jpg,video, ,Keith Jenkins,kgjenkins,False,1324,201,Ithaca
+1462477150997602319,"Day 21: Elevation 
+
+Elevation of Makkah 🕋
+
+Big thanks to @evelynuuemaa for helping me 
+  #30DayMapChallenge https://t.co/et4IGjlN68",1454894840,2021-11-21 17:44:58+00:00,en,5,0,13,0,Twitter for iPhone,3_1462477105262997507,https://pbs.twimg.com/media/FEvDLb9XsAMBKIM.jpg,photo, ,Noura | نـوره,nourabw95,False,214,145,مكة المكرمة
+1462476551220609024,"#30DayMapChallenge 
+Day 21 - Elevation
+
+Elevation of Mexican States capitals (in meters)
+
+1st Toluca
+2nd Zacatecas
+3rd Pachuca https://t.co/tCO4Lx9ANq",1305980793035071490,2021-11-21 17:42:35+00:00,en,31,2,136,3,Twitter Web App,3_1462476276137082881,https://pbs.twimg.com/media/FEvCbLOWQAE9uyK.jpg,photo, ,Mapoteca de pZZ,mapoteca_mx,False,5109,327, 
+1462475646244818946,"Contour line map showing the topography of Great Britain. Zoom in! Day 21 of the #30DayMapChallenge - Elevation
+This map was made with #Python using #Numpy, #matplotlib and #earthpy. #data #DataScience #data  #dataviz #DataScientist #uk #gb #eu #geography #artwork #art https://t.co/qlguYwJ5vx",1349110409215795204,2021-11-21 17:39:00+00:00,en,16,0,70,0,Twitter Web App,3_1460709207381000194,https://pbs.twimg.com/media/FEV7SPIWQAIw8uw.jpg,photo, ,Python Maps,PythonMaps,False,5913,2678,Planet Earth
+1462475480670556170,#30DayMapChallenge | Day 21 | #Elevation #aftereffects @AdobeVideo @aescripts https://t.co/YtAZHSHPHH,2853392963,2021-11-21 17:38:20+00:00,und,5,0,8,0,Twitter Web App,7_1462475383773794324,https://pbs.twimg.com/ext_tw_video_thumb/1462475383773794324/pu/img/kvsg5b4E9qj273MN.jpg,video, ,GEOlayers,GEOlayers,False,568,477,Leipzig
+1462474980197863426,#30DayMapChallenge | Day 21 | #Elevation #aftereffects @AdobeVideo @aescripts https://t.co/u0lnc7mEpC,2853392963,2021-11-21 17:36:21+00:00,und,6,0,10,0,Twitter Web App,7_1462474905337966600,https://pbs.twimg.com/ext_tw_video_thumb/1462474905337966600/pu/img/fKny8Uwa0OPyZncx.jpg,video, ,GEOlayers,GEOlayers,False,568,477,Leipzig
+1462474884873740290,Day 21 of the #30DayMapChallenge:  Elevation…The climb up #MtStHelens (and back down) from last summer with @USGS topo maps for reference.  Took a hardcopy quadmap on that trip. #IMNOS https://t.co/AEHjwVJTnh,276280627,2021-11-21 17:35:58+00:00,en,2,0,4,0,Twitter Web App,3_1462474788278980608,https://pbs.twimg.com/media/FEvBEkhVUAAfF_a.jpg,photo, ,Patrick Nelson,pnelson917,False,232,488,"Phoenix, AZ"
+1462473960327634947,#TidalRivers from @OrdnanceSurvey #OpenRivers #OpenData for #day18 #30DayMapChallenge @HexGeospatial #GeoMedia https://t.co/x4rRJkTUY9,424357259,2021-11-21 17:32:18+00:00,en,1,0,4,0,TweetDeck,3_1462473881420275716,https://pbs.twimg.com/media/FEvAPyNXoAQaKGU.png,photo, ,Richard Goodman 💙,dbgoody,False,264,1399,Inside too much
+1462472871620534273,"#30DayMapChallenge 
+Jour 21 - Altitudes
+
+J'ai enfin trouvé les données d'altitudes de l' @IGNFrance https://t.co/mNnV6yGIO5",3068008768,2021-11-21 17:27:58+00:00,fr,0,1,1,0,TweetDeck,3_1462472096777445382,https://pbs.twimg.com/media/FEu-n55XIAYBzo-.jpg,photo, ,CômeMS,Come_M_S,False,7,122,"Orsay, France"
+1462471491392577545,"#30DayMapChallenge 
+Day 21 - Elevation
+
+\o/    Yeah
+I finally found elevation data from @IGNFrance https://t.co/F9MRGg0HvU",3068008768,2021-11-21 17:22:29+00:00,en,0,1,1,0,TweetDeck,3_1462470120475930625,https://pbs.twimg.com/media/FEu803mXMAE9Hng.jpg,photo, ,CômeMS,Come_M_S,False,7,122,"Orsay, France"
+1462467627960393732,Day 21 #30DayMapChallenge https://t.co/njb4jt5Oeo,1412877030895628289,2021-11-21 17:07:08+00:00,und,1,1,4,0,Twitter for Android,3_1462467625469063169,https://pbs.twimg.com/media/FEu6jo-XsAEgJvB.jpg,photo, ,Grachen Akoth,MapsGre,False,31,47, 
+1462466452963958790,"#30DayMapChallenge Day 21. Elevation
+
+https://t.co/ecz0o2ZooX https://t.co/o0fYrVs7WM",1102680264554303489,2021-11-21 17:02:28+00:00,en,1,1,1,0,Twitter Web App,7_1462466382923194374,https://pbs.twimg.com/ext_tw_video_thumb/1462466382923194374/pu/img/gcbShi-UI7zxmXLE.jpg,video, ,Mikhail Topnikov,mtopnikov,False,48,97,"Moscow, Russia"
+1462466133987057676,#30DayMapChallenge Day 20. Movement https://t.co/lbSD3ka9TK,1102680264554303489,2021-11-21 17:01:12+00:00,en,1,1,3,0,Twitter Web App,7_1462466099103076358,https://pbs.twimg.com/ext_tw_video_thumb/1462466099103076358/pu/img/FoKdGGz7x0rvpH9R.jpg,video, ,Mikhail Topnikov,mtopnikov,False,48,97,"Moscow, Russia"
+1462463479856697353,"#30DayMapChallenge
+Día 21 #Elevation
+
+Altura de los edificios de la ciudad de Toledo. https://t.co/04O5g6zUPz",1156302488884121601,2021-11-21 16:50:39+00:00,es,2,1,18,1,Twitter for Android,3_1462463471266770946,https://pbs.twimg.com/media/FEu2x1XXMAI3yS_.jpg,photo, ,Pablo Otero,Pablo__Otero,False,99,486,Madrid
+1462461784296730626,"#30DayMapChallenge 21: Elevation
+National Geographic esri Projection of Mt Everest area
+Shows surrounding elevations 
+Leaflet is a great interractive map tool.
+#rspatial #rstats @markdonovan2020 https://t.co/WKPVAMqYvm",3094607959,2021-11-21 16:43:55+00:00,en,3,1,6,0,Twitter Web App,3_1462461745059045379,https://pbs.twimg.com/media/FEu1NWvXoAMotFT.jpg,photo, ,donojazz,donojazz62220,False,15,225,USA
+1462461251615875079,"#30DayMapChallenge - Day 21: Elevation
+
+Vinson Massif, Antarctica, 27th of September 2021 
+(shadows cast by the mountains are nearly 20 km)
+
+Visualized in 3D using #Landsat 8 imagery and elevation model available in #arcgispro https://t.co/4ZywgYNW15",75868477,2021-11-21 16:41:48+00:00,en,4,0,19,1,Twitter Web App,3_1462458308560924679,https://pbs.twimg.com/media/FEuyFUyXsAc0ZNL.jpg,photo, ,Ewa Grabska-Szwagrzyk,egrabska,False,393,161,"Cracow, Poland"
+1462458883008610315,"Jour 18 du #30DayMapChallenge : water
+Sur la BD ADMIN EXPRESS de l'@IGNFrance
+ : les communes de France Métropolitaine comprenant ""eaux"" ou ""bains"" dans leur nom (j'ai volontairement omis les ""mer"", ""flots"", ""plage"", et ""sur"") https://t.co/j3JXFmTTa9",195802419,2021-11-21 16:32:23+00:00,fr,4,2,8,0,Twitter Web App,3_1462458835558350858,https://pbs.twimg.com/media/FEuykAAWQAo9g9k.jpg,photo, ,Menileda,Menileda,False,72,232,IDF
+1462457248639299592,"#30daymapchallenge Elevation :: Des Principales Montagnes et du Cours des Principaux Fleuves due Monde, 1829 https://t.co/hR6gSsuMfz https://t.co/XuY3KuIvJP",853214807826325508,2021-11-21 16:25:53+00:00,fr,2,0,9,2,Twitter Web App,3_1462457020540403716,https://pbs.twimg.com/media/FEuw6WiWQAQJQiX.jpg,photo, ,Chrono Research Lab,chronohh,False,1228,2168,"Hamburg, Germany"
+1462456457945923590,Felt like @geo_spatialist might delete later #30DayMapChallenge https://t.co/2uD1ysyM91,1082700543489916929,2021-11-21 16:22:45+00:00,en,2,0,3,0,Twitter Web App,3_1462456030831460361,https://pbs.twimg.com/media/FEuwAvlWQAk8QZp.jpg,photo, ,Chimango Chisuwo,ChisuwoChimango,False,140,251,Lilongwe
+1462456148196573193,"#30DayMapChallenge Day 21: #Elevation. Mount Elbrus. #sevensummits
+
+#arcgispro #spatial #mapart https://t.co/6wqE6Y9UWP",1445733749396852736,2021-11-21 16:21:31+00:00,en,0,0,12,0,Twitter Web App,3_1462454319056396295,https://pbs.twimg.com/media/FEuudGuXoAcudlO.jpg,photo, ,Ryan Jewett,jugbaycarto,False,36,126, 
+1462453892092944392,"#30DayMapChallenge
+
+21. ELEVATION. Iceland ridgeline plot.
+21. ELEVACIÓN. Ridgeline plot de Islandia. https://t.co/0zPAnFQyWH",769592708,2021-11-21 16:12:33+00:00,und,3,0,7,1,Twitter for Android,3_1462453889874206729,https://pbs.twimg.com/media/FEuuEH5XIAk3MkN.jpg,photo, ,Valentín Sastre,valen_ibiza,False,377,586,IBIZA / Barcelona
+1462453248875548674,#Elevation for day 21 of the #30DayMapChallenge brings me back to last years 2.5D plot of digital elevation models. This year it is Colorado from the Continental Divide west to the state line. Cool to see river profiles and the drop off at the @BlackCanyonNPS https://t.co/oywTQPotmW,2719547953,2021-11-21 16:10:00+00:00,en,1,0,1,0,Twitter Web App,3_1461350584389226512,https://pbs.twimg.com/media/FEfCnSrUUBAYob6.png,photo, ,Jesse Pisel,geologyjesse,False,653,329, 
+1462451916563230724,"#30daymapchallenge • Jour 21
+""Elevation""
+
+🗺 Les sommets les plus hauts du monde par continent
+🧭 #montagne #sommet #continent #cartographie https://t.co/nHbKFXCgBi",1352020785670533123,2021-11-21 16:04:42+00:00,fr,2,1,2,0,Twitter for Android,3_1462451914038296576,https://pbs.twimg.com/media/FEusRHVXwAARcQf.jpg,photo, ,Geobjectif,geobjectif,False,15,19,France
+1462450735732330504,"#30DayMapChallenge Dia 21: Elevació
+Minecraft, cada bloc és un quadrat de l'Ornitho .cat i .eus, 1 km² amb la seva alçada mitjana. Vaig tenir la idea 2016 suposo, i no el vaig acabar fins al confinament. https://t.co/aBsxIzaOqL",3501358169,2021-11-21 16:00:01+00:00,ca,2,1,10,1,Twitter Web App,3_1458869865062744065,https://pbs.twimg.com/media/FD7yabCWQAElV6U.jpg,photo, ,Víctor Coris,Victor_Celoni,False,32,127, 
+1462450733958119426,"Día 21 -  Altitud. En este mapa se puede ver la altitud de Costa Rica, utilizando un DEM probé la herramienta de relieve. #30DayMapChallenge #30daymapchallengebot https://t.co/68RMMgBgb7",3784370418,2021-11-21 16:00:00+00:00,es,1,0,4,0,Twitter Web App,3_1462291267400908803,https://pbs.twimg.com/media/FEsaKP-WQAMW6rb.jpg,photo, ,Michelle Jones,michjonescr,False,298,495,"San José, Costa Rica"
+1462449482734440453,"🔵 3D view of the Zugspitze🏔️, Alps Mountain Range, #Germany🇩🇪 9 March 2021 #Copernicus🇪🇺 #Sentinel-2🛰️ Full-size ➡️ https://t.co/52mzj0Vxo2 @sentinel_hub for #30DayMapChallenge #RemoteSensing #OpenData #scicomm #3D https://t.co/AGbXOqsVfW",15147301,2021-11-21 15:55:02+00:00,en,13,5,49,0,Twitter Web App,3_1462446710521831435,https://pbs.twimg.com/media/FEuniOuXoAsqnbm.jpg,photo, ,Pierre Markuse,Pierre_Markuse,False,8212,1327,"Hamm, Germany"
+1462449320393801730,"Satellite image of the day: a view from space of the strikingly regular linear sand dunes at the border of Botswana and Namibia, in the #Kalahari desert. via @sentinel_hub for #30DayMapChallenge https://t.co/ABoJr9SKez",910623276778405888,2021-11-21 15:54:23+00:00,en,7,2,38,0,Twitter Web App,3_1462448247700537345,https://pbs.twimg.com/media/FEuo7tKVQAEDozN.jpg,photo, ,AI6YR,ai6yrham,False,29374,1611,DM04
+1462448970547015690,"Elevation - #30DayMapChallenge 
+
+My all time fave thing is to create is a silky funky digital elevation model. Full credit to peperoncini for the colour scheme. #Sicily #Italy @Esri @ArcGISPro @CopernicusEU https://t.co/DMDogGbTpf",346830435,2021-11-21 15:53:00+00:00,en,0,0,7,0,Twitter Web App,3_1458543004155797504,https://pbs.twimg.com/media/FD3JInRWYAAQxMj.jpg,photo, ,Giulia,SharkieGoesRawr,False,151,775,"Earth, mostly"
+1462448124631273479,"For #30DayMapChallenge day 21 - elevation - I looked at change in elevation (gradient or steepness, on the right) in San Francisco and San Mateo with H3. https://t.co/LTjbi8LC6J
+
+Data: SF County. Made with @unfoldedinc https://t.co/IymiHm7qcL",53135103,2021-11-21 15:49:38+00:00,en,3,1,14,0,Twitter Web App,3_1462448121053528066,https://pbs.twimg.com/media/FEuo0VXVQAIXSQD.jpg,photo, ,Isaac Brodsky,IsaacBrodsky,False,275,729,"San Francisco, CA"
+1462446610332463104,#30DayMapChallenge Day 21: Finger Lakes Elevation Profile - from Google Earth https://t.co/GIliydNAbT,2391754261,2021-11-21 15:43:37+00:00,en,1,0,3,0,Twitter Web App,3_1462446548265185287,https://pbs.twimg.com/media/FEunYyRXsAcXqMh.jpg,photo, ,🌏Map of the Week,MapOfTheWeek,False,1076,370,"Arlington, MA"
+1462446135147208705,"#30DayMapChallenge Day 21: Elevation
+
+Denmark is flat – or is it? In an 1843 book about Denmark, it was estimated that Himmelbjerget (“Sky or Heaven Mountain”) was 5649 m above sea level, higher than Mont Blanc! https://t.co/oeo0NJmkgN",2741743694,2021-11-21 15:41:44+00:00,en,1,1,11,0,Twitter Web App,3_1462445269128261632,https://pbs.twimg.com/media/FEumOVHXMAAxzUJ.jpg,photo, ,Jörg Schullehner,JorgSchullehner,False,99,175,Denmark
+1462445950769647620,"I released this early for the benefit of the public - but Day 21 of the #30DayMapChallenge is about elevation, or a lack of it.
+
+In BC's Lower Mainland, Sumas Prairie is a basin that really wants to be a lake. https://t.co/6n76EW9Jd5",851149914725916672,2021-11-21 15:41:00+00:00,en,6,4,55,0,Twitter Web App,3_1461483204049838085,https://pbs.twimg.com/media/FEg7OxaXIAU7DlY.jpg,photo, ,Alex McPhee,ksituan,False,4018,189,Val Marie / Treaty 4
+1462445137972269059,"Whew.... starting to feel the burn of this challenge!  
+#30DayMapChallenge https://t.co/iv35B6BeuH",748038863206088704,2021-11-21 15:37:46+00:00,en,1,1,4,0,Twitter Web App,16_1462445132737744898,https://pbs.twimg.com/tweet_video_thumb/FEumGZBVEAIZZwI.jpg,animated_gif, ,Shannon Gonzales 🐙(she/her),yavannie24,False,558,1000,"Sacramento, CA"
+1462444837152645131,@get_delta Invest in what pays @RichQuack #BinanceSmartChain #30DayMapChallenge #BSCGems #BitMart #CEX https://t.co/J9Bbx0NUbB,2339848449,2021-11-21 15:36:34+00:00,en,1,0,0,0,Twitter for Android,3_1462444828994723845,https://pbs.twimg.com/media/FEul0tfWYAUBD83.jpg,photo, ,Afolabi Oluwafemi,CEOSlimbrighten,False,190,640,"Akure, Nigeria"
+1462444426731692034,@ItsTheLazyChef @davido Join the winning team @RichQuack #BinanceSmartChain #30DayMapChallenge #BSCGems #BinanceSmartChain #BSCS #EverestCoin https://t.co/wG4jgX6AGl,2339848449,2021-11-21 15:34:56+00:00,en,0,0,0,0,Twitter for Android,3_1462444413637079051,https://pbs.twimg.com/media/FEulciKXsAsV1nR.jpg,photo, ,Afolabi Oluwafemi,CEOSlimbrighten,False,190,640,"Akure, Nigeria"
+1462443937495347207,"#30DayMapChallenge Day 21: Elevation!
+
+Here's a map (made using rayshader in #RStats) made using the same clip from @OpenTopography 's ""3D fuel structure..."" data of the University of California Sedgwick Reserve
+(https://t.co/7mzqk8yN1S), colored by elevation! https://t.co/FYG1wGB2g4",942194832491122688,2021-11-21 15:33:00+00:00,en,10,0,46,0,TweetDeck,3_1455281852563042306,https://pbs.twimg.com/media/FDIzIm4XsAIPzcp.jpg,photo, ,Mike Mahoney,MikeMahoney218,False,1068,533,"Syracuse, NY"
+1462443842859413508,@MobilePunch Read news that pays jawe @RichQuack #30DayMapChallenge #BSCGems #BinanceSmartChain #BSC #BSCS https://t.co/OobvyFrYWI,2339848449,2021-11-21 15:32:37+00:00,en,1,0,0,0,Twitter for Android,3_1462443834906927111,https://pbs.twimg.com/media/FEuk62OWYAcOrqy.jpg,photo, ,Afolabi Oluwafemi,CEOSlimbrighten,False,190,640,"Akure, Nigeria"
+1462443800790396934,"#30DayMapChallenge 
+Day 21 - Elevation
+Little Cottonwood Canyon, Salt Lake City, Utah
+
+Spent much of my life skiing, hiking and playing in this canyon and it's one of my favorite places. 🏔️ https://t.co/mTRC7PBPRb",748038863206088704,2021-11-21 15:32:27+00:00,en,1,1,7,0,Twitter Web App,3_1462443453309087745,https://pbs.twimg.com/media/FEukkoqVcAE3UxC.jpg,photo, ,Shannon Gonzales 🐙(she/her),yavannie24,False,558,1000,"Sacramento, CA"
+1462443686130855936,"@tjukanov Day 21. Elevation. 
+
+Here are some of the hikes Erik planned to do last summer. Extra points for using both #MAPublisher and #GeographicImager. 
+
+#30DayMapChallenge https://t.co/wLUeDLGuiZ",22914910,2021-11-21 15:32:00+00:00,en,1,1,3,0,TweetDeck,3_1461729080307556353,https://pbs.twimg.com/media/FEka2p2XIAELVtM.jpg,photo, ,Avenza Systems Inc.,Avenza,False,1367,188,"Toronto, ON"
+1462439217523351566,"#30DayMapChallenge Day 21: Elevation
+""Doors Closing"" [still] https://t.co/xXF4ccjOY8",20668314,2021-11-21 15:14:14+00:00,en,3,1,48,1,Twitter for Android,3_1462439215023591432,https://pbs.twimg.com/media/FEugt70VEAgX_Dj.jpg,photo, ,Kenneth Field,kennethfield,False,15921,99,"Front room, Redlands CA"
+1462438993790861312,"#30DayMapChallenge Day 21: Elevation
+""Doors Closing"" https://t.co/ZfPhdfps17",20668314,2021-11-21 15:13:21+00:00,en,1,0,7,0,Twitter for Android,7_1462438479023927300,https://pbs.twimg.com/ext_tw_video_thumb/1462438479023927300/pu/img/ec_u7oPmaAvY8mBX.jpg,video, ,Kenneth Field,kennethfield,False,15921,99,"Front room, Redlands CA"
+1462438709287174148,"#30DayMapChallenge - Día XX
+
+*Aprovechando que ayer fue aniversario de la Revolución mex y hoy solemnidad de Cristo Rey https://t.co/4CagRv26d0",601582057,2021-11-21 15:12:13+00:00,es,5,0,7,0,Twitter for Android,3_1462438706607017989,https://pbs.twimg.com/media/FEugQV0X0AU7SOP.jpg,photo, ,Sr Miguelo,MiguE_garva,False,339,526,tu corazón
+1462438612193132549,"Slightly bonkers contribution for the #Elevation prompt #30DayMapChallenge inspired by an old map of Kings Bay, #Spitsbergen (home of #NyAlesund research station) #HandEmbroidery and some #Trapunto #Quilting https://t.co/3tsHEZADTw",19870047,2021-11-21 15:11:50+00:00,en,2,0,12,0,Twitter for iPad,3_1462438603817205766,https://pbs.twimg.com/media/FEugKW5XwAYGqnp.jpg,photo, ,Caroline Hack,CarolineHack,False,1765,1995,"Norfolk, UK"
+1462437428917157889,"🔵 Animation of Iceberg A74 calving from the Brunt Ice Shelf, #Antarctica🇦🇶 #Copernicus🇪🇺 #Sentinel-1🛰️ #SAR @sentinel_hub for #30DayMapChallenge #RemoteSensing #OpenData #scicomm https://t.co/Vgx0KeBQKT",15147301,2021-11-21 15:07:08+00:00,en,44,2,144,0,Twitter Web App,16_1462434555906957317,https://pbs.twimg.com/tweet_video_thumb/FEucevQXIAUFdiQ.jpg,animated_gif, ,Pierre Markuse,Pierre_Markuse,False,8212,1327,"Hamm, Germany"
+1462437365599944706,"Here we are with #30DayMapChallenge 
+day 21| Elevation
+Short video about Mt. Rainer 
+#blender3D + #adobepremiere https://t.co/hTroMLK3kd",1316116835327148035,2021-11-21 15:06:53+00:00,en,1,0,7,0,Twitter Web App,7_1462436719618408457,https://pbs.twimg.com/ext_tw_video_thumb/1462436719618408457/pu/img/0dOEQZjyqZOj4rXh.jpg,video, ,VizArt,hellovizart,False,1014,204, 
+1462435720203841543,"#30daymapchallenge 
+
+#Day21 - Elevation (on time!)
+
+The elevation in #France on a hex grid https://t.co/8iRya2Eg5N",1422832836,2021-11-21 15:00:21+00:00,en,1,0,3,0,Twitter Web App,3_1462435613857222659,https://pbs.twimg.com/media/FEudcUbXEAM3aeD.jpg,photo, ,Alvin,alvinometric,False,601,502,Freedom-Day Fiefdom 
+1462434414634405890,Day 21 #30DayMapChallenge - Elevation https://t.co/mdJ0ABjcHX,86087153,2021-11-21 14:55:09+00:00,en,1,0,1,0,Twitter Web App,3_1462434400537387016,https://pbs.twimg.com/media/FEucVsdXoAgjiBH.jpg,photo, ,Дмитрий,DBusAI,False,34,248,"Москва, Россия"
+1462434071729086476,"Día 21: elevación
+Modelo Digital de Elevaciones del área serrana del partido de General Pueyrredon (provincia de Buenos Aires, Argentina) en base a datos del IGN https://t.co/Slh2KpcPWu
+#30DayMapChallenge https://t.co/lCGZ6EJcMr",402826093,2021-11-21 14:53:48+00:00,es,1,0,1,0,Twitter Web App,3_1462434040129196040,https://pbs.twimg.com/media/FEucAt1XEAga3W-.jpg,photo, ,Gabi Calderon,GabiCalderon18,False,186,896,Mar del Plata | Argentina
+1462432512379084807,"The #30DayMapChallenge is a lot of work… how is it going so far?
+https://t.co/ve70CL4QdA https://t.co/YBBqlmY7vQ",201856958,2021-11-21 14:47:36+00:00,en,2,1,16,0,TweetDeck,3_1462431507847524353,https://pbs.twimg.com/media/FEuZtUWXMAEp-PC.jpg,photo, ,Fil,recifs,False,2716,2528,Sur la carte de France
+1462432361358921730,"#30DayMapChallenge 2021 🗺️ Day 21 - Elevation
+
+My initial plans failed so here is a simple stylized elevation map of La Palma 
+
+Tools: #rstats ({sf},{ggplot2})
+
+Code: https://t.co/UGbl1tfFp6 https://t.co/x7rjJPoktR",2745527973,2021-11-21 14:47:00+00:00,en,3,0,9,0,Twitter Web App,3_1462130193016008706,https://pbs.twimg.com/media/FEqHqfIXsAIR77e.jpg,photo, ,David Schoch,schochastics,False,1928,290, 
+1462429250460565512,"Day 21. Elevation. Deriving Pantelleria. A few of the many ways we can use elevation data to make map. All code included
+https://t.co/l3M7LG0jTJ
+#30DayMapChallenge #streaklines
+21 done, 9 to go! https://t.co/GeWTPlUfjW",201856958,2021-11-21 14:34:38+00:00,en,2,1,18,0,TweetDeck,3_1462429111645872129,https://pbs.twimg.com/media/FEuXh1zXoAEDuzG.jpg,photo, ,Fil,recifs,False,2716,2528,Sur la carte de France
+1462429036106366977,"#Elevation
+Seeing the Sandauhafen, Hansaport in Hamburger Hafen right next to the bridge Köhlbrandbrücke which is 3.618 m long and therefore the second longest bridge in Germany.
+
+Map: @GMapsPlatform with Satellite MapTypeId and 45° Imagery.
+
+#30DayMapChallenge https://t.co/DBTQSAdMGn",1024961639194550273,2021-11-21 14:33:47+00:00,de,1,1,10,1,Twitter Web App,3_1462428905202147332,https://pbs.twimg.com/media/FEuXV0vWYAQKF7V.jpg,photo, ,Binicodes,binicodes,False,203,369,"Hamburg, Deutschland"
+1462428919668396035,Day 21: Elevation 🏔 of the #30DayMapChallenge @GeotoZee  created a map illustrating South Africa's Elevation. https://t.co/VbKtZTNXoc,1109007483199213568,2021-11-21 14:33:19+00:00,en,1,0,12,1,Twitter for Android,3_1462428903578996738,https://pbs.twimg.com/media/FEuXVusXEAIsxfH.jpg,photo, ,UP Mappers,UPmappers,False,87,66,"Pretoria, South Africa"
+1462428517291986947,"#30DayMapChallenge Dia 21 - Elevação. 
+Mapa hipsométrico de #Roraima.
+Dados - Brasil em Relevo (Embrapa) https://t.co/jvwUNeajns",1286062108493393931,2021-11-21 14:31:43+00:00,pt,1,1,4,0,Twitter for Android,3_1462428513210933258,https://pbs.twimg.com/media/FEuW_AdXIAoA3u8.jpg,photo, ,Citó,Art_Cito,False,12,133, 
+1462427085159419909,"#30DayMapChallenge Day 21: Elevation
+155 historical 1940s maps of #Palestine stiched together and merged with modern elevation data. View them ide-by-side with modern satellite imagery. Enjoy! https://t.co/IrS706CMak https://t.co/zTWiDFqyZp",491313936,2021-11-21 14:26:02+00:00,en,60,5,215,7,Twitter Web App,7_1462426053151010829,https://pbs.twimg.com/ext_tw_video_thumb/1462426053151010829/pu/img/Z0NpCFza9wQ0pNB0.jpg,video, ,Ahmad Barclay,bothness,False,2832,644,Fareham / Beirut
+1462423943848116227,"#30DayMapChallenge
+Day 21: Elevation - Yosemite
+
+Playing w/ D.E.M. Slicer plugin in @QGIS (it creates section profiles). Allows you to make pretty little postcard or holiday card style maps for your friends &amp; family. Half Dome and Cloud Rest are in there somewhere.... https://t.co/SkXaJC0mZb",333524694,2021-11-21 14:13:33+00:00,en,3,0,42,0,Twitter Web App,3_1462421946000416776,https://pbs.twimg.com/media/FEuRAvsXIAg7Q8k.jpg,photo, ,Christopher Pollard,CRVanPollard,False,1236,1210,"Philadelphia,PA"
+1462423447485693954,"#30DayMapChallenge | Day 21 | Elevation
+
+Ever wonder what the ambient methane concentration is in the U.S.? 
+
+Geosite Cartographer, Ari Kaputkin, uses open source data to map average methane emissions across the U.S. in 2020 by elevation. https://t.co/J4SXyPC2cS",1018974064247857152,2021-11-21 14:11:35+00:00,en,6,1,17,2,Twitter Web App,3_1462422343746310148,https://pbs.twimg.com/media/FEuRX5aX0AQBa94.jpg,photo, ,Geosite,GeositeInc,False,345,51,"Stanford, CA"
+1462421045944672258,"#30DayMapChallenge 2021 Day 19 : Island(s) – nouvelle version après avoir un peu retravaillé le rendu.
+
+Les iles de Paris après la fonte des glaces, une simulation de montée (extrême !!!) des eaux avec les données @IGNFrance et le formidable #rayshader que je découvre. https://t.co/L8tq2WsFkI",154261653,2021-11-21 14:02:02+00:00,fr,8,4,38,1,Twitter Web App,3_1462420941204566020,https://pbs.twimg.com/media/FEuQGQiXMAQv4L3.jpg,photo, ,Cedric Rossi,cedricr,False,938,361,"Toulouse, France"
+1462420533794918403,"Elevation along Hadrian's Wall path🏞️
+
+#30daymapchallenge #day21 #elevation #blender https://t.co/JdMyNFS8oB",1101617286,2021-11-21 14:00:00+00:00,en,15,2,139,0,Twitter Web App,3_1462382963455320064,https://pbs.twimg.com/media/FEttjqZWYAA6LQe.jpg,photo, ,Helen McKenzie,helenmakesmaps,False,4382,967,London
+1462412618849738761,"Day 17 of #30DayMapChallenge - Land
+Changed land and new land where the erupting volcano Tagojaite on La Palma has now reached the sea.
+
+Made with #rayshader and some additions using  #affinitydesigner https://t.co/9p4PBpcBTu",1318518242080661504,2021-11-21 13:28:33+00:00,en,1,1,5,0,Twitter Web App,3_1462411522081234947,https://pbs.twimg.com/media/FEuHh_kXIAMIbD3.jpg,photo, ,Christoph Er,dataisawesomeo,False,199,580, 
+1462411470659072000,"Day 21 of #30DayMapChallenge - Elevation
+Digital Hachures - Python, Numba 🚀
+A - Como area (Italy)
+B - Mt. Mayon (Philippines)
+C - Vesuvio, Campi Flegrei (Italy) https://t.co/tetfw3Z2Tc",1225029150433579010,2021-11-21 13:23:59+00:00,tl,1,0,9,0,Twitter Web App,3_1462410133787533324,https://pbs.twimg.com/media/FEuGRLxWYAwpDch.jpg,photo, ,Ivan D.,ivanziogeo,False,93,184,"Oricola, Abruzzo"
+1462408836342554624,"#30DayMapChallenge Día 21. Elevation
+Mapa de curvas de nivel en San Francisco.
+Fuente: https://data.sfgov
+Instagram: dataurbana
+#DataUrbana #SocialDataScience #UrbanDataScience #SpatialDataScience #dataviz #python @tjukanov https://t.co/ffcPXxlPOT",1270981983842287616,2021-11-21 13:13:31+00:00,es,5,0,5,0,Twitter Web App,3_1462408814402187269,https://pbs.twimg.com/media/FEuFEYrXsAUiyQa.jpg,photo, ,DataUrbana,Data_Urbana,False,78,167,Barcelona
+1462408289669505027,"#30DayMapChallenge day21-Elevation🏔✨
+Having lots of fun with @observablehq, embedding and readapting @recifs and @sahilchinoy great notebooks to play around with my hometown #SierraNevada mountains profile on a kind of colour party of dancing shadows :) 
+https://t.co/dOHBrbmlbU https://t.co/AJ2EsB5e68",253036048,2021-11-21 13:11:21+00:00,en,6,1,23,0,Twitter Web App,7_1462397502934683648,https://pbs.twimg.com/ext_tw_video_thumb/1462397502934683648/pu/img/4f8eoncwevWPz-Cg.jpg,video, ,Carmen Torrecillas,carmen_TM_,False,904,2352,"Madrid, Spain"
+1462407547399426051,#30daymapchallenge #inkscape https://t.co/XaRoPayBp7,233135248,2021-11-21 13:08:24+00:00,und,1,0,1,0,Twitter Web App,3_1462407415207452674,https://pbs.twimg.com/media/FEuDy8RWYAI1VYW.jpg,photo, ,Jérôme Boeuf,jrombf,False,95,458,"Besançon, France"
+1462405666405036037,"#30DayMapChallenge Day 21: Elevation by Freya Cooper features the #CuillinHills in Isle of Skye, highlighting that the Red hills of granite to the east are rounded with fewer tall ridges, whereas the Black hills comprised of gabbro are steeper and more angular. https://t.co/kK97uSArfI",22614266,2021-11-21 13:00:55+00:00,en,8,0,46,3,Hootsuite Inc.,3_1462405664677011461,https://pbs.twimg.com/media/FEuCNDCXoAU9PAE.jpg,photo, ,Ordnance Survey,OrdnanceSurvey,True,63086,3721,"Southampton, UK"
+1462404529165672450,"Día 21: Elevaciones en #30DayMapChallenge 
+#elevation https://t.co/sbFF1HcTHM",3194863402,2021-11-21 12:56:24+00:00,es,3,1,6,0,Twitter Web App,3_1462404171768938501,https://pbs.twimg.com/media/FEuA2JhWQAUXSjf.jpg,photo, ,Cartografía Digital,digimaps,False,3731,185,"Comunidad de Madrid, España"
+1462403020164157446,"Elevation of Roebuck 2021 trail run series hare distance, in Kandava Courland. Multiplied 10 times. Data: Exported GPX file from @Stirnubuks_lv. Day 21, Elevation #30DayMapChallenge https://t.co/FkgIuDRUaB",1096581954844147713,2021-11-21 12:50:24+00:00,en,1,0,5,0,Twitter Web App,3_1462402325121806337,https://pbs.twimg.com/media/FEt_KqOXMAElm3L.jpg,photo, ,Renārs,laysking3,False,12,51,"Riga, Latvia"
+1462400244822552576,#30DayMapChallenge #Day20 Movement (ferries) the second - Expected a match with @WorldBank passenger ship density - not always apparent - more checking needed-@weisseflotte Habt ihr AIS an Board? Data: © OSM contributors + © Copernicus https://t.co/WVbz3M1KJZ + Worldbank S:QGIS https://t.co/rACFPWpEfU,2574612668,2021-11-21 12:39:23+00:00,en,1,0,1,0,Twitter Web App,3_1462399714343755778,https://pbs.twimg.com/media/FEt8ysUXoAII12-.jpg,photo, ,hannes reuter,hireuter,False,290,601, 
+1462399090772385796,"21. Elevation: Tanaka contours. They look cool🤩 I used @underdarkGIS  great tutorial and updated it a bit: https://t.co/dN95DWxVZa  And yes, am trying to start a blog to collate some of the works and tutorials, so others can make cool maps, too 😊 #30DayMapChallenge #QIS https://t.co/krX90LXzW9",47698876,2021-11-21 12:34:47+00:00,en,19,3,130,0,Twitter Web App,3_1462398727889592326,https://pbs.twimg.com/media/FEt75RfXoAYrkDl.jpg,photo, ,Evelyn,evelynuuemaa,False,1116,353,Estonia
+1462399057608032256,"#30DayMapChallenge - Day 21: Elevation.
+A topographic map of #Dresden/Germany and surroundings, all peaks marked and (mostly) labeled.
+Done with #QGIS. https://t.co/d8w7ayG6Uu",2593554955,2021-11-21 12:34:40+00:00,en,2,1,4,0,TweetDeck,3_1462398989198938114,https://pbs.twimg.com/media/FEt8Ie8X0AIFkUm.jpg,photo, ,Kapazitätsdiode,varaktor,False,62,197, 
+1462398387513446404,"#30DayMapChallenge Day 21: Elevation
+
+There are 77,867,000 people living above 2,500 meters altitude according to Kontur Population dataset.
+Researchers studying the impact of life at high altitudes on human health typically use this altitude as a benchmark for their work. https://t.co/1uJDHtzQ8X",1024584556110852096,2021-11-21 12:32:00+00:00,en,3,1,23,0,Twitter Web App,3_1462397867059036168,https://pbs.twimg.com/media/FEt7HKpXwAg22TQ.jpg,photo, ,Kontur,KonturInc,False,1016,1208,"Hawaii, USA"
+1462398163361443843,#30DayMapChallenge 2021 - Day 21: Elevation https://t.co/Ik3owfN9WM,1180074260385206277,2021-11-21 12:31:06+00:00,en,1,1,5,1,Twitter for Android,3_1462398161125847040,https://pbs.twimg.com/media/FEt7YSIXMAA9Ett.jpg,photo, ,Aaron Koelker,AaronKoelker,False,237,283,"Tallahassee, FL"
+1462397884108734466,"A playful map for #30DayMapChallenge day 21 - Elevation 🧱
+After a long time, I finally managed to create my own LEGO map... at least in QGIS, while waiting to recreate it with colorful bricks!
+Inspired by the creative works and tutorials by @AndriyYaremenko and @cartocalypse ✨ https://t.co/6FAxCfn41i",148715617,2021-11-21 12:30:00+00:00,en,9,3,47,0,TweetDeck,3_1458451808817491976,https://pbs.twimg.com/media/FD12MWKXsAg2Bmf.jpg,photo, ,Federica Gaspari,fede_gaspari,False,577,405,Arona | Piacenza
+1462397882456330246,"Jour 21 du #30DayMapChallenge : Élévation
+
+Les voies cyclables d'Angoulême et le dénivelé https://t.co/P12oC5SCsb",1345171421874499592,2021-11-21 12:29:59+00:00,fr,1,0,5,0,Twitter Web App,3_1462397868774465542,https://pbs.twimg.com/media/FEt7HRCXIAYoXHy.jpg,photo, ,Benoit Ribon 🐘,benoit_ribon,False,582,736,Angoulême
+1462397375276896260,"#30DayMapChallenge Day 21 - Elevation
+Area around #Toubkal, highest mountain of #Morocco and North Africa (4167 m), located in the Atlas Mountains. Styled in #QGIS using #Tanaka contours.
+#OpenData: SRTM DEM and peaks from #OpenStreetMap https://t.co/yurbIoaAEP",760094405369946112,2021-11-21 12:27:58+00:00,en,6,0,54,0,Twitter Web App,3_1462395996302979073,https://pbs.twimg.com/media/FEt5aRiXsAEzRQk.jpg,photo, ,Hans van der Kwast,hansakwast,False,4230,1320,The Netherlands
+1462397340053131270,"Jour 20 du #30DayMapChallenge : Mouvement.
+
+La mobilité domicile-travail dans le Grand Angoulême, et l'hypothèse du report modale des trajets courts vers le vélo https://t.co/nSv6v2c3GI",1345171421874499592,2021-11-21 12:27:50+00:00,fr,2,0,2,0,Twitter Web App,3_1462397265117646848,https://pbs.twimg.com/media/FEt6kIPXEAAx_Gf.jpg,photo, ,Benoit Ribon 🐘,benoit_ribon,False,582,736,Angoulême
+1462396303158267910,"#30DayMapChallenge 
+Day 21 : Elevation
+Mt. Fuji, the highest mountain in Japan, standing 3,776.24 m (12,389.2 ft). https://t.co/KW3GUJSJxH",860412366323933185,2021-11-21 12:23:43+00:00,en,1,0,7,0,Twitter Web App,3_1462396106793525260,https://pbs.twimg.com/media/FEt5gtJXoAwt7Qo.jpg,photo, ,BAOVOLA Marie Anna,BaovolaMada,False,515,1606,Madagascar
+1462393859930001416,"Day 21 of the #30DayMapChallenge is elevation. 
+
+As part of @GeospatialNCL, I made an Eduard Imhof-like topographic map for Robin Hood's Bay in the North York Moors using @John_M_Nelson's blog post: https://t.co/fDdaiZmnp3.
+
+Very cool! 😎 https://t.co/rUcduCh5GS",874597331424993281,2021-11-21 12:14:00+00:00,en,2,0,16,0,Twitter Web App,3_1462387471539486722,https://pbs.twimg.com/media/FEtxqEUXwAIfveN.jpg,photo, ,Richard Burke,GIS_Manipulator,False,119,119,"Newcastle Upon Tyne, England"
+1462392780924280837,#30DayMapChallenge Day 19. Island https://t.co/xlIqXGIYI3,1102680264554303489,2021-11-21 12:09:43+00:00,en,0,1,4,0,Twitter Web App,3_1462392749383159811,https://pbs.twimg.com/media/FEt2dR0XEAM4LOd.jpg,photo, ,Mikhail Topnikov,mtopnikov,False,48,97,"Moscow, Russia"
+1462391345881001986,"#30DayMapChallenge 21 (j'avoue je recycle). Relief de la criminalité par armes à feu aux USA (tx de criminalité, législation sur les armes, attaques et tueries, le vert pour la législation sur le canabis car par miracle cela ne se recoupe pas trop (2018), qq lieux + imaginaires https://t.co/vT8Kjhbq7W",1189967197730430977,2021-11-21 12:04:01+00:00,fr,1,0,2,0,Twitter for Android,3_1462391342773026818,https://pbs.twimg.com/media/FEt1LZyXwAI6mEP.jpg,photo, ,Julien Dupont Kobri,Kartokobri,False,880,387, 
+1462390768568614920,A quick bonus map for today because the South Downs/south coast is looking particularly pretty #30DayMapChallenge https://t.co/Jm9MSwPqAR,900161125,2021-11-21 12:01:43+00:00,en,1,0,6,0,Twitter Web App,3_1462390463483326470,https://pbs.twimg.com/media/FEt0YOLXsAYlJxR.jpg,photo, ,amanda,acrobins,False,214,238,London via Edmonton & Calgary
+1462390347485618180,I've never worked with ELEVATION data before but it has to be one of the most stunning datasets out of the box. It almost styles itself. #30DayMapChallenge https://t.co/avS9dBJzbH,900161125,2021-11-21 12:00:03+00:00,en,2,2,18,0,Twitter Web App,3_1462389969427775489,https://pbs.twimg.com/media/FEtz7drWQAEyxsy.jpg,photo, ,amanda,acrobins,False,214,238,London via Edmonton & Calgary
+1462390338098585607,"DAY TWENTY ONE - ELEVATION [🏞] @jamesfmurphy95 has created a DEM of Yosemite Valley, California at 10m resolution, overlayed with Sentinel-2 RGB imagery using the rayshader package (@tylermorganwall), instructions at: https://t.co/mqd3mwAMnn  #30DayMapChallenge https://t.co/WfTsm5NQ5N",2280343142,2021-11-21 12:00:01+00:00,en,3,1,21,0,TweetDeck,7_1458838144774774786,https://pbs.twimg.com/ext_tw_video_thumb/1458838144774774786/pu/img/fdpkwJxpnlU7ufY5.jpg,video, ,GeoDataScience,geodatascience,False,5397,2376,Liverpool
+1462388455955210240,"#30DayMapChallenge Day 20 Movement
+Visualizing Bayern Munich's game-winning goal vs. PSG in the 2020 UEFA Champions League Final: https://t.co/x5HBHHf4U8",910889225448439808,2021-11-21 11:52:32+00:00,en,1,4,27,0,Twitter Web App,16_1462387347522269188,https://pbs.twimg.com/tweet_video_thumb/FEtxi2UXMAQQAk0.jpg,animated_gif, ,Dennis Kao,professorkao,False,466,719, 
+1462387550513938441,"#30DayMapChallenge #Day21 
+#Elevation explained by BB8.
+He speaks in binary, therefore speaker on! https://t.co/8Ojn77XL7I",554282016,2021-11-21 11:48:56+00:00,en,2,0,14,0,Twitter Web App,7_1462387290169298947,https://pbs.twimg.com/ext_tw_video_thumb/1462387290169298947/pu/img/BsGcgxJGA6kdhbJM.jpg,video, ,Sven Schroeter,sven_s8,False,928,401,"Trier, Germany"
+1462384680095866885,"#30DayMapChallenge Day 21, Elevation. Let's aim high - to the highest mountain in the entire Solar system!
+Made with the elevation profile tool in #QGIS. https://t.co/cOR2f3QcUD",1143779197107806208,2021-11-21 11:37:32+00:00,en,1,0,2,0,Twitter Web App,3_1462384514135691271,https://pbs.twimg.com/media/FEtu97IXEAc1say.jpg,photo, ,Jonas Nelson,JonasNelson19,False,45,7,Sweden
+1462383816182534150,"NYC Uber pickups across April 2014 - monthly totals🚘
+
+#30daymapchallenge #day21 #movement #QGIS https://t.co/Eg08UAITTr",1101617286,2021-11-21 11:34:06+00:00,en,8,2,83,1,Twitter Web App,16_1462383249976668161,https://pbs.twimg.com/tweet_video_thumb/FEtt0VxXMAEIn-C.jpg,animated_gif, ,Helen McKenzie,helenmakesmaps,False,4382,967,London
+1462381945430716416,"#Day21 of #30DayMapChallenge : Elevation
+Just an elevation map of beautiful #Trollstigen (The troll path). It's not the steepest (""only"" 10% :P ) but one of the most iconic roads in #Norway @visitnorway @tjukanov @BlomNorway @MapsNorway https://t.co/wqyPyqJsDE",634028762,2021-11-21 11:26:40+00:00,en,3,0,10,0,Twitter Web App,3_1462381799141695491,https://pbs.twimg.com/media/FEtsf4_WYAMGC9C.jpg,photo, ,Luis Barreiro,luchobt,False,70,339,"Oslo, Noruega"
+1462381915407884288,"#Day20:Movement. Scheelebreen #glacier in #Svalbard flowing fast!. Two #Sentinel2 images, 20 days apart show a movement of 13 m/day! #30daymapchallenge @tjukanov
+ @MapsNorway
+ @BlomNorway https://t.co/XLVDx75frF",634028762,2021-11-21 11:26:33+00:00,en,1,0,6,0,Twitter Web App,16_1462381891462615040,https://pbs.twimg.com/tweet_video_thumb/FEtslQ6X0AAgLmJ.jpg,animated_gif, ,Luis Barreiro,luchobt,False,70,339,"Oslo, Noruega"
+1462380906862333956,"#TidyTuesday #30DayMapChallenge
+Day 21 : Elevation | Mt. Washington | 6,288' https://t.co/8GyO1TVBa7",1428864082329931777,2021-11-21 11:22:32+00:00,en,3,0,3,0,rstats2twitter,3_1462380902206558225,https://pbs.twimg.com/media/FEtrrrpWUBEkFfK.jpg,photo, ,Kraggle,JCraggy,False,35,22,America
+1462379816255164418,"#30DayMapChallenge 
+day 21
+Mesas remnants of a sandstone plateau. Community based trekking is no longer active because of an armed conflict where thousands died...
+Qgis, 1arcsec dem resampled (saga gaus filter), sentinel image, osm
+I’m a beginner, thanks for this great initiative https://t.co/7NAqoGAIY8",566341543,2021-11-21 11:18:12+00:00,en,2,0,6,0,Twitter Web App,3_1462379646641750016,https://pbs.twimg.com/media/FEtqimTXwAAOtpp.jpg,photo, ,Fabio Artoni,fiftylemons,False,23,110, 
+1462375738305224714,"#30DayMapChallenge Day 21 ""Elevation"" Ireland's highest 100.
+
+Inspired by @MountainIrl excellent book: https://t.co/pTuEaAP9hb
+
+Mountain locations from https://t.co/RIWau6tkkJ https://t.co/PZTL9pSZ5X",1499547780,2021-11-21 11:02:00+00:00,en,4,0,26,1,Twitter Web App,3_1462241055865282563,https://pbs.twimg.com/media/FErsfjbXoAM8e6m.jpg,photo, ,Heikki Vesanto,HeikkiVesanto,False,894,468,"Dublin City, Ireland"
+1462374113939492872,"#30DayMapChallenge Day 21 : Elevation
+
+🙃Plastic Map
+
+Based on a tutorial by @John_M_Nelson , replicated on #QGIS 
+
+Location : Ste Victoire Moutain, Souther France
+https://t.co/rjFD2RgOC9
+
+Data : BDALTI @IGNFrance 
+
+Some explanations below  👇 https://t.co/2Ck6wTa7sv",488000929,2021-11-21 10:55:33+00:00,en,3,1,18,0,Twitter Web App,3_1462371506596495368,https://pbs.twimg.com/media/FEtjIyRWQAgHjTG.jpg,photo, ,mathieu rajerison,datagistips,False,1847,837,"Aix-en-Provence, France"
+1462373744081399809,"#30DayMapChallenge 2021 Day 21: Elevation.
+
+Contour map of southern Meratus Mountains, South Kalimantan, Indonesia. https://t.co/UDqTako60U",147465553,2021-11-21 10:54:04+00:00,en,3,1,8,0,Twitter for Android,3_1462373740474355714,https://pbs.twimg.com/media/FEtlK0HVUAIYGKu.jpg,photo, ,Distant Stargazer,akmalfrohman,False,122,244,Kugane
+1462371421120778243,"#30DayMapChallenge day 21 and this is one of my favourites, because we're on elevation. I've tried something new and created this image of the Cuillin Hills, Scotland, by shoving @OrdnanceSurvey Terrain 50 data into Aerialod &amp; Photoshop &amp; having a play. https://t.co/bfIKy8N08W",798523409286266880,2021-11-21 10:44:50+00:00,en,5,3,91,3,Twitter for Android,3_1462371413688467456,https://pbs.twimg.com/media/FEtjDYKWQAAdmf9.jpg,photo, ,Dan Harris,DiasporaDan,False,1229,1857,"Grantown-on-Spey, Scotland"
+1462369953345069058,"#30DayMapChallenge - Day 21: ""Elevation""
+Isola d'Elba - First experiment with Tanaka Contours. Data: SRTM 30m - Software: Pyramid Shader by @mappingbernie https://t.co/Kgy74DVEg7",336517784,2021-11-21 10:39:01+00:00,en,1,0,5,0,Twitter Web App,3_1462369938979663873,https://pbs.twimg.com/media/FEthticXsAEmQGq.jpg,photo, ,Luca Dall'Acqua,luca_northsouth,False,175,523,"Lucerna, Svizzera"
+1462365960443211780,"#30DayMapChallenge Day 21 : Elevation
+
+🌒DreamLike Slope
+
+Location : Ste Victoire Moutain, Southern France
+https://t.co/rjFD2RgOC9
+
+Data : BDALTI @IGNFrance 
+
+#dream #cartography https://t.co/Cz4ljb7quV",488000929,2021-11-21 10:23:09+00:00,en,3,3,19,0,Twitter Web App,3_1462365872857788419,https://pbs.twimg.com/media/FEteA29XsAMKf5D.jpg,photo, ,mathieu rajerison,datagistips,False,1847,837,"Aix-en-Provence, France"
+1462365692909563905,"#30DayMapChallenge day 21 (elevation)
+
+At 210ft (64m), Regent's Park's Primrose Hill is nowhere near being the highest spot of London, yet it has some of the most spectacular views of the city. 2020 1m lidar data by Defra: https://t.co/UUdj3GHFJu https://t.co/v40ya2s46n",963423777135759360,2021-11-21 10:22:05+00:00,en,0,0,12,0,Twitter Web App,3_1462365081027678210,https://pbs.twimg.com/media/FEtdSxKXEAI9I7L.jpg,photo, ,Ilya Ilyankou,ilyankou,False,431,401,London
+1462363406791581697,"I walked the West Highland Way in Scotland during a surprisingly hot week in June. 96 hilly miles from Milngavie to Fort William. I meant to post this before the trip, but never finished it. So here it is
+ 5 months later. #30DayMapChallenge #Elevation #WestHighlandWay #Scotland https://t.co/pdgETThCcU",1114069920092966912,2021-11-21 10:13:00+00:00,en,1,0,6,0,TweetDeck,7_1456741654690516993,https://pbs.twimg.com/ext_tw_video_thumb/1456741654690516993/pu/img/e5StY8qhgZlM85ju.jpg,video, ,Kate,KateEllen100,False,157,311, 
+1462361148532080642,"#30DayMapChallenge #Day21 #Elevation
+
+Château de #cartes 😀 sur la ville de @nantesfr 
+
+A voir ici ➡️ https://t.co/xXogGSylVF https://t.co/FcLgQgyrFg",732695379288961026,2021-11-21 10:04:01+00:00,fr,2,1,19,0,Twitter Web App,3_1462361142781693957,https://pbs.twimg.com/media/FEtZtiDWUAUHxsK.jpg,photo, ,ArtisansCartographes,Artisans_Cartos,False,3296,986,www.cartapaname.fr
+1462360571832111107,"#30DayMapChallenge - Day 21 - Elevation
+
+Showing the elevation of the Canary Islands with its highest peak, El Teide (3715m) on Tenerife.
+
+Created with R. Code: https://t.co/GEjj6f4Tx2 https://t.co/5SN1MZwVi2",733390000809730049,2021-11-21 10:01:44+00:00,en,1,0,7,0,Twitter Web App,3_1462360106096631813,https://pbs.twimg.com/media/FEtYxMGXoAUULED.jpg,photo, ,Richard Vogg,richard_vogg,False,347,345,Germany
+1462360550780948483,"#30DayMapChallenge day number 21: #Elevation
+This map shows the highest elevation city in the #UK Bradford's #MountainQueensbury walk accessibility in 60 Mins to give views over three #NationalParks - #PeakDistrict, #YorkshireDales and #ThehambletonHills. 🔭⛰️ https://t.co/r5oH1prVPD",49592380,2021-11-21 10:01:39+00:00,en,0,0,2,0,SocialPilot.co,3_1462360547387662342,https://pbs.twimg.com/media/FEtZK4CWYAYaCAw.jpg,photo, ,Basemap,basemap,False,1664,1588,"Guildford, Surrey"
+1462360341233426436,"#30DayMapChallenge 
+Bahamas and Underwater Sand Dunes 🛰 https://t.co/5PWoO1a1eT",835782607493267456,2021-11-21 10:00:49+00:00,en,4,0,25,0,Twitter for Android,3_1462360338519703556,https://pbs.twimg.com/media/FEtY-t8WQAQtWUO.jpg,photo, ,Sibirya  ❄🛰,Weathercast_tr,False,5032,604,United States 🇺🇲
+1462360137205649408,"@StgoCerrosIsla #30DayMapChallenge day 21: elevation
+
+Sierra de Ramon rises at the east of Santiago as a mighty chain of mountains that forms the foothills of the Andes. This profiles were made with the #ggridges package
+
+#rstats #rspatial #mountains #dataviz https://t.co/nk81eaEMuP",83974993,2021-11-21 10:00:00+00:00,en,1,1,9,0,Twitter Web App,3_1462021755086721028,https://pbs.twimg.com/media/FEolCkXWUAQ2WuH.png,photo, ,raimundos,raimun2,False,1007,810,Chile
+1462356359488360453,"#30DayMapChallenge Day 21: Elevation.
+The highs and lows of ceremonial #Dorset, using @OrdnanceSurvey boundary and Open Zoomstack data and made in #QGIS. https://t.co/IahyoXs98c",1074378707438055426,2021-11-21 09:45:00+00:00,en,3,0,6,0,Twitter Web App,3_1462356185445711874,https://pbs.twimg.com/media/FEtVM-iWQAI6x33.jpg,photo, ,Blandford Bread 💙,BlandfordBread,False,576,1081,"South West, England"
+1462355368172998664,"#30daymapchallenge Day 21 - Digital Surface Model. Sticking with Nottingham, I've downloaded the DSM from the Environment Agency (https://t.co/gEzPOC9gJg). Making it really easy to spot Meadow Lane, The City Ground and Trent Bridge Cricket Ground. @Cadcorp #environmentagency #DSM https://t.co/ECwyH6dPPa",92832101,2021-11-21 09:41:03+00:00,en,3,0,5,0,Buffer,3_1462355364347883526,https://pbs.twimg.com/media/FEtUdLtXsAYZJ-Q.jpg,photo, ,Ian Usher,ian_usher1985,False,469,1886,Stevenage
+1462353574395101185,"#30DayMapChallenge 2021 Day 21: Elevation
+
+3D-printable @MountainShapes models of the highest mountains in Scotland, Wales and England, which I  developed in 2014 using Blender and SketchUp with Ordnance Survey 1:50K maps and rendered in MeshLab as well as some other models https://t.co/fVWXjJiKf8",1033206985,2021-11-21 09:33:56+00:00,en,2,0,4,0,Twitter Web App,3_1462353569001222460,https://pbs.twimg.com/media/FEtS0rhXsTwSPnU.png,photo, ,Phil Tarr,CasegFraith,False,526,862,United Kingdom
+1462353559828283392,"#30DayMapChallenge #Day21: #Elevation: Sunset in the Dolomites. Plus a focus on Venice.
+
+The original plan was a bit more ambitious, but these geotiffs are 100s of gigabytes in size &amp; it was the weekend so just ended up using this layer I already had. Made with #Aerialod. https://t.co/WLZFG8xalS",124852105,2021-11-21 09:33:52+00:00,en,3,0,33,1,Twitter Web App,3_1462352801032515584,https://pbs.twimg.com/media/FEtSH-nXMAAfZwA.jpg,photo, ,Asjad Naqvi,AsjadNaqvi,False,4688,768,"Vienna, Austria"
+1462353247105126401,"#30DayMapChallenge Day 21 Elevation.
+Slovakia. https://t.co/a1I3DJ5Psj",1324460652656812032,2021-11-21 09:32:37+00:00,en,0,0,1,0,Twitter Web App,3_1462353173562150918,https://pbs.twimg.com/media/FEtSdqZWUAYrVtq.jpg,photo, ,TambovArt,TambovArt,False,0,38, 
+1462346294480052234,"#30DayMapChallenge Day 21: Elevation
+
+Dot elevation map of africa made with #geometrygenerator in #QGIS inspired by @klaskarlsson halftone style 
+
+Data source: GMTED2010 Global Grids 
+#africa #dataviz #mapplejuice https://t.co/f3eBdshhz7",1091106812852609027,2021-11-21 09:05:00+00:00,en,1,0,6,0,Twitter Web App,3_1462061258707030018,https://pbs.twimg.com/media/FEpI9-0X0AIrI4C.jpg,photo, ,MappleJuice,Mapple_juice,False,35,10,The Netherlands
+1462345037119832068,Todays entry for the #30DayMapChallenge uses #elevation data to map the height of each transport stop in Hamburg https://t.co/R1DPuCOFwl,70192766,2021-11-21 09:00:00+00:00,en,1,0,9,1,Twitter Web App,3_1461010470643683332,https://pbs.twimg.com/media/FEaNSEPX0AQGrbg.jpg,photo, ,Achim Tack,A_Tack,False,1829,1263,"Hamburg, Germany"
+1462343525610049539,"#30DayMapChallenge 2021 21 - Elevation
+
+Elevation contours of Skellig Michael, Ireland.  LiDAR @opwireland rendered in neon style in #rayshader #rstats.  Hopefully @researchremora's 2.5 year old likes it!
+
+How-to from @tylermorganwall here: https://t.co/Aj7PJbz4Pu https://t.co/uIf7OLwr1S",299559781,2021-11-21 08:54:00+00:00,en,9,0,77,1,Twitter Web App,7_1462343146872967173,https://pbs.twimg.com/ext_tw_video_thumb/1462343146872967173/pu/img/5IiggzerR6ddvvvy.jpg,video, ,Neil Southall,neilcfd1,False,455,298,Ireland
+1462342911375417344,"#30DayMapChallenge Day 21: Elevation
+Cumbria applying 2.5D Map workflow from John Nelson on @ClimateCentral  Coastal DEM 2.1 free tier data https://t.co/YqirJkApR7",25663399,2021-11-21 08:51:33+00:00,en,1,0,6,0,Twitter Web App,3_1462342875061100545,https://pbs.twimg.com/media/FEtJGNfXIAE1ePi.jpg,photo, ,Andrew Zolnai,azolnai,False,921,1529,"Cambridge, UK"
+1462341512415559683,"Day 21 of #30DayMapChallenge 
+Stylized 3D terrain with some important elevation peaks of Europe. Made entirely in @ArcGISPro https://t.co/5D3G1V7xOU",143859326,2021-11-21 08:46:00+00:00,en,3,0,24,0,Twitter Web App,3_1462115351513206791,https://pbs.twimg.com/media/FEp6KmOXEAcYq3q.jpg,photo, ,Nelson Schäfer,nello394,False,269,386,"Munich, Germany"
+1462340751996514310,"Street grids of New Zealand cities.
+#30DayMapChallenge Day 07 (Green) - using the #00973f green from NZTA road signs 😃
+#RStats code: https://t.co/sAIutY6I8Y https://t.co/SLk2FiSRo1",33788841,2021-11-21 08:42:58+00:00,en,9,2,78,1,Twitter Web App,3_1462339035985166339,https://pbs.twimg.com/media/FEtFmv0VQAM0NqZ.jpg,photo, ,suǝbbıɹɟ pıʌɐp,dakvid,False,556,464,"Wellington, New Zealand"
+1462340124608499713,"#30DayMapChallenge 2021 day 21: Elevation
+
+A Lego map of mean elevation in Denmark #QGIS #GIMP https://t.co/jLlPXYRSD2",7159622,2021-11-21 08:40:29+00:00,en,6,1,60,1,Twitter Web App,3_1462339650756952066,https://pbs.twimg.com/media/FEtGKiBWQAI_Amt.jpg,photo, ,Kurt Menke,geomenke,False,6072,2154,"Helsinge, Denmark"
+1462337688447569923,"Day 20 / Jour 20 - #30DayMapChallenge  Movement/Mouvement
+Une carte bilingue en français aujourd'hui as we go to Quebec with a map that shows different kinds of maritime links in the eastern portion of the province https://t.co/wIF3DrByil",223258375,2021-11-21 08:30:48+00:00,fr,1,0,3,0,Twitter Web App,3_1462337669866741764,https://pbs.twimg.com/media/FEtEXOoUYAQLGIe.jpg,photo, ,Jeff Deurloo,jdeurloo10,False,413,4566,"Lethbridge, Alberta"
+1462335678608379905,"#30DayMapChallenge 2021 Day 21: Elevation
+
+Elevation point of the second-highest mountain in Indonesia, Rinjani, and her Segara Anak. https://t.co/rnaoI7xjQw",950010366779564043,2021-11-21 08:22:49+00:00,en,3,2,39,1,Twitter Web App,3_1462335636308828160,https://pbs.twimg.com/media/FEtCg3CVIAAU1JY.jpg,photo, ,alv irl,alv_irl,False,220,468, 
+1462330223387676680,"#30DayMapChallenge 2021 | Day 21 | Elevation
+Hypsometric tint and shaded relief for New Zealand
+#cARTography #MakingMapsPretty #QGIS https://t.co/46rQmUBerE",374984100,2021-11-21 08:01:08+00:00,en,4,0,18,0,Twitter Web App,3_1462329747162206217,https://pbs.twimg.com/media/FEs9KEQXEAkx6JH.jpg,photo, ,Staridas Geography,StaridasGeo,False,1058,578,Greece
+1462329941295448066,"Day 21: elevation #30DayMapChallenge Playing a bit with a hillshading tutorial, sticking to the terrain colour map for this first attempt. So, quiz time now: which city sprawls in the plain to the East, and which mountain clearly dominates the area? 
+https://t.co/oXO3A6rrqg https://t.co/uVzuQwXMJ8",160578875,2021-11-21 08:00:01+00:00,en,1,1,8,0,Twitter Web App,3_1460396396142542849,https://pbs.twimg.com/media/FEReyOdWQAEb_Xy.jpg,photo, ,Xavier Olive,x00live,False,237,162,"Toulouse, France"
+1462326710347567110,#30DayMapChallenge 2021 | Day 21 Elevation | using R {ggplot2}{raster}{elevatr}{rgeoboundaries}{sf}. Elevation in the republic of Ireland https://t.co/IiZC6xNW89,563607513,2021-11-21 07:47:11+00:00,en,1,0,5,0,Twitter Web App,3_1462326697957609473,https://pbs.twimg.com/media/FEs6YlFVUAETflL.jpg,photo, ,Malcolm Campbell,CampbellMH,False,663,2151,"Christchurch, NZ"
+1462326288971190273,#30DayMapChallenge 21. Élévation. J'ai tenté pour ce #cARTo #Afghanistan de donner un effet de superposition afin de représenter les hauts reliefs. https://t.co/tUc5TxYYVi,494171107,2021-11-21 07:45:30+00:00,fr,4,3,36,1,Twitter for Android,3_1462326286228021249,https://pbs.twimg.com/media/FEs6AnRWYAE1LdR.jpg,photo, ,Rémi Guédon,RGuedonHG,False,477,264, 
+1462324903043084294,"#30DayMapChallenge - Elevation
+
+La fosse de Montmartre, si les courbes étaient inversées, le relief serait renversé https://t.co/yJtLLgUFMF",2367649759,2021-11-21 07:40:00+00:00,fr,20,5,100,1,TweetDeck,3_1445482095757840391,https://pbs.twimg.com/media/FA9iTr7VUAcJcmU.jpg,photo, ,Gaëlle Sutton,Gaelle_Sutton,False,2779,1716,Paris
+1462324902891900929,"#30DayMapChallenge Day 21 – #Elevation
+
+Did you know that Mount Olympus on #Mars is higher than 21 kilometers and wider than 637 kilometers?
+
+Mars'ta yer alan Olimpus Dağı'nın yüksekliğinin 21 kilometreyi ve genişliğinin de 637 kilometreyi aştığını biliyor muydunuz?
+
+#Başarsoft https://t.co/YIJsvmLPFD",164172121,2021-11-21 07:40:00+00:00,tr,0,0,6,0,Twitter Web App,3_1462324764182294530,https://pbs.twimg.com/media/FEs4oBNXsAIGbrV.jpg,photo, ,Başarsoft,basarsoft,False,1633,41,ANKARA-İSTANBUL-SAN FRANCISCO
+1462323949799366656,"Day 21: Elevation 
+One of the world's deepest canyons, Colca Canyon, located in Peru, has a depth of over 3km
+
+#30DayMapChallenge https://t.co/tBtZkyrbPB",437801734,2021-11-21 07:36:12+00:00,en,4,0,14,0,Twitter for Android,3_1462323930794967048,https://pbs.twimg.com/media/FEs33gmWQAg7C0s.jpg,photo, ,Antonia Blankenberg,MapsByAntonia,False,483,523,"Dublin City, Ireland"
+1462318901602230275,#30DayMapChallenge day 21: Elevation. Lidar point clouds from the street where I live. Data by @digi_vlaanderen. https://t.co/gjtg3ZykTR,269294137,2021-11-21 07:16:09+00:00,en,3,1,12,0,Twitter for Android,7_1462318853158064130,https://pbs.twimg.com/ext_tw_video_thumb/1462318853158064130/pu/img/xPzG22HxlBbHMpI3.jpg,video, ,michelstuyts,michelstuyts,False,493,1480,"Antwerp, Belgium"
+1462318667694104576,"#30DayMapChallenge Day 21: Elevation
+
+The cliffs of Lake Burragorang https://t.co/un8vD73c13",19001296,2021-11-21 07:15:13+00:00,en,2,0,16,0,Twitter Web App,3_1462317381766705152,https://pbs.twimg.com/media/FEsx6TkVcAAK1DY.jpg,photo, ,Hugh Saalmans,minus34,False,865,429,"Sydney, AU"
+1462318563205828615,"Día 13. Tierra Natural
+ 
+Las Coloradas Yucatán, 2021. Ubicadas en el municipio de Río Lagartos, tienen una coloración rosa, que las hace ver muy lindas. Aunque se promocionan como playas, en realidad son pozas de una salinera. 
+
+#30DayMapChallenge https://t.co/Oynew0MsDi",3180922855,2021-11-21 07:14:48+00:00,es,4,0,22,0,Twitter Web App,3_1462318363800227840,https://pbs.twimg.com/media/FEsyzd7X0AAI8Sq.jpg,photo, ,Cris,crisalpuche,False,332,559, 
+1462317997167677440,"Day 20: Movement
+#30DayMapChallenge'2021 by Fedir Gontsa: https://t.co/5BZeDJS2Sj
+🗺 «All routes lead to #Kyiv» (#map of #Ukraine)
+Data: #OpenStreetMap contributors, #HERE Routing, #QGIS https://t.co/PgeR6UvvMn",921409205080412161,2021-11-21 07:12:33+00:00,en,0,0,0,0,Twitter Web App,3_1462316582357684224,https://pbs.twimg.com/media/FEsxLxiX0AA5PjW.jpg,photo, ,app4soft 💉💉 #УкрТві🇺🇦🦖☄️,app4soft,False,387,5,Ukraine
+1462317431779733506,The worldwide #30DayMapChallenge has reached Estonian Land Board. For every day in November one new map will appear. 21st day category: elevation. You can see the whole gallery https://t.co/it1YIPjMyU https://t.co/ETPF1AXSPR,193592650,2021-11-21 07:10:18+00:00,en,1,0,5,0,Twitter Web App,3_1462317403665223683,https://pbs.twimg.com/media/FEsx7lJWUAMcsux.jpg,photo, ,Maa-amet,maaamet,False,174,89, 
+1462316676997783562,#30DayMapChallenge 2021 | Day 20 Movement | using R {tidyverse}{leaflet}{geojsonio}. Movement before and after children https://t.co/KOhCBo9fPl,563607513,2021-11-21 07:07:18+00:00,en,1,0,2,0,Twitter Web App,3_1462316669297053699,https://pbs.twimg.com/media/FEsxQ1aVUAM7x2G.jpg,photo, ,Malcolm Campbell,CampbellMH,False,663,2151,"Christchurch, NZ"
+1462316299909009408,"Day 21 - Elevation
+Using OS 50m DEM and a nice bit of hill shading on Cairngorms National Park
+#30DayMapChallenge https://t.co/LTAjFpal2q",1694963077,2021-11-21 07:05:49+00:00,en,2,0,7,0,Twitter Web App,3_1462316124314509317,https://pbs.twimg.com/media/FEswxHMXoAURYf7.jpg,photo, ,Marcus Humphrey,92MBH,False,93,126,"Perth, Scotland"
+1462315437442551812,Well I worked on a lot of maps today but the best #movement themed one was this— as voted by my kids. #Gorerange of #Colorado and the ski area.  It goes well with music. #30DayMapChallenge Day 20. https://t.co/6MYgyiDDYI,26189414,2021-11-21 07:02:23+00:00,en,1,0,2,0,Twitter for iPhone,7_1462315284279087106,https://pbs.twimg.com/ext_tw_video_thumb/1462315284279087106/pu/img/shoAJC61_jYQX2aX.jpg,video, ,Mike Floyd 🦉,mike_floyd_co,False,169,583,"Colorado, USA"
+1462314840156868608,"Day 21 of the #30DayMapChallenge - Elevation
+
+Isle of Skye, Scotland elevation with Tanaka Contours
+
+Data: Open Zoomstack
+
+#30DaysOfPokemon Color Palette - Snorlax
+
+More on this map and more maps  - https://t.co/Dkle8cpdXC
+#30_ימי_מיפוי https://t.co/l1vKOqmvEF",1174353681946484739,2021-11-21 07:00:01+00:00,en,5,1,42,0,Twitter Web App,3_1460942280483905547,https://pbs.twimg.com/media/FEZPQ4GXoAsGr_c.jpg,photo, ,Dror Bogin,bogind2,False,169,292,Israel
+1462314398106669064,#30DayMapChallenge day 21  elevation. Le centre de Lyon après l'élévation du niveau des mers : stations de métro englouties et ruines mystérieuses https://t.co/OLESkxJ58g,1189967197730430977,2021-11-21 06:58:15+00:00,fr,5,0,18,0,Twitter for Android,3_1462314395627839493,https://pbs.twimg.com/media/FEsvMfVWYAUdWZe.jpg,photo, ,Julien Dupont Kobri,Kartokobri,False,880,387, 
+1462312336228864000,"Day 21 of #30DayMapChallenge, elevation.
+
+Started in #RStats following the tutorial at https://t.co/mmBYjv3OOR but then decided to try 3d. This might be my first Blender render, quite happy with the result.
+
+code and all files: https://t.co/MesE8Oc5NF https://t.co/6sglGN3dt9",1002212251,2021-11-21 06:50:04+00:00,en,5,0,49,0,Twitter Web App,3_1462312121006448640,https://pbs.twimg.com/media/FEstIFtWYAAX0F4.jpg,photo, ,Georgios Karamanis,geokaramanis,False,4049,240,"Uppsala, Sweden"
+1462304327696060421,"#30DayMapChallenge 21 Elevation. Glacier National Park. 
+
+#rstats code: https://t.co/NW9LsArfx6
+Tools: {rayshader} {rayvista} https://t.co/yeTI7nJiai",1331215289825030147,2021-11-21 06:18:14+00:00,en,7,3,55,0,Twitter Web App,3_1462302859152793601,https://pbs.twimg.com/media/FEsks-nXIAExvgp.jpg,photo, ,leeolney,leeolney3,False,281,306, 
+1462300098717577216,#30DayMapChallenge (elevation) A fun 3D map of #Finland (with a special message for the man who made this all possible @tjukanov) https://t.co/MWYO9soVSD,822048926081712128,2021-11-21 06:01:26+00:00,en,6,5,48,0,Twitter Web App,3_1462299953863147526,https://pbs.twimg.com/media/FEsiD3kVQAYGdYz.jpg,photo, ,Carl Churchill,Cchurchili,False,2724,1143,CO / Tabeguache Ute Land
+1462299759117541377,"Where does a mobile phone get signal in Itäkaira (UKK National park)? Based on Topographic database: Mast, elevation raster and Kapsi topgoraphic map by @Maanmittaus. Done with QGIS + NLS Geopackage Downloader and Visibility Analysis plugins. Map by @SMultimaki #30DayMapChallenge https://t.co/ZlQXj3MMlZ",973813309811187713,2021-11-21 06:00:05+00:00,en,3,0,7,0,Buffer,3_1462299755409809412,https://pbs.twimg.com/media/FEsh4URXoAQH86V.jpg,photo, ,Gispo,gispofinland,False,998,298,"Helsinki, Suomi"
+1462299738749820935,"Jour 21 du #30DayMapChallenge : Élévation
+
+Une nouvelle carte mystère qui se dessine grâce à ses courbes de niveau.
+
+Réalisée avec #QGIS https://t.co/X0ylSpWd8I",1311399091,2021-11-21 06:00:00+00:00,fr,4,1,21,0,Twitter Web App,3_1462199670223081476,https://pbs.twimg.com/media/FErG2l5XEAQi_NA.jpg,photo, ,Lubin Picard,Lubin_Picard,False,344,198, 
+1462297271517786115,"Day 19 of the #30DayMapChallenge: Island(s)
+Tentative d'augmentation de la carte de l'île de Sarek (c. 1986). Ces quatre dessins sur calque se superposent au fond de carte publié dans la version Livre de Poche de ""L'île aux trente cercueils"" par Maurice Leblanc (ed 1971). https://t.co/2Uw8zCekrT",1465157221,2021-11-21 05:50:12+00:00,fr,1,1,23,1,Twitter for Android,3_1462297266652434438,https://pbs.twimg.com/media/FEsfnc7X0AYE_y8.jpg,photo, ,laurent gontier,laurentgontier,False,1300,985,variable 
+1462296293217243138,Day 20 of the #30DayMapChallenge:  Movement…Using Realtime #GTFS data to show the location and movement of @WSFerries.   #IMNOS https://t.co/CONJuktYDn,276280627,2021-11-21 05:46:19+00:00,en,2,0,5,0,Twitter Web App,16_1462296183401897991,https://pbs.twimg.com/tweet_video_thumb/FEseoZgUYAcNubx.jpg,animated_gif, ,Patrick Nelson,pnelson917,False,232,488,"Phoenix, AZ"
+1462296045426204673,"Día 12. Población
+
+Población estimada por píxel en México, 2020. Con esta visualización es posible ver la distribución de la población en el territorio mexicano. 
+(Me gusta porque parece un cielo estrellado). 
+
+#30DayMapChallenge https://t.co/wscR59hZEC",3180922855,2021-11-21 05:45:20+00:00,es,7,0,25,0,Twitter Web App,3_1462293433704456194,https://pbs.twimg.com/media/FEscIWFXIAIPk5W.jpg,photo, ,Cris,crisalpuche,False,332,559, 
+1462295714122256385,#30daymapchallenge GPS trace of a Caltrain trip for day 20: Movement https://t.co/b4NtPfCq5q @unfoldedinc https://t.co/xBXPYgqpBM,53135103,2021-11-21 05:44:01+00:00,en,2,1,6,0,Twitter Web App,7_1462295372974284807,https://pbs.twimg.com/ext_tw_video_thumb/1462295372974284807/pu/img/i3EyXqY_5nIIYm1j.jpg,video, ,Isaac Brodsky,IsaacBrodsky,False,275,729,"San Francisco, CA"
+1462286590231912449,"#30DayMapChallenge Day 21 : Elevation
+This map shows the spot heights of Madrakah, Saudi Arabia
+@am_fallatah https://t.co/vOJhKoil48",250295529,2021-11-21 05:07:45+00:00,en,1,0,3,0,Twitter Web App,3_1462286345339080710,https://pbs.twimg.com/media/FEsVrv3XEAYIGHe.jpg,photo, ,hossam baalawi,hosam_mcfc,False,92,349, 
+1462285442854887424,"#30DayMapChallenge day 21, elevation. A 3D render of La Palma island showing #CumbreVieja eruption lava flood. #rstat #rspatial Packages 📦 #rayshader #mapSpain #nominatimlite #elevatr https://t.co/0pQQyocety",121572923,2021-11-21 05:03:12+00:00,en,6,2,48,0,Twitter for iPhone,7_1462285411611549696,https://pbs.twimg.com/ext_tw_video_thumb/1462285411611549696/pu/img/pZTJvvTeuh6WKEa7.jpg,video, ,dieghernan ن,dhernangomez,False,276,332,"Madrid, España"
+1462280765194997760,"#Day21 of #30DayMapChallenge: Elevation. 
+Taranaki Maunga, testing out a different style of relief hillshading. https://t.co/M6HnxYbTmn",93839237,2021-11-21 04:44:36+00:00,en,5,2,32,0,Twitter Web App,3_1462280691945598980,https://pbs.twimg.com/media/FEsQirVUcAQzH5O.jpg,photo, ,Andrew DC 🌈,andrewdc_nz,False,799,182,"Christchurch City, New Zealand"
+1462273679581073410,"Day 21 of #30DayMapChallenge 2021 – Elevation
+
+Loosely related to the theme…
+
+Here’s a map (and blog post) of a recent winter mountaineering trip I did up Rome Ridge to the Low Peak of Mt Rolleston, in Kā Tiritiri o Te Moana/The Southern Alps.
+
+https://t.co/qXFjs4FBHi https://t.co/1IlTjhBu4m",1020137956869222401,2021-11-21 04:16:27+00:00,en,2,0,27,0,Twitter for iPhone,3_1462273671968350208,https://pbs.twimg.com/media/FEsKKD4UYAA9lK0.jpg,photo, ,Andrew Tyrrell,SouthArrowMaps,False,1479,217,"Christchurch, New Zealand"
+1462269480311177219,"#30DayMapChallenge Day 21 - Elevation
+
+Lytton BC. https://t.co/NcOxRJ1N5r",21537132,2021-11-21 03:59:46+00:00,fi,1,1,3,0,TweetDeck,3_1462269431170621445,https://pbs.twimg.com/media/FEsGTNrWYAUxlqO.jpg,photo, ,HalifaxShippingNews,HfxShippingNews,False,4879,1278,"Halifax, NS"
+1462266493001945088,"Day 20, #30DayMapChallenge: movement! Thought about giving up but decided something is better than nothing so here's a migration flow map of Brasil, 2005 to 2010.
+
+#aerialod side adventures, an #rstats tale https://t.co/JAl1aCdVmK",946151815,2021-11-21 03:47:54+00:00,en,5,0,43,0,Twitter Web App,3_1462266490292514816,https://pbs.twimg.com/media/FEsDoCDXsAATE6g.jpg,photo, ,flotsam,researchremora,False,2778,970,the ivory bowl
+1462263211986673665,"Maps for Day 20 Movement of the #30DayMapChallenge, ways of moving through National Parks. Glacier, Rocky Mountains, Yellowstone and Yosemite here (more maps below).
+
+Code: https://t.co/09paQNze4g
+
+All Maps: https://t.co/Jd113aipH2
+
+#rstats #dataviz #rspatial #tidyverse #ggplot2 https://t.co/zBgJ0y1Y4X",1386748474176286727,2021-11-21 03:34:51+00:00,en,4,1,25,0,Twitter Web App,3_1462262217462759429,https://pbs.twimg.com/media/FEr_vUhXwAU-xiS.jpg,photo, ,Blake Robert Mills,BlakeRobMills,False,319,253,"New York, USA"
+1462259261036187658,"#30DayMapChallenge Day 20: Movement
+Looking at some range movement of Elk throughout the seasons. Thanks @COParksWildlife for the species data!
+Mapped in @qgis https://t.co/l7qeVr544h",579246246,2021-11-21 03:19:09+00:00,en,2,0,4,0,Twitter Web App,16_1462259213850324995,https://pbs.twimg.com/tweet_video_thumb/FEr9AfMXMAMYBud.jpg,animated_gif, ,cas 🌎,cas_maps,False,223,1150, 
+1462254919260557313,"Plucked a few points for today's #30DayMapChallenge 🤔
+Day 20: Movement 🦢
+Movebank data from the MDIFW dataset, highlighting movement of 3 adult Herons
+https://t.co/Xwl4uTYIZM https://t.co/1boiAwFmHL",32127911,2021-11-21 03:01:54+00:00,en,2,1,6,0,Twitter Web App,3_1462254902634328068,https://pbs.twimg.com/media/FEr5FiqXsAQGzQk.jpg,photo, ,Z,Zaaaana_,False,408,349,TT
+1462251714745143299,"#30DayMapChallenge 
+Day 20 - Movement
+
+My bus trip to watch the first game of the 2017 C series final between Fortaleza vs CSA
+Database: My Google Location History
+By: Lucas de Morais Teixeira https://t.co/o85RuWEzz6",1027773119208062982,2021-11-21 02:49:10+00:00,en,1,0,6,0,Twitter Web App,3_1462251696604786693,https://pbs.twimg.com/media/FEr2K7RXMAUyo-q.jpg,photo, ,Lucas Morais Teixeira,lucaobala_,False,56,263,"Maceió, Brasil"
+1462249713655234561,"Participating in #30DayMapChallenge? Use the “Open Elevation” layer on https://t.co/yOQ7v9hiSe to quickly access free #elevation imagery. Screenshot what you need and use it however you wish! 🗺️
+
+Try it now: https://t.co/3FC2bMqjMe https://t.co/Fyw58NRpr8",959750470678986752,2021-11-21 02:41:13+00:00,en,3,0,6,0,Sendible,7_1462249664837787648,https://pbs.twimg.com/ext_tw_video_thumb/1462249664837787648/pu/img/IQXgpLTK6GNHhqCk.jpg,video, ,Soar.Earth,Soar_Earth,False,2680,814,Earth
+1462246767802654722,"#30DayMapChallenge 
+Day 19 - Island(s) (delayed)
+
+Madagascar Island
+Database: NaturalEarth
+By: Lucas de Morais Teixeira https://t.co/83dT782Hqj",1027773119208062982,2021-11-21 02:29:31+00:00,en,1,0,5,0,Twitter Web App,3_1462246407511891968,https://pbs.twimg.com/media/FErxXD3WYAACqpd.jpg,photo, ,Lucas Morais Teixeira,lucaobala_,False,56,263,"Maceió, Brasil"
+1462244331503247364,#30DayMapChallenge Day 21 Elevation! Australian elevation by percentage of land mass. Lake Eyre at 15m below sea level to Mt Kosciuszko in the Snowy Mountains at 2228m. https://t.co/TqvAPCOV70,14851579,2021-11-21 02:19:50+00:00,en,11,3,52,0,Twitter Web App,3_1462244009401720833,https://pbs.twimg.com/media/FErvLeNVIAEHxeu.jpg,photo, ,Kylie Wilson,_kyliejane,False,553,161,Sydney or Tokyo
+1462241903093731331,Better late than never I suppose... #30DayMapChallenge Day 19: (Urban Heat) Islands https://t.co/iahSKnSbKV,579246246,2021-11-21 02:10:11+00:00,en,1,0,5,0,Twitter Web App,3_1462241886597484550,https://pbs.twimg.com/media/FErtP6JXEAYvijp.jpg,photo, ,cas 🌎,cas_maps,False,223,1150, 
+1462241877143474181,"#30DayMapChallenge
+
+Day 20 - Movement
+When the Earth moves: earthquakes in Bolivia (jan-nov 2021).
+
+Día 20 - Movimiento
+Cuando la tierra se mueve: sismos en Bolivia (ene-nov 2021).
+
+Data source/Fuente datos: USGS Earthquakes database.
+Prepared/Elaborado: QGIS, Gimp, Imagemagick https://t.co/2H0F7MwTlb",38113384,2021-11-21 02:10:05+00:00,es,1,0,3,0,Twitter Web App,16_1462240087408885766,https://pbs.twimg.com/tweet_video_thumb/FErrnLpXwAY1yjL.jpg,animated_gif, ,Eric Armijo,rcrmj,False,177,147,"Santa Cruz, Bolivia"
+1462237605584584706,Perspective view of the Vistula Lagoon by means of the #3D mode of the #EOBrowser. Satellite image from Sentinel-2 L2A (2021-07-24) in true color mode @sentinel_hub for #30DayMapChallenge. https://t.co/MCeJHy7Fjv,48080397,2021-11-21 01:53:06+00:00,en,1,0,8,0,Twitter Web App,3_1462235359350337540,https://pbs.twimg.com/media/FErnT-QXsAQeThn.jpg,photo, ,Krzysztof Pawlikowski,k_pawlikowski,False,12,1017,"Gdynia, Polska"
+1462234231447375872,"#TidyTuesday #30DayMapChallenge
+Day 20 : Movement | Boston | Goodluck! https://t.co/SExVXnRBYQ",1428864082329931777,2021-11-21 01:39:42+00:00,en,3,0,3,0,rstats2twitter,3_1462234229023125507,https://pbs.twimg.com/media/FErmSLdXMAMUSc3.jpg,photo, ,Kraggle,JCraggy,False,35,22,America
+1462223856723103746,"#30DayMapChallenge #PDX #Transit #Illustrator
+
+Day 20: Movement
+
+I respectfully submit my fantasy subway diagram for Portland, with Downtown inset. Made with Illustrator and Paint probably, like six years ago, but making its Twitter debut. https://t.co/vcOrHbk3iV",14182494,2021-11-21 00:58:28+00:00,en,0,0,2,0,Twitter Web App,3_1462223397060894720,https://pbs.twimg.com/media/FErcbrQUYAA2V8A.jpg,photo, ,joelfeik,joelfeik,False,6,182,"Vancouver, WA"
+1462222127621410820,"Day 18 - Water #30DayMapChallenge 
+Made with #rstats Datasource: https://t.co/iUQXJjtOC7
+""John Snow's 1854 investigation of a Cholera outbreak in London"" location of the pumps as vectors of the spread of the infections. @R4DScommunity #Infographic #maps https://t.co/VfTaD5IJid",285509027,2021-11-21 00:51:36+00:00,en,1,1,3,0,Twitter Web App,3_1462221980741115904,https://pbs.twimg.com/media/FErbJPDXoAAKEE_.jpg,photo, ,Federica Gazzelloni®,FGazzelloni,False,2257,4415,World
+1462221696828682247,"#30DayMapChallenge Day 20: Movement
+
+All professional athletes move for their careers, but some move more than others. QB Josh Johnson is the quintessential ""journeyman,"" switching teams 19 times in the last 10 years, even spending time in 3 different defunct leagues! https://t.co/eAEMhm9OwU",1278340072689958913,2021-11-21 00:49:53+00:00,en,2,0,9,1,Twitter Web App,7_1462221596886765568,https://pbs.twimg.com/ext_tw_video_thumb/1462221596886765568/pu/img/dKbxVK4lPPi9buJu.jpg,video, ,David Sherman,CartoDBS,False,94,98,"Austin, TX"
+1462216889074081794,"Día 20: movimiento
+Recorridos de la línea de colectivo 717 en el área serrana del partido de General Pueyrredon, provincia de Buenos Aires, Argentina
+#30DayMapChallenge https://t.co/VepJmfpNij",402826093,2021-11-21 00:30:47+00:00,es,1,0,1,0,Twitter Web App,3_1462216639118721032,https://pbs.twimg.com/media/FErWST9WQAgcWLl.jpg,photo, ,Gabi Calderon,GabiCalderon18,False,186,896,Mar del Plata | Argentina
+1462216505186213890,"#30DayMapChallenge Day 20: Movement
+Little late in the day here....and...yes I found some random inspiration from the #Offspring on this one. Made in #qgis and #blenderGIS with data from @heredev and OS Zoomstack https://t.co/fPTEwVBFNv",309734801,2021-11-21 00:29:16+00:00,en,8,2,29,0,Twitter Web App,3_1462214582194352129,https://pbs.twimg.com/media/FErUalUXMAEIV_q.jpg,photo, ,Sam J,samwise_v,False,234,516,"London, UK"
+1462211583191433220,"Steve Reich's minimalist work Music for 18 Musicians is built on 'phasing,' repeated melodies syncing &amp; unsyncing. The first movement of the piece, Pulses, loops through the 11 chords used in the rest of the piece. This is what each loop might look like mapped. #30DayMapChallenge https://t.co/mL6VMvXVNC",14913762,2021-11-21 00:09:42+00:00,en,3,2,14,0,Twitter Web App,3_1462211536756293636,https://pbs.twimg.com/media/FErRpULWQAQaW-i.jpg,photo, ,vicky johnson-dahl,hurricanevicky,False,1183,833,"Washington, DC"
+1462210346953838595,"#30DayMapChallenge Day 21 – Elevation
+Churfirsten, south on top
+#shadedWithEduard https://t.co/IpOfXeJmv1",973775831414771714,2021-11-21 00:04:47+00:00,en,5,1,43,0,Twitter Web App,3_1462209581522644992,https://pbs.twimg.com/media/FErP3gXUcAAOlsE.jpg,photo, ,Bernie Jenny,mappingbernie,False,784,243,"Melbourne, Australia"
+1462209828722515976,"Scotland | Elevation Variety
+Scale gans fae 'a wee bit' tae 'hunners'
+#30DayMapChallenge | Day 21 | Elevation https://t.co/dRloIZuSSv",1081900377853829120,2021-11-21 00:02:44+00:00,en,8,2,25,0,Twitter Web App,3_1462207373095936004,https://pbs.twimg.com/media/FErN29VXIAQIDTp.jpg,photo, ,D&G Place-Names,dgplacenames,False,1152,393, 
