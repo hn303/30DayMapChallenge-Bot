@@ -1,1203 +1,1102 @@
 ,user_location,author_id,user_username
-0,London,2420267570,AlexKokcharov
-1,Boston,1201945107559276544,canigoholm
-2, ,3013019847,Amcg_ridesbikes
-3, ,974391396923781126,tayalav
-4, ,69110057,UnkzF
-5, ,1345454262,Jmoll45
-6,"Riga, Latvia",87239058,Valtzen
-7,"Baraboo, WI",1377365185,dmoore_maps
-8,"Belfast, Northern Ireland",1265955927494197249,ceren_do
-9,"Sydney, New South Wales",858910137498480645,J_Pihlblad
-10,México,1163470661400047616,Taller_Siranda
-11,Southside Virginia,725799693842812929,geo_brady
-12,Rainbow Unicorn Mountain-SWUK,2224550306,Monk_Po
-13, ,759988092,Iawmatthew
-14,Colorado,987422088,RustProofLabs
-15, ,966993762,lilyhoutman
-16,"San Antonio, TX",1241814552,thomas_mock
-17,Mexico,27186708,jccpmx
-18,Rotterdam 🇳🇱,106900552,ElenoAM
-19,Perú,64875424,barredajose
-20,The Edge,836168691532300288,a_q_u_i_l_a
-21,Northern Ireland,3308382005,GeoConor
-22, ,482390704,seppe_santens
-23, ,30342730,amyrgoldstein
-24,"Exeter, England",4016856743,hughagraham
-25, ,3081831303,Properati_Data
-26,Ciudad de México,790584781771722753,geogracelis
-27, ,4117883234,admanfree
-28,Japan,1265379221691486208,j_igarashi
-29, ,1200892211996635139,DanaeKontou
-30,"Washington, DC",562673751,run_for_funner
-31, ,3171679118,DataVizzdom
-32,"Starkville, Mississippi",211937351,toddrjones
-33,"Berlin, Germany",3092381638,CedScherer
-34,"Cherkasy, Ukraine",14992557,gontsa
-35,"Dublin City, Ireland",179094335,sarah_wilson7
-36,"Estocolmo, Suecia",40578899,brujulado
-37,"Berkhamsted, UK",13486,psd
-38,///fragole.essi.cestini,959476594099326976,aluollin
-39, ,899361004441804802,BRennaise
-40,United Kingdom,46426450,JoshCopping
-41,"Oricola, Abruzzo",1225029150433579010,ivanziogeo
-42, ,1224155339697815552,lansingography
-44,Newcastle,318026127,CaRobson
-45,linktr.ee/datavizadventure,1313314222693117952,DatavizAdventuR
-46,Africa,1235300640496250883,afrimapr
-47,"N Côte-d'Or, Bourgogne, France",4121790137,mathieuchartie2
-48, ,889127297596493828,chrisewhittaker
-49,"Stockholm, Sverige",1274785600466550785,spatialoccasio1
-50,"Москва, Россия",86087153,DBusAI
-51,"Athens, GA",13215962,jerry_shannon
-52,"South West, England",490553409,TheDaaave
-53, ,895835407,somethinsfischy
-54,CDMX y Cuernavaca,111674998,claudiodanielpc
-55,"Oftringen, Schweiz",525654957,aghaynes
-56,Ciudad de México,256783357,juanluistv_
-57,"Lethbridge, Alberta",223258375,jdeurloo10
-58, ,19900688,mapperz
-59,Wrocław 💻 World,138823701,Sygyzmundovych
-60,El Salvador,1410690928210235396,sig_uca
-61,"Front room, Redlands CA",20668314,kennethfield
-62,IDF,195802419,Menileda
-63,Saint-Petersburg,1354526738299154432,voshavel_shavel
-65,"Tallahassee, FL",1180074260385206277,AaronKoelker
-66, ,1021342805971603456,citysbackyard
-67,"Christchurch, NZ",563607513,CampbellMH
-68,"Bend, Oregon",13320952,_chaney
-69,"Washington, DC",585486734,Manushi_M
-71,"↲, cerca de Slumil K’ajxemk’op",23676785,ishiba
-72,"Kaduna, Nigeria.",374459093,zinnie__A
-73,Bergen,294330498,HSkaugen
-74, ,1081900377853829120,dgplacenames
-75,Bristol,230584797,PvtJoeker
-76, ,494171107,RGuedonHG
-77,"Tel-aviv,Israel",1318434740593111040,RTzkhori
-78,"Lower Stondon, England",718494860,Geo_mpm
-79, ,1454920710812487680,nordaufnordost
-80,"Oakland, CA",1192117144214896640,nicopurr
-81,Espoo,539857982,Sami_Tuomaala
-82,"Phoenix, AZ",276280627,pnelson917
-83,Texas,731327870958600194,HCAP_Messman
-84,"Kampala, Uganda",1105027229854126080,AMbabani
-85, ,925644480614666240,aslvova
-86,"Orsay, France",3068008768,Come_M_S
-87,Ciudad de México,1154257288158298112,geoscentricos
-88, ,1311757794417283072,mjezgis
-89, ,1322964052142936066,GeospatialJ
-90,The Netherlands,760094405369946112,hansakwast
-91,"Enschede, The Netherlands",1205107570400210944,Muhammad_osm
-92,"Salzburg, Austria",233748559,loreabad6
-93,"Michigan, USA",931225337916153856,daturadelphina
-94,"Arlington, MA",2391754261,MapOfTheWeek
-95,Leipzig,2853392963,GEOlayers
-96,"Arlington, VA",3004761699,grandrepublicdc
-97, ,2574612668,hireuter
-98,"Christchurch, New Zealand",1020137956869222401,SouthArrowMaps
-99, ,1224816596822003712,JamesFiord
-100,"Dublin, Ireland",462897153,SusanJPike
-101,"Salzburg, Austria",4803263322,liunianhua
-103,"Helsinki, Finland",1432648879103696896,eemil_haapanen
-104,Entre Madrid i Elx ,109886757,jesus_orca
-105,Greece,374984100,StaridasGeo
-106, ,17174685,gmapsmania
-107,Poland,732551694,Onosz
-108,Offenbach am Main,3822243563,DWD_klima
-109,"Hawaii, USA",1024584556110852096,KonturInc
-110,"Europe, N.America, LATAM, Asia",793464945971257350,Steer_DfM
-111,"Tel-Aviv, Israel",2167201254,Amit_Levinson
-112,The Gambia,2520428611,JallowJaria
-113,Ile Maurice,730663860152217600,GISCAN_LTD
-114,"Lund, Sverige",969384567894241280,geografif
-115,Mexico,962911429052518400,gdeandajauregui
-116,"Vancouver, WA",277272757,SteveClineBird
-117, ,2163188711,tyson_okoth
-118,"London, UK",309734801,samwise_v
-119, ,939791611743137792,FC_Python
-120,"Uppsala, Sweden",1002212251,geokaramanis
-121,"Volgograd, Russia",1103150306152587264,Zuev34W
-122, ,925570614,HeatherCh100
-123, ,1331146264411598849,AgoTominga
-124,"Bucureşti, România",1004679065163444224,cbuterez
-125, ,1354114698837422082,725Hemed
-126, ,1311399091,Lubin_Picard
-127, ,4664289983,geografille
-129,"Mannheim, Baden-Württemberg",3331095159,JanPhilippKolb
-130,Le Mans,252009888,odilon72
-131,"Ontario, Canada",911567709166587905,Y2Xie
-133,Bolivia,631221976,AdhemarFabio
-134,Harvard/NYC,2210297191,natureofalex
-135,"South West, England",1074378707438055426,BlandfordBread
-136, ,1216494690,GeoSebbo
-137,the ivory bowl,946151815,researchremora
-138,France,442982795,odile_p
-139, ,3289591732,rabin_ojha
-140,"Vellakoil, Tamil Nadu",438344019,IamThiyaku
-141,USA,3094607959,donojazz62220
-142,Newcastle-upon-Tyne,782161298,Neil_py_harris
-143,"Stirling, Scotland",223959960,_penguin_runner
-144,United Kingdom,963902391643967488,nrennie35
-145, ,1455183725801652229,Codigo_Xeografo
-146, ,3501358169,Victor_Celoni
-147,Indonesia,102360778,fajrunwm
-148,United Kingdom,1033206985,CasegFraith
-149,"Bari, Foggia, Troia",2555652062,rodolforoseto
-150,Iowa,15409909,KasNic37
-151,"Perth, Western Australia",3160198320,DrChrisGeoSci
-152,"Soola 8, Tartu, Estonia",34737662,positium
-153,Česká republika,3494716935,vlckel
-154,Kingdom of Saudi Arabia,737409461560692736,mapdesignpro
-155,"Kent, OH",2437301569,MapesGeog
-156,"London, England",247287182,s__rae
-157,Versailles ,1026155967480844291,AlandcoC
-158,Null Island,974738117805486080,plant99_
-159,"y,x",4669435267,MapMakinMeyers
-160,In a Better World,255896655,Adnshafry
-161, ,1188470725759422465,mnd_support
-162,"Nairobi, Kenya",791564900,MidoCollins
-163,"Saint-Denis, La Réunion",715056173268000773,mirbole01
-164, ,1589272814,helle_ak
-165,"Guadalajara, México.",379176102,daniel_isita
-167,FR-94160 Saint-Mandé,2247167180,jmviglino
-168,"Nagercoil, Tamil Nadu",272936200,rajbhagatt
-170, ,1082711230459060224,maptheclouds
-171,"New York, NY",3165392218,Cuebiq
-172,Germany,733390000809730049,richard_vogg
-173,Val Marie / Treaty 4,851149914725916672,ksituan
-174,Bhutan,790537138764849152,jigme_ranger
-175,CO / Tabeguache Ute Land,822048926081712128,Cchurchili
-176,"Southampton, UK",22614266,OrdnanceSurvey
-177, ,301593228,AndrewRenninger
-178,"Toronto, ON",22914910,Avenza
-179,"Zapopan, México",97729765,cruizch
-180,Hong Kong,985921631439568896,Kenneth_KHW
-181,"Kentucky, USA",1381622779330621441,RRamZmaps
-182,London via Edmonton & Calgary,900161125,acrobins
-184,"Münster, Deutschland",871679652582109184,ProfDrKSchulte
-185,"Scotland, United Kingdom",40078468,emilyhague
-186,Italy,387562177,totofiandaca
-187,Nottinghamshire,717816955,BethJackson1x
-188, ,404240734,SDGeoGirl
-189,"Raleigh, NC",762107260881502208,calahan_riley
-190,Denmark,223123391,DenitzaV
-191,"Oxfordshire, UK",842181553,SatAppsCatapult
-192,"Helsinki, Finland",2335208993,PolarBoe
-193,"Toulouse, France",154261653,cedricr
-194,"Espoo, Suomi",3720386117,TeemuSaloriutta
-195,Ithaca,275677658,kgjenkins
-196,Barcelona,1270981983842287616,Data_Urbana
-197,London,1101617286,helenmakesmaps
-200,Chile,83974993,raimun2
-201,Oakland CA,93046641,michalmigurski
-202,Italia,2914726517,allyoucanmap
-203,Чернівці,14196303,jaroslav_sm
-204,London,2331868991,markliebenrood
-205,"England, United Kingdom",2787878432,mildthing99
-206,"Montreal, QC",1260044066131247105,BeckOsterland
-207,"Grand Rapids, MI",741653561314922496,pokateo_
-208,Germany,110208812,Terranigmus
-209,"São João del Rei, Brasil",1431667467651358725,yagodinali
-211,"Ocuituco, Morelos",260088313,JuvenalCamposF
-212,"University of Warwick, UK",42171991,t_preis
-213,"Fort Worth, TX",144529492,kyle_e_walker
-214, ,117610391,LauraSmithCarto
-215, ,1277577608239210503,datenschatz
-216,"Syracuse, NY",942194832491122688,MikeMahoney218
-217,"Helsinge, Denmark",7159622,geomenke
-218,Singapore,1289908969536778244,vizkellie
-219,"Mountain View, CA",48799545,kurtschwehr
-220, ,1193613856423251972,bttbradio
-221, ,180939408,tgsousa_
-223,"Chennai, India",208301555,annapurani93
-224,TT,32127911,Zaaaana_
-225,Shropshire,1328992953080147968,Dav1dM0rgan
-226,My YouTube Channel - 👇,781455687444463616,musaTHIONGO
-227,Kenya,732791249086844931,ItsWahome
-228,"Besançon, France",233135248,jrombf
-229,"Cambridge, UK",25663399,azolnai
-230,Calgary AB,198918596,MorganSMoe
-231,"Ann Arbor, MI",77623399,pslarson2
-232,"Belmont, Massachusetts",17448055,awoodruff
-233,Afrika,75323994,kadoch
-234, ,364201719,LibertadChC
-235,Edinburgh,1119210314,natlibscotmaps
-236,Preston,21355731,jontix
-238, ,1318518242080661504,dataisawesomeo
-239,"Philadelphia,PA",333524694,CRVanPollard
-240,New York & Oxford,18607049,jen_nelles
-241, ,159574073,mjlegg
-242,Vaucluse,892006500,lacxrx
-243, ,1253080999572971521,akukoio
-244,"Sacramento, CA",748038863206088704,yavannie24
-245,Myaamia land & The World,65064975,jmccarty_geo
-246,Switzerland,1320623996249976832,1cartogRaph
-247,"Bremen, Germany",91548216,Cordster76
-248, ,72266186,azzadv
-250, ,1222519447165886465,_anirudhgovind
-251,"Dijon, France",710248662685851648,issa_madjid
-252,NYC,17847384,Jill_hubley
-253,An Gearasdan,7790832,chrsphr
-255,"Austin, TX",1381622356406382595,Parks_and_Rick
-256,"Enschede, Nederland",739155214968717312,lizhvania
-257,France,375754161,geojulien
-258, ,58761590,Claire_Dooley
-259,The Netherlands,1091106812852609027,Mapple_juice
-260,"Dublin City, Ireland",3123452678,MaedhbhLikeDave
-261,Earth,1400314245775036419,WeatherLayers
-263, ,749153374919155712,abigail2154
-264, ,636238090,simonmleech
-265,"Tartu, Eesti",3326184955,Abbi_786
-266, ,2213909976,VictimOfMaths
-267,"Hamburg, Germany",26062194,patrick_mast
-268,Arona | Piacenza,148715617,fede_gaspari
-269,Southampton & Accra,185723728,dgwinfred
-270,"Cambridge, UK",145683389,DrGeoffSmith
-271, ,1453765598341705729,CompleteMaps
-272,Gijón,1054684076207230976,gis_jon
-273,"Shanghai, China",1160963883860762624,ShijiaWendy
-274,"East Calder, Scotland",227240664,dradam676
-275, ,821710176726241280,Re_Mi_La
-276, ,1089825931798052865,clronniema
-277,Liverpool,2280343142,geodatascience
-278,Ireland,299559781,neilcfd1
-279,"Santiago, Chile",2380934868,Juanizio_C
-280,Lancashire,134939026,JonoPatterson
-281,The Netherlands,109054515,redgeographics
-284, ,1316116835327148035,hellovizart
-286,Wisconsin,481724987,DylanMoriarty
-287,"Riga, Latvia",1096581954844147713,laysking3
-288,"Grantown-on-Spey, Scotland",798523409286266880,DiasporaDan
-289,Unceded Wurundjeri Country,820847294073303040,ShandiyaB
-290, ,2149588681,Pow__C
-291,"Perth, Western Australia",372133078,DuncanKinnear
-294, ,1455128904889417733,giuze01
-295,Freiburg im Breisgau,1307060010669793280,shinysci
-296,Freiburg im Breisgau,975473648,Reyfenberg
-297,Madrid,285268642,pj_go_2020
-298,Melbourne,834726260232245249,atlight_alan
-299,Madrid / Munich,527879669,inari_ta
-300,London,737684638555090944,LisaHornung_
-301, ,1189967197730430977,Kartokobri
-302,"Butwal, Nepal",1294659257288110081,AbhayMapper
-303,"Wakefield, England",52190652,burdGIS
-304,London,11094672,KeirClarke
-305,London,963423777135759360,ilyankou
-306,"Lublin, Poland",1293985495781974016,mapdoktor
-307, ,47880332,sumerr_D
-308,"Burscough, Lancashire, UK",1091711968401154048,BrianSosban
-309, ,56612205,hannahdormido
-310,"Geneva, Switzerland",1183213291188834305,ayeishasheldon1
-311,Sweden,1143779197107806208,JonasNelson19
-313,Utrecht,69918773,Gerardathletics
-314,www.cartapaname.fr,732695379288961026,Artisans_Cartos
-315,"Northern Territory, Australia",1319832619052249089,CSVerdel
-316,Germany,1388836502612885504,VikGorelikova
-317,Sydney | Manila,49198861,earthtojohannah
-318,Kugane,147465553,akmalfrohman
-319,Poland,2902589494,mapsbyp
-320,Las Palmas de Gran Canaria,1205192839145111557,x_y_es
-321,Netherlands,1196527997613940736,MRuehringer
-322,"Vienna, Austria",124852105,AsjadNaqvi
-323, ,801318008912232449,nwbort
-324,"Guildford, Surrey",49592380,basemap
-325,"Hamburg, Deutschland",1024961639194550273,binicodes
-326,"Titchfield, Fareham",2248416469,ONSgeography
-327,France,1352020785670533123,geobjectif
-328,"Rennes, France",32283900,BorisMericskay
-330, ,3405372395,WaFilip
-331,"London, England",219609015,urban_planning
-332,"Dublin City, Ireland",1499547780,HeikkiVesanto
-333,"Chennai, India",105407287,Saint_GIS
-334,Stevenage,92832101,ian_usher1985
-335, ,950010366779564043,alv_irl
-336,"Asheville,  NC",1355117602138427397,MarkMcC80387089
-337,IBIZA / Barcelona,769592708,valen_ibiza
-339, ,910889225448439808,professorkao
-340, ,1331215289825030147,leeolney3
-341,"Lucerna, Svizzera",336517784,luca_northsouth
-342, ,579246246,cas_maps
-343,"Brisbane, Queensland",796152745203929089,mim_djo
-344, ,2172857180,Topi_ve
-345,"Hamburg, Germany",807289,aemkei
-346,Israel,1000055398697709569,est987
-347,Inside too much,424357259,dbgoody
-348,Kuwait (Ex Texan),908818700660236288,geo_alyaqout
-349,"Tampere, Finland",971256903555829762,TREyleiskaava
-350, ,2745527973,schochastics
-352,"Northampton, England",853862934233141248,MiniMapMakers
-354,"Inverness, Scotland",12620762,MikeCoatsDotCom
-355,"London, England",1186202364,Julian_H0ffmann
-357, ,1412877030895628289,MapsGre
-359,"Köln, Deutschland",1139059532,_ansgar
-360, ,1058353151445737473,ThomasSegers9
-361,東京都中野区東中野4-2-3,1451340075548119041,ttc_dsai
-363,"Norfolk, UK",19870047,CarolineHack
-364,Denmark,2741743694,JorgSchullehner
-365,Paris,793923476994359296,BooneLovesVideo
-367,"Antwerp, Belgium",269294137,michelstuyts
-368,"London, UK",1255575072301088770,GISE50189808
-369,Nødebo,509794262,Lene_Fischer
-370,"Helsinki, Suomi",2198358416,tjukanov
-371,Sydney or Tokyo,14851579,_kyliejane
-373,Estonia,47698876,evelynuuemaa
-374, ,3378850731,kurmja_ikdiena
-375, ,741266268,SirJanosFroglez
-376,"Perth, Scotland",1694963077,92MBH
-377,Madagascar,860412366323933185,BaovolaMada
-378, ,840682774403133441,HistoCarte
-379,"Hamburg, Germany",28525987,ubilabs
-380,"Merced, CA",754537285660573696,DerekSollberger
-381,"Dublin City, Ireland",437801734,MapsByAntonia
-382,Paris,2367649759,Gaelle_Sutton
-383,"Sleman, Indonesia",404534939,Najib_dwa
-385,"Eksjö, Sweden",56323078,klaskarlsson
-386, ,845248364191059968,digigeolab
-387,"Hamburg, Germany",70192766,A_Tack
-388,Israel,1174353681946484739,bogind2
-389, ,461965493,kriksine
-390,"Wellington, New Zealand",1068081944364109824,o_Whereabouts
-391, ,1466897384,MattiJKokkonen
-392, ,1451317416168865847,planner190
-393,San Francisco,634782060,heshan_cheri
-394,Guadalajara México,7630312,jdeltoro1973
-395,"Pretoria, South Africa",1109007483199213568,UPmappers
-396,"Helsinki, Suomi",973813309811187713,gispofinland
-398,"Clermont-Ferrand, France",1237617707106873344,BjnNowak
-399,Earth,959750470678986752,Soar_Earth
-400, ,193592650,maaamet
-401,"Christchurch City, New Zealand",93839237,andrewdc_nz
-403,Bangladesh,771895849,PadmanabhaChy
-406,"Perth, Western Australia",406157121,duncangjacks
-407,"Halifax, NS",21537132,HfxShippingNews
-411, ,259169773,hellomista
-412,Alpha Centauri,269308570,JkariukiDev
-413, ,1114069920092966912,KateEllen100
-414,"San Francisco, CA",22112910,Manassra
-415,"Pullman, WA",363424734,SamIAmFargo
-416,Brasil,2319333705,maxwelco
-418,Guadalajara,90482529,guroal
-419, ,1305980793035071490,mapoteca_mx
-420, ,2719547953,geologyjesse
-421, ,96283796,dehaumarhadi
-423, ,1455287162279170051,richter_guenter
-424,"Delft, Nederland",149435635,ganeshbabudotme
-427, ,1513661708,andy_rutkowski
-430, ,800116851099377664,GeoJoeK
-431,"Richmond, VA",850384123663437829,makemeamapllc
-433,variable ,1465157221,laurentgontier
-435,Mexico City / 18.3297 -98.6712,1214097369345622016,miguel_quake
-437,"Redlands, CA",20416915,alberto_e_nieto
-439,Amsterdam,140141600,sannehombroek
-440,"Philadelphia, PA",3092393211,IvaBrunec
-441,Edinburgh,363276700,stevefaeembra
-445,"San Jose, CA",1042196208297472000,TomTomDevs
-448,"Richmond,VA",1354464383678615552,Dr_CarmenCamare
-453, ,1187842920394756099,LOActualControl
-454,"Nantes, France",82467442,ThomasG77
-455,"St Paul, MN",2324002606,shane98c
-459,"St. Paul, MN",1243638924175650818,RickBohannon
-462,"Raleigh, NC",384202950,maticodes
-464,Honduras,602294312,antoniolocandro
-465,"Denver, CO",909440854946930688,sajbelcart
-466, ,1223328634343026689,BQilin
-468,"Wellington, New Zealand",1310659130290388992,MapHustle
-469,"Huntsville, AL",1702059680,Artimaps_DavidN
-470,"Sydney, AU",19001296,minus34
-472,"Burlington, VT",278873782,vtcraghead
-478, ,174279076,Br1ndavoine
-480, ,143843229,zerbembasqwibo
-484, ,1263997606759403520,S_Estremo
-486,"England, United Kingdom",1248947971523334144,KadzutuTendai
-489,"San Diego, CA",75958267,karmn_line
-492,Verneuil-sur-Avre,2500728854,cartolycee
-493,🌍📌,804736957775486977,cardo__san
-494,"Uberlândia, Brasil",384036702,gustavooeugenio
-495, ,1139587514421981184,ulises_pho
-501,Mexico,3044299951,_yocsan_
-503,🌎,1416384155198296068,EncompassGeo
-505,"London, England",987493026,JoshuaFeIdman
-506,"Portland, OR",3906146132,JGoworowska
-507,"El Salto, Jalisco",1047506642537992194,vestefaniav
-509,"Los Mochis, Sinaloa",124080796,flakko_30
-512,The Netherlands,516547003,terglobo
-517,Bremen,135491183,Niels_Bremen
-518,"Madison, WI",243497005,pinakographos
-520,Chile,1247748376986148864,untalmaniconaji
-522,"Oregon, USA",998412541574365184,MapperLou
-523, ,773305075,ktrinko
-525,"Buenos Aires, Argentina",126447743,Spiousas
-527, ,1353012118925287424,vooch14
-531,Forever in Ísland,5685812,hrbrmstr
-538, ,1228659691355590656,dusziv
-540,"Detroit, MI",2229098191,romo_GIS
-550,London.,18414012,TabbyGentleman
-557,"New York, NY",912708187077398529,CartoRedux
-558,Czech Republic,1375550164555948033,petrpajdla
-561,Angoulême,1345171421874499592,benoit_ribon
-562,Global,1257508181590204416,GeoJobsBot
-565, ,1215259173149167617,austrianmaps
-568, ,270842014,Ionliz
-570,Mar del Plata | Argentina,402826093,GabiCalderon18
-575, ,4127633716,kevinca02369175
-576,"St Petersburg, FL",379406678,tanya_shapiro
-579,"Saragossa, Spain",602245601,albertobellido8
-588,at home,423847851,UrbanDemog
-590,"Comunidad de Madrid, España",3194863402,digimaps
-591,"Barcelona, Spain",5762562,achillida
-593,Global,453028244,lutraconsulting
-594,"Alsace, France",930352852891062273,G_abgrall
-597, ,1453394531601223684,fahd_jerbi
-603,"Mumbai, India",91949741,JediPro
-604,United Kingdom,2295951570,LUCtweeting
-605,#atelier @iledegroixbzh,17673164,abf1
-606,"Sheffield, England",343928585,undertheraedar
-608,"Jalisco, México",2239825712,IIEGJ
-616,"Central Massachusetts, USA",1146772513051041792,EbingerSamara
-617,Toscana - Italia,891324985,TerreLogiche
-619,Greece,553432676,ioddg
-620,"Maceió, Brasil",1027773119208062982,lucaobala_
-621,Vancouver,2251009748,vb_jens
-629,"San José, Costa Rica",3784370418,michjonescr
-632,"Toulouse, France",160578875,x00live
-633,"Santiago de Compostela, España",895213223724666880,dr_xeo
-635,Seattle,18735728,stellata
-638,Bruxelles,1041729951903432704,JLecache
-639,san salvador,538678882,Danny_ecom
-645,"Barcelona, Spain",1244505702,LauraNavarroSol
-650,"Paris, France",19156968,Guglimat
-656,"Besançon, France",1057578334681513984,geomargelles
-658,"Corrientes, Argentina",2439142170,yeyomourglia
-662,"Tabasco, México",940411502,GutierrezyMarco
-663,"Haugesund, Norge ",836653702182207492,Elio_Javi
-667,"Durham, England",584062133,RSanderson96
-668, ,41500240,yunjinzh
-680,"Izhevsk, Russia",1404000077232889856,IgnatevaOlesia
-695,Bodensee 🇩🇪 / London 🇬🇧,1322438051533066240,GeospatialEmma
-706,Bay Area,1364132630858502145,NINGN418
-711,"Chicago, IL",485140041,MattDzugan
-720, ,438384837,NACIS_Atlas
-724,🌎,1410678085029085191,spatialnodehq
-727, ,14312620,Papuass
-738,"Amsterdam, The Netherlands",1103637443436261377,JJ_R_Ealo
-749, ,1325214017179115520,FidStats
-751, ,1455189112172974083,klm1510
-754, ,1449404853634035718,wong_shihan
-767,"Wellington, New Zealand",33788841,dakvid
-775,"Munich, Germany",143859326,nello394
-789,"Ile-de-France, France",50842212,mdgrinbaud
-790, ,1106613698829975559,ronasherov
-793, ,71537726,taavipae
-794,"Helsinki, Finland",1679103806,BryanRVallejo
-805,"Dar es Salaam, Tanzania",2166738780,mvanorashid
-807,"Paris, France",860108779471462400,cpchabert
-809,"Kampala, Uganda",1018781775030620162,Shammie_n
-820,"Toulouse, France",14145371,ljegou
-827, ,1279236668,javiermtzrd
-836,Indonesia,1968777025,muhammadstar04
-844,Euskal Herria,19770809,theklaneh
-849,"Jerusalem, Israel",2227560465,idoklein1
-851,مكة المكرمة,1454894840,nourabw95
-853,"Atlanta, GA",2905624932,darwinanddavis
-858,Somewhere over the rainbow.,1204036267119431680,juliusivan_2
-860,unceded land,281195030,mapboymax
-863,En algún lugar de la galaxia,309950945,edgareslahostia
-865,Ukraine,1033324108992442368,AndriyYaremenko
-868, ,3270581047,AnalisisGeo
-870,La calle,153119475,inguibona
-873, ,1086752813273751552,miguelzaju
-878, ,59694584,mrshsu888
-881,"Westminster, CO",1491031412,JPeterPeters
-884,"Culiacán, Sinaloa",1352456228455256068,Guaiacumac
-886,"Los Angeles, CA",79645174,AshleyNicoleDu
-887,Brazil,1249359388508389379,IrineuTiago
-888, ,18697626,mightylibrarian
-890,Ciudad de México.,546345736,jodaMacer
-891,México,799775490,AHerodoto
-892,"New York, USA",1386748474176286727,BlakeRobMills
-893,"Bay Area, CA",444491705,joannawilkin
-896, ,1130834772081684480,AlBRzez
-898,"Madison, WI",1301891827,Geodesy_
-899,"Washington, DC",731292770,izzy_youngs
-903,"Austin, TX",1278340072689958913,CartoDBS
-904, ,1364999016786845697,data_katherine
-906,Los Angeles,17183730,theworksla
-909,"Culiacán, Sinaloa",1058153682905296896,EI_Manny
-912,"Mentone, AL",9091732,spilth
-913,"Washington, DC",14913762,hurricanevicky
-914, ,3180922855,crisalpuche
-915,"Toronto, ON",20211859,chriscraigneil
-916,"Santa Cruz, Bolivia",38113384,rcrmj
-918, ,161182490,NoeOsorioPK
-920,Rhein-Neckar-Kreis,421896803,foraminifeo
-921, ,1048997209218457600,BroccoliPirate
-922,Nicaragua,35886529,nicagis
-923,Location Varies,4431048141,CorwanGroux
-925,San Francisco,18257438,amproehl
-927,"Redlands, CA",3536376796,song_zihan
-928,Tucson AZ,983775463540535297,_glenningram
-929, ,2593554955,varaktor
-930,"NY, NY",17197809,gyetman
-931,"Tartu, Eesti",409168655,allixender
-937,Planet Earth,1349110409215795204,PythonMaps
-938,"Flemington, NJ",1099829953422675969,SE_Rockstar
-944, ,1415047505461448704,AndrewF11526574
-945,"Plön, Schleswig-Holstein",363414935,loukesio
-954,America,1428864082329931777,JCraggy
-956,"Chihuahua, México",777650691187716096,VictoReckoningM
-958, ,39496793,altairi
-965,"Amherst, MA",138692282,brayents
-966,World,285509027,FGazzelloni
-968, ,2899993059,jpablovallejog
-979,"Chandler, AZ",54120976,lixun910
-982,"Yakima, WA",16178541,randybondsjr
-987,"cambridge, ma",15714107,jiazhang
-989,"London, UK",538393107,seabedhabitats
-992,"Bloomington, IN",1040297282938306560,sachasiani
-998, ,6940762,elipousson
-1013, ,2628957024,manifestmade1st
-1018,"Lenapehoking / Sunset Park, BK",4150036581,geograpologist
-1021,"Accra, Ghana",2736231898,AngelaTeyvi
-1024,"Stavanger, Norway",44981447,torehalset
-1027,"Macomb, IL",36672879,wiuhighwayman
-1029,"Tartu, Eesti",1455446885695623173,micoroscas
-1039, ,3314746668,marcollergarcia
-1044,London,1363929703,Cruzzell_
-1046,Anywhere between here & there,16672668,SpatialOctopus
-1053,"Stanford, CA",140628714,diazcayeros
-1054,near Sea Anarch Jurisdiction,1165099455336464384,real_terrific
-1056,"Shillong, India",2537792462,GokulAnand_
-1063, ,2810559039,jakub_nowosad
-1067, ,20146633,BarryChocolate
-1074,"Amsterdam, The Netherlands",1389560172398448644,popnet_research
-1075,CLE ➡️ NYC,281310591,TF_Johnston
-1078,"Mumbai, India",2435013606,sopan1996
-1084,Jammu & Kashmir,873466615823773696,Mirmuhamadjafar
-1092,Singapore,1193000549190254592,teh0prendjak
-1095,"Portland, OR",35611566,ianmorelan
-1096,"Oranmore, Galway, Ireland",17062648,AdamLeadbetter
-1109,"Bellingham, Washington",3309914684,sarahbellmaps
-1117,Finland,818403285778497536,SiniPoy
-1128,"Boulder,CO",22170600,unidata
-1134,UAE,239863207,BD_007
-1135,SAT & ABQ,14629939,spara
-1143, ,1178222889595744256,PoojilT
-1147,"Aberlady, East Lothian",1163073816270188545,64mien
-1152,Madrid,1156302488884121601,Pablo__Otero
-1153,southwest Michigan,1231780311941492738,LocationArtist
-1155,"Leipzig, Germany",1049757274649051137,jjvhab
-1163,"England, United Kingdom",986573435194179584,obpannell
-1165,"Varkaus, Finland",1573244712,ilantta
-1171,"Wisconsin, USA",44530833,andrewrfrench
-1179,"Bournemouth, United Kingdom",27242656,mapchannels
-1181,"London, England",750087567291326464,annadehtiarova
-1183,"Switzerland, ZH×SG",385013701,rastrau
-1187,Sur la carte de France,201856958,recifs
-1209,Buenos Aires,253102706,martinfernandoo
-1211,Connecticut,92863619,scottwritter
-1217,"Distrito Federal, México",43004930,SelvaH
-1221,Pocumtuc territory,957582651698892800,rmseifried
-1223,"Philadelphia, PA",2911550919,PhilPierdo
-1231,Helsinki,490477903,LehtoTuomas
-1245, ,1021418052251013121,MapMeg1
-1247,BCN,266598610,uriyoou
-1248,"Amsterdam, Netherlands",513351911,favstats
-1259,"Austria, Czech Republic",230445594,zealandiasarah
-1262,"Nairobi, Kenya",390722263,Shel_Kariuki
-1274,"Copenhagen, Denmark",37453678,neogeografen
-1275,she/her,1229716017049370625,DPZ_JGA
-1277,"Lisbon, Portugal",908802680,mmmgeo
-1286,"174/37, 36SYB",51414990,HarelDan
-1290,"Frankfurt am Main, Deutschland",833617709271285760,BKG_Bund
-1291,"Enschede, The Netherlands",337608360,GemMsc
-1334,Tanzania,776433139,HarounGerrie
-1350,"Marana, AZ",1561771195,thecfelix
-1354,tu corazón,601582057,MiguE_garva
-1361,"Austin, TX",28102639,pheebely
-1362,"Mexicali, BC, Mexico",288806861,edvardoalfaro
-1365, ,1626651440,Sergius_VMX
-1366,México,238196192,asalmendez
-1367,"New York, NY + NJ",5883952,bamnet
-1368, ,1448517176495951873,SuiZhaoxu
-1374,Chile,1132858101940539392,pibonacic
-1387,"Québec, Canada",4345403860,CoulSim
-1388,"Denver, CO",1627895245,UUDreams
-1394,"Cleveland, OH",327755131,urblg
-1401, ,1350910345402003459,paulinha_rolo
-1417,"San Francisco, CA",1413167047345721346,EricHausken
-1419,"Wädenswil, Schweiz",877607959165108224,NRatnaweera
-1424, ,113179867,plablo09
-1431,"Florida, USA",1450532195832156161,mgaar17
-1434,"London, UK",78459415,mattdray
-1439,Nepal,1265243054,1pramodshrestha
-1443,دولة الكويت,2744656034,Husain_Qamber
-1452,🇧🇪  🇪🇺  🇮🇨,41654209,CharlesTroupin
-1454, ,3191025663,IrnBrutus
-1457,Sheffield,202227790,david_leather
-1463,Córdoba,1294723270932156419,FranParejaLopez
-1484,"Derbyshire, UK",2665174622,theneilrichards
-1489,Pakistan,42497450,eesakhan
-1496,"Oakland, CA",96895862,farrarscott
-1505,"California, USA",2864270548,kartenvergnugen
-1513,"Nottingham, England",1051952093819543554,oabaines
-1520,دولة الكويت,4229346580,gisertweets
-1521,"Poblenou, Barcelona (CCCP)",235702214,JoanSales
-1527,"Lancashire, la la la",154303718,cn174
-1530,Israel,1452886571653419008,BoginMaps
-1531,Lomanyaneng Mafikeng SA,733959342140067840,thuso_phelwane
-1532,Yorkshire,6408382,astronomyblog
-1536,Bonn | Trier | Milano,1401802995726270465,DomeGIS
-1542,"Redlands, CA",89117090,spangrud
-1543,"Redlands, CA",69759202,epunt
-1558,Saint-Petersburg,579970887,Sasfeat
-1561,Mars ,1209781098000998401,saathankutty
-1573,"Atlanta, GA",475638518,urbanclio
-1576,"Trier, Germany",554282016,sven_s8
-1581,"Manchester, England",895837678687604737,GABapentin_
-1583,"Lyon, France",2513113684,noirothomas
-1592, ,1425251061988831238,ProgressTrades
-1594,"bbox:[-117.3,32.6,-116.5,33.1]",6148362,RobChohan
-1604,"Tongeren, België",919806358328958976,gis3700
-1606, ,3221569908,TimPrestby
-1607, ,17373869,HexGeospatial
-1609,Barcelona | London | Alacant,152698624,ja_gras
-1617,Germany,113368957,IgorRoshka
-1622,"Bamako, Mali",973982066583973890,JsphBen
-1633, ,1358737724048613377,JohnGun83121818
-1652,"Rochefort, France",110691260,fauchevent_
-1663, ,1230078737657585669,LecaRenaud
-1665, ,1148388547461865472,TesisFinita
-1669,KU - CSS,3790461972,geo_club_
-1672,"Calamba City, Calabarzon",1353172914133037056,ArnigoAudrey
-1673, ,117134839,PascalSchetelat
-1675,Leeds,1121807869932908546,lenakilian_
-1680,"Burlington, VT",5845962,mberg
-1683,"Cambridge, MA",1050564098499465217,ImperiiaProject
-1688, ,1305090711012941825,MbgTeaching
-1690,"Walldorf, Germany",1153624873123614720,math1ask
-1691,東京 品川区,967719352932843521,ShinagawaJP
-1695,Grenoble,541175342,abenroberts
-1710,un-known,122247587,arandav
-1715, ,1305351485354459137,AussieMezi
-1737,"Cardiff, Wales",1055405505491943424,DuncanDataCymru
-1741,Ireland,2248918363,GeoDirectory_ie
-1743,London Towne,862916381595099137,MinistryOfMaps
-1749,"Nord-Pas-de-Calais, France",818391158254632960,MEL_OpenData
-1753,"End of the Rainbow Rd, McDaniels KY",17837255,TarasNovak
-1785, ,4322029101,EkanemBassey10
-1809,"Granadilla de Abona, Spain",1261061918166601735,cristirelojes
-1824,"Distrito Federal, México",113169069,acalderod
-1827, ,1445565706519465988,naturalmelival
-1835,"Kapiti, Aotearoa",1230316596771487744,Fossil_3_141
-1841,"Baltimore, MD",4789588426,professorphong
-1844, ,917742999844605952,ndouglass7
-1847,The Bluegrass,19399173,boydshearer
-1849,Ciudad de México,277435470,_poolish_
-1861,St.Thomas,365193900,adevries5
-1865,"San Francisco, CA",1697125616,chunonline
-1900,"England, United Kingdom",3157891,floongle
-1901,"Geneva, Switzerland",333342656,solange_uwera
-1902, ,1243424199986692096,BellaCoito
-1913, ,1241476312222642179,NearandDistant
-1916,Scotland,300339493,OSMScotland
-1924,México,883380487049302016,rulocastellanos
-1931,"Camden Town, London",112372635,bwin89
-1945,"Nairobi, Kenya",480955842,LamecTim
-1949,"Fortaleza, Brasil",1456027792206925835,led_ufc
-1950,Colorado,120641803,kylebarron2
-1952,Colombia,124492052,igacColombia
-1964,Auckland,800447204020219904,Kim_Fitter
-1968, ,1117096616492662786,ThomIvar
-1976,"Colorado, USA",26189414,mike_floyd_co
-1979,"Berkeley, CA",1119220753562591232,xueer_lu
-2006,"Caithness, Scotland",1243775023,TheBrochProject
-2008,"جدة, المملكة العربية السعودية",718409341666254850,adorewinter
-2022,"Newcastle Upon Tyne, England",863722747,TimRodaway
-2039,"Earth, mostly",346830435,SharkieGoesRawr
-2055, ,2510036994,KelleeKoenig
-2067, ,793451042885296128,datarttu
-2070,"London, England",1027101984,enriquedlrosa
-2085,"Madrid, Spain",193908521,IGNSpain
-2091,"Cracow, Poland",75868477,egrabska
-2096, ,1376982118237093888,spatialKray
-2112,"Graz, Austria",1382252583201484800,Aeroficial_Int
-2117,"Manchester, England",153718180,CraigTaylorViz
-2129,Kingdom of Saudi Arabia,1330416485840384002,Gis_group20
-2137, ,1451438003725893632,Info_Camphoster
-2161,"Ile-de-France, France",710177648371171328,Lolo97_Ern
-2163,Paris,1035417413586694144,neocartocnrs
-2183,"Helsinki, Finland",1412573438,persikkata
-2214, ,1336949577304469504,LMontaldier
-2216,"Moscow, Russia",1102680264554303489,mtopnikov
-2233,"Corvallis, OR",62130135,mswiseman
-2238,"Freiburg im Breisgau, Germany",2778216364,27aea577f17d4c4
-2241,"Zürich, Switzerland",624668875,OpenDataZurich
-2244,"Vancouver, WA",14182494,joelfeik
-2256,9k2 Land ,279070725,9k2gv
-2276, ,1139696512345104384,Christi77260793
-2279, ,624296733,Pragabhava
-2287,Loja,713394870,HarryAlvarez4
-2297,"Oakland, CA",9154592,nrabinowitz
-2302,Yaoundé - Cameroon 🇨🇲 ,1345895235965087747,titimedianews
-2324,"Olympia, WA",869709367737634816,geo_coe
-2329,rendilo.fori.oggetti,13181232,grichter
-2353,"New York, USA",1138632217222111232,kc_analytics
-2356,"South Lanarkshire, Scotland",16735351,tookiebunten
-2366,"Gleann Rathais, Scotland",223565758,marinemaps
-2368,"Rio de Janeiro, Brazil",28689905,gbragaalves
-2396, ,974997967,AmazingSpeciali
-2406,"Grenoble, France",318417786,CDB_77
-2410,"San Francisco, CA",1284303180738764800,samantha_noah0
-2415, ,789851420,JolienNoels
-2420,"Austin, TX",1148698975601602561,ovahsen
-2427,"Bedford, England",3445229115,Silver7Mapping
-2446,"Bogor, Jawa Barat",1238115532068376577,adityawmayan
-2459, ,1080647028030533632,kikasoueu_
-2485,Mayotte,2175320826,rico976
-2489, ,10915042,sharon000
-2503,"York, England",4003306397,jonni_walker
-2515,"Sydney, Australia",35524425,saurabhdhiman
-2517,London/Calgary,152800791,jimwhiting_sci
-2523,"Newcastle Upon Tyne, England",874597331424993281,GIS_Manipulator
-2528, ,1217077743654801408,1littlecoder
-2534,México,91617524,ErnestoMorua
-2569,"Hamburg, Germany",853214807826325508,chronohh
-2573,Saint-Mandé (France),57276576,IGNFrance
-2622,"Honolulu, HI",1347318476067639298,sdcollectables
-2625,"Goa, India",1348602459841728514,schubertda1
-2641,"Hermosillo del Pitic, Son, Mx.",54718338,dogomoreno
-2647, ,3048802986,MeinJude
-2658, ,1130132745563332608,SvenBrie
-2664,"Provo, UT",2860575512,mapbosse
-2667,"Novi Sad, Republic of Serbia",1372262673409261568,danilo_str
-2677,Besançon,1386941882270461954,ACarto_alecle
-2683,Jeddah | California,268102568,aoalzahrani
-2684,Corea del Centro,1235406586149027845,nicolasfierrov
-2697,"الرياض, المملكة العربية السعود",1444187693395628032,Geo_m4
-2698,Guanajuato-Zacatecas ,454608372,AmauryConY
-2708,"Toulouse, France",55637275,sgascoin
-2716,UK,190644064,bcsmaps
-2729,"Sydney, New South Wales",559223515,GavinCoote
-2768, ,73738139,AlbertoLaveaga
-2823, ,523212571,ampi_ammu
-2842,Planet Maa,264708219,zhljumpenaajs
-2857,DE,36749252,wahlatlas
-2859,"Dublin, Ireland",21193285,ManAboutCouch
-2861,"Limburg, België",846963504,BuurtaalMiet
-2878,St Etienne Loire France,126347279,arnalgeo
-2897, ,3317926678,ProcessNamed
-2898,ザ・ゲーム,1326754058007310336,Xiuliu_Xiao
-2979, ,466723230,GkHarutyunyan
-2983,Senegal,196145892,papitau
-2989,Denver,394167551,Hellville
-2995,United States,430899741,JasonSchmerer
-3006,"Houston, TX",356554442,It_me_Greg
-3013, ,509087207,ihanelly_64
-3024, ,1315925227910705152,HarpurConnie
-3037,Italy,1433417142049853441,LATIDUDEmaps
-3040,"Vernon, BC, Canada",21869817,MapsRus
-3048,"South Bohemia, Czech Republic",2841842176,VojtisekBlaza
-3051,"Zurich, Switzerland",21386804,ilyabo
-3060,Canada,221571880,locatepress
-3075,"Linz, Austria 🇦🇹🏔",1179338958758727681,chrisstelz
-3092,"Madrid, Comunidad de Madrid",1917971497,manuel19621119
-3112, ,946868991066361856,timhdata
-3125,"Sonora, CA",3302663672,DylanBeaudette
-3137,Eastern WA,898324652,LonOttosen
-3141,"Vancouver, Canada",94454747,FMEEvangelist
-3158,"Boston, MA",1107682740395216902,Timothy_Fraser1
-3164,"Toronto, Ontario",1410220756433309701,Olastrator
-3181,"Southampton, England",31388855,steveattewell
-3195,United Kingdom,152243640,Lima_Volante
-3205, ,1324460652656812032,TambovArt
-3226, ,1237751233039020032,IngeTolenaars
-3232,Bangalore,83043346,rajatchopra91
-3245,Hamburg,1059191377303613440,d_haitz
-3273, ,791292018,BrittLonneville
-3286,"Bucureşti, România",984102028111687680,marius_raduc
-3307,"Leh, Union Territory of Ladakh",1443045476513710080,Naveedyassin
-3323, ,2212684895,chris__mutugi
-3343,"Vienna, Austria",3302833893,drawingdata
-3358, ,1390945656,defg19
-3366,"Wembury, England",2348651125,Cramsuig
-3376,"Model Town, Firozpur",1445831803651063809,attifmalik3
-3378, ,1445733749396852736,jugbaycarto
-3386, ,1276653656260165632,_ronycoelho
-3389, ,1281171476205441031,quite_grey
-3391,"Portalegre, Portugal",38512725,timlinux
-3397,"Cuenca, Ecuador",185632245,temporalista
-3401, ,1326212998273359873,schneevgestern
-3404,"South Carolina, USA",17435433,CharlesRobbins
-3409,"Camden Town, London",25611208,npalomin
-3411,Colombia,1458114928670388231,ColombianMaps
-3422,"San Francisco,CA",1255361139476742145,unfoldedinc
-3432, ,1356945333738213381,KemuntoVinither
-3437,USA,18056084,josephkerski
-3448,"Helsinki, Finland",76912257,kinotus
-3450, ,139085496,mercapton
-3480,"Lake Placid, FL",4895763947,AngelineMeeks
-3502,Glas,309735079,martha_mawia
-3503,Colombia,98195064,Nicolevasos
-3505,🤘,1093057164,biketz
-3511,Normandie,1356633265545875457,n_blanchard61
-3518,"San Francisco, CA",53135103,IsaacBrodsky
-3531, ,2912566559,sentinel_hub
-3534, ,1039247575965224960,habemusmodelum
-3549,"Southampton & London, UK ",783700009132945408,Jamie_Bio
-3553, ,56465908,MapEnglish
-3558, ,1875577506,PeterCada
-3578,tokyo,4054431,masakick
-3609,The Netherlands,14503015,bricker
-3615, ,1189962241489227778,GermanV_IIEP
-3624,"Ramban, Jammu & Kashmir",1453353045572472840,ahmad12_shara
-3643,Hamburg,317158835,terezaif
-3645,"L'Aquila, Abruzzo",1052143438316097538,WalterDS87
-3652,"Geneva, Switzerland",842660565201895424,BlackburnStat
-3670,"Heidelberg, Germany",55583283,phil_osophie
-3712,"Yogyakarta, Indonesia",188635148,disyaawanda
-3713,"Bogotá, D.C.",291509401,phab_22
-3725, ,46714240,aguileram
-3751,San Francisco Bay Area,365608246,BCMcartography
-3765, ,1305834479626448901,long39ng
-3771,"Coventry, RI",64592098,eeyore167
-3776,"Visalia, CA",302950333,BnBGobo99
-3796,"Copenhagen, Denmark",19764954,haakseth
-3801,"Greensboro, NC",1367525717483921410,MeganGIS
-3817,"Tromsø, Norway",768386760216805376,adamdsteer
-3826, ,1445219905998053376,MarioGR_Lidar
-3858,"New Orleans, LA",2949055273,luisalbertog94
-3869,"Hackney, London",143987339,LAnderson_Frank
-3905,"Nancy, France",3400272069,JeremBorderieux
-3923, ,1240925558403366912,nandi_varga
-3940,"Athens, Greece",617068488,iliastsergoulas
-3971, ,110930737,fatwaramdani
-3975,ANKARA-İSTANBUL-SAN FRANCISCO,164172121,basarsoft
-3977,"FUTA, Akure, Nigeria",2189243584,xtremexamxong
-3996, ,295109816,vskuja
-4000, ,1905096798,JuanEstellerR
-4001,Fareham / Beirut,491313936,bothness
-4005, ,884351086492102656,lbhartl
-4015,"Châteauroux-les-Alpes, Alpes !",751148918,lecartographe
-4019,"Haderslev, Denmark",2526461,PHorsbollMoller
-4037, ,1240462088687869952,montlake_gis
-4045,"Chalon sur Saône, France",20360503,plerudulier
-4069,The Anthropocene,1117471915151626240,valeriamerazc
-4074,"Auckland, New Zealand",3346807874,EmmaVitz
-4079,United Kingdom,1090270255669100546,FhBarton
-4107,"College Station, TX",19301110,MPSchramm
-4112,"Stockholm, SE",572256579,gkankia
-4122,Alessandria,91871850,daveal81
-4135, ,883290218719318016,ar_etsch
-4151,"Brasilia & Fortaleza, Brazil",1113528453343666176,ckauebraga
-4164,"Washington, D.C.",33608239,Timmeko
-4178, ,3581285302,FabianGebhart
-4181, ,1359488662350819329,amzenviro
-4193,"San Francisco, CA",265817210,ToddMostak
-4194, ,1087405402713743368,BCalhoon7
-4196, ,566341543,fiftylemons
-4206,California,1598752860,NathanCShephard
-4211,"Cambridge, MA",1227248120293187585,vizgen_inc
-4220,0x23A...4c29,17750685,adamknaamani
-4221, ,842679437263028226,neilrkaye
-4223,"Dobrich, Bulgaria",335993665,zememer
-4225,"Nyack, NY",93432839,pkfranz
-4231,"Sarawak, Malaysia",67093546,ycgoh___
-4235,"Princesa Isabel, PB, Brazil",160728514,ArturMGLourenco
-4239,North West England,1223280403777191936,Phil_M_Barrett
-4241,Riddermark,2543362932,VajiraL
-4248,"Los Angeles, CA",1128260138194747394,soochownewboy
-4257,India,2240301877,swapna_apsrsac
-4263,Planet Earth 🌍 ,882705575032885250,ladiexcity
-4274,"Quito, Ecuador",3331826578,Carlos_San11
-4276,Tampere,741486644,jnknnn
-4296,Tartu,1455960818722525186,RalGarcaEstvez1
-4299, ,1458573550302924801,MeredithDiMatt1
-4300, ,1286062108493393931,Art_Cito
-4311,"Ribeirão Preto, Brazil",912660712832557060,fblpalmeira
-4333,Occitanie,1377165781662769153,InseeOccitanie
-4344,Lyon - Madrid,118147850,Rafacereceda
-4352, ,2594843376,bwassim13
-4362,"Edinburgh, Scotland",283445478,philbartie
-4363,"Tihany, Lake Balaton, Hungary",2788367426,azlinszky
-4403,"Vaasa, Finland",36117325,petrihelo
-4404,"Washington, DC",410241434,Paragon41
-4414,DM04,910623276778405888,ai6yrham
-4422,Brazil,880148317468061697,sergioajv1
-4432,NZ,40137926,budbongo
-4446, ,1441473783412318209,joshmotion_
-4448, ,1368902640181145600,kosmi64833127
-4450,"Iowa, USA",390701058,eshakss
-4458, ,1070940092053651458,davidesdelgado
-4478, ,836764339965046784,Saneesh05580981
-4498, ,1322482539483828224,eliferkk19
-4502,"Rome, Italy",1027935482,mmodima
-4507,Portland,906459476,CascadeCarto
-4510,"San Francisco, CA",1846000920,OmniSci
-4515,United Kingdom,1110271474944872450,SuglaniNaresh
-4527, ,3042769257,PlaceNPurpose
-4563,"Helsinki, Finland",258459576,jeresuikkila
-4568,"New York, NY",804341497441255424,Foursquare
-4571,"Guarulhos, Brasil",1254286157363494917,brunoweiss85
-4601,Toulouse,2292626036,r_mejean
-4615,山口県,188770253,mandanggg
-4618, 🇭🇷 🇫🇮 to Lingít Aaní,25927015,Kelsey_Aho
-4625,Berlin,4200489867,targomo
-4648, ,1459136080230367246,NikolayKozlovsk
-4654,"London, UK",1322134106,Podaris
-4658,"Rennes, France",707908989166743553,E_Sigat
-4661,"Anaheim, CA",1666589234,THIRTY81Project
-4664,🇸🇦🇵🇸||📍🇰🇼,941025268763975681,_H82x
-4692,Cadi,409967791,web_amador
-4713,"Cérilly, France",2970383806,ClementBouchere
-4721,"Zaragoza, España",2478849098,Galactero
-4733,World,1381557275202965509,azeezm17
-4741, ,45536151,Makeo88
-4761, ,1360522288119099393,Crystal76605635
-4786, ,1173600285270450178,Dr_lyes_
-4805,"University of Gävle, Sweden",1905445471,FNilfouroushan
-4845,"Xochimilco, Distrito Federal",1051527936,lalocruzjurado
-4872,Planeta Océano ~ Planet Ocean,1118437362080546816,batidivulga
-4873,"Cameroon, Far North Region",1409616360175460355,YounkapD
-4891,"Zurich, Switzerland",250600119,adinarenner
-4896, ,1169857420228620290,Ifanwahyudiii
-4933,Beijing,949696867926978560,WeiDuhun
-4992,"Juneau, AK",2436168180,WillMuldoon
-5001, ,381890273,sixtocristiani
-5011, ,1282359942570299393,MapEngArch
-5022,"Milano +45.465556°, +9.190000°",180317088,RobRe62
-5030,"Berlin, Germany",2162169978,alvintuitoek
-5053, ,1453419747178164227,binarybias_
-5056,United States,1043551142406279169,magdyhaddad1111
-5064, ,130984257,i_nicolis
-5068, ,203130075,caglarkoylu
-5070, ,1353147127355072513,LouHennenfent
-5075,Freedom-Day Fiefdom ,1422832836,alvinometric
-5123,"Columbia, MD",1175836877225508864,JoshYoon247
-5142,"Accra, Ghana",1380592552097763333,fnocansey
-5152,"Grantown-on-Spey, Scotland",1180502060879482880,FreeThrall
-5159,Lagos Nigeria,1205446309697728512,24rentzInc
-5193,"Tartu, Estonia",719152329,Oderakate
-5241, ,3437248613,SHS_Space
-5248,"Kingston, Jamaica",384617577,LawgiverKingson
-5254,lacortezasideral GironAiMés,507173845,GalaSoilapolla
-5271,United States,2267451021,MappyMark
-5280, ,1456684848345718791,datavizlover_
-5296,"Portland, OR",1016002307299799040,MrsSinclairMaps
-5301,United States,397806730,Sarah_alhijji
-5313, ,236995198,yunessbahi
-5315,"Temecula, CA",1327326998557978625,analyzer2004
-5318,"Utah, USA",3124248397,toronto_tom
-5320,OR ➡️ MN,243914273,MacGyverGIS
-5324, ,532550491,ThisIsRuthEllis
-5349,"Prešov, Slovak Republic",855041081880313856,j_michalkova
-5356,"Berlin, Germany",1585404372,Mixed_Pixels
-5368,"Washington, DC",222134039,MatthewMEarls
-5371,"Trondheim, Norway",23300088,raglar
-5381,"Cleveland, OH",18260147,skorasaurus
-5389,Ktunaxa + Spokane territories,727701114,LaurenStacho
-5405,Norwich,1127867966,southmapr
-5411, ,971144998585556992,alwazi88
-5418,Woods Hole,60300190,g_fiske
-5421,vt,58313768,camillacaros
-5436, ,1457641524565512193,EleriHirv
-5437,"Athens, GA",902234700961509376,snmarkley
-5466,"Besançon France, Africa, Asia",198973490,etrimaille
-5498,Dans la salle de veille,1382368520516816900,Gardien2Phare
-5500,"Tartu, Eesti",860502917253656576,akanazu_lilian
-5501,Kingdom of Saudi Arabia,3310104332,MKourani2017
-5511,worldwide,271327412,qgis
-5515,"British Columbia, Canada",799835587104514048,chisatini
-5554,"Santiago, Chile",250129147,saryace
-5556, ,951851591761563648,dmoyaec
-5604, ,1361011039186345988,TMedicazone
-5607, ,1261187945995702278,kai_paynter
-5615,Nepal,4888080752,ksabmagar7
-5622,United States,1446868375041413123,beverlywanda96
-5649,"Berlin, Germany",500573974,Datawrapper
-5660, ,893898867489595392,simellamojavier
-5668,Cologne/Aachen/Innsbruck,14707170,MartinBangratz
-5680,"Morganza, MD",12405802,billdollins
-5693,Outer space 🪐 ,1936499682,CumNPlayWithJey
-5694, ,1316675467,Felix_Coupe
-5700, ,942183109,ciaran_mag1
-5702, ,2396273877,Hominis_simplex
-5709,Ukraine,921409205080412161,app4soft
-5801,MIT Media Lab,2718780569,relnox
-5808, ,70339979,kffaisal
-5829,Unceded Coast Salish Territory,1049137430199033856,danjstew
-5835,"Kiel, Germany",1328807058465054720,KatjaKuhwald
-5861,GISLandia,3613770735,GIS_and_Beers
-5865,"Huddersfield, England",204679222,DaveRichards81
-5868, ,1302656902313259010,ahmed94031601
-5893,"Jeddah, Kingdom of Saudi Arabia",1178299221038030850,saed77asiri
-5894,Newcastle-upon-Tyne,773777640,GeospatialNCL
-5899,Colombia,1043912535810945030,karlartp
-5937,"Freiburg, Germany",47881959,ps_tweet
-5961,"Minnesota, USA",929098728782385155,McGuire_GIS
-5971,"Gdynia, Polska",48080397,k_pawlikowski
-5980,South Africa,38377746,indiebio
-5981,Hatfield Pretoria South Africa,1310597864905756680,UPnasagric
-5983,"Bogotá, D.C., Colombia",1388699431743152129,eseospina
-5989, ,1371277058140041219,weiji14_
-6022, ,1455431112587714563,BaeAfrican
-6038, ,2961663783,ibrahim_raufu
-6079,Yopougon ,1456175450234003470,k12_officiel
-6109,Georgia,1375295280,Iraklipsyche
-6122, ,1242306684141236224,AntilocapraAme1
-6149,United States 🇺🇲,835782607493267456,Weathercast_tr
-6157,"Leipzig, Germany",229214680,SmoothMuffin_
-6176, ,4165067548,maritalvikki
-6200,"Toulouse, France",981265770511523840,thomasdubdub
-6210,El Jardín de tu desdén,476061980,ErnestoSanagust
-6255,YYC,2860936606,WaterSHEDLab
-6294, ,532348354,Els_Kuipers
-6300,"Preston, England",1097814463414235137,Rawe___
-6302,"Thessaloniki, Greece",1105836507380805632,eo_services
-6335,San Francisco Peninsula ,882759681667588096,US_Stormwatch
-6337, ,911114425230340107,StatJP
-6384,Spain,978472864411275264,ExoCoordenadas
-6395, ,1203623631856779264,icymi_r
-6404,"Seattle, WA",399072114,JeffreyLinn
-6409,"Belfast, ME",3349884328,margot_carto
-6416,Europa ,1032594621417828352,DarMo68
-6436,"Glacier View, Alaska",1227675634014380032,MatanuskaPark
-6450, ,53991438,cascafico
-6460, ,1069996847350063111,AbiTilodi
-6473,UK,732225755690741769,harveymaps
-6475,United States,1414997451900170250,tealvo
-6492,Bulgaria,1283687669286023172,of_sketches
-6515,"Helsinki, Finland",14130929,ttso
-6517,"Charlotte, NC",38052918,ryanahart
-6537,"Bretagne, France",3046475920,VentuEnzo
-6547,Aucune idée ,707107850376646657,Thomas_pel1
-6551,"Exeter, England",56648781,Thierry_G
-6559,"Hamburg, Germany",14677077,the_claus
-6565,UK,1440618099321950214,mad_gis
-6570,Czech Republic,150154201,jachymc
-6576,"Madrid, España",121572923,dhernangomez
-6587,"Rome, Lazio",86293529,paolacip
-6589,Bandung,1448131212950716416,rrrizqiramadhan
-6600,"Bundesplatz 3, 3003 Bern",138083232,swiss_geoportal
-6601, ,1177328312785473539,MatthewWiskin
-6622,Itzocan,4329680839,DiNavarro_
-6629,滋賀県,109117379,tyuurenpt
-6648,Jeddah.KSA,1897092998,afadel90
-6685,"Utrecht, The Netherlands",958624329775935489,BlaiseKe11y
-6693,Azerbaijan,1433767160103460888,AzeSatellites
-6701,Deep in Megalopolis,24275407,Fuertebrazos
-6706, ,1218862550504345601,beyondwattsuk
-6713,"San Francisco, CA",68567752,odbol
-6721,"Piemonte, Italia",2949004815,SamueleGiatti
-6732,Ciudad Autónoma de Buenos Aire,1084625240712466432,fcata
-6788, ,1238816326459822081,ChorosTweets
-6793,"Madrid, Spain",253036048,carmen_TM_
-6809, ,1213455504,EliasW_
-6816, ,1721525712,matstvatt
-6829,"Fondettes, France",98665397,Articque
-6846,Loja - Ecuador,38235109,franzpc
-6898,crypto,1390206873178099712,kevinmu76333681
-6956,Lilongwe,1082700543489916929,ChisuwoChimango
-6963,"Hamm, Germany",15147301,Pierre_Markuse
-6971,"Akure, Nigeria",2339848449,CEOSlimbrighten
-6994,"Stanford, CA",1018974064247857152,GeositeInc
-7025,"Oslo, Noruega",634028762,luchobt
-7030,"Aix-en-Provence, France",488000929,datagistips
-7082, ,250295529,hosam_mcfc
-7105,"Melbourne, Australia",973775831414771714,mappingbernie
-7150,"Brussels, BE - Salerno, ITA",185144870,annamaria_84
-7161,Latvia,1458492209003630598,brEdijs
-7176,"Medellín, Colombia",150063988,Danielsolamente
-7193,London,43953969,jwoLondon
-7229,"Trondheim, Norway",178435327,TSimensen
-7257,"The Hague, The Netherlands",21084111,JanWillemTulp
-7270,"Cardiff, Wales",930500800660590595,MapioCymru
-7299, ,1462058179622223885,DilmirhMV
-7314,Tartu,491095725,Sem_Enyo
-7326, ,978628662,marineregions
-7363, ,841465160187428866,fritzGIS
-7381,JC4R+F5,1461953521255739394,ariaezta
-7394,Iceland,1456185131899752449,tomcheapflights
-7470,The Stadior System,267310660,mattah353
-7476,Nairobi,21303464,alykhansatchu
-7521,"Delft, Netherlands",2601338280,UNIGRAC
-7522,Sapporo,1056888822942711808,mmits003
-7527,Estonia,936104214719320064,IngoValgma
-7552,Too close to the Hayward Fault,29739700,rsimmon
-7558, ,21701059,PeterCBlack
-7574,República Norteña/CDMX,1467772458,Daves_Lullaby
-7607,UK,446611170,mark_cherrie
-7626, ,1325996362756972545,LValie1
-7638,"Vilnius, Lithuania",1101324580973658112,GrabrBrabr
-7642, ,17564946,Hey_Billy
-7644,"Chester, UK",470402184,MurrayData
-7660,"Ponferrada, Spain",725708439129841664,forestalesponfe
-7706,Cuenca,2589392639,GuallpaX
-7715,"Pretoria, South Africa",3761815227,terisha_pillay1
-7721,日本のどこか,1218470445541806080,yaoyue00085856
-7723,Pdsta. Fdo Gómez de la Cruz 61,846732445823258625,GIS4tech_UGR
-7740,"Iowa, USA",892500834327703554,anelfering
-7746, ,220956068,nkshaw
-7751,Cambridge,1372486585296506885,PennyJClarke
-7755, ,1251715976757940224,tiznegar
-7769, ,14075285,jpamado
-7770,"Granada, España",963009722113757185,dredondosanchez
-7774,Kenya,1425835867147444232,MapInfographics
-7830,Attiwonderonk Neutral Lands,827996690397462528,VoiceloflReason
-7855,"Novi Sad, Republic of Serbia",778134314311639044,NisamProgramer
-7862,"Frankfurt, Germany",992037884889845760,shujaJR
-7885, ,1442403707912527873,CheeverRiki
-7896,"Bavaria, Germany",961696537075159040,EDEO_GmbH
-7905,Switzerland,15557534,sfkeller
-7942,London,252519639,oliver_dw
-7954,"Famagusta, Cyprus",1407269477079736320,NarrativePolicy
-7972, ,1456007676996038662,eulerspatial
-7978,SmuleLaLaLand,1716144151,DashOfNaj
-7980,kampala_Ugandan ,3325050370,Ssalieric3
-7982,"Camden Town, London",1100674141886267393,AyrtonBourn
-7985, ,1057686396910002176,truted2
-8000, ,1363413193364811779,geometrein
-8015,"The Bay Area, CA",18874859,radamar
-8016,New Zealand,42303649,kevin_ct_chang
-8026, ,1463180094378102786,Gandhararesort
-8029,A Space,1387842125581242370,21merchants
-8054, ,1279490881003958274,moriakhistory
-8062, ,19082509,l_venegas
-8080,"Sinixt territory, BC",735851613965811712,feefifo_hannah
-8084,Austria,712499518491791361,njanakiev
-8123,"Vienna, Austria",311043334,underdarkGIS
-8171,"Manchester, UK",52024485,hannahmaccamoo
-8181,"Nice, France",800277926348324864,Arnold_Platon
-8186,"Valladolid, Spain",317685881,lmarcollado
-8187, ,2873491557,FabienSteinmetz
-8190,"Granada, Spain",91221736,olitojimenez
-8209,Kenya,1204453567400218624,IamMarcusGarvey
-8215,"Brisbane, Queensland",752504698532495360,RiboRhys
-8228,IG: @Jeremie21,1167301404626571264,jeremie_loyalty
-8298, ,558688642,AlexisBatlle
-8318,Hamburg,418263200,stroebjo
-8325,Morocco,291848660,forestmontagne
-8328,"London,England•Bogotá,Colombia",2962814495,EthelSeguraD
-8443,"Ecuador, Manta",239090160,holgerbermeo
-8477,Metaverse,1456964301852344328,metaworldmaps
-8480,València (Spain),1285616396207116291,Roca13M
-8487,Spain,1297201168280674304,PClimatologia
-8515, ,1071542614627766272,bismowibi_
-8580,Avilés | Pamplona-Iruña,1258014846429396992,angelgcarreno
-8588,Pakistan,1459081333104427040,TrendNewsi7
-8713,Turtle Island,1025551828459638784,RaeLJewett
-8717, ,303715592,CanFre
-8768,"Dresden, Lüneburg, Berlin",820984412,helenajambor
-8794, ,2220729031,Xoceqep
-8838,"Wellington, New Zealand",134938710,InfometricsNZ
-8839, ,1379107598696394752,Alejandro_Poso
-8874,"Rueil-Malmaison, France",776157091908218881,ChrisMandereau
-8880, ,2888068257,juanadevis
-8882,The pipes.,982186820803833856,SpeckleSystems
-8916,Singapore,112188060,abhivasta
-8961,"Crieff, Scotland",381118369,MapNav_Tom
-8962,France,2839697963,SIGArT_SIG
-8977,les Corts i Linyola,496768748,Garumnia
-8993,"London, England",282766176,haider_gee
-9013,"Barcelona, Spain",1070372034067263489,LinksGeo
-9022,NICARAGUA,436868105,AdiacRocha
-9036,NYC,498660150,RobertLesser_
+0,"Jalisco, México",2239825712,IIEGJ
+1,"Berlin, Germany",3092381638,CedScherer
+2,"Moncton, New Brunswick, Canada",1502070512041791488,Cononolapotato
+3,Paris,560431626,antuki13
+4,Sheffield,202227790,david_leather
+5, ,3289591732,rabin_ojha
+7,Planeta Tierra 🌎,790584781771722753,geogracelis
+8,"Nanaimo, British Columbia",1120146270167814149,hadallen2
+9,"Lexington, KY",1280909342745800710,WChrisLyons
+10,"Westminster, CO",1491031412,JPeterPeters
+11, ,1587507616430768129,AlbertoHa07
+12, ,19900688,mapperz
+13,"Brisbane, Queensland 🇦🇺🇯🇵",187171010,IKEDA_02
+14,45 landsat pixels on Vashon,381644595,DnomadB
+15, ,840682774403133441,HistoCarte
+16,Braunschweig | New York,374486396,locrmaps
+17,Munich,28102639,pheebely
+18,"Western Colorado, USA",704834009252036608,mikedavl
+19,France,1494836294735863817,Chireiden_ER
+20,"Michigan, USA",1493786300448747520,Anna81020749
+21,Colombia,116880000,nico_baene
+22, ,1361226912669061121,malasi_abhinav
+23,"Salvador, Bahia",1367477875717382146,IcaroBSC
+24,Atlanta,182125166,clarenceatlanta
+25,"Leuven, Belgium",520200099,SimonDriesen
+26, ,895835407,somethinsfischy
+27,"Sydney, AU",19001296,minus34
+28,"Pima County, Arizona, USA",2884207229,TheGISDiva
+29,"Toronto, ON",873014108,rebennett_
+30,"Ogden, UT",95275060,Fargreenhills
+31,Mashiko,67455306,bordoray
+32,"Portland, ME",34334228,iambarr
+33,"Ithaca, NY, USA",275677658,kgjenkins
+34,Edinburgh,363276700,stevefaeembra
+35,France,310401461,bastien_rance
+36, ,137107982,atdodkonfektes
+37,Tanzania,1255538298,Makdavy1
+39,"Christchurch, New Zealand",1020137956869222401,SouthArrowMaps
+40,Dijon,1097868640475594752,JeanDup1n
+41,"Pisa, Toscana",1015528650639372288,BardiManuele
+42,Toronto,2802492936,mappingming
+43, ,1108546833821954048,Anastas47310092
+44,"Boston, MA",1177927694547406848,coughlinmaps
+45,"Scotland, United Kingdom",1414375263253770240,DataScienceNot2
+46,"Berlin, Germany",2366590092,ldbailey255
+48,"Oxford, England",970015003888758784,ClaireEHalloran
+49,"Stavanger, Norway",44981447,torehalset
+50,"Brooklyn, NY",15615271,chris_whong
+51,"Cleveland, OH",327755131,urblg
+52, ,1216771765,geogpsperu
+53,"Uppsala, Sweden",1002212251,geokaramanis
+54,Cambridge Uk,2341897566,PeterTFretwell
+55, ,1584809963553427456,jaanekaraster
+56,South Africa,829949071595016192,KartozaGeo
+57,"Lucknow, India",743705851303628801,TanuGururani
+59,Україна,909289106861064192,vadymnes
+60,Ukraine,968892427368050690,Textyorgua_Eng
+61,"Denver, CO",1430527437704777731,aliciaoberhol
+63,"Portland, OR",3906146132,JGoworowska
+64,"Lucerna, Svizzera",336517784,luca_northsouth
+65,Perú,64875424,barredajose
+66, ,1562969652330119168,tangoclaw
+67, ,461965493,kriksine
+68,"Palmer, AK",1348777563611561985,TheTomTurkey
+69, ,2163188711,tyson_okoth
+71, ,1494593861112455168,countryleapp
+72,Bangalore,83043346,rajatchopra91
+73,"Shrewsbury, England",238730325,DVDMaps
+74,"Nairobi, Kenya",1004775170597445634,mbararl
+75,"Bengaluru, India",44111340,arkarjun
+76,Canada,1329547993,Marco_Piani
+77, ,1327776293971103746,MapsbyW
+78,"Bucharest, Romania",2987260856,ClaudiaBlagu
+79,"Europe, N.America, LATAM, Asia",793464945971257350,Steer_DfM
+80,"Riga, Latvia",1096581954844147713,laysking3
+82,Enschede,22024763,DieTukkerfries
+83,"Taunton, England",4295501181,JamesCarey714
+84, ,1585974052975419392,frankypeck
+85, ,404240734,SDGeoGirl
+86, ,1525819946286161921,magmap_
+87,"Norman, Oklahoma",1185244681166295041,geospatial_OU
+88, ,2574612668,hireuter
+89,"Edinburgh, Scotland",1272146417323294721,MindOverMagma
+90, ,21466824,Elmedicobrujo
+91,Ukraine,1480299502384861184,margarita_hohun
+92,Galloway,1081900377853829120,dgplacenames
+93,"Köln, Deutschland",1139059532,_ansgar
+94,"San Diego, Ca",1385840413324451840,GISTestingGoat
+95,"Bengaluru South, India",1316056821564542979,aman_bagrecha
+96,Kingdom of Saudi Arabia,737409461560692736,mapdesignpro
+97," Algeria Algiers, كل مرة وين ",1086285558530363393,amdjedlakehal
+98,"Detroit, Michigan",70503077,XenonGT
+99,United Kingdom,376194515,piabenaud
+100, ,1454920710812487680,nordaufnordost
+101,Planet Earth,1349110409215795204,PythonMaps
+102, ,1161748534397456384,Fringe_Finder
+103,🇰🇪,1115217364369461248,CuteEyedBee
+104,IDF,195802419,Menileda
+106, ,1316116835327148035,hellovizart
+107, ,2525776104,JavierCornejoT
+108,Ciudad de México,916131169376202752,delmoralsu
+109,"Madison, WI",243497005,pinakographos
+110, ,1587480134843498496,AvokoRanto
+111,"Falmouth, MA",249790792,WoodwellClimate
+112, ,1196778015537188865,flocheprl
+113,"Chennai, India",1289388543433818112,spatialcamp
+115,"Grand Rapids, MI",741653561314922496,pokateo_
+116,"Arlington, MA",2391754261,MapOfTheWeek
+117,"Raleigh, NC",762107260881502208,calahan_riley
+118,Madagascar,1395749392276152320,Xpirix3
+119,"Freiburg im Breisgau, Germany",2778216364,27aea577f17d4c4
+120,Metaverse,1456964301852344328,metaworldmaps
+121,Yogyakarta,121336515,anhsirkwijaya
+122,"Vancouver, Canada",94454747,FMEEvangelist
+123, ,1070447109030187008,Njuguna1Duncan
+124,"Halifax, NS",21537132,HfxShippingNews
+125,"West Chester, PA",1148733395561668609,joshspatial
+126,France,1314533905706422273,CapitaineMoust1
+127, ,1433472438533304320,NVG8official
+129, ,1330437209175035904,TimOstler1
+130,"Blantyre, Malawi",1386395362672455684,DicksonMbeya
+131,Nigeria ,1250011013648470016,OluwafemOyedele
+132,"Lexington, KY",109043700,mattzook
+133,"Ispra, Italy",273627737,mazucci
+134, ,1482613878664359940,teddybear_Zoe
+136,"Chennai, India",105407287,Saint_GIS
+137,"Colorado, USA",137779669,GIS_DOG
+138,"Madison, WI",52899973,oh_sk
+139,"Shanghai, China",1160963883860762624,ShijiaWendy
+140,"Provo, Utah",16644911,bplewe
+141, ,1540686101702070273,tvizninja
+142,"Yakima, WA",16178541,randybondsjr
+143,"Michigan, USA",543626105,AndreaMc_Geo
+144,"Michigan, USA",937058112,MatthewHMalone
+145,"Tokyo, Japan",1584556399651999744,riogis1
+147,Amiskwacîwâskahikan,103084080,wyman10
+148,USA,3094607959,donojazz62220
+149,"Vellakoil, Tamil Nadu",438344019,IamThiyaku
+150,Aberdeen and Dundee,3119218925,seismo_amy
+152, ,3840607221,micheal_kaluba
+153,"Mumbai, India",1439913219976417284,PratikshaC_77
+154,"Knoxville, TN",4150548435,_aasmith
+155,"ÜT: -6.368713,106.827116",116146018,adisadit
+156,The Netherlands,109054515,redgeographics
+157,"San Francisco, CA",53135103,IsaacBrodsky
+158,La Plana,1122754929515536384,poloi
+160,France,1587742646981754880,cp2rconsulting
+161,Mexico,3278934925,kai_sonder
+162,Goa,1319881645,transerve
+163,Switzerland,1552205202714935297,tmapstudio
+164,"Detroit Metro, MI, USA",4721200932,DevinMLea
+165,"Helsinki, Finland",2335208993,polarboe
+166,"Islamabad, PK",4558321589,imagineazhar
+167, ,115979791,guerreroclaudia
+168,"Fort Worth, TX",144529492,kyle_e_walker
+170,"Austin, TX",1381622356406382595,Parks_and_Rick
+171,Spanish Fork Utah,47035081,smcshinsky
+172, ,1328750467699060738,gigainfosystems
+173,Chini Ya Mwamba,154031647,Arap_solit
+175,"Abu Dhabi, UAE",1331215289825030147,leeolney3
+176, ,1577290775750213632,DallEMap
+179,"DAKAR, SENEGAL",1213227533228855298,Abdoula47753388
+180,"Rotterdam, NL",480936962,gspeed0689
+182,Toronto,3092393211,IvaBrunec
+183,"Bay View, Milwaukee",39422694,MrPecners
+184,Kuwait (Ex Texan),908818700660236288,geo_alyaqout
+185, ,1490675243425439751,city_janitor
+186,"Athens, GA",13215962,jerry_shannon
+187,India,1200737769351348224,DeepaliKank
+188,France,1560563468574474240,CitiProfile
+189,Location Varies,4431048141,CorwanGroux
+190, ,1588197748171472896,mikkokangasmaa
+191, ,1204451896850862080,oie_gt
+192,North Carolina,1518719738335084545,GeoWithJustin
+194,Beijing,949696867926978560,WeiDuhun
+195,London,11094672,KeirClarke
+196, ,1434095811499945984,gisact_org
+197, ,1545396985842343937,mapserverstudio
+198,Czech Republic,625871634,PetraDuriancik
+199,"Grand Ledge, MI",381150541,John_M_Nelson
+200,"Allariz, España",304073347,aitorfreire
+201,Ohio,132383482,getbounds
+202,Україна,912239743420846080,SergiiShchus
+205,"Geneva, Switzerland",1183213291188834305,ayeishasheldon1
+206,"Kuching, Sarawak; Malaysia",22246509,azaleakamellia
+207,"Valencia, Spain",290751335,thisismikehall
+208,www.cartapaname.fr,732695379288961026,Artisans_Cartos
+210,United Kingdom,1033206985,CasegFraith
+211,"Charlotte, NC",38052918,ryanahart
+212, ,1587444944762916865,gisXiaoWang
+213,"Mumbai, India",4663343477,thatkopguy
+214,Fianarantsoa,997330455392333824,privatemajory
+216,"London, UK",309734801,samwise_v
+217,ecoevo.social/@jonasstillhard,993008496152064001,JonasStillhard
+220,"Galway, Ireland",967140347754184706,KellieHeney
+221,Inside too much,424357259,dbgoody
+222,United Kingdom,963902391643967488,nrennie35
+223,Italy,1433417142049853441,LatidudeMaps
+224,"London, England",1186202364,Julian_H0ffmann
+225, ,45566922,ZER0D0TS
+226,the rayverse,946151815,researchremora
+227,"Pune, India",60331964,kutazama
+228,"Budapest, Hungary",811349952815398912,milan_janosov
+229,France,22425359,mamatdunet
+230, ,1114069920092966912,KateEllen100
+231,"Canning Town, London",798739,dankarran
+232,"Helsinki, Suomi",2198358416,tjukanov
+233,"Delft, the Netherlands",2913896423,tudelft3d
+234,Leeds,21752435,neilcharles_uk
+235, ,3292714356,shadfrigui
+236,"Big Island, Hawaii",1040456237517664256,barelymaps
+238,"Bellingham, Washington",3309914684,sarahbellmaps
+239, ,446573069,sometimetime
+240,shanghai,1585821802235764737,lijian08638859
+241,"Paris, France",27031469,oliviermarchon
+242,"Sheffield, England",343928585,undertheraedar
+243,Earth ,1531477585,aminatabubakar7
+244,World,285509027,FGazzelloni
+245,Belfast,1265955927494197249,ceren_do
+246,"Exeter, England",4016856743,hughagraham
+247,"Saitama-ken, Japan",4235221572,syanseto
+248,France,1529548121268699136,Carto_yan
+249,Belgium,324473764,GeoPostcodes
+250,London,3715791856,LoraineRutt
+251,"Titchfield, Fareham",2248416469,ONSgeography
+252,In a data galaxy far far away,24855822,ChristiaanBeek
+253, ,41994074,nlohmann
+254,London,19331692,kanedr
+255,Newcastle-upon-Tyne,782161298,Neil_py_harris
+256,"Hawaii, USA",1024584556110852096,KonturInc
+257, ,1501676571945492508,curious_Fabian
+258, ,1587514593986985987,TranskiMapper
+259,"Temanggung, Indonesia",475862742,zaenun_faiz
+260,Paris / Pays basque,3300877743,XemartinLaborde
+261, ,135211300,Knutenchamun
+262,"Helsinki, Finland",845248364191059968,digigeolab
+263,Steenbergen,1270037817750630404,geojuffie
+264,"Toulouse, France",981265770511523840,thomasdubdub
+265,The Stadior System,267310660,mattah353
+266,"Aberystwyth, Wales",781130098120462336,NLWGraphic
+267,"Aberystwyth, Wales",781135146292539392,LlGCGraffeg
+268,"Paris, France",860108779471462400,cpchabert
+269,"Paris, France",18551865,nimwendil
+270,Bangalore,424013927,Priyadarshini78
+271,North/East/South/West,828846486,abiyugiday
+272,"Fondettes, France",98665397,Articque
+273,"Hokkaido, Japan",1533953845617106944,MIERUNE_inc
+275, ,1280475183514558465,JanFries9
+276,"Pune, India",19455385,DevTen85
+277,"Stirling, Scotland",223959960,_penguin_runner
+279, ,21060597,BarryElliott
+280, ,1268434063767060480,grndng040
+281,"Southampton, England",31388855,steveattewell
+282, ,900548798,Geolytix
+283,"Merced, CA",754537285660573696,DerekSollberger
+284,Salzburg,152225939,ClaudiaSbg
+285, ,1589674134929375236,MapsOfFinland
+286,"Besançon, France",1541945040,CecileMatusiak
+287,"Southampton, UK",22614266,OrdnanceSurvey
+288,"Lyon, France",2513113684,noirothomas
+289,Barcelona,166224933,Mboschm
+290,The Netherlands,760094405369946112,hansakwast
+291,"Otaniemi, Espoo, Finland",1159430569266167808,AaltoGeoinfo
+292,"Auvergne, France",1131083018406432768,KittJonathan
+293,Limoges — Lyon,611882238,LucasDestrem
+296, ,1311399091,Lubin_Picard
+298, ,191603507,cortodemalta
+300,"Dublin City, Ireland",437801734,MapsByAntonia
+301,Paris,138790830,JulesGrandin
+302,"Kiel, Germany",1344806977306849282,FelixEckel
+303,"Helsinki, Suomi",973813309811187713,gispofinland
+304,"Northampton, England",968429569350029312,kirstywilcox2
+305,Paris,1035417413586694144,neocartocnrs
+306,"Prague, Czech Republic",1513755446221361152,CtuGeomatics
+307,"Cambridge, UK",145683389,DrGeoffSmith
+308,"Tartu, Estonia",2629383321,tkardi
+309,The Netherlands,1091106812852609027,Mapple_juice
+310,"Wicklow, Ireland",433379529,vanessatebbitt
+311, ,1189967197730430977,Kartokobri
+312, ,193592650,maaamet
+313, ,1585965560122298368,loore_ko
+314, ,1537689873133494272,Romainsologne
+315,"Southampton, UK",1672632270,WorldPopProject
+316,"Zaragoza, España",2478849098,Galactero
+317, ,2686619917,benhur07b
+318, ,2841746832,samiasab90
+319,"Karnataka, India",365944185,samashti_
+320,"London, UK",1255575072301088770,gis_euk
+321,"Merti, Kenya",1203284817212825609,kenyangeography
+324, ,1431328127871963139,ahmiller25
+325, ,1565861596609773568,Soccer_Soundoff
+327,"Copley Square, Boston, MA",65125461,bplmaps
+328,"Culiacán, Sinaloa",1352456228455256068,Guaiacumac
+329, ,1203881949607026688,sameer_enigma
+330,"Santa Cruz, SC, Bolivia",38113384,rcrmj
+331, ,3191891974,baileyknapp17
+332,"Monona, WI",359333941,yeshan_geo
+335,République du Bénin,2364192646,229Biodiversity
+339,"Phoenix, Arizona",1577794966029357056,madysonbradford
+340, ,1590540839817777152,Tiagodetal
+343, ,14075285,jpamado
+345,"51.071363,-4.126697",166348278,TheMapAddict
+346,"Houston, TX",17106376,graharg
+352,"Lansing, MI",206207988,thechrisgs
+353, ,1039247575965224960,habemusmodelum
+354,"Toronto, Ontario",3129922635,willy_maps
+357, ,1583082408622133248,antoaneta_yo
+359,"Zurich, Switzerland",747338030621425665,paniterka_ch
+363, ,809786778,SkillsyV2
+364,"Williamsburg, VA",952746213895524352,ShannonFoxxDay
+368,دولة الكويت,2744656034,Husain_Qamber
+371,Martinique,2858890877,guillem_lefait
+372, Tweets from +234,2523279397,whoisOlaxtra
+373,"athabasca,AB",1228447116,Molasses_35
+374,Edinburgh,1359196886947803137,BeniSpatial
+375,"Cherkasy, Ukraine",14992557,gontsa
+377, ,1506155397278752771,leiberiuk
+378,southwest Michigan,1231780311941492738,LocationArtist
+380,Switzerland,1320623996249976832,1cartogRaph
+381, ,1337348144871452677,OceanYodeller
+382,"Redlands, CA",89117090,spangrud
+384, ,1542581207703109632,vizwithyash
+386,"InDyA, Palpalá, Jujuy.",177221212,matulepori
+390,"Osasco, Brasil",1106695312347987968,Gilsonmirandaj
+393, ,1456144370126647298,SouthCrossMaps
+394,"Québec, QC",1465708383038685196,ced_bouffard
+395, ,1125320137853341696,ptarroso
+397, ,1341203133377224704,TanyaBils
+399,Connecticut,92863619,scottwritter
+400,"Seoul; Suwon, Korea",192179296,shinyoungyoon
+401, ,850702504346210304,mutai_hazard
+402, ,3180922855,crisalpuche
+405,Galway in little old Ireland.,294774262,Conbon27
+408,"Toliara, Madagascar",4250716119,aina_don
+410,"İstanbul,Turkey",165329952,digitalhealthxx
+411,Zone 6B,318059549,kylie_tokes
+412, ,2605777380,LinoGaliana
+413, ,2882226514,viajeroerrant
+415,"Leominster, MA",1563241987457052672,PeterLillieGeo
+416,Germany,1461656756225024000,Tea_Muraj
+419,"Lagos, Nigeria",285258054,DOh_Bams
+421,"Phoenix, AZ",1078388703075229696,Graubi3
+423,"Abuja, Nigeria",374459093,zinnie__A
+425,EPSG:27700,759988092,Iawmatthew
+429, ,1278191467735941120,Drew___Avery
+430,FR-94160 Saint-Mandé,2247167180,jmviglino
+434,"New York, NY",1531683308228071424,ParclLabs
+436,"Milan, Italy 🇮🇹",562157984,andrea_magarini
+437,"Huntsville, AL",1702059680,Artimaps_DavidN
+441,"Woods Hole, MA",60300190,g_fiske
+443, ,1587413491593494528,CartoCam
+446,"Toronto, ON",22914910,Avenza
+452,London,737684638555090944,LisaHornung_
+455,Honduras,1153198611724951553,Ninfa_crocodile
+457,///fragole.essi.cestini,959476594099326976,aluollin
+460,"1.2921° S, 36.8219° E",1072425394907897856,absiyejunior
+462,Zwischen Abgrund und Schein,836168691532300288,a_q_u_i_l_a
+463,"Nagercoil, Tamil Nadu",272936200,rajbhagatt
+464,"Iowa City, IA",1384167215973376014,dmkuznetsova
+466,Copenhagen,297915370,ruth_mottram
+467,"Montauban, France",3307183889,CelineCiron
+469,Greece,374984100,StaridasGeo
+472, ,1350039657006960641,JensWiesehahn
+475,Edinburgh,2810294290,GIS4HE
+476,Mechelen,2862873778,Strtman
+478, ,1428174468946579456,nickgeo4387
+479, ,1171846709577519116,mane_janhavi
+480, ,1345454262,Jmoll45
+481,"Bay Area, CA",444491705,joannawilkin
+482,"Distrito Federal, México",15429684,pleautaud
+483,Edinburgh,1323360123927089152,ChrisDoesGeo
+484,United Kingdom,2295951570,LUCtweeting
+485,Indonesia,559204199,rifqi_oktav
+487,Madrid,127045668,srtena
+489,"Windsor, Ontario",54664091,scribblemaps
+499,IBIZA / Barcelona,769592708,valen_ibiza
+500,"Finistere, Brittany",1498266524242612229,AbPictoris
+502,"Oranmore, Galway, Ireland",17062648,AdamLeadbetter
+505, ,572256579,gkankia
+507,"Thrissur, Kerala",97141469,jinoytomjacob
+509,"Washington, DC",2307023788,RickyAngueira
+511,Mexico,27186708,jccpmx
+514, ,1316124529,CharityN_N
+516,London,1101617286,helenmakesmaps
+517,"Crescent City, California, USA",29617124,postholer
+524,"Corrientes, Argentina",2439142170,yeyomourglia
+528,Colombia,124492052,igacColombia
+530,Madrid,29250872,aherranz
+531,"Helsinge, Denmark",7159622,geomenke
+533, ,950010366779564043,alv_irl
+536,"Rennes, France",1269597124406239233,mapmapnmap
+540,"Tampa, FL ",575111574,nicolemark_
+542,"Cambridge, MA",1277695083253465088,JacobCJameson
+544,"Bretagne, Western Europe",903528074,Rodmarrig
+546,UK,380816669,AlcisGeo
+547,"Tokyo, Japan",716863,liquidx
+548, ,940818090648068097,KrzBan
+553, ,1073587085439877120,Hondunauta1
+554,Lima,1434917493148164097,JamirGarro
+557,"Boston, MA",166643823,ellenbechtel
+561,hoy en el laberinto de Chas,245798822,tustovsky
+566, ,80654959,Prancke
+569,💙forever in Ísland,5685812,hrbrmstr
+575,"Wellington City, New Zealand",2537792462,GokulAnand_
+576,"Charlottesville, VA",3000560584,forecaster25
+579,"Kearney, NE",613290724,InJesst
+580,"Newcastle Upon Tyne, England",797100813642596353,EZieD_
+585,"Dijon, France",710248662685851648,issa_madjid
+591,"Durham, England",584062133,RSanderson96
+595,Earth,752317697090723840,Kevin_B_Haynes
+604,Philadelphia,1266096171879206912,_helenschmidt_
+612,"Dresden, Germany",796244592458862592,Vanessa_hre
+614, ,2172857180,Topi_ve
+619, ,2832224120,Munigovguy
+621,France,1587393361979244544,Cartographe_
+625,Ireland,4471183876,Seaniesan
+630,"Amsterdam, The Netherlands",14143545,berttemme
+631, ,3164189091,Katy_miniwaves
+636,"Frankfurt am Main, Deutschland",833617709271285760,BKG_Bund
+643,Stevenage,92832101,ian_usher1985
+646, ,1721525712,matstvatt
+651,Hamburg,1306128447094259713,HH_Geo
+653,"Utrecht, the Netherlands",271326430,AvTetering
+655,Česká republika,3494716935,vlckel
+659,"Orléans - Loiret, France",2974366480,ArchivesOrleans
+664,"Abuja, Nigeria",4869757229,______SM____
+666,"Christchurch City, New Zealand",936728618,RGFell
+673,West Wales,84513014,Mapper101
+674,Saint-Mandé (France),57276576,IGNFrance
+675,Estonia,47698876,evelynuuemaa
+676, ,2816382393,Yasmine_Bouzid_
+680,"Newcastle Upon Tyne, England",1148686446536155137,JessWhoMaps
+682,Verneuil-sur-Avre,2500728854,cartolycee
+686,London,188784311,cdlseldon
+687,"Bushbuckridge, Mpumalanga",1092847472899174400,asiramalH
+690, ,1587580199889244162,unacast_ai
+697,"Paris, France",1889684803,Lea_Des
+701,"Wien, Österreich",818501173208580096,9bewild6
+702, ,935214845947011083,Sergio_RG_Geo
+704,Kraków,3001864091,SzwagrzykMarcin
+706,"Bandung, Indonesia",480498669,RPriyatikanto
+708,Vienna,573472167,ainvienna
+713,"Zurich, Switzerland",926373147254943744,simgraworldwide
+715,"Heidelberg, Germany",2952784447,GIScienceHD
+720,"Eugene, OR",1359974490411724801,ianfreeman0
+726,Ciudad de México,968471639347335169,toss_cas
+727, ,1421674519970918401,Fansbleu
+732,"Sunshine Coast, Queensland",752383581893251072,northroadgeo
+733,Department of Statistics MY,317666411,najmi_ariffin
+735,Guadalajara México,7630312,jdeltoro1973
+736,"Sydney, Australia",20883022,michaelbewley
+738,"Saskatchewan, Canada",1587993211649261569,Cartodonito
+739,Bangalore,2921433517,BhuvanamitraS
+742, ,1326401356324868101,platmosphere
+746,"Washington, DC",56612205,hannahdormido
+748,University of Guelph,828163334,mariotti_jane
+749,New Zealand,2606576396,Thoughtfulnz
+752,"Winnipeg, Manitoba",4252872793,CassClouston
+755, ,2582765530,178918103
+757,Cambodge,1336722353582125056,GeoMechain
+758, ,1446221797125500932,PortelliRaechel
+763,Boston,1201945107559276544,canigoholm
+767,Belarus,884974759,AntonGorankov
+768,"New York, NY",1376366322083229698,analytics_mk
+769, ,1532900384099799040,davidfn9501
+770,"Washington, DC",1224536012505919488,jmcdoeswell
+773,Connecticut,13218572,ryanoneil
+774,"Provo, UT",786949991893864448,alexlongtx
+776, ,1218141643636756482,aya_morenoo
+784,United Kingdom,2787878432,mildthing99
+786, ,1444021159708839944,janmoilanen_ek
+788, ,1419117337,estraaven
+789,"Moscow, Russia",1433392126629404676,katarinalysenko
+790,Berlin // Minneapolis,1588653769042104322,carston_maps
+792,"London, England",593966702,lukacsovics
+793,Europe,1130847282188963840,densudi
+794,"Bremen, Germany",1122957238438592513,Anoze4maps
+797,"Riga, Latvia",87239058,Valtzen
+798,Saint Petersburg,1587512273823752192,jullizzzz
+801, ,2213909976,VictimOfMaths
+804,"Ottawa, ON",910889225448439808,professorkao
+806, ,21695613,PekkaLooking
+807, ,1487158826029699076,MisFilip
+814, ,956913642607403008,mattamosphere
+819,"Glasgow, UK",1178360051049861122,neilbanas
+830,"Budapest, Hungary",49731238,attilabatorfy
+831, ,841465160187428866,fritzGIS
+836,Belém do Pará,176886400,tais_alcantara
+843,Hong Kong,985921631439568896,Kenneth_KHW
+849, ,1057231920990425088,SunitaP77841597
+851,Sverige,1062319532528881671,MEmsing
+868, ,1438102831,dhadelli
+869,"Tartu, Eesti ",739155214968717312,lizhvania
+872,⭐️⭐️⭐️🇱🇻 Latvia 🇱🇻⭐️⭐️⭐️,454372335,LArtour
+879, ,1218862550504345601,beyondwattsuk
+883, ,1355731192163819522,mapping_gnome
+884, ,2889262156,andygol_
+892, ,1087405402713743368,BCalhoon7
+899,"New Delhi, India",169793365,kumar_sanjeet22
+908, ,1568226976007077889,Map_invasion
+912,World,2529411246,GeoalertTeam
+925,Florida,379406678,tanya_shapiro
+933,"Bangalore, Karnataka",1279711922628124672,geosnips
+938, ,1324460652656812032,__UArt__
+949,Up North,36932521,rsfrankl
+951,Mare Lamentorum,147465553,akmalfrohman
+963,"Phoenix, AZ",276280627,pnelson917
+982,"Stuttgart, Germany",1421934178040483854,BoineeloMoyo
+999,"Bremen, Deutschland",91548216,Cordster76
+1015, ,494171107,RGuedonGH
+1018,"Bisley, Nr.Woking, Surrey",774517236862255104,theloosegoat
+1025,"Saint-Denis, La Réunion",715056173268000773,mirbole01
+1028,London via Edmonton & Calgary,900161125,acrobins
+1033,"Wellington, New Zealand",33788841,dakvid
+1034,Jeddah ,594978879,Nada_h12
+1035,"Lakewood, CO",1185432342858354690,CascadiaMac
+1045,"Munich, Germany",143859326,nellomaps
+1048, ,902708108,santizuluayal
+1053,"Sydney, Australia",67770217,flywunala
+1059,"Christchurch City, New Zealand",93839237,andrewdc_nz
+1072,🏔,18796019,camkruse
+1087, ,35560744,laurakurtzberg
+1089,Melbourne,27567802,SimonGIS
+1112, ,1521318841,angiopotomous
+1114,@martini@vis.social,14707170,MartinBangratz
+1124,"Ribeirão Preto, Brazil",912660712832557060,fblpalmeira
+1136, ,925570614,HeatherCh100
+1153,"Michigan, USA",931225337916153856,daturadelphina
+1157,"New York, NY",319679019,YoniNachmany
+1165,"Copenhagen, Denmark",1307770084333682689,_ane_rv
+1175,Oregon,998412541574365184,missmaps_
+1187,Southeastern MA,25813395,pivanputs
+1190,"Lagos, Nigeria",536148916,zeezo04
+1191,Spain,1297201168280674304,PClimatologia
+1192, ,1230824335,ASteingisser
+1251,Mexico,1061334050,lerii77
+1254, ,117610391,LauraSmithCarto
+1258,Belval Luxembourg,1076125157780058112,KonradSkoczyla1
+1265, ,910548093980102656,MakMaps
+1269,"Richland, WA",64099976,TC_Chakraborty
+1274,Poland,2902589494,mapsbyp
+1281,"el Poblenou, Barcelona",235702214,JoanSales
+1283,ضايع بين الخرايط,1292653511914786816,up_702
+1284,"Asheville, NC, USA",769611811641491456,EFisherWX
+1290,東京 品川区,967719352932843521,ShinagawaJP
+1291, ,1142428236221177857,mappy_ella
+1293, ,1228659691355590656,dusziv
+1294,"Turku, Suomi",3465812597,Lounaistieto
+1300,Bîlâd Shinqît,245309716,Bo_ocar
+1301,Pdsta. Fdo Gómez de la Cruz 61,846732445823258625,GIS4tech_UGR
+1306,"Pergamino, Argentina",808991136538890240,idepergamino
+1312,"Rennes, France",32283900,BorisMericskay
+1319,Paris,17964104,sabinerethore
+1327, ,130596773,gijn
+1341,Cornwall UK,328174631,KAnderson_RS
+1342,Oslo,31547881,TSThrondsen
+1352,ucd,1570024994981253122,LCAReframe
+1355,"Madrid, Spain",193908521,IGNSpain
+1363, ,1400314245775036419,WeatherLayers
+1371,"Zaragoza, Aragón, España",424142578,IGEAR_Aragon
+1387,"Fort Collins, CO",2294921384,hethbill
+1388,"Brasília, Brasil",1589717351934599171,duda_geosig
+1391,AA,1579421634871857153,JexAtreides
+1396,El Salvador,1410690928210235396,sig_uca
+1404,Occupied Ute Land,84077970,carrieis
+1406,"Worcester, MA",1590859659044438016,jfrankelGIS
+1407, ,964530657899827200,_motiss
+1429,Scotland,1022172029817171971,Geolocoder
+1431,"New York, NY",1255361139476742145,FSQStudio
+1434,"Silver Spring, MD",521851227,ETTS_12
+1437,Earth,1103150306152587264,Zuev34W
+1440, ,101062805,sunnysideclaire
+1443,"Nottingham, England",1051952093819543554,oabaines
+1446,"Praha, Česká republika",1105920540932493312,JuliaLeshcheno
+1450,"Little Rock, AR",153144751,chalaoliverio
+1462,Bordeaux,2849821618,Doroth_Cle
+1470,Le Mans,252009888,odilon72
+1479,World,1227968969090355201,geopoliticsnew3
+1483,"Minnesota, USA",929098728782385155,McGuire_GIS
+1487,"Detroit, Michigan",2325527617,mamcbain
+1489,Barcelona | London | Alacant,152698624,ja_gras
+1493,"-37.6303, 176.1720",2849434532,vanuatugis
+1497,"The Hague, The Netherlands",558769093,AlieKebin
+1501, ,1589629881381519364,ChallengerMap
+1504, ,3270581047,AnalisisGeo
+1513,"Doylestown, PA",20216394,MRubillo
+1533,"Syracuse, NY",1527358392737550344,lucaskjohnson03
+1537,"Copenhagen, Denmark",37453678,neogeografen
+1539,"Zapopan, México",97729765,cruizch
+1546,"Sheffield, UK",398915413,DanOlner
+1549,Ciudad de México,1154257288158298112,geoscentricos
+1552,Châteauroux-les-Alpes 05,751148918,lecartographe
+1556,"London, England.",910423895320223744,BookwiseOwl
+1567, ,1151638955613446146,JoseZavala2998
+1571,Indonesia,81103832,latifiana
+1578, ,714857534255931392,vidokti
+1579,"Copenhagen, Denmark",1348957209292664832,marinageorgati
+1588,"Espoo, Suomi",3720386117,TeemuSaloriutta
+1606,"Lancaster, Lancashire, UK",71381847,PhotoInsomniac
+1620,"Oxford, UK",1103937617819664385,chrisarderne
+1624,"Newcastle Upon Tyne, England",863722747,TimRodaway
+1629, ,1237751233039020032,IngeTolenaars
+1630, ,3501358169,Victor_Celoni
+1643,she/her,1229716017049370625,juliagdealedo
+1648,"Calais, France",577363985,Tabularthur
+1649,"Tokyo, Japan",1171534824558850049,mapbox_jp
+1656,"Madrid, Comunidad de Madrid",121572923,dhernangomez
+1662, ,3159366908,ArmandoForlani
+1667,Algérie,1488484612015853573,SIchebilia
+1688,"Edinburgh, Scotland",3165261455,NNosenko
+1691,"Milan, Lombardy",1401802995726270465,DomeGIS
+1693,Singapore,1143915745614581760,urbanalyticslab
+1727,Israel,1174353681946484739,bogind2
+1735,"Rehovot, Israel",2167201254,Amit_Levinson
+1741, ,225175389,HoneyBadger88
+1760,México,230955495,EnriquePablito
+1766,"Sydney, New South Wales",611541952,kmvadlamudi
+1778,RV Nomad,1264638613,surfertp
+1785,"Olympia, WA",869709367737634816,geo_coe
+1800,México,799775490,AHerodoto
+1806,"Dar es Salaam, Tanzania",1447856133050454018,MoisoDenis
+1808,"Zürich, Switzerland",18059675,vasile23
+1829, ,4927644299,regardsroute
+1861,"Lviv, Ukraine",2787433999,RomanSverdan
+1867,Germany,1380461378482356231,aopinillap
+1881,somehow DE • sometimes ES & AT,39204419,pascal_n
+1905, ,46981809,nicoroud
+1914,"Oporto, Portugal",1930391,egorka
+1915,Iraq,1213562073608638465,0gTl94V44ur6iS6
+1926,Zimbabwe,943666621,SimbaPasi
+1962, ,1423495700910850053,fgscompany_inc
+2014,Sydney or Tokyo,14851579,_kyliejane
+2046,"Wellington, New Zealand",1310659130290388992,MapHustle
+2080,Hamburg,317158835,terezaif
+2174,Barcelona,308931672,jemoraz
+2183,https://mapstodon.space/@mapsm,17174685,gmapsmania
+2199, ,566341543,fiftylemons
+2204,"Bologna, Emilia Romagna",959075525405827077,_federicocaruso
+2237,Peru,1486533386663567362,Shuensleos
+2247,"Forest Acres, SC",1333582327843328001,florageography
+2258,"New York, New York",1479445509182005250,Mia_Szarvas
+2263,UP Diliman,1368616698308304898,ayingdome
+2274, ,1489739093869215746,SchendlAndrew
+2299,"Cracow, Poland",75868477,egrabska
+2302,"Paris, France & Taipei, Taiwan",2783002106,jhjanicki
+2325, ,791292018,BrittLonneville
+2332, ,2999881242,chs_silverdofe
+2363,@vedransekara@mastodon.social,809417156,vedransekara
+2382,Baggotonia,37703336,fergf
+2383, ,1514971499773394950,glo9062
+2391,Switzerland,274556371,JeanLucJucker
+2400,"Milano, Lombardia",1577349561324126223,dr_tabuldina
+2407,"Connecticut, USA",14251111,RonaldBradford
+2409,UK,190644064,bcsmaps
+2418,"Lille, France",1145709916201594880,dy_moinse
+2425,Tokyo,1567478969162956801,MitsuhaMiyake
+2433,Tokyo,1056888822942711808,mmits003
+2443,"Copenhagen, Denmark",217771939,mszll
+2482,Honduras,274856177,NheringLobo
+2485, ,1552792955353993217,GIS_M0_hesham
+2496,"Paris, France",978288308,JdSalachas
+2508, ,4918282330,gamedinafrias
+2520,"Savoie, Rhône-Alpes, France ",55806225,Jerome_Herbinet
+2572,"Philadelphia, PA",1425658640552415232,mapping_monroe
+2574,"lexington, ky ",1330301732560244739,NateSuggestions
+2584,Bristol,230584797,PvtJoeker
+2596, ,476373448,LebensDorn
+2597,"Edinburgh, Scotland",1282345004988616705,fmacfarlane95
+2605,Natal,285234362,FelipeFMonteiro
+2611, ,729193748622495744,yiningw
+2615,"Essex, UK",374050878,Oshodi_OS
+2621, ,1459157845618962432,getlayerxyz
+2627, ,820549719172718592,LuisNMonteiro
+2630,Shropshire,1328992953080147968,Dav1dM0rgan
+2635,"Novi Sad, Republic of Serbia",1372262673409261568,danilo_str
+2648,"Tartu 🇪🇪, Helsinki 🇫🇮",920184584846835712,janika_raun
+2651,"Ribes, Penedès",66191887,albertgui
+2653,"Barcelona, Spain",139655651,Heliouz__
+2659,Auckland,800447204020219904,Kim_Fitter
+2663, ,799639944671219712,TeodoroJMartne1
+2667,Belgium,251499060,mestachs
+2668,"Lisbon, Portugal",908802680,mmmgeo
+2670,"San Francisco, CA",1410763395670757379,CivilGrid
+2676, ,2234521105,Cheyrlotte
+2680,"El Salto, Jalisco",1047506642537992194,vestefaniav
+2688,Paris,178739367,mariejulien
+2689,"Cardiff, Wales",2462278352,agcwatkins
+2690, ,1277577608239210503,datenschatz
+2694, ,183765289,chochoamargo
+2695, ,1169593324346499073,seer_goncalves
+2696,Freiburg im Breisgau,1307060010669793280,shinysci
+2699,Earth,241079136,CARTO
+2703,Czech Republic,1375550164555948033,petrpajdla
+2708,Arona | Milano,148715617,fede_gaspari
+2710,"Firenze, Italia ",206780707,TaylorAKHiggins
+2714,"Rome, Italy",1027935482,mmodima
+2728, ,1598806436,Christopher_Wi
+2730,Kassel,1908863924,thatMIKAtho
+2738,"Salamanca, Spain",1586885128332132353,Li_Kaicheng_
+2740,India,259684355,s_shashank_s
+2750,"Bundesplatz 3, 3003 Bern",138083232,swiss_geoportal
+2754,"Dublin, Ireland",21193285,ManAboutCouch
+2756, ,1575476617488367618,lucas_garcia_93
+2764, ,703164709,BarrouZakaria
+2766, ,3121472727,LM_enCartes
+2768,Not where I was yesterday,39361135,ianthetechie
+2778,France,442982795,odile_p
+2788,"Burlington, VT",5845962,mberg
+2813,Berlin,4200489867,targomo
+2820,🇧🇪  🇪🇺  🇮🇨,41654209,CharlesTroupin
+2827,"Tenterden, England",187940439,apogeedata
+2829, ,91818265,yannickbrouwer
+2831, ,2254882206,krejsab
+2836,"Rio de Janeiro, Brasil",3423112445,hec_vini
+2837,Mexico DF,28714934,aloCrts
+2840,"Morganza, MD",12405802,billdollins
+2843,"Los Angeles, CA",1018515783545180161,BaoqiEileenChen
+2846,"Jerusalem, Israel",2227560465,idoklein1
+2849, ,2161488692,sumie_dh
+2852,"Haderslev, Denmark",2526461,PHorsbollMoller
+2854,"Frisco, TX",1351652072446435335,whiteowled
+2856,"College Station, TX",108660744,Stata
+2859, ,801318008912232449,nwbort
+2863, ,840899540,josuemtzmo
+2873, ,1276638203278065664,akmalhzn
+2874,Netherlands,1196527997613940736,MRuehringer
+2879,Germany,21383286,meinuelzen
+2881, ,1384764591305936898,ChenSustech
+2886,India,812179912379408384,techforwildlife
+2900,"Gurugram, India",1230201709357621255,Heliware2
+2902,"Birmingham, England",715437344858443776,geogologue
+2912, ,129267375,nicolas_szende
+2913, ,1257428219378241539,HugoLucasBLN
+2921,Northern England,1506611553159811077,RavenberWay
+2926,"Melbourne, AU",2905624932,darwinanddavis
+2927,Exeter,1301214030,DamienMansell
+2948,"Wien, Österreich",117451592,waquner
+2949,Nødebo,509794262,Lene_Fischer
+2958,Kenya,1425835867147444232,MapInfographics
+2960, ,1501688039722164227,AntoniaPopes
+2961,Sydney,83515599,stephenlead
+2976, ,708797550887763968,becky_pep
+2977,"Orléans, France",2338985717,u4y0u
+2992, ,1013303381899784192,LenaSeternes
+3003,Pune,1541369131005771776,OlaPune
+3004,Montpellier,331925772,mv_evans
+3008, ,1330968885609246720,IndusRethinking
+3013,"Portland, OR",1424758164373737478,ODDprofessional
+3014,"Washington, DC / York",4003306397,jonni_walker
+3016,"Bedford, England",3445229115,Silver7Mapping
+3029,Sus la Talvera,1211687601117118464,L64806711
+3032, ,1587690478539087873,chart_n_graphs
+3035,"San Francisco, CA",22112910,Manassra
+3036, ,278993722,TT_Infographics
+3039,"Sinixt territory, BC",735851613965811712,feefifo_hannah
+3045, ,911371691808366592,emmaterrestre
+3046,Oakland CA,93046641,michalmigurski
+3047,"Richmond, VA",272230279,natdink
+3052,Alpha Quadrant,727701114,LaurenStacho
+3060,"Richmond, VA ",18512960,latoyasgray
+3063,Remote,269308570,JkariukiDev
+3064,"Sydney, Australia",177660019,mukesh_ray
+3068,"South Carolina, USA",17435433,CharlesRobbins
+3073, ,14828675,rdhardy13
+3074,E_Town,1249846131040845830,lawrence_kim_
+3079,"Chicago, IL",805473822,dchalpern
+3086,"Porto Alegre, Brasil",1579995612321402889,larissascury
+3093,"Denver, CO",22531147,ryguy8021
+3098,"Richmond, VA",2236680859,rileydchampine
+3178, ,706138485,BacktoPaco
+3205, ,1082711230459060224,maptheclouds
+3211,"Kerala, India",1413048046099697668,PrigithJ
+3220,"Sydney, Australia",35524425,saurabhdhiman
+3225,"San Francisco, CA",265817210,ToddMostak
+3226,"-70.935735, 43.135007",1129025867924037633,nhgranit
+3236,"Mullingar, via Clonakilty",37999792,ger_the_sea
+3252,"Barcelona, Spain",5762562,achillida
+3254, ,1345027917902999552,SarahRobinDan
+3256,"Wisconsin, USA",44530833,andrewrfrench
+3289,Oslo,1093576729376051200,simonoxholmroy
+3310,France,140836431,CITYAimmobilier
+3317,"Emeryville, CA",118388768,AnthonyL_DAgost
+3329, ,3016428829,asmita_deep
+3332, ,264760310,fi_hardie
+3339,Ireland,299559781,neilcfd1
+3347,"Berlin, Germany",17970626,Lucas_Berlin
+3350, ,1590595449769050112,feishuoshu
+3354, ,6338922,alexsingleton
+3371,"Paris, France",38395124,franceinfo
+3406,"Fort Bend County, TX",1302149510798422017,paddyvjpeg
+3424, ,976463268675022848,KevinBurkman
+3432,"Davis, CA",1523747005,MicheleTobias
+3434,Versailles ,1026155967480844291,AlandcoC
+3438, ,600716854,georgekontsevik
+3460,"Reynoldsburg, OH",1387404025591705602,KellenHodak
+3478,"Auch, Gers",1477120246112735237,LilGirlBlueugz
+3492,دولة الكويت,4229346580,gisertweets
+3517, ,892041088852217858,PicardFloriane
+3527, ,263668487,cle_ine
+3536,"Istanbul, Turkey",47894312,oyasan
+3537,Worthing,140608538,sambaars
+3566,Germany,2364130388,driftnoise
+3567,Northern Ireland,3308382005,GeoConor
+3573,"Scotland, United Kingdom",996835888813494272,cj_maps
+3574,"Baltimore, MD",1255336608292909059,aliciacsabatino
+3580,"Vienna, Austria",124852105,AsjadNaqvi
+3588,"Savoie, Rhône-Alpes",453551429,julien_artist
+3619, ,3422450352,mia_fanmy
+3639,Strasbourg,162511453,Geok120
+3645, ,749153374919155712,abigail2154
+3649,Dans la salle de veille,1382368520516816900,Gardien2Phare
+3677,"Medellín, Colombia",1097871559673462786,GeolabUdea
+3684,"Redlands, CA",2992800331,ArcGISApps
+3686,"Lake Placid, FL",4895763947,AngelineMeeks
+3705,Oslo,277561218,SturleKrapyl
+3725, ,1241476312222642179,NearandDistant
+3726,"Kaduna, Nigeria",1215627548517916673,IsahAbdullaahi
+3732,"Philadelphia, PA",2911550919,PhilPierdo
+3748, ,1057228876168994816,808Computing
+3775,"Enschede, Nederland",383360268,Cygnus26
+3780,Italia,387562177,totofiandaca
+3790, ,821710176726241280,Re_Mi_La
+3835,"Bari, Foggia, Troia",2555652062,rodolforoseto
+3844,Austin,446750101,ednardzcal
+3847,"Leeds, UK",300404558,davidmckee0
+3851,"Nairobi, Kenya",1038748169641840640,_francisodero_
+3852,"München, Bayern",1495409664221233155,citiesbybike
+3884,"Wales, United Kingdom",3053020672,skipper_is
+3890,"Philadelphia,PA",333524694,CRVanPollard
+3893,Europe,841213731510071296,EdjNet
+3902,Chennai/ Khammam,1176736784660590592,chsai0009
+3924,Lorient / An Oriant,117916930,GaelBriand
+3926,Coyoacán,128674381,CMMontero_
+3930,"London, UK",1322134106,Podaris
+3952, ,6940762,elipousson
+3958,Nepal,369690311,402MW
+3962,Lyon,14697622,pierre_obrecht
+3968,"Austin, TX",1575908121716875264,CoyoteCarto
+3974,"Vienna, Austria",1568147015963402240,photo_TUW
+3976,"Edge of New Forest, UK",3994467513,GeogDave
+3980,"Maryland, USA",296798368,mapgirl18
+3993,"Turku, Suomi",3552542476,SannaJokela1
+4006,"London, England",219609015,urban_planning
+4013,"Worcester, Massachusetts, USA",1146772513051041792,EbingerSamara
+4015, ,1638098845,MANU_ANTONAKIS
+4051,"Manchester, England",153718180,CraigTaylorViz
+4058, ,1091743283007668224,seunmolz
+4077, ,1176484906903506944,cnscartography
+4103, ,3314746668,marcollergarcia
+4113,"colonized Piscataway land, MD ",1328467646,j_masselink
+4129,"Berkeley, CA",916056524442570752,parker_ziegler
+4135, ,1039113909494538246,azzhou1
+4145,"San Diego, CA",75958267,karmn_line
+4148,Pedro Vicente Maldonado,344203746,adrian_gis593
+4150,"Morgantown, WV",832517495827243008,Stella_Wava
+4161,"Guadalajara, México.",379176102,daniel_isita
+4162, ,3013019847,Amcg_ridesbikes
+4187,Sri Lanka,711568886580129792,TNipunajith
+4189,"Nottingham, England",929010879693230081,UonDigiResearch
+4192,New York,889493055782387712,timebankk
+4200,"Berlin, Germany",500573974,Datawrapper
+4212,France,1639563464,semae_officiel
+4214,France,2248691336,CetArtMoyen
+4217,"Madison, Wisconsin",1583269421891477504,GISphereGuide
+4258, ,1586633779682197505,user4467_
+4263,London,1513212081448882180,morandehr
+4267,Nouvelle-Aquitaine,1576217564685942785,Ezaan84300488
+4313,Taipei,1133300048500944897,KKKKK70109928
+4316,California,1598752860,NathanCShephard
+4323, ,1333548250364862465,qgisecuador
+4344,Helsinki,957668860722929664,sakkesarjakoski
+4358,USA,1583174651404259331,DR20102010
+4359, ,1500836663186100238,Tendo3Winnie
+4368,"Hamburg, Germany",1710706561,cartocalypse
+4416,Le Mans,1511971504434647040,JMi_Follin
+4419, ,313729518,ImKundanKrishna
+4431,"New York, USA",24275407,Fuertebrazos
+4444,"San Francisco, CA",68567752,odbol
+4451,"Vilnius, Lithuania",3401109154,DonatasBruzas
+4464,"Edinburgh, Scotland",283445478,philbartie
+4467,"Kent, OH",2437301569,MapesGeog
+4478,"Kempten & München, Germany",907957648712257537,Jopasstscho
+4503,"Nairobi, Kenya",840231706091245568,omegafredric
+4520,"Neuchâtel, Suisse",3246167362,MathieuAvanzi
+4531, ,2973661829,dodriscoll77
+4551, ,1331897860019818498,arnalielsewhere
+4562,Victoria BC,17739338,simonnorris
+4570,Kingdom of Pinus Insularis ,2184494542,mcneilamandy
+4615, ,41500240,yunjinzh
+4619,"Newcastle Upon Tyne, England",910909068,jmilne_
+4621,Worldwide,2916925965,OpenHistMap
+4636,Europe,956484807969648641,pleiszenburg
+4642,Val Marie / Treaty 4,851149914725916672,ksituan
+4650, ,1390570979907104768,lucymakesmaps
+4658, ,196313535,amanfromuncle
+4660, ,1439277897072664584,SebHanika
+4662,"Munich, Germany",4803263322,liunianhua
+4665,Calgary Alberta Canada,97022694,jon_neufeld
+4677,England,57771100,sophwats
+4682,"Tbilisi, Georgia",925644480614666240,aslvova
+4685,strasbourg • 18y,1165352020448034818,mosellanleftist
+4689, ,257404537,DeadInLongRun
+4708,Bogor,1188125656200007686,datoel_toel
+4709,"Berkshire, UK",351638831,ScientistSoph
+4710, ,1254148861796417536,mrt_donmez
+4713,IIT Roorkee,1308037272,Dixit13K
+4714,Northern Ireland,160276179,lcgeography
+4720,Moscow,3107510908,RilosRu
+4726,"Dublin City, Ireland",2517809380,im_coasts
+4727,heaven w tran,3983067388,CourtkneeKP
+4728,"St. Gallen, CH",16740363,lseelenbinder
+4732, ,2860575512,mapbosse
+4737,Ealing,14178252,milh0use
+4738, ,1496580271331758089,MWidengard
+4745,Euskal Herria,19770809,theklaneh
+4747, ,1584657374496817154,Nome828805451
+4748,France,1446832727660052488,raymoaisla_map
+4749,London,797269102385500160,LaksonoDany
+4759,"Caen, France",298461309,UnMilitant
+4762,Moscow,1425462337926991874,olgommershtadt
+4767,"Charleston, SC",1047314175364620288,the_casserole
+4780,"athens, greece",262612993,EleniTomai
+4799, ,1230111870633365509,TripplesGame
+4802,Paris and Berlin,46200238,_Blef
+4817,"Guildford, England",1927775000,BisianiSimona
+4836,Everywhere,1250599573,URISAVC
+4838, ,2170595582,ngrhngrh
+4844,"Delft, Nederland",1311905835577212928,GISOCW
+4846,Philippines,1179527994483720192,BNHRdotXYZ
+4853,"42.500464,2.167742",13864582,JBingold
+4861,Marseille,108928400,mapperfr
+4862,"Wageningen, Nederland",713182297592348672,_sam_agy
+4864,"Savannah, GA",872875372051824641,GeothinQ
+4865,"Helsinki, Finland",38129790,StepanKuzmin
+4866,"The Bahamas/ Cambridge, UK",1455635857,LindyClyde
+4867,浜松市,3396828013,hiroishi0422
+4876, ,55236002,Mapbox
+4877,"Nairobi, Kenya 🇰🇪",371227452,akhmedark
+4884,"Nairobi, Kenya",964974181493428224,Godwin_Murithi
+4889, ,1449404853634035718,wong_shihan
+4895, ,489336618,tsubasan_m
+4897,"Washington, DC",20483872,ADrauglis
+4908,"Maastricht, The Netherlands",47077289,stratopo
+4911, ,730683116893941761,Atlas_of_Change
+4934,"Exeter, England",56648781,Thierry_G
+4940,UK,1040681751859916802,eyes_roger
+4961,"Northern Territory, Australia",1319832619052249089,CSVerdel
+4966,"Warszawa, Polska",1055531820257820673,PaneckiTomasz
+4968,"Marseille, France",2604919633,JohannProd
+4969,"North Wales, United Kingdom",14442542,robhawkes
+4973,東京都中野区東中野4-2-3,1451340075548119041,ttc_dsai
+4974,Senegal,922845064707047425,Lord_Salomon
+4976,"Inverclyde, Scotland",29963497,nicci_potts
+5023, ,2149588681,Pow__C
+5029,Global,453028244,lutraconsulting
+5052,"Vienna, Austria",1247748376986148864,maniconaji94
+5063,Aotearoa New Zealand,1851147889,iamSimon_A
+5067,Manaus,2293200506,_eduardosimoesr
+5077,Georgetown Ontario ,1291394875,MeghanMvandoorn
+5116,"Vienna, Austria",311043334,underdarkGIS
+5128,Toronto,1391955894,AngeAlexander88
+5129,Tartu,1455960818722525186,RalGarcaEstvez1
+5135,"New Brunswick, NJ",76149539,entchev
+5144,"37°48'26.9""N 122°16'03.2""W",12022052,felt
+5176,"Québec, Canada",774998477759778816,dataparkblog
+5188,"Glasgow, UK",142026857,raffverduzco
+5193,"London, England",826131117417910272,marcreid
+5231,Aberdeen,511040524,raveydave76
+5245, ,1376982118237093888,spatialKray
+5280,Singapore,2894442717,fbiljecki
+5289,"Washington, DC",14913762,hurricanevicky
+5320, ,2495816629,koos28east
+5342,"Tokyo-to, Japan",1172474377876586496,KoichiIto12
+5346,Switzerland,1278752245,seb_bujard
+5349,"Madison, WI",19623605,HaraldKliems
+5366,"Florida, USA",46352513,javedali99
+5369,"Albuquerque, NM",1003338634026553345,DomRiccobene
+5379,"Anchorage, AK",29306162,benmatheson
+5385,variable ,1465157221,laurentgontier
+5387,Cartagena de Levante,1954727131,IlustresMarinos
+5394, ,1119575517949243392,Fijnweer
+5405,"Lahore, Pakistan",3107281231,SulemanBader
+5427,London,252519639,oliver_dw
+5436, ,18133389,hrykyn
+5452,"Park City, UT",7735882,MaxellXLII
+5467, ,3418339671,i_ameztoy
+5482,TANZANIA,3041080523,ShabaniMagawila
+5504, ,1957533698,maggiedoan
+5513, ,1455949958893367296,echarty_R
+5523,"Bangalore, India",1391671991946469378,geoiq_ai
+5557, ,1597064162005458944,chislett2480
+5575,Bagnolet (93),1487119777151832064,paul_rogy
+5582, ,1225563644,denisechc
+5583,"Seattle, WA",1393367058,WilliWandurraga
+5593,Paris,793923476994359296,BooneLovesVideo
+5719,"Hamburg, Deutschland",3696207497,dgfk_net
+5821,Freiburg im Breisgau,975473648,Reyfenberg
+5846,United Kingdom,1110271474944872450,SuglaniNaresh
+5855,"Rennes, France",1055434618365767680,AKatossky
+5873, ,1548258992580730880,interactmaps
+5885,"Brentford, West London",1204531617412329472,Olsights
+5925, ,154138815,janfygautier
+5943, ,1593779145066139656,markwduchene
+5950, ,1443648031014916101,Massimo_So
+5954,"Austin, TX",1278340072689958913,CartoDBS
+5969,San Francisco via New England,12329722,yuletide
+6014,"San Francisco, CA",97487404,greeninfo
+6030, ,891324146,j_p_schroeder
+6040,London,22780696,jim_mac
+6043,Paris,2367649759,Gaelle_Sutton
+6046,المملكة العربية السعودية,1579167546284064768,BadriaAlharbi_
+6076,"Vernon, BC, Canada",21869817,MapsRus
+6080,Kuwait,346293886,TalalGeo
+6114,Stadtrand vom Reichshauptslum,834016754884026368,BasiIg
+6149,"Espoo, Suomi",1105125638548135936,kovalainenaa
+6159,"Sunyani, Ghana",2788193464,Rich_celda
+6166, ,1225162671491821568,GeospatialJess
+6231, ,576565401,chocolatte55
+6236,"Nashville, TN",1414590717926707200,LittleMissEsri
+6243, ,4273148897,cmhc23
+6247,"Redlands, CA",2848004869,Geolographer
+6252,"Salt Lake City, Utah",1422637537881821185,TrvrFrnch
+6271,"Burlington, Ontario",155631208,kylejhutton
+6283,"Paris, France",2758549970,Ricccarto
+6329,"Chía, Cundinamarca",1507975706227232769,SR433_20
+6363,"Nantes, France",2911192966,compas_infos
+6372,"Sejong, Republic of Korea",48979874,endofcap
+6384,Japan,2428699477,eatora22
+6404,Sweden,1143779197107806208,JonasNelson19
+6408,Australia,1276751130714714112,AeCartographer
+6462,Seattle,727087799304884225,rosewhite97
+6465,Toronto,1286366394,theraushanb
+6493, ,2751438647,kailyn_decker
+6496,"Waterloo, Ontario",292971407,mappedin
+6510, ,1328063696409665541,BottonHugo
+6517,Z-City Ghost Town,15741656,SketchpunkLabs
+6549, ,1136019183144177665,DBahlburg
+6611,People's Republic of China,1108923125272461318,Zonghe_Elio
+6621,Mastodon,18855622,ZorzalErrante
+6624,"Berlin, Germany",4341043642,MykolaKozyr
+6638,"Bretagne, Europe",3102473860,NhuBretagne
+6646,"Norfolk, UK",19870047,CarolineHack
+6654,Leamington Spa,2809999793,owenjpowell
+6667,Cyprus,1142675501263314944,_mariosmsk_
+6814,Vrindavan/Rapti ,1410194638963572739,Gorak_sh
+6826,México,175638508,jocantudev
+6858, ,1263997606759403520,S_Estremo
+6868, ,884817206,Hathibel
+6889, ,62318613,maro55
+6924, ,381890273,sixtocristiani
+6953,"Tampere, Finland",1878525498,JaakkolaLari
+6977, ,554245448,UtagawaVTT
+7009, ,2784176640,jarrin_v
+7034, ,1057686396910002176,shademap
+7139,"N Côte-d'Or, Bourgogne, France",4121790137,mathieuchartie2
+7195,Massachusetts,17448055,awoodruff
+7218, ,12994062,eeholm
+7230,  Oklahoma City Convention Ctr,273219728,gis_t_symposium
+7354,"Girona, Catalunya. Espanya",240203756,SIGTE_UdG
+7372,Gauja National Park,1056624482566266880,57x025
+7380,"Northern, VA",773177078543941632,prncevincecares
+7392,"Ici, là-bas, ailleurs 🌍",480988288,CEbenya
+7409,New Zealand,3005542459,geotologist
+7463,"Leeds, England",1059004055878598656,AlexFoyn
+7473, ,125144858,LauraCervanttes
+7589,UK,120816884,rgiordano79
+7608, ,1508423727628881925,Geotales_io
+7625, ,976483022345330689,JveuxDuSoleilFR
+7638,Worldwide 🌍,46369870,MapTiler
+7651,Global,1287782419542814720,Scienc4Society
+7663, ,1131474811,cartefrancaise
+7669,"Perugia, Umbria",715119177246359552,GisAction
+7673,"GT, OWL, NRW, GER, EU, Earth",913117667724337153,fl0h0ff
+7720,Lille,180406950,_daffyduke_
+7785, ,1158272334,anders_elias
+7791,"Brentford, West London",27022649,tonegriff
+7843, ,2637538092,sapine62
+7854,"Newcastle, AUS / Awabakal Land",172323510,atstyan
+7865,Paris,16981026,JournalDuGeek
+7894,"İstanbul, Türkiye",1313061443261149185,gijnTurkish
+7956, ,1224363840642732032,andino_amb
+7972,"Paris, France",1587533628627632132,Mikayil_T
+7973, ,1004100951039283200,earthrisemedia
+7976,"Москва, Россия",941640901146894338,art_archibasov
+8059,Международный центр,785804236655251457,gijnRu
+8074,"Delft, Netherlands",2601338280,UNIGRAC
+8096, ,518294982,tcburakturhan
+8128,N06.36593° E007.53170°,263553241,vetsolo28
+8140,"Sydney, New South Wales",1529709999551029248,thisdaz
+8151,United States of America,1393290762033500166,JustElexMaps
+8159,"Washington, D.C.",3384952253,roblipinski
+8160,Along the waterfronts of NYC,307597573,RunEveryStreet
+8171, ,1542572033543766016,brueggeman_leah
+8185,"England, United Kingdom",234829803,geogale
+8229,Gatineau,1297465652547137543,stepminer2
+8300,"San Francisco, CA",977070436163858432,SeadogAI
+8309,on a train,42977249,AlexisLitvine
+8367,"Paris, France",158407263,tykayn
+8399,Somewhere behind you ,1291030480062681088,Huygens_OH
+8426,"Brisbane, Australia",25722912,peterakarelt
+8436,MA / Suconet (Wampanoag) Land,822048926081712128,Cchurchili

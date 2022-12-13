@@ -1,0 +1,739 @@
+tweet_id,text,author_id,created_at,media_id,media_type,media_url,lang,retweet_count,reply_count,like_count,quote_count,source,user_name,user_username,user_bio,user_verified,user_location,user_image,user_followers_count,user_following_count,user_listed_count,user_tweet_count
+1594842757981671424,"Day 22 of #30DayMapChallenge: NULL
+
+One of my pet peeves is the lack of downloadable postcodes boundaries in NZ. It's a fundamental part of our addressing system, and yet there's nothing official out there!
+
+@nzpost, could we have this for a Christmas present? Pretty please? https://t.co/Yn7Sr5e7r5",1456144370126647298,2022-11-21 23:58:38+00:00,3_1594842196716711936,photo,https://pbs.twimg.com/media/FiIEhzAacAAZR06.jpg,en,1,5,19,0,Twitter Web App,Sam Keast,SouthCrossMaps,I'm just here for the maps,False, ,https://pbs.twimg.com/profile_images/1456144586393358338/LAAmcHFh_normal.jpg,41,22,2,36
+1594837591232319491,"#30DayMapChallenge Kontour (@konturinc) data
+
+Comparaison Kontour vs Données Insee (carreaux)
+
+Something strange with Kontour data as the population seems off (more than 1m) even if proportion when compared with Insee looks ""okay"".
+
+https://t.co/dZh7Hu9ppq https://t.co/HIN6jUe8qn https://t.co/ZF414KU2am",2858890877,2022-11-21 23:38:07+00:00,3_1594837502778540032,photo,https://pbs.twimg.com/media/FiIAQkuWAAAvAhV.jpg,en,1,1,4,1,Twitter Web App,Guillem Lefait,guillem_lefait,"Eating data. CDO @_tvty. prev @holimetrix. Full remote #martinique. Hacker In Progress. 
+@guillem_lefait@infosec.exchange",False,Martinique,https://pbs.twimg.com/profile_images/1034216740702453761/0VxodAPp_normal.jpg,179,216,37,2381
+1594837111173169153,"#30DayMapChallenge Day 21 “Kontur population data”
+
+Kontur population data for Senegal.
+
+Is there such a thing as too much glassy label? https://t.co/NFTehzPhUm",1177927694547406848,2022-11-21 23:36:12+00:00,3_1594837103250120704,photo,https://pbs.twimg.com/media/FiH_5UXWIAAdaPT.jpg,en,1,0,12,0,Twitter for iPhone,Thomas,coughlinmaps,@Esri @ArcGISApps | Maps every so often | @UMassEco | He/Him,False,"Boston, MA",https://pbs.twimg.com/profile_images/1588617901526900738/3LEqzEHf_normal.jpg,68,226,2,49
+1594836937898180608,"🗺️ #30DayMapChallenge Day 21 - Kontur Population Dataset 🗺️
+
+A population map of my hometown. Larger, brighter circles represent more people. Ran out of time to add a nice legend...hopefully it's still readable.
+
+#dataviz #RStats https://t.co/NQMWD8gdN8",2366590092,2022-11-21 23:35:31+00:00,3_1594836927592767491,photo,https://pbs.twimg.com/media/FiH_vF_XoAMuUC9.jpg,en,3,0,12,0,Twitter Web App,Liam Bailey,ldbailey255,Post-doc working in climate change ecology and individual based modelling. R nerd and general nerd. Views are my own.,False,"Berlin, Germany",https://pbs.twimg.com/profile_images/1365003292925976576/S0pT8lZ4_normal.jpg,744,426,14,1178
+1594832747855777793,"#30DayMapChallenge Day 21: @KonturInc  dataset! Very cool dataset, but I will say it was hard to find the country downloads. I decided to go with a simple Tasmanian pop. distribution. I can't wait to work with this data more in the future! https://t.co/fAk2aS2iym",1563241987457052672,2022-11-21 23:18:52+00:00,3_1594832323207467011,photo,https://pbs.twimg.com/media/FiH7jFUXkAMLNyC.jpg,en,0,0,3,1,Twitter Web App,Peter Lillie,PeterLillieGeo,"Trail Runner , Aspiring Cat 5 , Mapmaker , Programmer",False,"Leominster, MA",https://pbs.twimg.com/profile_images/1563242185449164801/dRjjgHLP_normal.jpg,12,102,1,91
+1594832661327085568,day 16 minimal ratio of cows to people in Ohio - data from https://t.co/bhqKF0zDnn #30DayMapChallenge https://t.co/Q9ql0sHgMW,132383482,2022-11-21 23:18:31+00:00,3_1594832523103698947,photo,https://pbs.twimg.com/media/FiH7ut_WAAM4-Aw.png,en,1,1,5,0,Twitter Web App,Malcolm,getbounds,🗺️ 'The end of the world is already here — it is just unevenly distributed.' 👨‍💻 Software developer with a focus on geospatial and building in the open.,False,Ohio,https://pbs.twimg.com/profile_images/1600577182690066445/2GM5nGeO_normal.jpg,345,660,22,1127
+1594828001140621313,"#30DayMapChallenge 
+Día 21: Te mostramos la distribución de la población en el #AMG conforme a la cuadrícula de población hexagonal global de 400 metros de la base de datos Kontur. Conócela  aquí 👉https://t.co/bdVkstIfre. https://t.co/6hjmqHKsmJ",2239825712,2022-11-21 23:00:00+00:00,3_1593730947354169350,photo,https://pbs.twimg.com/media/Fh4R2kiXkAYDXGI.jpg,es,3,0,12,0,Twitter Web App,IIEG Jalisco,IIEGJ,"Instituto de Información Estadística y Geográfica del Estado de Jalisco. Información sociodemográfica, económica, ambiental y de gobierno, seguridad y justicia.",False,"Jalisco, México",https://pbs.twimg.com/profile_images/1298737263430348800/MAoTkXE6_normal.jpg,5996,0,62,6297
+1594827874909003788,"#30DayMapChallenge 
+day 18: blue
+Gorges of the Blue Nile River, ethiopia
+Qgis https://t.co/IADw3F44t2",566341543,2022-11-21 22:59:30+00:00,3_1594827756101148686,photo,https://pbs.twimg.com/media/FiH3ZPhXoA4wHoW.jpg,en,3,0,7,0,Twitter Web App,Fabio Artoni,fiftylemons,"Journalist, development worker, statistician, mapper",False, ,https://pbs.twimg.com/profile_images/1468634069344964611/FfZO8J_f_normal.jpg,63,310,0,54
+1594826485340282890,I've fallen behind somewhat with #30DayMapChallenge  ... here's day 21: Population of the Isle of Man using the Kontur Population dataset https://t.co/VWaVD2DiNN,798739,2022-11-21 22:53:59+00:00,3_1594825904173326359,photo,https://pbs.twimg.com/media/FiH1tcjXoBcIyzF.jpg,en,3,0,13,0,Twitter Web App,Dan Karran,dankarran,"Geo & Web Developer in London. My Twitter feed is mostly photography nowadays. 
+
+@dankarran@mastodon.social",False,"Canning Town, London",https://pbs.twimg.com/profile_images/752476495155691520/zXBz6z1K_normal.jpg,1526,2008,86,17630
+1594823040617287680,Un peu en retard pour le #30DayMapChallenge mais j'ai décidé de sortir Aerialod pour le thème sur les données Kontur : voilà une carte 3D de la densité de population en Corée du Sud ! On arrive à bien distinguer Séoul au Nord-Ouest et Busan au Sud-Est https://t.co/lgs7qIOauK,1587533628627632132,2022-11-21 22:40:17+00:00,3_1594823024842350618,photo,https://pbs.twimg.com/media/FiHzF2NXoBoR-HU.jpg,fr,3,0,15,1,Twitter Web App,Mikayil Tasdemir,Mikayil_T,(il/lui) Étudiant-Géographe @univ_paris_cite • Entre la cartographie et la recherche • J'écris parfois pour @PangeoU,False,"Paris, France",https://pbs.twimg.com/profile_images/1587533759968169984/H_7zPuom_normal.jpg,158,182,0,24
+1594822712920350725,"Wednesday is #30DayMapChallenge MOVEMENT day  Check out the @ClimateTRACE location + emissions of 48000 ships https://t.co/kuoeoTYEly notebook courtesy of @ejfox 
+Share what you build! https://t.co/U9j31aL8Oy",1004100951039283200,2022-11-21 22:38:59+00:00,3_1594821763334119429,photo,https://pbs.twimg.com/media/FiHx8auXoAUxDn5.jpg,en,5,0,14,0,Twitter Web App,Earthrise Media,earthrisemedia,We are a Digital Agency for the Environment -- building digital experiences to enable consumer action on climate change and conservation.,False, ,https://pbs.twimg.com/profile_images/1420014401298452481/vnsdXxsE_normal.png,1009,275,15,403
+1594820978844082197,"#30DayMapChallenge day 21 (part 3) I got a bit carried away so here's a bonus bonus map 😅😅
+
+#DataScience #GIS #DataViz #map #Aerialod https://t.co/nPpYqriksP",1414375263253770240,2022-11-21 22:32:06+00:00,3_1594820638610493446,photo,https://pbs.twimg.com/media/FiHw68zXEAYR6Ms.jpg,en,1,1,4,0,Twitter Web App,Victoria Walls,DataScienceNot2,@DataScienceNot2@tech.lgbt 🐘 | MSc in Data Science 👩🏼‍🎓 | MA Geography 👩🏼‍🎓 | 🏳️‍🌈💗💜💙 | 🌻,False,"Scotland, United Kingdom",https://pbs.twimg.com/profile_images/1559528344311529473/haW_y9pj_normal.jpg,131,304,0,540
+1594819504344899588,"Día 21: Kontur Population
+Distribución de la población en México:  Recientemente el mundo alcanzo los 8 mil millones de habitantes, ¿cuáles son las zonas más poblads de México?
+#Kontur #KonturPopulation #30DayMapChallenge 
+#30DayMapChallenge2022 https://t.co/835bjtVBbQ",1352456228455256068,2022-11-21 22:26:14+00:00,3_1594819499055882261,photo,https://pbs.twimg.com/media/FiHv4noXoBUex2n.jpg,es,1,1,4,0,Twitter for Android,Guaiacum,Guaiacumac,"Queremos mejorar la calidad de vida de personas y seres vivos. 
+Arbolado, SIG, conservación, espacio público, infraestructura verde y política pública",False,"Culiacán, Sinaloa",https://pbs.twimg.com/profile_images/1352456432931758081/sP4FGf5a_normal.jpg,180,55,0,290
+1594819326271721472,#30dayMapChallenge https://t.co/iv79bSvbFK,941640901146894338,2022-11-21 22:25:32+00:00,3_1594819322186240000,photo,https://pbs.twimg.com/media/FiHvuUvXEAAjXu3.jpg,qme,0,0,2,0,Twitter for Android,Артём,art_archibasov,,False,"Москва, Россия",https://pbs.twimg.com/profile_images/1394394904680337416/ggtRFCEf_normal.jpg,2,245,3,24
+1594819287209885697,#30dayMapChallenge https://t.co/vjwA6oTbVd,941640901146894338,2022-11-21 22:25:23+00:00,3_1594819283229573120,photo,https://pbs.twimg.com/media/FiHvsDnXgAAlURb.jpg,qme,0,0,3,0,Twitter for Android,Артём,art_archibasov,,False,"Москва, Россия",https://pbs.twimg.com/profile_images/1394394904680337416/ggtRFCEf_normal.jpg,2,245,3,24
+1594819212463284240,#30dayMapChallenge https://t.co/7s7LFAdaGI,941640901146894338,2022-11-21 22:25:05+00:00,3_1594819209258835971,photo,https://pbs.twimg.com/media/FiHvnwDXoAMlBdP.jpg,qme,0,0,5,0,Twitter for Android,Артём,art_archibasov,,False,"Москва, Россия",https://pbs.twimg.com/profile_images/1394394904680337416/ggtRFCEf_normal.jpg,2,245,3,24
+1594819061556420619,"#30DayMapChallenge 
+Día 21: Datos de población de Kontur
+Mapa con la distribución de población de Galicia según los hexágonos H3 de 400m de @KonturInc en el que se pueden intuir las principales ciudades y vías de comunicación de #Galicia
+Hecho con #QGIS https://t.co/Ii7WdeRwDr",304073347,2022-11-21 22:24:29+00:00,3_1594818948431765504,photo,https://pbs.twimg.com/media/FiHvYkZWYAA_CsT.jpg,es,1,1,5,0,Twitter Web App,aitor,aitorfreire,,False,"Allariz, España",https://pbs.twimg.com/profile_images/378800000040667457/eb3e5dda6cedb0f28609097433aafc6a_normal.jpeg,118,316,7,3573
+1594818344288493575,"*Nothing from Nothing* as Billy Preston sang - it could almost have e been about 'Station 13010 - Soul'
+Latitude 0.000 N or S (0°0'0"")
+Longitude 0.000 E or W (0°0'0"")
+Atlas Buoy @databuoycenter
+#30DayMapChallenge 
+Day 22: NULL https://t.co/LxalgwQVvH",2787878432,2022-11-21 22:21:38+00:00,3_1594818342644318210,photo,https://pbs.twimg.com/media/FiHu1TqXgAII8sS.jpg,en,3,0,2,1,Twitter for Android,BC,mildthing99,"Thinking geographically, GIS, trivia and other important things... #GeographyTeacher and author; Consultant to GA; RGS C Geog;
+ALSO: @BC@mastodonapp.uk",False,United Kingdom,https://pbs.twimg.com/profile_images/706440114097033216/FbwjbsDc_normal.jpg,3000,2679,57,37085
+1594817476319223808,"#30DayMapChallenge Day 20: My Favourite. Nine views of my favourite city, Lisbon, in Portugal. These nine views were obtained through online map generators, and each one is presented in a different visual style.
+
+Tools: #Photoshop,  #Illustrator
+Files: https://t.co/Ga4Ic66TX8 https://t.co/mlCZNCmshN",14075285,2022-11-21 22:18:11+00:00,3_1594817327761170435,photo,https://pbs.twimg.com/media/FiHt6O7XoAMedhD.jpg,en,2,0,6,0,TweetDeck,jpamado,jpamado,"History, computing and cartography.",False, ,https://pbs.twimg.com/profile_images/306746957/newlook_normal.jpg,39,362,1,153
+1594817040174522368,"22. NULL. #30daymapchallenge . Map of the national railway network of Iceland. The company motto is ""you'll have to wait a long time!"". (Apologies to Icelandic people, I used Google Translate) https://t.co/txTEx9SGyS",363276700,2022-11-21 22:16:27+00:00,3_1594817034273136642,photo,https://pbs.twimg.com/media/FiHtpJmXoAI7w3K.png,en,7,2,44,3,Twitter Web App,Steven Kay,stevefaeembra,"steve-fae-embra: Steve from Edinburgh. Web developer, coder, I make maps and CGI using QGIS and Blender.",False,Edinburgh,https://pbs.twimg.com/profile_images/514209707867656192/7cxVsL-w_normal.png,1934,547,65,1567
+1594816023395717120,"When in doubt (and a time crunch), map what you know. Day 21 of #30DayMapChallenge: Kontur dataset for Slovenia. It mostly looks like an inverse of the elevation map. 
+Code: https://t.co/opoBiggyqX https://t.co/vELRSqPQFI",3092393211,2022-11-21 22:12:24+00:00,3_1594815175504404484,photo,https://pbs.twimg.com/media/FiHr89JXoAQ3ssN.jpg,en,5,0,24,0,Twitter Web App,Iva Brunec,IvaBrunec,Research Scientist @get_babbly / PhD @UofT / dataviz & maps / she/her,False,Toronto,https://pbs.twimg.com/profile_images/1351919307186434049/RYeBmzHx_normal.jpg,1610,905,26,1336
+1594815102183776269,"#30DayMapChallenge 
+
+Day 21 Conteggio Popolazione
+
+Densità per kmq dell’ #Italia 🇮🇹 https://t.co/FXmQSEuprJ",1015528650639372288,2022-11-21 22:08:45+00:00,3_1594815096617897985,photo,https://pbs.twimg.com/media/FiHr4XRXEAEA7od.jpg,it,1,0,6,0,Twitter for iPhone,Manuele Bardi,BardiManuele,,False,"Pisa, Toscana",https://pbs.twimg.com/profile_images/1077720374010351616/DR03ZSrW_normal.jpg,31,42,1,934
+1594813712996732929,"#30DayMapChallenge day 21 (part 2)
+
+I enjoyed playing with #Aerialod so much that I made two maps so here is a bonus world map!
+
+#DataScience #GIS #DataViz #map https://t.co/47A8oOpvQi",1414375263253770240,2022-11-21 22:03:14+00:00,3_1594813286981287936,photo,https://pbs.twimg.com/media/FiHqPB2XwAAsfcT.jpg,en,1,1,6,0,Twitter Web App,Victoria Walls,DataScienceNot2,@DataScienceNot2@tech.lgbt 🐘 | MSc in Data Science 👩🏼‍🎓 | MA Geography 👩🏼‍🎓 | 🏳️‍🌈💗💜💙 | 🌻,False,"Scotland, United Kingdom",https://pbs.twimg.com/profile_images/1559528344311529473/haW_y9pj_normal.jpg,131,304,0,540
+1594813706206158849,"#30DayMapChallenge day 21 - Data: Kontur Population Dataset
+
+Inspired by another persons entry (link to tweet below) I explored #Aerialod and mapped the population density of #Pretoria.
+
+Also using a very helpful tutorial by @undertheraedar
+
+#DataScience #GIS #DataViz #map https://t.co/UVMy7qCoXC",1414375263253770240,2022-11-21 22:03:12+00:00,3_1594812495692275715,photo,https://pbs.twimg.com/media/FiHpg-EXoAMQ676.jpg,en,0,2,7,0,Twitter Web App,Victoria Walls,DataScienceNot2,@DataScienceNot2@tech.lgbt 🐘 | MSc in Data Science 👩🏼‍🎓 | MA Geography 👩🏼‍🎓 | 🏳️‍🌈💗💜💙 | 🌻,False,"Scotland, United Kingdom",https://pbs.twimg.com/profile_images/1559528344311529473/haW_y9pj_normal.jpg,131,304,0,540
+1594812904171192320,"Day 22 of #30DayMapChallenge: NULL - The Fall of New Zealand's Glaciers.
+Some maps I make are definitely more sobering to create than others, and this is one of them - we are on track for a warming world where glaciers will be merely a ghost of their former selves. https://t.co/jdTAjjhZoi",93839237,2022-11-21 22:00:01+00:00,3_1594772781438468096,photo,https://pbs.twimg.com/media/FiHFZS8aAAAexil.jpg,en,15,4,84,1,TweetDeck,Andrew DC 🌈,andrewdc_nz,"Cartographer and award-winning procrastimapper. Follow @themapkiwi to keep up with my mappy projects! 🇳🇿🏳️‍🌈 he/him 
+https://t.co/KmiNf1gZUL",False,"Christchurch City, New Zealand",https://pbs.twimg.com/profile_images/1417051005846376451/Juq4wIgb_normal.jpg,1026,193,15,1382
+1594812901059084288,"Día 20-21: Gusto
+
+El OIE ha tenido el honor de investigar y presenciar la profunda conexión entre los pueblos indígenas y sus territorios sagrados. Las mineras que buscan dañar estos espacios sagrados traspasan sobre un hecho cultural íntimo de los pueblos.
+
+#30DayMapChallenge https://t.co/DUStBkuTlM",1204451896850862080,2022-11-21 22:00:00+00:00,3_1594811006450114579,photo,https://pbs.twimg.com/media/FiHoKSNXoBMrmXR.jpg,es,2,1,3,0,Twitter Web App,OIE - Observatorio de Industrias Extractivas,oie_gt,El OIE es una plataforma de investigación que busca contribuir desde una mirada independiente con datos sobre la Industria Extractiva en Guatemala.,False, ,https://pbs.twimg.com/profile_images/1204452690895540225/TLVZRc7v_normal.png,1197,982,9,838
+1594810897570365441,#30DayMapChallenge day 21: Kontur Population dataset https://t.co/oUepKYObii,625871634,2022-11-21 21:52:02+00:00,3_1594810104402026513,photo,https://pbs.twimg.com/media/FiHnVx0WIBElm03.jpg,en,4,0,19,0,Twitter Web App,Petra Ďuriančíková,PetraDuriancik,Constantly lost in the GIS jungle. Trying to find myself at @MapTiler. #dataviz #cartography #maps,False,Czech Republic,https://pbs.twimg.com/profile_images/1594835530088423425/hx-qaB4V_normal.jpg,322,228,3,171
+1594809059756089379,"Day 21 of #30DayMapChallenge - Kontour Hex Data
+
+Looks like I am not the only one who made a population density map of Canada.
+
+This was a classic ""just one more thing"" map. https://t.co/oaJ08E4ld7",4150548435,2022-11-21 21:44:44+00:00,3_1594807985871659033,photo,https://pbs.twimg.com/media/FiHladrWIBkGIKa.jpg,en,1,1,22,0,Twitter Web App,A.A. Smith,_aasmith,Geo/US Hist @marshallu | GIS @roanestate,False,"Knoxville, TN",https://pbs.twimg.com/profile_images/912344235633934337/5DaXjfoU_normal.jpg,116,126,3,318
+1594808956693762049,#30DayMapChallenge population data: Bonus map - Antarctic population of research stations from Antarctic Atlas. https://t.co/m6TP9mQK2e,2341897566,2022-11-21 21:44:20+00:00,3_1594808874791477276,photo,https://pbs.twimg.com/media/FiHmONKWIBwG384.jpg,en,97,12,305,12,Twitter Web App,Peter T Fretwell,PeterTFretwell,"Geospatial scientist, cartographer, remote senser, penguin finder, whale watcher (from space) and author. Accidentally scientist at British Antarctic Survey.",False,Cambridge Uk,https://pbs.twimg.com/profile_images/433941197678059520/HFICStXd_normal.jpeg,1241,531,19,1035
+1594808620692152336,"#30DayMapChallenge kontur population: Not much population in Antarctica, so I map one of my home county from the dataset. https://t.co/5QbVkgZWt7",2341897566,2022-11-21 21:42:59+00:00,3_1594807043533185038,photo,https://pbs.twimg.com/media/FiHkjnMWIA49H7H.jpg,en,2,0,17,0,Twitter Web App,Peter T Fretwell,PeterTFretwell,"Geospatial scientist, cartographer, remote senser, penguin finder, whale watcher (from space) and author. Accidentally scientist at British Antarctic Survey.",False,Cambridge Uk,https://pbs.twimg.com/profile_images/433941197678059520/HFICStXd_normal.jpeg,1241,531,19,1035
+1594805805009993728,"#30DayMapChallenge Day 21 : Data: Kontur Population Dataset
+Finaly !
+Render of New York population with #Aerialod / Rendu de la ville de New York avec le logiciel Aerialod. https://t.co/HpLrCWwre1",1537689873133494272,2022-11-21 21:31:48+00:00,3_1594805737254952992,photo,https://pbs.twimg.com/media/FiHjXk7WICAPXuR.jpg,ro,1,0,18,0,Twitter Web App,Romain T.,Romainsologne,Cartographe indépendant - Contact : romaint.sologne@gmail.com,False, ,https://pbs.twimg.com/profile_images/1547176980474466304/Vmn4OVi9_normal.jpg,148,178,7,113
+1594803474780545024,Today's #BearGryllsQuote to accompany today's #30DayMapChallenge https://t.co/Ub8FUtSpku,1033206985,2022-11-21 21:22:33+00:00,3_1594761423783084043,photo,https://pbs.twimg.com/media/FiG7EMYWQAshpjk.png,en,1,0,0,0,Twitter Web App,Phil 🏴󠁧󠁢󠁷󠁬󠁳󠁿,CasegFraith,"Chartered Engineer (@TheIET & @bcs), Ex-Lecturer, Warden @ULMC_ Caseg Fraith Hut, Webmaster @BBMountClub, Trustee @CMCAdventure, researcher of #MountainToponymy",False,United Kingdom,https://pbs.twimg.com/profile_images/1542449822950739969/HTR9eI4w_normal.jpg,676,996,3,9507
+1594803245461155840,#30DayMapChallenge Day 21: Kontur population dataset - Showing the population distribution/density of Utah #utmap https://t.co/RtvfIGLO9Q,47035081,2022-11-21 21:21:38+00:00,3_1594803156529033216,photo,https://pbs.twimg.com/media/FiHhBW-VsAAFEae.png,en,0,0,4,0,Twitter Web App,Stan McShinsky,smcshinsky,Mapper,False,Spanish Fork Utah,https://pbs.twimg.com/profile_images/378800000726777309/ac8bd6a4859aef5424319c3a5599f994_normal.jpeg,154,113,8,838
+1594800440738447360,"Day 20 of #30DayMapChallenge - My favourite… Football club @LFC 
+
+The 🗺️ covers their road to Madrid for the 2019 UCL Final to win the prestigious title for 6th time. 
+
+We have conquered all of Europe 🎵
+And we never gonna stop 🎵
+
+#LFC #GIS #map #gischat @MightyRed_LFC https://t.co/BlbPZ9CXdo",4663343477,2022-11-21 21:10:29+00:00,3_1594800433754951680,photo,https://pbs.twimg.com/media/FiHei32aUAASmfK.jpg,en,0,0,3,0,Twitter for iPhone,Amol Srivastava,thatkopguy,Coffee Lover | GIS and Cloud Practitioner/Evangelist | Multiverse and Pop Culture | Tiny House Enthusiast | You'll Never Walk Alone 🔴,False,"Mumbai, India",https://pbs.twimg.com/profile_images/1511083701173583872/rasNDALl_normal.jpg,123,395,1,178
+1594800189549969408,"Day 20 of #30DayMapChallenge - My favourite… Football club @LFC 
+
+The 🗺️ covers their road to Madrid for the 2019 UCL Final to win the prestigious title for 6th time. 
+
+We have conquered all of Europe 🎵
+And we never gonna stop 🎵
+
+#LFC #GIS #map #gischat @MightyRed_LFC https://t.co/j1B1V82sa5",4663343477,2022-11-21 21:09:29+00:00,3_1594800182440628224,photo,https://pbs.twimg.com/media/FiHeUPoaEAAjTGF.jpg,en,4,0,8,0,Twitter for iPhone,Amol Srivastava,thatkopguy,Coffee Lover | GIS and Cloud Practitioner/Evangelist | Multiverse and Pop Culture | Tiny House Enthusiast | You'll Never Walk Alone 🔴,False,"Mumbai, India",https://pbs.twimg.com/profile_images/1511083701173583872/rasNDALl_normal.jpg,123,395,1,178
+1594798974858305554,"#30DayMapChallenge Día 21: Kontur Population Dataset.
+Densidad Poblacional en Perú. #maps https://t.co/o0xpvfxDlY",2525776104,2022-11-21 21:04:40+00:00,3_1594798750815469568,photo,https://pbs.twimg.com/media/FiHdA6aXwAAMkAE.jpg,es,2,0,9,0,Twitter Web App,Javier Cornejo,JavierCornejoT,"Ing. civil de profesión y amante de la innovación 🏞️
+IG: javier.cornejot",False, ,https://pbs.twimg.com/profile_images/1276258146097471490/wnl7JNAq_normal.jpg,470,304,4,3661
+1594798547345481736,"#30DayMapChallenge Day 20: My Favourite...
+
+A map of Weston Park Museum in Sheffield. It might not be the biggest museum in the world but my kids love it and it kept me sane when they were pre-schoolers. https://t.co/Ru558jfCf2",202227790,2022-11-21 21:02:58+00:00,3_1594797904367165441,photo,https://pbs.twimg.com/media/FiHcPpJXoAEHrv2.jpg,en,1,0,3,0,Twitter Web App,David Leather,david_leather,"Research Associate at CRESR, graphics editor for PPP journal. GIS, Tableau data viz etc.",False,Sheffield,https://pbs.twimg.com/profile_images/853629459500605440/gzzvCghW_normal.jpg,200,391,3,1305
+1594797980670103553,"Noz vat les #geobreizh pour ce nouveau #30DayMapChallenge 🌐!
+Ce soir, carto sur les données de ""Kontur"".
+Pas tellement de choix sur la thématique, ça sera la pop. par Hexagone en #Bretagne.
+Admirez l'étalement urbain rennais, le mitage du Léon et la ""densité"" côte Sud !
+Kenavo🤟 https://t.co/ROedjoMJsZ",903528074,2022-11-21 21:00:43+00:00,3_1594797763115491338,photo,https://pbs.twimg.com/media/FiHcHa8WIAonoGJ.jpg,fr,9,0,35,0,Twitter Web App,☰Rom'☰,Rodmarrig,"Géographe dépolitisé
+J'arrive pas à décrocher de Twitter, je suis faible
+@Rodmarrig@mapstodon.space",False,"Bretagne, Western Europe",https://pbs.twimg.com/profile_images/1430539471708200963/Um9CisJv_normal.jpg,1009,2050,11,4819
+1594797556479197184,"#30DayMapChallenge
+Day22:NULL
+""Climate science is increasingly able to show that many of the extreme weather events that we are experiencing have become more likely and more intense due to human-induced climate change.""
+https://t.co/276oKVKzDX https://t.co/fJBuOTc9Sw",187171010,2022-11-21 20:59:02+00:00,3_1594797315730055189,photo,https://pbs.twimg.com/media/FiHbtYTWIBUywvY.jpg,en,1,0,4,0,Twitter Web App,I.K.D,IKEDA_02,GISGISGIS,False,"Brisbane, Queensland 🇦🇺🇯🇵",https://pbs.twimg.com/profile_images/1621166046/image_normal.jpg,110,624,4,5348
+1594796211789348864,"#30DayMapChallenge Day 21: 
+@KonturInc Population #OpenData. #QGIS https://t.co/mno73gTVkj",760094405369946112,2022-11-21 20:53:41+00:00,3_1594795985921777672,photo,https://pbs.twimg.com/media/FiHaf-YWIAgX5xI.jpg,en,1,0,18,0,Twitter Web App,Hans van der Kwast @hansakwast@fosstodon.org,hansakwast,Associate Prof. @ihedelft | Physical Geographer | Owner of QWAST-GIS | #OpenSource advocacy | board member @qgisnl | @gisocw | @osgeo Charter Member | #QGIS,False,The Netherlands,https://pbs.twimg.com/profile_images/1428430454756106250/mT04ldgZ_normal.jpg,5675,1480,129,11013
+1594790800961028096,"Day 21: Kontur Population Dataset
+
+#30DayMapChallenge https://t.co/5y0qp3YL9N",909289106861064192,2022-11-21 20:32:11+00:00,3_1594790729921994759,photo,https://pbs.twimg.com/media/FiHVuCQWIAcSxVw.jpg,en,1,0,5,0,Twitter Web App,Nesuk Vadym 🇺🇦,vadymnes,"GIS technician, Project Manager | 
+Help Ukraine: https://t.co/K1obBukxuG",False,Україна,https://pbs.twimg.com/profile_images/1465636097665507329/oLWQAthG_normal.jpg,38,195,0,101
+1594790251716911104,"Day 19 - Globe of #30DayMapChallenge 
+
+I'm almost caught up!! 
+Since I can't afford to spend $$ on the lego globe, this will do. https://t.co/ZjUmuoCAzj",2802492936,2022-11-21 20:30:00+00:00,3_1594783046061932544,photo,https://pbs.twimg.com/media/FiHOuxpWQAAeRL7.jpg,en,1,0,20,0,Twitter Web App,Mingsze Ho,mappingming,Cartographer 🗺️ & Photographer 📷 | Climber 🧗‍♀️ | Comments are my own.,False,Toronto,https://pbs.twimg.com/profile_images/1123648312299663366/NW2SlVz1_normal.png,354,409,11,683
+1594786472514945024,"#30DayMapChallenge / Jour 21, Kontur : Huit milliards d'habitants sur la mappemonde. 🌍🌎 #30DayMappemondeChallenge https://t.co/pIOPNyAjHn",3300877743,2022-11-21 20:14:59+00:00,3_1594786329451237390,photo,https://pbs.twimg.com/media/FiHRt5OXEA4dv5G.jpg,fr,26,1,117,2,Twitter Web App,Xemartin Laborde,XemartinLaborde,Journaliste-Cartographe au journal Le Monde @lemondefr @LM_enCartes / Fait des atlas chez @EdAutrement & @les_arenes / Aime mettre du rose sur ses cartes 🏳️‍🌈,False,Paris / Pays basque,https://pbs.twimg.com/profile_images/1518321091042754561/V-TMZdos_normal.jpg,4200,2221,102,3180
+1594785972683739178,"Day 22 of #30DayMapChallenge 2022 – NULL
+
+No map, just my Adobe Illustrator setup for the National Park posters I created for Wilderness magazine.
+
+Presets for colours, symbols, and character styles ensures consistency and speeds everything up, as does sorting labels into layers. https://t.co/MbZtPawobR",1020137956869222401,2022-11-21 20:13:00+00:00,3_1593082413680590848,photo,https://pbs.twimg.com/media/FhvEA8VagAAvKRM.png,en,1,0,23,0,Twitter Web App,Andrew Tyrrell,SouthArrowMaps,"🗺🇳🇿🏔 NZ-based cartographer. Committee @NZCartoSociety. Blender, QGIS, ArcGIS Pro, Illustrator. Partial to a good mountain.  @SouthArrowMaps@mapstodon.space",False,"Christchurch, New Zealand",https://pbs.twimg.com/profile_images/1428861866462175232/pZTCf6zb_normal.jpg,1946,247,45,1944
+1594782816675696640,"Day 18 - Blue of the #30DayMapChallenge 
+
+I love making things as thin as possible. Watercourse at 0.05 ✨ https://t.co/QROEBHxSdB",2802492936,2022-11-21 20:00:27+00:00,3_1594782570629177344,photo,https://pbs.twimg.com/media/FiHOTGhWIAATy5E.jpg,en,1,0,8,0,Twitter Web App,Mingsze Ho,mappingming,Cartographer 🗺️ & Photographer 📷 | Climber 🧗‍♀️ | Comments are my own.,False,Toronto,https://pbs.twimg.com/profile_images/1123648312299663366/NW2SlVz1_normal.png,354,409,11,683
+1594780667983892495,"#30DayMapChallenge Day 21: Kontur Population Dataset
+I wanted to perform a massive data analysis with a specific region highlighted. But my notebook and time decided to take their time. Therefore such work in the future. Data: Kontur Population: Global Population Density for 400m https://t.co/b1OvTMRQ16",1506155397278752771,2022-11-21 19:51:55+00:00,3_1594780647041732611,photo,https://pbs.twimg.com/media/FiHMjImXEAMethc.jpg,en,0,0,4,0,Twitter Web App,Пан кафтан,leiberiuk,,False, ,https://pbs.twimg.com/profile_images/1587551084289081344/LoNJzbCc_normal.jpg,9,105,0,41
+1594779029906853926,"Day 21 of #30DayMapChallenge - KONTUR population data
+
+Not much time today. So here is a quick map of #Bavaria and its population. https://t.co/21SQkx0mX0",1501676571945492508,2022-11-21 19:45:24+00:00,3_1594779013339353110,photo,https://pbs.twimg.com/media/FiHLEClXEBY5kO5.jpg,en,1,0,11,0,Twitter for iPhone,Fabian Neugirg,curious_Fabian,"Geomorphologist, GIS professional, cartography nerd who loves to run long distances as fast as possible",False, ,https://pbs.twimg.com/profile_images/1587325541149032448/RfcKDd6Y_normal.jpg,57,70,1,99
+1594777934354649090,"#30DayMapChallenge 
+Day 21: Kontur Population Data
+Detroit, MI, USA Metropolitan Statistical Area Population. First attempt using #aerialod, still lots to learn. https://t.co/t8EdHQtP6q",4721200932,2022-11-21 19:41:03+00:00,3_1594777203555897362,photo,https://pbs.twimg.com/media/FiHJasnXEBIrUq9.jpg,en,6,2,51,1,Twitter Web App,Devin Lea,DevinMLea,"Geography PhD. GIS, Cartography, Flooding, Environmental Justice. Tweets are just like my opinion, y’all. He/him.",False,"Detroit Metro, MI, USA",https://pbs.twimg.com/profile_images/1278832800947269632/gd2zZzry_normal.jpg,268,326,6,801
+1594774869195083776,"Day 21 #30DayMapChallenge - KONTUR dataset
+This map speaks for itself about where the densest areas are located in Romania when it comes to population. https://t.co/09d7wCaY2i",2987260856,2022-11-21 19:28:52+00:00,3_1594774844499005440,photo,https://pbs.twimg.com/media/FiHHRYcXkAAWD6C.jpg,en,1,1,10,0,Twitter Web App,Claudia Blagu,ClaudiaBlagu,GIS enthusiastic 🌍,False,"Bucharest, Romania",https://pbs.twimg.com/profile_images/563075831799373824/PAvjoCFP_normal.jpeg,113,174,8,44
+1594774466558496768,"#30DayMapChallenge Day 21: Kontur. Due to the mountains and the water supply, Utah's people are more concentrated than most states, as shown in this ""prism map"" that represents population as height. Comparing hexagons from https://t.co/GnUFMZKl1u to the 2020 Census. Hmm... https://t.co/htd541PyRU",16644911,2022-11-21 19:27:16+00:00,3_1594774307237818370,photo,https://pbs.twimg.com/media/FiHGyG_UcAI5B6u.jpg,en,1,1,7,0,Twitter Web App,Brandon Plewe,bplewe,Cartography professor at Brigham Young University,False,"Provo, Utah",https://pbs.twimg.com/profile_images/1588426464856195072/c6saiYu1_normal.jpg,91,123,5,99
+1594774000240324609,"#30DayMapChallenge | Day 21 | Kontur
+
+The only Duchy on earth...the Grand Duchy of Luxembourg (home for me for 5 years)
+
+Code: https://t.co/yGKIfatzD3
+
+#RStats #Luxembourg #kontur #dataviz  #DataVisualization https://t.co/O0enNBEbfs",1361226912669061121,2022-11-21 19:25:25+00:00,3_1594773893746724880,photo,https://pbs.twimg.com/media/FiHGaCnXEBA0HdW.jpg,en,1,0,8,0,Twitter Web App,Abhinav Malasi,malasi_abhinav,,False, ,https://pbs.twimg.com/profile_images/1361227083763040258/zvVmgbL9_normal.jpg,97,79,3,164
+1594771949229481984,Day 21 #30DayMapChallenge #kontur #population of #SriLanka with cities from #OSM. Tools: #QGIS https://t.co/Zidlowg0gt,438344019,2022-11-21 19:17:16+00:00,3_1594771932691410944,photo,https://pbs.twimg.com/media/FiHEn5HVsAAEnSW.jpg,en,0,1,5,0,Twitter Web App,Thiyaku,IamThiyaku,COO @satyukt 🛰️🌾🌊,False,"Vellakoil, Tamil Nadu",https://pbs.twimg.com/profile_images/1276488304821592064/ZF08lCSS_normal.jpg,90,249,1,496
+1594771897501290514,"#30DayMapChallenge Day 21: Data: Kontur Population Dataset
+
+Today we've used the #QGIS #geometry #generator to create buffers based on the population density for each 400m H3 hexagon. Data source: Kontur Population: Global Population Density for 400m H3 Hexagons https://t.co/7IUNS74ZiB",1091106812852609027,2022-11-21 19:17:04+00:00,3_1594771808191975432,photo,https://pbs.twimg.com/media/FiHEgpUXEAg6KHW.jpg,en,0,0,4,0,Twitter Web App,MappleJuice,Mapple_juice,"We combine our love for stories 📓 and maps 🗺️ to create juicy visuals for you!
+
+The MappleMates:
+@harm_KERSTEN
+@PieterCappon
+@hendrikxleo",False,The Netherlands,https://pbs.twimg.com/profile_images/1455302525742104578/TIV3ZcYr_normal.jpg,57,22,2,57
+1594770405063069697,"#30DayMapChallenge
+
+Day21: Kontur Population
+
+Population around #Kuwait city
+
+@KonturInc
+
+Used @blender
+
+Didn't like the colours... 😕 
+
+I should improve it next time
+
+#kuwait_university #cartography #b3d 
+#الكويت #جامعة_الكويت #جغرافيا #خرائط https://t.co/oQgviMVXeJ",908818700660236288,2022-11-21 19:11:08+00:00,3_1594770394749214720,photo,https://pbs.twimg.com/media/FiHDOX1WIAAiDru.jpg,en,2,2,17,0,Twitter for Android,د. عبداللطيف الياقوت,geo_alyaqout,"‏‏‏‏مهتم بالجغرافيا والخرائط، 
+قسم الجغرافيا-جامعة الكويت
+
+
+Interested in Geography and Cartography
+Ph.D
+
+
+- geo.alyaqout@gmail.com
+-a.alyaqout@ku.edu.kw",False,Kuwait (Ex Texan),https://pbs.twimg.com/profile_images/1478973868505141248/4JKIFswe_normal.jpg,2447,473,17,1439
+1594769062877339649,#30DayMapChallenge Day 21: Kontur - Exploring population driven styling to make generative art out of QGIS 👨‍🎨🖌️🎨🖼️ https://t.co/cqVrh3NmGh,336517784,2022-11-21 19:05:48+00:00,3_1594769010939334667,photo,https://pbs.twimg.com/media/FiHB90vXEAsH3gU.jpg,en,2,0,14,0,Twitter Web App,Luca Dall'Acqua,luca_northsouth,"Data Analytics, GIS and Cartography at AXON VIBE",False,"Lucerna, Svizzera",https://pbs.twimg.com/profile_images/1445316981/273428_626382364_7072041_n_normal.jpg,290,692,6,385
+1594767532069687298,"21. Kontur data set. #30daymapchallenge. Where Canadians live (Fun fact, here in Scotland I live further north than 99% of Canadians) Data from @KonturInc https://t.co/XGscqIe1eo https://t.co/gHWNNF0pk1",363276700,2022-11-21 18:59:43+00:00,3_1594767521701367824,photo,https://pbs.twimg.com/media/FiHAnI5XEBAytgR.jpg,en,1,4,15,0,Twitter Web App,Steven Kay,stevefaeembra,"steve-fae-embra: Steve from Edinburgh. Web developer, coder, I make maps and CGI using QGIS and Blender.",False,Edinburgh,https://pbs.twimg.com/profile_images/514209707867656192/7cxVsL-w_normal.png,1934,547,65,1567
+1594764003447869453,"Day 21 #30daymapchallenge 
+Kontur population dataset
+
+A map of Switzerland population density. I was going for a sort of brimstone fire effect. 
+
+#map #maps #mapping #mapdesigner #cartographer #switzerland #population #mapmaker #mapmakers #funwithmaps #mapoftheday https://t.co/QRGq5GkUs4",1585974052975419392,2022-11-21 18:45:42+00:00,3_1594763176171737108,photo,https://pbs.twimg.com/media/FiG8qMiXEBQrNm-.jpg,en,2,0,26,0,Twitter Web App,Frankly Graphics,frankypeck,Cartographer (Mapmaker),False, ,https://pbs.twimg.com/profile_images/1595017265392525318/IXqy88Fn_normal.jpg,45,28,1,37
+1594763756780851217,"Day 21 of the #30DayMapChallenge is with the Kontur Population Dataset. Here's Oklahoma's population distributed over h3 hexagons at 400m resolution. 🤓
+
+#gis #geography #oklahoma #population #map #maps #csa #centerforspatialanalysis https://t.co/sqVPg2F1Mx",1185244681166295041,2022-11-21 18:44:43+00:00,3_1594762457007853569,photo,https://pbs.twimg.com/media/FiG8AVcVEAEvHRH.jpg,en,0,0,10,1,Twitter Web App,"Center for Spatial Analysis, OU",geospatial_OU,The Center for Spatial Analysis (CSA) is an applied geospatial technology research and development center housed on the OU-Norman Research campus.,False,"Norman, Oklahoma",https://pbs.twimg.com/profile_images/1185246428114948103/SZ_0kNfL_normal.jpg,152,204,0,176
+1594762382915817472,"#30DayMapChallenge 2022 Day 21: Kontour Population dataset
+Costa Rica Population Density (for 400m H3 Hexagons) 
+Updated: 30 June 2022
+code: https://t.co/0yH8xEmiDs
+@tjukanov @KonturInc 
+ #rspatials #rstats #maps #spatials https://t.co/qZRjJP6RXd",285509027,2022-11-21 18:39:15+00:00,3_1594762293572681729,photo,https://pbs.twimg.com/media/FiG720mWQAEOV85.jpg,en,1,1,5,0,Twitter Web App,Federica Gazzelloni® (she/her),FGazzelloni,Statistician & Actuary @IHME_UW|@R4DScommunity|@RLadiesDC|@RLadiesRome|@COSTprogram|@Bioconductor CoC| https://t.co/G5ROFUJv57 📍#Peace 🍀🌸🌼🌺,False,World,https://pbs.twimg.com/profile_images/1532822653035233280/nQ0AhxoB_normal.jpg,2693,4892,54,6473
+1594761844253949952,"#30DayMapChallenge 2022 Day 21: Kontour Population dataset
+Costa Rica Population Density (for 400m H3 Hexagons) 
+Updated: 30 June 2022
+code: https://t.co/0yH8xEmiDs
+@tjukanov #rspatials #rstats #maps #spatials https://t.co/xj3emFUgvt",285509027,2022-11-21 18:37:07+00:00,3_1594761639923957762,photo,https://pbs.twimg.com/media/FiG7QxkWQAIqCmO.jpg,en,1,0,3,0,Twitter Web App,Federica Gazzelloni® (she/her),FGazzelloni,Statistician & Actuary @IHME_UW|@R4DScommunity|@RLadiesDC|@RLadiesRome|@COSTprogram|@Bioconductor CoC| https://t.co/G5ROFUJv57 📍#Peace 🍀🌸🌼🌺,False,World,https://pbs.twimg.com/profile_images/1532822653035233280/nQ0AhxoB_normal.jpg,2693,4892,54,6473
+1594761107440287765,"Day 21 of #30DayMapChallenge: Kontur Population Dataset. A population map of Japan. I foolishly downloaded all 6.6 gigs of the global dataset and uh, extracted only Japan. 🫠 This was playing as I worked so it goes in the video. 
+
+#rayshader adventures, an #rstats tale https://t.co/kS2LGHAmiA",946151815,2022-11-21 18:34:11+00:00,7_1594758629009268737,video,https://pbs.twimg.com/ext_tw_video_thumb/1594758629009268737/pu/img/-mcQlrZnsCmahPKB.jpg,en,10,0,59,0,Twitter Web App,flotsam,researchremora,smitten with R · p greater than .05 · still a waste of space · somehow tenured,False,the rayverse,https://pbs.twimg.com/profile_images/1535939378677424128/wHBiYNXj_normal.jpg,7516,804,117,6313
+1594759617824833537,"Voilà (enfin) le n°20 du #30DayMapChallenge 🗺️. ""Mon préféré""... ou un mélange de toponymie et de liste un peu étrange à la sauce Wikipédia. Les communes françaises dont le nom découle de celui d'une personnalité historique. 👑🧑‍🔬 https://t.co/O7AILUtXN8",611882238,2022-11-21 18:28:16+00:00,3_1594759539957579778,photo,https://pbs.twimg.com/media/FiG5WilWQAIsKdu.jpg,fr,13,8,88,3,Twitter Web App,Lucas Destrem 🏭🌳 @lucasdestrem@mapstodon.space,LucasDestrem,"Limogé nomade, à Lyon • Avant en Ariège • Géographile • Patrimoine (industriel), démocratie, carto, Wiki, toponymie • Cherche un travail et des projets !",False,Limoges — Lyon,https://pbs.twimg.com/profile_images/1569700088083087361/qNr2y7er_normal.jpg,2366,2627,60,9809
+1594757503950143517,"#30DayMapChallenge
+Día 21
+Joya como esta carta náutica manuscrita que levantaron los pilotos en el viaje de “descubrimiento” de las Islas de Poniente del 20 noviembre de 1564 a abril 1565.
+Primera tierra que avistaron y primer surgidero en las Filipinas.
+#PARES
+#AGIndias https://t.co/a542bZfzhw",1954727131,2022-11-21 18:19:52+00:00,3_1594757493187661824,photo,https://pbs.twimg.com/media/FiG3fZxX0AAj2rh.jpg,es,2,0,8,0,Twitter for iPad,Ilustres Marinos,IlustresMarinos,,False,Cartagena de Levante,https://pbs.twimg.com/profile_images/378800000622376434/8e0d451c4bed25336604b758f0daa098_normal.jpeg,4366,372,88,8462
+1594755230800953353,"Day 21 - Kontur Population Dataset
+
+Have taken kontur hexagons and ruined them. Result - an anamorphic map.
+
+#30DayMapChallenge https://t.co/19JvONsQzZ",884974759,2022-11-21 18:10:50+00:00,3_1594755107685548039,photo,https://pbs.twimg.com/media/FiG1UjFWQAcVqqK.jpg,en,0,0,3,0,Twitter Web App,Anton Gorankov,AntonGorankov,,False,Belarus,https://pbs.twimg.com/profile_images/1587003598629650434/vWTtmzgx_normal.jpg,11,5,0,39
+1594753823415107584,"Wage gap between women and men who work as primary school teachers in the US
+
+#30DayMapChallenge #dataviz #DataVisualization #MapMonday #QGIS https://t.co/mHOUmHBOEp",884817206,2022-11-21 18:05:15+00:00,3_1594753820562702344,photo,https://pbs.twimg.com/media/FiG0JoLWQAgCAMd.jpg,en,0,0,1,0,Twitter for Android,Ashraff Hathibelagal,Hathibel,Experimenting | Loves writing and all other forms of art | Proponent of transhumanism 🐷,False, ,https://pbs.twimg.com/profile_images/1597007374883102720/cELcopiz_normal.jpg,625,26,42,703
+1594753024043487233,"Nummer 20 van de #30DayMapChallenge had het keyword ‘my favourite’. 
+
+Niet mijn favoriete onderwerp, wel mijn favoriete ontwerp. Dit is de laatste versie van mijn Europese Coronakaart. 
+
+Hier ben ik destijds heeeeeel lang mee bezig geweest. https://t.co/wRbOD8SxNb",22024763,2022-11-21 18:02:04+00:00,3_1594753019198980099,photo,https://pbs.twimg.com/media/FiGza-3WQAM_IWb.jpg,nl,2,1,27,0,Twitter for iPhone,Jelmer Visser,DieTukkerfries,"Bekendste Etten-Leur-ontkenner van Nederland en omstreken, MIAUW-oprichter, journalist, ontwerper, kaartenkleier en ‘prominente Twitteraar’ -ministerie van VWS.",False,Enschede,https://pbs.twimg.com/profile_images/1514221510214537219/Cgb7duns_normal.jpg,24645,1340,167,247364
+1594750308504064001,"#30DayMapChallenge 
+Day 4:  Green &amp;
+Day 21: Kontur Population Dataset
+
+Colorado Fourteeners  - Population by county near different Mountain ranges 
+
+Link to viz https://t.co/I5Cqy5gSgb
+
+#dataviz #Datavisualization #mapviz #datafam #tableau  #30DaysMapChallenge #MomsWhoViz https://t.co/sGUtJ0NmJM",1583174651404259331,2022-11-21 17:51:17+00:00,3_1594749633137254400,photo,https://pbs.twimg.com/media/FiGwV4zUoAA1hlV.jpg,en,2,0,1,0,Twitter Web App,Dipa,DR20102010,Tableau Desktop Specialist,False,USA,https://pbs.twimg.com/profile_images/1588219800257298432/UmNqEmd2_normal.jpg,5,85,0,17
+1594750035274895360,#30DayMapChallenge Day 21 - Kontur Population Dataset (Yakima County) https://t.co/qMzbSSierZ,16178541,2022-11-21 17:50:12+00:00,3_1594749991004012544,photo,https://pbs.twimg.com/media/FiGwqt9aAAAUDni.jpg,in,1,0,4,0,Twitter Web App,Randy Bonds Jr,randybondsjr,"Rad Dad, Sounders Supporter, Web App Developer. All around good guy.",False,"Yakima, WA",https://pbs.twimg.com/profile_images/515536232655224834/GrYEBBuJ_normal.jpeg,307,570,24,11983
+1594750030333837312,"#30daymapchallenge day 21: Kontur population in FSQ Studio using Hex Tiles. In the screen cap I zoom in on Qatar, showing Studio loading in higher resolution tiles. Base map: Kontur, OSM. https://t.co/aeU2B5Mygy @FSQStudio https://t.co/PuMDfahGA9",53135103,2022-11-21 17:50:10+00:00,7_1594749533551935489,video,https://pbs.twimg.com/ext_tw_video_thumb/1594749533551935489/pu/img/9uqdFGPw_FY9ZPKq.jpg,en,3,1,12,0,Twitter Web App,Isaac Brodsky,IsaacBrodsky,,False,"San Francisco, CA",https://pbs.twimg.com/profile_images/1477486926089232384/RfUe92AZ_normal.jpg,369,868,6,460
+1594748228859465728,"Day 20 Favorite. #30DayMapChallenge #rstats Plot of Trillium (forest plant) records in VT and NH (US) from GBIF. While this also qualifies for the ""bad plots"" category, it is from 2 years ago &amp; was my first spatial plot with R (+ raster, sp, dismo). Code: https://t.co/bZ1mtzSiic https://t.co/NHOnreuaTQ",12994062,2022-11-21 17:43:01+00:00,3_1594748174656495616,photo,https://pbs.twimg.com/media/FiGvA_iaYAAoQ9v.png,en,4,0,2,0,Twitter Web App,EHolmes,eeholm,"I am a research scientist and statistician at NOAA Fisheries, Northwest Fisheries Science Center and lead for NMFS OpenSci (NMFS = NOAA Fisheries).",False, ,https://pbs.twimg.com/profile_images/551907036/icon2_normal.png,285,118,6,272
+1594747943470657536,"#30DayMapChallenge Day 18: Blue
+
+Some of the known shipwrecks of Lake Superior. There are undoubtedly many more. This lake is huge and you hear lots of stories in Thunder Bay summers. 
+
+Bathymetry from NOAA https://t.co/KhvrK3A5gP",967140347754184706,2022-11-21 17:41:53+00:00,3_1594742715857747968,photo,https://pbs.twimg.com/media/FiGqDP7XwAAey5x.jpg,en,3,1,18,0,Twitter Web App,Kellie Heney,KellieHeney,"🇨🇦/🇮🇪 GIS Analyst in Galway. Big fan of research stations, dramatic seal images, and all things GIS. Graduate of @nuigalway and @queensu. 🥋🤼‍♂️",False,"Galway, Ireland",https://pbs.twimg.com/profile_images/1430444613618315269/7GbZb_NH_normal.jpg,89,168,0,199
+1594746965828304896,"Day 21 of the #30DayMapChallenge - Kontour. This map shows the population density of the USA. Made with #Python using #matplotlib, #Pandas  and #Numpy. #DataScience #DataVisualization #Map #USA https://t.co/JjWwmLKRDD",1349110409215795204,2022-11-21 17:38:00+00:00,3_1588119674428035072,photo,https://pbs.twimg.com/media/Fgoibf8XkAAhYbz.jpg,en,8,1,38,0,Twitter Web App,Python Maps,PythonMaps,"Mapping the world with Python. Geospatial data scientist who likes maps. 
+Contact info@pythonmaps.com 
+Buy our maps: https://t.co/dwnOE3DgXt",False,Planet Earth,https://pbs.twimg.com/profile_images/1562542823869759488/g9scogmy_normal.jpg,24712,491,280,922
+1594745305953550336,"#30DayMapChallenge Day 21 Kontur Population: People and Corn 🌽
+
+Since I'm trying to do all my maps of Madison/Dane County, decided to add a comparative layer to make it a bit more interesting than just pop! Pulled raster crop coverage data via CropScape. #gischat #wurmandots https://t.co/m3TAHwQMLz",52899973,2022-11-21 17:31:24+00:00,3_1594743664361684992,photo,https://pbs.twimg.com/media/FiGq6dYVQAAeKZH.jpg,en,4,3,74,5,Twitter Web App,Stephen Kennedy,oh_sk,Design Director @ufplatform • Co-Founder @NewMarketGoods • Previously @sidewalklabs @ideoorg @cfpb @mitdusp 🗺🌈,False,"Madison, WI",https://pbs.twimg.com/profile_images/976138551250300928/C4PB6lE2_normal.jpg,849,1083,32,2010
+1594744593257570307,"Day 21 - #30DayMapChallenge - #Kontur Population Dataset
+Downloaded the worldwide dataset and the old #MacBookPro protested trying to load and display the 62 million records in #QGIS. I found a smaller more manageable dataset for only Canada 🇨🇦. #gischat https://t.co/hwLArPdfBx",70503077,2022-11-21 17:28:34+00:00,3_1594744587611947030,photo,https://pbs.twimg.com/media/FiGrwMwWQBYMsUI.jpg,en,2,1,12,0,Twitter for iPhone,Sandon,XenonGT,"Map Maker, Automotive Enthusiast, Amateur Photographer, and Video Game Hobbiest who enjoys a good old fashion roadtrip.",False,"Detroit, Michigan",https://pbs.twimg.com/profile_images/1516255765711007757/EfmLHKjS_normal.jpg,178,306,18,4029
+1594744235856728066,"#30DayMapChallenge Day 21: Kontur Population Dataset
+
+Which are really the world's biggest cities? Here are the ones with 1M+ urban population based on classifying and clustering the Kontur population dataset.
+Link to the entire globe: https://t.co/XjAtf2waK5 https://t.co/JSvtIF7QS8",2913896423,2022-11-21 17:27:09+00:00,3_1594744031086526471,photo,https://pbs.twimg.com/media/FiGrPziWQAc4YQs.jpg,en,2,1,7,0,Twitter Web App,3D Geoinfo @TU Delft,tudelft3d,"3D Geoinformation Research Group at @tudelft, the Netherlands",False,"Delft, the Netherlands",https://pbs.twimg.com/profile_images/1455516383178022915/OdMlf-oW_normal.jpg,1539,188,22,590
+1594743052186583040,"#30DayMapChallenge - 21 - Data: Kontur population dataset
+Population of the Netherlands living below sea level
+Sources: Copernicus DEM, Kontur population, background tiles CARTO/OSM.
+Tools: QGIS and CARTO (I work there 🙂) https://t.co/I9w9xvkw1Q",18551865,2022-11-21 17:22:27+00:00,3_1594743030199762948,photo,https://pbs.twimg.com/media/FiGqVi8WQAQbf7c.jpg,en,1,1,8,0,Twitter Web App,Nim - @bbecquet@mamot.fr,nimwendil,"Hopeful pessimist. GIS/web developer + printmaker. I love maps, space, birds, long walks, drawing ivy-clad girls, and living with ink stains on my hands.",False,"Paris, France",https://pbs.twimg.com/profile_images/912951241013153793/a6UU_SZb_normal.jpg,951,464,56,21239
+1594739047041470465,"#30DayMapChallenge 
+Day 19: Globe
+
+Some days it just seems like all the world is hanging by a (orange fiber) thread. 
+
+#Globe #Oranges https://t.co/j2opKyQ2yE",1584809963553427456,2022-11-21 17:06:32+00:00,3_1594738260047466496,photo,https://pbs.twimg.com/media/FiGl_4vakAAu01y.jpg,en,0,0,2,0,Twitter Web App,Jacob,jaanekaraster,Data + Maps + Apps,False, ,https://pbs.twimg.com/profile_images/1584918083764121603/AaUZplRb_normal.jpg,7,20,0,22
+1594738000054943750,"The Arctic is home to &gt;4M people. Folks in this region are seeing the impacts of #ClimateChange more rapidly than lower latitudes— in some cases having the ground they live on erode out from underneath them. 
+
+#30DayMapChallenge (Day21: Kontur Population Dataset) 
+
+(🗺️: @g_fiske) https://t.co/K3NKrU7hmi",249790792,2022-11-21 17:02:22+00:00,3_1594737993541107712,photo,https://pbs.twimg.com/media/FiGlwX7WQAAvOB0.jpg,en,12,0,28,1,Hootsuite Inc.,Woodwell Climate Research Center,WoodwellClimate,"Woodwell Climate conducts science for solutions and partners with leaders and communities for just, meaningful impact to address the climate crisis.",False,"Falmouth, MA",https://pbs.twimg.com/profile_images/1512181332163637254/iLBV2MDV_normal.jpg,9304,1008,328,6108
+1594737976570937345,#30DayMapChallenge Day 21: Kontur population dataset. This dataset almost murdered my computer. Had to grab a subset of the data and make a new layer. I chose an area in South America because it was the first place that drew. https://t.co/K1Uc9xc2lH,2391754261,2022-11-21 17:02:17+00:00,3_1594737554867322883,photo,https://pbs.twimg.com/media/FiGlW1vXgAMDHvw.jpg,en,1,0,15,0,Twitter Web App,🌏Map of the Week,MapOfTheWeek,"Freshly sourced, curated handcrafted farm to table maps with gluten-free options. Now also on Mastodon @douggreenfield@mapstodon.space",False,"Arlington, MA",https://pbs.twimg.com/profile_images/898578315686150148/ZXTnd0xu_normal.jpg,1358,395,59,4007
+1594737814838865920,"#30DayMapChallenge 
+Day 18: Colour Blue
+
+In India, unseasonal rainfall and water scarcity are key ""push"" factors in rural-to-urban migration flows. Last month, &gt;80% of India's districts experienced either deficient or excess rainfall.
+
+#ClimateAction #India https://t.co/exuH8Acaim",1584809963553427456,2022-11-21 17:01:38+00:00,3_1594737657372094465,photo,https://pbs.twimg.com/media/FiGlczmaMAEEmWo.jpg,en,0,0,2,0,Twitter Web App,Jacob,jaanekaraster,Data + Maps + Apps,False, ,https://pbs.twimg.com/profile_images/1584918083764121603/AaUZplRb_normal.jpg,7,20,0,22
+1594737547812503561,"21. 'Population'
+
+The world according to people 🌍
+
+It's Week 3 of the #30DayMapChallenge, and today's entry was made by Katherine from our #GIS team 🗺️
+
+This dazzling animation shows #population distribution across the world using data from @KonturInc
+
+#GISchat #maps #dataviz https://t.co/T3BZHxoHV8",2295951570,2022-11-21 17:00:34+00:00,7_1594736573001699329,video,https://pbs.twimg.com/ext_tw_video_thumb/1594736573001699329/pu/img/R3WMzWSl6ZA0QAev.jpg,en,4,0,21,0,Hootsuite Inc.,LUC,LUCtweeting,"Innovative, intelligent team of environmental consultants, making a difference to the world we live in for over 55 years 🌱 An Employee-Owned Company",False,United Kingdom,https://pbs.twimg.com/profile_images/1552961412703686656/8EkdQkFV_normal.jpg,3753,925,67,7232
+1594735926512451590,"How the #30DayMapChallenge is coming along...🤣🤣
+#mappymeme #gis https://t.co/0N42gwXMzM",1185244681166295041,2022-11-21 16:54:08+00:00,3_1594735643392737290,photo,https://pbs.twimg.com/media/FiGjnk8UAAo9iN1.png,en,2,0,8,0,Twitter Web App,"Center for Spatial Analysis, OU",geospatial_OU,The Center for Spatial Analysis (CSA) is an applied geospatial technology research and development center housed on the OU-Norman Research campus.,False,"Norman, Oklahoma",https://pbs.twimg.com/profile_images/1185246428114948103/SZ_0kNfL_normal.jpg,152,204,0,176
+1594735590834335744,Day 21's theme for the #30DayMapChallenge is the @kontur population dataset (400m hexagons of population). In this map of the @PICTS_project region you can see how the population distribution is shaped by the topography and underlying geology! Map made using @gmt_dev https://t.co/M383YpCEm6,3119218925,2022-11-21 16:52:48+00:00,3_1594734957406130180,photo,https://pbs.twimg.com/media/FiGi_pcXEAQrnUt.png,en,0,0,3,0,Twitter Web App,Amy Gilligan,seismo_amy,"Lecturer in Geophysics at @abdngeology, using seismology to understand how the Earth works",False,Aberdeen and Dundee,https://pbs.twimg.com/profile_images/1288598869606006784/uvqyJDZc_normal.jpg,1082,639,33,1931
+1594733782065901569,"#30DayMapChallenge | Day 21 - Kontur Population
+
+Iberian Peninsula
+
+code: https://t.co/fh33oElbVX
+
+#rstats #ggplot2 https://t.co/xu96oMsuOv",38052918,2022-11-21 16:45:37+00:00,3_1594733615639924744,photo,https://pbs.twimg.com/media/FiGhxi-XkAgl50n.jpg,in,4,1,15,0,Twitter Web App,Ryan Hart,ryanahart,Husband | Dad | Runner … All opinions are my own,False,"Charlotte, NC",https://pbs.twimg.com/profile_images/1554115831809835008/85SGgWHX_normal.jpg,383,448,7,495
+1594732095859048449,"#30DayMapChallenge Day 21 - Kontur Population Data
+
+Keeping it simple - Population map of Europe
+
+#QGIS https://t.co/GNBWeTUI7I",223959960,2022-11-21 16:38:54+00:00,3_1594731955693797377,photo,https://pbs.twimg.com/media/FiGgQ7MXwAETiIQ.jpg,en,3,0,23,1,Twitter Web App,Kirsten Reilly,_penguin_runner,Yorkshire Girl moved beyond the wall.  Technical GIS Consultant.,False,"Stirling, Scotland",https://pbs.twimg.com/profile_images/877616925836234753/7TyXDR2f_normal.jpg,465,1215,9,2113
+1594731512666243074,"#30DayMapChallenge 
+Day 21 : Kontur Population Dataset
+Indonesia by night
+#QGIS https://t.co/bCEgQMYEym",1395749392276152320,2022-11-21 16:36:35+00:00,3_1594731326019600389,photo,https://pbs.twimg.com/media/FiGfsReWAAU5Qha.jpg,en,2,0,11,0,Twitter Web App,🇲🇬 xpirix 🗺️ 💪,Xpirix3,#cartography #sport #techology,False,Madagascar,https://pbs.twimg.com/profile_images/1452835127378300933/C3bdP0WY_normal.jpg,69,174,3,83
+1594728999737085954,"#30DayMapChallenge 2022 Day 21: Kontur Population Dataset
+I was wondering how many people in Bangladesh were affected by the flood this year. So I took Sentinel 1 data to calculate the flooded areas and then blend them with the contour dataset. https://t.co/CxZJTER7hk",1454920710812487680,2022-11-21 16:26:36+00:00,3_1594728722963353600,photo,https://pbs.twimg.com/media/FiGdUwVX0AADiEZ.jpg,en,0,0,3,0,Twitter Web App,nordaufnordost,nordaufnordost,,False, ,https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png,6,2,1,60
+1594728932158623744,"Been falling a bit behind on the #30DayMapChallenge but found a bit of inspiration in the @KonturInc Dataset. 
+
+I present to you.. 
+The population of Small Islands in the #Caribbean⚓️
+#cARTography #GISchat https://t.co/hbZJDNVj7V",1183213291188834305,2022-11-21 16:26:20+00:00,3_1594728893440819202,photo,https://pbs.twimg.com/media/FiGderaXgAI4sP9.jpg,en,3,1,44,0,Twitter Web App,Ayeisha Sheldon,ayeishasheldon1,"Australian a long way from home • Geospatial Analyst and Map Maker 🇺🇳 Strong advocator for the environment, DRR, humanitarian response and #SpaceforSDGs 🛰",False,"Geneva, Switzerland",https://pbs.twimg.com/profile_images/1524516656332029952/PFjb6oYV_normal.jpg,473,429,11,888
+1594727857221165057,"#30DayMapChallenge Day 21: Kontur Dataset 
+Population density in central Switzerland. 
+Data from @KonturInc 
+Code: https://t.co/lNWbcTAqsh
+Made with #RStats #rspatial https://t.co/sj0rajlwfs",993008496152064001,2022-11-21 16:22:04+00:00,3_1594727829819854850,photo,https://pbs.twimg.com/media/FiGcgxHXkAI0Lyw.jpg,en,4,0,9,0,Twitter Web App,Jonas Stillhard,JonasStillhard,"Research technician @wsl_research, working with @naturwald_wsl antifacist, mountains, forests, maps, rap, #RStats and #rspatial https://t.co/LPBalNwP0T",False,ecoevo.social/@jonasstillhard,https://pbs.twimg.com/profile_images/997928524731305984/EDQB83vN_normal.jpg,195,358,3,120
+1594727338264363008,"Day 21 - Kontur Pop Dataset #30DayMapChallenge 
+Had to choose a small area cause I had trouble managing the full dataset in my old pc… but here it is #Roma and its most densely populated area, at least according to this dataset
+Made in #aerialod and #affinitydesigner https://t.co/R9yTWZRvdS",1433417142049853441,2022-11-21 16:20:00+00:00,3_1594727310791512066,photo,https://pbs.twimg.com/media/FiGcCjlXkAI0Ipm.png,en,2,0,24,1,Twitter Web App,LatidudeMaps,LatidudeMaps,Fulltime geologist | Mapping&GIS enthusiast in the spare time. I speak badly in both Italian and English. You will not find maps here.,False,Italy,https://pbs.twimg.com/profile_images/1590810663739334682/TZUnuszA_normal.jpg,1025,292,18,362
+1594723822871142405,"Day 21 of #30DayMapChallenge, Kontur Population Dataset
+
+Cells with ≥ 1000 people
+
+#RStats code and big image: https://t.co/LU9MPYVlxj https://t.co/toURddpZPV",1002212251,2022-11-21 16:06:02+00:00,3_1594723711143354368,photo,https://pbs.twimg.com/media/FiGYxB2XoAAgrTC.jpg,en,9,1,55,0,Twitter Web App,Georgios Karamanis,geokaramanis,"Freelance dataviz designer, psychiatrist, PhD student",False,"Uppsala, Sweden",https://pbs.twimg.com/profile_images/1489565431216197633/Jw0THavK_normal.jpg,7355,252,172,3683
+1594721678227013632,"As a population geographer, I had to jump back into the #30DayMapChallenge with the KONTUR Population dataset. Can you guess these countries from their population distribution?🧵(I tried to make it a challenge) 🤠 No. 1: https://t.co/HKXXwo1LNc",1439277897072664584,2022-11-21 15:57:31+00:00,3_1594719428758880280,photo,https://pbs.twimg.com/media/FiGU3wuWQBg_5v5.png,en,2,1,14,0,Twitter Web App,Sebastian Hanika,SebHanika,"Population ageing, 📊 data and 🌍 maps.
+PhD Student at Lund University • EDSD '21/22",False, ,https://pbs.twimg.com/profile_images/1559566827717550080/-rDVS0Kf_normal.jpg,72,141,0,23
+1594721007029612544,"#30DayMapChallenge Day 21: Kontur Data
+Working across the globe, population data at a small geographic level can be difficult to source from official sources so it's great that datasets such as Kontur Population Data is available widely. 
+
+Here's a map for Eswatini (pop/hex) https://t.co/LniPZnvB5K",793464945971257350,2022-11-21 15:54:51+00:00,3_1594720848736358402,photo,https://pbs.twimg.com/media/FiGWKajXEAIoVDD.png,en,2,0,7,0,Twitter Web App,Design for Movement,Steer_DfM,"We are a global design team in @Steer_Group who combine our understanding of design and analytics to make better places for people.
+Place ▪ Identity ▪ Movement",False,"Europe, N.America, LATAM, Asia",https://pbs.twimg.com/profile_images/1156952711176364034/HWkNo-IB_normal.jpg,382,117,14,511
+1594720307155111937,"#30daymapchallenge | Day 21: Population 
+
+#gischat #aerialod https://t.co/7jC5vzktmr",1327776293971103746,2022-11-21 15:52:04+00:00,3_1594720127680843776,photo,https://pbs.twimg.com/media/FiGVgcaVEAA98xZ.jpg,en,5,2,71,1,Twitter Web App,Wanmei L 🌎,MapsbyW,GIS Professional | Cartographer | Visual Communicator | Maps Lover | Woman in GIS,False, ,https://pbs.twimg.com/profile_images/1327776857056428034/eRFdrhbg_normal.jpg,753,212,9,643
+1594719576511635456,"Day 21: Data: Kontur Population Dataset.
+Senegal: Population Density.
+#30DayMapChallenge https://t.co/oV8r3nl7Ry",1587480134843498496,2022-11-21 15:49:10+00:00,3_1594719516013072387,photo,https://pbs.twimg.com/media/FiGU81xXkAMhuj2.jpg,in,2,0,12,0,Twitter Web App,ANDRIAR Ranto,AvokoRanto,,False, ,https://pbs.twimg.com/profile_images/1592576207224201221/ByLi1wcB_normal.jpg,28,60,2,29
+1594715074568110082,"#30DayMapChallenge day 21 Data: Kontur Population Dataset
+
+#rstats code: https://t.co/6zfge0LL0P https://t.co/Gvb3NoMifq",1331215289825030147,2022-11-21 15:31:16+00:00,3_1594714341537980416,photo,https://pbs.twimg.com/media/FiGQPpWXoAAZsw2.jpg,tl,6,1,24,0,Twitter Web App,Lee Olney | @leeolney@fosstodon.org,leeolney3,"#datascience #dataviz #rstats | she/her
+
+@leeolney@fosstodon.org",False,"Abu Dhabi, UAE",https://pbs.twimg.com/profile_images/1331215667824046084/p0RQBay5_normal.jpg,931,506,24,477
+1594714802563301376,"Каждый ноябрь проходит челлендж по созданию карт на ежедневные темы #30DayMapChallenge, запущенный географом @tjukanov.
+
+В 4й день, посящённый зелёному цвету, Кейт Берг из @MichiganEGLE подготовила коллекцию очертаний Гренландии.
+
+В Топ-10 #ddj @gijn
+Рус👉 https://t.co/IiyOKrUQKa https://t.co/Eo8cck3btH",785804236655251457,2022-11-21 15:30:11+00:00,3_1594714796116541441,photo,https://pbs.twimg.com/media/FiGQqGyWAAEDRzr.jpg,ru,0,0,1,0,Buffer,GIJN - Глобальная сеть журналистов-расследователей,gijnRu,"Тут мы делимся ресурсами для расследований, историями и грантами.
+https://t.co/WbYi8toDUG
+https://t.co/s5zvGKBGxa
+GIJN на других языках 👉https://t.co/MmbVYMoijh",True,Международный центр,https://pbs.twimg.com/profile_images/1136324548435927041/lEiM18Gx_normal.png,2873,3413,61,15216
+1594714353353519104,"From 11/20: While rice is a global favorite starch, much of it is produced in SE Asia. Rice yields will likely fail more often in the future due to climate change.
+#Rice #ClimateChange
+
+#30DayMapChallenge (Day20: My Favorite)
+
+(🗺️: @cmshintani,📊: Monica Caparas) https://t.co/keFRSnIB9W",249790792,2022-11-21 15:28:24+00:00,3_1594714348831866882,photo,https://pbs.twimg.com/media/FiGQQEhXgAIND-b.jpg,en,15,1,39,0,Twitter Web App,Woodwell Climate Research Center,WoodwellClimate,"Woodwell Climate conducts science for solutions and partners with leaders and communities for just, meaningful impact to address the climate crisis.",False,"Falmouth, MA",https://pbs.twimg.com/profile_images/1512181332163637254/iLBV2MDV_normal.jpg,9304,1008,328,6108
+1594714333640007681,"#30DayMapChallenge Day 19: Globe
+Lagging a bit behind the schedule, trying to catch up. 
+A minimal global map...
+Code: https://t.co/jZ1jM8RFem
+Made with #RStats #rspatial https://t.co/HewvHipM7y",993008496152064001,2022-11-21 15:28:20+00:00,3_1594714251163312140,photo,https://pbs.twimg.com/media/FiGQKYrXoAwEwN9.png,en,8,0,22,0,Twitter Web App,Jonas Stillhard,JonasStillhard,"Research technician @wsl_research, working with @naturwald_wsl antifacist, mountains, forests, maps, rap, #RStats and #rspatial https://t.co/LPBalNwP0T",False,ecoevo.social/@jonasstillhard,https://pbs.twimg.com/profile_images/997928524731305984/EDQB83vN_normal.jpg,195,358,3,120
+1594710185934823429,"Day 21 - Kontur Population Dataset
+Water is indeed life as proven by the population distribution in South Central Somalia along the Shabelle river  &amp;  Juba rivers.  Areas out of towns are uninhabited as they are unsafe and are controlled by Al Shabaab.
+#30DayMapChallenge https://t.co/1yp2WdhBbD",154031647,2022-11-21 15:11:51+00:00,3_1594709779771002888,photo,https://pbs.twimg.com/media/FiGMGHcXkAgdKTS.jpg,en,3,1,5,0,Twitter Web App,Lakti,Arap_solit,Saint by grace | Christ Imitator | GIS Consultant | Arsenal & Ingwe fan.,False,Chini Ya Mwamba,https://pbs.twimg.com/profile_images/1052463719287087104/F2EMGHcV_normal.jpg,1329,1376,12,17421
+1594707218238038016,"#30DayMapChallenge, Day 21. Still having fun playing with old ANSI graphics. Given that I could only access 16 colors (&amp; only 8 can be backgrounds), I'm pleased I was able to make a scheme that was kinda ColorBrewer-like. https://t.co/pwcDellPqr",243497005,2022-11-21 15:00:03+00:00,3_1594460082078711809,photo,https://pbs.twimg.com/media/FiCo_zDXgAEJrXv.png,en,3,2,43,0,TweetDeck,Daniel P. Huffman,pinakographos,"An arboreal, poly, gender non-participant mapmaker. You can support my art & teaching at https://t.co/FzQRVe3aY8. Also: https://t.co/i6qDLfbARo & @AlphaCentQuotes.",False,"Madison, WI",https://pbs.twimg.com/profile_images/1316633717/Twitter_normal.png,10552,86,302,9780
+1594707107114278912,"Day 21 of the #30DayMapChallenge. The theme is @KonturInc Population Dataset. We used it to understand where health facilities are in relation to people in Lamogi sub county, northern #Uganda . We symbolised them by gradient size and colour points to give a sense of scale. https://t.co/Zh3qodXgVF",380816669,2022-11-21 14:59:37+00:00,3_1594706742234988546,photo,https://pbs.twimg.com/media/FiGJVTvWQAIhmVM.jpg,en,4,0,11,0,Twitter Web App,AlcisGeo,AlcisGeo,"Innovative, world class Geographic Information Services to improve the lives of the world's most vulnerable people.",False,UK,https://pbs.twimg.com/profile_images/1991521710/Alcis_Logo_mark_only_300dpiv2_normal.jpg,2557,714,108,3527
+1594701025633783808,"If you visit French Occitanie, do not forget the (very) peaceful department of Lozère. Into the wild for Day 21 of #30DayMapChallenge. 
+France Kontur Population Dataset here: https://t.co/1Y19LizyAc https://t.co/lIqMGTyNWf",981265770511523840,2022-11-21 14:35:27+00:00,3_1594700830002876417,photo,https://pbs.twimg.com/media/FiGD9K9XkAE-JlE.jpg,en,2,1,4,0,Twitter Web App,Thomas Dubot,thomasdubdub,♂︎🇫🇷 / 👨‍👩‍👧‍👦 / 👨🏻‍🔬🚀🖥 / 🤓🤖✈️🎲♖,False,"Toulouse, France",https://pbs.twimg.com/profile_images/988660717120360448/50ll4V0O_normal.jpg,49,148,2,138
+1594699681489207297,"Hier is nummertje 19 van de #30DayMapChallenge. Het sleutelwoord was ‘globe’. 
+
+Dus dat werd een tijdreis van 300 miljoen jaar terug in de tijd. Terug naar die goeie ouwe tijd dat alle nog continenten samengeklonterd waren. 
+
+Pangaea. https://t.co/lsApXtlK0M",22024763,2022-11-21 14:30:06+00:00,3_1594699675189317636,photo,https://pbs.twimg.com/media/FiGC588XEAQEkT0.jpg,nl,3,5,33,0,Twitter for iPhone,Jelmer Visser,DieTukkerfries,"Bekendste Etten-Leur-ontkenner van Nederland en omstreken, MIAUW-oprichter, journalist, ontwerper, kaartenkleier en ‘prominente Twitteraar’ -ministerie van VWS.",False,Enschede,https://pbs.twimg.com/profile_images/1514221510214537219/Cgb7duns_normal.jpg,24645,1340,167,247364
+1594699625222504450,"#30DayMapChallenge 
+Day 21：Kontur Population Dataset
+Sicily Population 2022 https://t.co/cPS0dF1oXz",1482613878664359940,2022-11-21 14:29:53+00:00,3_1594697185807028224,photo,https://pbs.twimg.com/media/FiGApDRX0AA4UI-.jpg,en,0,0,6,0,Twitter Web App,Zoe Z,teddybear_Zoe,,False, ,https://pbs.twimg.com/profile_images/1482615449645109250/bO-jC4-C_normal.jpg,13,34,0,42
+1594695880371994624,"Can you create a map in 5 minutes? For Day 13 of the #30DayMapChallenge, we took the opportunity to teach our marketing team the basics of cartography!
+
+Learn more about the experience: https://t.co/xbhTXAbhJF https://t.co/XNAqsazEqx",22914910,2022-11-21 14:15:00+00:00,3_1594680786132819969,photo,https://pbs.twimg.com/media/FiFxuduWYAED-Fy.png,en,1,0,3,0,Semrush Social Media Tool,Avenza Systems Inc.,Avenza,#MapsInAdobe @CreativeCloud: MAPublisher for Illustrator & Geographic Imager for Photoshop. Makers of the mobile offline @AvenzaMaps app for iOS and Android.,False,"Toronto, ON",https://pbs.twimg.com/profile_images/1238083144747757569/sFIe0Tfl_normal.jpg,1436,150,70,3132
+1594695444336345090,"We are incredibly proud of Kontur Population dataset being today's topic of #30DayMapChallenge.
+The global population density dataset is a product of our brilliant colleagues. This map shows our team's ""population distribution"". https://t.co/3SM41xbp9N",1024584556110852096,2022-11-21 14:13:16+00:00,3_1594694284061679617,photo,https://pbs.twimg.com/media/FiF-AJbXoAEbnkG.png,en,5,2,40,0,Twitter Web App,Kontur,KonturInc,"@kontur@mapstodon.space
+
+🌎 Geospatial solutions for rapid decision-making.
+
+hello@kontur.io | DM is open",False,"Hawaii, USA",https://pbs.twimg.com/profile_images/1381896328658231298/IM6uGeJX_normal.jpg,1274,1246,16,371
+1594694814007697408,"What population density looks like?
+
+@KonturInc population dataset contains 360 400x400x hexagons where the population count is marked as above 40 000. Here's a @Mapbox satellite image of all of them. #30DayMapChallenge bonus for day 21. https://t.co/2l7Gog2lqi",2198358416,2022-11-21 14:10:46+00:00,3_1594694346141483015,photo,https://pbs.twimg.com/media/FiF-DwsWQAcgKav.jpg,en,4,3,47,1,Twitter Web App,Topi Tjukanov,tjukanov,Makes maps. Works at @Mapbox. Started #30DayMapChallenge.,False,"Helsinki, Suomi",https://pbs.twimg.com/profile_images/1558777398220439552/cxNVvAri_normal.jpg,19650,2530,383,9568
+1594693607738331136,"Day 21 of #30DayMapChallenge - Data: Kontur Population Dataset
+データの一部(関東1都6県)をプロットしただけ…
+だがh3がどんなもんか分かった。
+Maplibre-gl-jsでHexの棒グラフ風の作り方が分かった。
+HRSLは衛星画像からの推定らしく、人口の値は所々おかしな値も。
+https://t.co/XGxrEnXIv1 https://t.co/ENHN5MA2P5",1540686101702070273,2022-11-21 14:05:58+00:00,3_1594693508564078592,photo,https://pbs.twimg.com/media/FiF9TAeVUAAYEPt.jpg,ja,0,0,5,0,Twitter Web App,tvizninja,tvizninja,I'm a data-viz ninja.,False, ,https://pbs.twimg.com/profile_images/1540686805875294209/G2qHGURl_normal.png,17,30,0,248
+1594692997576359939,"#30DayMapChallenge #Day21 with this network celebrating the 150years of the @NaturePortfolio  magazine, linking scientific publications based on citations- another fab piece from the @BarabasiLab 
+
+#dataart #networkscience #datafam https://t.co/LELDrAZbY2",811349952815398912,2022-11-21 14:03:33+00:00,3_1594692162775662593,photo,https://pbs.twimg.com/media/FiF8ErBXwAEi7e5.jpg,en,1,2,7,0,Twitter Web App,Milan Janosov,milan_janosov,"phd in network and data science, @datapolis_io @ceuhungary, @forbes 30u30, former @belllabs and @morganstanley",False,"Budapest, Hungary",https://pbs.twimg.com/profile_images/1565695426887667718/Ri2zDg-2_normal.jpg,564,162,13,476
+1594681229538136064,"Hari 21 - #30DayMapChallenge - Kontur Population Dataset. 
+Population Density in Lombok Island
+makin gelap warnanya populasinya makin padett uhuyyyy, oya ini free-source data gitu ges populasi dalam bentuk h3 aka #Hexagon
+#QGIS #DataViz https://t.co/8BpR9LYgaC",1434095811499945984,2022-11-21 13:16:47+00:00,3_1594680607573172230,photo,https://pbs.twimg.com/media/FiFxkEiaYAYR_uy.jpg,in,2,1,5,0,Twitter Web App,Gisact Indonesia,gisact_org,"Geospatial Institute of Sustainability Action
+
+""Geospatial for Life""",False, ,https://pbs.twimg.com/profile_images/1438374030046752768/su-5q988_normal.jpg,79,12,0,56
+1594680672551309315,"In honour of the 5th #SADCGMI #Groundwater Conference, we launched the Transboundary Aquifers of Africa Map 2022. Across #Africa, there are now 106 #TBAs identified, ranging from 10 km2 to 2,500,000 km2. 
+https://t.co/DG22JNVe1f #30DayMapChallenge #openaccess #opendata #maps #GIS https://t.co/phqEPhwhzt",2601338280,2022-11-21 13:14:34+00:00,3_1594680253976305666,photo,https://pbs.twimg.com/media/FiFxPfSWYAI_pDY.jpg,en,23,3,54,4,Twitter Web App,IGRAC,UNIGRAC,IGRAC facilitates and promotes world-wide exchange of groundwater knowledge under the auspices of @UNESCO and @WMO.,False,"Delft, Netherlands",https://pbs.twimg.com/profile_images/1320667842338033664/Gfp_6JrF_normal.jpg,3304,1048,48,1743
+1594679238677995520,#30DayMapChallenge Day 21: Kontur Population Dataset - The Mekong river is a primary feature of the Cambodian national economy. This map shows the population within 25km of the Mekong. I spent a good amount of time in Cambodia and it's a wonderful place. I suggest you go. https://t.co/3FstAt35rZ,752317697090723840,2022-11-21 13:08:52+00:00,3_1594679027582779392,photo,https://pbs.twimg.com/media/FiFwIGnWQAAeYpj.jpg,en,3,0,11,0,Twitter Web App,Kevin Haynes,Kevin_B_Haynes,Geographer • GIScientist • Public Administrator • Program Evaluator • Conservationist • South Asianist • He/Him • The views expressed here are my own •,False,Earth,https://pbs.twimg.com/profile_images/1395357175833403393/AF1xxH2I_normal.jpg,1071,614,8,1471
+1594678913577488386,"This year, the Navigation/Gaming team of MBition participates in the #30DayMapChallenge. Today's topic is the ""Kontur Population Dataset"".
+
+The dataset contains worldwide population density. We filtered it to Germany and added some color effect on the data. https://t.co/RgupKxb4nZ",41994074,2022-11-21 13:07:35+00:00,3_1594678797797888004,photo,https://pbs.twimg.com/media/FiFv6umXEAQl6WY.jpg,en,1,0,3,0,Twitter Web App,Niels Lohmann,nlohmann,Baut Software für Daimler. @ Medicover Endokrinologie Berlin,False, ,https://pbs.twimg.com/profile_images/2954852699/01d462042a12ef8c476af1a99f3154ea_normal.jpeg,989,270,32,22285
+1594673167720742917,"#30DayMapChallenge Day 21: Data: Kontur Population Dataset
+
+Sulawesi (#Indonesia) population density for 400m H3 hexagons.
+
+#tableau #affinitydesigner #mapbox https://t.co/YHJ92LjxMc",826131117417910272,2022-11-21 12:44:45+00:00,3_1594672718393270273,photo,https://pbs.twimg.com/media/FiFqY3DWYAEgFTk.jpg,en,2,0,15,0,Twitter Web App,Marc Reid,marcreid,"Data analysis & visualisation  |  #Tableau Visionary  |  Tips & Tutorials:
+✍ https://t.co/YgNJTbzSg5
+▶ https://t.co/8O7riNaSw3
+💻 https://t.co/TwXMXIOw6a",False,"London, England",https://pbs.twimg.com/profile_images/1574043909302505474/kyRi2XxX_normal.jpg,2435,919,74,2223
+1594673125454712836,"#30DayMapChallenge 
+Jour 21 : Kontur Population Dataset
+
+📍Corée du Sud
+Répartition de la population dans les provinces sud-coréennes. https://t.co/mZwReyJbPC",1196778015537188865,2022-11-21 12:44:35+00:00,3_1594673118940913667,photo,https://pbs.twimg.com/media/FiFqwLNWYAM11eE.jpg,fr,0,0,5,0,Twitter for iPhone,Floche,flocheprl,,False, ,https://pbs.twimg.com/profile_images/1571986067464622080/rrwrs9De_normal.jpg,21,48,0,57
+1594669898830999552,"#30DayMapChallenge Day 21 - Data - Kontur Population Dataset 💡 | OS Data Scientist Jamie Young presents the population data for #GreatBritain on a hexagonal grid - rendering each hexagon as a tower. @KonturInc 
+
+The data was extracted in #Python and visualised in @Blender. https://t.co/vxhFogVLbh",22614266,2022-11-21 12:31:46+00:00,3_1594669896029405189,photo,https://pbs.twimg.com/media/FiFn0k7XgAULtKS.jpg,en,8,0,26,0,Hootsuite Inc.,Ordnance Survey,OrdnanceSurvey,"Britain's mapping agency. Helping you #SeeABetterPlace with world-leading location expertise. Get outside with @OSLeisure. 
+Online 9-5 Mon-Fri.",True,"Southampton, UK",https://pbs.twimg.com/profile_images/1572202829183418370/yQer2CYl_normal.jpg,64602,3729,1219,62385
+1594666992174501889,"#30DayMapChallenge
+
+Day 21　Data: Kontur Population Dataset
+
+Good data for freezing my GIS app
+
+見るだけでひと苦労
+
+#30DaysMapChallenge https://t.co/UZJiKCEKAR",1584556399651999744,2022-11-21 12:20:13+00:00,3_1594666958716571653,photo,https://pbs.twimg.com/media/FiFlJmlakAUzPJe.jpg,ja,0,0,2,0,Twitter Web App,riogis,riogis1,"My motto, GaaH (GIS as a Hobby)",False,"Tokyo, Japan",https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png,9,24,0,65
+1594665966297907200,"Population in Europe.
+
+#30DayMapChallenge Day 21: Kontur population dataset. I took the centroids from the hexagons and scaled them based on the population number. Used a very thin line and highly transparent color to create this effect with QGIS. https://t.co/3Yz2D031HI",2198358416,2022-11-21 12:16:08+00:00,3_1594665547970510851,photo,https://pbs.twimg.com/media/FiFj3fJWAAM4RVN.jpg,en,27,6,150,2,Twitter Web App,Topi Tjukanov,tjukanov,Makes maps. Works at @Mapbox. Started #30DayMapChallenge.,False,"Helsinki, Suomi",https://pbs.twimg.com/profile_images/1558777398220439552/cxNVvAri_normal.jpg,19650,2530,383,9568
+1594665399403937793,"Day 21
+
+Today's theme is to create a map using Kontur population data. I have used the data of my district (Anantapur, AP) alone as it was a huge dataset.
+
+Data sources
+- World (https://t.co/J7AU3zfFsG)
+- India (https://t.co/KiBnyt5SBJ)
+
+#30DayMapChallenge #python #geopandas https://t.co/WoghrbsMNB",1203881949607026688,2022-11-21 12:13:53+00:00,3_1594665328738373632,photo,https://pbs.twimg.com/media/FiFjqucVEAAiXDp.jpg,en,4,0,6,0,Twitter Web App,Mohammed Sameeruddin,sameer_enigma,python developer | technical writer | aspiring Geo Data Scientist,False, ,https://pbs.twimg.com/profile_images/1376376043586473984/BAftO97n_normal.jpg,70,377,0,164
+1594664739556114432,Day 21: Kontur Population Dataset #30DayMapChallenge https://t.co/30C1Hm8cma,1587444944762916865,2022-11-21 12:11:16+00:00,3_1594664497322479617,photo,https://pbs.twimg.com/media/FiFi6VLVUAElqdq.jpg,en,1,0,10,0,Twitter Web App,Xiao Wang,gisXiaoWang,,False, ,https://pbs.twimg.com/profile_images/1587445161797111808/yhdntw5K_normal.jpg,34,15,1,36
+1594663073972903937,"Top story: @MapsByAntonia: '#30DayMapChallenge Day 21: Kontur Population Dataset
+
+A quick visualisation of #Kontur data for Germany! ' https://t.co/ya9nhWpN0F, see more https://t.co/2pwLqyYOis",308931672,2022-11-21 12:04:38+00:00,3_1594640593740865536,photo,https://pbs.twimg.com/media/FiFNK9ZXoAAkZp_.jpg,en,0,0,2,0,The Tweeted Times,jemoraz,jemoraz,Proud member of #XLMTM warriors family ✊🏼 / Giving support to @PSuperherois 🦸🏻‍♂️ / Bikeaholic 🚴🏼‍♂️,False,Barcelona,https://pbs.twimg.com/profile_images/1404351462893891586/zkNcn56L_normal.jpg,604,1399,46,23695
+1594662333082750977,"20. 'My favourite...'
+
+Walking the AONB 🚶‍♀️
+
+Our Sunday entry for the #30DayMapChallenge was made by Rosie from our #LandscapeDesign team 🗺️
+
+It shows the geography of the South West Coast Path - one of the most spectacular #hiking routes in #Cornwall 💚
+
+#GISchat #maps #AONB #GIS https://t.co/yzeeQbQ7dm",2295951570,2022-11-21 12:01:42+00:00,3_1594662331170037760,photo,https://pbs.twimg.com/media/FiFg8PoWIAA9qdh.jpg,en,4,0,18,0,Hootsuite Inc.,LUC,LUCtweeting,"Innovative, intelligent team of environmental consultants, making a difference to the world we live in for over 55 years 🌱 An Employee-Owned Company",False,United Kingdom,https://pbs.twimg.com/profile_images/1552961412703686656/8EkdQkFV_normal.jpg,3753,925,67,7232
+1594661315443916800,"#30DayMapChallenge Day 21: Population
+
+France Population densities
+
+#RStats Code &amp; HD graphic: https://t.co/t2pwxZmQ4J
+
+#dataviz #gis #maps https://t.co/62xzU9dvvI",710248662685851648,2022-11-21 11:57:39+00:00,3_1594661071591297025,photo,https://pbs.twimg.com/media/FiFfy7VX0AEJFxW.png,fr,4,1,27,0,Twitter Web App,Abdoul Madjid,issa_madjid,,False,"Dijon, France",https://pbs.twimg.com/profile_images/1562214392443203584/9gzYrbNB_normal.jpg,659,220,16,1563
+1594651738019344384,Day 21: Kontur Population Dataset #30DayMapChallenge https://t.co/GVuvYDIP8T,433379529,2022-11-21 11:19:36+00:00,3_1594651441934876673,photo,https://pbs.twimg.com/media/FiFXCaEXwAE4sSK.png,en,3,0,81,0,Twitter Web App,Vanessa Tebbitt,vanessatebbitt,Maps & data visualizations - GIS Analyst based in 🇮🇪,False,"Wicklow, Ireland",https://pbs.twimg.com/profile_images/1476971586230046727/Dbd3quVK_normal.jpg,817,209,13,205
+1594651605806505984,"Julio brings us to Spain today, having a look at population density. Data provided by @kontur. #30DayMapChallenge #gischat https://t.co/FccSPux0qN",324473764,2022-11-21 11:19:04+00:00,3_1594651603243597825,photo,https://pbs.twimg.com/media/FiFXLy_XgAEvG3n.jpg,en,3,1,35,0,HubSpot,GeoPostcodes,GeoPostcodes,The most complete and accurate postal database for companies with a global footprint.,False,Belgium,https://pbs.twimg.com/profile_images/1446376820220309538/knAIGZUT_normal.jpg,188,475,1,161
+1594648737187602432,"#30DayMapChallenge day 21 challenged us to use the Kontur Population Dataset. @charvanderlijn found the perfect population count filter to find where Helsinki can be split [almost] exactly in half- that is for &lt;= or &gt;= 2,625 people per hexagon🤓 https://t.co/MJriNIUzQ2",845248364191059968,2022-11-21 11:07:40+00:00,3_1594648637249884160,photo,https://pbs.twimg.com/media/FiFUfJzXEAAA8GX.jpg,en,3,1,21,0,Twitter Web App,DigitalGeographyLab,digigeolab,"Interdisciplinary research lab @helsinkiuni. Spa­tial big data ana­lyt­ics on a hu­man scale for fair and sustainable so­ci­et­ies. 
+#openscience @TuuliToivonen",False,"Helsinki, Finland",https://pbs.twimg.com/profile_images/845264912771362816/SFIT03nF_normal.jpg,1573,362,20,1189
+1594648421574578176,"#30DayMapChallenge Day 19 : Globe
+Map for the 19th day, little delay 
+Harbours and Coasline, Indian Ocean
+#habour #coast #India #Globe https://t.co/UMbliSi6ip",1587742646981754880,2022-11-21 11:06:25+00:00,3_1594648336761602049,photo,https://pbs.twimg.com/media/FiFUNqZXwAEf5q2.jpg,en,1,0,4,0,Twitter Web App,CP2R Consulting,cp2rconsulting,"C. Péronneau -🗺️ Géographe spécialiste des risques naturels !
+🌤️ Conseil en prévention des risques majeurs - cartographe",False,France,https://pbs.twimg.com/profile_images/1589893087110766593/_898cAj4_normal.jpg,6,8,1,33
+1594645118677557250,"Day 21, Data: Kontur Population Dataset. Population in Vilnius in hexagons at 400 m resolution #vilnius #vilnius700 #lietuva #30DayMapChallenge https://t.co/nIRHbFNHLd",1096581954844147713,2022-11-21 10:53:18+00:00,3_1594644727638392838,photo,https://pbs.twimg.com/media/FiFQ7lXWAAYsqeu.jpg,en,0,0,3,0,Twitter Web App,Renārs,laysking3,"#fazeup
+🇱🇻🍷🗺️",False,"Riga, Latvia",https://pbs.twimg.com/profile_images/1588875111767179264/f1d7W4HE_normal.jpg,27,91,3,393
+1594641269103333377,"#30DayMapChallenge Day 21 - Kontur Population Dataset
+
+A first geopolitical map, about people around Korea DMZ
+
+Data : Kontur, OpenStreetMap https://t.co/Nh1isdysCG",67455306,2022-11-21 10:38:00+00:00,3_1593241390531547139,photo,https://pbs.twimg.com/media/FhxUmnQVEAMBY-C.jpg,en,1,0,8,0,Twitter Web App,bordoray,bordoray,"La carte est un éternel voyage・
+
+🌍️2011 @IGNFrance → ✈️2017 @NightleyStaff →🗺 2022 @MIERUNE_inc・
+⚽️📝 Auteur de @GirondinsJP・
+🚃 @ekimemo・🏓 @WTTGlobal",False,Mashiko,https://pbs.twimg.com/profile_images/1552306236346867713/DMlohWBR_normal.jpg,152,122,5,9976
+1594640597171724288,"#30DayMapChallenge Day 21: Kontur Population Dataset
+
+A quick visualisation of #Kontur data for Germany! https://t.co/iiXXROHPaE",437801734,2022-11-21 10:35:20+00:00,3_1594640593740865536,photo,https://pbs.twimg.com/media/FiFNK9ZXoAAkZp_.jpg,en,9,5,142,0,Twitter for Android,Antonia Blankenberg 🗺️,MapsByAntonia,She/her. Some geography and drummer nerd. I love cool maps. Check out @tbl8band for some funkiness.,False,"Dublin City, Ireland",https://pbs.twimg.com/profile_images/1575074681991954441/EBDhbG3c_normal.jpg,1048,595,24,3544
+1594639947331518464,Day 21 of #30DayMapChallenge | Data: Kontur Population Dataset | The population of the world seen differently... https://t.co/aokY2QKHk7,2364192646,2022-11-21 10:32:45+00:00,3_1594639870898626567,photo,https://pbs.twimg.com/media/FiFMg4mWYAcLf26.jpg,en,2,0,8,0,Twitter Web App,Padonou Mikhaïl,229Biodiversity,,False,République du Bénin,https://pbs.twimg.com/profile_images/1322503864713707520/i5icTskc_normal.jpg,151,100,5,756
+1594635757691469824,"#30DayMapChallenge Day 21 ""Kontur dataset"". 👨‍👩‍👧‍👦👨‍👩‍👦
+
+In spatial smoothing, points are averaged with their neighbours. We accept a loss of spatial precision to obtain significant results.
+Smoothing can be done thanks to the btb #rstats package of @InseeFr
+https://t.co/z0M6mqpXa4 https://t.co/JMyz6gAfPO",560431626,2022-11-21 10:16:06+00:00,3_1594635755200077824,photo,https://pbs.twimg.com/media/FiFIxUbWYAASvIw.jpg,en,8,0,18,0,Twitter for Android,antuki,antuki13,Statistician and 👯#RLadies 💜 #RStats #RStatsFR 🇫🇷  Interested in  #statistics 🔢  #dataviz 📊 and #SpatialAnalysis 🌍⏩ #COGugaison & #CARTElette 📦  !,False,Paris,https://pbs.twimg.com/profile_images/1046390057492451328/c-fuJPJf_normal.jpg,665,284,23,1039
+1594634179425468416,"The eastern end of the historical peninsula also known as the golden horn, was crowded hundreds of years ago, and it is the same now and transportation routes were also very similar. #30DayMapChallenge #QGIS @GIS https://t.co/DUK1AKHsVJ",518294982,2022-11-21 10:09:49+00:00,3_1594631884172132353,photo,https://pbs.twimg.com/media/FiFFP_uXgAElWUo.jpg,en,1,0,3,0,Twitter Web App,burakthn,tcburakturhan,,False, ,https://pbs.twimg.com/profile_images/1588142030605131776/gwMwfSzj_normal.jpg,37,218,0,86
+1594632837428383745,"Day 20 - My Favourite...
+Now that it's lunch time...Nairobi restaurants!
+I can't call myself a foodie but occasionally I visit a restaurant for social meet ups save for my best place since my campus days...Club 36 aka Klabu that to date I go for smocha! #30DayMapChallenge https://t.co/2T7LzQmgjB",154031647,2022-11-21 10:04:29+00:00,3_1594632791295148032,photo,https://pbs.twimg.com/media/FiFGEzBWQAAC-xH.jpg,en,3,1,6,0,Twitter Web App,Lakti,Arap_solit,Saint by grace | Christ Imitator | GIS Consultant | Arsenal & Ingwe fan.,False,Chini Ya Mwamba,https://pbs.twimg.com/profile_images/1052463719287087104/F2EMGHcV_normal.jpg,1329,1376,12,17421
+1594632634948554755,"#30DayMapChallenge Day 16 - Minimal
+Mount Everest https://t.co/dpHUpHgmkO",1585821802235764737,2022-11-21 10:03:41+00:00,3_1594632614669082624,photo,https://pbs.twimg.com/media/FiFF6hCaYAArkWJ.jpg,en,0,0,4,0,Twitter Web App,li jian,lijian08638859,,False,shanghai,https://pbs.twimg.com/profile_images/1592694426144768000/qnsJNR0Q_normal.jpg,4,1,1,30
+1594630509258211328,"#30DayMapChallenge 21 ""Data: Kontur Population Dataset"": Mit einer Jahres-Zeitreihe werfen wir einen Blick auf die durchschnittliche Haushaltsgröße #Hamburgs der Jahre 2012 bis 2020. @StatistikNord https://t.co/30PVaRgLhZ",1306128447094259713,2022-11-21 09:55:14+00:00,7_1594630273169330177,video,https://pbs.twimg.com/ext_tw_video_thumb/1594630273169330177/pu/img/vizvw3lkjJBuGeSN.jpg,de,1,0,9,1,Twitter Web App,Landesbetrieb Geoinformation und Vermessung (LGV),HH_Geo,"Hier finden Sie Informationen zu Geo- und Digitalisierungsthemen.
+
+Impressum: https://t.co/qxYx9X0u4A",False,Hamburg,https://pbs.twimg.com/profile_images/1306135418946179073/GxI3yVxQ_normal.jpg,510,114,9,445
+1594629101868011520,Day 21: Kontur Population Dataset #30DayMapChallenge https://t.co/kz2Y7ozi0W,1577290775750213632,2022-11-21 09:49:39+00:00,3_1594629077771632640,photo,https://pbs.twimg.com/media/FiFCspEWQAAvv90.jpg,en,1,0,1,0,Twitter Web App,Dall-E 30DayMapChallenge,DallEMap,"#30DayMapChallenge, a daily mapmaking challenge open even to IA, right ?",False, ,https://pbs.twimg.com/profile_images/1577292128299909121/_jO3ZkHm_normal.jpg,150,2,3,31
+1594626929474371584,"Day 21 - 30 Day Map Challenge - Data: Kontur Population Dataset 
+
+More information from LinkedIn: https://t.co/Ts8yZknoGH 
+
+Data from: https://t.co/qgdhULS9bd 
+
+#30DayMapChallenge #population #GeoPackage #World @Cadcorp https://t.co/kcrk9KilJC",92832101,2022-11-21 09:41:01+00:00,3_1594626926701953031,photo,https://pbs.twimg.com/media/FiFAvbtXwAcOanY.jpg,en,1,0,14,0,Buffer,Ian Usher,ian_usher1985,"#GIS and #mapping geek, with the title Business Development Manager at #Cadcorp. Currently getting into #triathlons. #OutlawHalfFinisher Opinions are my own.",False,Stevenage,https://pbs.twimg.com/profile_images/788297323797417984/napr4a4h_normal.jpg,480,1881,26,1832
+1594623638501838848,"#30DayMapChallenge 
+Jour 21 : Kontur
+
+Aujourd'hui, j'ai appris que la Côte-d'Or possédait une exclave à cheval entre la Nièvre et la Saône-et-Loire : Ménessaire #geotrivia https://t.co/eYZHQ6vCdc",1529548121268699136,2022-11-21 09:27:56+00:00,3_1594623381219037184,photo,https://pbs.twimg.com/media/FiE9hDwX0AACUj5.jpg,fr,1,1,3,0,Twitter Web App,Yanker,Carto_yan,"Cartographe curieux / Curieux cartographe
+Formateur SIG",False,France,https://pbs.twimg.com/profile_images/1531355808973438982/v6aUyZZB_normal.jpg,31,163,1,157
+1594621891381268481,"Using the population dataset from @KonturInc for the #30DayMapChallenge today on #Day21 to look at the population of Germany 🇩🇪 🇩🇪 🇩🇪
+
+Code: https://t.co/Mjyk58anH9
+
+#rstats #15MinuteMaps https://t.co/Dynv4muu0e",963902391643967488,2022-11-21 09:21:00+00:00,3_1591480285694140418,photo,https://pbs.twimg.com/media/FhYS40fWIAIiyEF.jpg,en,3,0,14,0,Twitter Web App,Nicola Rennie | @nrennie@fosstodon.org,nrennie35,Data Scientist @jumping_uk. PhD in Stats and OR. Generative artist. Runner of endurance races. Neat freak. She/her. Views my own. #rstats @nrennie@fosstodon.org,False,United Kingdom,https://pbs.twimg.com/profile_images/1563578170183274496/phbEUYQ4_normal.jpg,2853,1065,48,833
+1594621798175461378,"Day 21: Data: Kontur Population Dataset
+Population Salzburg
+© OpenStreetMap contributors (ODbL) &amp; Kontur Population Dataset
+Created with: #QGIS
+#30DayMapChallenge 
+https://t.co/qOq17Npps1 https://t.co/QPJCvNuoHW",152225939,2022-11-21 09:20:37+00:00,3_1594621594000932864,photo,https://pbs.twimg.com/media/FiE75B2XwAA5oa4.jpg,en,2,0,8,0,Twitter Web App,Claudia,ClaudiaSbg,,False,Salzburg,https://pbs.twimg.com/profile_images/1451572292438396932/80cyjvaE_normal.jpg,191,166,0,7744
+1594620937131134976,"Sydney city art map,Australia.#30DayMapChallenge https://t.co/9S1llCkkRn",1590595449769050112,2022-11-21 09:17:12+00:00,3_1594620430446387200,photo,https://pbs.twimg.com/media/FiE61TRWYAAaJd4.jpg,en,4,0,12,0,Twitter Web App,shu shuo,feishuoshu,design illustrations,False, ,https://pbs.twimg.com/profile_images/1590604207626788865/0uaKfKpQ_normal.jpg,206,953,0,166
+1594617865390370821,"#30DayMapChallenge #MIERUNE
+
+21日目「人口データ（Data: Kontur Population Dataset）」 @sorami 作
+
+北海道では、0.8%の面積に、人口の50%が居住しています。北海道本島は、世界で21番目に大きな島です。
+
+データ: Kontur Population Dataset, 国土数値情報 https://t.co/J4oY1AYu25",1533953845617106944,2022-11-21 09:05:00+00:00,3_1594586788542091264,photo,https://pbs.twimg.com/media/FiEcPFaVEAAnTGI.jpg,ja,14,0,39,1,Twitter Web App,MIERUNE Inc.,MIERUNE_inc,"MIERUNE (みえるね) は、GIS (地理情報システム) を専門とする会社です。
+MIERUNE is a Japanese company specialized in GIS (Geographic Information Systems).
+❤️ #FOSS4G !",False,"Hokkaido, Japan",https://pbs.twimg.com/profile_images/1559054472940515328/7coxdVgl_normal.jpg,409,40,9,283
+1594617290556936192,"Another catch-up map for the #30DayMapChallenge day 15, for which the theme was food/drink. I've put together a few maps exploring food banks in the UK and their location in relation to population. Food bank location data is from @GiveFoodCharity, pop data from @WorldPopProject https://t.co/akhiBe3cOL",925570614,2022-11-21 09:02:43+00:00,3_1594616417885851649,photo,https://pbs.twimg.com/media/FiE3LvUXkAElF9-.jpg,en,5,1,30,0,Twitter Web App,Heather Chamberlain,HeatherCh100,"Geographer, @WorldPopProject team, Senior Fellow @UniSouthampton | Maps | Geospatial data | Population mapping",False, ,https://pbs.twimg.com/profile_images/1390232684652371968/e0NudQ8A_normal.jpg,763,1104,7,986
+1594616609254952961,"#30DayMapChallenge #MIERUNE
+
+Day 21 ""Data: Kontur Population Dataset"" by @sorami 
+
+In Japan's Hokkaido prefecture, which contains the 21st biggest island in the world, 50% of the population lives on 0.8% of the area.
+ 
+source: Kontour Population Dataset, 国土数値情報 https://t.co/Rxkm8RHiZT",1533953845617106944,2022-11-21 09:00:00+00:00,3_1594585993146867712,photo,https://pbs.twimg.com/media/FiEbgyVVIAAiLWL.jpg,en,4,0,6,0,Twitter Web App,MIERUNE Inc.,MIERUNE_inc,"MIERUNE (みえるね) は、GIS (地理情報システム) を専門とする会社です。
+MIERUNE is a Japanese company specialized in GIS (Geographic Information Systems).
+❤️ #FOSS4G !",False,"Hokkaido, Japan",https://pbs.twimg.com/profile_images/1559054472940515328/7coxdVgl_normal.jpg,409,40,9,283
+1594614383417729024,"#30DayMapChallenge 🥕🥕🥕🥕
+La production 🇫🇷 de #semences de carotte
+▶️1491 Ha
+#SaviezVous que la distance d'isolement entre 2 champs de production de semences de carotte doit pouvoir atteindre jusqu'à 5km pour éviter tte pollution pollinique
+Gare aux carottes sauvages 😉 https://t.co/LcPEWxYg1n",1639563464,2022-11-21 08:51:10+00:00,3_1594604926822453248,photo,https://pbs.twimg.com/media/FiEsu3xXEAAtrU6.jpg,fr,12,1,17,0,Twitter Web App,semae,semae_officiel,"#SEMAE, l'interprofession de toutes les #semences et de tous leurs usages (ex #GNIS)",False,France,https://pbs.twimg.com/profile_images/1354401441977425922/mEMcGa56_normal.jpg,7211,1701,193,11611
+1594613606909452288,#30DayMapChallenge 😬 https://t.co/lcrjliJQE8,1537689873133494272,2022-11-21 08:48:05+00:00,3_1594613601750368262,photo,https://pbs.twimg.com/media/FiE0n0ZWQAYblY-.jpg,und,2,2,15,0,Twitter for Android,Romain T.,Romainsologne,Cartographe indépendant - Contact : romaint.sologne@gmail.com,False, ,https://pbs.twimg.com/profile_images/1547176980474466304/Vmn4OVi9_normal.jpg,148,178,7,113
+1594613335458164736,"#30DayMapChallenge Day 21 - kontur population dataset. This one was a bit slow on my machine - big dataset! Managed to get some maps out of it though. Europe, Central Africa, SE Asia, Caribbean https://t.co/jwnylM4e3x",19331692,2022-11-21 08:47:00+00:00,3_1592197426735190016,photo,https://pbs.twimg.com/media/FhifH7DXkAAR1ey.jpg,en,3,2,25,0,Twitter Web App,David Kane,kanedr,"Data Scientist @360Giving & Freelance. Picture is a homemade Dalek. Mostly talk about charities, data and charity data. @kanedr@mastodon.social",False,London,https://pbs.twimg.com/profile_images/72475537/twit_normal.jpg,2453,3244,93,10213
+1594613134517751808,"#30DayMapChallenge 
+Todays topic: kontur population data set
+
+Sea levels are rising. Here are the populated areas in Northern Germany that are no more than 2 m above the sea level. These regions are especially threatened by rising sea levels. https://t.co/dkOcW0SOwL",1344806977306849282,2022-11-21 08:46:12+00:00,3_1594611413405794304,photo,https://pbs.twimg.com/media/FiEyocLWAAAzwf2.jpg,en,1,0,16,0,Twitter Web App,Felix Eckel,FelixEckel,"Geophysics PhD student at @kieluni
+Seismology and Volcano Seismology",False,"Kiel, Germany",https://pbs.twimg.com/profile_images/1375873841449345027/RYE1VHIw_normal.png,181,143,7,246
+1594612658275221505,"#30DayMapChallenge 2022 day 21, Data: Kontur Population Dataset: 
+#Population centres of #Finland shown with #Kontur population data by @mkkallio using  #QGIS and @affinitybyserif. 
+@AaltoUniversity @AaltoENG https://t.co/O9hjDEK4vf",1159430569266167808,2022-11-21 08:44:18+00:00,3_1594612581012045824,photo,https://pbs.twimg.com/media/FiEzsZ2XgAADrdA.jpg,en,2,0,25,1,TweetDeck,Aalto-yliopiston geoinformatiikka,AaltoGeoinfo,"Geoinformatiikan tutkimusta, innovaatioita ja koulutusta @AaltoUniversity.",False,"Otaniemi, Espoo, Finland",https://pbs.twimg.com/profile_images/1159757425425170432/O7p5GMcK_normal.jpg,496,5,3,209
+1594611346607423489,"missed day 20 of #30DayMapChallenge - ""My favourite..."" so here's the carless Island of Sandön in #stockholms #skärgård #archipelago I enjoyed visiting quite often as a pleasant getaway from city. The absence of cars makes it even more lively and lovely https://t.co/pTttkGV132",572256579,2022-11-21 08:39:06+00:00,3_1594611333076500481,photo,https://pbs.twimg.com/media/FiEyjw7WQAEXe91.jpg,en,1,0,6,0,Twitter Web App,Giorgi Kankia,gkankia,"Geographer/Planner | @stockholm_uni & @CanalUGR graduate | Viz, sci & art - @vizaxis",False, ,https://pbs.twimg.com/profile_images/533732598611075072/GvRwjZTZ_normal.jpeg,234,298,3,399
+1594610576105377793,"#30DayMapChallenge Day 12 - Scale
+Denmark superimposed over New Mexico. My new home over my old home. Good things come in small packages 🙂 #QGIS https://t.co/9H5XzhRVeG",7159622,2022-11-21 08:36:02+00:00,3_1594610040266280960,photo,https://pbs.twimg.com/media/FiExYg1X0AAcrAH.jpg,en,4,1,22,0,Twitter Web App,Kurt Menke - geomenke@fosstodon.org,geomenke,Danish Resident 🇩🇰 | @SeptimaDK | FOSS4G user/advocate/educator | Author: Discover QGIS 3.x 2nd Ed. | Co-author:QGIS for Hydrological Applications 2nd Ed.,False,"Helsinge, Denmark",https://pbs.twimg.com/profile_images/684797004950536193/SHuNqW_O_normal.jpg,7382,2179,187,10789
+1594610161288626177,"#30DayMapChallenge Day 21: Kontur Population Set
+
+How far people live from the 🌊? https://t.co/f12L92NoD3",1585965560122298368,2022-11-21 08:34:23+00:00,3_1594610156058382336,photo,https://pbs.twimg.com/media/FiExfQMXEAAUYB2.jpg,en,1,0,9,0,Twitter for iPhone,Loore,loore_ko,,False, ,https://pbs.twimg.com/profile_images/1586266021496750082/xSqgi9LI_normal.jpg,23,78,1,40
+1594609131696136192,"Avec un peu de retard mais j'étais obligé de remettre cette fabuleuse carte !
+#30DayMapChallenge / Jour 17, sans ordinateur : une #pangée en forme de cœur réalisée par ma fille pour son papa ! 🥰 https://t.co/7BfBOjHKpI",751148918,2022-11-21 08:30:18+00:00,3_1594609106723258368,photo,https://pbs.twimg.com/media/FiEwiLHXwAAbOAH.jpg,fr,17,7,178,0,Twitter Web App,Le Cartographe 🗺 🍷,lecartographe,"A. Nicolas. Cartographe/géomaticien. #SIG #HautesAlpes #CNRSÉditions #RevueXXI #6Mois #ToponymieRomantique #QuizzTown
+🐘 : @Lecartographe@mapstodon.space",False,Châteauroux-les-Alpes 05,https://pbs.twimg.com/profile_images/1594958954702032896/srK8e0wD_normal.jpg,28380,1242,258,21390
+1594609060245958657,"🌎#30daymapchallenge🌎
+Day 21: Data: Kontur population dataset
+
+British Isles Population Density using Kontur population dataset. Each spike represents the number of people who reside within a 400m hex
+#map #data #population #density #kontur https://t.co/U3LCCv9fV4",900548798,2022-11-21 08:30:01+00:00,3_1593199539283951616,photo,https://pbs.twimg.com/media/FhwuijNWAAABFFb.jpg,en,5,2,37,0,Twitter Web App,GEOLYTIX,Geolytix,"Solving problems where location matters. Passionate about retail, opendata, gis, spatial, opensource, maps, locationintelligence, data, people, geolytixmapp",False, ,https://pbs.twimg.com/profile_images/1348924000764907520/F55AmgTD_normal.jpg,2137,3105,80,3886
+1594606791882571779,"London pop. density for the #30DayMapChallenge @KonturInc population data theme. 
+It's a miracle my map worked considering I was selecting from the ~full~ dataset in QGIS 😬😣 I wish I'd realised earlier that it is also provided as single country data. https://t.co/CwKIedfN98",900161125,2022-11-21 08:21:00+00:00,3_1594483116827107329,photo,https://pbs.twimg.com/media/FiC98mLWYAExiSz.jpg,en,2,1,26,0,Twitter Web App,amanda,acrobins,"I do/like city stuff: data, mapping, history, economics, design, movement, etc. More of a lurker than a tweeter. Also lurking here: @acrobins@mapstodon.space",False,London via Edmonton & Calgary,https://pbs.twimg.com/profile_images/1410662657812840450/c80o5w8H_normal.jpg,251,195,2,290
+1594597004621086720,"#30DayMapChallenge: Dades de població Kontur. Cada punt del mapa és en relitat un hexàgon de 400 metres de costat amb, com a mínim, un habitant. Les zones en blanc estarien deshabitades. https://t.co/mHy1JTLyM4",166224933,2022-11-21 07:42:06+00:00,3_1594596681428963330,photo,https://pbs.twimg.com/media/FiElO7SXEAIbOm0.png,ca,5,1,14,1,Twitter Web App,Marc Bosch Matas @marcbosch@mapstodon.space,Mboschm,"Non il bene particolare ma il bene comune è quello che fa grandi le città. Politòleg. Ciutats, dades, mapes, procomú. Conseller de districte per @joventgracia",False,Barcelona,https://pbs.twimg.com/profile_images/1126766600890175493/TliVXQMj_normal.png,1459,3655,19,14579
+1594595828923916288,"Day 21 of #30DayMapChallenge - Kontur Population Dataset
+
+Kontur Population dataset used Global Human Settlement Layer (GHSL) overlaid with Facebook population data where available. I map Jogja-Solo-Semarang urban agglomeration population in the center of Java Island. https://t.co/yeWMQs8UWC",475862742,2022-11-21 07:37:26+00:00,3_1594594781472034816,photo,https://pbs.twimg.com/media/FiEjgVZVEAAzgj0.png,en,1,1,3,0,Twitter Web App,Ahmad Zaenun Faiz,zaenun_faiz,Setiap manusia memiliki pandangan yang berbeda-beda. Maka berlomba-lombalah dalam berbuat kebaikan.,False,"Temanggung, Indonesia",https://pbs.twimg.com/profile_images/1188659389227397122/FcSC0L-l_normal.jpg,183,170,0,2926
+1594594234451243008,"Day 21 of #30DayMapChallenge 2022 – Kontur Population Dataset
+
+Looking at populations again already! Here's a map showing where Mongolian people live, with the caveat that nearly a third of the population is nomadic. 
+
+#mongolia #population https://t.co/aW3E1hICHb",1456144370126647298,2022-11-21 07:31:06+00:00,3_1594594097050054656,photo,https://pbs.twimg.com/media/FiEi4fuacAAtkf-.jpg,en,3,0,12,0,Twitter Web App,Sam Keast,SouthCrossMaps,I'm just here for the maps,False, ,https://pbs.twimg.com/profile_images/1456144586393358338/LAAmcHFh_normal.jpg,41,22,2,36
+1594594205900636161,"#30DayMapChallenge Day 20 - ""My favorite..."". I think Australian English is one of favorite English accents. https://t.co/YWjtIY8qva",1385840413324451840,2022-11-21 07:30:59+00:00,3_1594593635063898113,photo,https://pbs.twimg.com/media/FiEidmsVIAEo36S.jpg,en,1,0,2,0,Twitter Web App,Jacob,GISTestingGoat,Geographic Information Systems (GIS) | cartography | data analysis | environment 🌎,False,"San Diego, Ca",https://pbs.twimg.com/profile_images/1600247202244272129/q36j5EHV_normal.jpg,54,488,0,65
+1594593959057281031,"#30DayMapChallenge Day 21 Data: Kontur Population Dataset
+Northamptonshire H3 hexagons with population counts at 400m resolution https://t.co/x7OpOFBeuw",968429569350029312,2022-11-21 07:30:00+00:00,3_1593688633009135621,photo,https://pbs.twimg.com/media/Fh3rXjUWYAUG3TF.jpg,en,1,0,15,0,Twitter Web App,Kirsty Wilcox,kirstywilcox2,"Mapping 🌍, Celtic FC 🍀, knitting 🐑, crochet 🐏, sewing 📐, data 📊, infographics 🔍, music 🎧, reading 📚",False,"Northampton, England",https://pbs.twimg.com/profile_images/1576478865765138432/n0AQLOQL_normal.jpg,114,273,0,900
+1594593957773729793,"#30DayMapChallenge
+#Day21: Bars, pubs &amp; clubs in Czechia in contrast with #KonturPopulationDataset
+Made by @HoficM, PhD student at @CtuGeomatics. Made in #ArcGISPro and #AdobeIllustrator. Data: @KonturInc, #OSM
+#Czechia #beer #hexagon #grid https://t.co/LO52ai0wlD",1513755446221361152,2022-11-21 07:30:00+00:00,3_1594458134898245632,photo,https://pbs.twimg.com/media/FiCnOdPXgAAHOq7.jpg,en,4,4,23,0,Twitter Web App,Geomatics CTU,CtuGeomatics,"🇬🇧 Department of Geomatics at the Czech Technical University in Prague.
+🇨🇿 Katedra geomatiky, České vysoké učení technické v Praze.",False,"Prague, Czech Republic",https://pbs.twimg.com/profile_images/1587091855434567683/oQlhYpHa_normal.jpg,86,191,1,79
+1594590451906273280,"#30DayMapChallenge J20. Suite à l'évacuation des zones autrefois tempérées, la population du Groenland a explosé (9M vers 2123). Les habitants travaillent dans le tourisme (moniteurs de surf, guides au musée de l'extinction), ou poussent des wagonnets dans les mines de lithium https://t.co/6PmRhijn9m",1189967197730430977,2022-11-21 07:16:04+00:00,3_1594590417185607681,photo,https://pbs.twimg.com/media/FiEfiTKXEAEMc3Z.jpg,fr,9,2,36,0,Twitter for Android,Julien Dupont Kobri,Kartokobri,"cartographie imaginaire (ou pas), aquarellographies, fictions radios, football associatif radical; hobby: enseigner en rep+,",False, ,https://pbs.twimg.com/profile_images/1561402927721451520/KoNDjEUr_normal.jpg,1681,554,30,2561
+1594589361122721793,"spent a few minutes exploring the #Kontur population dataset and one of their basemaps #30DayMapChallenge 
+
+Apparently my hexagon has about 1500 people
+
+this map (through their web app): https://t.co/zyodcSBrPW https://t.co/dYoFBCRNvB",754537285660573696,2022-11-21 07:11:44+00:00,3_1594588858720538625,photo,https://pbs.twimg.com/media/FiEeHlbVUAEHQSd.jpg,en,1,0,5,0,Twitter Web App,Derek Sollberger,DerekSollberger,"data science lecturer at UC Merced, data analyst, cartographer, budding sabremetrician
+https://t.co/IiE5zchpsz",False,"Merced, CA",https://pbs.twimg.com/profile_images/754537993151533057/WmcMGp8H_normal.jpg,429,911,11,3301
+1594584382018572288,#30DayMapChallenge https://t.co/khKl9y4XUr,263553241,2022-11-21 06:51:57+00:00,3_1594584366402994176,photo,https://pbs.twimg.com/media/FiEaCGPXgAAD_2I.jpg,qme,1,0,1,0,Twitter for Android,Vetsolo🩺,vetsolo28,"A poet 
+/
+Give to an expectant man it becomes an obligation but to dem who never asked for it a gift!",False,N06.36593° E007.53170°,https://pbs.twimg.com/profile_images/1555903987190300674/tpBF81r6_normal.jpg,429,3161,1,5359
+1594584044008013824,The worldwide #30DayMapChallenge has reached Estonian Land Board. For every day in November one new map will appear. 21st day: Data: Kontur Population Dataset. People per beehive farm. https://t.co/muqxztvWwi,193592650,2022-11-21 06:50:36+00:00,3_1594584001863467013,photo,https://pbs.twimg.com/media/FiEZs4OXwAUVEjm.jpg,en,1,0,6,0,Twitter Web App,Maa-amet,maaamet,Estonian Land Board,False, ,https://pbs.twimg.com/profile_images/888014859262185472/yVEevv3t_normal.jpg,221,90,8,402
+1594581935958933507,🌐🧶 Día 2️⃣1️⃣ #30DayMapChallenge #data #kontur #population #dataset Población total residente en municipios de #Aragon 🌐 https://t.co/DV8cvFUsZB,2478849098,2022-11-21 06:42:14+00:00,3_1594581928283439105,photo,https://pbs.twimg.com/media/FiEX0LiXgAErqSy.jpg,es,0,1,4,0,Twitter for iPhone,Rafa 🌐,Galactero,Mis ✌🏻 pasiones 🧒🏼👧🏻 ➕🏃‍♂️ ➕ ⛰ Geógrafo en @GobAragon @IGEAR_Aragon Presi del Colegio Geógrafos de #Aragón @GeografosAragon https://t.co/Hk2aNY7G6r@,False,"Zaragoza, España",https://pbs.twimg.com/profile_images/1454432267493912577/1pXB13-I_normal.jpg,1056,98,64,33125
+1594578897684791298,"This month, the world population is expected to hit 8 billion 👀. The Kontur dataset excels at displaying how the world's population is dispersed. @santtuvp does his best to demonstrate this with QGIS and PostGIS. #30DayMapChallenge https://t.co/a3x60L7qzw",973813309811187713,2022-11-21 06:30:09+00:00,3_1594578894673379328,photo,https://pbs.twimg.com/media/FiEVDmdXgAAXTEM.jpg,en,3,0,17,0,Buffer,Gispo,gispofinland,Resolving geospatial problems with open source solutions 🌍 #gispo #GIS #maps #geospatial #paikkatieto #FOSS4G,False,"Helsinki, Suomi",https://pbs.twimg.com/profile_images/1291008659225550848/_qWpOpFl_normal.jpg,1118,294,16,683
+1594578857977184261,"Jour 20 du #30DayMapChallenge : Favorite
+
+Carte des trucs que j'aime bien 🥰
+
+Sources : Moi https://t.co/9boCc5QftV",1311399091,2022-11-21 06:30:00+00:00,3_1594452894710996993,photo,https://pbs.twimg.com/media/FiCidcBXoAET9pf.jpg,fr,5,1,21,0,Twitter Web App,Lubin Picard,Lubin_Picard,"Des cartes, parfois d'autres trucs mais surtout des cartes
+Actuellement en train d'apprendre...
+
+Géomaticien Cartographe et toujours hyper fongible",False, ,https://pbs.twimg.com/profile_images/1577044445480030232/62nZedQf_normal.jpg,673,217,15,2908
+1594570804712247296,#30DayMapChallenge 21. diena. Kontur populācijas dati. Apdzīvotākās vietas kā nakts gaismas. https://t.co/Al63gHqM29,137107982,2022-11-21 05:58:00+00:00,3_1594404446813016064,photo,https://pbs.twimg.com/media/FiB2ZZiX0AA1nEi.jpg,lv,1,0,12,0,Twitter Web App,Zane,atdodkonfektes,klusums runā pārāk daudz.,False, ,https://pbs.twimg.com/profile_images/853271409/smalldscn7415_normal.jpg,150,138,0,2434
+1594564929276846082,"🗼 📱 📶 Día 18: Azul: Mapa de la cobertura de telefonía celular con tecnología 4G en el Área Metropolitana de Monterrey, NL @tjukanov @mtygob @SanPedroNL
+ #30DayMapChallenge 2022 https://t.co/wJkGV2c9Ak",7630312,2022-11-21 05:34:39+00:00,3_1594564922142236672,photo,https://pbs.twimg.com/media/FiEIWSuWIAA5cZ3.jpg,es,0,0,4,0,Twitter Web App,Yúum-K'aak-Náab,jdeltoro1973,GeoMeister,False,Guadalajara México,https://pbs.twimg.com/profile_images/1244779744/garza_normal.jpg,574,2183,11,2073
+1594562753360179200,"Day 21  Kontour Population
+Once again mapview comes to the rescue in a very few lines of code. This map shows the Central African Republic's Medical Amenities based on 2022 Kontour data
+ #30DayMapChallenge 
+@TimSalabim3
+@MarkDonovan2020
+
+ #gischat #RStats #dataviz  #rspatial https://t.co/ulIJgkuOgO",3094607959,2022-11-21 05:26:00+00:00,3_1594562749249511424,photo,https://pbs.twimg.com/media/FiEGX0EWYAApBJg.jpg,en,3,1,6,0,Twitter Web App,donojazz,donojazz62220,"Lover of Jazz Guitar, Math, R, Data Science, Economics, Truth, Justice and the American Way.",False,USA,https://pbs.twimg.com/profile_images/929842809393123329/6D5_BUAL_normal.jpg,21,293,0,929
+1594556112182788096,"#30DayMapChallenge Day 21: Kontur Population Dataset. Using this dataset, I faked a ""satellite light"" map of the North China Plain and adjacent areas. The plain is the heartland of the Chinese civilization with many important cities. #GISphere https://t.co/MX7dT5oEJ6",359333941,2022-11-21 04:59:37+00:00,3_1594555809153056769,photo,https://pbs.twimg.com/media/FiEAD2MagAEyEca.jpg,en,2,0,12,0,Twitter Web App,Shan Ye,yeshan_geo,🌍 quantitative stratigraphy | paleoclimate | geoinformatics | data science🌿叶山,False,"Monona, WI",https://pbs.twimg.com/profile_images/1255328504486547456/LsiYc17w_normal.jpg,192,380,1,47
+1594555917642924032,"I did not walk away from this map in 30 seconds flat. For Day 20 of the #30DayMapChallenge I mapped some filming locations for my favorite movie Michael Mann’s 1995 classic “Heat.” The data comes to you, this stuff just flies through the air, you just have to know how to grab it. https://t.co/4KtQDsAJTg",1148733395561668609,2022-11-21 04:58:50+00:00,3_1594555913788182528,photo,https://pbs.twimg.com/media/FiEAJ7_X0AAM4ec.jpg,en,1,0,8,0,Twitter for iPhone,Josh Marcinik,joshspatial,Spatial problem solver 🌎 Viewpoints my own.,False,"West Chester, PA",https://pbs.twimg.com/profile_images/1392900111563468806/v_BUysUo_normal.jpg,192,1196,1,1332
+1594555002395189248,"A minimal - 5 minutes map! #30daymapchallenge 
+
+Welcome to Amrahia! A small community in Greater Accra Region, Ghana.
+The Location symbol? Represents my Home. 
+
+Data: #OpenStreetMap
+#gischat #cartography #osm https://t.co/CZx0UJ6P57",1142428236221177857,2022-11-21 04:55:12+00:00,3_1594554998821625856,photo,https://pbs.twimg.com/media/FiD_UreWIAA-2me.jpg,en,2,0,14,0,Twitter for Android,Princella.Darko💙,mappy_ella,🌍Always in the Cartographic mood!,False, ,https://pbs.twimg.com/profile_images/1591273396494630913/i65f3OlU_normal.jpg,37,238,0,18
+1594554468066009088,"#30DayMapChallenge 
+Day 20: My Favourite...
+City: Madrid https://t.co/HgEVuhR7ro",2307023788,2022-11-21 04:53:05+00:00,3_1594554361119637504,photo,https://pbs.twimg.com/media/FiD-vj2WAAA2VLC.jpg,en,2,0,10,0,Twitter Web App,Ricky Angueira,RickyAngueira,Public Transit Consultant | Urbanist | Cartographer | Jarrett Walker + Associates,False,"Washington, DC",https://pbs.twimg.com/profile_images/1588198808957100032/v_ZG1N2Z_normal.jpg,138,343,2,193
+1594554009464950784,Another work for #30DayMapChallenge Day 21 - Population map in Japan. Using the original Kontour global population data at the res 8. The height represents population and it was been extended 100x. https://t.co/lnp3ND56WF,1529709999551029248,2022-11-21 04:51:15+00:00,3_1594553773950930946,photo,https://pbs.twimg.com/media/FiD-NYeakAIUHcY.jpg,en,0,0,3,0,Twitter Web App,Darren Zhang,thisdaz,An ordinary man into open source GIS development,False,"Sydney, New South Wales",https://pbs.twimg.com/profile_images/1562457912702046210/lz1uK7z8_normal.jpg,1,28,0,18
+1594552829447852032,Our company is doing #30DayMapChallenge and this is my work of day 21 - showing global population from h3 data. The original data was 32.6 million h3 polygons at resolution 8. This data has been aggregated to res 5. The viz tool is https://t.co/PEVPATRRAR. https://t.co/7fIQzgp0A2,1529709999551029248,2022-11-21 04:46:34+00:00,3_1594552667791323136,photo,https://pbs.twimg.com/media/FiD9M_tacAAOeIV.jpg,en,0,0,5,0,Twitter Web App,Darren Zhang,thisdaz,An ordinary man into open source GIS development,False,"Sydney, New South Wales",https://pbs.twimg.com/profile_images/1562457912702046210/lz1uK7z8_normal.jpg,1,28,0,18
+1594552478997045248,Day 20 of #30DayMapChallenge 2022 – Favorite https://t.co/GzzttfvFjR,44530833,2022-11-21 04:45:11+00:00,3_1594552476815990784,photo,https://pbs.twimg.com/media/FiD9B4RWIAA3yCL.jpg,en,1,0,2,0,Twitter for Android,Andrew French,andrewrfrench,GIS | Earth Science | Geomorphology,False,"Wisconsin, USA",https://pbs.twimg.com/profile_images/1091673702473691136/y2WXlQFy_normal.jpg,588,1923,5,4768
+1594552114394849281,"Data visualization of the number of e-transactions per capita data by states in India from July to October 2022.
+Source: https://t.co/ucZybskZmi
+#datavisualization #india #geospatial #30daymapchallenge #dataanalysis #datacollection #data #locationAI https://t.co/1AujteRSzh",1391671991946469378,2022-11-21 04:43:44+00:00,3_1594552032664616967,photo,https://pbs.twimg.com/media/FiD8oBraAAcPjUj.jpg,en,0,0,5,0,Twitter Web App,GeoIQ.io,geoiq_ai,Hyperlocal intelligence at scale.,False,"Bangalore, India",https://pbs.twimg.com/profile_images/1519284417755500548/SypkeRkQ_normal.jpg,20,49,0,64
+1594548658820743169,"#30DayMapChallenge
+
+Day 21 - Data: Kontur Population dataset
+Population distribution of Bolivia, joyplot map
+
+Día 21 - Datos: Kontur Population
+Distribución de población de Bolivia
+
+Tools/Herram: R &amp; Impress
+Code: https://t.co/w9BlDVLC4A
+Adapted from tutorial by @helenmakesmaps https://t.co/nXdC0D3lze",38113384,2022-11-21 04:30:00+00:00,3_1593734970018775041,photo,https://pbs.twimg.com/media/Fh4VguIWQAEk50M.png,ca,2,0,6,0,Twitter Web App,Eric Armijo,rcrmj,:: Geospatial explorer and data visualization wannabe; @weeklyOSM editor :: :: Explorador geoespacial y visualizador de datos :: @YoViajo@visual.social,False,"Santa Cruz, SC, Bolivia",https://pbs.twimg.com/profile_images/1513756845755801602/yB2XoIO7_normal.jpg,217,185,9,1041
+1594547944476184576,"#30DayMapChallenge 21.diena, kustība. https://t.co/Sk7ymwjMVZ",461965493,2022-11-21 04:27:09+00:00,3_1594535456946913280,photo,https://pbs.twimg.com/media/FiDtjMUWAAAFpXx.jpg,lv,4,5,20,2,Twitter Web App,Kristīne Eglīte,kriksine,https://t.co/2fsOeV0RyS,False, ,https://pbs.twimg.com/profile_images/1586386213375729664/H6SeYwDR_normal.jpg,573,479,10,4416
+1594546281946304512,"#30DayMapChallenge Day 20: My Favorite...sport to play is Pickleball. Here is a map of the USA Pickleball membership density by state. To be clear this is not people who play, just who are members of USA Pickleball. The highest ratio is Arizona at 1 member for every 1843 people https://t.co/HfpFmyLtMp",47035081,2022-11-21 04:20:33+00:00,3_1594546241467461632,photo,https://pbs.twimg.com/media/FiD3W7yaMAAA7AQ.jpg,en,2,0,13,0,Twitter Web App,Stan McShinsky,smcshinsky,Mapper,False,Spanish Fork Utah,https://pbs.twimg.com/profile_images/378800000726777309/ac8bd6a4859aef5424319c3a5599f994_normal.jpeg,154,113,8,838
+1594545799928877056,"#30DayMapChallenge Day21 Kontur_population
+population+school with railroad. https://t.co/BI1HTE7y9I",446573069,2022-11-21 04:18:38+00:00,3_1594545502825373696,photo,https://pbs.twimg.com/media/FiD2r8IaYAAE0kR.jpg,en,1,0,5,0,Twitter Web App,時久,sometimetime,"生きるために生きることにしました.
+花を飾ります.",False, ,https://pbs.twimg.com/profile_images/1462598614010966020/_shpTHuU_normal.jpg,119,773,1,1113
+1594517407875432449,"Day 17 - A map without a computer for the #30DayMapChallenge.
+And a bit of day 16 for minimal even though time spent was not minimal. 
+
+Great Lakes 💙 https://t.co/qELJuAiHSI",2802492936,2022-11-21 02:25:49+00:00,3_1594517406545764353,photo,https://pbs.twimg.com/media/FiDdIhVWYAEeyZV.jpg,en,1,0,34,0,Twitter for Android,Mingsze Ho,mappingming,Cartographer 🗺️ & Photographer 📷 | Climber 🧗‍♀️ | Comments are my own.,False,Toronto,https://pbs.twimg.com/profile_images/1123648312299663366/NW2SlVz1_normal.png,354,409,11,683
+1594511138880118785,How every day of the #30DayMapChallenge is starting to feel https://t.co/KyHOV08Tro,4721200932,2022-11-21 02:00:54+00:00,3_1594510531951575041,photo,https://pbs.twimg.com/media/FiDW4XeXwAEcehq.png,en,7,2,60,0,Twitter Web App,Devin Lea,DevinMLea,"Geography PhD. GIS, Cartography, Flooding, Environmental Justice. Tweets are just like my opinion, y’all. He/him.",False,"Detroit Metro, MI, USA",https://pbs.twimg.com/profile_images/1278832800947269632/gd2zZzry_normal.jpg,268,326,6,801
+1594510783546888192,"Day 20 of #30DayMapChallenge - My favorite... body of water. Lake Michigan. 
+
+I would live somewhere off of the coast of Lake Michigan if I could. One, I can't afford to, and two, lake effect snow. https://t.co/3FXi7VtmT6",4150548435,2022-11-21 01:59:30+00:00,3_1594510591850430465,photo,https://pbs.twimg.com/media/FiDW72nXwAE2iV0.jpg,en,1,0,20,0,Twitter Web App,A.A. Smith,_aasmith,Geo/US Hist @marshallu | GIS @roanestate,False,"Knoxville, TN",https://pbs.twimg.com/profile_images/912344235633934337/5DaXjfoU_normal.jpg,116,126,3,318
+1594510600897548290,"For the ""my favorite"" category of #30DayMapChallenge I'll post my favorite election, which was the 2012 presidential election in my home state of Florida. I'm a very partisan Democrat and I wasn't sure we'd win, but we did. https://t.co/lEJ9mRVqGA",1393290762033500166,2022-11-21 01:58:46+00:00,3_1594510152199274496,photo,https://pbs.twimg.com/media/FiDWiQyXgAABYi0.png,en,1,0,6,0,Twitter Web App,Just Maps,JustElexMaps,Election/demographic maps & stats. Mainstream Democrat and probably biased. Old election graphics @electionvintage.,False,United States of America,https://pbs.twimg.com/profile_images/1565486269710442496/OZcnioY6_normal.jpg,1472,198,22,2750
+1594510270419853314,"Kyoto city green texture creative map.
+#30DayMapChallenge 
+Japan https://t.co/5CQJcNsK7q",1590595449769050112,2022-11-21 01:57:27+00:00,3_1594509571401437185,photo,https://pbs.twimg.com/media/FiDWAdJX0AEDwrZ.jpg,en,1,0,10,0,Twitter Web App,shu shuo,feishuoshu,design illustrations,False, ,https://pbs.twimg.com/profile_images/1590604207626788865/0uaKfKpQ_normal.jpg,206,953,0,166
+1594507663580217346,"#30DayMapChallenge Day 19 - Globe 🌍
+
+Running a day behind b/c getting acquainted with #blender &amp; halfway through a 20-minute tutorial took me more than a whole day, so here is a halfway done globe 🥲
+
+I always underestimate the learning curve associated with applying new tools! https://t.co/sKOoPvFK1M",1430527437704777731,2022-11-21 01:47:06+00:00,3_1594507599738707968,photo,https://pbs.twimg.com/media/FiDUNsIWIAAuc2f.jpg,en,1,1,22,0,Twitter Web App,Alicia Oberholzer,aliciaoberhol,"Clean energy access advocate working at @unfoundation, rock climber, proud cat owner, @DukeEnvironment grad, & trying to make #maps! (She/her) (views my own)",False,"Denver, CO",https://pbs.twimg.com/profile_images/1430532945043918853/CheAaDvg_normal.jpg,290,341,2,331
+1594503677213016067,"#30DayMapChallenge day 20 - ""My favourite...""
+
+Used #QGIS to quickly make a contour map of Skaftafellsjökull as one of the best trips I've ever organised myself included exploring the Skaftafellsjökull glacier and its ice caves.
+
+#maps #purple #DataScience https://t.co/Drdt5X6TOJ",1414375263253770240,2022-11-21 01:31:15+00:00,3_1594503363219148801,photo,https://pbs.twimg.com/media/FiDQXF3X0AEWKOX.jpg,en,1,1,5,0,Twitter Web App,Victoria Walls,DataScienceNot2,@DataScienceNot2@tech.lgbt 🐘 | MSc in Data Science 👩🏼‍🎓 | MA Geography 👩🏼‍🎓 | 🏳️‍🌈💗💜💙 | 🌻,False,"Scotland, United Kingdom",https://pbs.twimg.com/profile_images/1559528344311529473/haW_y9pj_normal.jpg,131,304,0,540
+1594501246391418880,"#30DayMapChallenge Day 18 and 19 - the Pacific EEZ's from a global perspective. It's blue-ish and a globe!
+
+The line in the EEZ is the split of the polygons due to the 180 meridian! https://t.co/jKkTQvnNsu",4273148897,2022-11-21 01:21:36+00:00,3_1594500404087205888,photo,https://pbs.twimg.com/media/FiDNq2PVsAAzlx8.jpg,en,3,0,13,0,Twitter Web App,Carrol Chan,cmhc23,Pacific Node Scholar | @OSMFiji Lead | OO Board  | CommSchols Alumni | Pacific GIS/RS Practitioner | Curious average mapper 🗺️,False, ,https://pbs.twimg.com/profile_images/1594981629662896128/BMS8Dcdx_normal.jpg,758,573,5,2947
+1594500642189426688,"#30DayMapChallenge 
+Day 20: My Favorite
+Some of my favorite hikes in one of my favorite places, Glacier National Park. https://t.co/krYycFstNR",4721200932,2022-11-21 01:19:12+00:00,3_1594500545561124868,photo,https://pbs.twimg.com/media/FiDNzFRWYAQ-8hI.jpg,en,2,3,24,0,Twitter Web App,Devin Lea,DevinMLea,"Geography PhD. GIS, Cartography, Flooding, Environmental Justice. Tweets are just like my opinion, y’all. He/him.",False,"Detroit Metro, MI, USA",https://pbs.twimg.com/profile_images/1278832800947269632/gd2zZzry_normal.jpg,268,326,6,801
+1594496076819693569,"DAY EIGHT.  How many style a city can be presented use map. 3D rendering style New york city structure and transportation net creative map.
+#30DayMapChallenge https://t.co/cdr0yBagaV",1590595449769050112,2022-11-21 01:01:03+00:00,3_1594495544650616837,photo,https://pbs.twimg.com/media/FiDJP_bX0AUEJaX.jpg,en,1,0,3,0,Twitter Web App,shu shuo,feishuoshu,design illustrations,False, ,https://pbs.twimg.com/profile_images/1590604207626788865/0uaKfKpQ_normal.jpg,206,953,0,166
+1594495835387334657,"#30DayMapChallenge Day 20: “My Favorite…”, so of course I had to map one of my favorite places ❤️🌃 Data from OpenStreetMap https://t.co/xtXhEN2WZw",1161748534397456384,2022-11-21 01:00:06+00:00,3_1594495823664254981,photo,https://pbs.twimg.com/media/FiDJgO1aEAUe_Hf.jpg,en,2,0,11,0,Twitter for iPhone,Becca Bussard,Fringe_Finder,"PhD student studying volcanoes with InSAR 🌋🛰 Lover of maps, cats, soccer, and all things board games, she/her",False, ,https://pbs.twimg.com/profile_images/1337103949871112193/z0HastIi_normal.jpg,296,219,4,518
+1594488289737805828,"#30DayMapChallenge 
+Day 20: My favourite... color! 
+What color do people like the most (across 9 countries)? https://t.co/CFxjZbjmZC",3384952253,2022-11-21 00:30:07+00:00,3_1594487860446601217,photo,https://pbs.twimg.com/media/FiDCQtiXoAEkYTy.jpg,en,0,0,3,0,Twitter Web App,Robert Lipiński,roblipinski,Young @WorldBank researcher and a PhD in Politics student at @Oxford,False,"Washington, D.C.",https://pbs.twimg.com/profile_images/1586117280613765121/qIVP2_7q_normal.jpg,1,113,0,12
+1594488153854861317,"My favorite map thanks to @Citystrides and the NYC waterfront.  
+Progress map of my running project.  
+Normally used for street mapping Citystrides also does well capturing shorelines, beaches, river banks and more.   
+#30DayMapChallenge https://t.co/unmQVFhSPR",307597573,2022-11-21 00:29:34+00:00,3_1594488148960186368,photo,https://pbs.twimg.com/media/FiDChgVXkAACQuM.jpg,en,2,1,5,0,Twitter for iPhone,Run Every Street,RunEveryStreet,"2021 running project:  RUN EVERY WATERFRONT
+previous annual projects at:  https://t.co/jLG7Thn7V1",False,Along the waterfronts of NYC,https://pbs.twimg.com/profile_images/1406368874971402243/4Aw61EGm_normal.jpg,278,370,10,1433
+1594484155316056066,"A late entry for day 20 of #30DayMapChallenge: my favourite hike this year (one of!). Pollett's Cove, Cape Breton, Nova Scotia. I definitely got carried away stylizing it into layers, but not mad at the final result.
+Code: https://t.co/wFN5FGGuBu https://t.co/TzcpQ6VAQm",3092393211,2022-11-21 00:13:41+00:00,3_1594484129445322755,photo,https://pbs.twimg.com/media/FiC-3ieWIAM6mux.jpg,en,7,0,86,1,Twitter Web App,Iva Brunec,IvaBrunec,Research Scientist @get_babbly / PhD @UofT / dataviz & maps / she/her,False,Toronto,https://pbs.twimg.com/profile_images/1351919307186434049/RYeBmzHx_normal.jpg,1610,905,26,1336
+1594483047038128130,"#30DayMapChallenge Day 19: Globe. The Waldseemüller gores of 1507 as a papercraft model. Gores for assembling a globe, published by the German cartographer Martin Waldseemüller in 1507, printed and glued.
+
+Tools: #Photoshop, #Illustrator
+Files: https://t.co/j778g87MLR https://t.co/B8hiWBAnXZ",14075285,2022-11-21 00:09:17+00:00,3_1594482978121457664,photo,https://pbs.twimg.com/media/FiC90hdWIAAEAN3.jpg,en,2,0,8,0,TweetDeck,jpamado,jpamado,"History, computing and cartography.",False, ,https://pbs.twimg.com/profile_images/306746957/newlook_normal.jpg,39,362,1,153
+1594482998958870529,"Day 16 - Minimal of #30DayMapChallenge
+I was just curious as to the extent of Ontario's 400 series highway. https://t.co/VuAsKCWUE0",2802492936,2022-11-21 00:09:05+00:00,3_1594482620078907394,photo,https://pbs.twimg.com/media/FiC9frpWYAI3KzU.jpg,en,1,0,4,0,Twitter Web App,Mingsze Ho,mappingming,Cartographer 🗺️ & Photographer 📷 | Climber 🧗‍♀️ | Comments are my own.,False,Toronto,https://pbs.twimg.com/profile_images/1123648312299663366/NW2SlVz1_normal.png,354,409,11,683
