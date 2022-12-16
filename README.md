@@ -29,7 +29,7 @@ Top favorited tweets refers to the tweets get many `liked`/:heart:. The faviorit
 |                                                                                     |                                                     |                                                                                     |                                   December 2021                                    |                                                         |                                                               |                                                                                                   |
 | :---------------------------------------------------------------------------------: | :-------------------------------------------------: | :---------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------: | :-----------------------------------------------------: | :-----------------------------------------------------------: | :-----------------------------------------------------------------------------------------------: |
 |                                       **Mon**                                       |                       **Tue**                       |                                       **Wed**                                       |                                      **Thu**                                       |                         **Fri**                         |                            **Sat**                            |                                              **Sun**                                              |
-|                   **1** <br/>**[Points](daily/day01_Points.md)**                    |    **2** <br/>**[Lines](daily/day02_Lines.md)**     |                 **3** <br/>**[Polygons](daily/day03_Polygons.md)**                  |     **4** <br/>**[Colour Friday: Green](daily/day04_Colour Friday: Green.md)**     |       **5** <br/>**[Ukraine](daily/Ukraine.md)**        |       **6** <br/>**[Network](daily/day06_Network.md)**        |                          **7** <br/>**[Raster](daily/day07_Raster.md)**                           |
+|                   **1** <br/>**[Points](daily/day01_Points.md)**                    |    **2** <br/>**[Lines](daily/day02_Lines.md)**     |                 **3** <br/>**[Polygons](daily/day03_Polygons.md)**                  |     **4** <br/>**[Colour Friday: Green](daily/day04_Colour_Friday-Green.md)**      |       **5** <br/>**[Ukraine](daily/Ukraine.md)**        |       **6** <br/>**[Network](daily/day06_Network.md)**        |                          **7** <br/>**[Raster](daily/day07_Raster.md)**                           |
 |       **8** <br/>**[Data: OpenStreetMap](daily/day08_Data-OpenStreetMap.md)**       |    **9** <br/>**[Space](daily/day09_Space.md)**     |                **10** <br/>**[A bad map](daily/day10_A_bad_map.md)**                |       **11** <br/>**[Colour Friday: Red](daily/day11_Colour_Friday-Red.md)**       |   **12** <br/>**[Population](daily/day12_Scale.md)**    |  **13** <br/>**[5 minute map](daily/day13_5_minute_map.md)**  |                        **14** <br/>**[Hexagons](daily/day14_Hexagons.md)**                        |
 |               **15** <br/>**[Food/drink](daily/day15_Food/drink.md)**               |  **16** <br/>**[Minimal](daily/day16_Minimal.md)**  | **17** <br/>**[A map without a computer](daily/day17_A_map_without_a_computer.md)** |      **18** <br/>**[Colour Friday: Blue](daily/day18_Colour_Friday-Blue.md)**      |      **19** <br/>**[Globe](daily/day19_Globe.md)**      | **20** <br/> **[My favourite…](daily/day20_My_favourite.md)** | **21** <br/> **[Data: Kontur Population Dataset](daily/day21_Data-Kontur_Population_Dataset.md)** |
 |                     **22** <br/>**[NULL](daily/day22_NULL.md)**                     | **23** <br/>**[Movement](daily/day23_Movement.md)** |                  **24** <br/>**[Fantasy](daily/day24_Fantasy.md)**                  | **25** <br/>**[Colour Friday: 2 colours](daily/day25_Colour_Friday-2_colours.md)** | **26** <br/>**[Island(s)](<daily/day26_Island(s).md>)** |         **27** <br/>**[Music](daily/day27_Music.md)**         |                              **28** <br/>**[3D](daily/day28_3D.md)**                              |
@@ -39,11 +39,11 @@ Top favorited tweets refers to the tweets get many `liked`/:heart:. The faviorit
 
 Tweets with `#30DayMapChallenge` hashtag from 2022-11-01 to 2022-11-30 are in **33** languages (Twitter account setting) including `es`, `en`, `fr`, `ja`, `lv`, `it`, `nl`, `cy`, `in`, `und`, `ca`, `qme`, `de`, `fi`, `et`, `cs`, `lt`, `uk`, `da`, `ro`, `pt`, `ar`, `iw`, `tl`, `ht`, `pl`, `tr`, `eu`, `sl`, `zh`, `sv`, `ru`, `no`.
 
-## Users Location (to do)
+## Users Location
 
 By geocoding users location in their profile, I plot the map of distribution of users who involves in this event. Geocoding process is conducted via https://geocode.localfocus.nl/
 
-<!-- ![images](./user_loc.png) -->
+![images](./user_loc.png)
 
 ## Map Wall (to do)
 
@@ -53,7 +53,7 @@ The map wall includes 95\*95 maps from the 9036 images attached in #30DayMapChal
 
 ## #30DayMapChallenge stats in last year
 
-**[#30DayMapChallenge 2020](archive/2020/)**
+**[#30DayMapChallenge 2020](archive/2020/)** \
 **[#30DayMapChallenge 2021](archive/2021/)**
 
 <!-- Inspiration for the repo came from [Kalle Hallden](https://www.youtube.com/channel/UCWr0mx597DnSGLFk1WfvSkQ). -->
