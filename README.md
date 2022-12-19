@@ -7,26 +7,25 @@ Monitoring [#30DayMapChallenge 2022](https://30daymapchallenge.com) launched by 
 
 ## Twitter Data
 
-#30DayMapChallenge related tweets are collected via Twitter REST API with the hashtag `#30DayMapChallenge`. The example of raw .json data returned via Twitter REST API can be found in `.\example` folder. This repo only select serveral attributes from tweet metadata including: `tweet_id`, `tweet_text`, `language`, `tweet_created_at`, `retweet`, `favorite`, `hashtags`, `user_id`, `user_name`, `user`, `user_loc`, `user_follower`, `friends_count`, `media` and save as .csv file in `.\data` folder.
+#30DayMapChallenge related tweets are collected via Twitter REST API with the hashtag `#30DayMapChallenge`. The example of raw .json data returned via Twitter REST API can be found in `.\example` folder. This repo only selects several attributes from tweet metadata, including: `tweet_id`, `tweet_text`, `language`, `tweet_created_at`, `retweet`, `favourite`, `hashtags`, `user_id`, `user_name`, `user`, `user_loc`, `user_follower`, `friends_count`, `media` and save as .csv file in `.\data` folder.
 
 Note:
 
-- `#30DayMapChallenge` with image attached
-- search tweets by date since everyday has diffferent map theme
-- cleanning process for late entry tweets is only conducted in first two days
-- some tweets in certain time zones (such as Pacific Time) might be searched and archived in file next day
+- `#30DayMapChallenge` with media attachments
+- search tweets by date
+- some tweets in certain time zones (such as Pacific Time) might be searched and collected in the 'next' day
 
 ## Daily Tweets Statistics
 
-There are around 8446 media (i.,e, images/gifs/videos) found in #30DayMapChallenge tweets in Nov 2022.
+There are around **8446** media attachments (i.e., images/gifs/videos) found in #30DayMapChallenge tweets in Nov 2022.
 
 ![images](./static/maps_daily.png)
 
 ## Top Favourited/:heart: Maps
 
-As [Topi Tjukanov](https://twitter.com/tjukanov) mentioned in [30DayMapChallenge](https://github.com/tjukanovt/30DayMapChallenge) page, this map challenge is NOT a competition. Although this repo sorts maps by their favorite count and retweet count, this repo never intend to compare all the wonderful maps but create a altas of inspiring maps.
+As [Topi Tjukanov](https://twitter.com/tjukanov) mentioned in [30DayMapChallenge](https://github.com/tjukanovt/30DayMapChallenge) page, this mapping challenge is NOT a competition. Although this repo sorts maps by their favourite count and retweet count, this repo never intends to compare all the wonderful maps but creates an altas of inspiring maps.
 
-Top favorited tweets refers to the tweets get many `liked`/:heart:. The faviorite count is extracted from `favorite_count` value in tweet metadata.
+Top favourited tweets refer to the tweets that get many `liked`/:heart:. The favourite count is extracted from `favorite_count` value in tweet metadata.
 
 |                                                                                 |                                                     |                                                                                     |                                   December 2021                                    |                                                         |                                                               |                                                                                                   |
 | :-----------------------------------------------------------------------------: | :-------------------------------------------------: | :---------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------: | :-----------------------------------------------------: | :-----------------------------------------------------------: | :-----------------------------------------------------------------------------------------------: |
@@ -39,17 +38,17 @@ Top favorited tweets refers to the tweets get many `liked`/:heart:. The faviorit
 
 ## Users Langauge
 
-Tweets with `#30DayMapChallenge` hashtag from 2022-11-01 to 2022-11-30 are in **33** languages (Twitter account setting) including `es`, `en`, `fr`, `ja`, `lv`, `it`, `nl`, `cy`, `in`, `und`, `ca`, `qme`, `de`, `fi`, `et`, `cs`, `lt`, `uk`, `da`, `ro`, `pt`, `ar`, `iw`, `tl`, `ht`, `pl`, `tr`, `eu`, `sl`, `zh`, `sv`, `ru`, `no`.
+Tweets with `#30DayMapChallenge` hashtag from 2022-11-01 to 2022-11-30 are in **33** languages (Twitter account setting), including `es`, `en`, `fr`, `ja`, `lv`, `it`, `nl`, `cy`, `in`, `und`, `ca`, `qme`, `de`, `fi`, `et`, `cs`, `lt`, `uk`, `da`, `ro`, `pt`, `ar`, `iw`, `tl`, `ht`, `pl`, `tr`, `eu`, `sl`, `zh`, `sv`, `ru`, `no`.
 
 ## Users Location
 
-By geocoding users location in their profile, I plot the map of distribution of users who involves in this event. Geocoding process is conducted via https://geocode.localfocus.nl/
+By geocoding users' locations provided in their profile, I plot the map of the distribution of users who involves in this event. Geocoding process is conducted via https://geocode.localfocus.nl/
 
 ![images](./user_loc.png)
 
 ## Map Wall
 
-The map wall includes 109\*77 maps. The file can be found in `.\static` folder. Since the maps were automatically collected from media url in tweets' metadata, you may find a few 'noise' or duplicate images.
+The map wall includes 109\*77 maps. The file can be found in `.\static` folder. Since the maps were automatically collected from media URLs in tweets' metadata, you may find a few 'noise' or duplicate images.
 
 ![images](static/mapwall_wbg.jpg)
 
