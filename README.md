@@ -18,6 +18,8 @@ Note:
 
 ## Daily Tweets Statistics
 
+There are around 8446 media (i.,e, images/gifs/videos) found in #30DayMapChallenge tweets in Nov 2022.
+
 ![images](./static/maps_daily.png)
 
 ## Top Favourited/:heart: Maps
@@ -45,11 +47,11 @@ By geocoding users location in their profile, I plot the map of distribution of 
 
 ![images](./user_loc.png)
 
-## Map Wall (to do)
+## Map Wall
 
-The map wall includes 95\*95 maps from the 9036 images attached in #30DayMapChallenge tweets. The map walls with different background can be found in `.\static` folder. Since the maps were automatically collected from media url in tweets' metadata, you may find a few 'noise' or duplicate images.
+The map wall includes 109\*77 maps. The file can be found in `.\static` folder. Since the maps were automatically collected from media url in tweets' metadata, you may find a few 'noise' or duplicate images.
 
-<!-- ![images](static/mapwall_white_64.jpg) -->
+![images](static/mapwall_wbg.jpg)
 
 ## #30DayMapChallenge stats in past years
 
